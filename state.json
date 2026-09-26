@@ -1,11 +1,20 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 199.9994,
-  "spent_eur": 0.0006,
+  "balance_eur": 199.9988,
+  "spent_eur": 0.0012,
   "revenue_eur": 0,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
-  "products": [],
+  "products": [
+    {
+      "title": "Effiziente Projektplanung Vorlage für Selbstständige",
+      "slug": "effiziente-projektplanung-vorlage",
+      "price_eur": 9,
+      "target": "deutsche Selbstständige und KMU, die Projekte effizient planen wollen",
+      "reason": "Es verkauft sich, weil es eine echte Zeitersparnis bietet und ein häufiges Problem bei Selbstständigen und kleinen Unternehmen löst.",
+      "created": "2026-09-26T13:30:03"
+    }
+  ],
   "log": [
     {
       "t": "2026-09-26T11:58:00",
@@ -31,6 +40,11 @@
       "t": "2026-09-26T13:28:17",
       "eur": 0,
       "why": "Fehler: [Errno 2] No such file or directory: '/home/runner/work/automaton-frankfurt/automaton-frankfurt/site/products/vertragsgenerator-freelancer.html'"
+    },
+    {
+      "t": "2026-09-26T13:30:03",
+      "eur": -0.0005616,
+      "why": "KI-Denken: Effiziente Projektplanung Vorlage für Selbstständige"
     }
   ],
   "alive": true,
