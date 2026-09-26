@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.6107,
-  "spent_eur": 0.0593,
+  "balance_eur": 504.6079,
+  "spent_eur": 0.0621,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -174,6 +174,25 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/4gM14ocUxdxNeqO1cg2kw08",
       "payment_link_id": "plink_1UK21VJ5iOXkWb9VWcdj9UfN"
+    },
+    {
+      "type": "excel",
+      "title": "Freelancer-Invoice-Tracker für internationale Aufträge",
+      "slug": "freelancer-invoice-tracker-international",
+      "price_eur": 7,
+      "target": "Freelancer mit internationalen Kunden",
+      "reason": "International tätige Freelancer brauchen ein einfaches System zur Rechnungsverfolgung mit Währungsumrechnung - vorhandene Lösungen sind meist überteuerte SaaS-Tools. Diese Excel-Vorlage bietet sofort nutzbare Automatisierung für faire 7€.",
+      "language": "de",
+      "pitch": "Automatische Rechnungsverfolgung mit Währungsumrechnung. Behalten Sie den Überblick über offene Zahlungen in verschiedenen Währungen.",
+      "content_html": "<h2>Inhalt</h2><p>Automatische Rechnungsverfolgung mit Währungsrechner (EUR/USD/GBP), Fälligkeitsalarm, Zahlungseingangskontrolle und Umsatzstatistik.</p>",
+      "created": "2026-09-26T22:57:46",
+      "file": "freelancer-invoice-tracker-international-be3854f99b0223cb.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/14AaEYg6J1P50zY5sw2kw09",
+      "payment_link_id": "plink_1UK4XgJ5iOXkWb9VWJNhNIMs"
     }
   ],
   "log": [
@@ -321,6 +340,16 @@
       "t": "2026-09-26T20:14:37",
       "eur": -0.0041232,
       "why": "KI-Pruefung: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
+    },
+    {
+      "t": "2026-09-26T22:57:46",
+      "eur": -0.0017795999999999999,
+      "why": "KI-Denken: Freelancer-Invoice-Tracker für internationale Aufträge"
+    },
+    {
+      "t": "2026-09-26T22:57:46",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Freelancer-Invoice-Tracker für internationale Aufträge"
     }
   ],
   "alive": true,
