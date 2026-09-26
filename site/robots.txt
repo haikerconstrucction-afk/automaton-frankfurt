@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /dl/
+Disallow: /status.html
+Sitemap: https://haikerconstrucction-afk.github.io/automaton-frankfurt/sitemap.xml
