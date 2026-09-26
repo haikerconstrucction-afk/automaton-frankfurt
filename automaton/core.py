@@ -29,7 +29,7 @@ def think(s):
     prompt = f"""Du bist ein autonomer Unternehmer-Agent. Du ueberlebst nur, wenn du Geld verdienst.
 Kontostand: {s['balance_eur']} EUR. Umsatz bisher: {s['revenue_eur']} EUR. Phase: {phase['name']} - {phase['goal']}
 Bisherige Produkte: {[p['title'] for p in s['products']]}
-Regeln: legal, ehrlich, kein Spam, keine Finanz-/Rechtsberatung, deutsche Sprache.
+Regeln: legal, ehrlich, kein Spam, keine Finanz-/Rechts-/Steuerberatung, keine Vertraege oder Rechtsvorlagen, keine Gesundheitsversprechen, deutsche Sprache.
 Erstelle GENAU EIN neues, konkretes digitales Produkt, das Menschen wirklich nutzen. Antworte NUR als JSON:
 {{"title":"...","slug":"kebab-case","price_eur":9,"target":"...","pitch":"2 Saetze","content_html":"<h2>...</h2> vollstaendiger Produktinhalt/Vorschau","reason":"warum es sich verkauft"}}"""
     key = os.getenv("LLM_API_KEY")
@@ -51,6 +51,7 @@ def act(s, p):
     html = f"""<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
 <title>{p['title']}</title><link rel="stylesheet" href="../style.css"><main><a href="../">← Alle Produkte</a>
 <h1>{p['title']}</h1><p class="pitch">{p['pitch']}</p>{buy}<article>{p['content_html']}</article></main></html>"""
+    (ROOT/"site/products").mkdir(parents=True, exist_ok=True)
     (ROOT/"site/products"/f"{p['slug']}.html").write_text(html)
     s["products"].append({k: p[k] for k in ("title", "slug", "price_eur", "target", "reason")} | {"created": now})
 
