@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 199.9988,
-  "spent_eur": 0.0012,
+  "balance_eur": 199.9975,
+  "spent_eur": 0.0025,
   "revenue_eur": 0,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -13,6 +13,18 @@
       "target": "deutsche Selbstständige und KMU, die Projekte effizient planen wollen",
       "reason": "Es verkauft sich, weil es eine echte Zeitersparnis bietet und ein häufiges Problem bei Selbstständigen und kleinen Unternehmen löst.",
       "created": "2026-09-26T13:30:03"
+    },
+    {
+      "title": "Kosten- und Zeitmanagement-Tracker für Selbstständige",
+      "slug": "kosten-und-zeitmanagement-tracker",
+      "price_eur": 9,
+      "target": "Selbstständige und KMU, die ihre Projekte effizienter planen und Kosten kontrollieren möchten",
+      "reason": "Selbstständige und KMU benötigen einfache Werkzeuge, um ihre Projekte effizient zu verwalten. Diese Vorlage bietet eine klare Struktur und ermöglicht es, Kosten und Arbeitszeiten leicht zu erfassen und zu analysieren.",
+      "language": "de",
+      "created": "2026-09-26T13:40:57",
+      "file": "kosten-und-zeitmanagement-tracker-58eafaffad2d3c6b.xlsx",
+      "rows": 11,
+      "sales": 0
     }
   ],
   "log": [
@@ -45,6 +57,11 @@
       "t": "2026-09-26T13:30:03",
       "eur": -0.0005616,
       "why": "KI-Denken: Effiziente Projektplanung Vorlage für Selbstständige"
+    },
+    {
+      "t": "2026-09-26T13:40:57",
+      "eur": -0.0013104,
+      "why": "KI-Denken: Kosten- und Zeitmanagement-Tracker für Selbstständige"
     }
   ],
   "alive": true,
