@@ -159,7 +159,12 @@ def page(p):
     kind = "E-Book · PDF" if p.get("type") == "ebook" else "Excel-Vorlage"
     buy = (f'<a class="btn big" href="{p["pay_url"]}">Jetzt kaufen – {p["price_eur"]} {cur}</a>' if p.get("pay_url")
            else '<span class="btn off">Verkauf startet in Kürze</span>')
-    html = HEAD.format(lang=p.get("language","de"), title=f"{p['title']} – Haiktec", desc=(p.get('pitch') or '')[:155], r="../") + f"""
+    ld = json.dumps({"@context": "https://schema.org", "@type": "Product", "name": p["title"], "description": p.get("pitch", ""),
+        "brand": {"@type": "Brand", "name": "Haiktec"}, "offers": {"@type": "Offer", "price": p["price_eur"],
+        "priceCurrency": "USD" if p.get("language") == "en" else "EUR", "availability": "https://schema.org/InStock",
+        "url": f"{SITE}/products/{p['slug']}.html"}}, ensure_ascii=False)
+    seo = f'<script type="application/ld+json">{ld}</script><meta property="og:title" content="{p["title"]}"><meta property="og:description" content="{(p.get("pitch") or "")[:155]}"><meta property="og:type" content="product"><link rel="canonical" href="{SITE}/products/{p["slug"]}.html">'
+    html = HEAD.format(lang=p.get("language","de"), title=f"{p['title']} – Haiktec", desc=(p.get('pitch') or '')[:155], r="../").replace("</head>", seo + "</head>") + f"""
 <main class="wrap product"><a class="back" href="../index.html#produkte">← Alle Produkte</a><div class="pgrid">
 <div class="cover big {p.get('type','excel')}"><span>{kind}</span></div>
 <div><p class="eyebrow">{kind}</p><h1>{p['title']}</h1><p class="lead">{p.get('pitch','')}</p>{buy}
@@ -262,13 +267,22 @@ def storefront(s):
 <section class="trust"><div class="wrap"><div><b>Sofort-Download</b><span>direkt nach der Zahlung</span></div><div><b>Sichere Zahlung</b><span>Karte, Apple Pay, Google Pay via Stripe</span></div><div><b>Einmalpreis</b><span>kein Abo, keine versteckten Kosten</span></div></div></section>
 <section id="produkte" class="wrap"><h2>Produkte</h2><div class="grid">{cards}</div></section>""" + FOOT.format(r="") + "</body></html>")
 
+def seo_files(s):
+    urls = [f"{SITE}/index.html"] + [f"{SITE}/products/{p['slug']}.html" for p in s["products"] if not p.get("retired") and p.get("pay_url")]
+    (ROOT/"site/sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+        + "".join(f"<url><loc>{u}</loc><lastmod>{now[:10]}</lastmod></url>" for u in urls) + "</urlset>")
+    (ROOT/"site/robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /dl/\nDisallow: /status.html\nSitemap: {SITE}/sitemap.xml\n")
+
 def render(s):
     days = (datetime.datetime.fromisoformat(now) - datetime.datetime.fromisoformat(s["born"])).days
     burn = s["spent_eur"] / max(days, 1)
     life = "∞" if burn == 0 else f"{int(s['balance_eur']/burn)} Tage"
     items = "".join(f'<li><a href="products/{p["slug"]}.html">{p["title"]}</a> – {p["price_eur"]} {"$" if p.get("language")=="en" else "€"} · {p.get("sales",0)} verkauft</li>' for p in reversed(s["products"]) if not p.get("retired"))
     status = "LEBT" if s["alive"] else "TOT"
-    storefront(s)
+    storefront(s); seo_files(s)
+    try:
+        import channels; channels.sync_all(s, log=lambda m: s["log"].append({"t": now, "eur": 0, "why": m}), book=lambda e, w: book(s, e, w))
+    except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Kanal-Fehler: {e}"})
     (ROOT/"site/status.html").write_text(f"""<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><meta name="robots" content="noindex">
 <title>Status</title><link rel="stylesheet" href="style.css"><main><h1>Automaton Frankfurt</h1>
 <div class="kpis"><div><b>{status}</b>Status</div><div><b>{s['balance_eur']:.2f} €</b>Kontostand</div>
