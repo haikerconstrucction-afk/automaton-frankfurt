@@ -1,0 +1,4 @@
+body{font-family:system-ui,sans-serif;background:#f7f6f2;color:#1d1d1b;margin:0}main{max-width:760px;margin:auto;padding:2rem}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem}.kpis div{background:#fff;padding:1rem;border-radius:8px}
+.kpis b{display:block;font-size:1.4rem}.buy{display:inline-block;background:#0b6e4f;color:#fff;padding:.7rem 1.2rem;border-radius:6px;text-decoration:none}
+a{color:#0b6e4f}.pitch{font-size:1.15rem}

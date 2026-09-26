@@ -1,0 +1,24 @@
+name: automaton
+on:
+  schedule: [{cron: "0 */6 * * *"}]
+  workflow_dispatch:
+permissions: {contents: write, pages: write, id-token: write}
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python automaton/core.py
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
+          STRIPE_PAYMENT_LINK_BASE: ${{ secrets.STRIPE_PAYMENT_LINK_BASE }}
+      - run: |
+          git config user.name automaton && git config user.email automaton@users.noreply.github.com
+          git add -A && git commit -m "Automaton-Lauf $(date -u +%F-%H%M)" || true
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: site}
+      - uses: actions/deploy-pages@v4
