@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.6251,
-  "spent_eur": 0.0449,
+  "balance_eur": 504.6107,
+  "spent_eur": 0.0593,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -155,6 +155,25 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/aFacN63jXfFV0zY4os2kw07",
       "payment_link_id": "plink_1UK08zJ5iOXkWb9VVdRvIdgJ"
+    },
+    {
+      "type": "ebook",
+      "title": "7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige",
+      "slug": "7-schritte-guide-kundenakquise-selbststaendige",
+      "price_eur": 7,
+      "target": "deutsche Selbstständige und Kleinunternehmer, die neue Kunden gewinnen wollen",
+      "reason": "Kundenakquise ist eines der größten Probleme für Selbstständige. Ein praktischer Guide mit sofort umsetzbaren Schriften füllt eine wichtige Lücke im Angebot. Der Preis von 7€ ist gerechtfertigt durch die klaren, praxisnahen Strategien, die dem Leser helfen, direkt mehr Umsatz zu generieren.",
+      "language": "de",
+      "pitch": "Praktische Strategien für mehr Kundengewinnung ohne teure Werbung. Bewährte Methoden, die sofort umsetzbar sind.",
+      "content_html": "<h2>Inhalt</h2><ul><li>1. Kapitel: Die Grundlagen der Kundenakquise</li><li>2. Kapitel: Zielgruppe definieren</li><li>3. Kapitel: Kostenlose Marketingkanäle nutzen</li><li>4. Kapitel: Effektives Networking</li><li>5. Kapitel: Referenzen aufbauen</li><li>6. Kapitel: Kaltakquise ohne aufdringlich zu sein</li><li>7. Kapitel: Langfristige Kundenbindung</li></ul><h3>Leseprobe:</h3> Das Wichtigste bei der Kundenakquise ist nicht der erste Kontakt, sondern der zweite. Erfahren Sie im Kapitel 5, wie Sie aus einmaligen Aufträgen Stammkunden machen.",
+      "created": "2026-09-26T20:14:37",
+      "file": "7-schritte-guide-kundenakquise-selbststaendige-200664783794c283.pdf",
+      "size": 2770,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/4gM14ocUxdxNeqO1cg2kw08",
+      "payment_link_id": "plink_1UK21VJ5iOXkWb9VWcdj9UfN"
     }
   ],
   "log": [
@@ -292,6 +311,16 @@
       "t": "2026-09-26T18:15:18",
       "eur": -0.0012996,
       "why": "KI-Pruefung: Zeit- und Projektbudget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-26T20:14:37",
+      "eur": -0.010327199999999998,
+      "why": "KI-Denken: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
+    },
+    {
+      "t": "2026-09-26T20:14:37",
+      "eur": -0.0041232,
+      "why": "KI-Pruefung: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
     }
   ],
   "alive": true,
