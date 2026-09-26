@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.6284,
-  "spent_eur": 0.0416,
+  "balance_eur": 504.6251,
+  "spent_eur": 0.0449,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -136,6 +136,25 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/28E3cw2fTalBbeC8EI2kw06",
       "payment_link_id": "plink_1UJxpMJ5iOXkWb9VWNvmC3ke"
+    },
+    {
+      "type": "excel",
+      "title": "Zeit- und Projektbudget-Tracker für Selbstständige",
+      "slug": "zeit-und-projektbudget-tracker",
+      "price_eur": 7,
+      "target": "Selbstständige und Kleinunternehmer, die ihre Zeit und Projektkosten effizient verwalten möchten",
+      "reason": "Diese Vorlage bietet eine klare und effiziente Möglichkeit, Projekte und Budgets zu planen und zu überwachen. Sie ist perfekt für Selbstständige, die ihre Ressourcen optimal einsetzen möchten.",
+      "language": "de",
+      "pitch": "Verwalte deine Projekte und Budgets im Blick mit dieser intuitiven Excel-Vorlage. Plane, tracke und optimiere deine Ressourcen einfach und effizient.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft dir, deine Projekte zu planen, das Zeitbudget zu tracken und die Projektkosten im Blick zu behalten. Sie enthält automatische Berechnungen für Zeitaufwand, Kosten und Prognosen.</p>",
+      "created": "2026-09-26T18:15:18",
+      "file": "zeit-und-projektbudget-tracker-03e8deef922ec058.xlsx",
+      "size": 15,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/aFacN63jXfFV0zY4os2kw07",
+      "payment_link_id": "plink_1UK08zJ5iOXkWb9VVdRvIdgJ"
     }
   ],
   "log": [
@@ -263,6 +282,16 @@
       "t": "2026-09-26T15:56:00",
       "eur": 0,
       "why": "Fehler: Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-26T18:15:18",
+      "eur": -0.0020375999999999997,
+      "why": "KI-Denken: Zeit- und Projektbudget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-26T18:15:18",
+      "eur": -0.0012996,
+      "why": "KI-Pruefung: Zeit- und Projektbudget-Tracker für Selbstständige"
     }
   ],
   "alive": true,
