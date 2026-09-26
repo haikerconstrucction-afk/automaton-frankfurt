@@ -299,10 +299,11 @@ def main():
     started = datetime.datetime.fromisoformat(s["phase_started"])
     if s["phase"] + 1 < len(CFG["phases"]) and (datetime.datetime.fromisoformat(now) - started).days >= CFG["phases"][s["phase"]]["min_days"]:
         s["phase"] += 1; s["phase_started"] = now
-    try:
-        product, cost = think(s); book(s, -cost, f"KI-Denken: {product['title']}"); act(s, product)
-    except Exception as e:
-        s["log"].append({"t": now, "eur": 0, "why": f"Fehler: {e}"})
+    for attempt in range(3):  # bis zu 3 Versuche, bis ein Produkt die Pruefung besteht
+        try:
+            product, cost = think(s); book(s, -cost, f"KI-Denken: {product['title']}"); act(s, product); break
+        except Exception as e:
+            s["log"].append({"t": now, "eur": 0, "why": f"Fehler (Versuch {attempt+1}): {str(e)[:300]}"})
     try: retire_old(s)
     except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Retire-Fehler: {e}"})
     for p in [x for x in s["products"] if not x.get("retired")]:

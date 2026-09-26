@@ -1,6 +1,6 @@
 name: automaton
 on:
-  schedule: [{cron: "0 */3 * * *"}]
+  schedule: [{cron: "15 */2 * * *"}]
   workflow_dispatch:
 permissions: {issues: write, contents: write, pages: write, id-token: write}
 jobs:
