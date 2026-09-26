@@ -1,5 +1,5 @@
 {
-  "start_budget_eur": 200,
+  "start_budget_eur": 500,
   "max_spend_per_run_eur": 0.1,
   "approval_required_above_eur": 50,
   "phases": [
