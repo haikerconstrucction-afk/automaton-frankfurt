@@ -1,0 +1,16 @@
+{
+  "firma": "Max Mustermann e.K. / Mustermann GmbH",
+  "inhaber_oder_gf": "Max Mustermann",
+  "strasse": "Musterstraße 1",
+  "plz_ort": "60311 Frankfurt am Main",
+  "land": "Deutschland",
+  "email": "kontakt@example.de",
+  "telefon": "+49 69 000000",
+  "ust_id": "DE000000000",
+  "handelsregister": "",
+  "shopname": "Automaton Frankfurt",
+  "physische_waren": false,
+  "lebensmittel": false,
+  "lucid_nr": "",
+  "eori": ""
+}

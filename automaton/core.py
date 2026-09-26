@@ -174,7 +174,8 @@ def act(s, p):
     s["products"].append(rec)
 
 def sales_enabled():
-    return (ROOT/"impressum.json").exists()
+    import legal
+    return legal.build()
 
 def retire_old(s):
     """Produkte der ersten Generation (ohne Formeln/Pruefung) aus dem Verkauf nehmen."""
@@ -246,7 +247,8 @@ def render(s):
 <title>Automaton Frankfurt</title><link rel="stylesheet" href="style.css"><main><h1>Automaton Frankfurt</h1>
 <div class="kpis"><div><b>{status}</b>Status</div><div><b>{s['balance_eur']:.2f} €</b>Kontostand</div>
 <div><b>{s['revenue_eur']:.2f} €</b>Umsatz</div><div><b>{life}</b>Restlebenszeit</div></div>
-<p>Monatsumsatz: {monthly_revenue(s):.2f} € (Freelancer ab {CFG['freelancer']['min_monthly_revenue_eur']} €) · Jobs für Menschen: {sum(j['status']=='freigegeben' for j in s.get('jobs',[]))}</p><p>Phase: {CFG['phases'][s['phase']]['name']} · Alter: {days} Tage</p><h2>Produkte</h2><ul>{items}</ul></main></html>""")
+<p>Monatsumsatz: {monthly_revenue(s):.2f} € (Freelancer ab {CFG['freelancer']['min_monthly_revenue_eur']} €) · Jobs für Menschen: {sum(j['status']=='freigegeben' for j in s.get('jobs',[]))}</p><p>Phase: {CFG['phases'][s['phase']]['name']} · Alter: {days} Tage</p><h2>Produkte</h2><ul>{items}</ul>
+<footer><a href="impressum.html">Impressum</a> · <a href="agb.html">AGB</a> · <a href="widerruf.html">Widerruf</a> · <a href="datenschutz.html">Datenschutz</a></footer></main></html>""")
 
 def main():
     s = load()
