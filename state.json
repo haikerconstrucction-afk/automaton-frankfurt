@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 199.9975,
-  "spent_eur": 0.0025,
+  "balance_eur": 199.9958,
+  "spent_eur": 0.0042,
   "revenue_eur": 0,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -24,6 +24,20 @@
       "created": "2026-09-26T13:40:57",
       "file": "kosten-und-zeitmanagement-tracker-58eafaffad2d3c6b.xlsx",
       "rows": 11,
+      "sales": 0
+    },
+    {
+      "title": "Social-Media-Kalender Vorlage für Selbstständige",
+      "slug": "social-media-kalender-vorlage",
+      "price_eur": 9,
+      "target": "Selbstständige und Kleinunternehmer in Deutschland, die ihre Social-Media-Präsenz optimieren möchten",
+      "reason": "Social-Media ist für Selbstständige entscheidend, aber viele haben Schwierigkeiten, ihre Aktivitäten zu organisieren und zu verfolgen. Diese Vorlage bietet eine einfache und effektive Lösung.",
+      "language": "de",
+      "pitch": "Effiziente Planung und Übersicht aller Social-Media-Aktivitäten. Spare Zeit und bleibe organisiert.",
+      "content_html": "<h2>Was enthalten ist</h2> <ul><li>Kalender für die Planung von Beiträgen</li><li>Tracker für Engagement und Statistiken</li><li>Checkliste für optimale Postings</li></ul>",
+      "created": "2026-09-26T14:54:06",
+      "file": "social-media-kalender-vorlage-19b17d4f77790eac.xlsx",
+      "rows": 30,
       "sales": 0
     }
   ],
@@ -62,6 +76,11 @@
       "t": "2026-09-26T13:40:57",
       "eur": -0.0013104,
       "why": "KI-Denken: Kosten- und Zeitmanagement-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-26T14:54:06",
+      "eur": -0.0017004,
+      "why": "KI-Denken: Social-Media-Kalender Vorlage für Selbstständige"
     }
   ],
   "alive": true,
