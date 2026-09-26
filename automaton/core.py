@@ -36,7 +36,7 @@ def stripe(method, path, data=None):
 
 def ensure_payment_link(p):
     """Eigenes Produkt + Preis + Zahlungslink in Stripe; nach Kauf Weiterleitung zum Download."""
-    if not os.getenv("STRIPE_SECRET_KEY") or p.get("pay_url") or not p.get("file"): return
+    if not os.getenv("STRIPE_SECRET_KEY") or p.get("pay_url") or not p.get("file") or p.get("retired") or not sales_enabled(): return
     prod = stripe("POST", "products", {"name": p["title"], "metadata[slug]": p["slug"]})
     cur = "usd" if p.get("language") == "en" else "eur"
     price = stripe("POST", "prices", {"product": prod["id"], "currency": cur, "unit_amount": int(float(p["price_eur"]) * 100)})
@@ -52,54 +52,106 @@ def count_sales(s):
             r = stripe("GET", f"checkout/sessions?payment_link={p['payment_link_id']}&status=complete&limit=100")
             p["sales"] = len(r["data"])
 
+RULES = """Regeln: legal, ehrlich, kein Spam, keine Finanz-/Rechts-/Steuerberatung, keine Steuer- oder Pauschalwerte,
+keine Vertraege/Rechtsvorlagen, keine Gesundheitsversprechen, keine Marken/Figuren/Personen Dritter, keine Kopien bestehender Werke.
+Aktuelles Jahr: 2026."""
+
+TYPES = {
+ "excel": """eine Excel-Vorlage (Tracker/Planer/Rechner) mit ECHTEN Formeln. JSON:
+{"type":"excel","title":"...","slug":"kebab-case","price_eur":7,"target":"...","language":"de|en","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2>...",
+"guide":["Schritt 1",...],"sheets":[{"name":"max 30 Zeichen","columns":["..."],"rows":[["Wert","=B2*C2",...]],"blank_rows":30,"total_row":["Summe","","=SUM(C2:C40)"]}],"reason":"..."}
+Formeln als Strings mit '=' (englische Funktionsnamen, Komma als Trenner). Mind. 5 Beispielzeilen mit Datum 2026, blank_rows fuer Nutzer.""",
+ "ebook": """ein kurzes E-Book (Ratgeber mit konkreten Schritten ODER eine Sammlung origineller Kurzgeschichten, z.B. Gute-Nacht-Geschichten fuer Kinder). JSON:
+{"type":"ebook","title":"...","slug":"kebab-case","price_eur":5,"target":"...","language":"de|en","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2> Inhaltsverzeichnis + Leseprobe",
+"chapters":[{"heading":"...","text":"mind. 350 Woerter, Absaetze mit \\n\\n getrennt"}],"reason":"..."}
+Mindestens 6 Kapitel.""",
+}
+
 def think(s):
     phase = CFG["phases"][s["phase"]]
-    prompt = f"""Du bist ein autonomer Unternehmer-Agent. Du ueberlebst nur, wenn du Geld verdienst.
-Kontostand: {s['balance_eur']} EUR. Umsatz bisher: {s['revenue_eur']} EUR. Phase: {phase['name']} - {phase['goal']}
-Bisherige Produkte: {[p['title'] for p in s['products']]}
-Regeln: legal, ehrlich, kein Spam, keine Finanz-/Rechts-/Steuerberatung, keine Vertraege oder Rechtsvorlagen, keine Gesundheitsversprechen, deutsche Sprache.
-Markt: {"Deutschland (Sprache Deutsch)" if len(s['products']) % 2 == 0 else "weltweit (Sprache Englisch)"}.
-Erstelle GENAU EIN neues, konkretes digitales Produkt (Excel-Vorlage/Tracker/Checkliste), das Menschen wirklich nutzen.
-Die Datei wird aus deinen 'sheets' erzeugt - liefere echten, sofort nutzbaren Inhalt (mind. 15 Zeilen je Blatt, keine Platzhalter).
-Antworte NUR als JSON:
-{{"title":"...","slug":"kebab-case","price_eur":9,"target":"...","language":"de|en","pitch":"2 Saetze","content_html":"<h2>...</h2> Vorschau: was enthalten ist",
-"sheets":[{{"name":"max 30 Zeichen","columns":["..."],"rows":[["..."]]}}],"guide":["Anleitungsschritt 1","..."],"reason":"warum es sich verkauft"}}"""
-    key = os.getenv("LLM_API_KEY")
-    if not key:  # Trockenlauf ohne Kosten
-        return {"title": "Testprodukt", "slug": f"test-{len(s['products'])}", "price_eur": 5, "target": "Test",
-                "pitch": "Trockenlauf.", "content_html": "<p>Demo</p>", "reason": "kein API-Key"}, 0
-    body = json.dumps({"model": CFG["model"], "messages": [{"role": "user", "content": prompt}],
-                       "response_format": {"type": "json_object"}}).encode()
-    req = urllib.request.Request(os.getenv("LLM_BASE_URL", "https://openrouter.ai/api/v1") + "/chat/completions",
-                                 data=body, headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
-    r = json.load(urllib.request.urlopen(req, timeout=120))
-    text = r["choices"][0]["message"]["content"]
-    cost = r.get("usage", {}).get("total_tokens", 4000) / 1000 * CFG["eur_per_1k_tokens"]
-    return json.loads(re.search(r"\{.*\}", text, re.S).group(0)), min(cost, CFG["max_spend_per_run_eur"]) or 0.001
+    live = [p for p in s["products"] if not p.get("retired")]
+    kind = ["excel", "ebook"][len(s["products"]) % 2]
+    market = "Deutschland (Deutsch)" if (len(s["products"]) // 2) % 2 == 0 else "weltweit (Englisch)"
+    prompt = f"""Du bist ein autonomer Unternehmer-Agent und ueberlebst nur, wenn Menschen deine Produkte kaufen.
+Kontostand {s['balance_eur']:.2f} EUR, Umsatz {s['revenue_eur']:.2f} EUR. Phase: {phase['goal']}
+Bestehende Produkte (nicht wiederholen): {[p['title'] for p in s['products']]}
+Verkaufszahlen: {[(p['title'], p.get('sales',0)) for p in live]}
+{RULES}
+Markt: {market}. Erstelle GENAU EIN neues Produkt: {TYPES[kind]}
+Es muss den Preis klar wert sein. Antworte NUR als JSON."""
+    p, cost = llm_json(prompt)
+    if p is None:
+        raise RuntimeError("kein LLM_API_KEY - Schlafmodus")
+    p["type"] = kind
+    return p, max(cost, 0.001)
 
-def build_file(p):
-    import secrets
+def review(p):
+    """Zweite KI prueft Qualitaet und Regeln. Nur Score >= 7 geht in den Verkauf."""
+    sample = json.dumps({k: p.get(k) for k in ("title", "price_eur", "target", "guide", "sheets", "chapters")}, ensure_ascii=False)[:12000]
+    r, cost = llm_json(f"""Du bist ein strenger Qualitaetspruefer fuer digitale Produkte. {RULES}
+Wuerde ein zahlender Kunde dieses Produkt fuer {p.get('price_eur')} EUR als fair empfinden? Verstoesst es gegen eine Regel?
+Pruefe bei Excel, ob Formeln sinnvoll sind. Produkt: {sample}
+Antworte NUR als JSON: {{"score": 1-10, "rule_violation": true|false, "issues": "kurz"}}""")
+    ok = r and int(r.get("score", 0)) >= 7 and not r.get("rule_violation")
+    return bool(ok), r, cost
+
+def build_excel(p, path):
     from openpyxl import Workbook
     from openpyxl.styles import Font, PatternFill
     wb = Workbook(); ws = wb.active; ws.title = "Anleitung" if p.get("language","de") == "de" else "Guide"
     ws.append([p["title"]]); ws["A1"].font = Font(bold=True, size=14)
     for i, g in enumerate(p.get("guide", []), 1): ws.append([f"{i}. {g}"])
     ws.column_dimensions["A"].width = 100
+    n = 0; formulas = 0
     for sh in p.get("sheets", [])[:6]:
         w = wb.create_sheet(str(sh["name"])[:30].replace("/", "-"))
         w.append(sh["columns"])
         for c in w[1]: c.font = Font(bold=True, color="FFFFFF"); c.fill = PatternFill("solid", fgColor="0B6E4F")
-        for r in sh["rows"][:500]: w.append([str(x) for x in r])
-        for col in w.columns: w.column_dimensions[col[0].column_letter].width = 24
+        for r in sh.get("rows", [])[:300]:
+            row = []
+            for x in r:
+                if isinstance(x, str) and x.startswith("="): formulas += 1; row.append(x)
+                else:
+                    try: row.append(float(x) if isinstance(x, str) and re.fullmatch(r"-?\d+(\.\d+)?", x) else x)
+                    except Exception: row.append(x)
+            w.append(row); n += 1
+        for _ in range(int(sh.get("blank_rows", 20))): w.append([None])
+        if sh.get("total_row"): w.append(sh["total_row"]); [setattr(c, "font", Font(bold=True)) for c in w[w.max_row]]
+        for col in w.columns: w.column_dimensions[col[0].column_letter].width = 22
         w.freeze_panes = "A2"
+    wb.save(path)
+    if p["type"] == "excel" and formulas < 3: raise RuntimeError("Excel ohne echte Formeln - verworfen")
+    return n
+
+def build_pdf(p, path):
+    from reportlab.lib.pagesizes import A5
+    from reportlab.lib.styles import getSampleStyleSheet
+    from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
+    from xml.sax.saxutils import escape
+    st = getSampleStyleSheet(); story = [Spacer(1, 120), Paragraph(escape(p["title"]), st["Title"]),
+                                         Paragraph(escape(p.get("pitch", "")), st["Italic"]), PageBreak()]
+    words = 0
+    for ch in p.get("chapters", []):
+        story.append(Paragraph(escape(ch["heading"]), st["Heading2"]))
+        for para in str(ch["text"]).split("\n\n"):
+            words += len(para.split()); story += [Paragraph(escape(para), st["BodyText"]), Spacer(1, 6)]
+        story.append(PageBreak())
+    SimpleDocTemplate(str(path), pagesize=A5, title=p["title"]).build(story)
+    if words < 1500: raise RuntimeError(f"E-Book zu kurz ({words} Woerter) - verworfen")
+    return words
+
+def build_file(p):
+    import secrets
     d = ROOT/"site/dl"; d.mkdir(parents=True, exist_ok=True)
-    name = f"{p['slug']}-{secrets.token_hex(8)}.xlsx"; wb.save(d/name)
-    return name, sum(len(sh["rows"]) for sh in p.get("sheets", []))
+    ext = "pdf" if p["type"] == "ebook" else "xlsx"
+    name = f"{p['slug']}-{secrets.token_hex(8)}.{ext}"
+    size = (build_pdf if ext == "pdf" else build_excel)(p, d/name)
+    return name, size
 
 def page(p):
     cur = "$" if p.get("language") == "en" else "€"
     buy = (f'<a class="buy" href="{p["pay_url"]}">Jetzt kaufen – {p["price_eur"]} {cur}</a>' if p.get("pay_url")
-           else '<p class="buy">Kauf bald verfügbar</p>')
+           else '<p class="buy">Verkauf startet in Kürze</p>')
     html = f"""<!doctype html><html lang="{p.get('language','de')}"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
 <title>{p['title']}</title><link rel="stylesheet" href="../style.css"><main><a href="../">← Alle Produkte</a>
 <h1>{p['title']}</h1><p class="pitch">{p.get('pitch','')}</p>{buy}<article>{p.get('content_html','')}</article>
@@ -108,11 +160,26 @@ def page(p):
     (ROOT/"site/products"/f"{p['slug']}.html").write_text(html)
 
 def act(s, p):
-    fname, nrows = build_file(p)
-    if nrows < 10: raise RuntimeError(f"Produkt zu duenn ({nrows} Zeilen) - verworfen")
-    rec = {k: p.get(k) for k in ("title", "slug", "price_eur", "target", "reason", "language", "pitch", "content_html")}
-    rec |= {"created": now, "file": fname, "rows": nrows, "sales": 0}
+    ok, verdict, cost = review(p); book(s, -max(cost, 0.001), f"KI-Pruefung: {p['title']}")
+    if not ok: raise RuntimeError(f"Qualitaetspruefung nicht bestanden: {verdict}")
+    fname, size = build_file(p)
+    rec = {k: p.get(k) for k in ("type", "title", "slug", "price_eur", "target", "reason", "language", "pitch", "content_html")}
+    rec |= {"created": now, "file": fname, "size": size, "sales": 0, "score": verdict.get("score"), "quality": 2}
     s["products"].append(rec)
+
+def sales_enabled():
+    return (ROOT/"impressum.json").exists()
+
+def retire_old(s):
+    """Produkte der ersten Generation (ohne Formeln/Pruefung) aus dem Verkauf nehmen."""
+    for p in s["products"]:
+        if p.get("quality") != 2 and not p.get("retired"):
+            if p.get("payment_link_id") and os.getenv("STRIPE_SECRET_KEY"):
+                stripe("POST", f"payment_links/{p['payment_link_id']}", {"active": "false"})
+            p["retired"] = True; p.pop("pay_url", None)
+            f = ROOT/"site/products"/f"{p['slug']}.html"
+            if f.exists(): f.unlink()
+            if p.get("file") and (ROOT/"site/dl"/p["file"]).exists(): (ROOT/"site/dl"/p["file"]).unlink()
 
 def monthly_revenue(s):
     cutoff = datetime.datetime.fromisoformat(now) - datetime.timedelta(days=30)
@@ -125,7 +192,7 @@ def llm_json(prompt):
                        "response_format": {"type": "json_object"}}).encode()
     req = urllib.request.Request(os.getenv("LLM_BASE_URL", "https://openrouter.ai/api/v1") + "/chat/completions",
                                  data=body, headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
-    r = json.load(urllib.request.urlopen(req, timeout=120))
+    r = json.load(urllib.request.urlopen(req, timeout=300))
     cost = r.get("usage", {}).get("total_tokens", 4000) / 1000 * CFG["eur_per_1k_tokens"]
     return json.loads(re.search(r"\{.*\}", r["choices"][0]["message"]["content"], re.S).group(0)), cost
 
@@ -167,7 +234,7 @@ def render(s):
     days = (datetime.datetime.fromisoformat(now) - datetime.datetime.fromisoformat(s["born"])).days
     burn = s["spent_eur"] / max(days, 1)
     life = "∞" if burn == 0 else f"{int(s['balance_eur']/burn)} Tage"
-    items = "".join(f'<li><a href="products/{p["slug"]}.html">{p["title"]}</a> – {p["price_eur"]} {"$" if p.get("language")=="en" else "€"} · {p.get("sales",0)} verkauft</li>' for p in reversed(s["products"]))
+    items = "".join(f'<li><a href="products/{p["slug"]}.html">{p["title"]}</a> – {p["price_eur"]} {"$" if p.get("language")=="en" else "€"} · {p.get("sales",0)} verkauft</li>' for p in reversed(s["products"]) if not p.get("retired"))
     status = "LEBT" if s["alive"] else "TOT"
     (ROOT/"site/index.html").write_text(f"""<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
 <title>Automaton Frankfurt</title><link rel="stylesheet" href="style.css"><main><h1>Automaton Frankfurt</h1>
@@ -185,11 +252,12 @@ def main():
     if s["phase"] + 1 < len(CFG["phases"]) and (datetime.datetime.fromisoformat(now) - started).days >= CFG["phases"][s["phase"]]["min_days"]:
         s["phase"] += 1; s["phase_started"] = now
     try:
-        if not os.getenv("LLM_API_KEY"): raise RuntimeError("kein LLM_API_KEY - Schlafmodus")
         product, cost = think(s); book(s, -cost, f"KI-Denken: {product['title']}"); act(s, product)
     except Exception as e:
         s["log"].append({"t": now, "eur": 0, "why": f"Fehler: {e}"})
-    for p in s["products"]:
+    try: retire_old(s)
+    except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Retire-Fehler: {e}"})
+    for p in [x for x in s["products"] if not x.get("retired")]:
         try: ensure_payment_link(p)
         except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Stripe-Fehler {p['slug']}: {e}"})
         if p.get("content_html") is not None or p.get("pay_url"): page(p)

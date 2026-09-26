@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: pip install -q openpyxl
+      - run: pip install -q openpyxl reportlab
       - run: python automaton/core.py
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
