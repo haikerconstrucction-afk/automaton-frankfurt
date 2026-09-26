@@ -1,8 +1,8 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 199.9727,
-  "spent_eur": 0.0273,
-  "revenue_eur": 0,
+  "balance_eur": 204.6313,
+  "spent_eur": 0.0387,
+  "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
   "products": [
@@ -93,7 +93,7 @@
       "created": "2026-09-26T15:14:53",
       "file": "effizientes-selbstmanagement-fuer-selbststaendige-17add199237d574a.pdf",
       "size": 2346,
-      "sales": 0,
+      "sales": 1,
       "score": 7,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/5kQ00kaMp9hxgyW8EI2kw04",
@@ -117,6 +117,25 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/28E14ocUxctJ82qf362kw05",
       "payment_link_id": "plink_1UJxgUJ5iOXkWb9VqlMBU1Kt"
+    },
+    {
+      "type": "ebook",
+      "title": "The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners",
+      "slug": "ultimate-guide-time-blocking-freelancers-small-business-owners",
+      "price_eur": 5,
+      "target": "Freelancers, self-employed individuals, and small business owners",
+      "reason": "Freelancers and small business owners often struggle with time management, leading to stress and reduced productivity. This ebook provides a comprehensive guide to time blocking, offering practical steps and advanced techniques to help them achieve more in less time. The competitive price of 5 EUR makes it an accessible solution for anyone looking to improve their time management skills.",
+      "language": "en",
+      "pitch": "Master the art of time blocking with this step-by-step guide. Boost productivity, reduce stress, and achieve more in less time.",
+      "content_html": "<h2>Content</h2> Table of Contents + Sample Chapter",
+      "created": "2026-09-26T15:45:49",
+      "file": "ultimate-guide-time-blocking-freelancers-small-business-owners-76245781204eb34e.pdf",
+      "size": 2940,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/28E3cw2fTalBbeC8EI2kw06",
+      "payment_link_id": "plink_1UJxpMJ5iOXkWb9VWNvmC3ke"
     }
   ],
   "log": [
@@ -209,8 +228,24 @@
       "t": "2026-09-26T15:38:28",
       "eur": -0.001,
       "why": "KI-Pruefung: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
+    },
+    {
+      "t": "2026-09-26T15:45:49",
+      "eur": 4.67,
+      "why": "Stripe-Umsatz"
+    },
+    {
+      "t": "2026-09-26T15:45:49",
+      "eur": -0.0079932,
+      "why": "KI-Denken: The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners"
+    },
+    {
+      "t": "2026-09-26T15:45:49",
+      "eur": -0.0033612,
+      "why": "KI-Pruefung: The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners"
     }
   ],
   "alive": true,
-  "jobs": []
+  "jobs": [],
+  "stripe_seen": 4.67
 }
