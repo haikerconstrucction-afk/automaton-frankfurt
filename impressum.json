@@ -4,7 +4,7 @@
   "strasse": "Thomasbrunnenstraße 3",
   "plz_ort": "75236 Kämpfelbach",
   "land": "Deutschland",
-  "email": "",
+  "email": "Haiktec@outlook.de",
   "telefon": "",
   "ust_id": "",
   "handelsregister": "",
@@ -12,5 +12,6 @@
   "physische_waren": false,
   "lebensmittel": false,
   "lucid_nr": "",
-  "eori": ""
+  "eori": "",
+  "kleinunternehmer": true
 }

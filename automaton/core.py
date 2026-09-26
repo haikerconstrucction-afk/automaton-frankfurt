@@ -161,7 +161,7 @@ def page(p):
     html = f"""<!doctype html><html lang="{p.get('language','de')}"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
 <title>{p['title']}</title><link rel="stylesheet" href="../style.css"><main><a href="../">← Alle Produkte</a>
 <h1>{p['title']}</h1><p class="pitch">{p.get('pitch','')}</p>{buy}<article>{p.get('content_html','')}</article>
-<p><small>Digitales Produkt (Excel). Sofortiger Download nach Zahlung. Anbieter: siehe Impressum.</small></p></main></html>"""
+<p><small>Digitales Produkt ({"PDF" if p.get("type")=="ebook" else "Excel"}), sofortiger Download nach Zahlung. Endpreis, gemäß § 19 UStG wird keine Umsatzsteuer berechnet. Mit dem Kauf stimmen Sie zu, dass die Bereitstellung sofort beginnt, und bestätigen, dass Ihr Widerrufsrecht damit erlischt. <a href="../agb.html">AGB</a> · <a href="../widerruf.html">Widerruf</a> · <a href="../impressum.html">Impressum</a> · <a href="../datenschutz.html">Datenschutz</a></small></p></main></html>"""
     (ROOT/"site/products").mkdir(parents=True, exist_ok=True)
     (ROOT/"site/products"/f"{p['slug']}.html").write_text(html)
 
