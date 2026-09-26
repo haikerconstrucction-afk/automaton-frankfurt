@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 199.9937,
-  "spent_eur": 0.0063,
+  "balance_eur": 199.9906,
+  "spent_eur": 0.0094,
   "revenue_eur": 0,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -12,7 +12,8 @@
       "price_eur": 9,
       "target": "deutsche Selbstständige und KMU, die Projekte effizient planen wollen",
       "reason": "Es verkauft sich, weil es eine echte Zeitersparnis bietet und ein häufiges Problem bei Selbstständigen und kleinen Unternehmen löst.",
-      "created": "2026-09-26T13:30:03"
+      "created": "2026-09-26T13:30:03",
+      "retired": true
     },
     {
       "title": "Kosten- und Zeitmanagement-Tracker für Selbstständige",
@@ -25,8 +26,8 @@
       "file": "kosten-und-zeitmanagement-tracker-58eafaffad2d3c6b.xlsx",
       "rows": 11,
       "sales": 0,
-      "pay_url": "https://buy.stripe.com/9B63cwbQt8dtdmK3ko2kw00",
-      "payment_link_id": "plink_1UJx3gJ5iOXkWb9VImqlojMU"
+      "payment_link_id": "plink_1UJx3gJ5iOXkWb9VImqlojMU",
+      "retired": true
     },
     {
       "title": "Social-Media-Kalender Vorlage für Selbstständige",
@@ -41,8 +42,8 @@
       "file": "social-media-kalender-vorlage-19b17d4f77790eac.xlsx",
       "rows": 30,
       "sales": 0,
-      "pay_url": "https://buy.stripe.com/5kQcN68EhfFV1E2g7a2kw01",
-      "payment_link_id": "plink_1UJx3hJ5iOXkWb9V69Dmr4FJ"
+      "payment_link_id": "plink_1UJx3hJ5iOXkWb9V69Dmr4FJ",
+      "retired": true
     },
     {
       "title": "Reisekosten-Tracker für Selbstständige",
@@ -57,8 +58,25 @@
       "file": "reisekosten-tracker-fuer-selbststaendige-ace74a8213481062.xlsx",
       "rows": 34,
       "sales": 0,
-      "pay_url": "https://buy.stripe.com/4gM00k8Eh3Xd3Mag7a2kw02",
-      "payment_link_id": "plink_1UJx3hJ5iOXkWb9Vu10FzsLt"
+      "payment_link_id": "plink_1UJx3hJ5iOXkWb9Vu10FzsLt",
+      "retired": true
+    },
+    {
+      "type": "excel",
+      "title": "Stundentracker für Freelancer",
+      "slug": "stundentracker-freelancer",
+      "price_eur": 7,
+      "target": "deutsche Freelancer und Selbstständige, die ihre Arbeitszeit genau erfassen wollen",
+      "reason": "Zeiterfassung ist für Freelancer essentiell, wird aber oft vernachlässigt. Diese professionelle Lösung mit automatischen Berechnungen spart täglich Zeit und hilft, kein Geld liegen zu lassen. Der Preis ist gerechtfertigt, da das Tool sofort einsatzbereit ist und die monatliche Nutzung deutlich mehr einspart.",
+      "language": "de",
+      "pitch": "Verfolgen Sie alle Projekte, berechnen Sie automatisch Ihr Honorar und behalten Sie den Überblick über Ihre wertvolle Arbeitszeit. Ideal für Solo-Selbstständige mit mehreren Kunden.",
+      "content_html": "<h2>Inhalt</h2><p>Dieses Excel-Tool hilft Ihnen, alle Arbeitsstunden pro Projekt zu tracken, automatisch Rechnungsbeträge zu berechnen und Ihre wöchentliche Auslastung im Blick zu behalten.</p>",
+      "created": "2026-09-26T15:13:01",
+      "file": "stundentracker-freelancer-96e8d2ee52469e0d.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2
     }
   ],
   "log": [
@@ -106,6 +124,16 @@
       "t": "2026-09-26T14:58:17",
       "eur": -0.0020808,
       "why": "KI-Denken: Reisekosten-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-26T15:13:01",
+      "eur": -0.0018599999999999999,
+      "why": "KI-Denken: Stundentracker für Freelancer"
+    },
+    {
+      "t": "2026-09-26T15:13:01",
+      "eur": -0.0011531999999999998,
+      "why": "KI-Pruefung: Stundentracker für Freelancer"
     }
   ],
   "alive": true,
