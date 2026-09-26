@@ -11,6 +11,7 @@ def build():
     f = ROOT/"impressum.json"
     if not f.exists(): return False
     i = json.loads(f.read_text()); site = ROOT/"site"
+    if not i.get("email"): return False  # E-Mail ist Pflichtangabe - ohne sie kein Verkauf
     adr = f"{i['firma']}<br>{i['strasse']}<br>{i['plz_ort']}<br>{i['land']}"
     reg = f"<p>Registereintrag: {i['handelsregister']}</p>" if i.get("handelsregister") else ""
     ust = f"<p>Umsatzsteuer-ID gemäß § 27a UStG: {i['ust_id']}</p>" if i.get("ust_id") else ""
@@ -18,8 +19,8 @@ def build():
     if i.get("lucid_nr"): extra += f"<p>Verpackungsregister LUCID: {i['lucid_nr']}</p>"
     if i.get("eori"): extra += f"<p>EORI: {i['eori']}</p>"
     pages = {}
-    pages["impressum"] = ("Impressum", f"""<h2>Angaben gemäß § 5 DDG</h2><p>{adr}</p><p>Vertreten durch: {i['inhaber_oder_gf']}</p>
-<h2>Kontakt</h2><p>E-Mail: {i['email']}<br>Telefon: {i.get('telefon','')}</p>{reg}{ust}{extra}
+    pages["impressum"] = ("Impressum", f"""<h2>Angaben gemäß § 5 DDG</h2><p>{adr}</p><p>Inhaber: {i['inhaber_oder_gf']}</p>
+<h2>Kontakt</h2><p>E-Mail: {i['email']}{('<br>Telefon: ' + i['telefon']) if i.get('telefon') else ''}</p>{reg}{ust}{extra}
 <h2>Verbraucherstreitbeilegung</h2><p>Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 <h2>KI-Hinweis</h2><p>Produkte und Texte dieses Shops werden mit Unterstützung künstlicher Intelligenz erstellt und vor Veröffentlichung automatisiert geprüft (Art. 50 KI-Verordnung).</p>
 <h2>Legal notice (English)</h2><p>Operator: {i['firma']}, {i['strasse']}, {i['plz_ort']}, {i['land']}. Contact: {i['email']}. Content is created with the help of AI.</p>""")
