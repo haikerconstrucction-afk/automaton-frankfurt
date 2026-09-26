@@ -2,7 +2,7 @@ name: automaton
 on:
   schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
-permissions: {contents: write, pages: write, id-token: write}
+permissions: {issues: write, contents: write, pages: write, id-token: write}
 jobs:
   live:
     runs-on: ubuntu-latest
@@ -15,6 +15,8 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
           STRIPE_PAYMENT_LINK_BASE: ${{ secrets.STRIPE_PAYMENT_LINK_BASE }}
+          GITHUB_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
       - run: |
           git config user.name automaton && git config user.email automaton@users.noreply.github.com
           git add -A && git commit -m "Automaton-Lauf $(date -u +%F-%H%M)" || true

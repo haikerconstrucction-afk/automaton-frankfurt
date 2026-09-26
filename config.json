@@ -1,11 +1,25 @@
 {
   "start_budget_eur": 200,
-  "max_spend_per_run_eur": 0.10,
+  "max_spend_per_run_eur": 0.1,
   "approval_required_above_eur": 50,
   "phases": [
-    {"name": "digitale_produkte", "min_days": 30, "goal": "Verkaufe digitale Produkte (Vorlagen, Checklisten, Mini-Tools) fuer deutsche Selbststaendige und KMU."},
-    {"name": "lokale_dienstleistungen", "min_days": 30, "goal": "Biete lokalen Firmen im Rhein-Main-Gebiet automatisierte Dienste an (Webseiten, Texte, SEO)."}
+    {
+      "name": "digitale_produkte",
+      "min_days": 30,
+      "goal": "Verkaufe digitale Produkte (Vorlagen, Checklisten, Mini-Tools) fuer deutsche Selbststaendige und KMU."
+    },
+    {
+      "name": "lokale_dienstleistungen",
+      "min_days": 30,
+      "goal": "Biete lokalen Firmen im Rhein-Main-Gebiet automatisierte Dienste an (Webseiten, Texte, SEO)."
+    }
   ],
   "model": "deepseek/deepseek-chat",
-  "eur_per_1k_tokens": 0.0012
+  "eur_per_1k_tokens": 0.0012,
+  "freelancer": {
+    "min_monthly_revenue_eur": 1000,
+    "max_share_of_monthly_revenue": 0.3,
+    "max_job_eur": 300,
+    "approval_required": true
+  }
 }
