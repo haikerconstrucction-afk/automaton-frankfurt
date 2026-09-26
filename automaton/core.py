@@ -30,8 +30,12 @@ def think(s):
 Kontostand: {s['balance_eur']} EUR. Umsatz bisher: {s['revenue_eur']} EUR. Phase: {phase['name']} - {phase['goal']}
 Bisherige Produkte: {[p['title'] for p in s['products']]}
 Regeln: legal, ehrlich, kein Spam, keine Finanz-/Rechts-/Steuerberatung, keine Vertraege oder Rechtsvorlagen, keine Gesundheitsversprechen, deutsche Sprache.
-Erstelle GENAU EIN neues, konkretes digitales Produkt, das Menschen wirklich nutzen. Antworte NUR als JSON:
-{{"title":"...","slug":"kebab-case","price_eur":9,"target":"...","pitch":"2 Saetze","content_html":"<h2>...</h2> vollstaendiger Produktinhalt/Vorschau","reason":"warum es sich verkauft"}}"""
+Markt: {"Deutschland (Sprache Deutsch)" if len(s['products']) % 2 == 0 else "weltweit (Sprache Englisch)"}.
+Erstelle GENAU EIN neues, konkretes digitales Produkt (Excel-Vorlage/Tracker/Checkliste), das Menschen wirklich nutzen.
+Die Datei wird aus deinen 'sheets' erzeugt - liefere echten, sofort nutzbaren Inhalt (mind. 15 Zeilen je Blatt, keine Platzhalter).
+Antworte NUR als JSON:
+{{"title":"...","slug":"kebab-case","price_eur":9,"target":"...","language":"de|en","pitch":"2 Saetze","content_html":"<h2>...</h2> Vorschau: was enthalten ist",
+"sheets":[{{"name":"max 30 Zeichen","columns":["..."],"rows":[["..."]]}}],"guide":["Anleitungsschritt 1","..."],"reason":"warum es sich verkauft"}}"""
     key = os.getenv("LLM_API_KEY")
     if not key:  # Trockenlauf ohne Kosten
         return {"title": "Testprodukt", "slug": f"test-{len(s['products'])}", "price_eur": 5, "target": "Test",
@@ -45,7 +49,28 @@ Erstelle GENAU EIN neues, konkretes digitales Produkt, das Menschen wirklich nut
     cost = r.get("usage", {}).get("total_tokens", 4000) / 1000 * CFG["eur_per_1k_tokens"]
     return json.loads(re.search(r"\{.*\}", text, re.S).group(0)), min(cost, CFG["max_spend_per_run_eur"]) or 0.001
 
+def build_file(p):
+    import secrets
+    from openpyxl import Workbook
+    from openpyxl.styles import Font, PatternFill
+    wb = Workbook(); ws = wb.active; ws.title = "Anleitung" if p.get("language","de") == "de" else "Guide"
+    ws.append([p["title"]]); ws["A1"].font = Font(bold=True, size=14)
+    for i, g in enumerate(p.get("guide", []), 1): ws.append([f"{i}. {g}"])
+    ws.column_dimensions["A"].width = 100
+    for sh in p.get("sheets", [])[:6]:
+        w = wb.create_sheet(str(sh["name"])[:30].replace("/", "-"))
+        w.append(sh["columns"])
+        for c in w[1]: c.font = Font(bold=True, color="FFFFFF"); c.fill = PatternFill("solid", fgColor="0B6E4F")
+        for r in sh["rows"][:500]: w.append([str(x) for x in r])
+        for col in w.columns: w.column_dimensions[col[0].column_letter].width = 24
+        w.freeze_panes = "A2"
+    d = ROOT/"site/dl"; d.mkdir(parents=True, exist_ok=True)
+    name = f"{p['slug']}-{secrets.token_hex(8)}.xlsx"; wb.save(d/name)
+    return name, sum(len(sh["rows"]) for sh in p.get("sheets", []))
+
 def act(s, p):
+    fname, nrows = build_file(p)
+    if nrows < 10: raise RuntimeError(f"Produkt zu duenn ({nrows} Zeilen) - verworfen")
     link = os.getenv("STRIPE_PAYMENT_LINK_BASE", "")
     buy = f'<a class="buy" href="{link}">Jetzt kaufen – {p["price_eur"]} €</a>' if link else '<p class="buy">Kauf bald verfügbar</p>'
     html = f"""<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
@@ -53,7 +78,7 @@ def act(s, p):
 <h1>{p['title']}</h1><p class="pitch">{p['pitch']}</p>{buy}<article>{p['content_html']}</article></main></html>"""
     (ROOT/"site/products").mkdir(parents=True, exist_ok=True)
     (ROOT/"site/products"/f"{p['slug']}.html").write_text(html)
-    s["products"].append({k: p[k] for k in ("title", "slug", "price_eur", "target", "reason")} | {"created": now})
+    s["products"].append({k: p.get(k) for k in ("title", "slug", "price_eur", "target", "reason", "language")} | {"created": now, "file": fname, "rows": nrows, "sales": 0})
 
 def monthly_revenue(s):
     cutoff = datetime.datetime.fromisoformat(now) - datetime.timedelta(days=30)
