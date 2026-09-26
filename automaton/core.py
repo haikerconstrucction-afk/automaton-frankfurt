@@ -156,12 +156,16 @@ def build_file(p):
 
 def page(p):
     cur = "$" if p.get("language") == "en" else "€"
-    buy = (f'<a class="buy" href="{p["pay_url"]}">Jetzt kaufen – {p["price_eur"]} {cur}</a>' if p.get("pay_url")
-           else '<p class="buy">Verkauf startet in Kürze</p>')
-    html = f"""<!doctype html><html lang="{p.get('language','de')}"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
-<title>{p['title']}</title><link rel="stylesheet" href="../style.css"><main><a href="../">← Alle Produkte</a>
-<h1>{p['title']}</h1><p class="pitch">{p.get('pitch','')}</p>{buy}<article>{p.get('content_html','')}</article>
-<p><small>Digitales Produkt ({"PDF" if p.get("type")=="ebook" else "Excel"}), sofortiger Download nach Zahlung. Endpreis, gemäß § 19 UStG wird keine Umsatzsteuer berechnet. Mit dem Kauf stimmen Sie zu, dass die Bereitstellung sofort beginnt, und bestätigen, dass Ihr Widerrufsrecht damit erlischt. <a href="../agb.html">AGB</a> · <a href="../widerruf.html">Widerruf</a> · <a href="../impressum.html">Impressum</a> · <a href="../datenschutz.html">Datenschutz</a></small></p></main></html>"""
+    kind = "E-Book · PDF" if p.get("type") == "ebook" else "Excel-Vorlage"
+    buy = (f'<a class="btn big" href="{p["pay_url"]}">Jetzt kaufen – {p["price_eur"]} {cur}</a>' if p.get("pay_url")
+           else '<span class="btn off">Verkauf startet in Kürze</span>')
+    html = HEAD.format(lang=p.get("language","de"), title=f"{p['title']} – Haiktec", desc=(p.get('pitch') or '')[:155], r="../") + f"""
+<main class="wrap product"><a class="back" href="../index.html#produkte">← Alle Produkte</a><div class="pgrid">
+<div class="cover big {p.get('type','excel')}"><span>{kind}</span></div>
+<div><p class="eyebrow">{kind}</p><h1>{p['title']}</h1><p class="lead">{p.get('pitch','')}</p>{buy}
+<ul class="checks"><li>Sofort-Download nach Zahlung</li><li>Sichere Zahlung über Stripe</li><li>Einmalpreis, kein Abo</li></ul></div></div>
+<article class="content">{p.get('content_html','')}</article>
+<p class="legal">Digitales Produkt ({"PDF" if p.get("type")=="ebook" else "Excel"}). Endpreis, gemäß § 19 UStG wird keine Umsatzsteuer berechnet. Mit dem Kauf stimmen Sie zu, dass die Bereitstellung sofort beginnt, und bestätigen, dass Ihr Widerrufsrecht damit erlischt. <a href="../agb.html">AGB</a> · <a href="../widerruf.html">Widerruf</a></p></main>""" + FOOT.format(r="../") + "</body></html>"
     (ROOT/"site/products").mkdir(parents=True, exist_ok=True)
     (ROOT/"site/products"/f"{p['slug']}.html").write_text(html)
 
@@ -237,14 +241,36 @@ Nur JSON: {{"title":"...","budget_eur":150,"platform":"Upwork/Fiverr/Malt","desc
     s["jobs"].append({"title": job["title"], "budget_eur": job["budget_eur"], "issue": url.rsplit("/", 1)[-1] or "0",
                       "status": "wartet_auf_freigabe", "created": now})
 
+FOOT = """<footer class="foot"><div class="wrap"><span>© 2026 Haiktec · Marcel Haiker</span><nav><a href="{r}impressum.html">Impressum</a><a href="{r}agb.html">AGB</a><a href="{r}widerruf.html">Widerruf</a><a href="{r}datenschutz.html">Datenschutz</a></nav></div></footer>"""
+HEAD = """<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{title}</title><meta name="description" content="{desc}"><link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{r}style.css"></head><body><header class="top"><div class="wrap"><a class="brand" href="{r}index.html"><span class="mark">H</span>Haiktec</a><nav><a href="{r}index.html#produkte">Produkte</a><a href="{r}impressum.html">Kontakt</a></nav></div></header>"""
+
+def card(p):
+    cur = "$" if p.get("language") == "en" else "€"
+    kind = "E-Book · PDF" if p.get("type") == "ebook" else "Excel-Vorlage"
+    return f"""<a class="card" href="products/{p['slug']}.html"><div class="cover {p.get('type','excel')}"><span>{kind}</span></div>
+<div class="body"><h3>{p['title']}</h3><p>{(p.get('pitch') or '')[:140]}</p><div class="row"><b>{p['price_eur']} {cur}</b><span class="go">Ansehen →</span></div></div></a>"""
+
+def storefront(s):
+    live = [p for p in reversed(s["products"]) if not p.get("retired") and p.get("pay_url")]
+    cards = "".join(card(p) for p in live) or "<p>Neue Produkte erscheinen in Kürze.</p>"
+    (ROOT/"site/index.html").write_text(HEAD.format(lang="de", title="Haiktec – Vorlagen & E-Books für Selbstständige", desc="Sofort nutzbare Excel-Vorlagen und E-Books für Selbstständige und kleine Unternehmen. Sofort-Download.", r="") + f"""
+<section class="hero"><div class="wrap"><p class="eyebrow">Digitale Werkzeuge für Selbstständige</p><h1>Weniger Verwaltung.<br>Mehr Zeit fürs Geschäft.</h1>
+<p class="lead">Durchdachte Excel-Vorlagen mit fertigen Formeln und kompakte E-Books – sofort herunterladen, sofort nutzen.</p><a class="btn" href="#produkte">Produkte ansehen</a></div></section>
+<section class="trust"><div class="wrap"><div><b>Sofort-Download</b><span>direkt nach der Zahlung</span></div><div><b>Sichere Zahlung</b><span>Karte, Apple Pay, Google Pay via Stripe</span></div><div><b>Einmalpreis</b><span>kein Abo, keine versteckten Kosten</span></div></div></section>
+<section id="produkte" class="wrap"><h2>Produkte</h2><div class="grid">{cards}</div></section>""" + FOOT.format(r="") + "</body></html>")
+
 def render(s):
     days = (datetime.datetime.fromisoformat(now) - datetime.datetime.fromisoformat(s["born"])).days
     burn = s["spent_eur"] / max(days, 1)
     life = "∞" if burn == 0 else f"{int(s['balance_eur']/burn)} Tage"
     items = "".join(f'<li><a href="products/{p["slug"]}.html">{p["title"]}</a> – {p["price_eur"]} {"$" if p.get("language")=="en" else "€"} · {p.get("sales",0)} verkauft</li>' for p in reversed(s["products"]) if not p.get("retired"))
     status = "LEBT" if s["alive"] else "TOT"
-    (ROOT/"site/index.html").write_text(f"""<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
-<title>Automaton Frankfurt</title><link rel="stylesheet" href="style.css"><main><h1>Automaton Frankfurt</h1>
+    storefront(s)
+    (ROOT/"site/status.html").write_text(f"""<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><meta name="robots" content="noindex">
+<title>Status</title><link rel="stylesheet" href="style.css"><main><h1>Automaton Frankfurt</h1>
 <div class="kpis"><div><b>{status}</b>Status</div><div><b>{s['balance_eur']:.2f} €</b>Kontostand</div>
 <div><b>{s['revenue_eur']:.2f} €</b>Umsatz</div><div><b>{life}</b>Restlebenszeit</div></div>
 <p>Monatsumsatz: {monthly_revenue(s):.2f} € (Freelancer ab {CFG['freelancer']['min_monthly_revenue_eur']} €) · Jobs für Menschen: {sum(j['status']=='freigegeben' for j in s.get('jobs',[]))}</p><p>Phase: {CFG['phases'][s['phase']]['name']} · Alter: {days} Tage</p><h2>Produkte</h2><ul>{items}</ul>

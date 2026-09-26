@@ -5,7 +5,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 
 def wrap(title, body):
     return f"""<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
-<title>{title}</title><link rel="stylesheet" href="style.css"><main><a href="./">← Shop</a><h1>{title}</h1>{body}</main></html>"""
+<title>{title}</title><link rel="stylesheet" href="style.css"><main class="wrap legalpage"><a class="back" href="index.html">← Shop</a><h1>{title}</h1>{body}</main></html>"""
 
 def build():
     f = ROOT/"impressum.json"
