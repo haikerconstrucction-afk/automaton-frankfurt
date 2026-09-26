@@ -125,6 +125,7 @@ def main():
     if s["phase"] + 1 < len(CFG["phases"]) and (datetime.datetime.fromisoformat(now) - started).days >= CFG["phases"][s["phase"]]["min_days"]:
         s["phase"] += 1; s["phase_started"] = now
     try:
+        if not os.getenv("LLM_API_KEY"): raise RuntimeError("kein LLM_API_KEY - Schlafmodus")
         product, cost = think(s); book(s, -cost, f"KI-Denken: {product['title']}"); act(s, product)
     except Exception as e:
         s["log"].append({"t": now, "eur": 0, "why": f"Fehler: {e}"})
