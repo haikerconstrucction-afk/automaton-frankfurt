@@ -24,6 +24,34 @@ def stripe_revenue():
     data = json.load(urllib.request.urlopen(req, timeout=30))["data"]
     return sum(t["net"] for t in data) / 100  # netto nach Gebuehren
 
+SITE = "https://haikerconstrucction-afk.github.io/automaton-frankfurt"
+
+def stripe(method, path, data=None):
+    import urllib.parse
+    key = os.getenv("STRIPE_SECRET_KEY")
+    body = urllib.parse.urlencode(data or {}).encode() if data else None
+    req = urllib.request.Request("https://api.stripe.com/v1/" + path, data=body, method=method,
+                                 headers={"Authorization": f"Bearer {key}"})
+    return json.load(urllib.request.urlopen(req, timeout=30))
+
+def ensure_payment_link(p):
+    """Eigenes Produkt + Preis + Zahlungslink in Stripe; nach Kauf Weiterleitung zum Download."""
+    if not os.getenv("STRIPE_SECRET_KEY") or p.get("pay_url") or not p.get("file"): return
+    prod = stripe("POST", "products", {"name": p["title"], "metadata[slug]": p["slug"]})
+    cur = "usd" if p.get("language") == "en" else "eur"
+    price = stripe("POST", "prices", {"product": prod["id"], "currency": cur, "unit_amount": int(float(p["price_eur"]) * 100)})
+    link = stripe("POST", "payment_links", {"line_items[0][price]": price["id"], "line_items[0][quantity]": 1,
+        "after_completion[type]": "redirect", "after_completion[redirect][url]": f"{SITE}/dl/{p['file']}",
+        "automatic_tax[enabled]": "false", "metadata[slug]": p["slug"]})
+    p["pay_url"], p["payment_link_id"] = link["url"], link["id"]
+
+def count_sales(s):
+    if not os.getenv("STRIPE_SECRET_KEY"): return
+    for p in s["products"]:
+        if p.get("payment_link_id"):
+            r = stripe("GET", f"checkout/sessions?payment_link={p['payment_link_id']}&status=complete&limit=100")
+            p["sales"] = len(r["data"])
+
 def think(s):
     phase = CFG["phases"][s["phase"]]
     prompt = f"""Du bist ein autonomer Unternehmer-Agent. Du ueberlebst nur, wenn du Geld verdienst.
@@ -68,17 +96,23 @@ def build_file(p):
     name = f"{p['slug']}-{secrets.token_hex(8)}.xlsx"; wb.save(d/name)
     return name, sum(len(sh["rows"]) for sh in p.get("sheets", []))
 
+def page(p):
+    cur = "$" if p.get("language") == "en" else "€"
+    buy = (f'<a class="buy" href="{p["pay_url"]}">Jetzt kaufen – {p["price_eur"]} {cur}</a>' if p.get("pay_url")
+           else '<p class="buy">Kauf bald verfügbar</p>')
+    html = f"""<!doctype html><html lang="{p.get('language','de')}"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+<title>{p['title']}</title><link rel="stylesheet" href="../style.css"><main><a href="../">← Alle Produkte</a>
+<h1>{p['title']}</h1><p class="pitch">{p.get('pitch','')}</p>{buy}<article>{p.get('content_html','')}</article>
+<p><small>Digitales Produkt (Excel). Sofortiger Download nach Zahlung. Anbieter: siehe Impressum.</small></p></main></html>"""
+    (ROOT/"site/products").mkdir(parents=True, exist_ok=True)
+    (ROOT/"site/products"/f"{p['slug']}.html").write_text(html)
+
 def act(s, p):
     fname, nrows = build_file(p)
     if nrows < 10: raise RuntimeError(f"Produkt zu duenn ({nrows} Zeilen) - verworfen")
-    link = os.getenv("STRIPE_PAYMENT_LINK_BASE", "")
-    buy = f'<a class="buy" href="{link}">Jetzt kaufen – {p["price_eur"]} €</a>' if link else '<p class="buy">Kauf bald verfügbar</p>'
-    html = f"""<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
-<title>{p['title']}</title><link rel="stylesheet" href="../style.css"><main><a href="../">← Alle Produkte</a>
-<h1>{p['title']}</h1><p class="pitch">{p['pitch']}</p>{buy}<article>{p['content_html']}</article></main></html>"""
-    (ROOT/"site/products").mkdir(parents=True, exist_ok=True)
-    (ROOT/"site/products"/f"{p['slug']}.html").write_text(html)
-    s["products"].append({k: p.get(k) for k in ("title", "slug", "price_eur", "target", "reason", "language")} | {"created": now, "file": fname, "rows": nrows, "sales": 0})
+    rec = {k: p.get(k) for k in ("title", "slug", "price_eur", "target", "reason", "language", "pitch", "content_html")}
+    rec |= {"created": now, "file": fname, "rows": nrows, "sales": 0}
+    s["products"].append(rec)
 
 def monthly_revenue(s):
     cutoff = datetime.datetime.fromisoformat(now) - datetime.timedelta(days=30)
@@ -133,7 +167,7 @@ def render(s):
     days = (datetime.datetime.fromisoformat(now) - datetime.datetime.fromisoformat(s["born"])).days
     burn = s["spent_eur"] / max(days, 1)
     life = "∞" if burn == 0 else f"{int(s['balance_eur']/burn)} Tage"
-    items = "".join(f'<li><a href="products/{p["slug"]}.html">{p["title"]}</a> – {p["price_eur"]} €</li>' for p in reversed(s["products"]))
+    items = "".join(f'<li><a href="products/{p["slug"]}.html">{p["title"]}</a> – {p["price_eur"]} {"$" if p.get("language")=="en" else "€"} · {p.get("sales",0)} verkauft</li>' for p in reversed(s["products"]))
     status = "LEBT" if s["alive"] else "TOT"
     (ROOT/"site/index.html").write_text(f"""<!doctype html><html lang="de"><meta charset="utf-8"><meta name="viewport" content="width=device-width">
 <title>Automaton Frankfurt</title><link rel="stylesheet" href="style.css"><main><h1>Automaton Frankfurt</h1>
@@ -155,6 +189,12 @@ def main():
         product, cost = think(s); book(s, -cost, f"KI-Denken: {product['title']}"); act(s, product)
     except Exception as e:
         s["log"].append({"t": now, "eur": 0, "why": f"Fehler: {e}"})
+    for p in s["products"]:
+        try: ensure_payment_link(p)
+        except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Stripe-Fehler {p['slug']}: {e}"})
+        if p.get("content_html") is not None or p.get("pay_url"): page(p)
+    try: count_sales(s)
+    except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Verkaufszaehlung-Fehler: {e}"})
     try: freelancer_step(s)
     except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Freelancer-Fehler: {e}"})
     if s["balance_eur"] <= 0: s["alive"] = False

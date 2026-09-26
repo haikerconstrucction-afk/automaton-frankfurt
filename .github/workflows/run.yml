@@ -15,7 +15,6 @@ jobs:
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}
-          STRIPE_PAYMENT_LINK_BASE: ${{ secrets.STRIPE_PAYMENT_LINK_BASE }}
           GITHUB_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
       - run: |
