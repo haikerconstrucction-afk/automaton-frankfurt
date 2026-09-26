@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 199.9958,
-  "spent_eur": 0.0042,
+  "balance_eur": 199.9937,
+  "spent_eur": 0.0063,
   "revenue_eur": 0,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -24,7 +24,9 @@
       "created": "2026-09-26T13:40:57",
       "file": "kosten-und-zeitmanagement-tracker-58eafaffad2d3c6b.xlsx",
       "rows": 11,
-      "sales": 0
+      "sales": 0,
+      "pay_url": "https://buy.stripe.com/9B63cwbQt8dtdmK3ko2kw00",
+      "payment_link_id": "plink_1UJx3gJ5iOXkWb9VImqlojMU"
     },
     {
       "title": "Social-Media-Kalender Vorlage für Selbstständige",
@@ -38,7 +40,25 @@
       "created": "2026-09-26T14:54:06",
       "file": "social-media-kalender-vorlage-19b17d4f77790eac.xlsx",
       "rows": 30,
-      "sales": 0
+      "sales": 0,
+      "pay_url": "https://buy.stripe.com/5kQcN68EhfFV1E2g7a2kw01",
+      "payment_link_id": "plink_1UJx3hJ5iOXkWb9V69Dmr4FJ"
+    },
+    {
+      "title": "Reisekosten-Tracker für Selbstständige",
+      "slug": "reisekosten-tracker-fuer-selbststaendige",
+      "price_eur": 12,
+      "target": "deutsche Selbstständige mit Dienstreisen",
+      "reason": "Jeder selbstständige Dienstleister mit Reisetätigkeit muss diese Daten erfassen - diese Vorlage automatisiert 80% der Arbeit. Besonders wertvoll für: Berater, Handelsvertreter, Servicetechniker und Messebesucher.",
+      "language": "de",
+      "pitch": "Automatisierte Erfassung aller Geschäftsreisekosten mit Kilometer-Tracking und Spesenberechnung. Spare Zeit bei der Steuererklärung mit dieser intelligenten Excel-Lösung.",
+      "content_html": "<h2>Reisekosten-Tracker für Selbstständige</h2> Vorschau: Enthält automatische Kilometerpauschalen-Berechnung, Spesenerfassung, Beleg-Verwaltung, Monatsauswertungen und Exportfunktion für den Steuerberater.",
+      "created": "2026-09-26T14:58:17",
+      "file": "reisekosten-tracker-fuer-selbststaendige-ace74a8213481062.xlsx",
+      "rows": 34,
+      "sales": 0,
+      "pay_url": "https://buy.stripe.com/4gM00k8Eh3Xd3Mag7a2kw02",
+      "payment_link_id": "plink_1UJx3hJ5iOXkWb9Vu10FzsLt"
     }
   ],
   "log": [
@@ -81,6 +101,11 @@
       "t": "2026-09-26T14:54:06",
       "eur": -0.0017004,
       "why": "KI-Denken: Social-Media-Kalender Vorlage für Selbstständige"
+    },
+    {
+      "t": "2026-09-26T14:58:17",
+      "eur": -0.0020808,
+      "why": "KI-Denken: Reisekosten-Tracker für Selbstständige"
     }
   ],
   "alive": true,
