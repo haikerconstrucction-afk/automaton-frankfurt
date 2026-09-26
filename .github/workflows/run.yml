@@ -27,3 +27,4 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with: {path: site}
       - uses: actions/deploy-pages@v4
+      - run: sleep 30 && python automaton/indexnow.py
