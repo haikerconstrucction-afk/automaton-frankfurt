@@ -83,6 +83,12 @@ Es muss den Preis klar wert sein. Antworte NUR als JSON."""
     if p is None:
         raise RuntimeError("kein LLM_API_KEY - Schlafmodus")
     p["type"] = kind
+    if kind == "ebook":  # Kapitel einzeln schreiben lassen -> echte Laenge
+        for ch in p.get("chapters", [])[:10]:
+            r, c = llm_json(f"""Schreibe Kapitel "{ch['heading']}" des E-Books "{p['title']}" ({p.get('language','de')}), Zielgruppe {p.get('target')}.
+{RULES} 450-700 Woerter, konkret, originell, gut lesbar, Absaetze mit \\n\\n. Nur JSON: {{"text":"..."}}""")
+            cost += c
+            if r and r.get("text"): ch["text"] = r["text"]
     return p, max(cost, 0.001)
 
 def review(p):
