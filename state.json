@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 199.9751,
-  "spent_eur": 0.0249,
+  "balance_eur": 199.9727,
+  "spent_eur": 0.0273,
   "revenue_eur": 0,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -76,7 +76,9 @@
       "size": 10,
       "sales": 0,
       "score": 8,
-      "quality": 2
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/00w3cw9Il65lgyWdZ22kw03",
+      "payment_link_id": "plink_1UJxgSJ5iOXkWb9V0xlIEdfD"
     },
     {
       "type": "ebook",
@@ -93,7 +95,28 @@
       "size": 2346,
       "sales": 0,
       "score": 7,
-      "quality": 2
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/5kQ00kaMp9hxgyW8EI2kw04",
+      "payment_link_id": "plink_1UJxgTJ5iOXkWb9VrP4BSpVp"
+    },
+    {
+      "type": "excel",
+      "title": "Kundenrückgewinnungs-Tracker für Kleinunternehmer",
+      "slug": "kunden-rueckgewinnungs-tracker-fuer-kleinunternehmer",
+      "price_eur": 7,
+      "target": "Deutsche Kleinunternehmen mit unregelmäßigen Kunden",
+      "reason": "Viele Kleinunternehmen verlieren Umsatz durch vergessene Kunden. Diese Vorlage automatisiert die Identifikation von Rückgewinnungschancen - was normalerweise stundenlange manuelle Analyse erfordert.",
+      "language": "de",
+      "pitch": "Identifizieren und reaktivieren Sie vergessene Kunden. Berechnen Sie automatisch den optimalen Kontaktzeitpunkt und potenziellen Umsatz.",
+      "content_html": "<h2>Inhalt</h2><p>Tracken Sie Kundenaktivität, berechnen Sie Rückgewinnungschancen, planen Sie Follow-ups mit automatischen Erinnerungen.</p>",
+      "created": "2026-09-26T15:38:28",
+      "file": "kunden-rueckgewinnungs-tracker-fuer-kleinunternehmer-8653a5cbfa3487be.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/28E14ocUxctJ82qf362kw05",
+      "payment_link_id": "plink_1UJxgUJ5iOXkWb9VqlMBU1Kt"
     }
   ],
   "log": [
@@ -176,6 +199,16 @@
       "t": "2026-09-26T15:14:53",
       "eur": -0.0039708,
       "why": "KI-Pruefung: Effizientes Selbstmanagement für Selbstständige in 6 Schritten"
+    },
+    {
+      "t": "2026-09-26T15:38:28",
+      "eur": -0.0014375999999999998,
+      "why": "KI-Denken: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
+    },
+    {
+      "t": "2026-09-26T15:38:28",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
     }
   ],
   "alive": true,
