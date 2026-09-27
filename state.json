@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 500.7285,
-  "spent_eur": 3.9415,
+  "balance_eur": 500.5324,
+  "spent_eur": 4.1376,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1013,19 +1013,69 @@
       "pay_url": "https://buy.stripe.com/4gMcN6bQtalBbeC9IM2kw0Q",
       "payment_link_id": "plink_1UKFdZJ5iOXkWb9VqfOUK8NE",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women",
+      "slug": "ultimate-berlin-potsdam-travel-budget-planner-itinerary-tracker-women",
+      "price_eur": 7,
+      "target": "Women planning trips to Berlin and Potsdam, looking for a detailed budget planner and itinerary tracker.",
+      "reason": "This template is perfect for women planning trips to Berlin and Potsdam, offering an organized way to manage budgets and itineraries, ensuring a stress-free travel experience.",
+      "language": "en",
+      "pitch": "Plan your perfect trip to Berlin and Potsdam with ease. Track your budget, manage your itinerary, and ensure you don't miss any highlights.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps you organize your travel budget and daily itinerary for Berlin and Potsdam. Track your expenses, plan your activities, and get the most out of your trip.</p>",
+      "created": "2026-09-27T12:07:03",
+      "file": "ultimate-berlin-potsdam-travel-budget-planner-itinerary-tracker-women-97701c937584de81.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/00w6oI7Ad2T9dmKcUY2kw0S",
+      "payment_link_id": "plink_1UKH1sJ5iOXkWb9VUT4XS9s5",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidden Gems",
+      "slug": "discover-dresden-saxony-female-travelers-guide",
+      "price_eur": 5,
+      "target": "Female travelers interested in exploring Dresden and Saxony in Germany, seeking a blend of cultural insights, historical context, and practical travel tips.",
+      "reason": "This guide fills a niche for female travelers seeking a comprehensive and tailored experience in Dresden and Saxony. With practical tips, cultural insights, and detailed walking tours, it offers significant value for the price.",
+      "language": "en",
+      "pitch": "Embark on a journey through Dresden and Saxony with this unique guide tailored for female travelers. Discover hidden gems, savor local cuisine, and immerse yourself in the rich history and culture of this enchanting region.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introduction: Why Dresden & Saxony?</li><li>Chapter 1: Navigating Dresden - A Walk Through Time</li><li>Chapter 2: Culinary Delights - Saxon Flavors to Savor</li><li>Chapter 3: Hidden Gems - Off the Beaten Path</li><li>Chapter 4: Cultural Experiences - Museums, Theaters, and More</li><li>Chapter 5: Practical Tips - Safety, Transportation, and Budgeting</li><li>Chapter 6: Walking Tours - Explore Like a Local</li></ul>",
+      "created": "2026-09-27T12:07:03",
+      "file": "discover-dresden-saxony-female-travelers-guide-f07ea41dc1bee8f7.pdf",
+      "size": 1975,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/8x26oIbQt1P596ucUY2kw0T",
+      "payment_link_id": "plink_1UKH1tJ5iOXkWb9VJtuxjKao",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Calculadora de Presupuestos y Mediciones para Talleres de Construcción",
+      "slug": "calculadora-presupuestos-mediciones-talleres-construccion",
+      "price_eur": 7,
+      "target": "Talleres de construcción y profesionales del sector de la construcción en España y Latinoamérica",
+      "reason": "Los talleres de construcción necesitan herramientas que optimicen su trabajo diario. Esta plantilla ofrece una solución práctica y eficiente para calcular presupuestos y mediciones, ayudando a los profesionales a ahorrar tiempo y aumentar su rentabilidad.",
+      "language": "es",
+      "pitch": "Optimiza tus presupuestos y mediciones con esta herramienta esencial para talleres de construcción. Ahorra tiempo y maximiza tu rentabilidad.",
+      "content_html": "<h2>Inhalt</h2><p>Esta plantilla de Excel está diseñada específicamente para talleres de construcción, permitiendo calcular presupuestos y mediciones de manera rápida y precisa. Incluye fórmulas automáticas para calcular costos, materiales y tiempo, asegurando que siempre tengas un control total sobre tus proyectos.</p>",
+      "created": "2026-09-27T12:07:03",
+      "file": "calculadora-presupuestos-mediciones-talleres-construccion-e698f3f5af07d991.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/8x28wQ7Ad3Xdaay3ko2kw0U",
+      "payment_link_id": "plink_1UKH1uJ5iOXkWb9Vpk1jb6UF",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-26T11:58:00",
-      "eur": 0,
-      "why": "Fehler: kein LLM_API_KEY - Schlafmodus"
-    },
-    {
-      "t": "2026-09-26T12:56:01",
-      "eur": 0,
-      "why": "Fehler: kein LLM_API_KEY - Schlafmodus"
-    },
     {
       "t": "2026-09-26T13:08:26",
       "eur": 0,
@@ -1945,6 +1995,86 @@
       "t": "2026-09-27T10:42:36",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583561483"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.0037308,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Trip Planner for Families"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Trip Planner for Families"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.0037355999999999995,
+      "why": "KI-Denken: Berlin & Potsdam City Trip Planner for Women Travelers"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Berlin & Potsdam City Trip Planner for Women Travelers"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.0037415999999999994,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.010915199999999998,
+      "why": "KI-Denken: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.0035195999999999995,
+      "why": "KI-Pruefung: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.16,
+      "why": "KI-Bilder: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.004003199999999999,
+      "why": "KI-Denken: Calculadora de Presupuestos y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.0010236,
+      "why": "KI-Pruefung: Calculadora de Presupuestos y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.0010608,
+      "why": "Blog-Artikel: Heidelberg Altstadt (en)"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.0011664,
+      "why": "Blog-Artikel: Neuschwanstein (zh)"
+    },
+    {
+      "t": "2026-09-27T12:07:03",
+      "eur": -0.00034439999999999997,
+      "why": "Video-Skript: Neuschwanstein"
     }
   ],
   "alive": true,
@@ -1998,6 +2128,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-09-27T10:42:36",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-guide",
+      "title": "Exploring Heidelberg's Old Town: A Fairytale Getaway in Germany",
+      "lang": "en",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-09-27T12:07:03",
+      "img": true
+    },
+    {
+      "slug": "german-neuschwanstein-castle-travel-guide",
+      "title": "探访童话城堡：德国新天鹅堡全攻略",
+      "lang": "zh",
+      "topic": "Neuschwanstein",
+      "created": "2026-09-27T12:07:03",
+      "img": true
     }
   ],
   "videos": [
@@ -2009,6 +2155,15 @@
       "hashtags": "#Mosel #Cochem #DeutschlandEntdecken #Reiseziel #Weinregion",
       "voice": "Entdecken Sie Cochem an der Mosel – ein Juwel deutscher Kultur und Natur! Die imposante Reichsburg thront über der Stadt und bietet atemberaubende Aussichten. Schlendern Sie durch die malerische Altstadt mit ihren bunten Fachwerkhäusern. Die Weinberge laden zu Spaziergängen ein, während die Mosel magische Bootsfahrten verspricht. Hier erleben Sie Geschichte, Natur und Genuss pur!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons"
+    },
+    {
+      "slug": "german-neuschwanstein-castle-travel-guide",
+      "title": "探访童话城堡：德国新天鹅堡全攻略",
+      "lang": "zh",
+      "created": "2026-09-27T12:07:03",
+      "hashtags": "#新天鹅堡 #德国旅游 #童话城堡 #巴伐利亚 #欧洲必去",
+      "voice": "在德国巴伐利亚州阿尔卑斯山脉中，坐落着一座童话般的城堡 - 新天鹅堡！这座19世纪的建筑瑰宝是路德维希二世的梦幻之作，白墙蓝顶与群山相映成趣。作为迪士尼睡美人城堡的原型，它每年吸引无数游客前来朝圣。登高望远，您将领略绝美的自然风光与建筑艺术的完美融合！",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons"
     }
   ],
   "begleiter": {
