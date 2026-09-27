@@ -439,6 +439,9 @@ def main():
         import video
         for _ in range(CFG.get("videos_per_run", 1)): video.make(s, llm_json, book, ROOT, now)
     except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Video-Fehler: {str(e)[:200]}"})
+    try:
+        import social; social.post_all(s, lambda m: s["log"].append({"t": now, "eur": 0, "why": m}), CFG.get("social_posts_per_run", 1))
+    except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Social-Fehler: {str(e)[:200]}"})
     try: import video; video.page(s, HEAD, FOOT, ROOT)
     except Exception as e: print("Video-Seite:", e)
     try: import blog; blog.index(s, HEAD, FOOT, ROOT)
