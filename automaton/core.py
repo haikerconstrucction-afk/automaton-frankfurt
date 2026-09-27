@@ -1,5 +1,5 @@
 """Automaton-Kern: denkt, handelt, bucht Kosten - und stirbt bei 0 EUR."""
-import json, os, re, datetime, pathlib, urllib.request
+import json, os, re, datetime, pathlib, urllib.request, urllib.error
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CFG = json.loads((ROOT/"config.json").read_text())
 STATE_F = ROOT/"state.json"
@@ -211,7 +211,12 @@ def llm_json(prompt):
                        "response_format": {"type": "json_object"}}).encode()
     req = urllib.request.Request(os.getenv("LLM_BASE_URL", "https://openrouter.ai/api/v1") + "/chat/completions",
                                  data=body, headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
-    r = json.load(urllib.request.urlopen(req, timeout=300))
+    import time
+    for i in range(4):
+        try: r = json.load(urllib.request.urlopen(req, timeout=300)); break
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or i == 3: raise
+            time.sleep(20 * (i + 1))
     cost = r.get("usage", {}).get("total_tokens", 4000) / 1000 * CFG["eur_per_1k_tokens"]
     return json.loads(re.search(r"\{.*\}", r["choices"][0]["message"]["content"], re.S).group(0)), cost
 
