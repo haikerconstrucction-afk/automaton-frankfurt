@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.4176,
-  "spent_eur": 0.2524,
+  "balance_eur": 504.2344,
+  "spent_eur": 0.4356,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -620,6 +620,66 @@
       "pay_url": "https://buy.stripe.com/7sYcN6bQt79pgyW1cg2kw0y",
       "payment_link_id": "plink_1UKDBxJ5iOXkWb9VqpwuMgCM",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Content Planner & ROI-Tracker für Creator",
+      "slug": "youtube-content-planner-roi-tracker-fuer-creator",
+      "price_eur": 9,
+      "target": "Content Creator und YouTuber",
+      "reason": "YouTuber benötigen ein einfaches aber mächtiges Tool, um ihre Content-Strategie zu planen und den finanziellen Erfolg ihrer Videos zu messen. Diese Vorlage kombiniert Planung und Analyse in einem Tool und hilft dabei, datengetriebene Entscheidungen zu treffen.",
+      "language": "de",
+      "pitch": "Planen Sie Ihre YouTube-Inhalte strategisch und tracken Sie den ROI Ihrer Videos. Optimieren Sie Ihre Content-Strategie basierend auf echten Kennzahlen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Monatlicher Content-Kalender mit Videothemen und Upload-Plan</li><li>ROI-Berechnung pro Video (Einnahmen vs. Produktionsaufwand)</li><li>Performance-Tracking aller wichtigen KPIs (Views, Watch Time, CTR)</li><li>Automatisierte Auswertung Ihrer Top-Performer</li></ul>",
+      "created": "2026-09-27T08:54:41",
+      "file": "youtube-content-planner-roi-tracker-fuer-creator-a0cef4343fb0be16.xlsx",
+      "size": 15,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/3cI9AU5s52T91E2g7a2kw0z",
+      "payment_link_id": "plink_1UKDttJ5iOXkWb9VSsH8reoX",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse",
+      "slug": "effektive-unterrichtsplanung-lehrer-nachhilfe",
+      "price_eur": 5,
+      "target": "Lehrer und Nachhilfelehrer in Deutschland",
+      "reason": "Dieses E-Book bietet Lehrern und Nachhilfelehrern praktische Strategien und konkrete Beispiele, um ihre Unterrichtsplanung zu optimieren. Es ist leicht verständlich und bietet sofort umsetzbare Tipps, die den Preis klar wert sind.",
+      "language": "de",
+      "pitch": "Lernen Sie, wie Sie Ihre Unterrichtsplanung optimieren und mehr Zeit für Ihre Schüler gewinnen. Mit praktischen Tipps und konkreten Beispielen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einführung</li><li>1. Kapitel: Zeitmanagement im Unterricht</li><li>2. Kapitel: Effektive Vorbereitung</li><li>3. Kapitel: Interaktive Lehrmethoden</li><li>4. Kapitel: Bewertung und Feedback</li><li>5. Kapitel: Digitale Tools für Lehrer</li><li>6. Kapitel: Stressmanagement im Schulalltag</li></ul><h2>Leseprobe</h2><p>In diesem Kapitel lernen Sie, wie Sie Ihre Unterrichtszeit effektiver nutzen und mehr Zeit für Ihre Schüler gewinnen können.</p>",
+      "created": "2026-09-27T08:54:41",
+      "file": "effektive-unterrichtsplanung-lehrer-nachhilfe-aa736c38789b1c67.pdf",
+      "size": 1687,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/dRm28s3jX8dt3MabQU2kw0A",
+      "payment_link_id": "plink_1UKDtuJ5iOXkWb9Vn0XDpS5j",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Senioren-Medikationsplaner & Erinnerungstracker",
+      "slug": "senioren-medikationsplaner-erinnerungstracker",
+      "price_eur": 7,
+      "target": "Pflegeorganisation für Angehörige und Senioren-Selbstmanagement",
+      "reason": "Übersichtliche Medikamentenverwaltung ist für pflegende Angehörige essenziell. Diese Vorlage reduziert Fehlerquellen und ersetzt teure Spezialsoftware - zu einem Bruchteil des Preises mit echter Zeitersparnis.",
+      "language": "de",
+      "pitch": "Digitale Unterstützung für die sichere Medikamenteneinnahme mit automatischen Erinnerungen und Dosistracking. Spart Zeit und reduziert Fehler bei der täglichen Medikamentenplanung.",
+      "content_html": "<h2>Inhalt</h2><p>Automatisierter Medikationsplan mit täglichen Erinnerungen, Notfallkontakten und einfachem Arztbericht-Generator.</p>",
+      "created": "2026-09-27T08:54:41",
+      "file": "senioren-medikationsplaner-erinnerungstracker-793671802d7cd7e1.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/dRmaEY9IldxNgyW6wA2kw0B",
+      "payment_link_id": "plink_1UKDtvJ5iOXkWb9V0ScC0ITf",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
@@ -1025,6 +1085,46 @@
     },
     {
       "t": "2026-09-27T08:05:15",
+      "eur": 0,
+      "why": "etsy-Fehler bei stundentracker-freelancer: HTTP Error 403: Forbidden {\"error\":\"API key not found or not active, or incorrect shared secret for API key.\"}\n"
+    },
+    {
+      "t": "2026-09-27T08:54:41",
+      "eur": -0.0035315999999999998,
+      "why": "KI-Denken: YouTube Content Planner & ROI-Tracker für Creator"
+    },
+    {
+      "t": "2026-09-27T08:54:41",
+      "eur": -0.0015576,
+      "why": "KI-Pruefung: YouTube Content Planner & ROI-Tracker für Creator"
+    },
+    {
+      "t": "2026-09-27T08:54:41",
+      "eur": -0.0102852,
+      "why": "KI-Denken: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
+    },
+    {
+      "t": "2026-09-27T08:54:41",
+      "eur": -0.003986399999999999,
+      "why": "KI-Pruefung: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
+    },
+    {
+      "t": "2026-09-27T08:54:41",
+      "eur": -0.16,
+      "why": "KI-Bilder: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
+    },
+    {
+      "t": "2026-09-27T08:54:41",
+      "eur": -0.0028152,
+      "why": "KI-Denken: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-27T08:54:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-27T08:54:41",
       "eur": 0,
       "why": "etsy-Fehler bei stundentracker-freelancer: HTTP Error 403: Forbidden {\"error\":\"API key not found or not active, or incorrect shared secret for API key.\"}\n"
     }
