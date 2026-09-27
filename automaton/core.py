@@ -71,13 +71,16 @@ def think(s):
     phase = CFG["phases"][s["phase"]]
     live = [p for p in s["products"] if not p.get("retired")]
     kind = ["excel", "ebook"][len(s["products"]) % 2]
+    niches = CFG.get("niches", ["Selbststaendige"])
+    niche = niches[len(s["products"]) % len(niches)]
     market = "Deutschland (Deutsch)" if (len(s["products"]) // 2) % 2 == 0 else "weltweit (Englisch)"
     prompt = f"""Du bist ein autonomer Unternehmer-Agent und ueberlebst nur, wenn Menschen deine Produkte kaufen.
 Kontostand {s['balance_eur']:.2f} EUR, Umsatz {s['revenue_eur']:.2f} EUR. Phase: {phase['goal']}
 Bestehende Produkte (nicht wiederholen): {[p['title'] for p in s['products']]}
 Verkaufszahlen: {[(p['title'], p.get('sales',0)) for p in live]}
 {RULES}
-Markt: {market}. Erstelle GENAU EIN neues Produkt: {TYPES[kind]}
+Markt: {market}. Zielgruppe/Nische dieses Mal: {niche}.
+Erstelle GENAU EIN neues Produkt: {TYPES[kind]}
 Es muss den Preis klar wert sein. Antworte NUR als JSON."""
     p, cost = llm_json(prompt)
     if p is None:
@@ -299,9 +302,11 @@ def main():
     started = datetime.datetime.fromisoformat(s["phase_started"])
     if s["phase"] + 1 < len(CFG["phases"]) and (datetime.datetime.fromisoformat(now) - started).days >= CFG["phases"][s["phase"]]["min_days"]:
         s["phase"] += 1; s["phase_started"] = now
-    for attempt in range(3):  # bis zu 3 Versuche, bis ein Produkt die Pruefung besteht
+    made = 0
+    for attempt in range(CFG.get("attempts_per_run", 7)):  # mehrere Produkte pro Lauf
+        if made >= CFG.get("products_per_run", 4): break
         try:
-            product, cost = think(s); book(s, -cost, f"KI-Denken: {product['title']}"); act(s, product); break
+            product, cost = think(s); book(s, -cost, f"KI-Denken: {product['title']}"); act(s, product); made += 1
         except Exception as e:
             s["log"].append({"t": now, "eur": 0, "why": f"Fehler (Versuch {attempt+1}): {str(e)[:300]}"})
     try: retire_old(s)
