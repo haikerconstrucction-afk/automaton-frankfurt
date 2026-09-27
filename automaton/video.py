@@ -30,7 +30,7 @@ def make(s, llm_json, book, root, now):
     post = next((b for b in reversed(s.get("blog", [])) if b.get("img") and b["slug"] not in done), None)
     if not post: return
     lang = post["lang"]
-    j, cost = llm_json(f"""Kurzvideo (30 Sekunden, 9:16) ueber '{post['topic']}' in Deutschland, Sprache {lang}.
+    j, cost = llm_json(f"""Kurzvideo (30 Sekunden, 9:16) ueber '{post['topic']}' in Deutschland. WICHTIG: Einblendungen und Sprechertext komplett auf {dict(blog.LANGS)[lang]} (Sprachcode {lang}).
 Gib 5 kurze Einblendungen (je max 45 Zeichen) und einen Sprechertext (70-90 Woerter, begeisternd, ohne erfundene Zahlen/Preise).
 JSON: {{"captions":["..",".."],"voice":"...","hashtags":"#..."}}""")
     book(s, -cost, f"Video-Skript: {post['topic']}")

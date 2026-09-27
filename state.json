@@ -1830,16 +1830,6 @@
       "img": true
     }
   ],
-  "videos": [
-    {
-      "slug": "ruhrgebiet-zollverein-guia-de-viaje",
-      "title": "Descubre el Ruhrgebiet y Zollverein: Un tesoro industrial en Alemania",
-      "lang": "es",
-      "created": "2026-09-27T10:07:15",
-      "hashtags": "#Ruhrgebiet #Zollverein #Welterbe #Industriekultur #Ruhrpott",
-      "voice": "Das Ruhrgebiet ist Kult! Hier pulsierte einst Deutschlands Industrie-Herz – heute steht die Zeche Zollverein als UNESCO-Juwel für kreatives Revival. Wo früher Kohle brodelte, glühen jetzt Designstudios und Freiluftkonzerte. Der imposante Doppelbock-Förderturm ist das Wahrzeichen des Reviers. Nachts verwandeln Lichtinstallationen die alten Hallen in magische Kunstwerke. Pure Industrieromantik!",
-      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons"
-    }
-  ],
+  "videos": [],
   "begleiter": {}
 }
