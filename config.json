@@ -22,7 +22,7 @@
     "max_job_eur": 300,
     "approval_required": true
   },
-  "products_per_run": 4,
+  "products_per_run": 3,
   "attempts_per_run": 7,
   "niches": [
     "Handwerksbetriebe (Angebote, Aufmass, Baustellen)",
@@ -43,5 +43,16 @@
     "Lehrer und Nachhilfe",
     "Senioren und Pflegeorganisation fuer Angehoerige",
     "Selbststaendige und Freelancer"
+  ],
+  "images_per_ebook": 4,
+  "eur_per_image": 0.04,
+  "image_model": "google/gemini-2.5-flash-image",
+  "audiences": [
+    "alle Geschlechter",
+    "Frauen",
+    "Maenner",
+    "divers / nicht-binaer",
+    "alle Geschlechter",
+    "Familien"
   ]
 }

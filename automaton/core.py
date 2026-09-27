@@ -67,7 +67,7 @@ Formeln als Strings mit '=' (englische Funktionsnamen, Komma als Trenner). Mind.
  "ebook": """ein kurzes E-Book (Ratgeber mit konkreten Schritten ODER eine Sammlung origineller Kurzgeschichten, z.B. Gute-Nacht-Geschichten fuer Kinder). JSON:
 {"type":"ebook","title":"...","slug":"kebab-case","price_eur":5,"target":"...","language":"de|en","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2> Inhaltsverzeichnis + Leseprobe",
 "chapters":[{"heading":"...","text":"mind. 350 Woerter, Absaetze mit \\n\\n getrennt"}],"reason":"..."}
-Mindestens 6 Kapitel.""",
+Mindestens 6 Kapitel. Sehr leicht verstaendlich, kurze Saetze, praktische Beispiele.""",
 }
 
 def think(s):
@@ -76,13 +76,15 @@ def think(s):
     kind = ["excel", "ebook"][len(s["products"]) % 2]
     niches = CFG.get("niches", ["Selbststaendige"])
     niche = niches[len(s["products"]) % len(niches)]
+    auds = CFG.get("audiences", ["alle"])
+    aud = auds[(len(s["products"]) // 2) % len(auds)]
     market = "Deutschland (Deutsch)" if (len(s["products"]) // 2) % 2 == 0 else "weltweit (Englisch)"
     prompt = f"""Du bist ein autonomer Unternehmer-Agent und ueberlebst nur, wenn Menschen deine Produkte kaufen.
 Kontostand {s['balance_eur']:.2f} EUR, Umsatz {s['revenue_eur']:.2f} EUR. Phase: {phase['goal']}
 Bestehende Produkte (nicht wiederholen): {[p['title'] for p in s['products']]}
 Verkaufszahlen: {[(p['title'], p.get('sales',0)) for p in live]}
 {RULES}
-Markt: {market}. Zielgruppe/Nische dieses Mal: {niche}.
+Markt: {market}. Zielgruppe/Nische dieses Mal: {niche}. Leserschaft: {aud} (respektvoll, ohne Klischees; im Titel nur nennen, wenn es echten Mehrwert hat).
 Erstelle GENAU EIN neues Produkt: {TYPES[kind]}
 Es muss den Preis klar wert sein. Antworte NUR als JSON."""
     p, cost = llm_json(prompt)
@@ -92,9 +94,9 @@ Es muss den Preis klar wert sein. Antworte NUR als JSON."""
     if kind == "ebook":  # Kapitel einzeln schreiben lassen -> echte Laenge
         for ch in p.get("chapters", [])[:10]:
             r, c = llm_json(f"""Schreibe Kapitel "{ch['heading']}" des E-Books "{p['title']}" ({p.get('language','de')}), Zielgruppe {p.get('target')}.
-{RULES} 450-700 Woerter, konkret, originell, gut lesbar, Absaetze mit \\n\\n. Nur JSON: {{"text":"..."}}""")
+{RULES} 450-700 Woerter, sehr leicht verstaendlich, kurze Saetze, konkrete Beispiele, Absaetze mit \\n\\n. Nur JSON: {{"text":"...","tips":["3-4 kurze Merksaetze"],"image_prompt":"english description of a friendly flat illustration for this chapter, no text"}}""")
             cost += c
-            if r and r.get("text"): ch["text"] = r["text"]
+            if r and r.get("text"): ch.update({k: r[k] for k in ("text", "tips", "image_prompt") if r.get(k)})
     return p, max(cost, 0.001)
 
 def review(p):
@@ -135,20 +137,78 @@ def build_excel(p, path):
     if p["type"] == "excel" and formulas < 3: raise RuntimeError("Excel ohne echte Formeln - verworfen")
     return n
 
+def gen_image(prompt, out):
+    """KI-Illustration ueber OpenRouter (Bildmodell). Gibt Kosten in EUR zurueck, 0 bei Fehler."""
+    key = os.getenv("LLM_API_KEY")
+    if not key: return 0
+    import base64
+    body = json.dumps({"model": CFG.get("image_model", "google/gemini-2.5-flash-image"), "modalities": ["image", "text"],
+        "messages": [{"role": "user", "content": "Flat modern editorial illustration, soft colors, friendly, clean, no text, no letters. " + prompt}]}).encode()
+    req = urllib.request.Request(os.getenv("LLM_BASE_URL", "https://openrouter.ai/api/v1") + "/chat/completions", data=body,
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
+    try:
+        r = json.load(urllib.request.urlopen(req, timeout=180))
+        url = r["choices"][0]["message"]["images"][0]["image_url"]["url"]
+        pathlib.Path(out).write_bytes(base64.b64decode(url.split(",", 1)[1]))
+        return CFG.get("eur_per_image", 0.04)
+    except Exception as e:
+        print("Bildfehler:", e); return 0
+
 def build_pdf(p, path):
     from reportlab.lib.pagesizes import A5
-    from reportlab.lib.styles import getSampleStyleSheet
-    from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
+    from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+    from reportlab.lib import colors
+    from reportlab.lib.units import mm
+    from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak, Image as RLImage, Table, TableStyle
     from xml.sax.saxutils import escape
-    st = getSampleStyleSheet(); story = [Spacer(1, 120), Paragraph(escape(p["title"]), st["Title"]),
-                                         Paragraph(escape(p.get("pitch", "")), st["Italic"]), PageBreak()]
+    import tempfile
+    GREEN = colors.HexColor("#0F5C4A"); INK = colors.HexColor("#16181D"); SOFT = colors.HexColor("#E8F1EC")
+    st = getSampleStyleSheet()
+    H1 = ParagraphStyle("h1", parent=st["Title"], fontName="Helvetica-Bold", fontSize=22, leading=27, textColor=INK, alignment=0)
+    H2 = ParagraphStyle("h2", parent=st["Heading2"], fontName="Helvetica-Bold", fontSize=15, leading=19, textColor=GREEN, spaceAfter=6)
+    BODY = ParagraphStyle("b", parent=st["BodyText"], fontName="Helvetica", fontSize=10.5, leading=15.5, textColor=INK, spaceAfter=6)
+    TIP = ParagraphStyle("t", parent=BODY, fontSize=10, leading=14)
+    SUB = ParagraphStyle("s", parent=BODY, textColor=colors.HexColor("#5F6470"))
+    tmp = pathlib.Path(tempfile.mkdtemp()); W = A5[0] - 30*mm
+    imgs = 0; max_imgs = CFG.get("images_per_ebook", 4)
+    p["_img_cost"] = 0
+    def pic(prompt, name, h):
+        nonlocal imgs
+        if imgs >= max_imgs or not prompt: return None
+        f = tmp/f"{name}.png"; c = gen_image(prompt, f)
+        if not c: return None
+        imgs += 1; p["_img_cost"] += c
+        return RLImage(str(f), width=W, height=h)
+    story = []
+    cov = pic(f"Book cover artwork for '{p['title']}', target audience {p.get('target','')}", "cover", W*0.9)
+    logo = ROOT/"site/logo.png"
+    if logo.exists(): story.append(RLImage(str(logo), width=18*mm, height=18*mm, hAlign="LEFT"))
+    story += [Spacer(1, 6*mm)] + ([cov, Spacer(1, 6*mm)] if cov else [Spacer(1, 40*mm)])
+    story += [Paragraph(escape(p["title"]), H1), Spacer(1, 3*mm), Paragraph(escape(p.get("pitch", "")), SUB), PageBreak()]
+    story += [Paragraph("Inhalt" if p.get("language") != "en" else "Contents", H2)]
+    for i, ch in enumerate(p.get("chapters", []), 1): story.append(Paragraph(f"{i}. {escape(ch['heading'])}", BODY))
+    story.append(PageBreak())
     words = 0
-    for ch in p.get("chapters", []):
-        story.append(Paragraph(escape(ch["heading"]), st["Heading2"]))
+    for i, ch in enumerate(p.get("chapters", []), 1):
+        story.append(Paragraph(f"{i}. {escape(ch['heading'])}", H2))
+        im = pic(ch.get("image_prompt"), f"c{i}", W*0.55) if i <= 3 else None
+        if im: story += [im, Spacer(1, 4*mm)]
         for para in str(ch["text"]).split("\n\n"):
-            words += len(para.split()); story += [Paragraph(escape(para), st["BodyText"]), Spacer(1, 6)]
+            words += len(para.split()); story.append(Paragraph(escape(para), BODY))
+        if ch.get("tips"):
+            lab = "Das Wichtigste" if p.get("language") != "en" else "Key takeaways"
+            rows = [[Paragraph(f"<b>{lab}</b>", TIP)]] + [[Paragraph("✓ " + escape(t), TIP)] for t in ch["tips"][:4]]
+            t = Table(rows, colWidths=[W]); t.setStyle(TableStyle([("BACKGROUND", (0, 0), (-1, -1), SOFT),
+                ("LEFTPADDING", (0, 0), (-1, -1), 8), ("RIGHTPADDING", (0, 0), (-1, -1), 8), ("TOPPADDING", (0, 0), (-1, -1), 4),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 4), ("LINEBEFORE", (0, 0), (0, -1), 3, GREEN)]))
+            story += [Spacer(1, 3*mm), t]
         story.append(PageBreak())
-    SimpleDocTemplate(str(path), pagesize=A5, title=p["title"]).build(story)
+    story.append(Paragraph("Haiktec · haiktec.tech · Mit KI-Unterstützung erstellt.", SUB))
+    def foot(c, d):
+        c.setFont("Helvetica", 8); c.setFillColor(colors.HexColor("#5F6470"))
+        c.drawString(15*mm, 8*mm, "Haiktec"); c.drawRightString(A5[0]-15*mm, 8*mm, str(d.page))
+    SimpleDocTemplate(str(path), pagesize=A5, title=p["title"], author="Haiktec", leftMargin=15*mm, rightMargin=15*mm,
+                      topMargin=15*mm, bottomMargin=15*mm).build(story, onFirstPage=foot, onLaterPages=foot)
     if words < 1500: raise RuntimeError(f"E-Book zu kurz ({words} Woerter) - verworfen")
     return words
 
@@ -184,6 +244,7 @@ def act(s, p):
     ok, verdict, cost = review(p); book(s, -max(cost, 0.001), f"KI-Pruefung: {p['title']}")
     if not ok: raise RuntimeError(f"Qualitaetspruefung nicht bestanden: {verdict}")
     fname, size = build_file(p)
+    if p.get("_img_cost"): book(s, -p["_img_cost"], f"KI-Bilder: {p['title']}")
     rec = {k: p.get(k) for k in ("type", "title", "slug", "price_eur", "target", "reason", "language", "pitch", "content_html")}
     rec |= {"created": now, "file": fname, "size": size, "sales": 0, "score": verdict.get("score"), "quality": 2}
     s["products"].append(rec)
@@ -261,7 +322,7 @@ FOOT = """<footer class="foot"><div class="wrap"><span>© 2026 Haiktec · Marcel
 HEAD = """<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title><meta name="description" content="{desc}"><link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{r}style.css"></head><body><header class="top"><div class="wrap"><a class="brand" href="{r}index.html"><span class="mark">H</span>Haiktec</a><nav><a href="{r}index.html#produkte">Produkte</a><a href="{r}impressum.html">Kontakt</a></nav></div></header>"""
+<link rel="icon" href="{r}favicon.png"><link rel="stylesheet" href="{r}style.css"></head><body><header class="top"><div class="wrap"><a class="brand" href="{r}index.html"><img src="{r}icon.png" alt="Haiktec" width="32" height="32" style="border-radius:6px">Haiktec</a><nav><a href="{r}index.html#produkte">Produkte</a><a href="{r}impressum.html">Kontakt</a></nav></div></header>"""
 
 def card(p):
     cur = "$" if p.get("language") == "en" else "€"
