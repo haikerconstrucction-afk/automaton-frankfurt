@@ -2,7 +2,7 @@
 import json, re, os, sys, pathlib
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 import core
-AUDIT_V = 1
+AUDIT_V = 2
 SUSPECT = re.compile(r"(studie|study|umfrage|survey|laut .{0,40}(universit|institut)|universit(ä|a)t .{0,30}\(20\d\d\)|\b\d{1,3}\s?%\s|prozent|percent|according to|forscher|researchers|statistik)", re.I)
 
 def text_of(p):
@@ -30,7 +30,7 @@ def text_of(p):
                 if v is None: continue
                 if isinstance(v, str) and v.startswith("="): formulas += 1
                 if isinstance(v, str) and v.startswith("#"): errs += 1
-                vals.append(str(v)[:60])
+                vals.append(str(v)[:400])
             if vals: out.append(" | ".join(vals))
     if formulas < 3: issues.append(f"nur {formulas} Formeln")
     if errs: issues.append(f"{errs} Fehlerwerte")
@@ -48,7 +48,10 @@ unfertige/abgebrochene Texte, Platzhalter wie [Name] oder Lorem; Wiederholungen;
 Gesundheitsversprechen; fremde Marken/Figuren; Formeln/Tabellen, die keinen Sinn ergeben.
 Inhalt:
 {sample}
-Antworte NUR als JSON: {{"score": 1-10, "remove": true|false, "reasons": "kurz, deutsch"}}  remove=true bei jedem klaren Regelverstoss oder score<6.""")
+Hinweis: Excel-Zellinhalte koennen zur Pruefung gekuerzt sein - das ist KEIN Fehler des Produkts.
+STRENG: Jede konkrete Prozentzahl, Statistik oder Wirkungsbehauptung ("80 % der...", "400 % produktiver", "Studien zeigen") ohne allgemein bekannte Grundlage = erfunden = remove true.
+Erlaubt sind nur allgemein bekannte Fakten (z. B. 19 % MwSt, 50-30-20-Regel als Faustregel, Beispielrechnungen die klar als Beispiel markiert sind).
+Antworte NUR als JSON: {{"score": 1-10, "remove": true|false, "invented_numbers": ["..."], "reasons": "kurz, deutsch"}}  remove=true bei jedem klaren Regelverstoss oder score<6.""")
     return r or {}, cost
 
 def retire(s, p, why):
@@ -78,6 +81,7 @@ def run(s, limit=100):
         r, cost = judge(p, t); core.book(s, -max(cost, 0.0005), f"Audit: {p['title'][:80]}")
         p["audit_v"], p["audit_score"], p["audit_note"] = AUDIT_V, r.get("score"), r.get("reasons", "")[:300]
         hard = [i for i in issues if not i.startswith("nur") or "Formeln" in i]
+        if r.get("invented_numbers"): r["reasons"] = (r.get("reasons", "") + " Erfundene Zahlen: " + ", ".join(map(str, r["invented_numbers"]))[:200])
         if r.get("remove") or (r.get("score") is not None and int(r["score"]) < 6) or hard:
             retire(s, p, "; ".join(hard + [r.get("reasons", "")])); removed += 1
         print(p["slug"], r.get("score"), r.get("remove"), issues, (r.get("reasons") or "")[:120])
