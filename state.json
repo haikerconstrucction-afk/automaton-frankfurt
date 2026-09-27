@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 500.5324,
-  "spent_eur": 4.1376,
+  "balance_eur": 500.1734,
+  "spent_eur": 4.4966,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1073,64 +1073,69 @@
       "pay_url": "https://buy.stripe.com/8x28wQ7Ad3Xdaay3ko2kw0U",
       "payment_link_id": "plink_1UKH1uJ5iOXkWb9Vpk1jb6UF",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años",
+      "slug": "cuentos-magicos-para-pequenos-sonadores",
+      "price_eur": 5,
+      "target": "Padres de niños entre 3 y 8 años",
+      "reason": "Este ebook está diseñado para ayudar a los padres a crear una rutina de sueño mágica y relajante para sus hijos. Cada historia está escrita con cuidado para fomentar la imaginación y los valores positivos, asegurando que los niños se vayan a dormir con una sonrisa.",
+      "language": "es",
+      "pitch": "Disfruta de 7 historias originales y cautivadoras para hacer que la hora de dormir sea un momento mágico. Perfectas para padres que buscan fomentar la imaginación y el sueño de sus hijos.",
+      "content_html": "<h2>Inhalt</h2> <p>Descubre siete cuentos únicos que transportarán a tus pequeños a mundos llenos de magia y aventuras en cada página. Cada historia está diseñada para estimular la imaginación y crear un ambiente tranquilo antes de dormir.</p>",
+      "created": "2026-09-27T17:01:01",
+      "file": "cuentos-magicos-para-pequenos-sonadores-0c1c92695803edac.pdf",
+      "size": 1644,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/5kQ9AU3jXbpF1E29IM2kw0V",
+      "payment_link_id": "plink_1UKLX7J5iOXkWb9VnNXnZ18N",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能婚礼预算跟踪与规划器 - 2026年专属版",
+      "slug": "smart-wedding-budget-planner-2026",
+      "price_eur": 9.99,
+      "target": "为中国、台湾、新加坡地区的新人提供专业的婚礼预算规划工具",
+      "reason": "亚洲婚礼产业规模持续增长，但专业预算工具稀缺。该产品针对大中华区市场需求定制，解决跨国婚礼规划中的货币换算和预算控制痛点，比现有产品更符合本地使用习惯。",
+      "language": "zh",
+      "pitch": "一站式解决您的婚礼预算烦恼，7大智能计算表格帮您精准控制每一项支出，轻松规划梦想婚礼",
+      "content_html": "<h2>2026年婚礼预算完整解决方案</h2><p>包含场地预定、婚宴管理、礼服配饰、摄影摄像等7大核心模块</p>",
+      "created": "2026-09-27T17:01:01",
+      "file": "smart-wedding-budget-planner-2026-dbf817734134ff75.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/00w28s07L79p2I6cUY2kw0W",
+      "payment_link_id": "plink_1UKLX8J5iOXkWb9VifOdU5ec",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南",
+      "slug": "cong-ming-sheng-qian-8-ge-jian-dan-de-ri-chang-jie-yue-ji-qiao",
+      "price_eur": 5,
+      "target": "想要优化家庭预算并找到实际节约方法的个人和家庭",
+      "reason": "在2026年的经济环境下，许多中国家庭寻求实际的省钱方法而不影响生活质量。这本电子书提供了一步一步的实施计划，而不是抽象的理论，解决了真实存在的需求。基于普遍认可的节约原则，避免了特定的金融建议，符合产品限制条件。",
+      "language": "zh",
+      "pitch": "这本电子书提供了8个简单易行的日常节约策略，帮助您在无需牺牲生活质量的情况下有效管理家庭财务。从优化水电费用到理智购物，每一步都有清晰的行动计划。",
+      "content_html": "<h2>内容</h2><ol><li>第一章：了解您的金钱去向</li><li>第二章：水电费用的隐形节省</li><li>第三章：聪明的食品采购策略</li><li>第四章：家庭节能的10个简单方法</li><li>第五章：避免冲动购物的技巧</li><li>第六章：家庭娱乐的实惠选择</li><li>第七章：建立应急基金的小窍门</li><li>第八章：长期储蓄的规划</li></ol>",
+      "created": "2026-09-27T17:01:01",
+      "file": "cong-ming-sheng-qian-8-ge-jian-dan-de-ri-chang-jie-yue-ji-qiao-f1e3417c8a81e60c.pdf",
+      "size": 2099,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/8x25kE6w951h2I69IM2kw0X",
+      "payment_link_id": "plink_1UKLX8J5iOXkWb9VLXVVV3TH",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-26T13:08:26",
-      "eur": 0,
-      "why": "Fehler: kein LLM_API_KEY - Schlafmodus"
-    },
-    {
-      "t": "2026-09-26T13:28:17",
-      "eur": -0.0005568,
-      "why": "KI-Denken: Vertragsgenerator für Freelancer"
-    },
-    {
-      "t": "2026-09-26T13:28:17",
-      "eur": 0,
-      "why": "Fehler: [Errno 2] No such file or directory: '/home/runner/work/automaton-frankfurt/automaton-frankfurt/site/products/vertragsgenerator-freelancer.html'"
-    },
-    {
-      "t": "2026-09-26T13:30:03",
-      "eur": -0.0005616,
-      "why": "KI-Denken: Effiziente Projektplanung Vorlage für Selbstständige"
-    },
-    {
-      "t": "2026-09-26T13:40:57",
-      "eur": -0.0013104,
-      "why": "KI-Denken: Kosten- und Zeitmanagement-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-26T14:54:06",
-      "eur": -0.0017004,
-      "why": "KI-Denken: Social-Media-Kalender Vorlage für Selbstständige"
-    },
-    {
-      "t": "2026-09-26T14:58:17",
-      "eur": -0.0020808,
-      "why": "KI-Denken: Reisekosten-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-26T15:13:01",
-      "eur": -0.0018599999999999999,
-      "why": "KI-Denken: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-26T15:13:01",
-      "eur": -0.0011531999999999998,
-      "why": "KI-Pruefung: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-26T15:13:47",
-      "eur": -0.001782,
-      "why": "KI-Denken: Digitale Selbstständigkeit: 7 Schritte zur erfolgreichen Online-Präsenz"
-    },
-    {
-      "t": "2026-09-26T15:13:47",
-      "eur": -0.001098,
-      "why": "KI-Pruefung: Digitale Selbstständigkeit: 7 Schritte zur erfolgreichen Online-Präsenz"
-    },
     {
       "t": "2026-09-26T15:13:47",
       "eur": 0,
@@ -2075,6 +2080,61 @@
       "t": "2026-09-27T12:07:03",
       "eur": -0.00034439999999999997,
       "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.011187599999999999,
+      "why": "KI-Denken: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.0043392,
+      "why": "KI-Pruefung: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.16,
+      "why": "KI-Bilder: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.0038951999999999997,
+      "why": "KI-Denken: 智能婚礼预算跟踪与规划器 - 2026年专属版"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能婚礼预算跟踪与规划器 - 2026年专属版"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.0109404,
+      "why": "KI-Denken: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.0045948,
+      "why": "KI-Pruefung: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.16,
+      "why": "KI-Bilder: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.0014315999999999999,
+      "why": "Blog-Artikel: Saechsische Schweiz (es)"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.0012731999999999997,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (fr)"
+    },
+    {
+      "t": "2026-09-27T17:01:01",
+      "eur": -0.0003876,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
     }
   ],
   "alive": true,
@@ -2144,6 +2204,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-09-27T12:07:03",
       "img": true
+    },
+    {
+      "slug": "descubriendo-la-suiza-sajona",
+      "title": "Descubriendo la Suiza Sajona: Un paraíso natural en Alemania",
+      "lang": "es",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-09-27T17:01:01",
+      "img": true
+    },
+    {
+      "slug": "falaises-de-craie-de-ruegen-allemagne",
+      "title": "Les Falaises de Craie de Rügen : Un Joyau Naturel en Allemagne",
+      "lang": "fr",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-09-27T17:01:01",
+      "img": true
     }
   ],
   "videos": [
@@ -2164,6 +2240,15 @@
       "hashtags": "#新天鹅堡 #德国旅游 #童话城堡 #巴伐利亚 #欧洲必去",
       "voice": "在德国巴伐利亚州阿尔卑斯山脉中，坐落着一座童话般的城堡 - 新天鹅堡！这座19世纪的建筑瑰宝是路德维希二世的梦幻之作，白墙蓝顶与群山相映成趣。作为迪士尼睡美人城堡的原型，它每年吸引无数游客前来朝圣。登高望远，您将领略绝美的自然风光与建筑艺术的完美融合！",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons"
+    },
+    {
+      "slug": "falaises-de-craie-de-ruegen-allemagne",
+      "title": "Les Falaises de Craie de Rügen : Un Joyau Naturel en Allemagne",
+      "lang": "fr",
+      "created": "2026-09-27T17:01:01",
+      "hashtags": "#Rügen #Allemagne #VoyageNature #MerBaltique #FalaisesDeCraie",
+      "voice": "Découvrez les mythiques falaises de craie de l'île de Rügen ! Ces géants blancs plongeant dans la mer Baltique offrent un spectacle époustouflant. Marchez sur les sentiers côtiers pour des vues à couper le souffle. Un incontournable en Allemagne où nature sauvage et paysages légendaires se rencontrent. Aventure garantie !",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons"
     }
   ],
   "begleiter": {
