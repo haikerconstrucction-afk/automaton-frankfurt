@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 503.824,
-  "spent_eur": 0.846,
+  "balance_eur": 503.244,
+  "spent_eur": 1.426,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -79,7 +79,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/00w3cw9Il65lgyWdZ22kw03",
       "payment_link_id": "plink_1UJxgSJ5iOXkWb9V0xlIEdfD",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583538647"
+      }
     },
     {
       "type": "ebook",
@@ -99,7 +102,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/5kQ00kaMp9hxgyW8EI2kw04",
       "payment_link_id": "plink_1UJxgTJ5iOXkWb9VrP4BSpVp",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583538663"
+      }
     },
     {
       "type": "excel",
@@ -740,6 +746,66 @@
       "pay_url": "https://buy.stripe.com/8x2eVecUx51h4QeaMQ2kw0E",
       "payment_link_id": "plink_1UKEMuJ5iOXkWb9VpSf8oWMw",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Hochzeits-Checkliste & Budget-Tracker für perfekte Planung",
+      "slug": "hochzeits-checkliste-budget-tracker",
+      "price_eur": 9,
+      "target": "Paare, die ihre Hochzeit organisieren (insbesondere Bräute, die Budget und To-dos im Blick behalten wollen)",
+      "reason": "Viele Hochzeitsplaner verlieren den Überblick über ihre Ausgaben und To-dos. Diese Vorlage bietet Paaren eine zentrale, berechnende Übersicht – besonders wertvoll, da Hochzeiten oft das erste größere Budget-Projekt junger Paare sind.",
+      "language": "de",
+      "pitch": "Alle Hochzeitskosten und Aufgaben auf einen Blick – behalten Sie mit dieser intelligenten Excel-Vorlage jeden Euro und jeden Termin unter Kontrolle.",
+      "content_html": "<h2>Inhalt</h2><p>Planen Sie Ihre Hochzeit stressfrei mit automatischen Budgetberechnungen, Fortschrittsbalken für To-dos und einer Übersicht aller wichtigen Kontakte.</p>",
+      "created": "2026-09-27T09:33:54",
+      "file": "hochzeits-checkliste-budget-tracker-2fa21ab0f2d5ce60.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/fZu5kE9Il0L1gyW08c2kw0F",
+      "payment_link_id": "plink_1UKEY0J5iOXkWb9VISyuZhLg",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Alltag",
+      "slug": "clever-haushalten-sparstrategien-fuer-familien",
+      "price_eur": 5,
+      "target": "Haushalte, die ohne Verzicht smarter haushalten möchten (besonders Familien und Alleinerziehende)",
+      "reason": "Haushalte suchen praktische Lösungen für steigende Kosten. Der Fokus auf konkrete, sofort umsetzbare Strategien (statt theoretischer Finanzplanung) spricht besonders Familien an. Die Kombination aus psychologischen Tricks und echten Haushaltstipps bietet greifbaren Mehrwert für den Preis.",
+      "language": "de",
+      "pitch": "Praktische Tipps statt trockener Theorie - so sparen Sie im Alltag ohne Verzicht. Mit direkt umsetzbaren Plänen und cleveren Haushaltstricks.",
+      "content_html": "<h2>Inhalt</h2><ul><li>1. Die 50-30-20 Regel für Haushalte - einfach erklärt</li><li>2. Lebensmittel clever kaufen: Nie wieder zu viel ausgeben</li><li>3. Kostenfallen im Haushalt erkennen und umgehen</li><li>4. Energiesparen ohne Komfortverlust</li><li>5. Spontankäufe kontrollieren: Das 48-Stunden-Prinzip</li><li>6. Gemeinsam sparen: Familienbudgets spielerisch verwalten</li><li>7. Notgroschen aufbauen - auch mit kleinem Budget</li></ul><h3>Leseprobe (aus Kapitel 2):</h3><p>Wer kennt es nicht - der Wocheneinkauf wird viel teurer als geplant. Dabei lässt sich mit einfachen Tricks sparen...</p>",
+      "created": "2026-09-27T09:33:54",
+      "file": "clever-haushalten-sparstrategien-fuer-familien-3bb46a2a3c2c3bca.pdf",
+      "size": 1546,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/dRm00k7Ad65l2I6aMQ2kw0G",
+      "payment_link_id": "plink_1UKEY1J5iOXkWb9V8RugYLHI",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer",
+      "slug": "smart-trainingsplaner-fortschritts-tracker-fuer-fitnesstrainer",
+      "price_eur": 7,
+      "target": "Selbstständige Fitnesstrainer und Personal Trainer, die ihre Kunden strukturiert betreuen möchten",
+      "reason": "Fitnesstrainer benötigen ein einfaches System zur Dokumentation von Trainingsplänen und Fortschritten. Diese Vorlage erspart stundenlanges Erstellen individueller Tabellen und bietet professionelle Auswertungen für Kunden.",
+      "language": "de",
+      "pitch": "Professionelle Trainingsplanung mit automatischer Fortschrittsanalyse. Sparen Sie Zeit bei der Kundenbetreuung und zeigen Sie messbare Ergebnisse.",
+      "content_html": "<h2>Inhalt</h2><p>Individuelle Trainingspläne erstellen, Leistungsfortschritte tracken und automatische Auswertungen für Ihre Kunden generieren.</p>",
+      "created": "2026-09-27T09:33:54",
+      "file": "smart-trainingsplaner-fortschritts-tracker-fuer-fitnesstrainer-4a4c7e1cfcf9010a.xlsx",
+      "size": 20,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/fZubJ23jX65l4Qef362kw0H",
+      "payment_link_id": "plink_1UKEY2J5iOXkWb9VNfnZRiTR",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
@@ -1292,6 +1358,81 @@
       "t": "2026-09-27T09:12:29",
       "eur": 0,
       "why": "etsy-Fehler bei stundentracker-freelancer: HTTP Error 403: Forbidden {\"error\":\"API key not found or not active, or incorrect shared secret for API key.\"}\n"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.0033575999999999996,
+      "why": "KI-Denken: Hochzeits-Checkliste & Budget-Tracker für perfekte Planung"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.0012275999999999997,
+      "why": "KI-Pruefung: Hochzeits-Checkliste & Budget-Tracker für perfekte Planung"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.009814799999999999,
+      "why": "KI-Denken: Cleveres Sparen im Alltag: 30 einfache Tricks für mehr Geld im Portemonnaie"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.0043656,
+      "why": "KI-Pruefung: Cleveres Sparen im Alltag: 30 einfache Tricks für mehr Geld im Portemonnaie"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): E-Book zu kurz (1421 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.010844399999999999,
+      "why": "KI-Denken: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Alltag"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.0043067999999999995,
+      "why": "KI-Pruefung: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Alltag"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.16,
+      "why": "KI-Bilder: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Alltag"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.0041952,
+      "why": "KI-Denken: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.0018899999999999998,
+      "why": "KI-Pruefung: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Stundentracker für Freelancer"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583538647"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Effizientes Selbstmanagement für Selbstständige in 6 Schritten"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583538663"
+    },
+    {
+      "t": "2026-09-27T09:33:54",
+      "eur": 0,
+      "why": "etsy-Fehler bei kunden-rueckgewinnungs-tracker-fuer-kleinunternehmer: HTTP Error 400: Bad Request {\"error\":\"File names must be between 3 and 70 characters and contain only letters, numbers, hyphens, underscores, or periods.\"}\n"
     }
   ],
   "alive": true,
