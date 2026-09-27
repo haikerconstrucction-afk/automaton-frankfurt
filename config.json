@@ -91,5 +91,5 @@
   ],
   "blog_posts_per_run": 2,
   "videos_per_run": 1,
-  "begleiter_api": ""
+  "begleiter_api": "https://haiktec-begleiter.haiktec.workers.dev"
 }
