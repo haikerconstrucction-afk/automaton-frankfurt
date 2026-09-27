@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.4567,
-  "spent_eur": 0.2133,
+  "balance_eur": 504.4176,
+  "spent_eur": 0.2524,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -540,6 +540,86 @@
       "pay_url": "https://buy.stripe.com/4gMaEY1bP8dt82qf362kw0u",
       "payment_link_id": "plink_1UKD3vJ5iOXkWb9VldJG2R0O",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche",
+      "slug": "mitglieder-finanzplaner-vereine-ehrenamt-2026",
+      "price_eur": 7,
+      "target": "Vereinsvorstände & ehrenamtliche Organisatoren in Deutschland",
+      "reason": "Vereine und Ehrenamtliche benötigen professionelle, aber kostengünstige Tools zur Verwaltung. Diese Vorlage ersetzt manuelle Listen und spart wertvolle Zeit bei ehrenamtlichen Tätigkeiten durch Automatisierung. Der Preis von 7 EUR ist gerechtfertigt, da ähnliche Spezialsoftware ab 100 EUR/Monat angeboten wird.",
+      "language": "de",
+      "pitch": "Professionelle Verwaltung von Mitgliederdaten, Spenden und Vereinsfinanzen in einer Excel-Vorlage. Sparen Sie Zeit bei der ehrenamtlichen Arbeit mit automatischen Berechnungen und Übersichten.",
+      "content_html": "<h2>Inhalt</h2><p>Automatisierte Mitgliederverwaltung, Spendentracker, Jahresbudgetplanung, Veranstaltungskostenrechner und Auswertungsdashboard für Vereine.</p>",
+      "created": "2026-09-27T08:05:15",
+      "file": "mitglieder-finanzplaner-vereine-ehrenamt-2026-1015dcc17849d596.xlsx",
+      "size": 15,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/fZu14o1bP51hciGaMQ2kw0v",
+      "payment_link_id": "plink_1UKDBvJ5iOXkWb9VsPXUXMrY",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag",
+      "slug": "hundepflege-hacks-fuer-gestresste-besitzer",
+      "price_eur": 5,
+      "target": "deutschsprachige Hundebesitzer mit wenig Zeit, die praktische Alltagslösungen suchen",
+      "reason": "Hundebesitzer sind eine stetig wachsende Gruppe in Deutschland mit hoher Bereitschaft, in praktische Lösungen zu investieren. Bisher gibt es wenige kompakte, sofort anwendbare Guides für Alltagsprobleme – dieses E-Book füllt die Lücke zwischen oberflächlichen Blogartikeln und teuren Fachbüchern.",
+      "language": "de",
+      "pitch": "Sparen Sie Zeit und Nerven mit diesen 30+ cleveren Tricks für die Hundepflege. Von Fellpflege bis Gassiroutine – alles sofort umsetzbar!",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Zeit sparen bei der Fellpflege</li><li>Kapitel 2: Stressfreies Futtermanagement</li><li>Kapitel 3: DIY-Spielzeug für unterwegs</li><li>Kapitel 4: Die 10-Minuten-Gassiroutine</li><li>Kapitel 5: Hund allein lassen ohne Drama</li><li>Kapitel 6: Notfall-Checks für unterwegs</li></ul><p>Leseprobe: Kennen Sie das? Sie kommen gestresst nach Hause und der Hund braucht sofort Aufmerksamkeit. In Kapitel 5 lernen Sie ein 3-Schritte-Programm, mit dem Ihr Hund entspannt auf Sie wartet...</p>",
+      "created": "2026-09-27T08:05:15",
+      "file": "hundepflege-hacks-fuer-gestresste-besitzer-981c0d99b2f92d5f.pdf",
+      "size": 2074,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/6oU9AUcUx3Xd1E23ko2kw0w",
+      "payment_link_id": "plink_1UKDBwJ5iOXkWb9V6w00eQgY",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Umzugsbudget & Renovierungskosten-Rechner für Selbstständige",
+      "slug": "umzugsbudget-renovierungskosten-rechner",
+      "price_eur": 7,
+      "target": "Selbstständige und Kleinunternehmer, die umziehen oder ihre Geschäftsräume renovieren",
+      "reason": "Umzüge und Renovierungen sind für Selbstständige besonders kostspielig und zeitaufwendig. Die Excel-Vorlage bietet eine zentrale Übersicht und Automatisierung der Budgetplanung, womit sie den Preis mehr als wert ist. Sie erspart Stunden von manuellen Berechnungen und hilft, Kosten unter Kontrolle zu halten.",
+      "language": "de",
+      "pitch": "Planen und kontrollieren Sie alle Umzugs- und Renovierungskosten in einer einzigen Vorlage. Sparen Sie Zeit und Geld durch klare Budgetierung und automatische Berechnungen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Automatisierte Berechnung aller Kostenposten</li><li>Übersichtliche Darstellung der Ausgaben</li><li>Vergleich von geplanten vs. tatsächlichen Kosten</li><li>Anpassbare Kategorien für individuelle Bedürfnisse</li></ul>",
+      "created": "2026-09-27T08:05:15",
+      "file": "umzugsbudget-renovierungskosten-rechner-a21b96731390bcec.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/14AbJ2g6J8dt96u8EI2kw0x",
+      "payment_link_id": "plink_1UKDBwJ5iOXkWb9V1Xkccrg1",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte",
+      "slug": "selbstversorgung-im-garten-7-schritte-zur-ganzjaehrigen-ernte",
+      "price_eur": 5,
+      "target": "Gärtner und Selbstversorger",
+      "reason": "Dieses E-Book bietet einen umfassenden und praktischen Leitfaden für Gärtner und Selbstversorger, die eine ganzjährige Ernte erreichen möchten. Es ist leicht verständlich, bietet konkretes Wissen und ist daher den Preis definitiv wert.",
+      "language": "de",
+      "pitch": "Werden Sie unabhängig von Lebensmittelgeschäften und genießen Sie ganzjährig frische Ernten mit diesem praktischen Ratgeber. Lernen Sie, wie Sie Ihren Garten effizient planen, pflegen und ernten können.",
+      "content_html": "<h2>Inhalt</h2> <ol><li>Einleitung</li><li>Gartenplanung</li><li>Bodenverbesserung</li><li>Pflanzenauswahl</li><li>Pflege und Bewässerung</li><li>Pflanzenschutz</li><li>Ernte und Lagerung</li></ol>",
+      "created": "2026-09-27T08:05:15",
+      "file": "selbstversorgung-im-garten-7-schritte-zur-ganzjaehrigen-ernte-1ec09d2881624694.pdf",
+      "size": 2775,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/7sYcN6bQt79pgyW1cg2kw0y",
+      "payment_link_id": "plink_1UKDBxJ5iOXkWb9VqpwuMgCM",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
@@ -902,6 +982,51 @@
       "t": "2026-09-27T07:56:32",
       "eur": -0.0034044,
       "why": "KI-Pruefung: The Etsy Seller's Growth Playbook: Proven Strategies to Increase Traffic & Sales in 2026"
+    },
+    {
+      "t": "2026-09-27T08:05:15",
+      "eur": -0.0029771999999999997,
+      "why": "KI-Denken: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche"
+    },
+    {
+      "t": "2026-09-27T08:05:15",
+      "eur": -0.0012395999999999998,
+      "why": "KI-Pruefung: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche"
+    },
+    {
+      "t": "2026-09-27T08:05:15",
+      "eur": -0.010072799999999998,
+      "why": "KI-Denken: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
+    },
+    {
+      "t": "2026-09-27T08:05:15",
+      "eur": -0.004392,
+      "why": "KI-Pruefung: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
+    },
+    {
+      "t": "2026-09-27T08:05:15",
+      "eur": -0.0032327999999999996,
+      "why": "KI-Denken: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T08:05:15",
+      "eur": -0.0012071999999999999,
+      "why": "KI-Pruefung: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T08:05:15",
+      "eur": -0.011687999999999999,
+      "why": "KI-Denken: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
+    },
+    {
+      "t": "2026-09-27T08:05:15",
+      "eur": -0.004252799999999999,
+      "why": "KI-Pruefung: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
+    },
+    {
+      "t": "2026-09-27T08:05:15",
+      "eur": 0,
+      "why": "etsy-Fehler bei stundentracker-freelancer: HTTP Error 403: Forbidden {\"error\":\"API key not found or not active, or incorrect shared secret for API key.\"}\n"
     }
   ],
   "alive": true,
