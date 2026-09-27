@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 503.244,
-  "spent_eur": 1.426,
+  "balance_eur": 502.2925,
+  "spent_eur": 2.3775,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -125,7 +125,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/28E14ocUxctJ82qf362kw05",
       "payment_link_id": "plink_1UJxgUJ5iOXkWb9VqlMBU1Kt",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583542433"
+      }
     },
     {
       "type": "ebook",
@@ -145,7 +148,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/28E3cw2fTalBbeC8EI2kw06",
       "payment_link_id": "plink_1UJxpMJ5iOXkWb9VWNvmC3ke",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583552794"
+      }
     },
     {
       "type": "excel",
@@ -165,7 +171,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/aFacN63jXfFV0zY4os2kw07",
       "payment_link_id": "plink_1UK08zJ5iOXkWb9VVdRvIdgJ",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583542459"
+      }
     },
     {
       "type": "ebook",
@@ -806,6 +815,66 @@
       "pay_url": "https://buy.stripe.com/fZubJ23jX65l4Qef362kw0H",
       "payment_link_id": "plink_1UKEY2J5iOXkWb9VNfnZRiTR",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación",
+      "slug": "guia-practica-para-docentes-estrategias-efectivas",
+      "price_eur": 5,
+      "target": "profesores y tutores",
+      "reason": "Este ebook proporciona herramientas prácticas y estrategias eficaces para docentes y tutores, ayudándoles a mejorar su planificación y evaluación en el aula. Es fácil de seguir y está lleno de ejemplos prácticos, lo que lo hace esencial para cualquier educador que busque mejorar su eficiencia y efectividad.",
+      "language": "es",
+      "pitch": "Descubre técnicas sencillas para mejorar tu planificación y evaluación en el aula. Ahorra tiempo y aumenta el rendimiento de tus alumnos.",
+      "content_html": "<h2>Contenido</h2><ul><li>Introducción: La importancia de la planificación</li><li>Capítulo 1: Estructura básica de una clase efectiva</li><li>Capítulo 2: Herramientas digitales para la planificación</li><li>Capítulo 3: Métodos de evaluación rápida y efectiva</li><li>Capítulo 4: Estrategias para mantener la atención de los alumnos</li><li>Capítulo 5: Cómo adaptar la enseñanza a diferentes estilos de aprendizaje</li><li>Capítulo 6: Consejos para el manejo del tiempo y el estrés</li></ul>",
+      "created": "2026-09-27T09:43:40",
+      "file": "guia-practica-para-docentes-estrategias-efectivas-e52141aabfb62029.pdf",
+      "size": 1725,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/cNi00k8Eh79p4Qe6wA2kw0I",
+      "payment_link_id": "plink_1UKEjHJ5iOXkWb9VQHs79chK",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Senioren-Medikationsplaner & Erinnerungstracker",
+      "slug": "senioren-medikationsplaner-erinnerungstracker",
+      "price_eur": 7,
+      "target": "Pflegeorganisationen und Angehörige von Senioren",
+      "reason": "Viele Pflegekräfte und Angehörige kämpfen mit der komplexen Medikamentenvergabe. Dieses Tool vereinfacht den Prozess, reduziert Fehler und spart wertvolle Zeit im Pflegealltag.",
+      "language": "zh",
+      "pitch": "Effiziente Medikamentenverwaltung und Erinnerungshilfe für die tägliche Pflege. Sparen Sie Zeit und vermeiden Sie Dosierungsfehler mit diesem intelligenten Planer.",
+      "content_html": "<h2>Inhalt</h2><p>Automatisierter Medikationsplan mit Erinnerungsfunktion, Dosierungsverlauf und Notfallkontakten. Ideal für Pflegekräfte und Familienmitglieder.</p>",
+      "created": "2026-09-27T09:43:40",
+      "file": "senioren-medikationsplaner-erinnerungstracker-1039e5b1fc9b6ccb.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/cNi5kE5s551h1E208c2kw0J",
+      "payment_link_id": "plink_1UKEjIJ5iOXkWb9V9HxBT5In",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "自由职业者的成功之道：7个简单步骤实现财务自由与高效工作",
+      "slug": "freelancer-success-guide-zh",
+      "price_eur": 5,
+      "target": "中国的自由职业者和创业者",
+      "reason": "中国自由职业市场快速增长，但许多从业者缺乏系统指导。这本为中文读者量身定制的手册填补了这一空白，提供经过验证且易于实施的策略。价格合理的电子书格式方便自由职业者在移动设备上阅读和学习。",
+      "language": "zh",
+      "pitch": "这本实用指南提供了7个经过验证的策略，帮助自由职业者在2026年实现更高效的工作流程和稳定的收入。包含可立即实施的具体解决方案。",
+      "content_html": "<h2>目录</h2><ol><li>第一章：建立你的个人品牌</li><li>第二章：设定合理的收费标准</li><li>第三章：高效时间管理技巧</li><li>第四章：寻找优质客户的策略</li><li>第五章：避免常见财务陷阱</li><li>第六章：建立长期客户关系</li><li>第七章：利用数字工具提升效率</li></ol><h2>试读内容</h2><p>现代社会越来越多人选择成为自由职业者。但缺少系统指导往往导致时间和金钱的浪费。本指南专门为中国自由职业市场设计，提供实用适应当地情况的建议...</p>",
+      "created": "2026-09-27T09:43:40",
+      "file": "freelancer-success-guide-zh-8cd1b689be97e177.pdf",
+      "size": 2067,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/cNi7sM4o179p96u4os2kw0K",
+      "payment_link_id": "plink_1UKEjIJ5iOXkWb9ViNhaMvFt",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
@@ -1433,9 +1502,167 @@
       "t": "2026-09-27T09:33:54",
       "eur": 0,
       "why": "etsy-Fehler bei kunden-rueckgewinnungs-tracker-fuer-kleinunternehmer: HTTP Error 400: Bad Request {\"error\":\"File names must be between 3 and 70 characters and contain only letters, numbers, hyphens, underscores, or periods.\"}\n"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.009512399999999999,
+      "why": "KI-Denken: Aula Digital sin Estrés: Guía Práctica para Docentes del Siglo XXI"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0040212,
+      "why": "KI-Pruefung: Aula Digital sin Estrés: Guía Práctica para Docentes del Siglo XXI"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1427 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.010479599999999999,
+      "why": "KI-Denken: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0037655999999999996,
+      "why": "KI-Pruefung: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0033767999999999997,
+      "why": "KI-Denken: Pflegezeit-Organisationsplaner für Angehörige & Seniorenbetreuung"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Pflegezeit-Organisationsplaner für Angehörige & Seniorenbetreuung"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0034584,
+      "why": "KI-Denken: Pflegezeitplaner & Medikations-Tracker für pflegende Angehörige"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0010199999999999999,
+      "why": "KI-Pruefung: Pflegezeitplaner & Medikations-Tracker für pflegende Angehörige"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Keine offensichtlichen Regelverstöße, aber Funktionen sehr grundlegend. Formeln korrekt (keine erfundenen Statistiken), Preis für einfache Excel-Lösung in China/Taiwan/Singapur-Kontext fragwürdig.'}"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0034415999999999995,
+      "why": "KI-Denken: Seniorenmedikations- & Pflegeplanungs-Tracker"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Seniorenmedikations- & Pflegeplanungs-Tracker"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0033059999999999995,
+      "why": "KI-Denken: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0094476,
+      "why": "KI-Denken: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0042239999999999995,
+      "why": "KI-Pruefung: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.16,
+      "why": "KI-Bilder: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0014063999999999997,
+      "why": "Blog-Artikel: Schwarzwald (de)"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.0010524,
+      "why": "Blog-Artikel: Saarland Saarschleife (en)"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583542433"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583552794"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Zeit- und Projektbudget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T09:43:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583542459"
     }
   ],
   "alive": true,
   "jobs": [],
-  "stripe_seen": 4.67
+  "stripe_seen": 4.67,
+  "blog": [
+    {
+      "slug": "schwarzwald-erleben-natur-kultur-und-kulinarik",
+      "title": "Schwarzwald erleben: Natur, Kultur und Kulinarik in Deutschlands grünem Herzen",
+      "lang": "de",
+      "topic": "Schwarzwald",
+      "created": "2026-09-27T09:43:40",
+      "img": true
+    },
+    {
+      "slug": "saarland-saarschleife-hidden-gem-germany",
+      "title": "Saarland Saarschleife: A Hidden Gem in Germany's Southwest",
+      "lang": "en",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-09-27T09:43:40",
+      "img": true
+    }
+  ]
 }
