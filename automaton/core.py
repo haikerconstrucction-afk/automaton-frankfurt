@@ -24,7 +24,7 @@ def stripe_revenue():
     data = json.load(urllib.request.urlopen(req, timeout=30))["data"]
     return sum(t["net"] for t in data) / 100  # netto nach Gebuehren
 
-SITE = "https://haikerconstrucction-afk.github.io/automaton-frankfurt"
+SITE = "https://haiktec.tech"
 
 def stripe(method, path, data=None):
     import urllib.parse
