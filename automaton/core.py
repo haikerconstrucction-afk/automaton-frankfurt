@@ -57,6 +57,7 @@ def count_sales(s):
 
 RULES = """Regeln: legal, ehrlich, kein Spam, keine Finanz-/Rechts-/Steuerberatung, keine Steuer- oder Pauschalwerte,
 keine Vertraege/Rechtsvorlagen, keine Gesundheitsversprechen, keine Marken/Figuren/Personen Dritter, keine Kopien bestehender Werke.
+Keine erfundenen Studien, Statistiken, Zahlen, Zitate oder Quellen - nur allgemein bekanntes Wissen und eigene Praxistipps.
 Aktuelles Jahr: 2026."""
 
 TYPES = {
@@ -104,7 +105,7 @@ def review(p):
     sample = json.dumps({k: p.get(k) for k in ("title", "price_eur", "target", "guide", "sheets", "chapters")}, ensure_ascii=False)[:12000]
     r, cost = llm_json(f"""Du bist ein strenger Qualitaetspruefer fuer digitale Produkte. {RULES}
 Wuerde ein zahlender Kunde dieses Produkt fuer {p.get('price_eur')} EUR als fair empfinden? Verstoesst es gegen eine Regel?
-Pruefe bei Excel, ob Formeln sinnvoll sind. Produkt: {sample}
+Pruefe bei Excel, ob Formeln sinnvoll sind. Erfundene Studien/Statistiken/Quellen = rule_violation. Produkt: {sample}
 Antworte NUR als JSON: {{"score": 1-10, "rule_violation": true|false, "issues": "kurz"}}""")
     ok = r and int(r.get("score", 0)) >= 7 and not r.get("rule_violation")
     return bool(ok), r, cost
@@ -149,7 +150,10 @@ def gen_image(prompt, out):
     try:
         r = json.load(urllib.request.urlopen(req, timeout=180))
         url = r["choices"][0]["message"]["images"][0]["image_url"]["url"]
-        pathlib.Path(out).write_bytes(base64.b64decode(url.split(",", 1)[1]))
+        import io
+        from PIL import Image as PImg
+        im = PImg.open(io.BytesIO(base64.b64decode(url.split(",", 1)[1]))).convert("RGB"); im.thumbnail((1200, 1200))
+        im.save(out, "JPEG", quality=82)
         return CFG.get("eur_per_image", 0.04)
     except Exception as e:
         print("Bildfehler:", e); return 0
@@ -164,7 +168,7 @@ def build_pdf(p, path):
     import tempfile
     GREEN = colors.HexColor("#0F5C4A"); INK = colors.HexColor("#16181D"); SOFT = colors.HexColor("#E8F1EC")
     st = getSampleStyleSheet()
-    H1 = ParagraphStyle("h1", parent=st["Title"], fontName="Helvetica-Bold", fontSize=22, leading=27, textColor=INK, alignment=0)
+    H1 = ParagraphStyle("h1", parent=st["Title"], fontName="Helvetica-Bold", fontSize=17 if len(p["title"]) > 60 else 21, leading=21 if len(p["title"]) > 60 else 26, textColor=INK, alignment=0)
     H2 = ParagraphStyle("h2", parent=st["Heading2"], fontName="Helvetica-Bold", fontSize=15, leading=19, textColor=GREEN, spaceAfter=6)
     BODY = ParagraphStyle("b", parent=st["BodyText"], fontName="Helvetica", fontSize=10.5, leading=15.5, textColor=INK, spaceAfter=6)
     TIP = ParagraphStyle("t", parent=BODY, fontSize=10, leading=14)
@@ -175,15 +179,15 @@ def build_pdf(p, path):
     def pic(prompt, name, h):
         nonlocal imgs
         if imgs >= max_imgs or not prompt: return None
-        f = tmp/f"{name}.png"; c = gen_image(prompt, f)
+        f = tmp/f"{name}.jpg"; c = gen_image(prompt, f)
         if not c: return None
         imgs += 1; p["_img_cost"] += c
         return RLImage(str(f), width=W, height=h)
     story = []
-    cov = pic(f"Book cover artwork for '{p['title']}', target audience {p.get('target','')}", "cover", W*0.9)
+    cov = pic(f"Book cover artwork for '{p['title']}', target audience {p.get('target','')}", "cover", W*0.62)
     logo = ROOT/"site/logo.png"
     if logo.exists(): story.append(RLImage(str(logo), width=18*mm, height=18*mm, hAlign="LEFT"))
-    story += [Spacer(1, 6*mm)] + ([cov, Spacer(1, 6*mm)] if cov else [Spacer(1, 40*mm)])
+    story += [Spacer(1, 4*mm)] + ([cov, Spacer(1, 5*mm)] if cov else [Spacer(1, 40*mm)])
     story += [Paragraph(escape(p["title"]), H1), Spacer(1, 3*mm), Paragraph(escape(p.get("pitch", "")), SUB), PageBreak()]
     story += [Paragraph("Inhalt" if p.get("language") != "en" else "Contents", H2)]
     for i, ch in enumerate(p.get("chapters", []), 1): story.append(Paragraph(f"{i}. {escape(ch['heading'])}", BODY))
