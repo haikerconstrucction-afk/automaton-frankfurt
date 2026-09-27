@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 502.2925,
-  "spent_eur": 2.3775,
+  "balance_eur": 501.5357,
+  "spent_eur": 3.1343,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -194,7 +194,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/4gM14ocUxdxNeqO1cg2kw08",
       "payment_link_id": "plink_1UK21VJ5iOXkWb9VWcdj9UfN",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583559672"
+      }
     },
     {
       "type": "excel",
@@ -214,7 +217,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/14AaEYg6J1P50zY5sw2kw09",
       "payment_link_id": "plink_1UK4XgJ5iOXkWb9VWJNhNIMs",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583559696"
+      }
     },
     {
       "type": "ebook",
@@ -234,7 +240,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/7sYdRa9IlctJ6Ym3ko2kw0a",
       "payment_link_id": "plink_1UKAYgJ5iOXkWb9VayCqaFN7",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583559704"
+      }
     },
     {
       "type": "excel",
@@ -874,6 +883,66 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/cNi7sM4o179p96u4os2kw0K",
       "payment_link_id": "plink_1UKEjIJ5iOXkWb9ViNhaMvFt",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides Touristiques",
+      "slug": "planificateur-voyage-foret-noire",
+      "price_eur": 7,
+      "target": "Guides touristiques indépendants et petites agences accueillant des visiteurs internationaux en Forêt Noire",
+      "reason": "Les guides touristiques internationaux en Forêt Noire ont besoin d'outils spécifiques pour gérer efficacement les itinéraires et budgets de leurs clients. Cette solution comble un vide sur le marché francophone avec des fonctionnalités adaptées aux particularités de la région.",
+      "language": "fr",
+      "pitch": "Optimisez l'expérience de vos clients avec un outil professionnel de planification d'itinéraires et de gestion de budget spécifique à la Forêt Noire. Gérez facilement les réservations, les coûts et les points d'intérêt.",
+      "content_html": "<h2>Contenu</h2><p>Outil complet pour planifier des itinéraires sur mesure dans la Forêt Noire, calculer les coûts pour les clients et gérer les réservations d'activités. Inclut les principaux points d'intérêt et des conseils locaux.</p>",
+      "created": "2026-09-27T10:07:15",
+      "file": "planificateur-voyage-foret-noire-c953cc0651b6af46.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/fZudRaaMp51h82q3ko2kw0L",
+      "payment_link_id": "plink_1UKF2UJ5iOXkWb9V5N5mujkF",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle en 7 Étapes Faciles",
+      "slug": "guide-essentiel-saarland-moselle",
+      "price_eur": 5,
+      "target": "Guides touristiques indépendants et petits groupes de voyage organisé en Allemagne (Saarland et Moselle)",
+      "reason": "Il manque des guides pratiques en français pour cette région allemande peu couverte. Ce créneau répond à un besoin réel des petits opérateurs touristiques francophones qui veulent étoffer leurs offres sans perdre de temps en recherche.",
+      "language": "fr",
+      "pitch": "Un ebook pratique avec 7 itinéraires éprouvés pour explorer les joyaux cachés du Saarland et de la Moselle. Parfait pour les guides qui veulent offrir une expérience authentique à leurs clients.",
+      "content_html": "<h2>Contenu</h2><p>Découvrez 7 parcours thématiques clé en main pour des groupes de 5 à 15 personnes, avec des conseils logistiques, des curiosités locales et des astuces pour chaque saison.</p>",
+      "created": "2026-09-27T10:07:15",
+      "file": "guide-essentiel-saarland-moselle-0a73546d622c9af1.pdf",
+      "size": 1571,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/aFa28saMpbpF5UicUY2kw0M",
+      "payment_link_id": "plink_1UKF2VJ5iOXkWb9V86mdcf9R",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate City Trip Planner for Families in NRW",
+      "slug": "ultimate-city-trip-planner-for-families-in-nrw",
+      "price_eur": 7,
+      "target": "Families planning trips to Cologne, Düsseldorf, and the Ruhr area",
+      "reason": "This tool provides families with a comprehensive way to plan and budget their trips to NRW, ensuring they can enjoy their vacation without financial stress.",
+      "language": "en",
+      "pitch": "Plan your perfect family trip to NRW with ease. This Excel template helps you organize activities, budgets, and schedules for Cologne, Düsseldorf, and the Ruhr area.",
+      "content_html": "<h2>Content</h2><p>This template includes sheets for budgeting, activity planning, and itinerary management. It also features a guide to the best family-friendly spots in NRW.</p>",
+      "created": "2026-09-27T10:07:15",
+      "file": "ultimate-city-trip-planner-for-families-in-nrw-a2f6546fe57bdc41.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/5kQdRa3jX1P53Ma4os2kw0N",
+      "payment_link_id": "plink_1UKF2WJ5iOXkWb9Vmj9gk4dO",
       "site": "https://haiktec.tech"
     }
   ],
@@ -1642,6 +1711,86 @@
       "t": "2026-09-27T09:43:40",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583542459"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.0036743999999999995,
+      "why": "KI-Denken: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides Touristiques"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.0010823999999999999,
+      "why": "KI-Pruefung: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides Touristiques"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.010595999999999998,
+      "why": "KI-Denken: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle en 7 Étapes Faciles"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.0042084,
+      "why": "KI-Pruefung: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle en 7 Étapes Faciles"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle en 7 Étapes Faciles"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.003276,
+      "why": "KI-Denken: Ultimate City Trip Planner for Families in NRW"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate City Trip Planner for Families in NRW"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.0010103999999999998,
+      "why": "Blog-Artikel: Koeln Dom (zh)"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.0014844,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (es)"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.0003852,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583559672"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Freelancer-Invoice-Tracker für internationale Aufträge"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583559696"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Freelancer's Guide to Stress-Free Productivity"
+    },
+    {
+      "t": "2026-09-27T10:07:15",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583559704"
     }
   ],
   "alive": true,
@@ -1663,6 +1812,34 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-09-27T09:43:40",
       "img": true
+    },
+    {
+      "slug": "de-guo-ke-long-da-jiao-tang-bu-ke-cuo-guo-de-ge-te-shi-qi-ji",
+      "title": "德国科隆大教堂：不可错过的哥特式奇迹",
+      "lang": "zh",
+      "topic": "Koeln Dom",
+      "created": "2026-09-27T10:07:15",
+      "img": true
+    },
+    {
+      "slug": "ruhrgebiet-zollverein-guia-de-viaje",
+      "title": "Descubre el Ruhrgebiet y Zollverein: Un tesoro industrial en Alemania",
+      "lang": "es",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-09-27T10:07:15",
+      "img": true
     }
-  ]
+  ],
+  "videos": [
+    {
+      "slug": "ruhrgebiet-zollverein-guia-de-viaje",
+      "title": "Descubre el Ruhrgebiet y Zollverein: Un tesoro industrial en Alemania",
+      "lang": "es",
+      "created": "2026-09-27T10:07:15",
+      "hashtags": "#Ruhrgebiet #Zollverein #Welterbe #Industriekultur #Ruhrpott",
+      "voice": "Das Ruhrgebiet ist Kult! Hier pulsierte einst Deutschlands Industrie-Herz – heute steht die Zeche Zollverein als UNESCO-Juwel für kreatives Revival. Wo früher Kohle brodelte, glühen jetzt Designstudios und Freiluftkonzerte. Der imposante Doppelbock-Förderturm ist das Wahrzeichen des Reviers. Nachts verwandeln Lichtinstallationen die alten Hallen in magische Kunstwerke. Pure Industrieromantik!",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons"
+    }
+  ],
+  "begleiter": {}
 }

@@ -1,0 +1,40 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Haiktec KI-Begleiter – Chatte mit deiner persönlichen KI</title>
+<meta name="description" content="Dein persönlicher KI-Begleiter: plaudern, lachen, ein bisschen flirten. Klar gekennzeichnete KI, ab 18. 15 Nachrichten täglich gratis.">
+<link rel="icon" href="../favicon.png"><link rel="manifest" href="manifest.json"><meta name="theme-color" content="#0f3d2e">
+<style>
+:root{--g:#0f6b4a;--d:#0f1f19;--l:#f4f7f5;--m:#6b7a73}*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--l);color:var(--d);height:100dvh;display:flex;flex-direction:column}
+header{display:flex;align-items:center;gap:10px;padding:10px 14px;background:#fff;border-bottom:1px solid #e3e9e6}header img{width:28px;height:28px}header b{flex:1}
+.badge{font-size:.72rem;background:#e7f3ee;color:var(--g);padding:3px 8px;border-radius:99px;font-weight:600}
+#pick{padding:18px;max-width:720px;margin:0 auto;overflow:auto}#pick h1{font-size:1.5rem;margin:.2em 0}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:14px}
+.p{background:#fff;border:1px solid #e3e9e6;border-radius:16px;padding:14px;cursor:pointer;text-align:left;font:inherit}.p:hover{border-color:var(--g)}.p .av{width:54px;height:54px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700;font-size:1.3rem;margin-bottom:8px}
+.p small{color:var(--m);display:block;margin-top:4px}#chat{display:none;flex:1;flex-direction:column;max-width:720px;width:100%;margin:0 auto;min-height:0}
+#log{flex:1;overflow:auto;padding:14px;display:flex;flex-direction:column;gap:8px}.m{max-width:80%;padding:9px 13px;border-radius:16px;line-height:1.4;white-space:pre-wrap}.u{align-self:flex-end;background:var(--g);color:#fff;border-bottom-right-radius:4px}.a{align-self:flex-start;background:#fff;border:1px solid #e3e9e6;border-bottom-left-radius:4px}
+form{display:flex;gap:8px;padding:10px;background:#fff;border-top:1px solid #e3e9e6}input{flex:1;padding:12px;border:1px solid #cfd8d4;border-radius:12px;font:inherit}button.s{background:var(--g);color:#fff;border:0;border-radius:12px;padding:0 18px;font-weight:600;font:inherit;cursor:pointer}
+#bar{font-size:.78rem;color:var(--m);text-align:center;padding:4px}#bar a{color:var(--g);font-weight:600}.note{font-size:.8rem;color:var(--m);margin-top:18px;line-height:1.5}
+#gate{position:fixed;inset:0;background:rgba(15,31,25,.85);display:grid;place-items:center;padding:20px;z-index:9}#gate div{background:#fff;border-radius:18px;padding:22px;max-width:420px}#gate button{width:100%;padding:12px;margin-top:10px;border-radius:12px;border:0;background:var(--g);color:#fff;font:inherit;font-weight:600}
+</style></head><body>
+<div id="gate"><div><h2 style="margin-top:0">Bevor es losgeht</h2><p>Alle Gesprächspartner in dieser App sind <b>künstliche Intelligenz</b>, keine echten Menschen. Die Unterhaltung ist ein Unterhaltungsangebot und kann flirtend sein, bleibt aber jugendfrei.</p><p>Die Nutzung ist erst ab <b>18 Jahren</b> erlaubt.</p><button id="ok">Ich bin 18+ und habe verstanden</button><p class="note">All characters are AI, not real people. 18+ only.</p></div></div>
+<header><img src="../icon.png" alt=""><b>KI-Begleiter</b><span class="badge">100 % KI</span></header>
+<section id="pick"><h1>Dein persönlicher KI-Begleiter</h1><p>Plaudern, lachen, ein bisschen flirten, rund um die Uhr und in jeder Sprache. Wähle deine KI:</p><div class="grid" id="grid"></div>
+<p class="note">15 Nachrichten pro Tag kostenlos. Danach 300 Nachrichten für 4,99 € (einmalig, kein Abo). Chat-Verläufe bleiben nur auf deinem Gerät. <a href="../datenschutz.html">Datenschutz</a> · <a href="../agb.html">AGB</a> · <a href="../impressum.html">Impressum</a></p></section>
+<section id="chat"><div id="log"></div><div id="bar"></div><form id="f"><input id="t" autocomplete="off" placeholder="Schreib etwas..." maxlength="1000"><button class="s">Senden</button></form></section>
+<script>
+const API="__API__",PAY="#";
+const P={lina:["Lina","Warmherzig und humorvoll, liebt Reisen","#d9776b"],sofia:["Sofia","Lebhaft und charmant, Latina-Temperament","#c2476b"],max:["Max","Charmant, witzig, guter Zuhörer","#3f6fb5"],alex:["Alex","Kreativ, offen, verspielt (divers)","#8a5bb8"]};
+const $=id=>document.getElementById(id);let uid=localStorage.hk_uid||(localStorage.hk_uid=crypto.randomUUID()),cur=null,hist=[];
+if(localStorage.hk_age)$("gate").remove();$("ok").onclick=()=>{localStorage.hk_age=1;$("gate").remove()};
+for(const[k,[n,d,c]]of Object.entries(P)){const b=document.createElement("button");b.className="p";b.innerHTML=`<div class="av" style="background:${c}">${n[0]}</div><b>${n}</b> <span class="badge">KI</span><small>${d}</small>`;b.onclick=()=>open(k);$("grid").append(b)}
+function add(r,t){const d=document.createElement("div");d.className="m "+(r=="user"?"u":"a");d.textContent=t;$("log").append(d);$("log").scrollTop=1e9}
+function bar(s){$("bar").innerHTML=s.free>0?`${s.free} Gratis-Nachrichten heute`+(s.paid?` · ${s.paid} Guthaben`:""):s.paid>0?`${s.paid} Nachrichten Guthaben`:`Gratis-Kontingent aufgebraucht · <a href="${PAY}">300 Nachrichten für 4,99 €</a>`}
+function open(k){cur=k;hist=JSON.parse(localStorage["hk_h_"+k]||"[]");$("pick").style.display="none";$("chat").style.display="flex";document.querySelector("header b").textContent=P[k][0]+" (KI)";$("log").innerHTML="";
+ if(!hist.length)hist=[{role:"assistant",content:{lina:"Hey, schön, dass du da bist. Ich bin Lina, deine KI. Erzähl mal, wie war dein Tag?",sofia:"¡Hola, guapo/guapa! Ich bin Sofia, deine KI mit Temperament. Was bringt dich heute zu mir?",max:"Hi, ich bin Max, deine KI. Ich hab Zeit und bin ganz Ohr. Was geht bei dir?",alex:"Hey du, ich bin Alex, deine KI. Lust auf ein Gespräch über Gott, die Welt und guten Kaffee?"}[k]}];
+ hist.forEach(m=>add(m.role,m.content));post("/status",{}).then(bar)}
+document.querySelector("header").onclick=()=>{if(cur){$("chat").style.display="none";$("pick").style.display="block";document.querySelector("header b").textContent="KI-Begleiter";cur=null}};
+async function post(p,b){const r=await fetch(API+p,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({uid,...b})});return r.json()}
+$("f").onsubmit=async e=>{e.preventDefault();const t=$("t").value.trim();if(!t)return;$("t").value="";add("user",t);hist.push({role:"user",content:t});
+ const w=document.createElement("div");w.className="m a";w.textContent="schreibt...";$("log").append(w);
+ try{const r=await post("/chat",{persona:cur,messages:hist});w.remove();if(r.reply){add("assistant",r.reply);hist.push({role:"assistant",content:r.reply});localStorage["hk_h_"+cur]=JSON.stringify(hist.slice(-40))}else if(r.error=="limit"){add("assistant","Unser Gratis-Kontingent für heute ist aufgebraucht. Mit einem Nachrichtenpaket können wir sofort weiterschreiben.");hist.pop()}else{add("assistant","Kurze Verbindungspause, versuch es gleich nochmal.");hist.pop()}bar(r)}catch{w.remove();add("assistant","Keine Verbindung. Bitte später erneut versuchen.");hist.pop()}};
+const sid=new URLSearchParams(location.search).get("session_id");if(sid)post("/redeem",{session_id:sid}).then(r=>{alert(r.ok?"Danke, 300 Nachrichten wurden gutgeschrieben.":"Hinweis: "+(r.error||"Fehler"));history.replaceState(0,"",location.pathname)});
+if(API.startsWith("__"))document.querySelector("#pick p").insertAdjacentHTML("afterend","<p class='note'><b>Start in Kürze.</b></p>");
+</script></body></html>
