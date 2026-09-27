@@ -184,10 +184,20 @@ def build_pdf(p, path):
     tmp = pathlib.Path(tempfile.mkdtemp()); W = A5[0] - 30*mm
     imgs = 0; max_imgs = CFG.get("images_per_ebook", 4)
     p["_img_cost"] = 0
+    credits = []
     def pic(prompt, name, h):
         nonlocal imgs
         if imgs >= max_imgs or not prompt: return None
-        f = tmp/f"{name}.jpg"; c = gen_image(prompt, f)
+        f = tmp/f"{name}.jpg"
+        if "reise" in (p.get("reason","") + p.get("title","") + p.get("target","")).lower() or p.get("_travel"):
+            try:
+                import blog; place = next((w for w in ["Schwarzwald","Saarland","Mosel","Koeln","Köln","Düsseldorf","Duesseldorf","Ruhrgebiet","Bayern","Alpen","Ostsee","Nordsee","Rhein","Frankfurt","Heidelberg","Berlin","Potsdam","Sachsen","Dresden","Black Forest","Cologne","Bavaria","Munich","München"] if w.lower() in (p["title"] + p.get("reason","")).lower()), "Germany")
+                ph = blog.commons_photo(f"{place} {['landscape','village','town','nature','food'][imgs % 5]}")
+                if ph:
+                    w, h2 = blog.download(ph, f); imgs += 1; credits.append(ph["credit"] + " " + ph["page"])
+                    return RLImage(str(f), width=W, height=min(h, W * h2 / w))
+            except Exception as e: print("Commons:", e)
+        c = gen_image(prompt, f)
         if not c: return None
         imgs += 1; p["_img_cost"] += c
         return RLImage(str(f), width=W, height=h)
@@ -220,7 +230,7 @@ def build_pdf(p, path):
         c.setFont("Helvetica", 8); c.setFillColor(colors.HexColor("#5F6470"))
         c.drawString(15*mm, 8*mm, "Haiktec"); c.drawRightString(A5[0]-15*mm, 8*mm, str(d.page))
     SimpleDocTemplate(str(path), pagesize=A5, title=p["title"], author="Haiktec", leftMargin=15*mm, rightMargin=15*mm,
-                      topMargin=15*mm, bottomMargin=15*mm).build(story, onFirstPage=foot, onLaterPages=foot)
+                      topMargin=15*mm, bottomMargin=15*mm).build(story + ([PageBreak(), Paragraph("Bildnachweise", H2)] + [Paragraph(escape(c), BODY) for c in credits] if credits else []), onFirstPage=foot, onLaterPages=foot)
     if words < 1500: raise RuntimeError(f"E-Book zu kurz ({words} Woerter) - verworfen")
     return words
 
@@ -334,7 +344,7 @@ FOOT = """<footer class="foot"><div class="wrap"><span>© 2026 Haiktec · Marcel
 HEAD = """<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title><meta name="description" content="{desc}"><link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
-<link rel="icon" href="{r}favicon.png"><link rel="stylesheet" href="{r}style.css"></head><body><header class="top"><div class="wrap"><a class="brand" href="{r}index.html"><img src="{r}icon.png" alt="Haiktec" width="32" height="32" style="border-radius:6px">Haiktec</a><nav><a href="{r}index.html#produkte">Produkte</a><a href="{r}impressum.html">Kontakt</a></nav></div></header>"""
+<link rel="icon" href="{r}favicon.png"><link rel="stylesheet" href="{r}style.css"></head><body><header class="top"><div class="wrap"><a class="brand" href="{r}index.html"><img src="{r}icon.png" alt="Haiktec" width="32" height="32" style="border-radius:6px">Haiktec</a><nav><a href="{r}index.html#produkte">Produkte</a><a href="{r}blog/index.html">Blog</a><a href="{r}impressum.html">Kontakt</a></nav></div></header>"""
 
 def card(p):
     cur = "$" if p.get("language") == "en" else "€"
@@ -352,7 +362,7 @@ def storefront(s):
 <section id="produkte" class="wrap"><h2>Produkte</h2><div class="grid">{cards}</div></section>""" + FOOT.format(r="") + "</body></html>")
 
 def seo_files(s):
-    urls = [f"{SITE}/index.html"] + [f"{SITE}/products/{p['slug']}.html" for p in s["products"] if not p.get("retired") and p.get("pay_url")]
+    urls = [f"{SITE}/index.html"] + [f"{SITE}/products/{p['slug']}.html" for p in s["products"] if not p.get("retired") and p.get("pay_url")] + [f"{SITE}/blog/index.html"] + [f"{SITE}/blog/{b['slug']}.html" for b in s.get("blog", [])]
     (ROOT/"site/sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
         + "".join(f"<url><loc>{u}</loc><lastmod>{now[:10]}</lastmod></url>" for u in urls) + "</urlset>")
     (ROOT/"site/robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /dl/\nDisallow: /status.html\nSitemap: {SITE}/sitemap.xml\n")
@@ -400,6 +410,13 @@ def main():
     except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Verkaufszaehlung-Fehler: {e}"})
     try: freelancer_step(s)
     except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Freelancer-Fehler: {e}"})
+    try:
+        import blog
+        for _ in range(CFG.get("blog_posts_per_run", 2)):
+            blog.post(s, llm_json, HEAD, FOOT, SITE, ROOT, book, now)
+    except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Blog-Fehler: {str(e)[:200]}"})
+    try: import blog; blog.index(s, HEAD, FOOT, ROOT)
+    except Exception as e: print("Blog-Index:", e)
     if s["balance_eur"] <= 0: s["alive"] = False
     render(s); STATE_F.write_text(json.dumps(s, indent=2, ensure_ascii=False))
     print(f"Kontostand {s['balance_eur']} EUR, Produkte {len(s['products'])}")

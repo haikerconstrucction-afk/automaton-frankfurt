@@ -88,5 +88,6 @@
       "weltweit",
       "en"
     ]
-  ]
+  ],
+  "blog_posts_per_run": 2
 }
