@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 500.0548,
-  "spent_eur": 4.6152,
+  "balance_eur": 499.9313,
+  "spent_eur": 4.7387,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -83,9 +83,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583538647"
       },
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße erkennbar. Inhalt ist sachlich korrekt und erfüllt die Anforderungen. Einige Beschreibungen sind jedoch unvollständig (z.B. 'Nutzen Sie die automatischen Auswertungen für')."
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Produkt erfüllt alle Regeln: Keine erfundenen Zahlen/Quellen, keine Rechts-/Finanzberatung, klare Funktionsbeschreibung für Freelancer. Formeln und Beispiele sind praktisch und korrekt."
     },
     {
       "type": "ebook",
@@ -109,9 +109,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583538663"
       },
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße erkennbar. Der Inhalt ist allgemein gehalten, ohne spezifische Studien oder Statisktiken. Die 15% Erwähnung ist im Kontext einer beispielhaften Zielsetzung plausibel."
+      "audit_note": "Inhalt ist größtenteils passend, keine groben Regelverstöße. Die Prozentzahl '15%' ist als Zielvorgabe plausibel, aber nicht verifizierbar und sollte als Beispielfall gekennzeichnet sein."
     },
     {
       "type": "excel",
@@ -135,9 +135,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583542433"
       },
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße festgestellt. Das Produkt ist ein einfacher, funktionaler Excel-Tracker ohne erfundene Daten oder fragwürdige Inhalte. Die Formeln sind sinnvoll und korrekt. Es werden keine falschen Versprechungen oder professionelle Beratung angeboten."
+      "audit_note": "Produkt entspricht den Regeln: Keine erfundenen Zahlen/Studien, klare Struktur, praktische Excel-Vorlage ohne problematische Inhalte. Formeln sind funktional und sinnvoll. Alle Angaben entweder konkret auf den Nutzer bezogen oder allgemein bekannte Excel-Funktionen."
     },
     {
       "type": "ebook",
@@ -161,9 +161,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583552794"
       },
-      "audit_v": 1,
-      "audit_score": 9,
-      "audit_note": "Keine klaren Regelverstöße festgestellt. Der Inhalt ist allgemein gehalten, enthält keine erfundenen Studien oder falschen Prozentangaben, und bietet praktische Tipps ohne spezifische Rechts-, Finanz- oder Gesundheitsberatung. Die angegebenen Prozentzahlen sind nicht Teil von Studien oder Statistike"
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist sachlich korrekt und hält sich an die Regeln. Keine erfundenen Studien oder falschen Behauptungen. Die aufgelisteten Prozentzahlen sind jedoch nicht in einem Kontext verwendet, der sie rechtfertigt. Diese sollten entfernt oder mit klarem Beispielkontext versehen werden."
     },
     {
       "type": "excel",
@@ -187,9 +187,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583542459"
       },
-      "audit_v": 1,
-      "audit_score": 6,
-      "audit_note": "Texte sind unvollständig abgebrochen (z.B. 'Projekte'-T), jedoch keine klaren Regelverstöße oder erfundenen Inhalte erkennbar."
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien oder Statistiken vorhanden. Alle Zahlen sind plausible Beispielwerte, die klar als solche erkennbar sind. Die Struktur des Excel-Tools ist logisch und nachvollziehbar."
     },
     {
       "type": "ebook",
@@ -213,9 +213,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583559672"
       },
-      "audit_v": 1,
-      "audit_score": 7,
-      "audit_note": "Inhalt ist grundsätzlich plausibel und ohne direkte Regelverstöße, enthält jedoch potenziell problematische Formulierungen wie 'Umfrage' (keine konkrete Studie genannt). Keine expliziten erfundenen Statistiken oder falsche Beratung erkennbar."
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts- oder Finanzberatung. Klare Praxistipps ohne Markenverstöße. Die erwähnte 'Umfrage' im Kontext der Zielgruppenvalidierung ist methodisch korrekt dargestellt, ohne konkrete Zahlen zu nennen."
     },
     {
       "type": "excel",
@@ -239,9 +239,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583559696"
       },
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Funktionalität nachvollziehbar, keine Regelverstöße erkennbar, Excel-Logik korrekt, Summenformel unvollständig abgeschnitten (F40 sollte angepasst werden)"
+      "audit_note": "Das Produkt erfüllt die Anforderungen und enthält keine erfundenen Studien, Statistiken oder unzulässige Angaben. Die Excel-Funktionen sind korrekt und sinnvoll dargestellt. Es handelt sich um eine praktische Vorlage für Freelancer ohne Rechts- oder Steuerberatung."
     },
     {
       "type": "ebook",
@@ -259,15 +259,17 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/7sYdRa9IlctJ6Ym3ko2kw0a",
       "payment_link_id": "plink_1UKAYgJ5iOXkWb9VayCqaFN7",
       "site": "https://haiktec.tech",
       "channels": {
-        "etsy": "https://www.etsy.com/listing/4583559704"
+        "etsy": "https://www.etsy.com/listing/4583559704",
+        "etsy_inactive": true
       },
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Grundsätzlich solider Inhalt, aber Probleme mit: 1) nicht belegbare Prozentangaben (400-500%, 80%, 10%), 2) suggestive Formulierungen ('Neuroscientists have found' ohne konkrete Quelle), 3) vereinfachte Schlussfolgerungen (z.B. 'Earning money while you sleep' als universelle Lösung)"
+      "audit_v": 2,
+      "audit_score": 5,
+      "audit_note": "Das E-Book enthält mehrere erfundene Prozentzahlen und Leistungsbehauptungen ('Produktivität steigt um 400-500%'), die nicht allgemein bekannt oder belegt sind. Der Rest des Inhalts ist größtenteils plausibel und nützlich, aber die ungerechtfertigten Prozentangaben müssen entfernt werden.",
+      "retired": true,
+      "retired_why": "Das E-Book enthält mehrere erfundene Prozentzahlen und Leistungsbehauptungen ('Produktivität steigt um 400-500%'), die nicht allgemein bekannt oder belegt sind. Der Rest des Inhalts ist größtenteils plausibel und nützlich, aber die ungerechtfertigten Prozentangaben müssen entfernt werden. Erfundene "
     },
     {
       "type": "excel",
@@ -291,9 +293,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583571976"
       },
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Keine Regelverstöße festgestellt. Das Produkt ist ein funktionaler Excel-Planer ohne erfundene Daten oder falsche Angaben. Die Struktur ist klar und praktisch für selbstständige Nutzer. Kleinere Verbesserungen in der Vollständigkeit der Beispieldaten wären möglich (z.B. fehlende tatsächliche Werte i"
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Zahlen/Studien, klare Struktur, praktische Excel-Funktionen für Umzugsplanung. Enthält nur allgemein bekannte Informationen und sinnvolle Beispielwerte. Keine Rechts-/Finanzberatung oder Markenverstöße."
     },
     {
       "type": "ebook",
@@ -317,9 +319,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583561471"
       },
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße festgestellt. Der Inhalt enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es werden lediglich allgemein bekannte Praxistipps gegeben. Die Prozentzahl '90%' ist jedoch nicht belegt und sollte entfernt oder konkretisiert werden."
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Generell gelungener Ratgeber mit praxisnahen Tipps. Die Prozentangabe '90%' wurde als möglicherweise erfunden markiert (keine Quellenangabe). Keine klaren Regelverstöße in Bezug auf Gesundheitsversprechen, Marken oder falsche Beratung. Der Inhalt bleibt im Rahmen allgemein bekannter Gartentipps."
     },
     {
       "type": "excel",
@@ -343,9 +345,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583561483"
       },
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 7,
-      "audit_note": "Fehlende klare Regelverstöße, aber unvollständige Anleitung (abgebrochene Zeilen) und generische Optimierungsvorschläge ohne konkrete Praxistipps."
+      "audit_note": "Das Produkt entspricht den Regeln, enthält keine erfunden Zahlen oder Statistiken. Die Beispieldaten sind klar als Beispiel gekennzeichnet und die Excel-Formeln sind korrekt. Keine Rechts- oder Gesundheitsberatung, keine Markenverletzungen."
     },
     {
       "type": "ebook",
@@ -366,9 +368,9 @@
       "pay_url": "https://buy.stripe.com/9B614oaMp0L16YmaMQ2kw0e",
       "payment_link_id": "plink_1UKBVVJ5iOXkWb9Vvj02gQPS",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Inhalt ist überwiegend rechtlich unbedenklich und enthält keine klaren Verstöße gegen die Regeln. Es werden keine erfundenen Studien oder Statistiken genannt, sondern allgemein bekannte Tools und Praxistipps aufgeführt."
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Inhalt entspricht den Regeln: keine spezifischen Studien, Statistiken oder Prozentzahlen angegeben, keine rechtlichen oder gesundheitlichen Ratschläge, keine unerlaubten Markennennungen. Die genannten Tools sind allgemein bekannt und der Text ist vollständig sowie sachlich korrekt."
     },
     {
       "type": "excel",
@@ -389,9 +391,9 @@
       "pay_url": "https://buy.stripe.com/bJedRa1bP0L196u5sw2kw0f",
       "payment_link_id": "plink_1UKC3TJ5iOXkWb9V091VHYab",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße erkennbar. Das Produkt ist eine funktionale Excel-Vorlage ohne erfundene Studien, Gesundheitsversprechen oder Rechtsberatung. Die Berechnungen sind logisch und die Struktur klar. Kleinere Verbesserungen wären möglich (z.B. genauere Anleitung)."
+      "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Zahlen/Studien, klare Funktionsbeschreibung, Beispieltabelle sinnvoll, keine Regelverstöße. Lediglich die Preisangabe könnte konkretisiert sein (z. B. '7€' statt nur '7')."
     },
     {
       "type": "ebook",
@@ -412,9 +414,9 @@
       "pay_url": "https://buy.stripe.com/9B6dRa3jX51hfuS4os2kw0g",
       "payment_link_id": "plink_1UKC3TJ5iOXkWb9VqbgM3qP3",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 6,
-      "audit_note": "Text enthält keine klaren Regelverstöße, aber es gibt einige Bedenken: Prozentangaben wie '30%' und '70%' sind nicht klar belegt. Der Verweis auf 'Studien' ist nicht konkret und könnte erfunden sein."
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Gute Praxistipps, aber einige spezifische Prozentangaben ohne klare Quellenangabe. Insgesamt jedoch nützliche und legitime Inhalte für Selbstständige."
     },
     {
       "type": "excel",
@@ -435,9 +437,9 @@
       "pay_url": "https://buy.stripe.com/3cI5kEf2F8dt3Ma6wA2kw0h",
       "payment_link_id": "plink_1UKC3UJ5iOXkWb9VVveYdwgR",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 9,
-      "audit_note": "Keine klaren Regelverstöße. Die Prozentzahl '19%' ist korrekt und entspricht der aktuellen Mehrwertsteuer in Deutschland. Keine erfundenen Studien, Statistiken oder Quellen. Keine falsche Sprache oder unfertigen Texte. Keine Rechts-, Steuer- oder Finanzberatung. Keine Gesundheitsversprechen oder fre"
+      "audit_v": 2,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt entspricht den Regeln. Die Prozentzahl '19%' ist die allgemein bekannte Mehrwertsteuer in Deutschland und somit kein erfundenes Detail. Keine sachlichen Fehler, keine erfundenen Statistiken oder Quellen, keine rechtlichen oder finanziellen Beratungen, keine Markenverletzungen oder Gesundh"
     },
     {
       "type": "ebook",
@@ -458,9 +460,9 @@
       "pay_url": "https://buy.stripe.com/28EdRa07L1P5dmK9IM2kw0i",
       "payment_link_id": "plink_1UKC3VJ5iOXkWb9V8fkkYQMR",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Der Inhalt entspricht den Vorgaben: Keine erfundenen Studien/Statistiken, keine falschen Sprachen oder Platzhalter, keine Gesundheitsversprechen oder fremden Marken. Die Geschichten sind kindgerecht, kreativ und vollständig. Lediglich nicht alle Geschichten wurden vollständig überprüft (z.B. 'The Ma"
+      "audit_v": 2,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken, Zahlen oder Quellen. Keine Regelverstöße erkennbar."
     },
     {
       "type": "excel",
@@ -481,9 +483,9 @@
       "pay_url": "https://buy.stripe.com/cNi3cwg6J79pfuSbQU2kw0j",
       "payment_link_id": "plink_1UKCFaJ5iOXkWb9VLlYu2LcD",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße festgestellt. Die Excel-Tabelle ist funktional und enthält keine erfundenen Studien, Statistiken oder unzulässigen Inhalte. Die Anleitung ist klar, allerdings sind einige Texte abgeschnitten (z.B. Schritt 2 und 4)."
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Das Produkt erfüllt die angegebenen Kriterien: Keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Rechts- oder Finanzberatung, keine Marken Dritter. Es handelt sich um einen funktionalen Budget-Tracker und Planer mit klaren Anweisungen und korrekten Excel-Funktionen."
     },
     {
       "type": "ebook",
@@ -504,9 +506,9 @@
       "pay_url": "https://buy.stripe.com/5kQ6oI2fTeBR6Ym08c2kw0k",
       "payment_link_id": "plink_1UKCFbJ5iOXkWb9VnG7la9hf",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße, aber erwähnte Prozentzahlen sollten konkretisiert oder gestrichen werden, da sie nicht belegt sind."
+      "audit_note": "Einige Prozentzahlen wurden ohne klare Quellenangabe verwendet, wahrscheinlich frei erfunden. Der Rest des Inhalts ist jedoch praktisch und nützlich, ohne spezifische Beratung oder fragwürdige Behauptungen."
     },
     {
       "type": "excel",
@@ -527,9 +529,9 @@
       "pay_url": "https://buy.stripe.com/9B6aEY2fT0L16Ymf362kw0l",
       "payment_link_id": "plink_1UKCFcJ5iOXkWb9VEvTzgSza",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Korrekte Excel-Formeln, keine erfundenen Studien/Statistiken, keine Rechts-/Gesundheitsversprechen. Kleine Verbesserung möglich bei der Trend-Formel (aktuell zeigt '↓' bei Gleichstand)"
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Produkt entspricht den Regeln, aber einige Formeln könnten nicht für alle Nutzer intuitiv sein (z. B. Trendberechnung ohne klare Anleitung)."
     },
     {
       "type": "ebook",
@@ -550,9 +552,9 @@
       "pay_url": "https://buy.stripe.com/fZu4gAdYBalBeqO9IM2kw0m",
       "payment_link_id": "plink_1UKCFdJ5iOXkWb9VMmN3TSbn",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße festgestellt. Inhalt bietet praktische Tipps ohne erfundene Studien oder Quellen. Struktur und Sprache sind klar und verständlich."
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Der Inhalt bietet praktische Tipps ohne konkrete Rechts- oder Steuerberatung. Die Sprache ist einheitlich Deutsch und der Inhalt ist vollständig."
     },
     {
       "type": "excel",
@@ -573,9 +575,9 @@
       "pay_url": "https://buy.stripe.com/fZu6oI3jXeBRgyW6wA2kw0r",
       "payment_link_id": "plink_1UKD3sJ5iOXkWb9VcxJOiJZK",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Funktionale Excel-Vorlage ohne erfundene Studien/Statistiken. Enthält keine Spuren von Regelverstößen. Einige Zellen sind leer oder enthalten Platzhalter (KW6/Statistik), aber das ist bei einer Vorlage akzeptabel. Klare Struktur für Prüfungsvorbereitung."
+      "audit_v": 2,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Studien, Statistiken, Prozentzahlen, Quellen oder Zitate gefunden. Sprache korrekt, keine Platzhalter oder Wiederholungen. Keine sachlichen Fehler, Beratung oder Gesundheitsversprechen. Formeln und Tabellen sind sinnvoll und logisch."
     },
     {
       "type": "ebook",
@@ -596,9 +598,9 @@
       "pay_url": "https://buy.stripe.com/eVq9AU9Il65lciG6wA2kw0s",
       "payment_link_id": "plink_1UKD3tJ5iOXkWb9VMBeupOae",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße festgestellt. Der Inhalt bietet allgemein bekannte Praxistipps ohne erfundene Studien oder Statistiken. Text ist vollständig und sachlich korrekt."
+      "audit_note": "Der Inhalt hält sich an die Regeln und vermeidet erfundene Studien, Statistiken oder konkrete Prozentangaben. Die Tipps sind praxisnah und allgemein gültig, ohne spezifische Rechts- oder Finanzberatung zu geben. Es werden keine Marken Dritter als Empfehlung genannt, sondern nur allgemeine Kategorien"
     },
     {
       "type": "excel",
@@ -619,9 +621,9 @@
       "pay_url": "https://buy.stripe.com/eVq00kdYBdxN96u4os2kw0t",
       "payment_link_id": "plink_1UKD3uJ5iOXkWb9V33vcrqZm",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Grundstruktur funktional, klare Anleitung, sinnvolle Excel-Funktionen. Keine offensichtlichen Regelverstöße, aber potenziell kritisch: Pauschaler Kilometerwert (0,30€/km) könnte als Steuerempfehlung interpretiert werden. Keine erfundenen Statistiken/Quellen."
+      "audit_v": 2,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine Gesundheitsversprechen, keine fremden Marken/Figuren. Die Excel-Tabellen sind sinnvoll und korrekt. Die Sprache ist konsistent Deutsch und es gibt keine Platzhalter oder unfertigen T"
     },
     {
       "type": "ebook",
@@ -666,9 +668,9 @@
       "pay_url": "https://buy.stripe.com/fZu14o1bP51hciGaMQ2kw0v",
       "payment_link_id": "plink_1UKDBvJ5iOXkWb9VsPXUXMrY",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Keine offensichtlichen Regelverstöße festgestellt. Die Excel-Vorlage ist funktional und klar strukturiert. Es gibt keine erfundenen Studien, Statistiken oder unzulässige Inhalte. Die Beispieldaten sind plausibel und der Zweck der Vorlage entspricht der Beschreibung."
+      "audit_v": 2,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen oder Studien, keine Rechts- oder Gesundheitsberatung, klare Struktur und Beispiele, keine Regelverstöße."
     },
     {
       "type": "ebook",
@@ -689,9 +691,9 @@
       "pay_url": "https://buy.stripe.com/6oU9AUcUx3Xd1E23ko2kw0w",
       "payment_link_id": "plink_1UKDBwJ5iOXkWb9V6w00eQgY",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße gefunden. Tipps sind allgemein und praktisch, ohne erfundene Studien, Marken oder problematische Inhalte. Kleinere Optimierungen im Textfluss möglich."
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Inhalt entspricht den Regeln. Keine erfundenen Statistiken, Prozentzahlen oder Quellen. Praktische Tipps ohne gesundheitliche Versprechen oder Markennennungen. Format und Sprache sind korrekt."
     },
     {
       "type": "excel",
@@ -712,9 +714,9 @@
       "pay_url": "https://buy.stripe.com/14AbJ2g6J8dt96u8EI2kw0x",
       "payment_link_id": "plink_1UKDBwJ5iOXkWb9V1Xkccrg1",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 7,
-      "audit_note": "Die Excel-Vorlage ist grundsätzlich funktional und nützlich für Selbstständige. Es gibt keine offensichtlichen Regelverstöße oder erfundenen Inhalte. Allerdings sind die Anleitungstexte unvollständig (abgeschnitten), was die Benutzerfreundlichkeit einschränkt. Die Beispieldaten sind realistisch und "
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Klare Funktionsbeschreibung ohne falsche Behauptungen. Beispielhafte Einträge als solche erkennbar. Keine Regelverstöße bzgl. Recht, Finanzen oder Marken."
     },
     {
       "type": "ebook",
@@ -735,9 +737,9 @@
       "pay_url": "https://buy.stripe.com/7sYcN6bQt79pgyW1cg2kw0y",
       "payment_link_id": "plink_1UKDBxJ5iOXkWb9VqpwuMgCM",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 9,
-      "audit_note": "Guter Inhalt, keine Regelverstöße erkennbar. Praktische Tipps ohne falsche Behauptungen oder erfundene Quellen."
+      "audit_v": 2,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt hält sich an die Regeln: keine erfundenen Studien, Statistiken oder Prozentzahlen enthalten; allgemein bekannte Fakten und praktische Tipps verwendet; keine Rechts-, Steuer-, Finanz- oder Medizinberatung; keine Gesundheitsversprechen oder fremden Marken; keine sachlichen Fehler oder Platz"
     },
     {
       "type": "excel",
@@ -758,9 +760,9 @@
       "pay_url": "https://buy.stripe.com/3cI9AU5s52T91E2g7a2kw0z",
       "payment_link_id": "plink_1UKDttJ5iOXkWb9VSsH8reoX",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 6,
-      "audit_note": "Inhalt ist größtenteils regelkonform, jedoch gibt es einige unfertige oder abgebrochene Texte (z.B. 'Kale', 'tatsäch', 'RO'). Keine erfundenen Studien oder Statistiken, keine Rechts-/Steuerberatung, keine Markenverletzungen. Sprache ist einheitlich Deutsch."
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen oder Statistiken gefunden. Die Inhalte entsprechen den Regeln und sind klar als Beispiele oder individuelle Einträge gekennzeichnet. Produkt ist funktional und regelkonform."
     },
     {
       "type": "ebook",
@@ -801,9 +803,9 @@
       "pay_url": "https://buy.stripe.com/dRmaEY9IldxNgyW6wA2kw0B",
       "payment_link_id": "plink_1UKDtvJ5iOXkWb9V0ScC0ITf",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine Regelverstöße festgestellt, klare Struktur, sinnvolle Funktionen, keine erfundenen Studien/Statistiken, korrekte Excel-Formeln. Verbesserung möglich durch: komplett ausgefüllte Beispielzeilen, genauere Anleitung zur Bedienung der Excel-Funktionen."
+      "audit_note": "Keine Verstöße gegen die Regeln festgestellt. Der Inhalt beschreibt klar die Funktionen des Produkts ohne erfundene Studien, Gesundheitsversprechen oder Marken Dritter. Excel-Formeln sind sinnvoll eingesetzt. Beispielfunktionen sind korrekt dargestellt."
     },
     {
       "type": "ebook",
@@ -824,9 +826,9 @@
       "pay_url": "https://buy.stripe.com/9B64gA5s5gJZeqO6wA2kw0C",
       "payment_link_id": "plink_1UKEMsJ5iOXkWb9VqZmnJzG8",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Inhalt entspricht weitgehend den Regeln: Keine erfundenen Studien/Statistiken, keine Rechts-/Finanzberatung, keine Marken Dritter. Tipps sind praxisnah und allgemein gehalten. Leichte Abbrüche/Unfertigkeiten in einigen Abschnitten (z.B. Kapitel 4), aber keine gravierenden Mängel."
+      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken oder konkreten Prozentangaben. Es werden nur allgemein bekannte Praxistipps und Prinzipien des Minimalismus geteilt, ohne medizinische, finanzielle oder rechtliche Beratung. Der Text ist vollständig und in korrektem Deutsch verfasst."
     },
     {
       "type": "excel",
@@ -847,9 +849,9 @@
       "pay_url": "https://buy.stripe.com/28E6oIdYB1P5aayf362kw0D",
       "payment_link_id": "plink_1UKEMtJ5iOXkWb9VXATLBcF8",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 9,
-      "audit_note": "Keine Regelverstöße erkennbar. Das Dokument ist ein funktionaler Excel-Kalkulator ohne erfundene Statistiken oder Quellen, ohne Gesundheitsversprechen, ohne fremde Marken und ohne Rechts-/Finanzberatung. Die 7% Umsatzsteuer-Option ist korrekt (gültige Steueroption in Deutschland). Formeln sind sinnv"
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Die Prozentangaben für Nebenkosten und Gewinnmarge sind nicht als allgemein bekannte Werte gekennzeichnet. Alle anderen Inhalte sind korrekt: USt-Sätze (7%/19%) sind gültig, Excel-Formeln plausibel."
     },
     {
       "type": "ebook",
@@ -870,9 +872,9 @@
       "pay_url": "https://buy.stripe.com/8x2eVecUx51h4QeaMQ2kw0E",
       "payment_link_id": "plink_1UKEMuJ5iOXkWb9VpSf8oWMw",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 9,
-      "audit_note": "Keine Regelverstöße erkannt. Das E-Book enthält kindgerechte, imaginative Geschichten ohne falsche Fakten, Gesundheitsversprechen oder rechtliche Probleme. Einzelne etwas abrupte Szenenübergänge (mögliches Überlesen). "
+      "audit_note": "Das E-Book entspricht den vorgegebenen Regeln. Es enthält keine erfundenen Studien, Statistiken oder unzulässigen Gesundheitsversprechen. Die Geschichten sind kindgerecht, fantasievoll und ohne fremde Marken oder Figuren. Die Sprache ist durchgehend korrekt und es gibt keine unfertigen Textstellen o"
     },
     {
       "type": "excel",
@@ -893,9 +895,9 @@
       "pay_url": "https://buy.stripe.com/fZu5kE9Il0L1gyW08c2kw0F",
       "payment_link_id": "plink_1UKEY0J5iOXkWb9VISyuZhLg",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 9,
-      "audit_note": "Klarer Aufbau, keine Regelverstöße erkannt. Funktionale Excel-Tabelle ohne erfundene Daten oder falsche Angaben. Kleine Formalitätsfehler (abgeschnittener Text in Schritten)."
+      "audit_note": "Der Inhalt entspricht den Regeln. Es werden keine erfundenen Studien, Statistiken oder Quellen genannt. Die Sprache ist durchgängig Deutsch und konsistent, ohne Platzhalter oder unfertige Texte. Die Excel-Formeln sind sinnvoll und korrekt dargestellt. Es handelt sich um eine praktische Checkliste un"
     },
     {
       "type": "ebook",
@@ -916,9 +918,9 @@
       "pay_url": "https://buy.stripe.com/dRm00k7Ad65l2I6aMQ2kw0G",
       "payment_link_id": "plink_1UKEY1J5iOXkWb9V8RugYLHI",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße gefunden, aber die 50-30-20 Regel ohne Quellenangabe könnte problematisch sein. Keine erfundenen Studien oder Statistiken, keine Gesundheitsversprechen oder fremde Marken."
+      "audit_note": "Die 50-30-20-Regel ist als allgemein bekannte Faustregel akzeptiert. Die anderen Prozentangaben (z.B. 30-50% bei Eigenmarken) sind plausibel, wenn nicht als konkrete Studienbehauptung dargestellt. Keine klaren Regelverstöße, nur allg. Spar-Tipps ohne falsche Behauptungen."
     },
     {
       "type": "excel",
@@ -939,9 +941,9 @@
       "pay_url": "https://buy.stripe.com/fZubJ23jX65l4Qef362kw0H",
       "payment_link_id": "plink_1UKEY2J5iOXkWb9VNfnZRiTR",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße erkannt. Das Produkt beschreibt eine funktionale Excel-Vorlage für Fitnesstrainer ohne erfundene Studien, Gesundheitsversprechen oder Fremdmarken. Die Automatisierung mittels Formeln ist korrekt dargestellt. Verbesserungspotenzial: Etwas rudimentäre Benutzerführung und unv"
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Gesundheitsversprechen. Klare Struktur, keine Rechts- oder Finanzberatung. Formeln sind nachvollziehbar und sinnvoll. Beispielhafte Daten korrekt gekennzeichnet."
     },
     {
       "type": "ebook",
@@ -962,9 +964,9 @@
       "pay_url": "https://buy.stripe.com/cNi00k8Eh79p4Qe6wA2kw0I",
       "payment_link_id": "plink_1UKEjHJ5iOXkWb9VQHs79chK",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine offensichtlichen Regelverstöße erkennbar. Der Inhalt ist fokussiert auf praktische Tipps für Lehrer ohne erfundene Studien, Gesundheitsversprechen oder Finanzberatung. Die Sprache ist konsequent Spanisch ohne Mischformen. Kleinere strukturelle Wiederholungen (z.B. doppelte Kapitelüberschriften"
+      "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Die Sprache ist klar und auf Spanisch gehalten. Es gibt keine unfertigen Texte oder Platzhalter. Das E-Book bietet allgemeine Praxistipps für Lehrer ohne finanzielle, rechtliche oder medizinische Beratung. Es"
     },
     {
       "type": "excel",
@@ -985,9 +987,9 @@
       "pay_url": "https://buy.stripe.com/cNi5kE5s551h1E208c2kw0J",
       "payment_link_id": "plink_1UKEjIJ5iOXkWb9V9HxBT5In",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße erkennbar. Das Produkt ist ein funktionaler Medikationsplaner ohne falsche Behauptungen, Gesundheitsversprechen oder externe Referenzen. Die Excel-Formeln sind sinnvoll und der Preis ist klar angegeben."
+      "audit_note": "Produkt ist ein einfacher Medikationsplaner ohne Regelverstöße. Keine erfundenen Statistiken, Gesundheitsversprechen oder fremde Marken. Formeln sind funktional und nachvollziehbar."
     },
     {
       "type": "ebook",
@@ -1008,9 +1010,9 @@
       "pay_url": "https://buy.stripe.com/cNi7sM4o179p96u4os2kw0K",
       "payment_link_id": "plink_1UKEjIJ5iOXkWb9ViNhaMvFt",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße festgestellt. Der Inhalt bietet allgemein bekannte Praxistipps für Freiberufler ohne fragwürdige Behauptungen, Markenverstöße oder spezifische Rechts-/Finanzberatung. Einige Stellen könnten jedoch präzisiert werden (z.B. generische Markennennung wie Canva/Slack ohne spezif"
+      "audit_note": "Inhalt ist legal und ehrlich, keine unzulässigen Behauptungen oder erfundenen Statistiken, bietet praktische Tipps ohne spezifische Rechts- oder Finanzberatung. Keine Verwendung von Marken oder urheberrechtlich geschützten Inhalten. Der Text ist vollständig und frei von Platzhaltern oder Fehlern. Al"
     },
     {
       "type": "excel",
@@ -1031,9 +1033,9 @@
       "pay_url": "https://buy.stripe.com/fZudRaaMp51h82q3ko2kw0L",
       "payment_link_id": "plink_1UKF2UJ5iOXkWb9V5N5mujkF",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße erkennbar. Das Dokument ist eine einfache Excel-Reiseplanungsvorlage ohne erfundene Studien, fremde Marken oder problematische Inhalte. Die Formeln sind korrekt und nachvollziehbar. Kleinere sprachliche Unvollständigkeiten (abgeschnittene Wörter) beeinträchtigen nicht die "
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine fremden Marken/Figuren oder Rechtsberatung. Klare Beispielrechnungen ohne irreführende Angaben. Einzig die 20% Marge ist als generalisierte Faustregel akzeptabel ohne konkrete Herkunft zu nennen."
     },
     {
       "type": "ebook",
@@ -1054,9 +1056,9 @@
       "pay_url": "https://buy.stripe.com/aFa28saMpbpF5UicUY2kw0M",
       "payment_link_id": "plink_1UKF2VJ5iOXkWb9V86mdcf9R",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine erkennbaren Regelverstöße. Der Inhalt ist praktisch, authentisch und frei von erfundenen Studien oder falschen Angaben. Sprachlich korrektes Französisch, strukturierte Informationen ohne Platzhalter oder unfertige Texte."
+      "audit_note": "Das E-Book enthält keine offensichtlichen Regelverstöße wie erfundene Statistiken, falsche Quellen oder Gesundheitsversprechen. Der Inhalt besteht aus praktischen Reisetipps für die Region Saarland und Moselle, die auf allgemein bekanntem Wissen basieren. Die Sprache ist durchgängig Französisch und "
     },
     {
       "type": "excel",
@@ -1077,9 +1079,9 @@
       "pay_url": "https://buy.stripe.com/5kQdRa3jX1P53Ma4os2kw0N",
       "payment_link_id": "plink_1UKF2WJ5iOXkWb9Vmj9gk4dO",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine Regelverstöße festgestellt. Produkt ist legal, ehrlich, und frei von Spam, falschen Studien, Statistiken oder Beratung. Excel-Datei enthält sinnvolle Funktionen und ist sprachlich korrekt."
+      "audit_note": "Keine erfundenen Zahlen oder Quellen, klare Struktur, keine Regelverstöße. Einige Excel-Formeln sind nicht ausführlich erklärt, aber das ist kein Problem, da es sich um ein Excel-Produkt handelt."
     },
     {
       "type": "ebook",
@@ -1100,9 +1102,9 @@
       "pay_url": "https://buy.stripe.com/fZu3cwcUxgJZ82q9IM2kw0O",
       "payment_link_id": "plink_1UKFdYJ5iOXkWb9VaXVXvaM8",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße festgestellt. Der Text enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Der Inhalt ist ehrlich, legal und spammfrei. Die Sprache ist korrekt und der Text ist fertiggestellt. Prozentangaben sind allgemein bekannt (z.B. 'add 30% extra time')."
+      "audit_note": "Insgesamt ein guter, familienfreundlicher Reiseführer ohne gravierende Regelverstöße. Der Inhalt ist praxisnah und basiert auf allgemein bekanntem Wissen. Der erwähnte Wert '30%' ist jedoch nicht belegt und sollte entfernt werden. Keine gefälschten Studien, Gesundheitsversprechen oder Rechtsberatung"
     },
     {
       "type": "excel",
@@ -1123,9 +1125,9 @@
       "pay_url": "https://buy.stripe.com/14AeVe1bPgJZ82qbQU2kw0P",
       "payment_link_id": "plink_1UKFdYJ5iOXkWb9Veaevddg6",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße erkennbar. Das Produkt ist eine funktionale Excel-Vorlage ohne falsche Angaben oder irreführende Inhalte. Die Beispieldaten sind plausibel und nicht erfunden. Lediglich die Summenformeln (D40/E40) könnten präziser auf den tatsächlichen Datenbereich (D6/E6) angepasst werden"
+      "audit_v": 2,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist klar strukturiert, es gibt keine erfundenen Zahlen, Statistiken oder Quellen. Die Sprache ist korrekt und einheitlich deutsch. Es gibt keine unfertigen Texte, Platzhalter oder sachlichen Fehler. Das Produkt bietet praktische Tipps und Beispielrechnungen, die als solche gekennzeichnet "
     },
     {
       "type": "ebook",
@@ -1146,9 +1148,9 @@
       "pay_url": "https://buy.stripe.com/4gMcN6bQtalBbeC9IM2kw0Q",
       "payment_link_id": "plink_1UKFdZJ5iOXkWb9VqfOUK8NE",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 7,
-      "audit_note": "Kleinere formale Mängel (unvollständige Sätze, fehlende Kapitelnummerierung), aber keine klaren Regelverstöße. Inhaltlich plausibel, nützliche Praxis-Tipps ohne falsche Fakten oder unerlaubte Beratung."
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Insgesamt guter Reiseführer mit praxisnahen Tipps, jedoch finden sich vereinzelte nicht belegte Prozentangaben (z.B. '30% günstiger'). Der Inhalt ist ansonsten regelkonform und bietet nützliche lokale Informationen ohne falsche Behauptungen oder unzulässige Versprechen."
     },
     {
       "type": "excel",
@@ -1169,9 +1171,9 @@
       "pay_url": "https://buy.stripe.com/00w6oI7Ad2T9dmKcUY2kw0S",
       "payment_link_id": "plink_1UKH1sJ5iOXkWb9VUT4XS9s5",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "keine klaren Regelverstöße, funktionaler Budget- und Reiseplaner, keine erfundenen Daten oder problematischen Inhalte"
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder falschen Angaben. Klare Struktur, praktische Excel-Funktionen ohne Fehler. Inhalte sind allgemein gültig und entsprechen den Regeln."
     },
     {
       "type": "ebook",
@@ -1192,9 +1194,9 @@
       "pay_url": "https://buy.stripe.com/8x26oIbQt1P596ucUY2kw0T",
       "payment_link_id": "plink_1UKH1tJ5iOXkWb9VJtuxjKao",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 9,
-      "audit_note": "Guter, informativer Reiseführer ohne Regelverstöße. Keine falschen Statistiken, keine Gesundheitsversprechen, keine Marken Dritter. Inhalt ist nützlich und authentisch."
+      "audit_v": 2,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist regelkonform: Keine erfundenen Studien, Statistiken oder Zahlen, keine Beratung, keine Gesundheitsversprechen oder Marken Dritter. Der Text ist vollständig, ohne Platzhalter oder Wiederholungen, und bietet praxisnahe Tipps für Reisende."
     },
     {
       "type": "excel",
@@ -1239,9 +1241,9 @@
       "pay_url": "https://buy.stripe.com/5kQ9AU3jXbpF1E29IM2kw0V",
       "payment_link_id": "plink_1UKLX7J5iOXkWb9VnNXnZ18N",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 9,
-      "audit_note": "Keine Regelverstöße erkennbar. Der Inhalt besteht aus harmlosen, kindgerechten Gutenachtgeschichten ohne falsche Fakten, Markenverstöße oder Gesundheitsversprechen. Kleine Fehler wie eine abgebrochene Geschichte (Gato de las Estrellas) und minimale Formatierungsprobleme fallen nicht ins Gewicht."
+      "audit_note": "Keine Regelverstöße festgestellt. Der Inhalt besteht aus originellen Kindergeschichten ohne erfundene Studien, Statistiken oder gesundheitliche Versprechen. Die Sprache ist korrekt Spanisch und es gibt keine unfertigen Texte oder Platzhalter."
     },
     {
       "type": "excel",
@@ -1262,9 +1264,9 @@
       "pay_url": "https://buy.stripe.com/00w28s07L79p2I6cUY2kw0W",
       "payment_link_id": "plink_1UKLX8J5iOXkWb9VifOdU5ec",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
-      "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße. Excel-Funktionen sinnvoll, keine erfundenen Studien oder falschen Angaben."
+      "audit_v": 2,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken, Zitate oder Quellen gefunden. Inhalt entspricht den Regeln: legal, ehrlich, kein Spam, keine Finanz-/Rechts-/Steuerberatung, keine Gesundheitsversprechen, keine Marken/Figuren Dritter, keine Kopien bestehender Werke. Formeln und Tabellen sind sinnvoll und korrek"
     },
     {
       "type": "ebook",
@@ -1285,267 +1287,12 @@
       "pay_url": "https://buy.stripe.com/8x25kE6w951h2I69IM2kw0X",
       "payment_link_id": "plink_1UKLX8J5iOXkWb9VLXVVV3TH",
       "site": "https://haiktec.tech",
-      "audit_v": 1,
+      "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Inhalt entspricht grundsätzlich den Vorgaben, enthält jedoch einige Prozentangaben ohne nachweisbare Quellen (z.B. '现金支付能让消费金额降低15-30%', '24小时冷却期能过滤90% der nicht notwendigen Käufe'). Diese sollten entfernt oder als allgemeine Beobachtungen ohne konkrete Zahlen formuliert werden."
+      "audit_note": "Gut strukturierter Ratgeber mit praktischen Tipps, keine gravierenden Regelverstöße. Zwei nicht belegte Prozentangaben sollen entfernt werden (können durch allgemeine Formulierungen ersetzt werden). Keine Finanzberatung, nur allgemeine Sparhinweise."
     }
   ],
   "log": [
-    {
-      "t": "2026-09-27T07:56:32",
-      "eur": -0.009373199999999998,
-      "why": "KI-Denken: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr Umsatz und Kundenzufriedenheit"
-    },
-    {
-      "t": "2026-09-27T07:56:32",
-      "eur": -0.004212,
-      "why": "KI-Pruefung: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr Umsatz und Kundenzufriedenheit"
-    },
-    {
-      "t": "2026-09-27T07:56:32",
-      "eur": -0.0026256,
-      "why": "KI-Denken: Smart Business Trip Planner & Expense Tracker for Freelancers"
-    },
-    {
-      "t": "2026-09-27T07:56:32",
-      "eur": -0.0010727999999999998,
-      "why": "KI-Pruefung: Smart Business Trip Planner & Expense Tracker for Freelancers"
-    },
-    {
-      "t": "2026-09-27T07:56:32",
-      "eur": -0.0089004,
-      "why": "KI-Denken: The Etsy Seller's Growth Playbook: Proven Strategies to Increase Traffic & Sales in 2026"
-    },
-    {
-      "t": "2026-09-27T07:56:32",
-      "eur": -0.0034044,
-      "why": "KI-Pruefung: The Etsy Seller's Growth Playbook: Proven Strategies to Increase Traffic & Sales in 2026"
-    },
-    {
-      "t": "2026-09-27T08:05:15",
-      "eur": -0.0029771999999999997,
-      "why": "KI-Denken: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche"
-    },
-    {
-      "t": "2026-09-27T08:05:15",
-      "eur": -0.0012395999999999998,
-      "why": "KI-Pruefung: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche"
-    },
-    {
-      "t": "2026-09-27T08:05:15",
-      "eur": -0.010072799999999998,
-      "why": "KI-Denken: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
-    },
-    {
-      "t": "2026-09-27T08:05:15",
-      "eur": -0.004392,
-      "why": "KI-Pruefung: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
-    },
-    {
-      "t": "2026-09-27T08:05:15",
-      "eur": -0.0032327999999999996,
-      "why": "KI-Denken: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T08:05:15",
-      "eur": -0.0012071999999999999,
-      "why": "KI-Pruefung: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T08:05:15",
-      "eur": -0.011687999999999999,
-      "why": "KI-Denken: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
-    },
-    {
-      "t": "2026-09-27T08:05:15",
-      "eur": -0.004252799999999999,
-      "why": "KI-Pruefung: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
-    },
-    {
-      "t": "2026-09-27T08:05:15",
-      "eur": 0,
-      "why": "etsy-Fehler bei stundentracker-freelancer: HTTP Error 403: Forbidden {\"error\":\"API key not found or not active, or incorrect shared secret for API key.\"}\n"
-    },
-    {
-      "t": "2026-09-27T08:54:41",
-      "eur": -0.0035315999999999998,
-      "why": "KI-Denken: YouTube Content Planner & ROI-Tracker für Creator"
-    },
-    {
-      "t": "2026-09-27T08:54:41",
-      "eur": -0.0015576,
-      "why": "KI-Pruefung: YouTube Content Planner & ROI-Tracker für Creator"
-    },
-    {
-      "t": "2026-09-27T08:54:41",
-      "eur": -0.0102852,
-      "why": "KI-Denken: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
-    },
-    {
-      "t": "2026-09-27T08:54:41",
-      "eur": -0.003986399999999999,
-      "why": "KI-Pruefung: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
-    },
-    {
-      "t": "2026-09-27T08:54:41",
-      "eur": -0.16,
-      "why": "KI-Bilder: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
-    },
-    {
-      "t": "2026-09-27T08:54:41",
-      "eur": -0.0028152,
-      "why": "KI-Denken: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-27T08:54:41",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-27T08:54:41",
-      "eur": 0,
-      "why": "etsy-Fehler bei stundentracker-freelancer: HTTP Error 403: Forbidden {\"error\":\"API key not found or not active, or incorrect shared secret for API key.\"}\n"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.010407599999999998,
-      "why": "KI-Denken: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfachen Schritten"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.0041004,
-      "why": "KI-Pruefung: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfachen Schritten"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.16,
-      "why": "KI-Bilder: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfachen Schritten"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.0035064,
-      "why": "KI-Denken: Baustellen-Angebots-Kalkulator für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.001248,
-      "why": "KI-Pruefung: Baustellen-Angebots-Kalkulator für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.009190799999999999,
-      "why": "KI-Denken: Traumland-Abenteuer: 12 magische Gute-Nacht-Geschichten für müde Kinder (3-8 Jahre)"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.004153199999999999,
-      "why": "KI-Pruefung: Traumland-Abenteuer: 12 magische Gute-Nacht-Geschichten für müde Kinder (3-8 Jahre)"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1272 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.0096324,
-      "why": "KI-Denken: Gute-Nacht-Geschichten für kleine Träumer: 6 zauberhafte Abenteuer für Kinder von 3 bis 8 Jahren"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.004147199999999999,
-      "why": "KI-Pruefung: Gute-Nacht-Geschichten für kleine Träumer: 6 zauberhafte Abenteuer für Kinder von 3 bis 8 Jahren"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1166 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.0098544,
-      "why": "KI-Denken: Träume der Mondfee: 24 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.0045324,
-      "why": "KI-Pruefung: Träume der Mondfee: 24 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): E-Book zu kurz (1309 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.009767999999999999,
-      "why": "KI-Denken: 10 Fantastische Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.0042071999999999995,
-      "why": "KI-Pruefung: 10 Fantastische Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): E-Book zu kurz (1163 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.011157599999999998,
-      "why": "KI-Denken: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.0045179999999999994,
-      "why": "KI-Pruefung: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": -0.16,
-      "why": "KI-Bilder: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-09-27T09:12:29",
-      "eur": 0,
-      "why": "etsy-Fehler bei stundentracker-freelancer: HTTP Error 403: Forbidden {\"error\":\"API key not found or not active, or incorrect shared secret for API key.\"}\n"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.0033575999999999996,
-      "why": "KI-Denken: Hochzeits-Checkliste & Budget-Tracker für perfekte Planung"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.0012275999999999997,
-      "why": "KI-Pruefung: Hochzeits-Checkliste & Budget-Tracker für perfekte Planung"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.009814799999999999,
-      "why": "KI-Denken: Cleveres Sparen im Alltag: 30 einfache Tricks für mehr Geld im Portemonnaie"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.0043656,
-      "why": "KI-Pruefung: Cleveres Sparen im Alltag: 30 einfache Tricks für mehr Geld im Portemonnaie"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): E-Book zu kurz (1421 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.010844399999999999,
-      "why": "KI-Denken: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Alltag"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.0043067999999999995,
-      "why": "KI-Pruefung: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Alltag"
-    },
     {
       "t": "2026-09-27T09:33:54",
       "eur": -0.16,
@@ -2295,6 +2042,261 @@
       "t": "2026-09-27T17:27:04",
       "eur": 0,
       "why": "Audit: 51 geprueft, 2 entfernt"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0014351999999999998,
+      "why": "Audit: Stundentracker für Freelancer"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0038255999999999997,
+      "why": "Audit: Effizientes Selbstmanagement für Selbstständige in 6 Schritten"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0011627999999999999,
+      "why": "Audit: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0031631999999999997,
+      "why": "Audit: The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0015119999999999999,
+      "why": "Audit: Zeit- und Projektbudget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0038399999999999997,
+      "why": "Audit: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0012576,
+      "why": "Audit: Freelancer-Invoice-Tracker für internationale Aufträge"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0032364,
+      "why": "Audit: The Freelancer's Guide to Stress-Free Productivity"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": 0,
+      "why": "Audit entfernt: The Freelancer's Guide to Stress-Free Productivity – Das E-Book enthält mehrere erfundene Prozentzahlen und Leistungsbehauptungen ('Produktivität steigt um 400-500%'), die nicht allgemein bekannt oder belegt sind."
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0012216,
+      "why": "Audit: Umzugsbudget- und Zeitplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.003952799999999999,
+      "why": "Audit: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstv"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0013464,
+      "why": "Audit: YouTube Video Performance Tracker & Optimierungstool für Creator"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0028943999999999997,
+      "why": "Audit: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tu"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0011903999999999999,
+      "why": "Audit: Pflegezeit- und Kostenplaner für pflegende Angehörige"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0038963999999999995,
+      "why": "Audit: Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbsts"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0014615999999999997,
+      "why": "Audit: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0033575999999999996,
+      "why": "Audit: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.00114,
+      "why": "Audit: Hochzeitsbudget-Tracker & Planer für Paare"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0038375999999999996,
+      "why": "Audit: Clever Sparen im Alltag: Einfache Tricks für private Haushaltsfinanzen"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0012371999999999997,
+      "why": "Audit: Smart Fitness Progress Tracker für Trainer & Selbständige"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0039168,
+      "why": "Audit: Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0013104,
+      "why": "Audit: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0038435999999999995,
+      "why": "Audit: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0012779999999999998,
+      "why": "Audit: Smart Business Trip Planner & Expense Tracker for Freelancers"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0014027999999999998,
+      "why": "Audit: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0038699999999999997,
+      "why": "Audit: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0014652,
+      "why": "Audit: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0039911999999999994,
+      "why": "Audit: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0017111999999999997,
+      "why": "Audit: YouTube Content Planner & ROI-Tracker für Creator"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0011003999999999999,
+      "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0038099999999999996,
+      "why": "Audit: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfac"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0014364,
+      "why": "Audit: Baustellen-Angebots-Kalkulator für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.004076399999999999,
+      "why": "Audit: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinde"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0013788,
+      "why": "Audit: Hochzeits-Checkliste & Budget-Tracker für perfekte Planung"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0040392,
+      "why": "Audit: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Allt"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0019283999999999998,
+      "why": "Audit: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0035855999999999996,
+      "why": "Audit: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0010727999999999998,
+      "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0043571999999999994,
+      "why": "Audit: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0012923999999999998,
+      "why": "Audit: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides To"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0039683999999999995,
+      "why": "Audit: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0009216,
+      "why": "Audit: Ultimate City Trip Planner for Families in NRW"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0034487999999999997,
+      "why": "Audit: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0012384,
+      "why": "Audit: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0039071999999999996,
+      "why": "Audit: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0010884,
+      "why": "Audit: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0032915999999999996,
+      "why": "Audit: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidde"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0039959999999999996,
+      "why": "Audit: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0011136,
+      "why": "Audit: 智能婚礼预算跟踪与规划器 - 2026年专属版"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": -0.0047688,
+      "why": "Audit: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
+    },
+    {
+      "t": "2026-09-27T17:35:41",
+      "eur": 0,
+      "why": "Audit: 49 geprueft, 1 entfernt"
     }
   ],
   "alive": true,
