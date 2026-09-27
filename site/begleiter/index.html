@@ -20,7 +20,7 @@ form{display:flex;gap:8px;padding:10px;background:#fff;border-top:1px solid #e3e
 <p class="note">15 Nachrichten pro Tag kostenlos. Danach 300 Nachrichten für 4,99 € (einmalig, kein Abo). Chat-Verläufe bleiben nur auf deinem Gerät. <a href="../datenschutz.html">Datenschutz</a> · <a href="../agb.html">AGB</a> · <a href="../impressum.html">Impressum</a></p></section>
 <section id="chat"><div id="log"></div><div id="bar"></div><form id="f"><input id="t" autocomplete="off" placeholder="Schreib etwas..." maxlength="1000"><button class="s">Senden</button></form></section>
 <script>
-const API="__API__",PAY="#";
+const API="https://haiktec-begleiter.haiktec.workers.dev",PAY="https://buy.stripe.com/4gM7sMdYB2T94QedZ22kw0R";
 const P={lina:["Lina","Warmherzig und humorvoll, liebt Reisen","#d9776b"],sofia:["Sofia","Lebhaft und charmant, Latina-Temperament","#c2476b"],max:["Max","Charmant, witzig, guter Zuhörer","#3f6fb5"],alex:["Alex","Kreativ, offen, verspielt (divers)","#8a5bb8"]};
 const $=id=>document.getElementById(id);let uid=localStorage.hk_uid||(localStorage.hk_uid=crypto.randomUUID()),cur=null,hist=[];
 if(localStorage.hk_age)$("gate").remove();$("ok").onclick=()=>{localStorage.hk_age=1;$("gate").remove()};

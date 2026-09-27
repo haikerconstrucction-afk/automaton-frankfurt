@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 501.5357,
-  "spent_eur": 3.1343,
+  "balance_eur": 500.7285,
+  "spent_eur": 3.9415,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -263,7 +263,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/5kQ14oaMp1P5aay6wA2kw0b",
       "payment_link_id": "plink_1UKBVTJ5iOXkWb9VEdg23NLB",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583571976"
+      }
     },
     {
       "type": "ebook",
@@ -283,7 +286,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/cNi4gA07LalB82q9IM2kw0c",
       "payment_link_id": "plink_1UKBVUJ5iOXkWb9Vcsq3RIXC",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583561471"
+      }
     },
     {
       "type": "excel",
@@ -303,7 +309,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/fZu5kEbQtctJbeC6wA2kw0d",
       "payment_link_id": "plink_1UKBVVJ5iOXkWb9VHCmkerLN",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583561483"
+      }
     },
     {
       "type": "ebook",
@@ -943,6 +952,66 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/5kQdRa3jX1P53Ma4os2kw0N",
       "payment_link_id": "plink_1UKF2WJ5iOXkWb9Vmj9gk4dO",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Ultimate Road Trip Guide: Bavaria & The Alps for Families",
+      "slug": "ultimate-road-trip-guide-bavaria-alps-families",
+      "price_eur": 5,
+      "target": "families planning road trips in Bavaria and the Alps (especially international tourists)",
+      "reason": "Addresses a real pain point (family road trip planning) with hyper-local knowledge no Google search provides. At 30+ actionable tips for €5, it's cheaper than one wrong turn's wasted gas.",
+      "language": "en",
+      "pitch": "Discover stress-free family adventures with scenic routes, kid-friendly stops, and insider tips for Bavaria's castles, alpine lakes, and cozy mountain huts – all perfectly timed for little explorers.",
+      "content_html": "<h2>Content</h2><ul><li>6 Scenic Driving Routes by Season</li><li>50+ Kid-approved Stops (toilets & snacks included!)</li><li>Cheat Sheet: Drive Times Between Highlights</li><li>Printable Packing Checklist</li><li>Sample Itinerary: 3 Perfect Days</li><li>Free Bonuses: German Road Sign Guide + Basic Phrases</li></ul>",
+      "created": "2026-09-27T10:42:36",
+      "file": "ultimate-road-trip-guide-bavaria-alps-families-44e9ad12d9f9ccc8.pdf",
+      "size": 1628,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/fZu3cwcUxgJZ82q9IM2kw0O",
+      "payment_link_id": "plink_1UKFdYJ5iOXkWb9VaXVXvaM8",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige",
+      "slug": "ostsee-nordsee-reisebudget-tracker-routeplaner",
+      "price_eur": 9,
+      "target": "Selbstständige Reiseführer und Touristik-Unternehmer, die Gruppenreisen an Ost- und Nordsee organisieren",
+      "reason": "Spezialisiert auf die boomende Touristik-Branche an Deutschlands Küsten. Kombiniert praktische Reiseplanung mit präziser Budgetierung - genau was selbstständige Reiseleiter für professionelle Gruppenreisen benötigen. Gibt es so noch nicht im Angebot.",
+      "language": "de",
+      "pitch": "Professionelle Reiseplanung mit automatischer Budgetkalkulation und Routenoptimierung. Spart Zeit und erhöht Kundenzufriedenheit durch präzise Kalkulation.",
+      "content_html": "<h2>Inhalt</h2><p>Automatische Budgetberechnung, Kilometer- und Zeitplanung für Rundreisen, Ausgaben-Tracking für Gruppen, ROI-Kalkulation pro Tour</p>",
+      "created": "2026-09-27T10:42:36",
+      "file": "ostsee-nordsee-reisebudget-tracker-routeplaner-fde3702534016d04.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/14AeVe1bPgJZ82qbQU2kw0P",
+      "payment_link_id": "plink_1UKFdYJ5iOXkWb9Veaevddg6",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken",
+      "slug": "rhein-frankfurt-heidelberg-reisefibel",
+      "price_eur": 5,
+      "target": "Selbstständige und KMU, die ihre Reiseplanung optimieren möchten",
+      "reason": "Das Produkt bietet konkrete und praktische Anleitungen für eine erfolgreiche Reiseplanung in einer beliebten deutschen Region. Es ist speziell auf die Bedürfnisse von Selbstständigen und KMU zugeschnitten und bietet einen klaren Mehrwert für Geschäftsreisende und Touristen.",
+      "language": "de",
+      "pitch": "Erleben Sie Rhein, Frankfurt und Heidelberg wie ein Insider mit praktischen Tipps und Schritt-für-Schritt-Anleitungen. Perfekt für Geschäftsreisende und Touristen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einleitung: Warum Rhein, Frankfurt und Heidelberg?</li><li>Kapitel 1: Die besten Sehenswürdigkeiten am Rhein</li><li>Kapitel 2: Frankfurt entdecken: Geschäft und Kultur</li><li>Kapitel 3: Heidelberg: Romantik und Geschichte</li><li>Kapitel 4: Praktische Reisetipps und Routenplanung</li><li>Kapitel 5: Lokale Küche und kulinarische Highlights</li><li>Kapitel 6: Insider-Tipps für Geschäftsreisende</li></ul><h2>Leseprobe</h2><p>Entdecken Sie die charmante Altstadt Heidel...</p>",
+      "created": "2026-09-27T10:42:36",
+      "file": "rhein-frankfurt-heidelberg-reisefibel-5324746236ed7c47.pdf",
+      "size": 1734,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/4gMcN6bQtalBbeC9IM2kw0Q",
+      "payment_link_id": "plink_1UKFdZJ5iOXkWb9VqfOUK8NE",
       "site": "https://haiktec.tech"
     }
   ],
@@ -1791,6 +1860,91 @@
       "t": "2026-09-27T10:07:15",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583559704"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.009308399999999998,
+      "why": "KI-Denken: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.0035508,
+      "why": "KI-Pruefung: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.0038028,
+      "why": "KI-Denken: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.0010848,
+      "why": "KI-Pruefung: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.0120996,
+      "why": "KI-Denken: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.004194,
+      "why": "KI-Pruefung: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.04,
+      "why": "KI-Bilder: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.0011003999999999999,
+      "why": "Blog-Artikel: Bodensee (fr)"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.001584,
+      "why": "Blog-Artikel: Mosel Cochem (de)"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.0003984,
+      "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Umzugsbudget- und Zeitplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583571976"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstversorger"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583561471"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: YouTube Video Performance Tracker & Optimierungstool für Creator"
+    },
+    {
+      "t": "2026-09-27T10:42:36",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583561483"
     }
   ],
   "alive": true,
@@ -1828,8 +1982,37 @@
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-09-27T10:07:15",
       "img": true
+    },
+    {
+      "slug": "decouvrez-le-lac-de-constance-allemagne",
+      "title": "Découvrez le lac de Constance : une pépite entre l'Allemagne, la Suisse et l'Autriche",
+      "lang": "fr",
+      "topic": "Bodensee",
+      "created": "2026-09-27T10:42:36",
+      "img": true
+    },
+    {
+      "slug": "entdecke-die-schoenheit-der-mosel-reisefuehrer-cochem",
+      "title": "Entdecke die Schönheit der Mosel: Ein Reiseführer für Cochem",
+      "lang": "de",
+      "topic": "Mosel Cochem",
+      "created": "2026-09-27T10:42:36",
+      "img": true
     }
   ],
-  "videos": [],
-  "begleiter": {}
+  "videos": [
+    {
+      "slug": "entdecke-die-schoenheit-der-mosel-reisefuehrer-cochem",
+      "title": "Entdecke die Schönheit der Mosel: Ein Reiseführer für Cochem",
+      "lang": "de",
+      "created": "2026-09-27T10:42:36",
+      "hashtags": "#Mosel #Cochem #DeutschlandEntdecken #Reiseziel #Weinregion",
+      "voice": "Entdecken Sie Cochem an der Mosel – ein Juwel deutscher Kultur und Natur! Die imposante Reichsburg thront über der Stadt und bietet atemberaubende Aussichten. Schlendern Sie durch die malerische Altstadt mit ihren bunten Fachwerkhäusern. Die Weinberge laden zu Spaziergängen ein, während die Mosel magische Bootsfahrten verspricht. Hier erleben Sie Geschichte, Natur und Genuss pur!",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons"
+    }
+  ],
+  "begleiter": {
+    "pay_url": "https://buy.stripe.com/4gM7sMdYB2T94QedZ22kw0R",
+    "link_id": "plink_1UKFeZJ5iOXkWb9VQdtvIS94"
+  }
 }
