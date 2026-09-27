@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.5973,
-  "spent_eur": 0.0727,
+  "balance_eur": 504.5643,
+  "spent_eur": 0.1057,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -212,6 +212,82 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/7sYdRa9IlctJ6Ym3ko2kw0a",
       "payment_link_id": "plink_1UKAYgJ5iOXkWb9VayCqaFN7"
+    },
+    {
+      "type": "excel",
+      "title": "Umzugsbudget- und Zeitplaner für Selbstständige",
+      "slug": "umzugsbudget-und-zeitplaner",
+      "price_eur": 7,
+      "target": "Selbstständige und Freelancer, die ihr Büro oder Arbeitsumfeld verlegen",
+      "reason": "Selbstständige müssen Umzüge oft neben dem Tagesgeschäft managen. Diese Vorlage hilft, Kosten unter Kontrolle zu halten und Fristen einzuhalten - entscheidend für einen reibungslosen Übergang ohne Betriebsunterbrechung.",
+      "language": "de",
+      "pitch": "Planen Sie Ihren Büroumzug professionell mit diesem All-in-One-Tracker für Kosten, Zeitleisten und Aufgabenverteilung. Behalten Sie alle Ausgaben und Fristen im Blick.",
+      "content_html": "<h2>Inhalt</h2><p>Professionelle Excel-Vorlage zur Planung und Kontrolle von Büroumzügen mit automatischen Berechnungen und Übersichten.</p>",
+      "created": "2026-09-27T06:17:33",
+      "file": "umzugsbudget-und-zeitplaner-ae4820a3de82fa72.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/5kQ14oaMp1P5aay6wA2kw0b",
+      "payment_link_id": "plink_1UKBVTJ5iOXkWb9VEdg23NLB"
+    },
+    {
+      "type": "ebook",
+      "title": "Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstversorger",
+      "slug": "selbstversorgung-leicht-gemacht-der-ultimative-ratgeber-fuer-gaertner-und-selbstversorger",
+      "price_eur": 5,
+      "target": "Gärtner und Selbstversorger in Deutschland, die ihren eigenen Garten effizient nutzen möchten",
+      "reason": "Dieses E-Book füllt eine Lücke im Markt, da es speziell auf die Bedürfnisse deutscher Gärtner und Selbstversorger zugeschnitten ist. Es bietet praxisnahe Anleitungen für Anfänger und Fortgeschrittene und ist mit seinem Preis von 5 Euro deutlich günstiger als vergleichbare Angebote.",
+      "language": "de",
+      "pitch": "Erfahren Sie, wie Sie mit minimalem Aufwand maximale Erträge aus Ihrem Garten ziehen und sich selbst versorgen können. Praktische Tipps und Schritt-für-Schritt-Anleitungen für Anfänger und Fortgeschrittene.",
+      "content_html": "<h2>Inhalt</h2> <ul><li>Grundlagen der Selbstversorgung</li><li>Planung Ihres Gartens</li><li>Bodenaufbereitung und Kompostierung</li><li>Anbau und Pflege von Gemüse und Kräutern</li><li>Schädlingsbekämpfung auf natürliche Weise</li><li>Ernte und Lagerung</li><li>Leseprobe: Kapitel 1 - Grundlagen der Selbstversorgung</li></ul>",
+      "created": "2026-09-27T06:17:33",
+      "file": "selbstversorgung-leicht-gemacht-der-ultimative-ratgeber-fuer-gaertner-und-selbstversorger-9c6181764834fda5.pdf",
+      "size": 2158,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/cNi4gA07LalB82q9IM2kw0c",
+      "payment_link_id": "plink_1UKBVUJ5iOXkWb9Vcsq3RIXC"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Video Performance Tracker & Optimierungstool für Creator",
+      "slug": "youtube-video-performance-tracker-optimization-tool",
+      "price_eur": 9,
+      "target": "Content Creator und YouTube",
+      "reason": "Der YouTube-Markt wächst stetig und Creator benötigen einfache Tools, um ihre Performance zu verfolgen und zu optimieren. Viele nutzen aktuell nur die YouTube-Auswertungen oder teure Drittanbieter. Dieses Excel-Tool bietet eine erschwingliche, maßgeschneiderte Lösung speziell für deutsche Creator.",
+      "language": "de",
+      "pitch": "Analysiere deine YouTube-Videoperformance und optimiere deine Strategie mit datenbasierten Entscheidungen. Behalte alle KPIs im Blick und steigere deine Reichweite systematisch.",
+      "content_html": "<h2>Inhalt</h2><p>1 Hauptarbeitsblatt mit allen KPIs + 1 Dashboard zur Visualisierung</p><p>Automatische Berechnungen: CTR%, Engagement Rate, Watch Time, monetäre Performance</p><p>Optimierungsempfehlungen basierend auf deinen Daten</p>",
+      "created": "2026-09-27T06:17:33",
+      "file": "youtube-video-performance-tracker-optimization-tool-645dc7b3818489a3.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/fZu5kEbQtctJbeC6wA2kw0d",
+      "payment_link_id": "plink_1UKBVVJ5iOXkWb9VHCmkerLN"
+    },
+    {
+      "type": "ebook",
+      "title": "The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tutors",
+      "slug": "digital-classroom-masterclass-teachers-tutors",
+      "price_eur": 7,
+      "target": "Teachers, private tutors, and online educators looking to streamline their workflow and enhance digital teaching methods",
+      "reason": "Teachers increasingly need practical, vetted digital tools but struggle with information overload. This provides carefully curated, classroom-tested recommendations with real implementation data, saving educators dozens of research hours. The tool comparison matrix alone justifies the price for time-strapped professionals.",
+      "language": "en",
+      "pitch": "Discover 35+ carefully curated digital tools to transform your teaching practice. Includes comparison tables, setup checklists, and real classroom integration examples.",
+      "content_html": "<h2>Content</h2><ul><li>Chapter 1: Revolutionizing Lesson Planning (350+ words)</li><li>Chapter 2: The Ultimate Digital Assessment Toolkit (380+ words)</li><li>Chapter 3: Collaboration Tools That Actually Work (400+ words)</li><li>Chapter 4: Time-Saving Automation for Educators (370+ words)</li><li>Chapter 5: Engaging Digital Presentation Formulas (360+ words)</li><li>Chapter 6: Building Your Personal Teaching Tech Stack (420+ words)</li></ul>Plus: Exclusive tool comparison matrix and implementation checklist",
+      "created": "2026-09-27T06:17:33",
+      "file": "digital-classroom-masterclass-teachers-tutors-42c4b50c24ba8756.pdf",
+      "size": 2497,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/9B614oaMp0L16YmaMQ2kw0e",
+      "payment_link_id": "plink_1UKBVVJ5iOXkWb9Vvj02gQPS"
     }
   ],
   "log": [
@@ -379,6 +455,66 @@
       "t": "2026-09-27T05:21:57",
       "eur": -0.0036311999999999994,
       "why": "KI-Pruefung: The Freelancer's Guide to Stress-Free Productivity"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": -0.0020783999999999998,
+      "why": "KI-Denken: Umzugsbudget- und Zeitplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": -0.0018383999999999998,
+      "why": "KI-Denken: Umzugsbudget- und Zeitplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Umzugsbudget- und Zeitplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": -0.0095844,
+      "why": "KI-Denken: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstversorger"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": -0.004485599999999999,
+      "why": "KI-Pruefung: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstversorger"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": -0.0020604,
+      "why": "KI-Denken: YouTube Video Performance Tracker & Optimierungstool für Creator"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": -0.0010332,
+      "why": "KI-Pruefung: YouTube Video Performance Tracker & Optimierungstool für Creator"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": -0.007783199999999999,
+      "why": "KI-Denken: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tutors"
+    },
+    {
+      "t": "2026-09-27T06:17:33",
+      "eur": -0.0030923999999999995,
+      "why": "KI-Pruefung: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tutors"
     }
   ],
   "alive": true,
