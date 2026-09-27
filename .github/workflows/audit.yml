@@ -1,6 +1,5 @@
-name: automaton
+name: audit
 on:
-  schedule: [{cron: "15 */2 * * *"}]
   workflow_dispatch:
 concurrency: {group: automaton, cancel-in-progress: false}
 permissions: {issues: write, contents: write, pages: write, id-token: write}
@@ -12,7 +11,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -q openpyxl reportlab pillow edge-tts pypdf && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg >/dev/null
-      - run: python automaton/core.py
+      - run: python automaton/audit.py
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           STRIPE_SECRET_KEY: ${{ secrets.STRIPE_SECRET_KEY }}

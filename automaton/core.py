@@ -416,6 +416,10 @@ def main():
             product, cost = think(s); book(s, -cost, f"KI-Denken: {product['title']}"); act(s, product); made += 1
         except Exception as e:
             s["log"].append({"t": now, "eur": 0, "why": f"Fehler (Versuch {attempt+1}): {str(e)[:300]}"})
+    try:
+        import audit; c, r = audit.run(s, limit=CFG.get("audit_per_run", 8))
+        if c: s["log"].append({"t": now, "eur": 0, "why": f"Audit: {c} geprueft, {r} entfernt"})
+    except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Audit-Fehler: {str(e)[:200]}"})
     try: retire_old(s)
     except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Retire-Fehler: {e}"})
     for p in [x for x in s["products"] if not x.get("retired")]:
