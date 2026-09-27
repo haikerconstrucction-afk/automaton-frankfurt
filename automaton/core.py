@@ -62,11 +62,11 @@ Aktuelles Jahr: 2026."""
 
 TYPES = {
  "excel": """eine Excel-Vorlage (Tracker/Planer/Rechner) mit ECHTEN Formeln. JSON:
-{"type":"excel","title":"...","slug":"kebab-case","price_eur":7,"target":"...","language":"de|en","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2>...",
+{"type":"excel","title":"...","slug":"kebab-case","price_eur":7,"target":"...","language":"de|en|es|fr|zh","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2>...",
 "guide":["Schritt 1",...],"sheets":[{"name":"max 30 Zeichen","columns":["..."],"rows":[["Wert","=B2*C2",...]],"blank_rows":30,"total_row":["Summe","","=SUM(C2:C40)"]}],"reason":"..."}
 Formeln als Strings mit '=' (englische Funktionsnamen, Komma als Trenner). Mind. 5 Beispielzeilen mit Datum 2026, blank_rows fuer Nutzer.""",
  "ebook": """ein kurzes E-Book (Ratgeber mit konkreten Schritten ODER eine Sammlung origineller Kurzgeschichten, z.B. Gute-Nacht-Geschichten fuer Kinder). JSON:
-{"type":"ebook","title":"...","slug":"kebab-case","price_eur":5,"target":"...","language":"de|en","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2> Inhaltsverzeichnis + Leseprobe",
+{"type":"ebook","title":"...","slug":"kebab-case","price_eur":5,"target":"...","language":"de|en|es|fr|zh","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2> Inhaltsverzeichnis + Leseprobe",
 "chapters":[{"heading":"...","text":"mind. 350 Woerter, Absaetze mit \\n\\n getrennt"}],"reason":"..."}
 Mindestens 6 Kapitel. Sehr leicht verstaendlich, kurze Saetze, praktische Beispiele.""",
 }
@@ -79,7 +79,9 @@ def think(s):
     niche = niches[len(s["products"]) % len(niches)]
     auds = CFG.get("audiences", ["alle"])
     aud = auds[(len(s["products"]) // 2) % len(auds)]
-    market = "Deutschland (Deutsch)" if (len(s["products"]) // 2) % 2 == 0 else "weltweit (Englisch)"
+    markets = CFG.get("markets", [["Deutschland", "de"], ["weltweit", "en"]])
+    mname, mlang = markets[(len(s["products"]) // 2) % len(markets)]
+    market = f"{mname} (Sprache: {mlang} - ALLE Texte, Titel und Tabelleninhalte in dieser Sprache, language-Feld = '{mlang}')"
     prompt = f"""Du bist ein autonomer Unternehmer-Agent und ueberlebst nur, wenn Menschen deine Produkte kaufen.
 Kontostand {s['balance_eur']:.2f} EUR, Umsatz {s['revenue_eur']:.2f} EUR. Phase: {phase['goal']}
 Bestehende Produkte (nicht wiederholen): {[p['title'] for p in s['products']]}
@@ -168,9 +170,15 @@ def build_pdf(p, path):
     import tempfile
     GREEN = colors.HexColor("#0F5C4A"); INK = colors.HexColor("#16181D"); SOFT = colors.HexColor("#E8F1EC")
     st = getSampleStyleSheet()
-    H1 = ParagraphStyle("h1", parent=st["Title"], fontName="Helvetica-Bold", fontSize=17 if len(p["title"]) > 60 else 21, leading=21 if len(p["title"]) > 60 else 26, textColor=INK, alignment=0)
-    H2 = ParagraphStyle("h2", parent=st["Heading2"], fontName="Helvetica-Bold", fontSize=15, leading=19, textColor=GREEN, spaceAfter=6)
-    BODY = ParagraphStyle("b", parent=st["BodyText"], fontName="Helvetica", fontSize=10.5, leading=15.5, textColor=INK, spaceAfter=6)
+    zh = p.get("language") == "zh"
+    if zh:
+        from reportlab.pdfbase import pdfmetrics
+        from reportlab.pdfbase.cidfonts import UnicodeCIDFont
+        pdfmetrics.registerFont(UnicodeCIDFont("STSong-Light"))
+    FB = "STSong-Light" if zh else "Helvetica-Bold"; FR = "STSong-Light" if zh else "Helvetica"
+    H1 = ParagraphStyle("h1", parent=st["Title"], fontName=FB, fontSize=17 if len(p["title"]) > 60 else 21, leading=21 if len(p["title"]) > 60 else 26, textColor=INK, alignment=0)
+    H2 = ParagraphStyle("h2", parent=st["Heading2"], fontName=FB, fontSize=15, leading=19, textColor=GREEN, spaceAfter=6)
+    BODY = ParagraphStyle("b", parent=st["BodyText"], fontName=FR, wordWrap="CJK" if zh else None, fontSize=10.5, leading=15.5, textColor=INK, spaceAfter=6)
     TIP = ParagraphStyle("t", parent=BODY, fontSize=10, leading=14)
     SUB = ParagraphStyle("s", parent=BODY, textColor=colors.HexColor("#5F6470"))
     tmp = pathlib.Path(tempfile.mkdtemp()); W = A5[0] - 30*mm
@@ -189,7 +197,7 @@ def build_pdf(p, path):
     if logo.exists(): story.append(RLImage(str(logo), width=18*mm, height=18*mm, hAlign="LEFT"))
     story += [Spacer(1, 4*mm)] + ([cov, Spacer(1, 5*mm)] if cov else [Spacer(1, 40*mm)])
     story += [Paragraph(escape(p["title"]), H1), Spacer(1, 3*mm), Paragraph(escape(p.get("pitch", "")), SUB), PageBreak()]
-    story += [Paragraph("Inhalt" if p.get("language") != "en" else "Contents", H2)]
+    story += [Paragraph({"de": "Inhalt", "zh": "目录", "es": "Contenido", "fr": "Sommaire"}.get(p.get("language"), "Contents"), H2)]
     for i, ch in enumerate(p.get("chapters", []), 1): story.append(Paragraph(f"{i}. {escape(ch['heading'])}", BODY))
     story.append(PageBreak())
     words = 0
@@ -198,10 +206,10 @@ def build_pdf(p, path):
         im = pic(ch.get("image_prompt"), f"c{i}", W*0.55) if i <= 3 else None
         if im: story += [im, Spacer(1, 4*mm)]
         for para in str(ch["text"]).split("\n\n"):
-            words += len(para.split()); story.append(Paragraph(escape(para), BODY))
+            words += (len(para) // 2 if zh else len(para.split())); story.append(Paragraph(escape(para), BODY))
         if ch.get("tips"):
-            lab = "Das Wichtigste" if p.get("language") != "en" else "Key takeaways"
-            rows = [[Paragraph(f"<b>{lab}</b>", TIP)]] + [[Paragraph("✓ " + escape(t), TIP)] for t in ch["tips"][:4]]
+            lab = {"de": "Das Wichtigste", "zh": "要点", "es": "Lo más importante", "fr": "L'essentiel"}.get(p.get("language"), "Key takeaways")
+            rows = [[Paragraph(f"<b>{lab}</b>", TIP)]] + [[Paragraph(("• " if zh else "✓ ") + escape(t), TIP)] for t in ch["tips"][:4]]
             t = Table(rows, colWidths=[W]); t.setStyle(TableStyle([("BACKGROUND", (0, 0), (-1, -1), SOFT),
                 ("LEFTPADDING", (0, 0), (-1, -1), 8), ("RIGHTPADDING", (0, 0), (-1, -1), 8), ("TOPPADDING", (0, 0), (-1, -1), 4),
                 ("BOTTOMPADDING", (0, 0), (-1, -1), 4), ("LINEBEFORE", (0, 0), (0, -1), 3, GREEN)]))

@@ -42,7 +42,15 @@
     "Content Creator und YouTube",
     "Lehrer und Nachhilfe",
     "Senioren und Pflegeorganisation fuer Angehoerige",
-    "Selbststaendige und Freelancer"
+    "Selbststaendige und Freelancer",
+    "Reisefuehrer Deutschland fuer internationale Gaeste: Schwarzwald",
+    "Reisefuehrer Deutschland: Saarland und Mosel",
+    "Reisefuehrer Deutschland: NRW (Koeln, Duesseldorf, Ruhrgebiet)",
+    "Reisefuehrer Deutschland: Bayern und Alpen",
+    "Reisefuehrer Deutschland: Ostsee und Nordsee",
+    "Reisefuehrer Deutschland: Rhein, Frankfurt und Heidelberg",
+    "Reisefuehrer Deutschland: Berlin und Potsdam",
+    "Reisefuehrer Deutschland: Sachsen und Dresden"
   ],
   "images_per_ebook": 4,
   "eur_per_image": 0.04,
@@ -54,5 +62,31 @@
     "divers / nicht-binaer",
     "alle Geschlechter",
     "Familien"
+  ],
+  "markets": [
+    [
+      "Deutschland",
+      "de"
+    ],
+    [
+      "weltweit",
+      "en"
+    ],
+    [
+      "Spanien und Lateinamerika",
+      "es"
+    ],
+    [
+      "China, Taiwan, Singapur",
+      "zh"
+    ],
+    [
+      "Frankreich, Belgien, Kanada",
+      "fr"
+    ],
+    [
+      "weltweit",
+      "en"
+    ]
   ]
 }

@@ -48,7 +48,7 @@ class Etsy:
         d.rounded_rectangle((120, 120, 1880, 1480), 40, fill=(250, 249, 246))
         d.text((200, 200), ("E-BOOK · PDF" if ebook else "EXCEL-VORLAGE") if p.get("language") != "en" else ("E-BOOK · PDF" if ebook else "EXCEL TEMPLATE"), font=small, fill=(15, 92, 74))
         y = 340
-        for line in textwrap.wrap(p["title"], 26)[:6]: d.text((200, y), line, font=big, fill=(22, 24, 29)); y += 140
+        for line in (textwrap.wrap(p["title"], 26) if p.get("language") != "zh" else [p["title"][i:i+12] for i in range(0, len(p["title"]), 12)])[:6]: d.text((200, y), line, font=big, fill=(22, 24, 29)); y += 140
         d.text((200, 1340), "Haiktec · Sofort-Download" if p.get("language") != "en" else "Haiktec · Instant download", font=small, fill=(95, 100, 112))
         path = ROOT/"site/dl"/f"cover-{p['slug']}.jpg"; img.save(path, quality=90); return path
     def publish(self, p):
@@ -62,7 +62,10 @@ class Etsy:
             "type": "download", "is_supply": "false", "tags": ",".join(tags)}, form=True)
         lid = lst["listing_id"]
         self.upload(f"{base}/{lid}/images", "image", self.cover(p))
-        self.upload(f"{base}/{lid}/files", "file", ROOT/"site/dl"/p["file"], {"name": p["file"]})
+        import shutil, tempfile, re as _re
+        src = ROOT/"site/dl"/p["file"]; short = _re.sub(r"[^A-Za-z0-9_.-]", "-", p["slug"])[:55] + src.suffix
+        tmpf = pathlib.Path(tempfile.mkdtemp())/short; shutil.copy(src, tmpf)
+        self.upload(f"{base}/{lid}/files", "file", tmpf, {"name": short})
         http("PATCH", f"{base}/{lid}", self.h(), {"state": "active"}, form=True)
         return f"https://www.etsy.com/listing/{lid}"
 
