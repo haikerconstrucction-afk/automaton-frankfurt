@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.6079,
-  "spent_eur": 0.0621,
+  "balance_eur": 504.5973,
+  "spent_eur": 0.0727,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -193,6 +193,25 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/14AaEYg6J1P50zY5sw2kw09",
       "payment_link_id": "plink_1UK4XgJ5iOXkWb9VWJNhNIMs"
+    },
+    {
+      "type": "ebook",
+      "title": "The Freelancer's Guide to Stress-Free Productivity",
+      "slug": "freelancer-guide-stress-free-productivity",
+      "price_eur": 5,
+      "target": "Freelancers and small business owners who want to work less while earning more by eliminating productivity killers and systemic inefficiencies",
+      "reason": "Addresses a critical but underserved need - systemic productivity improvements specifically designed for solo entrepreneurs and small teams. Unlike generic time management books, this provides field-tested solutions for freelancers' unique challenges, making it worth the price through immediate actionable insights.",
+      "language": "en",
+      "pitch": "Discover the 6 hidden productivity drains that keep you working overtime and how to eliminate them permanently. Includes field-tested workflow optimizations specifically for solo entrepreneurs.",
+      "content_html": "<h2>Contents</h2><ul><li>1. The Invisible Time Thieves Every Freelancer Faces</li><li>2. Your Brain's Secret Productivity Modes</li><li>3. The Client Communication Black Holes</li><li>4. Automating Without Overcomplicating</li><li>5. Energy Management Over Time Management</li><li>6. Building Systems That Don't Break Under Pressure</li></ul>",
+      "created": "2026-09-27T05:21:57",
+      "file": "freelancer-guide-stress-free-productivity-55ad880e69ec90f8.pdf",
+      "size": 1988,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/7sYdRa9IlctJ6Ym3ko2kw0a",
+      "payment_link_id": "plink_1UKAYgJ5iOXkWb9VayCqaFN7"
     }
   ],
   "log": [
@@ -350,6 +369,16 @@
       "t": "2026-09-26T22:57:46",
       "eur": -0.001,
       "why": "KI-Pruefung: Freelancer-Invoice-Tracker für internationale Aufträge"
+    },
+    {
+      "t": "2026-09-27T05:21:57",
+      "eur": -0.006993599999999999,
+      "why": "KI-Denken: The Freelancer's Guide to Stress-Free Productivity"
+    },
+    {
+      "t": "2026-09-27T05:21:57",
+      "eur": -0.0036311999999999994,
+      "why": "KI-Pruefung: The Freelancer's Guide to Stress-Free Productivity"
     }
   ],
   "alive": true,
