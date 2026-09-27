@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /dl/
 Disallow: /status.html
-Sitemap: https://haikerconstrucction-afk.github.io/automaton-frankfurt/sitemap.xml
+Sitemap: https://haiktec.tech/sitemap.xml

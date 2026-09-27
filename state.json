@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.5643,
-  "spent_eur": 0.1057,
+  "balance_eur": 504.531,
+  "spent_eur": 0.139,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -78,7 +78,8 @@
       "score": 8,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/00w3cw9Il65lgyWdZ22kw03",
-      "payment_link_id": "plink_1UJxgSJ5iOXkWb9V0xlIEdfD"
+      "payment_link_id": "plink_1UJxgSJ5iOXkWb9V0xlIEdfD",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "ebook",
@@ -97,7 +98,8 @@
       "score": 7,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/5kQ00kaMp9hxgyW8EI2kw04",
-      "payment_link_id": "plink_1UJxgTJ5iOXkWb9VrP4BSpVp"
+      "payment_link_id": "plink_1UJxgTJ5iOXkWb9VrP4BSpVp",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "excel",
@@ -116,7 +118,8 @@
       "score": 8,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/28E14ocUxctJ82qf362kw05",
-      "payment_link_id": "plink_1UJxgUJ5iOXkWb9VqlMBU1Kt"
+      "payment_link_id": "plink_1UJxgUJ5iOXkWb9VqlMBU1Kt",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "ebook",
@@ -135,7 +138,8 @@
       "score": 8,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/28E3cw2fTalBbeC8EI2kw06",
-      "payment_link_id": "plink_1UJxpMJ5iOXkWb9VWNvmC3ke"
+      "payment_link_id": "plink_1UJxpMJ5iOXkWb9VWNvmC3ke",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "excel",
@@ -154,7 +158,8 @@
       "score": 8,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/aFacN63jXfFV0zY4os2kw07",
-      "payment_link_id": "plink_1UK08zJ5iOXkWb9VVdRvIdgJ"
+      "payment_link_id": "plink_1UK08zJ5iOXkWb9VVdRvIdgJ",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "ebook",
@@ -173,7 +178,8 @@
       "score": 8,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/4gM14ocUxdxNeqO1cg2kw08",
-      "payment_link_id": "plink_1UK21VJ5iOXkWb9VWcdj9UfN"
+      "payment_link_id": "plink_1UK21VJ5iOXkWb9VWcdj9UfN",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "excel",
@@ -192,7 +198,8 @@
       "score": 8,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/14AaEYg6J1P50zY5sw2kw09",
-      "payment_link_id": "plink_1UK4XgJ5iOXkWb9VWJNhNIMs"
+      "payment_link_id": "plink_1UK4XgJ5iOXkWb9VWJNhNIMs",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "ebook",
@@ -211,7 +218,8 @@
       "score": 8,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/7sYdRa9IlctJ6Ym3ko2kw0a",
-      "payment_link_id": "plink_1UKAYgJ5iOXkWb9VayCqaFN7"
+      "payment_link_id": "plink_1UKAYgJ5iOXkWb9VayCqaFN7",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "excel",
@@ -230,7 +238,8 @@
       "score": 8,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/5kQ14oaMp1P5aay6wA2kw0b",
-      "payment_link_id": "plink_1UKBVTJ5iOXkWb9VEdg23NLB"
+      "payment_link_id": "plink_1UKBVTJ5iOXkWb9VEdg23NLB",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "ebook",
@@ -249,7 +258,8 @@
       "score": 7,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/cNi4gA07LalB82q9IM2kw0c",
-      "payment_link_id": "plink_1UKBVUJ5iOXkWb9Vcsq3RIXC"
+      "payment_link_id": "plink_1UKBVUJ5iOXkWb9Vcsq3RIXC",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "excel",
@@ -268,7 +278,8 @@
       "score": 7,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/fZu5kEbQtctJbeC6wA2kw0d",
-      "payment_link_id": "plink_1UKBVVJ5iOXkWb9VHCmkerLN"
+      "payment_link_id": "plink_1UKBVVJ5iOXkWb9VHCmkerLN",
+      "site": "https://haiktec.tech"
     },
     {
       "type": "ebook",
@@ -287,7 +298,88 @@
       "score": 8,
       "quality": 2,
       "pay_url": "https://buy.stripe.com/9B614oaMp0L16YmaMQ2kw0e",
-      "payment_link_id": "plink_1UKBVVJ5iOXkWb9Vvj02gQPS"
+      "payment_link_id": "plink_1UKBVVJ5iOXkWb9Vvj02gQPS",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Pflegezeit- und Kostenplaner für pflegende Angehörige",
+      "slug": "pflegezeit-und-kostenplaner-fuer-pflegende-angehoerige",
+      "price_eur": 7,
+      "target": "Senioren und pflegende Angehörige in Deutschland",
+      "reason": "Pflegende Angehörige stehen oft vor organisatorischen Herausforderungen. Diese Vorlage bietet eine strukturierte Lösung für Zeiteinteilung, Kostentransparenz und bessere Planung der Pflege.",
+      "language": "de",
+      "pitch": "Planen Sie Pflegezeiten und -kosten mit klarem Überblick. Sparen Sie Zeit und organisieren Sie die Betreuung effizient.",
+      "content_html": "<h2>Inhalt</h2><p>Excel-Vorlage zur Planung von Pflegezeiten, Berechnung der Kosten und Übersicht über anfallende Aufgaben für pflegende Angehörige.</p>",
+      "created": "2026-09-27T06:52:24",
+      "file": "pflegezeit-und-kostenplaner-fuer-pflegende-angehoerige-19fe6375692e1748.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/bJedRa1bP0L196u5sw2kw0f",
+      "payment_link_id": "plink_1UKC3TJ5iOXkWb9V091VHYab",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbstständige",
+      "slug": "die-kunst-der-selbstmotivation-fuer-freelancer",
+      "price_eur": 5,
+      "target": "Selbstständige und Freelancer, die ihre Motivation und Produktivität steigern möchten",
+      "reason": "Motivation und Produktivität sind zentrale Herausforderungen für Selbstständige und Freelancer. Dieses E-Book bietet konkrete Strategien, die ihnen helfen, diese Herausforderungen zu meistern und langfristig erfolgreich zu sein.",
+      "language": "de",
+      "pitch": "Lerne, wie du dich selbst motivierst und langfristig produktiv bleibst. Dieses E-Book bietet praxisnahe Strategien für den Alltag als Selbstständiger.",
+      "content_html": "<h2>Inhalt</h2><p>Einleitung</p><p>Kapitel 1: Die Macht der Tagesziele</p><p>Kapitel 2: Routinen als Erfolgsgeheimnis</p><p>Kapitel 3: Belohnungssysteme für Motivation</p><p>Kapitel 4: Umgang mit Prokrastination</p><p>Kapitel 5: Visualisierung von Erfolg</p><p>Kapitel 6: Soziale Unterstützung nutzen</p><p>Kapitel 7: Selbstreflexion und Anpassungen</p><p>Leseprobe</p>",
+      "created": "2026-09-27T06:52:24",
+      "file": "die-kunst-der-selbstmotivation-fuer-freelancer-d01bb7611f006bca.pdf",
+      "size": 2602,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/9B6dRa3jX51hfuS4os2kw0g",
+      "payment_link_id": "plink_1UKC3TJ5iOXkWb9VqbgM3qP3",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Baustellen-Kalkulation & Angebots-Tool für Handwerker",
+      "slug": "baustellen-kalkulation-angebots-tool-fuer-handwerker",
+      "price_eur": 7,
+      "target": "deutsche Handwerksbetriebe (Maler, Elektriker, Zimmerer etc.) die präzise Angebote erstellen und Baustellenkosten kalkulieren möchten",
+      "reason": "Handwerker verbringen oft zu viel Zeit mit manuellen Kalkulationen und Angeboten. Dieses Tool standardisiert den Prozess, minimiert Rechenfehler und spart mindestens 1-2 Stunden pro Angebot - was den Kaufpreis beim ersten Einsatz mehrfach rechtfertigt.",
+      "language": "de",
+      "pitch": "Professionelle Kalkulationen in Minuten - Erstellen Sie wasserdichte Angebote mit automatischer Material-, Arbeitszeit- und Gesamtkostenberechnung. Spart Zeit und minimiert Fehler.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Automatische Angebots- & Kostenkalkulation</li><li>Materialkostenrechner mit Rabattberechnung</li><li>Arbeitszeitplaner mit Stundensatz-Anpassung</li><li>Mehrwertsteuer- & Gesamtsummenberechnung</li><li>Professionelle Angebotsvorlage zum Ausdrucken</li></ul>",
+      "created": "2026-09-27T06:52:24",
+      "file": "baustellen-kalkulation-angebots-tool-fuer-handwerker-1033a1dd1ffccbe1.xlsx",
+      "size": 14,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/3cI5kEf2F8dt3Ma6wA2kw0h",
+      "payment_link_id": "plink_1UKC3UJ5iOXkWb9VVveYdwgR",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Magical Bedtime Tales: Enchanting Stories for Children aged 3-8",
+      "slug": "magical-bedtime-tales",
+      "price_eur": 5,
+      "target": "parents of children aged 3-8",
+      "reason": "Parents are always seeking ways to create a memorable bedtime routine for their children. This ebook provides a collection of enchanting stories that will captivate their imagination and help them drift off to sleep peacefully. The stories are crafted to be engaging, soothing, and filled with valuable life lessons.",
+      "language": "en",
+      "pitch": "A collection of 10 enchanting bedtime stories to spark imagination and soothe your child to sleep. Perfect for parents looking to create a magical bedtime routine.",
+      "content_html": "<h2>Inhalt</h2><ul><li>The Little Star Who Wished to Shine Brighter</li><li>Adventures of Benny the Brave Bunny</li><li>The Magical Garden of Whispers</li><li>Luna and the Lost Unicorn</li><li>Timmy the Turtle's Nighttime Journey</li><li>The Dreamland Express</li><li>Sophie and the Mystical Fireflies</li><li>Oliver's Quest for the Golden Feather</li><li>Emma and the Talking Moon</li><li>The Raindrop That Wanted to Dance</li></ul><h3>Leseprobe</h3><p>Once upon a time, in a land far, far away, there was a little star named Stella who dreamed of shining brighter than all the other stars in the sky...</p>",
+      "created": "2026-09-27T06:52:24",
+      "file": "magical-bedtime-tales-15e15929db85892c.pdf",
+      "size": 2150,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/28EdRa07L1P5dmK9IM2kw0i",
+      "payment_link_id": "plink_1UKC3VJ5iOXkWb9V8fkkYQMR",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
@@ -515,6 +607,46 @@
       "t": "2026-09-27T06:17:33",
       "eur": -0.0030923999999999995,
       "why": "KI-Pruefung: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tutors"
+    },
+    {
+      "t": "2026-09-27T06:52:24",
+      "eur": -0.0019871999999999997,
+      "why": "KI-Denken: Pflegezeit- und Kostenplaner für pflegende Angehörige"
+    },
+    {
+      "t": "2026-09-27T06:52:24",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Pflegezeit- und Kostenplaner für pflegende Angehörige"
+    },
+    {
+      "t": "2026-09-27T06:52:24",
+      "eur": -0.010548,
+      "why": "KI-Denken: Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbstständige"
+    },
+    {
+      "t": "2026-09-27T06:52:24",
+      "eur": -0.004213199999999999,
+      "why": "KI-Pruefung: Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbstständige"
+    },
+    {
+      "t": "2026-09-27T06:52:24",
+      "eur": -0.0026099999999999995,
+      "why": "KI-Denken: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
+    },
+    {
+      "t": "2026-09-27T06:52:24",
+      "eur": -0.0013416,
+      "why": "KI-Pruefung: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
+    },
+    {
+      "t": "2026-09-27T06:52:24",
+      "eur": -0.0079584,
+      "why": "KI-Denken: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-09-27T06:52:24",
+      "eur": -0.0036996,
+      "why": "KI-Pruefung: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
     }
   ],
   "alive": true,
