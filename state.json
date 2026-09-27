@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.49,
-  "spent_eur": 0.18,
+  "balance_eur": 504.4567,
+  "spent_eur": 0.2133,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -460,6 +460,86 @@
       "pay_url": "https://buy.stripe.com/fZu4gAdYBalBeqO9IM2kw0m",
       "payment_link_id": "plink_1UKCFdJ5iOXkWb9VMmN3TSbn",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Prüfungsvorbereitungs-Tracker für Studierende",
+      "slug": "pruefungsvorbereitungs-tracker-fuer-studierende",
+      "price_eur": 7,
+      "target": "Studierende in Deutschland, die sich auf Prüfungen vorbereiten",
+      "reason": "Studierende benötigen eine klare Struktur für ihre Prüfungsvorbereitung. Diese Vorlage bietet genau das - mit automatischen Berechnungen für Zeitmanagement und Fortschrittskontrolle. Sie erspart Stunden manueller Planung und hilft, den Überblick zu behalten. Der moderate Preis ist gerechtfertigt durch den praktischen Nutzen und die Arbeitsersparnis - besonders wertvoll in der stressigen Prüfungsphase 2026.",
+      "language": "de",
+      "pitch": "Organisiere deine Lernzeit effizient und behalte den Überblick über alle Prüfungstermine und -inhalte. Optimierte Vorlage speziell für den Studienalltag in Deutschland 2026.",
+      "content_html": "<h2>Inhalt</h2><p>Professionelle Excel-Vorlage mit automatischen Berechnungen für Lernfortschritt, Prüfungstermine und wichtige Meilensteine. Inkludiert praktische Funktionen zur Priorisierung und Zeitplanung.</p>",
+      "created": "2026-09-27T07:56:32",
+      "file": "pruefungsvorbereitungs-tracker-fuer-studierende-8ee2ca00b0da1970.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/fZu6oI3jXeBRgyW6wA2kw0r",
+      "payment_link_id": "plink_1UKD3sJ5iOXkWb9VcxJOiJZK",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr Umsatz und Kundenzufriedenheit",
+      "slug": "der-erfolgsguide-fuer-kleine-restaurants-und-cafes",
+      "price_eur": 5,
+      "target": "kleine Restaurants und Cafés in Deutschland",
+      "reason": "Kleine Restaurants und Cafés stehen oft vor einzigartigen Herausforderungen in der Betriebsführung und Kundenbindung. Dieses eBook bietet praktische Lösungen, die spezifisch auf diese Bedürfnisse zugeschnitten sind, und bietet einen klaren Mehrwert für die Zielgruppe.",
+      "language": "de",
+      "pitch": "Praktische Tipps und Strategien, um Ihr kleines Restaurant oder Café erfolgreicher zu machen. Von der Kundenbindung zur effizienten Betriebsführung.",
+      "content_html": "<h2>Inhalt</h2>Inhaltsverzeichnis + Leseprobe",
+      "created": "2026-09-27T07:56:32",
+      "file": "der-erfolgsguide-fuer-kleine-restaurants-und-cafes-f2262e96f99f16d3.pdf",
+      "size": 2261,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/eVq9AU9Il65lciG6wA2kw0s",
+      "payment_link_id": "plink_1UKD3tJ5iOXkWb9VMBeupOae",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Business Trip Planner & Expense Tracker for Freelancers",
+      "slug": "business-trip-planner-expense-tracker",
+      "price_eur": 7,
+      "target": "German freelancers and small business owners who travel for work",
+      "reason": "Reisekosten sind für Selbständige ein häufiger Abrechnungsposten, aber viele tracken sie ungenau. Diese Vorlage schafft Systematik, spart Zeit bei der Steuererklärung und hilft bei der Reiseplanung.",
+      "language": "de",
+      "pitch": "Plan your business trips efficiently and track all expenses automatically. Perfect for tax deductions and client billing.",
+      "content_html": "<h2>Inhalt</h2><p>Reisekalender, Transportkosten-Tracker, Unterkunftsübersicht, tägliche Ausgaben, Mahlzeiten-Erstattung, Kilometerpauschale, automatische Summen</p>",
+      "created": "2026-09-27T07:56:32",
+      "file": "business-trip-planner-expense-tracker-1379871f7ff8f07a.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/eVq00kdYBdxN96u4os2kw0t",
+      "payment_link_id": "plink_1UKD3uJ5iOXkWb9V33vcrqZm",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Etsy Seller's Growth Playbook: Proven Strategies to Increase Traffic & Sales in 2026",
+      "slug": "etsy-seller-growth-playbook-2026",
+      "price_eur": 7,
+      "target": "Etsy sellers and small online shop owners looking to boost visibility and revenue",
+      "reason": "E-commerce sellers are hungry for updated 2026 strategies as platforms change. This fills the gap while avoiding oversaturated topics like 'starting an Etsy shop'. The price reflects specialized, immediately applicable knowledge rather than generic advice.",
+      "language": "en",
+      "pitch": "Actionable 2026 strategies to outsmart Etsy's algorithm and convert browsers into buyers. Perfect for handmade, digital and vintage sellers.",
+      "content_html": "<h2>Contents</h2><ul><li>1. Mastering Etsy SEO in 2026 (with current ranking factors)</li><li>2. Listing Optimization: Beyond Basic Keywords</li><li>3. Converting Browsers: Psychology-Based Product Descriptions</li><li>4. Social Media Shortcuts That Actually Drive Traffic</li><li>5. Analytics Hacks: What to Track (and Ignore) in 2026</li><li>6. Customer Retention Strategies for Repeat Sales</li></ul><h2>Free Chapter Preview</h2><p>Learn why '2026 trend colors' triggers more clicks than 'popular colors' in listings...</p>",
+      "created": "2026-09-27T07:56:32",
+      "file": "etsy-seller-growth-playbook-2026-98b42670abdf48b5.pdf",
+      "size": 2693,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/4gMaEY1bP8dt82qf362kw0u",
+      "payment_link_id": "plink_1UKD3vJ5iOXkWb9VldJG2R0O",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
@@ -782,6 +862,46 @@
       "t": "2026-09-27T07:04:08",
       "eur": -0.0044063999999999996,
       "why": "KI-Pruefung: Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-09-27T07:56:32",
+      "eur": -0.0026195999999999997,
+      "why": "KI-Denken: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-09-27T07:56:32",
+      "eur": -0.0010643999999999999,
+      "why": "KI-Pruefung: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-09-27T07:56:32",
+      "eur": -0.009373199999999998,
+      "why": "KI-Denken: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr Umsatz und Kundenzufriedenheit"
+    },
+    {
+      "t": "2026-09-27T07:56:32",
+      "eur": -0.004212,
+      "why": "KI-Pruefung: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr Umsatz und Kundenzufriedenheit"
+    },
+    {
+      "t": "2026-09-27T07:56:32",
+      "eur": -0.0026256,
+      "why": "KI-Denken: Smart Business Trip Planner & Expense Tracker for Freelancers"
+    },
+    {
+      "t": "2026-09-27T07:56:32",
+      "eur": -0.0010727999999999998,
+      "why": "KI-Pruefung: Smart Business Trip Planner & Expense Tracker for Freelancers"
+    },
+    {
+      "t": "2026-09-27T07:56:32",
+      "eur": -0.0089004,
+      "why": "KI-Denken: The Etsy Seller's Growth Playbook: Proven Strategies to Increase Traffic & Sales in 2026"
+    },
+    {
+      "t": "2026-09-27T07:56:32",
+      "eur": -0.0034044,
+      "why": "KI-Pruefung: The Etsy Seller's Growth Playbook: Proven Strategies to Increase Traffic & Sales in 2026"
     }
   ],
   "alive": true,
