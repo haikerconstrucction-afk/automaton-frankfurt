@@ -1,0 +1,25 @@
+name: etsy-test
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          python3 - <<'PY'
+          import os,json,urllib.request,urllib.parse
+          k=os.environ["K"]; print("Format ok:", ":" in k, "Keystring-Laenge:", len(k.split(":")[0]))
+          def call(req):
+              try: r=urllib.request.urlopen(req,timeout=30); return r.status, r.read()[:300]
+              except urllib.error.HTTPError as e: return e.code, e.read()[:300]
+          print("PING", call(urllib.request.Request("https://api.etsy.com/v3/application/openapi-ping",headers={"x-api-key":k})))
+          d=urllib.parse.urlencode({"grant_type":"refresh_token","client_id":k.split(":")[0],"refresh_token":os.environ["R"]}).encode()
+          st,b=call(urllib.request.Request("https://api.etsy.com/v3/public/oauth/token",data=d,method="POST"))
+          print("TOKEN", st, b[:80] if st!=200 else "ok")
+          if st==200:
+              t=json.loads(urllib.request.urlopen(urllib.request.Request("https://api.etsy.com/v3/public/oauth/token",data=d,method="POST"),timeout=30).read())["access_token"]
+              print("SHOPS", call(urllib.request.Request(f"https://api.etsy.com/v3/application/users/{os.environ['U']}/shops",headers={"x-api-key":k,"Authorization":"Bearer "+t})))
+          PY
+        env:
+          K: ${{ secrets.ETSY_API_KEY }}
+          R: ${{ secrets.ETSY_REFRESH_TOKEN }}
+          U: ${{ secrets.ETSY_USER_ID }}
