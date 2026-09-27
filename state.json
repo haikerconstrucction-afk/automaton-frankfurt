@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.531,
-  "spent_eur": 0.139,
+  "balance_eur": 504.49,
+  "spent_eur": 0.18,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -380,6 +380,86 @@
       "pay_url": "https://buy.stripe.com/28EdRa07L1P5dmK9IM2kw0i",
       "payment_link_id": "plink_1UKC3VJ5iOXkWb9V8fkkYQMR",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Hochzeitsbudget-Tracker & Planer für Paare",
+      "slug": "hochzeitsbudget-tracker-planer",
+      "price_eur": 7,
+      "target": "Paare, die ihre Hochzeit selbst planen und das Budget im Blick behalten möchten",
+      "reason": "Hochzeitsplanung ist oft stressig und kostspielig. Diese Excel-Vorlage hilft Paaren, ihr Budget zu verwalten und den Überblick über wichtige Aufgaben zu behalten, was den Preis von 7 EUR klar rechtfertigt.",
+      "language": "de",
+      "pitch": "Planen Sie Ihre Hochzeit stressfrei und behalten Sie alle Ausgaben im Blick mit dieser Excel-Vorlage, die Ihnen hilft, Ihr Budget zu verwalten und Übersicht zu behalten.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Budget-Tracker für alle Hochzeitskategorien</li><li>Automatische Summenberechnung und Budgetkontrolle</li><li>Zeitplaner für Hochzeitsvorbereitungen</li><li>Checkliste für wichtige Aufgaben</li></ul>",
+      "created": "2026-09-27T07:04:08",
+      "file": "hochzeitsbudget-tracker-planer-7497031bd9742510.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/cNi3cwg6J79pfuSbQU2kw0j",
+      "payment_link_id": "plink_1UKCFaJ5iOXkWb9VLlYu2LcD",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Clever Sparen im Alltag: Einfache Tricks für private Haushaltsfinanzen",
+      "slug": "clever-sparen-im-alltag-einfache-tricks-fuer-private-haushaltsfinanzen",
+      "price_eur": 5,
+      "target": "Privatpersonen, die ihre Haushaltsfinanzen optimieren und Geld sparen möchten",
+      "reason": "Das Thema 'private Haushaltsfinanzen und Sparen' ist aktuell und relevant, da viele Menschen nach Möglichkeiten suchen, ihre Ausgaben zu reduzieren. Mit praktischen Tipps und konkreten Schritten bietet dieses E-Book einen klaren Mehrwert für die Zielgruppe.",
+      "language": "de",
+      "pitch": "Mit diesem Ratgeber entdecken Sie praktische und leicht umsetzbare Strategien, um im Alltag Geld zu sparen. Ideal für Familien und Einzelpersonen, die ihre Finanzen im Griff haben wollen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einleitung: Warum Sparen im Alltag wichtig ist</li><li>Kapitel 1: Die Basics der Haushaltsbuchführung</li><li>Kapitel 2: Clever einkaufen – Tipps für den Supermarkt</li><li>Kapitel 3: Energie sparen im Haushalt</li><li>Kapitel 4: Geld sparen bei Freizeitaktivitäten</li><li>Kapitel 5: Digital sparen – Apps und Tools</li><li>Kapitel 6: Gemeinsam sparen – Familienbudgets</li></ul>",
+      "created": "2026-09-27T07:04:08",
+      "file": "clever-sparen-im-alltag-einfache-tricks-fuer-private-haushaltsfinanzen-3498958055f971c9.pdf",
+      "size": 2609,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/5kQ6oI2fTeBR6Ym08c2kw0k",
+      "payment_link_id": "plink_1UKCFbJ5iOXkWb9VnG7la9hf",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Fitness Progress Tracker für Trainer & Selbständige",
+      "slug": "smart-fitness-progress-tracker",
+      "price_eur": 7,
+      "target": "Fitness-Trainer, Personal Trainer und selbständige Coaches",
+      "reason": "Fitness-Profis benötigen effiziente Tools zur Trainingsdokumentation. Diese Vorlage automatisiert aufwendige Berechnungen und bietet sofortige visuelle Feedbackmechanismen, was den Zeitaufwand für Trainingsanalysen halbiert.",
+      "language": "de",
+      "pitch": "Professionelle Trainingsdokumentation mit automatischen Auswertungen. Spare Zeit bei der Kundenbetreuung durch intelligente Fortschrittsanalyse.",
+      "content_html": "<h2>Inhalt</h2><p>Automatisierte Trainingsprotokolle, Leistungsfortschritts-Analyse, Körpermaß-Tracker, Belastungssteuerung mit integrierter Ampelfunktion</p>",
+      "created": "2026-09-27T07:04:08",
+      "file": "smart-fitness-progress-tracker-4358e4cb5c6b139d.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/9B6aEY2fT0L16Ymf362kw0l",
+      "payment_link_id": "plink_1UKCFcJ5iOXkWb9VEvTzgSza",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter",
+      "slug": "vermieter-profi-in-7-tagen-guide",
+      "price_eur": 5,
+      "target": "Privatpersonen mit 1-5 Mietwohnungen, die effizienter vermieten möchten",
+      "reason": "Kleinvermieter werden von meisten Ratgebern ignoriert – sie brauchen einfache, pragmatische Lösungen ohne Immobilienkonzern-Budget. Das eBook füllt diese Lücke mit echtem Praxiswissen, das sich durch Zeitersparnis sofort bezahlt macht.",
+      "language": "de",
+      "pitch": "Praktische Tipps statt theoretischem Ballast: In 7 Tagen zum organisierten Vermieter. Sparen Sie Zeit und Ärger mit klaren, sofort umsetzbaren Schritten.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Tag 1: Die Vermieter-Grundausstattung</li><li>Tag 2: Effektive Mieterauswahl</li><li>Tag 3: Digitale Dokumentenorganisation</li><li>Tag 4: Wartungsroutinen etablieren</li><li>Tag 5: Kommunikation optimieren</li><li>Tag 6: Kostenkontrolle</li><li>Tag 7: Notfallplan erstellen</li></ul><p>Leseprobe (Tag 2): 'Erstellen Sie einen standardisierten Fragebogen für Besichtigungstermine – so vergleichen Sie Äpfel mit Äpfeln und sparen wertvolle Zeit...'</p>",
+      "created": "2026-09-27T07:04:08",
+      "file": "vermieter-profi-in-7-tagen-guide-b66e5de02165a6fd.pdf",
+      "size": 2513,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/fZu4gAdYBalBeqO9IM2kw0m",
+      "payment_link_id": "plink_1UKCFdJ5iOXkWb9VMmN3TSbn",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
@@ -647,6 +727,61 @@
       "t": "2026-09-27T06:52:24",
       "eur": -0.0036996,
       "why": "KI-Pruefung: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.0021408,
+      "why": "KI-Denken: Hochzeitsbudget-Tracker & Planer für Paare"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Hochzeitsbudget-Tracker & Planer für Paare"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.010914,
+      "why": "KI-Denken: Clever Sparen im Alltag: Einfache Tricks für private Haushaltsfinanzen"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.0042672,
+      "why": "KI-Pruefung: Clever Sparen im Alltag: Einfache Tricks für private Haushaltsfinanzen"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.0023676,
+      "why": "KI-Denken: Personal Fitness Progress Tracker & Planner"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.0010643999999999999,
+      "why": "KI-Pruefung: Personal Fitness Progress Tracker & Planner"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': \"Formeln sind zwar eingerichtet, aber 'Calories Burned'-Formel ist ungenau (z.B. Plank wird falsch berechnet). Keine Gesundheitsversprechen, aber Fitness-Daten sind sehr grundlegend.\"}"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.0023723999999999998,
+      "why": "KI-Denken: Smart Fitness Progress Tracker für Trainer & Selbständige"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.0010404,
+      "why": "KI-Pruefung: Smart Fitness Progress Tracker für Trainer & Selbständige"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.011447999999999998,
+      "why": "KI-Denken: Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-09-27T07:04:08",
+      "eur": -0.0044063999999999996,
+      "why": "KI-Pruefung: Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter"
     }
   ],
   "alive": true,
