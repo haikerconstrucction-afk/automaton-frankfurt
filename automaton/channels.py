@@ -70,13 +70,17 @@ class Etsy:
         return f"https://www.etsy.com/listing/{lid}"
 
 CHANNELS = [Etsy()]
+CFG_DAY = {"etsy": 6}  # max. Einstellungen pro Tag (Etsy-Gebuehr 0,20 $ je Eintrag)
 
 def sync_all(s, log, book):
     for ch in CHANNELS:
         if not ch.enabled(): continue
         done = 0
+        import datetime as _dt
+        today = _dt.datetime.utcnow().date().isoformat()
+        left = CFG_DAY.get(ch.name, 6) - sum(1 for l in s["log"] if l["t"].startswith(today) and l["why"].startswith(f"Auf {ch.name} eingestellt"))
         for p in s["products"]:
-            if done >= ch.per_run: break
+            if done >= min(ch.per_run, left): break
             if p.get("retired") or not p.get("file") or not p.get("pay_url") or p.get("channels", {}).get(ch.name): continue
             done += 1
             try:
