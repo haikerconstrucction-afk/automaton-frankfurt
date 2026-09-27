@@ -36,6 +36,9 @@ def stripe(method, path, data=None):
 
 def ensure_payment_link(p):
     """Eigenes Produkt + Preis + Zahlungslink in Stripe; nach Kauf Weiterleitung zum Download."""
+    if os.getenv("STRIPE_SECRET_KEY") and p.get("payment_link_id") and p.get("site") != SITE and not p.get("retired"):
+        stripe("POST", f"payment_links/{p['payment_link_id']}", {"after_completion[type]": "redirect",
+               "after_completion[redirect][url]": f"{SITE}/dl/{p['file']}"}); p["site"] = SITE
     if not os.getenv("STRIPE_SECRET_KEY") or p.get("pay_url") or not p.get("file") or p.get("retired") or not sales_enabled(): return
     prod = stripe("POST", "products", {"name": p["title"], "metadata[slug]": p["slug"]})
     cur = "usd" if p.get("language") == "en" else "eur"
@@ -43,7 +46,7 @@ def ensure_payment_link(p):
     link = stripe("POST", "payment_links", {"line_items[0][price]": price["id"], "line_items[0][quantity]": 1,
         "after_completion[type]": "redirect", "after_completion[redirect][url]": f"{SITE}/dl/{p['file']}",
         "automatic_tax[enabled]": "false", "metadata[slug]": p["slug"]})
-    p["pay_url"], p["payment_link_id"] = link["url"], link["id"]
+    p["pay_url"], p["payment_link_id"], p["site"] = link["url"], link["id"], SITE
 
 def count_sales(s):
     if not os.getenv("STRIPE_SECRET_KEY"): return
