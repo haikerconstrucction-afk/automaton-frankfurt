@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 499.9313,
-  "spent_eur": 4.7387,
+  "balance_eur": 499.7181,
+  "spent_eur": 4.9519,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1290,114 +1290,78 @@
       "audit_v": 2,
       "audit_score": 8,
       "audit_note": "Gut strukturierter Ratgeber mit praktischen Tipps, keine gravierenden Regelverstöße. Zwei nicht belegte Prozentangaben sollen entfernt werden (können durch allgemeine Formulierungen ersetzt werden). Keine Finanzberatung, nur allgemeine Sparhinweise."
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur d'entraînement intelligent pour coachs et indépendants",
+      "slug": "planificateur-entrainement-intelligent-coachs-independants",
+      "price_eur": 7,
+      "target": "Coachs de fitness et indépendants dans le domaine du sport",
+      "reason": "Avec cette feuille de calcul, les coachs de fitness et les indépendants peuvent économiser du temps et améliorer l'efficacité de leur travail en ayant un outil pour planifier et suivre les séances d'entraînement de leurs clients.",
+      "language": "fr",
+      "pitch": "Optimisez la planification des séances d'entraînement et le suivi des progrès de vos clients avec cette feuille de calcul intuitive.",
+      "content_html": "<h2>Inhalt</h2><p>Cette feuille de calcul vous permet de planifier des séances d'entraînement personnalisées, de suivre les progrès de vos clients et de calculer automatiquement les charges de travail et les gains musculaires prévus.</p>",
+      "created": "2026-09-27T21:23:13",
+      "file": "planificateur-entrainement-intelligent-coachs-independants-bdd7fb2cf598e6d5.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Sprache ist durchgängig Französisch. Keine Platzhalter oder unfertigen Texte. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Formeln in der Tabelle sind sinnvoll und korrekt.",
+      "pay_url": "https://buy.stripe.com/dRmdRa7AdalB2I6bQU2kw0Y",
+      "payment_link_id": "plink_1UKPhoJ5iOXkWb9VfcTNTeVG",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et Gestion Simplifiée",
+      "slug": "guide-proprietaires-1-5-logements-organisation-gestion",
+      "price_eur": 5,
+      "target": "Propriétaires de 1 à 5 logements en France, Belgique et Canada",
+      "reason": "Les petits propriétaires ont besoin de conseils pratiques pour gérer leurs logements sans stress. Ce guide offre des solutions simples et efficaces à un prix abordable.",
+      "language": "fr",
+      "pitch": "Découvrez des stratégies simples pour organiser et gérer efficacement votre propriété. Gagnez du temps et réduisez le stress avec des conseils pratiques.",
+      "content_html": "<h2>Inhalt</h2> <ul><li>Introduction : Pourquoi ce guide est essentiel</li><li>Chapitre 1 : Organiser vos documents et contrats</li><li>Chapitre 2 : Gérer les relations avec vos locataires</li><li>Chapitre 3 : Planifier les entretiens et les réparations</li><li>Chapitre 4 : Optimiser votre temps avec des outils numériques</li><li>Chapitre 5 : Préparer votre propriété pour les nouveaux locataires</li><li>Chapitre 6 : Garder une trace des finances et des dépenses</li></ul>",
+      "created": "2026-09-27T21:23:13",
+      "file": "guide-proprietaires-1-5-logements-organisation-gestion-6a916e4651f3e95c.pdf",
+      "size": 1816,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 7,
+      "audit_note": "Das E-Book enthält praktische und allgemeine Ratschläge zur Immobilienverwaltung, ohne spezifische Rechts- oder Steuerberatung zu geben. Die Behauptung '90% der Konflikte werden entschärft' ist eine erfundene Statistik ohne Quellenangabe. Diese Prozentzahl sollte entfernt werden, da sie nicht belegt",
+      "pay_url": "https://buy.stripe.com/28EdRaaMpeBR4QecUY2kw0Z",
+      "payment_link_id": "plink_1UKPhoJ5iOXkWb9VQ3Iyw7Zy",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Exam Countdown Planner & Study Progress Tracker for Students",
+      "slug": "exam-countdown-planner-study-progress-tracker-students",
+      "price_eur": 7,
+      "target": "Students preparing for exams",
+      "reason": "Students often struggle with managing their study time and tracking progress effectively. This tool provides a structured approach, ensuring they stay on track and reduce exam-related stress.",
+      "language": "en",
+      "pitch": "Stay organized and track your study progress effectively with this intuitive planner designed specifically for students.",
+      "content_html": "<h2>Content</h2><p>This Excel template helps students manage their study schedule, track progress, and stay focused with a countdown to exam day.</p>",
+      "created": "2026-09-27T21:23:13",
+      "file": "exam-countdown-planner-study-progress-tracker-students-4a8ae86650d9775d.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 6,
+      "audit_note": "Produkt enthält keine erfundenen Zahlen oder Statistiken, aber die Formeln in der 'Study Plan'-Tabelle sind fehlerhaft (z.B. '=TODAY()-DATE(...)' für 'Study Hours' ergibt keinen sinnvollen Wert). Die grundlegende Funktionalität ist vorhanden, benötigt aber Korrekturen in den Berechnungen.",
+      "pay_url": "https://buy.stripe.com/dRm14o5s51P5ciG9IM2kw10",
+      "payment_link_id": "plink_1UKPhpJ5iOXkWb9V6h7WWT1m",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.16,
-      "why": "KI-Bilder: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Alltag"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.0041952,
-      "why": "KI-Denken: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.0018899999999999998,
-      "why": "KI-Pruefung: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583538647"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Effizientes Selbstmanagement für Selbstständige in 6 Schritten"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583538663"
-    },
-    {
-      "t": "2026-09-27T09:33:54",
-      "eur": 0,
-      "why": "etsy-Fehler bei kunden-rueckgewinnungs-tracker-fuer-kleinunternehmer: HTTP Error 400: Bad Request {\"error\":\"File names must be between 3 and 70 characters and contain only letters, numbers, hyphens, underscores, or periods.\"}\n"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.009512399999999999,
-      "why": "KI-Denken: Aula Digital sin Estrés: Guía Práctica para Docentes del Siglo XXI"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0040212,
-      "why": "KI-Pruefung: Aula Digital sin Estrés: Guía Práctica para Docentes del Siglo XXI"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1427 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.010479599999999999,
-      "why": "KI-Denken: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0037655999999999996,
-      "why": "KI-Pruefung: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0033767999999999997,
-      "why": "KI-Denken: Pflegezeit-Organisationsplaner für Angehörige & Seniorenbetreuung"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Pflegezeit-Organisationsplaner für Angehörige & Seniorenbetreuung"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0034584,
-      "why": "KI-Denken: Pflegezeitplaner & Medikations-Tracker für pflegende Angehörige"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0010199999999999999,
-      "why": "KI-Pruefung: Pflegezeitplaner & Medikations-Tracker für pflegende Angehörige"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Keine offensichtlichen Regelverstöße, aber Funktionen sehr grundlegend. Formeln korrekt (keine erfundenen Statistiken), Preis für einfache Excel-Lösung in China/Taiwan/Singapur-Kontext fragwürdig.'}"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0034415999999999995,
-      "why": "KI-Denken: Seniorenmedikations- & Pflegeplanungs-Tracker"
-    },
     {
       "t": "2026-09-27T09:43:40",
       "eur": -0.001,
@@ -2297,6 +2261,106 @@
       "t": "2026-09-27T17:35:41",
       "eur": 0,
       "why": "Audit: 49 geprueft, 1 entfernt"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.004096799999999999,
+      "why": "KI-Denken: Planificateur de Programmes d'Entraînement & Suivi des Progrès pour Coachs et Indépendants"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Programmes d'Entraînement & Suivi des Progrès pour Coachs et Indépendants"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.0039324,
+      "why": "KI-Denken: Planificateur d'entraînement intelligent pour coachs et indépendants"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur d'entraînement intelligent pour coachs et indépendants"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.0099936,
+      "why": "KI-Denken: Guide Pratique pour Petits Propriétaires : Optimiser la Gestion de 1 à 5 Logements"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.0039372,
+      "why": "KI-Pruefung: Guide Pratique pour Petits Propriétaires : Optimiser la Gestion de 1 à 5 Logements"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1381 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.011219999999999997,
+      "why": "KI-Denken: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et Gestion Simplifiée"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.0040104,
+      "why": "KI-Pruefung: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et Gestion Simplifiée"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.16,
+      "why": "KI-Bilder: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et Gestion Simplifiée"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.0039108,
+      "why": "KI-Denken: Exam Countdown Planner & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Exam Countdown Planner & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-09-27T21:33:42",
+      "eur": -0.00108,
+      "why": "Audit: Planificateur d'entraînement intelligent pour coachs et indépendants"
+    },
+    {
+      "t": "2026-09-27T21:33:42",
+      "eur": -0.0037355999999999995,
+      "why": "Audit: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et"
+    },
+    {
+      "t": "2026-09-27T21:33:42",
+      "eur": -0.0010932,
+      "why": "Audit: Exam Countdown Planner & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.001632,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (de)"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.0013164,
+      "why": "Blog-Artikel: Frankfurt Skyline (en)"
+    },
+    {
+      "t": "2026-09-27T21:23:13",
+      "eur": -0.00035999999999999997,
+      "why": "Video-Skript: Frankfurt Skyline"
     }
   ],
   "alive": true,
@@ -2382,6 +2446,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-09-27T17:01:01",
       "img": true
+    },
+    {
+      "slug": "hamburg-speicherstadt-entdecken",
+      "title": "Hamburgs Speicherstadt: Ein historisches Juwel entdecken",
+      "lang": "de",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-09-27T21:23:13",
+      "img": true
+    },
+    {
+      "slug": "majestic-frankfurt-skyline-travelers-guide",
+      "title": "The Majestic Frankfurt Skyline: A Traveler's Guide",
+      "lang": "en",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-09-27T21:23:13",
+      "img": true
     }
   ],
   "videos": [
@@ -2392,7 +2472,8 @@
       "created": "2026-09-27T10:42:36",
       "hashtags": "#Mosel #Cochem #DeutschlandEntdecken #Reiseziel #Weinregion",
       "voice": "Entdecken Sie Cochem an der Mosel – ein Juwel deutscher Kultur und Natur! Die imposante Reichsburg thront über der Stadt und bietet atemberaubende Aussichten. Schlendern Sie durch die malerische Altstadt mit ihren bunten Fachwerkhäusern. Die Weinberge laden zu Spaziergängen ein, während die Mosel magische Bootsfahrten verspricht. Hier erleben Sie Geschichte, Natur und Genuss pur!",
-      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons"
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
     },
     {
       "slug": "german-neuschwanstein-castle-travel-guide",
@@ -2401,7 +2482,8 @@
       "created": "2026-09-27T12:07:03",
       "hashtags": "#新天鹅堡 #德国旅游 #童话城堡 #巴伐利亚 #欧洲必去",
       "voice": "在德国巴伐利亚州阿尔卑斯山脉中，坐落着一座童话般的城堡 - 新天鹅堡！这座19世纪的建筑瑰宝是路德维希二世的梦幻之作，白墙蓝顶与群山相映成趣。作为迪士尼睡美人城堡的原型，它每年吸引无数游客前来朝圣。登高望远，您将领略绝美的自然风光与建筑艺术的完美融合！",
-      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons"
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
     },
     {
       "slug": "falaises-de-craie-de-ruegen-allemagne",
@@ -2410,7 +2492,18 @@
       "created": "2026-09-27T17:01:01",
       "hashtags": "#Rügen #Allemagne #VoyageNature #MerBaltique #FalaisesDeCraie",
       "voice": "Découvrez les mythiques falaises de craie de l'île de Rügen ! Ces géants blancs plongeant dans la mer Baltique offrent un spectacle époustouflant. Marchez sur les sentiers côtiers pour des vues à couper le souffle. Un incontournable en Allemagne où nature sauvage et paysages légendaires se rencontrent. Aventure garantie !",
-      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons"
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "majestic-frankfurt-skyline-travelers-guide",
+      "title": "The Majestic Frankfurt Skyline: A Traveler's Guide",
+      "lang": "en",
+      "created": "2026-09-27T21:23:13",
+      "hashtags": "#FrankfurtSkyline #GermanyTravel #CityViews #EuropeDestination #MainRiver",
+      "voice": "Welcome to Frankfurt, where history and innovation collide! Marvel at the breathtaking skyline, home to Europe’s tallest skyscrapers. Stroll along the Main River, soaking in views of iconic landmarks like the Main Tower and historic Römer. Experience the vibrant energy of Germany’s financial heart, blended with cultural treasures and green spaces. Frankfurt is more than a destination—it’s an adventure waiting for you!",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
     }
   ],
   "begleiter": {
