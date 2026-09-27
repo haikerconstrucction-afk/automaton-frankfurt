@@ -344,7 +344,7 @@ FOOT = """<footer class="foot"><div class="wrap"><span>© 2026 Haiktec · Marcel
 HEAD = """<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title><meta name="description" content="{desc}"><link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
-<link rel="icon" href="{r}favicon.png"><link rel="stylesheet" href="{r}style.css"></head><body><header class="top"><div class="wrap"><a class="brand" href="{r}index.html"><img src="{r}icon.png" alt="Haiktec" width="32" height="32" style="border-radius:6px">Haiktec</a><nav><a href="{r}index.html#produkte">Produkte</a><a href="{r}blog/index.html">Blog</a><a href="{r}impressum.html">Kontakt</a></nav></div></header>"""
+<link rel="icon" href="{r}favicon.png"><link rel="stylesheet" href="{r}style.css"></head><body><header class="top"><div class="wrap"><a class="brand" href="{r}index.html"><img src="{r}icon.png" alt="Haiktec" width="32" height="32" style="border-radius:6px">Haiktec</a><nav><a href="{r}index.html#produkte">Produkte</a><a href="{r}blog/index.html">Blog</a><a href="{r}videos/">Videos</a><a href="{r}begleiter/">KI-Begleiter</a><a href="{r}impressum.html">Kontakt</a></nav></div></header>"""
 
 def card(p):
     cur = "$" if p.get("language") == "en" else "€"
@@ -362,10 +362,24 @@ def storefront(s):
 <section id="produkte" class="wrap"><h2>Produkte</h2><div class="grid">{cards}</div></section>""" + FOOT.format(r="") + "</body></html>")
 
 def seo_files(s):
-    urls = [f"{SITE}/index.html"] + [f"{SITE}/products/{p['slug']}.html" for p in s["products"] if not p.get("retired") and p.get("pay_url")] + [f"{SITE}/blog/index.html"] + [f"{SITE}/blog/{b['slug']}.html" for b in s.get("blog", [])]
+    urls = [f"{SITE}/index.html"] + [f"{SITE}/products/{p['slug']}.html" for p in s["products"] if not p.get("retired") and p.get("pay_url")] + [f"{SITE}/blog/index.html", f"{SITE}/videos/index.html", f"{SITE}/begleiter/"] + [f"{SITE}/blog/{b['slug']}.html" for b in s.get("blog", [])]
     (ROOT/"site/sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
         + "".join(f"<url><loc>{u}</loc><lastmod>{now[:10]}</lastmod></url>" for u in urls) + "</urlset>")
     (ROOT/"site/robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /dl/\nDisallow: /status.html\nSitemap: {SITE}/sitemap.xml\n")
+
+def begleiter(s):
+    """KI-Begleiter-App: Zahlungslink fuer Nachrichtenpaket + Seite schreiben."""
+    b = s.setdefault("begleiter", {})
+    if os.getenv("STRIPE_SECRET_KEY") and not b.get("pay_url") and CFG.get("begleiter_api"):
+        prod = stripe("POST", "products", {"name": "KI-Begleiter: 300 Nachrichten", "metadata[app]": "begleiter"})
+        price = stripe("POST", "prices", {"product": prod["id"], "currency": "eur", "unit_amount": 499})
+        link = stripe("POST", "payment_links", {"line_items[0][price]": price["id"], "line_items[0][quantity]": 1,
+            "after_completion[type]": "redirect", "after_completion[redirect][url]": SITE + "/begleiter/?session_id={CHECKOUT_SESSION_ID}",
+            "metadata[app]": "begleiter"})
+        b["pay_url"], b["link_id"] = link["url"], link["id"]
+    t = (ROOT/"automaton/begleiter.html").read_text().replace("__API__", CFG.get("begleiter_api") or "__API__").replace("__PAY__", b.get("pay_url", "#"))
+    (ROOT/"site/begleiter").mkdir(parents=True, exist_ok=True); (ROOT/"site/begleiter/index.html").write_text(t)
+    if b.get("link_id"): (ROOT/"site/begleiter/link.json").write_text(json.dumps({"id": b["link_id"]}))
 
 def render(s):
     days = (datetime.datetime.fromisoformat(now) - datetime.datetime.fromisoformat(s["born"])).days
@@ -373,6 +387,8 @@ def render(s):
     life = "∞" if burn == 0 else f"{int(s['balance_eur']/burn)} Tage"
     items = "".join(f'<li><a href="products/{p["slug"]}.html">{p["title"]}</a> – {p["price_eur"]} {"$" if p.get("language")=="en" else "€"} · {p.get("sales",0)} verkauft</li>' for p in reversed(s["products"]) if not p.get("retired"))
     status = "LEBT" if s["alive"] else "TOT"
+    try: begleiter(s)
+    except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Begleiter-Fehler: {str(e)[:200]}"})
     storefront(s); seo_files(s)
     try:
         import channels; channels.sync_all(s, log=lambda m: s["log"].append({"t": now, "eur": 0, "why": m}), book=lambda e, w: book(s, e, w))
@@ -415,6 +431,12 @@ def main():
         for _ in range(CFG.get("blog_posts_per_run", 2)):
             blog.post(s, llm_json, HEAD, FOOT, SITE, ROOT, book, now)
     except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Blog-Fehler: {str(e)[:200]}"})
+    try:
+        import video
+        for _ in range(CFG.get("videos_per_run", 1)): video.make(s, llm_json, book, ROOT, now)
+    except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Video-Fehler: {str(e)[:200]}"})
+    try: import video; video.page(s, HEAD, FOOT, ROOT)
+    except Exception as e: print("Video-Seite:", e)
     try: import blog; blog.index(s, HEAD, FOOT, ROOT)
     except Exception as e: print("Blog-Index:", e)
     if s["balance_eur"] <= 0: s["alive"] = False
