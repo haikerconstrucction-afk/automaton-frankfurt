@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 504.2344,
-  "spent_eur": 0.4356,
+  "balance_eur": 503.824,
+  "spent_eur": 0.846,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -657,9 +657,9 @@
       "sales": 0,
       "score": 8,
       "quality": 1,
-      "pay_url": "https://buy.stripe.com/dRm28s3jX8dt3MabQU2kw0A",
       "payment_link_id": "plink_1UKDtuJ5iOXkWb9Vn0XDpS5j",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "retired": true
     },
     {
       "type": "excel",
@@ -679,6 +679,66 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/dRmaEY9IldxNgyW6wA2kw0B",
       "payment_link_id": "plink_1UKDtvJ5iOXkWb9V0ScC0ITf",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfachen Schritten",
+      "slug": "minimalismus-guide-fuer-selbststaendige",
+      "price_eur": 5,
+      "target": "Selbstständige und Freelancer, die produktiver werden wollen durch vereinfachte Arbeitsprozesse",
+      "reason": "Minimalismus ist ein aktueller Trend mit echtem Nutzen für Selbstständige, da es ihnen hilft, sich auf profitable Aktivitäten zu konzentrieren. Viele scheitern an der Umsetzung - dieses E-Book bietet konkrete Schritte.",
+      "language": "de",
+      "pitch": "Weniger ist mehr - lernen Sie, wie Sie durch Minimalismus im Arbeitsalltag Zeit sparen und effektiver werden. Praktische Tipps für sofortige Umsetzung.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Warum Minimalismus für Selbstständige?</li><li>Kapitel 2: Das digitale Arbeitsumfeld entrümpeln</li><li>Kapitel 3: Minimalistische Projektplanung</li><li>Kapitel 4: Effiziente Kommunikation</li><li>Kapitel 5: Tools, die wirklich helfen</li><li>Kapitel 6: Workflow optimieren</li><li>Kapitel 7: Nachhaltige Umsetzung</li></ul>",
+      "created": "2026-09-27T09:12:29",
+      "file": "minimalismus-guide-fuer-selbststaendige-c159254c8b3d7f7e.pdf",
+      "size": 1518,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/9B64gA5s5gJZeqO6wA2kw0C",
+      "payment_link_id": "plink_1UKEMsJ5iOXkWb9VqZmnJzG8",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Baustellen-Angebots-Kalkulator für Handwerksbetriebe",
+      "slug": "baustellen-angebots-kalkulator-fuer-handwerksbetriebe",
+      "price_eur": 7,
+      "target": "Handwerksbetriebe, die professionelle Angebote kalkulieren und erstellen möchten",
+      "reason": "Handwerker verbringen oft zuviel Zeit mit manuellen Kalkulationen. Diese Vorlage rationalisiert den Prozess, minimiert Fehler und hilft, wettbewerbsfähige Preise zu kalkulieren, ohne Profit zu verlieren. Besonders für kleine Betriebe ohne spezielle Software ideal.",
+      "language": "de",
+      "pitch": "Präzise Kalkulation von Material-, Arbeits- und Nebenkosten für profitable Angebote. Automatische Summen, USt-Berechnung und ein marktgerechtes Endangebot in einem Tool.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Automatisierte Materialkostenberechnung inkl. Rabatte</li><li>Arbeitszeitkalkulation mit variablen Stundensätzen</li><li>Nebenkosten- und Gewinnmarge-Aufschlag</li><li>Umsatzsteuerberechnung & Endsumme</li><li>Professionelle Angebotspreview</li></ul>",
+      "created": "2026-09-27T09:12:29",
+      "file": "baustellen-angebots-kalkulator-fuer-handwerksbetriebe-a2c8abf74bef3a9c.xlsx",
+      "size": 17,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/28E6oIdYB1P5aayf362kw0D",
+      "payment_link_id": "plink_1UKEMtJ5iOXkWb9VXATLBcF8",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinder von 3-8 Jahren",
+      "slug": "schlafenszeit-geschichten-fuer-kleine-entdecker",
+      "price_eur": 5,
+      "target": "Eltern, die ihre Kinder mit kreativen und beruhigenden Geschichten ins Bett bringen möchten",
+      "reason": "Eltern suchen oft nach neuen und abwechslungsreichen Gute-Nacht-Geschichten, die ihre Kinder beruhigen und ihre Fantasie anregen. Dieses E-Book bietet eine Sammlung von originellen und leicht verständlichen Geschichten, die perfekt für das Einschlafritual geeignet sind und dabei einen klaren Mehrwert bieten.",
+      "language": "de",
+      "pitch": "Abwechslungsreiche Gute-Nacht-Geschichten, die die Fantasie anregen und Kinder sanft in den Schlaf begleiten. Perfekt für abendliche Rituale und einen entspannten Tagesausklang.",
+      "content_html": "<h2>Inhalt</h2><p>Entdecken Sie eine Sammlung von 7 liebevoll gestalteten Geschichten, die Ihre Kinder in fantastische Welten entführen und den Tag harmonisch ausklingen lassen. Leseprobe: Kapitel 1 - 'Das Geheimnis des glitzernden Sees'.</p>",
+      "created": "2026-09-27T09:12:29",
+      "file": "schlafenszeit-geschichten-fuer-kleine-entdecker-10283346a5128cba.pdf",
+      "size": 1723,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/8x2eVecUx51h4QeaMQ2kw0E",
+      "payment_link_id": "plink_1UKEMuJ5iOXkWb9VpSf8oWMw",
       "site": "https://haiktec.tech"
     }
   ],
@@ -1125,6 +1185,111 @@
     },
     {
       "t": "2026-09-27T08:54:41",
+      "eur": 0,
+      "why": "etsy-Fehler bei stundentracker-freelancer: HTTP Error 403: Forbidden {\"error\":\"API key not found or not active, or incorrect shared secret for API key.\"}\n"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.010407599999999998,
+      "why": "KI-Denken: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfachen Schritten"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.0041004,
+      "why": "KI-Pruefung: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfachen Schritten"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.16,
+      "why": "KI-Bilder: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfachen Schritten"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.0035064,
+      "why": "KI-Denken: Baustellen-Angebots-Kalkulator für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.001248,
+      "why": "KI-Pruefung: Baustellen-Angebots-Kalkulator für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.009190799999999999,
+      "why": "KI-Denken: Traumland-Abenteuer: 12 magische Gute-Nacht-Geschichten für müde Kinder (3-8 Jahre)"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.004153199999999999,
+      "why": "KI-Pruefung: Traumland-Abenteuer: 12 magische Gute-Nacht-Geschichten für müde Kinder (3-8 Jahre)"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1272 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.0096324,
+      "why": "KI-Denken: Gute-Nacht-Geschichten für kleine Träumer: 6 zauberhafte Abenteuer für Kinder von 3 bis 8 Jahren"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.004147199999999999,
+      "why": "KI-Pruefung: Gute-Nacht-Geschichten für kleine Träumer: 6 zauberhafte Abenteuer für Kinder von 3 bis 8 Jahren"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (1166 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.0098544,
+      "why": "KI-Denken: Träume der Mondfee: 24 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.0045324,
+      "why": "KI-Pruefung: Träume der Mondfee: 24 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): E-Book zu kurz (1309 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.009767999999999999,
+      "why": "KI-Denken: 10 Fantastische Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.0042071999999999995,
+      "why": "KI-Pruefung: 10 Fantastische Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): E-Book zu kurz (1163 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.011157599999999998,
+      "why": "KI-Denken: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.0045179999999999994,
+      "why": "KI-Pruefung: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
+      "eur": -0.16,
+      "why": "KI-Bilder: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-09-27T09:12:29",
       "eur": 0,
       "why": "etsy-Fehler bei stundentracker-freelancer: HTTP Error 403: Forbidden {\"error\":\"API key not found or not active, or incorrect shared secret for API key.\"}\n"
     }
