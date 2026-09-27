@@ -14,6 +14,9 @@ jobs:
         run: |
           if [ -z "$CLOUDFLARE_API_TOKEN" ]; then echo "Kein Cloudflare-Token - uebersprungen"; exit 0; fi
           cd worker
+          SUB=$(curl -s -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/subdomain" | python3 -c "import sys,json;print((json.load(sys.stdin).get('result') or {}).get('subdomain',''))")
+          if [ -z "$SUB" ]; then for n in haiktec haiktec-app haiktec-tech; do curl -s -X PUT -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "content-type: application/json" -d "{\"subdomain\":\"$n\"}" "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/subdomain" | grep -q '"success":true' && SUB=$n && break; done; fi
+          echo "SUBDOMAIN=$SUB"
           ID=$(curl -s -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/storage/kv/namespaces?per_page=100" | python3 -c "import sys,json;print(next((n['id'] for n in json.load(sys.stdin)['result'] if n['title']=='haiktec-begleiter'),''))")
           if [ -z "$ID" ]; then ID=$(curl -s -X POST -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "content-type: application/json" -d '{"title":"haiktec-begleiter"}' "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/storage/kv/namespaces" | python3 -c "import sys,json;print(json.load(sys.stdin)['result']['id'])"); fi
           printf 'name = "haiktec-begleiter"\nmain = "index.js"\ncompatibility_date = "2026-01-01"\nworkers_dev = true\n[[kv_namespaces]]\nbinding = "KV"\nid = "%s"\n' "$ID" > wrangler.toml
