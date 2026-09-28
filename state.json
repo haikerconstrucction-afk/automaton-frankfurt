@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 497.9608,
-  "spent_eur": 6.7092,
+  "balance_eur": 497.5629,
+  "spent_eur": 7.1071,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -70,9 +70,9 @@
       "reason": "Zeiterfassung ist für Freelancer essentiell, wird aber oft vernachlässigt. Diese professionelle Lösung mit automatischen Berechnungen spart täglich Zeit und hilft, kein Geld liegen zu lassen. Der Preis ist gerechtfertigt, da das Tool sofort einsatzbereit ist und die monatliche Nutzung deutlich mehr einspart.",
       "language": "de",
       "pitch": "Verfolgen Sie alle Projekte, berechnen Sie automatisch Ihr Honorar und behalten Sie den Überblick über Ihre wertvolle Arbeitszeit. Ideal für Solo-Selbstständige mit mehreren Kunden.",
-      "content_html": "<h2>Inhalt</h2><p>Dieses Excel-Tool hilft Ihnen, alle Arbeitsstunden pro Projekt zu tracken, automatisch Rechnungsbeträge zu berechnen und Ihre wöchentliche Auslastung im Blick zu behalten.</p>",
+      "content_html": "<h2>Inhalt</h2><p>Automatische Arbeitszeiterfassung, Projektkostenberechnung, Auswertungen nach Kunden/Projekten und monatliche Auslastungsanalysen.</p>",
       "created": "2026-09-26T15:13:01",
-      "file": "stundentracker-freelancer-96e8d2ee52469e0d.xlsx",
+      "file": "stundentracker-freelancer-0a78ec6f33549b8c.xlsx",
       "size": 10,
       "sales": 0,
       "score": 8,
@@ -85,8 +85,8 @@
       },
       "audit_v": 2,
       "audit_score": 9,
-      "audit_note": "Produkt erfüllt alle Regeln: Keine erfundenen Zahlen/Quellen, keine Rechts-/Finanzberatung, klare Funktionsbeschreibung für Freelancer. Formeln und Beispiele sind praktisch und korrekt.",
-      "pro": null
+      "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Zahlen oder Statistiken und hält sich an die Regeln. Die Excel-Formeln sind sinnvoll und es wird keine falsche oder gemischte Sprache verwendet. Es gibt keine Platzhalter oder unfertigen Texte.",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -123,9 +123,9 @@
       "reason": "Viele Kleinunternehmen verlieren Umsatz durch vergessene Kunden. Diese Vorlage automatisiert die Identifikation von Rückgewinnungschancen - was normalerweise stundenlange manuelle Analyse erfordert.",
       "language": "de",
       "pitch": "Identifizieren und reaktivieren Sie vergessene Kunden. Berechnen Sie automatisch den optimalen Kontaktzeitpunkt und potenziellen Umsatz.",
-      "content_html": "<h2>Inhalt</h2><p>Tracken Sie Kundenaktivität, berechnen Sie Rückgewinnungschancen, planen Sie Follow-ups mit automatischen Erinnerungen.</p>",
+      "content_html": "<h2>Inhalt</h2>Diese Vorlage bietet einen strukturierten Ansatz zur Rückgewinnung von Kunden. Sie enthält ein Dashboard mit KPIs, ein Blatt zur Kundenverfolgung und ein Analyseblatt zur Erfolgsmessung.",
       "created": "2026-09-26T15:38:28",
-      "file": "kunden-rueckgewinnungs-tracker-fuer-kleinunternehmer-8653a5cbfa3487be.xlsx",
+      "file": "kunden-rueckgewinnungs-tracker-fuer-kleinunternehmer-f6efc27ab207210d.xlsx",
       "size": 5,
       "sales": 0,
       "score": 8,
@@ -137,9 +137,9 @@
         "etsy": "https://www.etsy.com/listing/4583542433"
       },
       "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Produkt entspricht den Regeln: Keine erfundenen Zahlen/Studien, klare Struktur, praktische Excel-Vorlage ohne problematische Inhalte. Formeln sind funktional und sinnvoll. Alle Angaben entweder konkret auf den Nutzer bezogen oder allgemein bekannte Excel-Funktionen.",
-      "pro": null
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder konkreten Prozentzahlen. Der Inhalt ist klar, sachlich und bietet praktische Anleitungen ohne Regelverstöße.",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -176,9 +176,9 @@
       "reason": "Diese Vorlage bietet eine klare und effiziente Möglichkeit, Projekte und Budgets zu planen und zu überwachen. Sie ist perfekt für Selbstständige, die ihre Ressourcen optimal einsetzen möchten.",
       "language": "de",
       "pitch": "Verwalte deine Projekte und Budgets im Blick mit dieser intuitiven Excel-Vorlage. Plane, tracke und optimiere deine Ressourcen einfach und effizient.",
-      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft dir, deine Projekte zu planen, das Zeitbudget zu tracken und die Projektkosten im Blick zu behalten. Sie enthält automatische Berechnungen für Zeitaufwand, Kosten und Prognosen.</p>",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Selbstständigen und Kleinunternehmern, ihre Zeit und Projektkosten effizient zu verwalten. Sie bietet eine klare Übersicht über Arbeitsstunden, Kosten und Budgets.</p>",
       "created": "2026-09-26T18:15:18",
-      "file": "zeit-und-projektbudget-tracker-03e8deef922ec058.xlsx",
+      "file": "zeit-und-projektbudget-tracker-8c5b6493332aaafa.xlsx",
       "size": 15,
       "sales": 0,
       "score": 8,
@@ -191,8 +191,8 @@
       },
       "audit_v": 2,
       "audit_score": 9,
-      "audit_note": "Keine erfundenen Studien oder Statistiken vorhanden. Alle Zahlen sind plausible Beispielwerte, die klar als solche erkennbar sind. Die Struktur des Excel-Tools ist logisch und nachvollziehbar.",
-      "pro": null
+      "audit_note": "Der Inhalt ist klar, informativ und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder unbekannten Quellen. Die Sprache ist konsistent deutsch, und es gibt keine Platzhalter oder unfertigen Texte. Die Formeln und Tabellen sind sinnvoll und korrekt.",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -1521,149 +1521,81 @@
       "pay_url": "https://buy.stripe.com/14A14o3jX0L13Ma3ko2kw16",
       "payment_link_id": "plink_1UKYBVJ5iOXkWb9Vfz7bpOYf",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante",
+      "slug": "el-jardin-autosuficiente-7-pasos-clave-para-una-cosecha-abundante",
+      "price_eur": 5,
+      "target": "Hombres interesados en jardinería y autosuficiencia",
+      "reason": "Este libro ofrece un enfoque práctico y accesible para hombres interesados en la jardinería y la autosuficiencia. Proporciona pasos claros y ejemplos concretos para maximizar la producción en cualquier tipo de jardín, justificando así su precio.",
+      "language": "es",
+      "pitch": "Transforma tu jardín en una fuente de alimentos todo el año con métodos prácticos y fáciles de aplicar.",
+      "content_html": "<h2>Contenido</h2><ul><li>Introducción: Por qué la autosuficiencia es clave</li><li>Capítulo 1: Planificación y diseño del jardín</li><li>Capítulo 2: Elección de cultivos estratégicos</li><li>Capítulo 3: Técnicas de siembra y rotación</li><li>Capítulo 4: Cómo mantener el suelo fértil</li><li>Capítulo 5: Control de plagas de manera natural</li><li>Capítulo 6: Almacenamiento y conservación de la cosecha</li></ul><h2>Lectura de muestra</h2><p>¿Sabías que con un pequeño espacio puedes producir hasta el 50% de tus necesidades alimentarias? Descubre cómo...</p>",
+      "pro": false,
+      "created": "2026-09-28T06:44:42",
+      "file": "el-jardin-autosuficiente-7-pasos-clave-para-una-cosecha-abundante-694c49cfb2202a18.pdf",
+      "size": 1810,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 7,
+      "audit_note": "Die erwähnten '100%' sind nicht durch allgemein bekannte Fakten gestützt, sollten jedoch entfernt werden. Der Rest des Inhalts entspricht den Regeln und ist größtenteils klar und informativ.",
+      "pay_url": "https://buy.stripe.com/bJebJ22fTfFV5Ui5sw2kw17",
+      "payment_link_id": "plink_1UKYVoJ5iOXkWb9VygLvrZdy",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Content ROI Tracker & Budget Planner",
+      "slug": "youtube-content-roi-tracker-budget-planner",
+      "price_eur": 9,
+      "target": "Content Creator und YouTube",
+      "reason": "Diese Vorlage bietet Content Creators und YouTubern eine effiziente Möglichkeit, ihre Inhalte und Budgets zu verwalten, den ROI zu berechnen und ihre Ausgaben zu kontrollieren.",
+      "language": "zh",
+      "pitch": "Verfolgen Sie Ihre YouTube-Inhalte und Budgets effizient mit diesem professionellen Tracker.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Ihnen, Ihre YouTube-Inhalte und Budgets zu verwalten, den ROI zu berechnen und Ihre Ausgaben im Auge zu behalten.</p>",
+      "pro": true,
+      "created": "2026-09-28T06:44:42",
+      "file": "youtube-content-roi-tracker-budget-planner-cf4a473cf2301080.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist klar strukturiert und bietet eine nützliche Funktion zur Verfolgung von YouTube-Inhalten und Budgets ohne erfundene Statistiken oder Beratungen. Die Sprache ist konsequent und es gibt keine sachlichen Fehler. Kleinere Verbesserungen wären eine einheitliche Sprachwahl (Deutsch oder Ch",
+      "pay_url": "https://buy.stripe.com/aFadRaf2FalBdmK2gk2kw18",
+      "payment_link_id": "plink_1UKYVpJ5iOXkWb9V6Nxse9mX",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "高效教学计划：教师与辅导员的实用指导",
+      "slug": "gao-xiao-jiao-xue-ji-hua-jiao-shi-yu-fu-dao-yuan-de-shi-yong-zhi-dao",
+      "price_eur": 5,
+      "target": "教师和辅导员",
+      "reason": "根据市场调研，教师和辅导员在教学计划和时间管理方面面临巨大挑战，这本电子书提供了实用的解决方案，帮助他们提高教学效率并节省时间。",
+      "language": "zh",
+      "pitch": "这本电子书提供了实用的教学计划策略，帮助教师和辅导员节省时间并提高教学效果。",
+      "content_html": "<h2>内容</h2><ul><li>第一章：设定教学目标</li><li>第二章：课程设计基础</li><li>第三章：高效时间管理</li><li>第四章：互动教学方法</li><li>第五章：评估与反馈</li><li>第六章：现代技术工具的应用</li></ul>",
+      "pro": false,
+      "created": "2026-09-28T06:44:42",
+      "file": "gao-xiao-jiao-xue-ji-hua-jiao-shi-yu-fu-dao-yuan-de-shi-yong-zhi-dao-78d2c1ba812fb5b8.pdf",
+      "size": 1640,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht den Regeln: Keine erfunden Studien/Statistiken, keine Gesundheitsversprechen oder Rechtsberatung. Allgemein bekanntes Wissen und praktische Tipps werden vermittelt. SMART-Prinzip als allgemein bekannte Methode korrekt verwendet.",
+      "pay_url": "https://buy.stripe.com/00w28scUx3Xd0zYcUY2kw19",
+      "payment_link_id": "plink_1UKYVpJ5iOXkWb9VbjRG2ALn",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.011187599999999999,
-      "why": "KI-Denken: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.0043392,
-      "why": "KI-Pruefung: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.16,
-      "why": "KI-Bilder: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.0038951999999999997,
-      "why": "KI-Denken: 智能婚礼预算跟踪与规划器 - 2026年专属版"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能婚礼预算跟踪与规划器 - 2026年专属版"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.0109404,
-      "why": "KI-Denken: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.0045948,
-      "why": "KI-Pruefung: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.16,
-      "why": "KI-Bilder: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.0014315999999999999,
-      "why": "Blog-Artikel: Saechsische Schweiz (es)"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.0012731999999999997,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (fr)"
-    },
-    {
-      "t": "2026-09-27T17:01:01",
-      "eur": -0.0003876,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.001254,
-      "why": "Audit: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0036479999999999998,
-      "why": "Audit: Effizientes Selbstmanagement für Selbstständige in 6 Schritten"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0009876,
-      "why": "Audit: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0029844,
-      "why": "Audit: The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0012875999999999999,
-      "why": "Audit: Zeit- und Projektbudget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.003642,
-      "why": "Audit: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.001062,
-      "why": "Audit: Freelancer-Invoice-Tracker für internationale Aufträge"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0030491999999999997,
-      "why": "Audit: The Freelancer's Guide to Stress-Free Productivity"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0010643999999999999,
-      "why": "Audit: Umzugsbudget- und Zeitplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.00375,
-      "why": "Audit: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstv"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0011315999999999998,
-      "why": "Audit: YouTube Video Performance Tracker & Optimierungstool für Creator"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0027048,
-      "why": "Audit: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tu"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0010128,
-      "why": "Audit: Pflegezeit- und Kostenplaner für pflegende Angehörige"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0037056,
-      "why": "Audit: Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbsts"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0013043999999999998,
-      "why": "Audit: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0032675999999999994,
-      "why": "Audit: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0009264,
-      "why": "Audit: Hochzeitsbudget-Tracker & Planer für Paare"
-    },
     {
       "t": "2026-09-27T17:27:04",
       "eur": -0.0036191999999999995,
@@ -2528,6 +2460,141 @@
       "t": "2026-09-28T06:29:59",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584085485"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0105168,
+      "why": "KI-Denken: Huerto Urbano en 7 Pasos: Guía Práctica para Autosuficiencia en Espacios Pequeños"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0041616,
+      "why": "KI-Pruefung: Huerto Urbano en 7 Pasos: Guía Práctica para Autosuficiencia en Espacios Pequeños"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1253 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.011830799999999999,
+      "why": "KI-Denken: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0040571999999999995,
+      "why": "KI-Pruefung: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0052752,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0090756,
+      "why": "KI-Denken: 高效教学计划：教师与辅导员的实用指导"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0032423999999999994,
+      "why": "KI-Pruefung: 高效教学计划：教师与辅导员的实用指导"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: 高效教学计划：教师与辅导员的实用指导"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0025259999999999996,
+      "why": "Excel-Upgrade: Stundentracker für Freelancer"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Stundentracker für Freelancer"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0021696,
+      "why": "Excel-Upgrade: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0024695999999999997,
+      "why": "Excel-Upgrade: Zeit- und Projektbudget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Zeit- und Projektbudget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T06:57:30",
+      "eur": -0.004873199999999999,
+      "why": "Audit: Stundentracker für Freelancer"
+    },
+    {
+      "t": "2026-09-28T06:57:30",
+      "eur": -0.0016979999999999999,
+      "why": "Audit: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
+    },
+    {
+      "t": "2026-09-28T06:57:30",
+      "eur": -0.0028068,
+      "why": "Audit: Zeit- und Projektbudget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T06:57:30",
+      "eur": -0.0037715999999999995,
+      "why": "Audit: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
+    },
+    {
+      "t": "2026-09-28T06:57:30",
+      "eur": -0.0022584,
+      "why": "Audit: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-09-28T06:57:30",
+      "eur": -0.0034355999999999996,
+      "why": "Audit: 高效教学计划：教师与辅导员的实用指导"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": 0,
+      "why": "Audit: 6 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0010704,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (en)"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.0011351999999999998,
+      "why": "Blog-Artikel: Muenchen Marienplatz (zh)"
+    },
+    {
+      "t": "2026-09-28T06:44:42",
+      "eur": -0.000372,
+      "why": "Video-Skript: Muenchen Marienplatz"
     }
   ],
   "alive": true,
@@ -2661,6 +2728,22 @@
       "topic": "Harz Brocken",
       "created": "2026-09-28T06:29:59",
       "img": true
+    },
+    {
+      "slug": "exploring-the-wonders-of-the-north-sea-wadden-sea-in-germany",
+      "title": "Exploring the Wonders of the North Sea Wadden Sea in Germany",
+      "lang": "en",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-09-28T06:44:42",
+      "img": true
+    },
+    {
+      "slug": "muenchen-marienplatz-reisetipps",
+      "title": "探索慕尼黑玛利亚广场：历史与美食的交汇点",
+      "lang": "zh",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-09-28T06:44:42",
+      "img": true
     }
   ],
   "videos": [
@@ -2722,6 +2805,16 @@
       "hashtags": "#Harz #Brocken #Wandern #Natur #Deutschland",
       "voice": "Der Brocken – der höchste Berg des Harzes und ein Ort voller Magie! Ob mit der historischen Brockenbahn oder zu Fuß – hier erwarten euch atemberaubende Panoramen und geheimnisvolle Geschichten. Die unberührte Natur lädt zum Wandern und Entdecken ein. Ein unvergessliches Erlebnis für alle, die die Seele baumeln lassen möchten. Kommt und erlebt den Zauber des Brockens!",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "muenchen-marienplatz-reisetipps",
+      "title": "探索慕尼黑玛利亚广场：历史与美食的交汇点",
+      "lang": "zh",
+      "created": "2026-09-28T06:44:42",
+      "hashtags": "#慕尼黑旅游 #玛丽亚广场 #德国旅行 #巴伐利亚文化 #欧洲之美",
+      "voice": "慕尼黑玛丽亚广场，巴伐利亚的文化瑰宝！漫步在这个历史悠久的广场，感受德意志精神的脉动。雄伟的新市政厅钟楼准时上演精彩的机械表演，鱼泉喷泉边洋溢着欢乐的笑声。登上圣伯多禄教堂的塔楼，整个城市风光尽收眼底。这里不仅是历史的见证，更是时尚购物的天堂。快来沉浸在这座城市的独特魅力中吧！",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
