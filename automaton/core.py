@@ -61,10 +61,16 @@ Keine erfundenen Studien, Statistiken, Zahlen, Zitate oder Quellen - nur allgeme
 Aktuelles Jahr: 2026."""
 
 TYPES = {
- "excel": """eine Excel-Vorlage (Tracker/Planer/Rechner) mit ECHTEN Formeln. JSON:
-{"type":"excel","title":"...","slug":"kebab-case","price_eur":7,"target":"...","language":"de|en|es|fr|zh","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2>...",
-"guide":["Schritt 1",...],"sheets":[{"name":"max 30 Zeichen","columns":["..."],"rows":[["Wert","=B2*C2",...]],"blank_rows":30,"total_row":["Summe","","=SUM(C2:C40)"]}],"reason":"..."}
-Formeln als Strings mit '=' (englische Funktionsnamen, Komma als Trenner). Mind. 5 Beispielzeilen mit Datum 2026, blank_rows fuer Nutzer.""",
+ "excel": """eine PROFESSIONELLE Excel-Vorlage (Tracker/Planer/Rechner), die man sofort im Alltag nutzt - wie von einer Agentur. JSON:
+{"type":"excel","title":"...","slug":"kebab-case","price_eur":9,"target":"...","language":"de|en|es|fr|zh","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2>...",
+"guide":["5-8 kurze Schritte"],
+"sheets":[{"name":"max 25 Zeichen, ohne Sonderzeichen","columns":["Datum","Kategorie","Menge","Preis","Summe"],"types":["date","text","number","eur","eur"],
+  "rows":[["2026-01-15","Material",3,"12.50","=C2*D2"]],"blank_rows":60,"dropdowns":[{"column":"Kategorie","options":["Material","Arbeit","Sonstiges"]}]}],
+"kpis":[{"label":"Gesamtsumme","formula":"=SUM('Blattname'!E2:E300)","type":"eur"},{"label":"Anzahl Eintraege","formula":"=COUNTA('Blattname'!A2:A300)","type":"int"}],
+"chart":{"sheet":"Blattname","category_column":"Kategorie","value_column":"Summe","type":"bar|pie|line","title":"..."},"reason":"..."}
+Regeln: 2-4 Blaetter. types je Spalte aus: text,date,eur,usd,number,int,percent,hours. Formeln als Strings mit '=' (englische Funktionsnamen, Komma), in JEDER Beispielzeile mit passender Zeilennummer.
+Mind. 8 realistische Beispielzeilen (Datum 2026, ISO-Format). 4-6 KPIs fuer das Dashboard mit Formeln wie SUM, SUMIF, COUNTIF, AVERAGE, MAX ueber die Blaetter (Blattnamen in einfachen Anfuehrungszeichen).
+Dropdowns fuer Status-/Kategorie-Spalten. Keine erfundenen Steuersaetze ausser allgemein bekannten.""",
  "ebook": """ein kurzes E-Book (Ratgeber mit konkreten Schritten ODER eine Sammlung origineller Kurzgeschichten, z.B. Gute-Nacht-Geschichten fuer Kinder). JSON:
 {"type":"ebook","title":"...","slug":"kebab-case","price_eur":5,"target":"...","language":"de|en|es|fr|zh","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2> Inhaltsverzeichnis + Leseprobe",
 "chapters":[{"heading":"...","text":"mind. 350 Woerter, Absaetze mit \\n\\n getrennt"}],"reason":"..."}
@@ -113,32 +119,10 @@ Antworte NUR als JSON: {{"score": 1-10, "rule_violation": true|false, "issues": 
     return bool(ok), r, cost
 
 def build_excel(p, path):
-    from openpyxl import Workbook
-    from openpyxl.styles import Font, PatternFill
-    wb = Workbook(); ws = wb.active; ws.title = "Anleitung" if p.get("language","de") == "de" else "Guide"
-    ws.append([p["title"]]); ws["A1"].font = Font(bold=True, size=14)
-    for i, g in enumerate(p.get("guide", []), 1): ws.append([f"{i}. {g}"])
-    ws.column_dimensions["A"].width = 100
-    n = 0; formulas = 0
-    for sh in p.get("sheets", [])[:6]:
-        w = wb.create_sheet(str(sh["name"])[:30].replace("/", "-"))
-        w.append(sh["columns"])
-        for c in w[1]: c.font = Font(bold=True, color="FFFFFF"); c.fill = PatternFill("solid", fgColor="0B6E4F")
-        for r in sh.get("rows", [])[:300]:
-            row = []
-            for x in r:
-                if isinstance(x, str) and x.startswith("="): formulas += 1; row.append(x)
-                else:
-                    try: row.append(float(x) if isinstance(x, str) and re.fullmatch(r"-?\d+(\.\d+)?", x) else x)
-                    except Exception: row.append(x)
-            w.append(row); n += 1
-        for _ in range(int(sh.get("blank_rows", 20))): w.append([None])
-        if sh.get("total_row"): w.append(sh["total_row"]); [setattr(c, "font", Font(bold=True)) for c in w[w.max_row]]
-        for col in w.columns: w.column_dimensions[col[0].column_letter].width = 22
-        w.freeze_panes = "A2"
-    wb.save(path)
-    if p["type"] == "excel" and formulas < 3: raise RuntimeError("Excel ohne echte Formeln - verworfen")
-    return n
+    import excel_pro
+    formulas = excel_pro.build(p, path)
+    if formulas < 5: raise RuntimeError("Excel ohne echte Formeln - verworfen")
+    return sum(len(sh.get("rows", [])) for sh in p.get("sheets", []))
 
 def gen_image(prompt, out):
     """KI-Illustration ueber OpenRouter (Bildmodell). Gibt Kosten in EUR zurueck, 0 bei Fehler."""
@@ -262,13 +246,33 @@ def page(p):
     (ROOT/"site/products").mkdir(parents=True, exist_ok=True)
     (ROOT/"site/products"/f"{p['slug']}.html").write_text(html)
 
+def upgrade_excels(s, n=3):
+    """Alte Excel-Vorlagen auf Haiktec-Pro-Niveau neu bauen (gleicher Titel, gleicher Zahlungslink)."""
+    import secrets
+    for p in [x for x in s["products"] if x.get("type") == "excel" and not x.get("retired") and not x.get("pro") and x.get("file")][:n]:
+        try:
+            q, cost = llm_json(f"""{RULES}\nBaue die Excel-Vorlage "{p['title']}" (Zielgruppe {p.get('target')}, Sprache {p.get('language','de')}) komplett neu auf Profi-Niveau.
+Erstelle {TYPES['excel']}\nTitel und slug unveraendert lassen. Antworte NUR als JSON.""")
+            book(s, -max(cost, 0.001), f"Excel-Upgrade: {p['title'][:70]}")
+            q["type"] = "excel"; q["title"] = p["title"]; q["language"] = p.get("language", "de")
+            new = f"{p['slug']}-{secrets.token_hex(8)}.xlsx"; build_excel(q, ROOT/"site/dl"/new)
+            if p.get("payment_link_id") and os.getenv("STRIPE_SECRET_KEY"):
+                stripe("POST", f"payment_links/{p['payment_link_id']}", {"after_completion[type]": "redirect", "after_completion[redirect][url]": f"{SITE}/dl/{new}"})
+            old = ROOT/"site/dl"/p["file"]
+            if old.exists(): old.unlink()
+            p["file"], p["pro"], p["audit_v"] = new, True, None
+            if q.get("content_html"): p["content_html"] = q["content_html"]
+            s["log"].append({"t": now, "eur": 0, "why": f"Excel auf Pro-Niveau gebracht: {p['title'][:70]}"})
+        except Exception as e:
+            s["log"].append({"t": now, "eur": 0, "why": f"Excel-Upgrade-Fehler {p['slug'][:40]}: {str(e)[:150]}"}); p["pro"] = "fehler"
+
 def act(s, p):
     ok, verdict, cost = review(p); book(s, -max(cost, 0.001), f"KI-Pruefung: {p['title']}")
     if not ok: raise RuntimeError(f"Qualitaetspruefung nicht bestanden: {verdict}")
     fname, size = build_file(p)
     if p.get("_img_cost"): book(s, -p["_img_cost"], f"KI-Bilder: {p['title']}")
     rec = {k: p.get(k) for k in ("type", "title", "slug", "price_eur", "target", "reason", "language", "pitch", "content_html")}
-    rec |= {"created": now, "file": fname, "size": size, "sales": 0, "score": verdict.get("score"), "quality": 2}
+    rec |= {"pro": p["type"] == "excel", "created": now, "file": fname, "size": size, "sales": 0, "score": verdict.get("score"), "quality": 2}
     s["products"].append(rec)
 
 def sales_enabled():
@@ -416,6 +420,8 @@ def main():
             product, cost = think(s); book(s, -cost, f"KI-Denken: {product['title']}"); act(s, product); made += 1
         except Exception as e:
             s["log"].append({"t": now, "eur": 0, "why": f"Fehler (Versuch {attempt+1}): {str(e)[:300]}"})
+    try: upgrade_excels(s, CFG.get("excel_upgrades_per_run", 3))
+    except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Upgrade-Fehler: {str(e)[:200]}"})
     try:
         import audit; c, r = audit.run(s, limit=CFG.get("audit_per_run", 8))
         if c: s["log"].append({"t": now, "eur": 0, "why": f"Audit: {c} geprueft, {r} entfernt"})
