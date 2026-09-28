@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 498.762,
-  "spent_eur": 5.908,
+  "balance_eur": 497.9608,
+  "spent_eur": 6.7092,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -85,7 +85,8 @@
       },
       "audit_v": 2,
       "audit_score": 9,
-      "audit_note": "Produkt erfüllt alle Regeln: Keine erfundenen Zahlen/Quellen, keine Rechts-/Finanzberatung, klare Funktionsbeschreibung für Freelancer. Formeln und Beispiele sind praktisch und korrekt."
+      "audit_note": "Produkt erfüllt alle Regeln: Keine erfundenen Zahlen/Quellen, keine Rechts-/Finanzberatung, klare Funktionsbeschreibung für Freelancer. Formeln und Beispiele sind praktisch und korrekt.",
+      "pro": "fehler"
     },
     {
       "type": "ebook",
@@ -137,7 +138,8 @@
       },
       "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Produkt entspricht den Regeln: Keine erfundenen Zahlen/Studien, klare Struktur, praktische Excel-Vorlage ohne problematische Inhalte. Formeln sind funktional und sinnvoll. Alle Angaben entweder konkret auf den Nutzer bezogen oder allgemein bekannte Excel-Funktionen."
+      "audit_note": "Produkt entspricht den Regeln: Keine erfundenen Zahlen/Studien, klare Struktur, praktische Excel-Vorlage ohne problematische Inhalte. Formeln sind funktional und sinnvoll. Alle Angaben entweder konkret auf den Nutzer bezogen oder allgemein bekannte Excel-Funktionen.",
+      "pro": "fehler"
     },
     {
       "type": "ebook",
@@ -189,7 +191,8 @@
       },
       "audit_v": 2,
       "audit_score": 9,
-      "audit_note": "Keine erfundenen Studien oder Statistiken vorhanden. Alle Zahlen sind plausible Beispielwerte, die klar als solche erkennbar sind. Die Struktur des Excel-Tools ist logisch und nachvollziehbar."
+      "audit_note": "Keine erfundenen Studien oder Statistiken vorhanden. Alle Zahlen sind plausible Beispielwerte, die klar als solche erkennbar sind. Die Struktur des Excel-Tools ist logisch und nachvollziehbar.",
+      "pro": "fehler"
     },
     {
       "type": "ebook",
@@ -448,7 +451,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 2,
       "audit_score": 10,
-      "audit_note": "Der Inhalt entspricht den Regeln. Die Prozentzahl '19%' ist die allgemein bekannte Mehrwertsteuer in Deutschland und somit kein erfundenes Detail. Keine sachlichen Fehler, keine erfundenen Statistiken oder Quellen, keine rechtlichen oder finanziellen Beratungen, keine Markenverletzungen oder Gesundh"
+      "audit_note": "Der Inhalt entspricht den Regeln. Die Prozentzahl '19%' ist die allgemein bekannte Mehrwertsteuer in Deutschland und somit kein erfundenes Detail. Keine sachlichen Fehler, keine erfundenen Statistiken oder Quellen, keine rechtlichen oder finanziellen Beratungen, keine Markenverletzungen oder Gesundh",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4584094116"
+      }
     },
     {
       "type": "ebook",
@@ -471,7 +477,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 2,
       "audit_score": 10,
-      "audit_note": "Der Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken, Zahlen oder Quellen. Keine Regelverstöße erkennbar."
+      "audit_note": "Der Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken, Zahlen oder Quellen. Keine Regelverstöße erkennbar.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4584094138"
+      }
     },
     {
       "type": "excel",
@@ -494,7 +503,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 2,
       "audit_score": 9,
-      "audit_note": "Das Produkt erfüllt die angegebenen Kriterien: Keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Rechts- oder Finanzberatung, keine Marken Dritter. Es handelt sich um einen funktionalen Budget-Tracker und Planer mit klaren Anweisungen und korrekten Excel-Funktionen."
+      "audit_note": "Das Produkt erfüllt die angegebenen Kriterien: Keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Rechts- oder Finanzberatung, keine Marken Dritter. Es handelt sich um einen funktionalen Budget-Tracker und Planer mit klaren Anweisungen und korrekten Excel-Funktionen.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4584085485"
+      }
     },
     {
       "type": "ebook",
@@ -1437,199 +1449,81 @@
       "pay_url": "https://buy.stripe.com/7sYdRa7Ad3Xd1E2aMQ2kw13",
       "payment_link_id": "plink_1UKSsvJ5iOXkWb9VzC36L3K0",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Volunteer & Club Event Budget Tracker",
+      "slug": "volunteer-club-event-budget-tracker",
+      "price_eur": 9,
+      "target": "Small clubs & volunteer organizations (especially managed by women)",
+      "reason": "Many small clubs struggle with financial management, especially volunteer-run organizations. This template provides structure for non-financial people to track their limited resources effectively.",
+      "language": "en",
+      "pitch": "Effortlessly manage your club's finances with this professional budgeting tool. Track events, donations, and expenses in one centralized place with smart analytics.",
+      "content_html": "<h2>Content</h2><p>Comprehensive budget tracker with automated calculations for events, donor management, and expense tracking. Includes visual dashboards and ready-to-print financial reports.</p>",
+      "pro": true,
+      "created": "2026-09-28T06:29:59",
+      "file": "volunteer-club-event-budget-tracker-18a25234596d0f34.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Produkt entspricht den Regeln. Enthält keine erfundenen Statistiken, Prozentzahlen oder Quellen. Alle Formeln und Tabellen sind sinnvoll. Keine rechtlichen, finanziellen oder medizinischen Ratschläge. Sprache durchgängig Englisch. Beispielhafte Daten sind klar als solche erkennbar.",
+      "pay_url": "https://buy.stripe.com/bJe7sMbQtgJZeqOf362kw14",
+      "payment_link_id": "plink_1UKYBTJ5iOXkWb9Vj9wfnqFg",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners",
+      "slug": "paws-and-relax-stress-free-dog-care-tips",
+      "price_eur": 5,
+      "target": "female dog owners",
+      "reason": "Many female dog owners struggle to balance pet care with their busy lives. This ebook offers practical, actionable tips to simplify dog care, reduce stress, and strengthen the bond between owner and pet. At €5, it’s an affordable solution for women looking to improve their daily routine while ensuring their dog’s well-being.",
+      "language": "en",
+      "pitch": "Discover practical strategies to simplify dog care and reduce stress in your daily routine. This guide offers actionable tips for busy women to balance pet care with a hectic lifestyle.",
+      "content_html": "<h2>Content</h2><ul><li>Introduction: Why Your Dog Deserves the Best</li><li>Chapter 1: Time-Saving Morning Routines</li><li>Chapter 2: Efficient Feeding Strategies</li><li>Chapter 3: Quick and Fun Exercise Ideas</li><li>Chapter 4: Easy Grooming Hacks</li><li>Chapter 5: Managing Vet Visits Without Stress</li><li>Chapter 6: Turning Your Dog Into a Travel Companion</li></ul><h3>Preview</h3><p>Ever feel like taking care of your dog is adding stress to your already busy life? This guide is here to help...</p>",
+      "pro": false,
+      "created": "2026-09-28T06:29:59",
+      "file": "paws-and-relax-stress-free-dog-care-tips-c30b2e8bc6a7e109.pdf",
+      "size": 1874,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Das E-Book bietet allgemeine, praktische Ratschläge zur Hundepflege für beschäftigte Frauen. Es enthält keine erfundenen Statistiken, Quellen oder gesundheitsbezogenen Versprechen. Der Inhalt ist realistisch und rechtlich unbedenklich.",
+      "pay_url": "https://buy.stripe.com/7sY3cw9IlbpF4QebQU2kw15",
+      "payment_link_id": "plink_1UKYBUJ5iOXkWb9VEZhy0eOx",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Tiempo",
+      "slug": "planificador-mudanza-renovacion-autonomos",
+      "price_eur": 9,
+      "target": "Autónomos y pequeñas empresas que realizan mudanzas o renovaciones",
+      "reason": "Este planificador resuelve el caos típico de mudanzas/renovaciones con una herramienta profesional que ahorra tiempo y dinero a autónomos, permitiendo centrarse en su trabajo.",
+      "language": "es",
+      "pitch": "Controla cada aspecto de tu mudanza o proyecto de renovación con esta herramienta profesional. Optimiza tu presupuesto y tiempo con alertas automáticas.",
+      "content_html": "<h2>Incluye</h2><ul><li>Seguimiento detallado de gastos</li><li>Planificación de tareas con recordatorios</li><li>Visualización de progreso</li><li>Informes automáticos</li></ul>",
+      "pro": true,
+      "created": "2026-09-28T06:29:59",
+      "file": "planificador-mudanza-renovacion-autonomos-1b6512f7c057eb10.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen gefunden. Der Inhalt ist klar, relevant und entspricht den Regeln. Die Formeln und Tabellen sind sinnvoll und korrekt. Keine Rechts-, Steuer-, Finanz- oder Gesundheitsberatung. Keine Marken oder Figuren Dritter verwendet.",
+      "pay_url": "https://buy.stripe.com/14A14o3jX0L13Ma3ko2kw16",
+      "payment_link_id": "plink_1UKYBVJ5iOXkWb9Vfz7bpOYf",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583559672"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Freelancer-Invoice-Tracker für internationale Aufträge"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583559696"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Freelancer's Guide to Stress-Free Productivity"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583559704"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.009308399999999998,
-      "why": "KI-Denken: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.0035508,
-      "why": "KI-Pruefung: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.0038028,
-      "why": "KI-Denken: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.0010848,
-      "why": "KI-Pruefung: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.0120996,
-      "why": "KI-Denken: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.004194,
-      "why": "KI-Pruefung: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.04,
-      "why": "KI-Bilder: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.0011003999999999999,
-      "why": "Blog-Artikel: Bodensee (fr)"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.001584,
-      "why": "Blog-Artikel: Mosel Cochem (de)"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.0003984,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Umzugsbudget- und Zeitplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583571976"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstversorger"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583561471"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: YouTube Video Performance Tracker & Optimierungstool für Creator"
-    },
-    {
-      "t": "2026-09-27T10:42:36",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583561483"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.0037308,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Trip Planner for Families"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Trip Planner for Families"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.0037355999999999995,
-      "why": "KI-Denken: Berlin & Potsdam City Trip Planner for Women Travelers"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Berlin & Potsdam City Trip Planner for Women Travelers"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.0037415999999999994,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.010915199999999998,
-      "why": "KI-Denken: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.0035195999999999995,
-      "why": "KI-Pruefung: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.16,
-      "why": "KI-Bilder: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.004003199999999999,
-      "why": "KI-Denken: Calculadora de Presupuestos y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.0010236,
-      "why": "KI-Pruefung: Calculadora de Presupuestos y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.0010608,
-      "why": "Blog-Artikel: Heidelberg Altstadt (en)"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.0011664,
-      "why": "Blog-Artikel: Neuschwanstein (zh)"
-    },
-    {
-      "t": "2026-09-27T12:07:03",
-      "eur": -0.00034439999999999997,
-      "why": "Video-Skript: Neuschwanstein"
-    },
     {
       "t": "2026-09-27T17:01:01",
       "eur": -0.011187599999999999,
@@ -2444,6 +2338,196 @@
       "t": "2026-09-28T00:49:31",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583985482"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.005272799999999999,
+      "why": "KI-Denken: Membership Management & Event Budget Planner for Clubs & Volunteers"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.001254,
+      "why": "KI-Pruefung: Membership Management & Event Budget Planner for Clubs & Volunteers"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Benutzerfreundlichkeit könnte durch zusätzliche Automatisierungen verbessert werden'}"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0053016,
+      "why": "KI-Denken: Volunteer & Club Management Tracker: Membership, Finances & Events"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0011819999999999999,
+      "why": "KI-Pruefung: Volunteer & Club Management Tracker: Membership, Finances & Events"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0049499999999999995,
+      "why": "KI-Denken: Non-Profit Volunteer Management Tracker for Associations"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Non-Profit Volunteer Management Tracker for Associations"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.005148,
+      "why": "KI-Denken: Volunteer & Club Event Budget Tracker"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0010248,
+      "why": "KI-Pruefung: Volunteer & Club Event Budget Tracker"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.010565999999999999,
+      "why": "KI-Denken: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.003516,
+      "why": "KI-Pruefung: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.16,
+      "why": "KI-Bilder: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0056435999999999995,
+      "why": "KI-Denken: Planificador de Mudanza y Renovación - Control de Costos y Cronograma para Autónomos"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0015563999999999999,
+      "why": "KI-Pruefung: Planificador de Mudanza y Renovación - Control de Costos y Cronograma para Autónomos"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.005122799999999999,
+      "why": "KI-Denken: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Tiempo"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Tiempo"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0021671999999999998,
+      "why": "Excel-Upgrade: Stundentracker für Freelancer"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler stundentracker-freelancer: Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0035003999999999994,
+      "why": "Excel-Upgrade: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler kunden-rueckgewinnungs-tracker-fuer-klei: Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0022835999999999998,
+      "why": "Excel-Upgrade: Zeit- und Projektbudget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler zeit-und-projektbudget-tracker: Invalid column index 0"
+    },
+    {
+      "t": "2026-09-28T06:36:52",
+      "eur": -0.002034,
+      "why": "Audit: Volunteer & Club Event Budget Tracker"
+    },
+    {
+      "t": "2026-09-28T06:36:52",
+      "eur": -0.0032256,
+      "why": "Audit: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
+    },
+    {
+      "t": "2026-09-28T06:36:52",
+      "eur": -0.0023304,
+      "why": "Audit: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Ti"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0012599999999999998,
+      "why": "Blog-Artikel: Dresden Frauenkirche (fr)"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0013991999999999997,
+      "why": "Blog-Artikel: Harz Brocken (de)"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.0004056,
+      "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584094116"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584094138"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Hochzeitsbudget-Tracker & Planer für Paare"
+    },
+    {
+      "t": "2026-09-28T06:29:59",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584085485"
     }
   ],
   "alive": true,
@@ -2561,6 +2645,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-09-28T00:49:31",
       "img": true
+    },
+    {
+      "slug": "la-frauenkirche-de-dresde-un-joyau-baroque-a-decouvrir",
+      "title": "La Frauenkirche de Dresde: Un Joyau Baroque à Découvrir",
+      "lang": "fr",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-09-28T06:29:59",
+      "img": true
+    },
+    {
+      "slug": "harz-brocken-entdeckungstour-auf-dem-dach-des-harzes",
+      "title": "Harz Brocken: Entdeckungstour auf dem Dach des Harzes",
+      "lang": "de",
+      "topic": "Harz Brocken",
+      "created": "2026-09-28T06:29:59",
+      "img": true
     }
   ],
   "videos": [
@@ -2612,6 +2712,16 @@
       "hashtags": "#BrandenburgerTor #Berlín #Alemania #Viajar #Monumentos",
       "voice": "¡El imponente Brandenburger Tor! Este monumento histórico, con su majestuosa arquitectura neoclásica, es el corazón simbólico de Berlín. Por sus columnas han pasado siglos de historia, desde Napoleón hasta la caída del Muro. Hoy es escenario de celebraciones vibrantes y un must para todo visitante. ¡No olvides tu cámara para capturar su grandeza al atardecer!",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "harz-brocken-entdeckungstour-auf-dem-dach-des-harzes",
+      "title": "Harz Brocken: Entdeckungstour auf dem Dach des Harzes",
+      "lang": "de",
+      "created": "2026-09-28T06:29:59",
+      "hashtags": "#Harz #Brocken #Wandern #Natur #Deutschland",
+      "voice": "Der Brocken – der höchste Berg des Harzes und ein Ort voller Magie! Ob mit der historischen Brockenbahn oder zu Fuß – hier erwarten euch atemberaubende Panoramen und geheimnisvolle Geschichten. Die unberührte Natur lädt zum Wandern und Entdecken ein. Ein unvergessliches Erlebnis für alle, die die Seele baumeln lassen möchten. Kommt und erlebt den Zauber des Brockens!",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
