@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 499.7181,
-  "spent_eur": 4.9519,
+  "balance_eur": 498.762,
+  "spent_eur": 5.908,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -370,7 +370,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 2,
       "audit_score": 9,
-      "audit_note": "Inhalt entspricht den Regeln: keine spezifischen Studien, Statistiken oder Prozentzahlen angegeben, keine rechtlichen oder gesundheitlichen Ratschläge, keine unerlaubten Markennennungen. Die genannten Tools sind allgemein bekannt und der Text ist vollständig sowie sachlich korrekt."
+      "audit_note": "Inhalt entspricht den Regeln: keine spezifischen Studien, Statistiken oder Prozentzahlen angegeben, keine rechtlichen oder gesundheitlichen Ratschläge, keine unerlaubten Markennennungen. Die genannten Tools sind allgemein bekannt und der Text ist vollständig sowie sachlich korrekt.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583985442"
+      }
     },
     {
       "type": "excel",
@@ -393,7 +396,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Zahlen/Studien, klare Funktionsbeschreibung, Beispieltabelle sinnvoll, keine Regelverstöße. Lediglich die Preisangabe könnte konkretisiert sein (z. B. '7€' statt nur '7')."
+      "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Zahlen/Studien, klare Funktionsbeschreibung, Beispieltabelle sinnvoll, keine Regelverstöße. Lediglich die Preisangabe könnte konkretisiert sein (z. B. '7€' statt nur '7').",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583976837"
+      }
     },
     {
       "type": "ebook",
@@ -416,7 +422,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 2,
       "audit_score": 8,
-      "audit_note": "Gute Praxistipps, aber einige spezifische Prozentangaben ohne klare Quellenangabe. Insgesamt jedoch nützliche und legitime Inhalte für Selbstständige."
+      "audit_note": "Gute Praxistipps, aber einige spezifische Prozentangaben ohne klare Quellenangabe. Insgesamt jedoch nützliche und legitime Inhalte für Selbstständige.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4583985482"
+      }
     },
     {
       "type": "excel",
@@ -1359,139 +1368,78 @@
       "pay_url": "https://buy.stripe.com/dRm14o5s51P5ciG9IM2kw10",
       "payment_link_id": "plink_1UKPhpJ5iOXkWb9V6h7WWT1m",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Your Sales",
+      "slug": "little-cafe-success-book-families",
+      "price_eur": 7,
+      "target": "Small café owners who want to attract more family customers and create a kid-friendly atmosphere while maintaining profitability",
+      "reason": "Existing products show families are underserved in café guides. This fills a gap with practical, low-cost solutions café owners can implement immediately without renovations or staff training. The price point justifies with ready-to-use ideas that could increase sales from day one.",
+      "language": "en",
+      "pitch": "Transform your café into a family favorite without breaking the bank. Discover clever ways to welcome children while keeping adult customers happy.",
+      "content_html": "<h2>Content</h2><h3>Introduction: Why Families Are Your Best Customers</h3><p>An eye-opening look at why family customers bring more than just cupcake sales...</p><h3>Chapter List:</h3><ol><li>The Magic of the Welcome Kit</li><li>Kid-Approved Menu Hacks</li><li>Quick-Clean Solutions for Busy Moments</li><li>Turning Waiting Time into Fun (and Sales)</li><li>Parent-Friendly Features That Boost Orders</li><li>Seasonal Promotions That Families Love</li><li>Building Traditions That Bring Them Back</li></ol>",
+      "created": "2026-09-28T00:49:31",
+      "file": "little-cafe-success-book-families-918e614a611b206a.pdf",
+      "size": 1589,
+      "sales": 0,
+      "score": 9,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Inhalt ist legal, ehrlich und frei von erfundenen Studien, Statistiken oder Prozentzahlen. Keine unfertigen Texte, Platzhalter oder sachlichen Fehler. Richtet sich klar an allgemein bekanntes Wissen und bietet praktische Tipps.",
+      "pay_url": "https://buy.stripe.com/7sYaEY7AdfFVciGbQU2kw11",
+      "payment_link_id": "plink_1UKSsuJ5iOXkWb9VPQfbhe1y",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Edition)",
+      "slug": "reise-packlisten-planer-budget-tracker-selbststaendige",
+      "price_eur": 9,
+      "target": "Selbstständige und Freelancer, die häufig geschäftlich reisen und ihre Reisevorbereitungen optimieren möchten",
+      "reason": "Viele Selbstständige müssen häufig reisen und verlieren wertvolle Zeit durch unorganisierte Packprozesse und unkontrollierte Reisekosten. Diese kombinierte Vorlage löst beide Probleme und spart so Zeit und Geld.",
+      "language": "de",
+      "pitch": "Vermeiden Sie vergessene Dinge und ungeplante Ausgaben mit dieser cleveren Packlisten- und Reisebudget-Kombi vorlage. Behalten Sie alle wichtigen Aspekte Ihrer Dienstreisen im Blick.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage kombiniert eine intelligente Packliste mit einem detaillierten Reisebudget-Tracker, speziell für selbstständige Reisende.</p>",
+      "created": "2026-09-28T00:49:31",
+      "file": "reise-packlisten-planer-budget-tracker-selbststaendige-3bdc7fca549e53c9.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Klare Anleitung ohne Rechts-/Finanzberatung. Keine Marken Dritter. Formeln funktional und sinnvoll. Beispielhafte Einträge klar erkennbar.",
+      "pay_url": "https://buy.stripe.com/4gMeVe8EhctJdmK5sw2kw12",
+      "payment_link_id": "plink_1UKSsvJ5iOXkWb9VA5EMyl4Q",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit",
+      "slug": "etsy-erfolgsplan-fuer-online-haendler",
+      "price_eur": 5,
+      "target": "Online-Händler und Etsy-Verkäufer",
+      "reason": "Dieses E-Book bietet konkrete, leicht umsetzbare Strategien für Etsy-Verkäufer, die ihre Sichtbarkeit und Verkäufe steigern möchten. Es ist speziell auf die Bedürfnisse von Online-Händlern zugeschnitten und bietet praktische Beispiele und Tipps.",
+      "language": "de",
+      "pitch": "Mit diesem E-Book lernen Sie, wie Sie Ihre Etsy-Verkäufe steigern und Ihre Produkte besser vermarkten können – ganz ohne teure Werbekampagnen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einleitung: Warum Etsy?</li><li>Kapitel 1: Optimierung Ihres Shops</li><li>Kapitel 2: Die perfekten Produktbilder</li><li>Kapitel 3: Effektive SEO-Strategien</li><li>Kapitel 4: Kundengewinnung und -bindung</li><li>Kapitel 5: Nutzung von Social Media</li><li>Kapitel 6: Analysen und Anpassungen</li></ul>",
+      "created": "2026-09-28T00:49:31",
+      "file": "etsy-erfolgsplan-fuer-online-haendler-8f36455dad5497e3.pdf",
+      "size": 1658,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 2,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist allgemein gehalten und enthält keine erfundenen Statistiken oder Prozentzahlen. Es werden praktische Tipps gegeben, ohne gegen die Regeln zu verstoßen. Der Text ist auf Deutsch und vollständig, ohne Platzhalter oder unfertige Stellen.",
+      "pay_url": "https://buy.stripe.com/7sYdRa7Ad3Xd1E2aMQ2kw13",
+      "payment_link_id": "plink_1UKSsvJ5iOXkWb9VzC36L3K0",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Seniorenmedikations- & Pflegeplanungs-Tracker"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0033059999999999995,
-      "why": "KI-Denken: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0094476,
-      "why": "KI-Denken: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0042239999999999995,
-      "why": "KI-Pruefung: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.16,
-      "why": "KI-Bilder: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0014063999999999997,
-      "why": "Blog-Artikel: Schwarzwald (de)"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.0010524,
-      "why": "Blog-Artikel: Saarland Saarschleife (en)"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583542433"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583552794"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Zeit- und Projektbudget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T09:43:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583542459"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.0036743999999999995,
-      "why": "KI-Denken: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides Touristiques"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.0010823999999999999,
-      "why": "KI-Pruefung: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides Touristiques"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.010595999999999998,
-      "why": "KI-Denken: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle en 7 Étapes Faciles"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.0042084,
-      "why": "KI-Pruefung: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle en 7 Étapes Faciles"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle en 7 Étapes Faciles"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.003276,
-      "why": "KI-Denken: Ultimate City Trip Planner for Families in NRW"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate City Trip Planner for Families in NRW"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.0010103999999999998,
-      "why": "Blog-Artikel: Koeln Dom (zh)"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.0014844,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (es)"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.0003852,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-09-27T10:07:15",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
-    },
     {
       "t": "2026-09-27T10:07:15",
       "eur": 0,
@@ -2361,6 +2309,141 @@
       "t": "2026-09-27T21:23:13",
       "eur": -0.00035999999999999997,
       "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.009684,
+      "why": "KI-Denken: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Your Sales"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.0034943999999999995,
+      "why": "KI-Pruefung: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Your Sales"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Your Sales"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.0041544,
+      "why": "KI-Denken: Reisebudget-Tracker & Packlisten-Manager für stressfreie Urlaube"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Reisebudget-Tracker & Packlisten-Manager für stressfreie Urlaube"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.0043452,
+      "why": "KI-Denken: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Edition)"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.0010631999999999998,
+      "why": "KI-Pruefung: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Edition)"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.011124,
+      "why": "KI-Denken: Der Etsy-Verkaufsbooster: 7 bewährte Strategien für mehr Sichtbarkeit und Umsatz"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.004285199999999999,
+      "why": "KI-Pruefung: Der Etsy-Verkaufsbooster: 7 bewährte Strategien für mehr Sichtbarkeit und Umsatz"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (1486 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.0118704,
+      "why": "KI-Denken: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.0043343999999999995,
+      "why": "KI-Pruefung: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.16,
+      "why": "KI-Bilder: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-09-28T00:57:27",
+      "eur": -0.0032112,
+      "why": "Audit: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Yo"
+    },
+    {
+      "t": "2026-09-28T00:57:27",
+      "eur": -0.0012024,
+      "why": "Audit: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Ed"
+    },
+    {
+      "t": "2026-09-28T00:57:27",
+      "eur": -0.0039168,
+      "why": "Audit: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.0006803999999999998,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (zh)"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.0012816,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (es)"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.00036839999999999996,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tutors"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583985442"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Pflegezeit- und Kostenplaner für pflegende Angehörige"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583976837"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbstständige"
+    },
+    {
+      "t": "2026-09-28T00:49:31",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583985482"
     }
   ],
   "alive": true,
@@ -2462,6 +2545,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-09-27T21:23:13",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-germany-travel-guide",
+      "title": "德国罗滕堡：童话般的中世纪小镇漫游指南",
+      "lang": "zh",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-09-28T00:49:31",
+      "img": true
+    },
+    {
+      "slug": "brandenburger-tor-berlin-consejos-viaje",
+      "title": "El impresionante Brandenburger Tor en Berlín: Consejos y experiencias",
+      "lang": "es",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-09-28T00:49:31",
+      "img": true
     }
   ],
   "videos": [
@@ -2503,6 +2602,16 @@
       "hashtags": "#FrankfurtSkyline #GermanyTravel #CityViews #EuropeDestination #MainRiver",
       "voice": "Welcome to Frankfurt, where history and innovation collide! Marvel at the breathtaking skyline, home to Europe’s tallest skyscrapers. Stroll along the Main River, soaking in views of iconic landmarks like the Main Tower and historic Römer. Experience the vibrant energy of Germany’s financial heart, blended with cultural treasures and green spaces. Frankfurt is more than a destination—it’s an adventure waiting for you!",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "brandenburger-tor-berlin-consejos-viaje",
+      "title": "El impresionante Brandenburger Tor en Berlín: Consejos y experiencias",
+      "lang": "es",
+      "created": "2026-09-28T00:49:31",
+      "hashtags": "#BrandenburgerTor #Berlín #Alemania #Viajar #Monumentos",
+      "voice": "¡El imponente Brandenburger Tor! Este monumento histórico, con su majestuosa arquitectura neoclásica, es el corazón simbólico de Berlín. Por sus columnas han pasado siglos de historia, desde Napoleón hasta la caída del Muro. Hoy es escenario de celebraciones vibrantes y un must para todo visitante. ¡No olvides tu cámara para capturar su grandeza al atardecer!",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
