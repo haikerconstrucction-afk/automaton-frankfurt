@@ -354,7 +354,7 @@ FOOT = """<footer class="foot"><div class="wrap"><span>© 2026 Haiktec · Marcel
 HEAD = """<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title><meta name="description" content="{desc}"><link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600&display=swap" rel="stylesheet">
-<link rel="icon" href="{r}favicon.png"><link rel="stylesheet" href="{r}style.css"></head><body><header class="top"><div class="wrap"><a class="brand" href="{r}index.html"><img src="{r}icon.png" alt="Haiktec" width="32" height="32" style="border-radius:6px">Haiktec</a><nav><a href="{r}index.html#produkte">Produkte</a><a href="{r}blog/index.html">Blog</a><a href="{r}videos/">Videos</a><a href="{r}begleiter/">KI-Begleiter</a><a href="{r}impressum.html">Kontakt</a></nav></div></header>"""
+<link rel="icon" href="{r}favicon.png"><link rel="stylesheet" href="{r}style.css"></head><body><header class="top"><div class="wrap"><a class="brand" href="{r}index.html"><img src="{r}icon.png" alt="Haiktec" width="32" height="32" style="border-radius:6px">Haiktec</a><nav><a href="{r}index.html#produkte">Produkte</a><a href="{r}blog/index.html">Blog</a><a href="{r}ki-sichtbarkeit/">Für Firmen</a><a href="{r}videos/">Videos</a><a href="{r}begleiter/">KI-Begleiter</a><a href="{r}portal/">Login</a></nav></div></header>"""
 
 def card(p):
     cur = "$" if p.get("language") == "en" else "€"
@@ -372,7 +372,7 @@ def storefront(s):
 <section id="produkte" class="wrap"><h2>Produkte</h2><div class="grid">{cards}</div></section>""" + FOOT.format(r="") + "</body></html>")
 
 def seo_files(s):
-    urls = [f"{SITE}/index.html"] + [f"{SITE}/products/{p['slug']}.html" for p in s["products"] if not p.get("retired") and p.get("pay_url")] + [f"{SITE}/blog/index.html", f"{SITE}/videos/index.html", f"{SITE}/begleiter/"] + [f"{SITE}/blog/{b['slug']}.html" for b in s.get("blog", [])]
+    urls = [f"{SITE}/index.html"] + [f"{SITE}/products/{p['slug']}.html" for p in s["products"] if not p.get("retired") and p.get("pay_url")] + [f"{SITE}/blog/index.html", f"{SITE}/videos/index.html", f"{SITE}/begleiter/", f"{SITE}/ki-sichtbarkeit/", f"{SITE}/steuerbuero/", f"{SITE}/immobilien/", f"{SITE}/handwerk/"] + [f"{SITE}/blog/{b['slug']}.html" for b in s.get("blog", [])]
     (ROOT/"site/sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
         + "".join(f"<url><loc>{u}</loc><lastmod>{now[:10]}</lastmod></url>" for u in urls) + "</urlset>")
     (ROOT/"site/robots.txt").write_text(f"User-agent: *\nAllow: /\nDisallow: /dl/\nDisallow: /status.html\nSitemap: {SITE}/sitemap.xml\n")
@@ -399,6 +399,8 @@ def render(s):
     status = "LEBT" if s["alive"] else "TOT"
     try: begleiter(s)
     except Exception as e: s["log"].append({"t": now, "eur": 0, "why": f"Begleiter-Fehler: {str(e)[:200]}"})
+    try: import branchen; branchen.build(HEAD, FOOT)
+    except Exception as e: print("Branchen:", e)
     storefront(s); seo_files(s)
     try:
         import channels; channels.sync_all(s, log=lambda m: s["log"].append({"t": now, "eur": 0, "why": m}), book=lambda e, w: book(s, e, w))
