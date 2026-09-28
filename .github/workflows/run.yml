@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: pip install -q openpyxl reportlab pillow edge-tts pypdf && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg >/dev/null
+      - run: pip install -q openpyxl reportlab pillow edge-tts pypdf && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg libreoffice-calc-nogui >/dev/null
       - run: python automaton/core.py
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}

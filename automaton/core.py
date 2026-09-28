@@ -122,6 +122,12 @@ def build_excel(p, path):
     import excel_pro
     formulas = excel_pro.build(p, path)
     if formulas < 5: raise RuntimeError("Excel ohne echte Formeln - verworfen")
+    chk = excel_pro.recalc_check(path)
+    if chk:
+        if chk["errors"]: raise RuntimeError(f"Excel mit {chk['errors']} Formelfehlern - verworfen")
+        p["_kpi_values"] = chk["kpis"]
+        vals = [v for _, v in chk["kpis"] if isinstance(v, (int, float))]
+        if chk["kpis"] and vals and all(v == 0 for v in vals): raise RuntimeError("Excel-Kennzahlen alle 0 - verworfen")
     return sum(len(sh.get("rows", [])) for sh in p.get("sheets", []))
 
 def gen_image(prompt, out):

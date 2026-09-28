@@ -2,7 +2,7 @@
 import json, re, os, sys, pathlib
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 import core
-AUDIT_V = 2
+AUDIT_V = 3
 SUSPECT = re.compile(r"(studie|study|umfrage|survey|laut .{0,40}(universit|institut)|universit(ä|a)t .{0,30}\(20\d\d\)|\b\d{1,3}\s?%\s|prozent|percent|according to|forscher|researchers|statistik)", re.I)
 
 def text_of(p):
@@ -33,6 +33,12 @@ def text_of(p):
                 vals.append(str(v)[:400])
             if vals: out.append(" | ".join(vals))
     if formulas < 3: issues.append(f"nur {formulas} Formeln")
+    try:
+        import excel_pro; chk = excel_pro.recalc_check(f)
+        if chk:
+            if chk["errors"]: issues.append(f"{chk['errors']} Formelfehler")
+            out.append("## Berechnete Kennzahlen (pruefe Plausibilitaet gegen die Beispieldaten!): " + str(chk["kpis"]))
+    except Exception as e: print("recalc:", e)
     if errs: issues.append(f"{errs} Fehlerwerte")
     return "\n".join(out), issues
 

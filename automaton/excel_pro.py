@@ -35,6 +35,10 @@ def conv(x, typ):
 
 def build(p, path):
     lang = p.get("language", "de"); T = L.get(lang, L["en"])
+    if lang == "en":  # englische Produkte werden in USD verkauft
+        for sh in p.get("sheets", []): sh["types"] = ["usd" if t == "eur" else t for t in (sh.get("types") or [])]
+        for k in p.get("kpis") or []:
+            if isinstance(k, dict) and k.get("type") == "eur": k["type"] = "usd"
     wb = Workbook(); st = wb.active; st.title = T[0]; used = {T[0], T[1]}
     st.sheet_view.showGridLines = False
     st.column_dimensions["A"].width = 3; st.column_dimensions["B"].width = 11; st.column_dimensions["C"].width = 95
@@ -47,7 +51,7 @@ def build(p, path):
     st["C3"] = p.get("pitch", ""); st["C3"].font = Font(size=11, color=GR); st["C3"].alignment = Alignment(wrap_text=True)
     st.row_dimensions[3].height = 45
     r = 5; st.cell(r, 3, T[2]).font = Font(bold=True, size=13, color=G); r += 1
-    for i, g in enumerate(p.get("guide", [])[:10], 1):
+    for i, g in enumerate([re.sub(r"^\s*\d+[.)]\s*", "", str(x)) for x in p.get("guide", [])[:10]], 1):
         st.cell(r, 2, f"{i}."); st.cell(r, 2).font = Font(bold=True, color=G); st.cell(r, 2).alignment = Alignment(horizontal="right", vertical="top")
         c = st.cell(r, 3, g); c.alignment = Alignment(wrap_text=True, vertical="top"); st.row_dimensions[r].height = max(18, 15 * (len(g) // 80 + 1)); r += 1
     r += 1; st.cell(r, 3, T[5]).font = Font(italic=True, color=GR); r += 2
@@ -165,3 +169,18 @@ def build(p, path):
     wb.save(path)
     f = sum(1 for ws in wb.worksheets for row in ws.iter_rows() for c in row if isinstance(c.value, str) and c.value.startswith("="))
     return f
+
+
+def recalc_check(path):
+    """Mit LibreOffice neu berechnen: Fehlerwerte zaehlen, KPI-Werte zurueckgeben."""
+    import subprocess, tempfile, openpyxl, shutil
+    if not shutil.which("soffice"): return None
+    d = tempfile.mkdtemp()
+    subprocess.run(["soffice", "--headless", "--calc", "--convert-to", "xlsx", "--outdir", d, str(path)], capture_output=True, timeout=120)
+    out = pathlib.Path(d)/pathlib.Path(path).name
+    if not out.exists(): return None
+    wb = openpyxl.load_workbook(out, data_only=True)
+    errs = sum(1 for ws in wb.worksheets for row in ws.iter_rows() for c in row if isinstance(c.value, str) and c.value.startswith("#") and c.value[1:4].isupper())
+    db = wb.worksheets[1]
+    kpis = [(db.cell(r, 2).value, db.cell(r, 3).value) for r in range(5, 14) if db.cell(r, 2).value]
+    return {"errors": errs, "kpis": kpis}
