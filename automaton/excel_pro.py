@@ -55,7 +55,8 @@ def build(p, path):
     formula_cols, sheets = {}, []
     for sh in p.get("sheets", [])[:6]:
         name = safe_name(sh.get("name", "Daten"), used); ws = wb.create_sheet(name); sheets.append((name, ws, sh))
-        cols = sh.get("columns", [])
+        cols = [c for c in sh.get("columns", []) if str(c).strip()]
+        if not cols: wb.remove(ws); sheets.pop(); continue
         types = sh.get("types") or ["text"] * len(cols)
         types = (types + ["text"] * len(cols))[:len(cols)]
         heads = [str(c)[:40] or f"Spalte{i+1}" for i, c in enumerate(cols)]
@@ -64,6 +65,13 @@ def build(p, path):
         rows = sh.get("rows", [])[:300]
         blank = min(int(sh.get("blank_rows", 30) or 30), 200)
         fcols = {}
+        tm = {}
+        for cname, f in (sh.get("formulas") or {}).items():
+            if cname in heads and isinstance(f, str) and f.startswith("="): tm[heads.index(cname)] = f
+        if tm:
+            rows = [list(rr) + [None] * (len(cols) - len(rr)) for rr in rows]
+            for i, rr in enumerate(rows):
+                for j, f in tm.items(): rr[j] = f.replace("{r}", str(i + 2))
         for rr in rows:
             for j, x in enumerate(rr[:len(cols)]):
                 if isinstance(x, str) and x.startswith("="): fcols.setdefault(j, x)
@@ -155,5 +163,5 @@ def build(p, path):
     wb.active = 0
     wb.properties.creator = "Haiktec"; wb.properties.title = p["title"]
     wb.save(path)
-    f = sum(1 for _, ws, _ in sheets for row in ws.iter_rows() for c in row if isinstance(c.value, str) and c.value.startswith("="))
+    f = sum(1 for ws in wb.worksheets for row in ws.iter_rows() for c in row if isinstance(c.value, str) and c.value.startswith("="))
     return f

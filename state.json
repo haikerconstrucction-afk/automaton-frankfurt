@@ -86,7 +86,7 @@
       "audit_v": 2,
       "audit_score": 9,
       "audit_note": "Produkt erfüllt alle Regeln: Keine erfundenen Zahlen/Quellen, keine Rechts-/Finanzberatung, klare Funktionsbeschreibung für Freelancer. Formeln und Beispiele sind praktisch und korrekt.",
-      "pro": "fehler"
+      "pro": null
     },
     {
       "type": "ebook",
@@ -139,7 +139,7 @@
       "audit_v": 2,
       "audit_score": 8,
       "audit_note": "Produkt entspricht den Regeln: Keine erfundenen Zahlen/Studien, klare Struktur, praktische Excel-Vorlage ohne problematische Inhalte. Formeln sind funktional und sinnvoll. Alle Angaben entweder konkret auf den Nutzer bezogen oder allgemein bekannte Excel-Funktionen.",
-      "pro": "fehler"
+      "pro": null
     },
     {
       "type": "ebook",
@@ -192,7 +192,7 @@
       "audit_v": 2,
       "audit_score": 9,
       "audit_note": "Keine erfundenen Studien oder Statistiken vorhanden. Alle Zahlen sind plausible Beispielwerte, die klar als solche erkennbar sind. Die Struktur des Excel-Tools ist logisch und nachvollziehbar.",
-      "pro": "fehler"
+      "pro": null
     },
     {
       "type": "ebook",

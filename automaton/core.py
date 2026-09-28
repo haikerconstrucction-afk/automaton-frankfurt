@@ -65,10 +65,10 @@ TYPES = {
 {"type":"excel","title":"...","slug":"kebab-case","price_eur":9,"target":"...","language":"de|en|es|fr|zh","pitch":"2 Saetze","content_html":"<h2>Inhalt</h2>...",
 "guide":["5-8 kurze Schritte"],
 "sheets":[{"name":"max 25 Zeichen, ohne Sonderzeichen","columns":["Datum","Kategorie","Menge","Preis","Summe"],"types":["date","text","number","eur","eur"],
-  "rows":[["2026-01-15","Material",3,"12.50","=C2*D2"]],"blank_rows":60,"dropdowns":[{"column":"Kategorie","options":["Material","Arbeit","Sonstiges"]}]}],
+  "rows":[["2026-01-15","Material",3,"12.50",""]],"formulas":{"Summe":"=C{r}*D{r}"},"blank_rows":60,"dropdowns":[{"column":"Kategorie","options":["Material","Arbeit","Sonstiges"]}]}],
 "kpis":[{"label":"Gesamtsumme","formula":"=SUM('Blattname'!E2:E300)","type":"eur"},{"label":"Anzahl Eintraege","formula":"=COUNTA('Blattname'!A2:A300)","type":"int"}],
 "chart":{"sheet":"Blattname","category_column":"Kategorie","value_column":"Summe","type":"bar|pie|line","title":"..."},"reason":"..."}
-Regeln: 2-4 Blaetter. types je Spalte aus: text,date,eur,usd,number,int,percent,hours. Formeln als Strings mit '=' (englische Funktionsnamen, Komma), in JEDER Beispielzeile mit passender Zeilennummer.
+Regeln: 2-4 Blaetter. types je Spalte aus: text,date,eur,usd,number,int,percent,hours. PFLICHT: pro Datenblatt mind. 1 berechnete Spalte ueber "formulas" (Spaltenname -> Formel mit {r} als Platzhalter fuer die Zeilennummer, englische Funktionsnamen, Komma als Trenner), z. B. Summe, Differenz, Tage bis Frist (=D{r}-TODAY()), Status (=IF(E{r}>0,"offen","erledigt")).
 Mind. 8 realistische Beispielzeilen (Datum 2026, ISO-Format). 4-6 KPIs fuer das Dashboard mit Formeln wie SUM, SUMIF, COUNTIF, AVERAGE, MAX ueber die Blaetter (Blattnamen in einfachen Anfuehrungszeichen).
 Dropdowns fuer Status-/Kategorie-Spalten. Keine erfundenen Steuersaetze ausser allgemein bekannten.""",
  "ebook": """ein kurzes E-Book (Ratgeber mit konkreten Schritten ODER eine Sammlung origineller Kurzgeschichten, z.B. Gute-Nacht-Geschichten fuer Kinder). JSON:
