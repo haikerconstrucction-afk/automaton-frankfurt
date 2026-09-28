@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 497.0864,
-  "spent_eur": 7.5836,
+  "balance_eur": 496.8323,
+  "spent_eur": 7.8377,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -537,9 +537,9 @@
       "pay_url": "https://buy.stripe.com/5kQ6oI2fTeBR6Ym08c2kw0k",
       "payment_link_id": "plink_1UKCFbJ5iOXkWb9VnG7la9hf",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Einige Prozentzahlen wurden ohne klare Quellenangabe verwendet, wahrscheinlich frei erfunden. Der Rest des Inhalts ist jedoch praktisch und nützlich, ohne spezifische Beratung oder fragwürdige Behauptungen."
+      "audit_note": "Einige Prozentzahlen (50%, 6%, 70%, 85%) wurden als auffällig markiert, aber im geprüften Textabschnitt nicht gefunden. Der Inhalt enthält keine konkreten, unbelegten Statistiken oder Studien. Es handelt sich um allgemeine Ratschläge ohne Fachberatung."
     },
     {
       "type": "excel",
@@ -550,9 +550,9 @@
       "reason": "Fitness-Profis benötigen effiziente Tools zur Trainingsdokumentation. Diese Vorlage automatisiert aufwendige Berechnungen und bietet sofortige visuelle Feedbackmechanismen, was den Zeitaufwand für Trainingsanalysen halbiert.",
       "language": "de",
       "pitch": "Professionelle Trainingsdokumentation mit automatischen Auswertungen. Spare Zeit bei der Kundenbetreuung durch intelligente Fortschrittsanalyse.",
-      "content_html": "<h2>Inhalt</h2><p>Automatisierte Trainingsprotokolle, Leistungsfortschritts-Analyse, Körpermaß-Tracker, Belastungssteuerung mit integrierter Ampelfunktion</p>",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft dir, die Fortschritte deiner Kunden zu verfolgen, Trainingspläne zu organisieren und Erfolge zu messen. Nutze sie zur effizienten Kundenverwaltung und zur Steigerung deiner Professionalität.</p>",
       "created": "2026-09-27T07:04:08",
-      "file": "smart-fitness-progress-tracker-4358e4cb5c6b139d.xlsx",
+      "file": "smart-fitness-progress-tracker-821aabab258a9b4e.xlsx",
       "size": 8,
       "sales": 0,
       "score": 8,
@@ -560,9 +560,10 @@
       "pay_url": "https://buy.stripe.com/9B6aEY2fT0L16Ymf362kw0l",
       "payment_link_id": "plink_1UKCFcJ5iOXkWb9VEvTzgSza",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Produkt entspricht den Regeln, aber einige Formeln könnten nicht für alle Nutzer intuitiv sein (z. B. Trendberechnung ohne klare Anleitung)."
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt erfüllt alle Anforderungen: Keine erfundenen Studien, Statistiken oder Quellen, klare Funktionsbeschreibung ohne Gesundheitsversprechen oder Rechtsberatung, korrekte Beispielwerte ohne irreführende Angaben.",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -583,9 +584,9 @@
       "pay_url": "https://buy.stripe.com/fZu4gAdYBalBeqO9IM2kw0m",
       "payment_link_id": "plink_1UKCFdJ5iOXkWb9VMmN3TSbn",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Der Inhalt bietet praktische Tipps ohne konkrete Rechts- oder Steuerberatung. Die Sprache ist einheitlich Deutsch und der Inhalt ist vollständig."
+      "audit_note": "Keine klaren Regelverstöße gefunden. Der Inhalt enthält praktische Tipps ohne erfundene Statistiken oder Prozentzahlen. Die Empfehlungen sind allgemein gehalten und basieren auf nachvollziehbaren Praxiserfahrungen."
     },
     {
       "type": "excel",
@@ -603,12 +604,14 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/fZu6oI3jXeBRgyW6wA2kw0r",
       "payment_link_id": "plink_1UKD3sJ5iOXkWb9VcxJOiJZK",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 10,
-      "audit_note": "Keine erfundenen Studien, Statistiken, Prozentzahlen, Quellen oder Zitate gefunden. Sprache korrekt, keine Platzhalter oder Wiederholungen. Keine sachlichen Fehler, Beratung oder Gesundheitsversprechen. Formeln und Tabellen sind sinnvoll und logisch."
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Die Beispiel-Daten sind klar als solche markiert. Der Inhalt hält sich an die Regeln und bietet praktische Excel-Vorlagen für Studierende.",
+      "pro": "fehler",
+      "retired": true,
+      "retired_why": "9 Formelfehler; Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Die Beispiel-Daten sind klar als solche markiert. Der Inhalt hält sich an die Regeln und bietet praktische Excel-Vorlagen für Studierende."
     },
     {
       "type": "ebook",
@@ -629,9 +632,9 @@
       "pay_url": "https://buy.stripe.com/eVq9AU9Il65lciG6wA2kw0s",
       "payment_link_id": "plink_1UKD3tJ5iOXkWb9VMBeupOae",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Der Inhalt hält sich an die Regeln und vermeidet erfundene Studien, Statistiken oder konkrete Prozentangaben. Die Tipps sind praxisnah und allgemein gültig, ohne spezifische Rechts- oder Finanzberatung zu geben. Es werden keine Marken Dritter als Empfehlung genannt, sondern nur allgemeine Kategorien"
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Sprache korrekt und einheitlich. Keine sachlichen Fehler oder unerlaubten Beratungen. Inhalte sind praxisnah und allgemein bekannt."
     },
     {
       "type": "excel",
@@ -642,9 +645,9 @@
       "reason": "Reisekosten sind für Selbständige ein häufiger Abrechnungsposten, aber viele tracken sie ungenau. Diese Vorlage schafft Systematik, spart Zeit bei der Steuererklärung und hilft bei der Reiseplanung.",
       "language": "de",
       "pitch": "Plan your business trips efficiently and track all expenses automatically. Perfect for tax deductions and client billing.",
-      "content_html": "<h2>Inhalt</h2><p>Reisekalender, Transportkosten-Tracker, Unterkunftsübersicht, tägliche Ausgaben, Mahlzeiten-Erstattung, Kilometerpauschale, automatische Summen</p>",
+      "content_html": "<h2>Inhalt</h2><p>Reiseplanung, Ausgaben-Tracking, Kilometerbuchung, Spesenabrechnung und Report-Funktionen in einer einzigen Vorlage.</p>",
       "created": "2026-09-27T07:56:32",
-      "file": "business-trip-planner-expense-tracker-1379871f7ff8f07a.xlsx",
+      "file": "business-trip-planner-expense-tracker-9cc120804590a1f6.xlsx",
       "size": 7,
       "sales": 0,
       "score": 8,
@@ -652,9 +655,10 @@
       "pay_url": "https://buy.stripe.com/eVq00kdYBdxN96u4os2kw0t",
       "payment_link_id": "plink_1UKD3uJ5iOXkWb9V33vcrqZm",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 10,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine Gesundheitsversprechen, keine fremden Marken/Figuren. Die Excel-Tabellen sind sinnvoll und korrekt. Die Sprache ist konsistent Deutsch und es gibt keine Platzhalter oder unfertigen T"
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Berechnungen basieren auf allgemein bekannten Fakten (z.B. 19% MwSt, Kilometerpauschale von 0.30€). Es gibt keine Rechts-, Steuer- oder Finanzberatung. Die Funktionalität ist klar beschrieben und sinnvoll implementiert",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -696,12 +700,13 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/fZu14o1bP51hciGaMQ2kw0v",
       "payment_link_id": "plink_1UKDBvJ5iOXkWb9VsPXUXMrY",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 10,
-      "audit_note": "Keine erfundenen Zahlen oder Studien, keine Rechts- oder Gesundheitsberatung, klare Struktur und Beispiele, keine Regelverstöße."
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts- oder Finanzberatung. Die Excel-Tabellen sind plausibel und sinnvoll strukturiert. Beispieldaten sind klar als solche erkennbar. Keine Verwendung von Marken Dritter oder Gesundheitsversprechen.",
+      "retired": true,
+      "retired_why": "3 Formelfehler; Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts- oder Finanzberatung. Die Excel-Tabellen sind plausibel und sinnvoll strukturiert. Beispieldaten sind klar als solche erkennbar. Keine Verwendung von Marken Dritter oder Gesundheitsve"
     },
     {
       "type": "ebook",
@@ -722,9 +727,9 @@
       "pay_url": "https://buy.stripe.com/6oU9AUcUx3Xd1E23ko2kw0w",
       "payment_link_id": "plink_1UKDBwJ5iOXkWb9V6w00eQgY",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Inhalt entspricht den Regeln. Keine erfundenen Statistiken, Prozentzahlen oder Quellen. Praktische Tipps ohne gesundheitliche Versprechen oder Markennennungen. Format und Sprache sind korrekt."
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Praktische Tipps ohne Rechts- oder Steuerberatung, keine Marken Dritter."
     },
     {
       "type": "excel",
@@ -1729,209 +1734,51 @@
       "pay_url": "https://buy.stripe.com/6oU14o2fTfFV96ucUY2kw1f",
       "payment_link_id": "plink_1UKjE6J5iOXkWb9Vn95rC8cM",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers",
+      "slug": "north-baltic-sea-travel-budget-planner-solo-female",
+      "price_eur": 9,
+      "target": "Women planning solo trips along Germany's North & Baltic Sea coasts (age 25-50)",
+      "reason": "Many solo female travelers struggle with tracking multiple currencies and expense categories. This all-in-one solution automates conversions and provides clear visualizations for better budget control during coastal trips.",
+      "language": "en",
+      "pitch": "Track all travel expenses in one place with automated calculations. Perfect for stress-free solo travel planning along Germany's scenic coastal routes.",
+      "content_html": "<h2>What's Inside</h2><p>Professional Excel template with automated calculations for accommodation, transport, activities and dining. Includes 60 blank rows per category.</p>",
+      "pro": true,
+      "created": "2026-09-28T23:19:54",
+      "file": "north-baltic-sea-travel-budget-planner-solo-female-f59665cae7bde5a0.xlsx",
+      "size": 13,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/cNicN63jXbpF82q3ko2kw1g",
+      "payment_link_id": "plink_1UKo08J5iOXkWb9Vc0B6cVD5",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heidelberg",
+      "slug": "rhineland-romantic-escape-female-traveler-guide",
+      "price_eur": 7,
+      "target": "Independent female travelers (solo/friends) aged 25-45 exploring Rhine Valley culture, history and hidden gems",
+      "reason": "Existing Germany travel products lack female-focused perspective on Rhine region. This fills gap with practical safety/social tips while highlighting underrepresented women in local history/business.",
+      "language": "en",
+      "pitch": "7 stress-free itineraries combining iconic landmarks with local secrets. Packed with photogenic spots, women-friendly tips and cultural insights you won't find in generic guides.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: Rhine Valley Basics - Getting Around & Safety</li><li>Chapter 2: Frankfurt Like a Local - Beyond Banking Districts</li><li>Chapter 3: Heidelberg's Hidden Courtyards & Bookshops</li><li>Chapter 4: Wine Villages with Stories - Female Winemakers to Know</li><li>Chapter 5: Castle Routes with Picnic Spots (Plus Storm Backup Plans)</li><li>Chapter 6: Solo Traveler Toolkit - Apps & Local Contacts</li></ul>",
+      "pro": false,
+      "created": "2026-09-28T23:19:54",
+      "file": "rhineland-romantic-escape-female-traveler-guide-c8ad6d81f59ce668.pdf",
+      "size": 1639,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/5kQ4gAf2F8dtdmK5sw2kw1h",
+      "payment_link_id": "plink_1UKo09J5iOXkWb9VMhA5MQv4",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0014027999999999998,
-      "why": "Audit: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0038699999999999997,
-      "why": "Audit: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0014652,
-      "why": "Audit: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0039911999999999994,
-      "why": "Audit: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0017111999999999997,
-      "why": "Audit: YouTube Content Planner & ROI-Tracker für Creator"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0011003999999999999,
-      "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0038099999999999996,
-      "why": "Audit: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfac"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0014364,
-      "why": "Audit: Baustellen-Angebots-Kalkulator für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.004076399999999999,
-      "why": "Audit: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinde"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0013788,
-      "why": "Audit: Hochzeits-Checkliste & Budget-Tracker für perfekte Planung"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0040392,
-      "why": "Audit: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Allt"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0019283999999999998,
-      "why": "Audit: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0035855999999999996,
-      "why": "Audit: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0010727999999999998,
-      "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0043571999999999994,
-      "why": "Audit: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0012923999999999998,
-      "why": "Audit: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides To"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0039683999999999995,
-      "why": "Audit: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0009216,
-      "why": "Audit: Ultimate City Trip Planner for Families in NRW"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0034487999999999997,
-      "why": "Audit: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0012384,
-      "why": "Audit: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0039071999999999996,
-      "why": "Audit: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0010884,
-      "why": "Audit: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0032915999999999996,
-      "why": "Audit: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidde"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0039959999999999996,
-      "why": "Audit: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0011136,
-      "why": "Audit: 智能婚礼预算跟踪与规划器 - 2026年专属版"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0047688,
-      "why": "Audit: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": 0,
-      "why": "Audit: 49 geprueft, 1 entfernt"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.004096799999999999,
-      "why": "KI-Denken: Planificateur de Programmes d'Entraînement & Suivi des Progrès pour Coachs et Indépendants"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Programmes d'Entraînement & Suivi des Progrès pour Coachs et Indépendants"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.0039324,
-      "why": "KI-Denken: Planificateur d'entraînement intelligent pour coachs et indépendants"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur d'entraînement intelligent pour coachs et indépendants"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.0099936,
-      "why": "KI-Denken: Guide Pratique pour Petits Propriétaires : Optimiser la Gestion de 1 à 5 Logements"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.0039372,
-      "why": "KI-Pruefung: Guide Pratique pour Petits Propriétaires : Optimiser la Gestion de 1 à 5 Logements"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1381 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.011219999999999997,
-      "why": "KI-Denken: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et Gestion Simplifiée"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.0040104,
-      "why": "KI-Pruefung: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et Gestion Simplifiée"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.16,
-      "why": "KI-Bilder: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et Gestion Simplifiée"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.0039108,
-      "why": "KI-Denken: Exam Countdown Planner & Study Progress Tracker for Students"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Exam Countdown Planner & Study Progress Tracker for Students"
-    },
     {
       "t": "2026-09-27T21:33:42",
       "eur": -0.00108,
@@ -2731,6 +2578,206 @@
       "t": "2026-09-28T18:11:41",
       "eur": -0.00034079999999999994,
       "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0056748,
+      "why": "KI-Denken: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0010355999999999998,
+      "why": "KI-Pruefung: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0108456,
+      "why": "KI-Denken: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heidelberg"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.00342,
+      "why": "KI-Pruefung: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heidelberg"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.16,
+      "why": "KI-Bilder: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heidelberg"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.006177599999999999,
+      "why": "KI-Denken: Guía de Viaje Premium: Presupuesto y Ruta para Berlín y Potsdam"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0012731999999999997,
+      "why": "KI-Pruefung: Guía de Viaje Premium: Presupuesto y Ruta para Berlín y Potsdam"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0062688,
+      "why": "KI-Denken: Planificador de Viajes a Berlín & Potsdam: Presupuesto e Itinerario para Hombres"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0014303999999999999,
+      "why": "KI-Pruefung: Planificador de Viajes a Berlín & Potsdam: Presupuesto e Itinerario para Hombres"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0059472,
+      "why": "KI-Denken: Berlin & Potsdam Reisekosten-Tracker & Itinerary für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0011603999999999998,
+      "why": "KI-Pruefung: Berlin & Potsdam Reisekosten-Tracker & Itinerary für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Formeln sinnvoll, Preis fair, aber Sprachmischung (Spanisch/Deutsch) kann verwirrend sein.'}"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0055379999999999995,
+      "why": "KI-Denken: Planificador de Viajes: Berlín y Potsdam para Hombres"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Viajes: Berlín y Potsdam para Hombres"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Preis für einfache Excel-Tabellen ohne besondere Funktionen etwas hoch'}"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.005944799999999999,
+      "why": "KI-Denken: Planificador de Viajes para Berlín y Potsdam - Presupuesto y Rutas"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0011472,
+      "why": "KI-Pruefung: Planificador de Viajes para Berlín y Potsdam - Presupuesto y Rutas"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': True, 'issues': \"Formel '=AVERAGE(C{r},D{r})*5' in 'Distanza km' ist unlogisch (Zeit ≠ km), Richtlinien verletzt\"}"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0027887999999999997,
+      "why": "Excel-Upgrade: Smart Fitness Progress Tracker für Trainer & Selbständige"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Smart Fitness Progress Tracker für Trainer & Selbständige"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0027407999999999994,
+      "why": "Excel-Upgrade: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler pruefungsvorbereitungs-tracker-fuer-stud: Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0023856,
+      "why": "Excel-Upgrade: Smart Business Trip Planner & Expense Tracker for Freelancers"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Smart Business Trip Planner & Expense Tracker for Freelancers"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": -0.0038579999999999995,
+      "why": "Audit: Clever Sparen im Alltag: Einfache Tricks für private Haushaltsfinanzen"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": -0.0039888,
+      "why": "Audit: Smart Fitness Progress Tracker für Trainer & Selbständige"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": -0.0039228,
+      "why": "Audit: Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": -0.0013583999999999998,
+      "why": "Audit: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": 0,
+      "why": "Audit entfernt: Prüfungsvorbereitungs-Tracker für Studierende – 9 Formelfehler; Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Die Beispiel-Daten sind klar als solche markiert. Der Inhalt hält sich an die"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": -0.003792,
+      "why": "Audit: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": -0.004534799999999999,
+      "why": "Audit: Smart Business Trip Planner & Expense Tracker for Freelancers"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": -0.001524,
+      "why": "Audit: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": 0,
+      "why": "Audit entfernt: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche – 3 Formelfehler; Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts- oder Finanzberatung. Die Excel-Tabellen si"
+    },
+    {
+      "t": "2026-09-28T23:29:15",
+      "eur": -0.0038723999999999994,
+      "why": "Audit: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": 0,
+      "why": "Audit: 8 geprueft, 2 entfernt"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0011435999999999998,
+      "why": "Blog-Artikel: Koeln Dom (es)"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0010896,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (fr)"
+    },
+    {
+      "t": "2026-09-28T23:19:54",
+      "eur": -0.0003972,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
     }
   ],
   "alive": true,
@@ -2912,6 +2959,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-09-28T18:11:41",
       "img": true
+    },
+    {
+      "slug": "descubre-la-majestuosidad-del-catedral-de-colonia-en-alemani",
+      "title": "Descubre la Majestuosidad del Catedral de Colonia en Alemania",
+      "lang": "es",
+      "topic": "Koeln Dom",
+      "created": "2026-09-28T23:19:54",
+      "img": true
+    },
+    {
+      "slug": "decouvrir-le-zollverein-en-ruhrgebiet-un-joyau-industriel",
+      "title": "Découvrir le Zollverein en Ruhrgebiet : Un Joyau Industriel",
+      "lang": "fr",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-09-28T23:19:54",
+      "img": true
     }
   ],
   "videos": [
@@ -2993,6 +3056,16 @@
       "hashtags": "#萨尔河环道 #德国自然奇观 #徒步旅行 #萨尔兰州 #自然风光",
       "voice": "萨尔河环道，位于德国萨尔兰州，是大自然鬼斧神工的杰作！蜿蜒的河流环绕着壮丽的岩石，形成了独特的U字形景观。这里不仅是徒步旅行的理想之地，还承载着丰富的历史与文化。登高俯瞰，壮丽的全景尽收眼底，感受大自然的震撼与宁静。快来探索这片令人心醉的美景吧！",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrir-le-zollverein-en-ruhrgebiet-un-joyau-industriel",
+      "title": "Découvrir le Zollverein en Ruhrgebiet : Un Joyau Industriel",
+      "lang": "fr",
+      "created": "2026-09-28T23:19:54",
+      "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #Allemagne #VoyageCulturel",
+      "voice": "Plongez dans l'histoire industrielle de l'Allemagne au site Zollverein, classé au patrimoine mondial de l'UNESCO ! Cet ancien complexe minier, symbole de la révolution industrielle, vous transporte à l'âge d'or du charbon et de l'acier. Explorez son architecture avant-gardiste, visitez le musée captivant, et profitez d'une vue à couper le souffle sur la Ruhr. Une expérience culturelle fascinante à ne pas manquer !",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
