@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 497.3369,
-  "spent_eur": 7.3331,
+  "balance_eur": 497.0864,
+  "spent_eur": 7.5836,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -326,9 +326,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583561471"
       },
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Generell gelungener Ratgeber mit praxisnahen Tipps. Die Prozentangabe '90%' wurde als möglicherweise erfunden markiert (keine Quellenangabe). Keine klaren Regelverstöße in Bezug auf Gesundheitsversprechen, Marken oder falsche Beratung. Der Inhalt bleibt im Rahmen allgemein bekannter Gartentipps."
+      "audit_note": "Kleinere Auffälligkeit bei '90%', das entfernt werden sollte. Ansonsten entspricht der Inhalt den Vorgaben, enthält keine erfundenen Studien oder Statistiken und bietet nützliche Praxistipps für Selbstversorger."
     },
     {
       "type": "excel",
@@ -352,9 +352,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583561483"
       },
-      "audit_v": null,
-      "audit_score": 7,
-      "audit_note": "Das Produkt entspricht den Regeln, enthält keine erfunden Zahlen oder Statistiken. Die Beispieldaten sind klar als Beispiel gekennzeichnet und die Excel-Formeln sind korrekt. Keine Rechts- oder Gesundheitsberatung, keine Markenverletzungen.",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfunden Zahlen, Statistiken oder Quellen gefunden. Der Inhalt ist klar strukturiert und bietet praktische Tipps ohne Beratung oder Gesundheitsversprechen. Die Beispielrechnungen sind als solche erkennbar und die Excel-Formeln sind plausibel. Einige Wiederholungen in der Formelspalte könnten r",
       "pro": true
     },
     {
@@ -376,9 +376,9 @@
       "pay_url": "https://buy.stripe.com/9B614oaMp0L16YmaMQ2kw0e",
       "payment_link_id": "plink_1UKBVVJ5iOXkWb9Vvj02gQPS",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Inhalt entspricht den Regeln: keine spezifischen Studien, Statistiken oder Prozentzahlen angegeben, keine rechtlichen oder gesundheitlichen Ratschläge, keine unerlaubten Markennennungen. Die genannten Tools sind allgemein bekannt und der Text ist vollständig sowie sachlich korrekt.",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das E-Book bietet eine nützliche Sammlung digitaler Werkzeuge für Lehrer und Tutoren, ohne auf erfundene Studien oder Statistiken zurückzugreifen. Die genannten Tools sind generische Beispiele und folgen den gegebenen Regeln. Es gibt keine unerlaubten Behauptungen oder falschen Angaben. Einzig der R",
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583985442"
       }
@@ -392,9 +392,9 @@
       "reason": "Pflegende Angehörige stehen oft vor organisatorischen Herausforderungen. Diese Vorlage bietet eine strukturierte Lösung für Zeiteinteilung, Kostentransparenz und bessere Planung der Pflege.",
       "language": "de",
       "pitch": "Planen Sie Pflegezeiten und -kosten mit klarem Überblick. Sparen Sie Zeit und organisieren Sie die Betreuung effizient.",
-      "content_html": "<h2>Inhalt</h2><p>Excel-Vorlage zur Planung von Pflegezeiten, Berechnung der Kosten und Übersicht über anfallende Aufgaben für pflegende Angehörige.</p>",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft pflegenden Angehörigen, Pflegezeiten und Kosten zu planen und zu verwalten. Sie umfasst Blätter für Zeitaufzeichnung, Kostenverwaltung und ein Dashboard mit wichtigen Kennzahlen.</p>",
       "created": "2026-09-27T06:52:24",
-      "file": "pflegezeit-und-kostenplaner-fuer-pflegende-angehoerige-19fe6375692e1748.xlsx",
+      "file": "pflegezeit-und-kostenplaner-fuer-pflegende-angehoerige-83703e5fafcd4f99.xlsx",
       "size": 7,
       "sales": 0,
       "score": 8,
@@ -402,12 +402,13 @@
       "pay_url": "https://buy.stripe.com/bJedRa1bP0L196u5sw2kw0f",
       "payment_link_id": "plink_1UKC3TJ5iOXkWb9V091VHYab",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Zahlen/Studien, klare Funktionsbeschreibung, Beispieltabelle sinnvoll, keine Regelverstöße. Lediglich die Preisangabe könnte konkretisiert sein (z. B. '7€' statt nur '7').",
+      "audit_note": "Keine erfundenen Zahlen oder Statistiken gefunden. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine Marken oder fremden Figuren. Formeln und Tabellen sind plausibel und sinnvoll. Sprache ist korrekt und eindeutig. Kleinere Verbesserungsmöglichkeiten in der Darstellung der Excel-Zellen, ab",
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583976837"
-      }
+      },
+      "pro": true
     },
     {
       "type": "ebook",
@@ -428,9 +429,9 @@
       "pay_url": "https://buy.stripe.com/9B6dRa3jX51hfuS4os2kw0g",
       "payment_link_id": "plink_1UKC3TJ5iOXkWb9VqbgM3qP3",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Gute Praxistipps, aber einige spezifische Prozentangaben ohne klare Quellenangabe. Insgesamt jedoch nützliche und legitime Inhalte für Selbstständige.",
+      "audit_note": "Erfundene Prozentzahlen (30%, 70%) erkannt. Keine klaren Regelverstöße wie Spam, Gesundheitsversprechen oder Rechtsberatung. Der Rest des Inhalts ist praxisnah und ehrlich formuliert.",
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583985482"
       }
@@ -451,15 +452,18 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/3cI5kEf2F8dt3Ma6wA2kw0h",
       "payment_link_id": "plink_1UKC3UJ5iOXkWb9VVveYdwgR",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 10,
-      "audit_note": "Der Inhalt entspricht den Regeln. Die Prozentzahl '19%' ist die allgemein bekannte Mehrwertsteuer in Deutschland und somit kein erfundenes Detail. Keine sachlichen Fehler, keine erfundenen Statistiken oder Quellen, keine rechtlichen oder finanziellen Beratungen, keine Markenverletzungen oder Gesundh",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen (die 19% MwSt sind korrekt). Alle Angaben sind klar als Beispiele gekennzeichnet. Die Excel-Formeln sind sinnvoll und korrekt. Die Sprache ist durchgängig Deutsch und sachlich, ohne Rechts- oder Steuerberatung.",
       "channels": {
-        "etsy": "https://www.etsy.com/listing/4584094116"
-      }
+        "etsy": "https://www.etsy.com/listing/4584094116",
+        "etsy_inactive": true
+      },
+      "pro": "fehler",
+      "retired": true,
+      "retired_why": "3 Formelfehler; Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen (die 19% MwSt sind korrekt). Alle Angaben sind klar als Beispiele gekennzeichnet. Die Excel-Formeln sind sinnvoll und korrekt. Die Sprache ist durchgängig Deutsch und sachlich, ohne Rechts- oder Steuerberatu"
     },
     {
       "type": "ebook",
@@ -480,9 +484,9 @@
       "pay_url": "https://buy.stripe.com/28EdRa07L1P5dmK9IM2kw0i",
       "payment_link_id": "plink_1UKC3VJ5iOXkWb9V8fkkYQMR",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 10,
-      "audit_note": "Der Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken, Zahlen oder Quellen. Keine Regelverstöße erkennbar.",
+      "audit_note": "Der Inhalt erfüllt alle Regeln: Es gibt keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Die Sprache ist korrekt und konsistent, es gibt keine unfertigen Texte oder Platzhalter. Der Inhalt ist sachlich korrekt, bietet keine Rechts-, Steuer-, Finanz- oder Medizinberatung, enthält ke",
       "channels": {
         "etsy": "https://www.etsy.com/listing/4584094138"
       }
@@ -496,9 +500,9 @@
       "reason": "Hochzeitsplanung ist oft stressig und kostspielig. Diese Excel-Vorlage hilft Paaren, ihr Budget zu verwalten und den Überblick über wichtige Aufgaben zu behalten, was den Preis von 7 EUR klar rechtfertigt.",
       "language": "de",
       "pitch": "Planen Sie Ihre Hochzeit stressfrei und behalten Sie alle Ausgaben im Blick mit dieser Excel-Vorlage, die Ihnen hilft, Ihr Budget zu verwalten und Übersicht zu behalten.",
-      "content_html": "<h2>Inhalt</h2><ul><li>Budget-Tracker für alle Hochzeitskategorien</li><li>Automatische Summenberechnung und Budgetkontrolle</li><li>Zeitplaner für Hochzeitsvorbereitungen</li><li>Checkliste für wichtige Aufgaben</li></ul>",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Paaren, ihr Hochzeitsbudget im Blick zu behalten und Ausgaben zu planen. Mit praktischen Funktionen wie automatischen Berechnungen, Kategorien und Dashboards für einen klaren Überblick.</p>",
       "created": "2026-09-27T07:04:08",
-      "file": "hochzeitsbudget-tracker-planer-7497031bd9742510.xlsx",
+      "file": "hochzeitsbudget-tracker-planer-009f185f5cba4714.xlsx",
       "size": 10,
       "sales": 0,
       "score": 8,
@@ -506,12 +510,13 @@
       "pay_url": "https://buy.stripe.com/cNi3cwg6J79pfuSbQU2kw0j",
       "payment_link_id": "plink_1UKCFaJ5iOXkWb9VLlYu2LcD",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Das Produkt erfüllt die angegebenen Kriterien: Keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Rechts- oder Finanzberatung, keine Marken Dritter. Es handelt sich um einen funktionalen Budget-Tracker und Planer mit klaren Anweisungen und korrekten Excel-Funktionen.",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist sachlich korrekt und enthält keine erfundenen Statistiken, Prozentzahlen oder Quellen. Die Beispielrechnungen sind klar als solche erkennbar und dienen der Veranschaulichung. Es gibt keine Verstöße gegen die Regeln.",
       "channels": {
         "etsy": "https://www.etsy.com/listing/4584085485"
-      }
+      },
+      "pro": true
     },
     {
       "type": "ebook",
@@ -1661,184 +1666,72 @@
       "pay_url": "https://buy.stripe.com/9B67sMg6JdxNaay7AE2kw1c",
       "payment_link_id": "plink_1UKaNbJ5iOXkWb9Vy5QUjphG",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scenic Routes",
+      "slug": "saarland-moselle-adventure-guide-family-friendly-hidden-gems",
+      "price_eur": 5,
+      "target": "international families planning road trips in Germany, especially those interested in nature, culture, and off-the-beaten-path experiences",
+      "reason": "Fills a gap in family-oriented travel materials for this underrated German region. Combines practical logistics with magical discovery elements that turn trips into cherished family stories. Price point makes it accessible while ensuring quality content value.",
+      "language": "en",
+      "pitch": "Discover secret castles, fairy-tale forests, and magical river bends perfect for creating unforgettable family memories. Includes detailed route maps, budget tips, and kid-friendly activity suggestions at each stop.",
+      "content_html": "<h2>Content</h2><ul><li>Chapter 1: Why Saarland & Mosel Make Perfect Family Adventures</li><li>Chapter 2: Packing Smart - The Essential Checklist</li><li>Chapter 3: The Enchanted Forest Loop (Saarland)</li><li>Chapter 4: Castle Hopping Along the Moselle</li><li>Chapter 5: Picnic Spots With Million-Dollar Views</li><li>Chapter 6: Rainy Day Alternatives That Kids Actually Love</li><li>Chapter 7: Capturing Memories - The Stress-Free Way</li></ul>",
+      "pro": false,
+      "created": "2026-09-28T18:11:41",
+      "file": "saarland-moselle-adventure-guide-family-friendly-hidden-gems-da484f9556ec5100.pdf",
+      "size": 1868,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/4gMaEYdYB8dtdmK3ko2kw1d",
+      "payment_link_id": "plink_1UKjE4J5iOXkWb9VAik8A1PW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "NRW Städtereise-Budget-Tracker & Planer",
+      "slug": "nrw-staedtereise-budget-tracker-planer",
+      "price_eur": 9,
+      "target": "Selbstständige und KMU, die Geschäftsreisen oder Freizeitreisen in NRW planen",
+      "reason": "Dieses Tool bietet einen klaren Mehrwert durch effizientes Budgetmanagement und detaillierte Ausgabenanalyse für Reisen in NRW.",
+      "language": "de",
+      "pitch": "Effizientes Planen und Budgetieren für Städtereisen in NRW - behalten Sie alle Ausgaben im Blick und optimieren Sie Ihre Reisekosten.",
+      "content_html": "<h2>Inhalt</h2><p>Planen Sie Ihre Reise nach Köln, Düsseldorf oder dem Ruhrgebiet effizient mit diesem professionellen Excel-Tool. Verfolgen Sie Ausgaben, erstellen Sie Budgets und analysieren Sie Ihre Reisekosten.</p>",
+      "pro": true,
+      "created": "2026-09-28T18:11:41",
+      "file": "nrw-staedtereise-budget-tracker-planer-475babf7d73ab9e1.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/3cI4gA1bP79p6Ym3ko2kw1e",
+      "payment_link_id": "plink_1UKjE5J5iOXkWb9VkGRhKbsj",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bayerische Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber",
+      "slug": "bayerische-alpen-entdecken-der-ultimative-reisefuehrer-fuer-naturliebhaber",
+      "price_eur": 5,
+      "target": "deutsche Selbstständige und KMU, Familien und Naturliebhaber",
+      "reason": "Die bayerischen Alpen sind ein beliebtes Reiseziel, doch viele Besucher wissen nicht, wie sie das Beste daraus machen können. Dieser Ratgeber bietet praktische Schritt-für-Schritt-Anleitungen und Insider-Tipps, um den Preis klar wert zu sein.",
+      "language": "de",
+      "pitch": "Entdecken Sie die Schönheit der bayerischen Alpen mit diesem praktischen Reiseführer. Planen Sie Ihre perfekte Reise mit Insider-Tipps und praktischen Schritt-für-Schritt-Anleitungen.",
+      "content_html": "<h2>Inhalt</h2> Inhaltsverzeichnis + Leseprobe",
+      "pro": false,
+      "created": "2026-09-28T18:11:41",
+      "file": "bayerische-alpen-entdecken-der-ultimative-reisefuehrer-fuer-naturliebhaber-a5e6bca5e18943c2.pdf",
+      "size": 1532,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/6oU14o2fTfFV96ucUY2kw1f",
+      "payment_link_id": "plink_1UKjE6J5iOXkWb9Vn95rC8cM",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0032243999999999997,
-      "why": "Audit: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0010692,
-      "why": "Audit: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0037067999999999997,
-      "why": "Audit: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0008939999999999999,
-      "why": "Audit: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0030996,
-      "why": "Audit: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidde"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0010572,
-      "why": "Audit: Calculadora de Presupuestos y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": 0,
-      "why": "Audit entfernt: Calculadora de Presupuestos y Mediciones para Talleres de Construcción – unfertige und abgebrochene Texte (z.B. unvollständige Schritte in der Anleitung), gemischte Sprachen (Deutsch-Spanisch), Platzhalter-ähnliche abgeschnittene Inh"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0038471999999999994,
-      "why": "Audit: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0008735999999999999,
-      "why": "Audit: 智能婚礼预算跟踪与规划器 - 2026年专属版"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0045756,
-      "why": "Audit: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": 0,
-      "why": "Audit: 51 geprueft, 2 entfernt"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0014351999999999998,
-      "why": "Audit: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0038255999999999997,
-      "why": "Audit: Effizientes Selbstmanagement für Selbstständige in 6 Schritten"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0011627999999999999,
-      "why": "Audit: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0031631999999999997,
-      "why": "Audit: The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0015119999999999999,
-      "why": "Audit: Zeit- und Projektbudget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0038399999999999997,
-      "why": "Audit: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0012576,
-      "why": "Audit: Freelancer-Invoice-Tracker für internationale Aufträge"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0032364,
-      "why": "Audit: The Freelancer's Guide to Stress-Free Productivity"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": 0,
-      "why": "Audit entfernt: The Freelancer's Guide to Stress-Free Productivity – Das E-Book enthält mehrere erfundene Prozentzahlen und Leistungsbehauptungen ('Produktivität steigt um 400-500%'), die nicht allgemein bekannt oder belegt sind."
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0012216,
-      "why": "Audit: Umzugsbudget- und Zeitplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.003952799999999999,
-      "why": "Audit: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstv"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0013464,
-      "why": "Audit: YouTube Video Performance Tracker & Optimierungstool für Creator"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0028943999999999997,
-      "why": "Audit: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tu"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0011903999999999999,
-      "why": "Audit: Pflegezeit- und Kostenplaner für pflegende Angehörige"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0038963999999999995,
-      "why": "Audit: Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbsts"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0014615999999999997,
-      "why": "Audit: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0033575999999999996,
-      "why": "Audit: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.00114,
-      "why": "Audit: Hochzeitsbudget-Tracker & Planer für Paare"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0038375999999999996,
-      "why": "Audit: Clever Sparen im Alltag: Einfache Tricks für private Haushaltsfinanzen"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0012371999999999997,
-      "why": "Audit: Smart Fitness Progress Tracker für Trainer & Selbständige"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0039168,
-      "why": "Audit: Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0013104,
-      "why": "Audit: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0038435999999999995,
-      "why": "Audit: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr"
-    },
-    {
-      "t": "2026-09-27T17:35:41",
-      "eur": -0.0012779999999999998,
-      "why": "Audit: Smart Business Trip Planner & Expense Tracker for Freelancers"
-    },
     {
       "t": "2026-09-27T17:35:41",
       "eur": -0.0014027999999999998,
@@ -2663,6 +2556,181 @@
       "t": "2026-09-28T08:49:46",
       "eur": -0.00043079999999999995,
       "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.011156399999999999,
+      "why": "KI-Denken: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scenic Routes"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0035172,
+      "why": "KI-Pruefung: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scenic Routes"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.16,
+      "why": "KI-Bilder: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scenic Routes"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.005631599999999999,
+      "why": "KI-Denken: NRW-Reiseplaner & Budget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: NRW-Reiseplaner & Budget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.005069999999999999,
+      "why": "KI-Denken: NRW Roadtrip-Budget-Tracker & Routenplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: NRW Roadtrip-Budget-Tracker & Routenplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Unvollständige Beschreibung, fehlende Details zu Routenplanung und KPIs.'}"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.005689199999999999,
+      "why": "KI-Denken: NRW-Reisebudget-Tracker & Exkursionsplaner"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0010692,
+      "why": "KI-Pruefung: NRW-Reisebudget-Tracker & Exkursionsplaner"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 11 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0058211999999999995,
+      "why": "KI-Denken: NRW Städtereise-Budget-Tracker & Planer"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0011627999999999999,
+      "why": "KI-Pruefung: NRW Städtereise-Budget-Tracker & Planer"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0113688,
+      "why": "KI-Denken: Bayerische Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0043332,
+      "why": "KI-Pruefung: Bayerische Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0022451999999999997,
+      "why": "Excel-Upgrade: Pflegezeit- und Kostenplaner für pflegende Angehörige"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Pflegezeit- und Kostenplaner für pflegende Angehörige"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0025488,
+      "why": "Excel-Upgrade: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler baustellen-kalkulation-angebots-tool-fue: Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0023652,
+      "why": "Excel-Upgrade: Hochzeitsbudget-Tracker & Planer für Paare"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Hochzeitsbudget-Tracker & Planer für Paare"
+    },
+    {
+      "t": "2026-09-28T18:23:53",
+      "eur": -0.003918,
+      "why": "Audit: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstv"
+    },
+    {
+      "t": "2026-09-28T18:23:53",
+      "eur": -0.0026567999999999995,
+      "why": "Audit: YouTube Video Performance Tracker & Optimierungstool für Creator"
+    },
+    {
+      "t": "2026-09-28T18:23:53",
+      "eur": -0.0029448,
+      "why": "Audit: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tu"
+    },
+    {
+      "t": "2026-09-28T18:23:53",
+      "eur": -0.0029291999999999994,
+      "why": "Audit: Pflegezeit- und Kostenplaner für pflegende Angehörige"
+    },
+    {
+      "t": "2026-09-28T18:23:53",
+      "eur": -0.0038891999999999998,
+      "why": "Audit: Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbsts"
+    },
+    {
+      "t": "2026-09-28T18:23:53",
+      "eur": -0.0014964,
+      "why": "Audit: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
+    },
+    {
+      "t": "2026-09-28T18:23:53",
+      "eur": 0,
+      "why": "Audit entfernt: Baustellen-Kalkulation & Angebots-Tool für Handwerker – 3 Formelfehler; Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen (die 19% MwSt sind korrekt). Alle Angaben sind klar als Beispiele g"
+    },
+    {
+      "t": "2026-09-28T18:23:53",
+      "eur": -0.0034559999999999994,
+      "why": "Audit: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-09-28T18:23:53",
+      "eur": -0.0026555999999999997,
+      "why": "Audit: Hochzeitsbudget-Tracker & Planer für Paare"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": 0,
+      "why": "Audit: 8 geprueft, 1 entfernt"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0012947999999999998,
+      "why": "Blog-Artikel: Schwarzwald (en)"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.0009203999999999999,
+      "why": "Blog-Artikel: Saarland Saarschleife (zh)"
+    },
+    {
+      "t": "2026-09-28T18:11:41",
+      "eur": -0.00034079999999999994,
+      "why": "Video-Skript: Saarland Saarschleife"
     }
   ],
   "alive": true,
@@ -2828,6 +2896,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-09-28T08:49:46",
       "img": true
+    },
+    {
+      "slug": "exploring-enchanting-black-forest-travelers-guide",
+      "title": "Exploring the Enchanting Black Forest: A Traveler's Guide",
+      "lang": "en",
+      "topic": "Schwarzwald",
+      "created": "2026-09-28T18:11:41",
+      "img": true
+    },
+    {
+      "slug": "saarland-saarschleife-deutschland",
+      "title": "探秘德国萨尔州萨尔河弯：自然与文化的完美交融",
+      "lang": "zh",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-09-28T18:11:41",
+      "img": true
     }
   ],
   "videos": [
@@ -2899,6 +2983,16 @@
       "hashtags": "#慕尼黑旅游 #玛丽亚广场 #德国旅行 #巴伐利亚文化 #欧洲之美",
       "voice": "慕尼黑玛丽亚广场，巴伐利亚的文化瑰宝！漫步在这个历史悠久的广场，感受德意志精神的脉动。雄伟的新市政厅钟楼准时上演精彩的机械表演，鱼泉喷泉边洋溢着欢乐的笑声。登上圣伯多禄教堂的塔楼，整个城市风光尽收眼底。这里不仅是历史的见证，更是时尚购物的天堂。快来沉浸在这座城市的独特魅力中吧！",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "saarland-saarschleife-deutschland",
+      "title": "探秘德国萨尔州萨尔河弯：自然与文化的完美交融",
+      "lang": "zh",
+      "created": "2026-09-28T18:11:41",
+      "hashtags": "#萨尔河环道 #德国自然奇观 #徒步旅行 #萨尔兰州 #自然风光",
+      "voice": "萨尔河环道，位于德国萨尔兰州，是大自然鬼斧神工的杰作！蜿蜒的河流环绕着壮丽的岩石，形成了独特的U字形景观。这里不仅是徒步旅行的理想之地，还承载着丰富的历史与文化。登高俯瞰，壮丽的全景尽收眼底，感受大自然的震撼与宁静。快来探索这片令人心醉的美景吧！",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
