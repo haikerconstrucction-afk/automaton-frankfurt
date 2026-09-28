@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 497.5629,
-  "spent_eur": 7.1071,
+  "balance_eur": 497.3369,
+  "spent_eur": 7.3331,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -77,16 +77,18 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/00w3cw9Il65lgyWdZ22kw03",
       "payment_link_id": "plink_1UJxgSJ5iOXkWb9V0xlIEdfD",
       "site": "https://haiktec.tech",
       "channels": {
-        "etsy": "https://www.etsy.com/listing/4583538647"
+        "etsy": "https://www.etsy.com/listing/4583538647",
+        "etsy_inactive": true
       },
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Zahlen oder Statistiken und hält sich an die Regeln. Die Excel-Formeln sind sinnvoll und es wird keine falsche oder gemischte Sprache verwendet. Es gibt keine Platzhalter oder unfertigen Texte.",
-      "pro": true
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist legal, ehrlich und frei von Spam. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es bietet keine Beratung und keine Gesundheitsversprechen. Die Formeln und Tabellen sind sinnvoll und nachvollziehbar. Einzelne kleine Ungenauigkeiten (z. B. '#NAME?' bei Gewinn MTD",
+      "pro": true,
+      "retired": true,
+      "retired_why": "1 Formelfehler; Das Produkt ist legal, ehrlich und frei von Spam. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es bietet keine Beratung und keine Gesundheitsversprechen. Die Formeln und Tabellen sind sinnvoll und nachvollziehbar. Einzelne kleine Ungenauigkeiten (z. B. '#NAME?"
     },
     {
       "type": "ebook",
@@ -110,9 +112,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583538663"
       },
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Inhalt ist größtenteils passend, keine groben Regelverstöße. Die Prozentzahl '15%' ist als Zielvorgabe plausibel, aber nicht verifizierbar und sollte als Beispielfall gekennzeichnet sein."
+      "audit_note": "Eine konkrete Prozentzahl (15%) wurde verwendet, die nicht als allgemein bekannt eingestuft wird. Dies ist der einzige klare Regelverstoß. Der Rest des Inhalts ist ordnungsgemäß und entspricht den Regeln."
     },
     {
       "type": "excel",
@@ -136,9 +138,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583542433"
       },
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder konkreten Prozentzahlen. Der Inhalt ist klar, sachlich und bietet praktische Anleitungen ohne Regelverstöße.",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen festgestellt. Der Inhalt ist klar strukturiert und bietet praktische Tools ohne Regelverstöße. Die Beispielkundendaten sind plausibel.",
       "pro": true
     },
     {
@@ -163,9 +165,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583552794"
       },
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Inhalt ist sachlich korrekt und hält sich an die Regeln. Keine erfundenen Studien oder falschen Behauptungen. Die aufgelisteten Prozentzahlen sind jedoch nicht in einem Kontext verwendet, der sie rechtfertigt. Diese sollten entfernt oder mit klarem Beispielkontext versehen werden."
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Die Prozentzahlen wurden aufgefunden und könnten als erfunden interpretiert werden, da keine Quellen oder allgemein bekannte Grundlagen genannt werden. Der restliche Inhalt ist jedoch regelkonform und enthält keine klaren Regelverstöße."
     },
     {
       "type": "excel",
@@ -189,9 +191,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583542459"
       },
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Der Inhalt ist klar, informativ und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder unbekannten Quellen. Die Sprache ist konsistent deutsch, und es gibt keine Platzhalter oder unfertigen Texte. Die Formeln und Tabellen sind sinnvoll und korrekt.",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Anforderungen: Es enthält keine erfundenen Studien, Statistiken oder Quellen, bietet keine Beratung an und hält sich an die Regeln. Die Beispieldaten sind klar als solche gekennzeichnet und die Funktionalität ist nachvollziehbar. Es gibt keine Auffälligkeiten oder Verstöße ge",
       "pro": true
     },
     {
@@ -216,9 +218,9 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583559672"
       },
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts- oder Finanzberatung. Klare Praxistipps ohne Markenverstöße. Die erwähnte 'Umfrage' im Kontext der Zielgruppenvalidierung ist methodisch korrekt dargestellt, ohne konkrete Zahlen zu nennen."
+      "audit_note": "Insgesamt solider Ratgeber ohne gravierende Regelverstöße. Die Erwähnung von '20%' ist als einzige unzulässige Prozentangabe markiert, wurde jedoch nicht weiter ausgeführt und fällt nicht ins Gewicht. Der Rest enthält praktische, allgemeingültige Tipps ohne falsche Behauptungen, Quellen oder gesetzw"
     },
     {
       "type": "excel",
@@ -229,9 +231,9 @@
       "reason": "International tätige Freelancer brauchen ein einfaches System zur Rechnungsverfolgung mit Währungsumrechnung - vorhandene Lösungen sind meist überteuerte SaaS-Tools. Diese Excel-Vorlage bietet sofort nutzbare Automatisierung für faire 7€.",
       "language": "de",
       "pitch": "Automatische Rechnungsverfolgung mit Währungsumrechnung. Behalten Sie den Überblick über offene Zahlungen in verschiedenen Währungen.",
-      "content_html": "<h2>Inhalt</h2><p>Automatische Rechnungsverfolgung mit Währungsrechner (EUR/USD/GBP), Fälligkeitsalarm, Zahlungseingangskontrolle und Umsatzstatistik.</p>",
+      "content_html": "<h2>Inhalt</h2><p>Diese Vorlage unterstützt Freelancer bei der Verwaltung internationaler Rechnungen, bietet eine klare Übersicht über Einnahmen und Ausgaben und ermöglicht einfaches Tracking von Zahlungen.</p>",
       "created": "2026-09-26T22:57:46",
-      "file": "freelancer-invoice-tracker-international-be3854f99b0223cb.xlsx",
+      "file": "freelancer-invoice-tracker-international-f712e494983e2dff.xlsx",
       "size": 8,
       "sales": 0,
       "score": 8,
@@ -242,9 +244,10 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583559696"
       },
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Das Produkt erfüllt die Anforderungen und enthält keine erfundenen Studien, Statistiken oder unzulässige Angaben. Die Excel-Funktionen sind korrekt und sinnvoll dargestellt. Es handelt sich um eine praktische Vorlage für Freelancer ohne Rechts- oder Steuerberatung."
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Der Inhalt ist klar und sachlich formuliert, ohne Regelverstöße. Die Beispielrechnungen sind plausibel und korrekt markiert.",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -283,9 +286,9 @@
       "reason": "Selbstständige müssen Umzüge oft neben dem Tagesgeschäft managen. Diese Vorlage hilft, Kosten unter Kontrolle zu halten und Fristen einzuhalten - entscheidend für einen reibungslosen Übergang ohne Betriebsunterbrechung.",
       "language": "de",
       "pitch": "Planen Sie Ihren Büroumzug professionell mit diesem All-in-One-Tracker für Kosten, Zeitleisten und Aufgabenverteilung. Behalten Sie alle Ausgaben und Fristen im Blick.",
-      "content_html": "<h2>Inhalt</h2><p>Professionelle Excel-Vorlage zur Planung und Kontrolle von Büroumzügen mit automatischen Berechnungen und Übersichten.</p>",
+      "content_html": "<h2>Inhalt</h2><p>Diese Vorlage hilft Selbstständigen, den Umzug ihres Büros oder Arbeitsumfelds zu organisieren. Sie beinhaltet Budgetplanung, Zeitplanung und eine Übersicht aller wichtigen Aufgaben und Kosten.</p>",
       "created": "2026-09-27T06:17:33",
-      "file": "umzugsbudget-und-zeitplaner-ae4820a3de82fa72.xlsx",
+      "file": "umzugsbudget-und-zeitplaner-03fec6691da3a052.xlsx",
       "size": 10,
       "sales": 0,
       "score": 8,
@@ -296,9 +299,10 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583571976"
       },
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Zahlen/Studien, klare Struktur, praktische Excel-Funktionen für Umzugsplanung. Enthält nur allgemein bekannte Informationen und sinnvolle Beispielwerte. Keine Rechts-/Finanzberatung oder Markenverstöße."
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen festgestellt. Der Inhalt ist klar strukturiert und entspricht den Regeln. Die Beispielrechnungen sind plausibel und klar als solche gekennzeichnet. Kleinere Wiederholungen der Formeln im Budget-Blatt könnten reduziert werden, sind aber kein gravieren",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -335,9 +339,9 @@
       "reason": "Der YouTube-Markt wächst stetig und Creator benötigen einfache Tools, um ihre Performance zu verfolgen und zu optimieren. Viele nutzen aktuell nur die YouTube-Auswertungen oder teure Drittanbieter. Dieses Excel-Tool bietet eine erschwingliche, maßgeschneiderte Lösung speziell für deutsche Creator.",
       "language": "de",
       "pitch": "Analysiere deine YouTube-Videoperformance und optimiere deine Strategie mit datenbasierten Entscheidungen. Behalte alle KPIs im Blick und steigere deine Reichweite systematisch.",
-      "content_html": "<h2>Inhalt</h2><p>1 Hauptarbeitsblatt mit allen KPIs + 1 Dashboard zur Visualisierung</p><p>Automatische Berechnungen: CTR%, Engagement Rate, Watch Time, monetäre Performance</p><p>Optimierungsempfehlungen basierend auf deinen Daten</p>",
+      "content_html": "<h2>Inhalt</h2>Diese Excel-Vorlage unterstützt Content Creator dabei, die Performance ihrer YouTube-Videos zu analysieren, wichtige KPIs zu tracken und Optimierungsstrategien zu entwickeln.",
       "created": "2026-09-27T06:17:33",
-      "file": "youtube-video-performance-tracker-optimization-tool-645dc7b3818489a3.xlsx",
+      "file": "youtube-video-performance-tracker-optimization-tool-8f1be4bf197c25b7.xlsx",
       "size": 5,
       "sales": 0,
       "score": 7,
@@ -348,9 +352,10 @@
       "channels": {
         "etsy": "https://www.etsy.com/listing/4583561483"
       },
-      "audit_v": 2,
+      "audit_v": null,
       "audit_score": 7,
-      "audit_note": "Das Produkt entspricht den Regeln, enthält keine erfunden Zahlen oder Statistiken. Die Beispieldaten sind klar als Beispiel gekennzeichnet und die Excel-Formeln sind korrekt. Keine Rechts- oder Gesundheitsberatung, keine Markenverletzungen."
+      "audit_note": "Das Produkt entspricht den Regeln, enthält keine erfunden Zahlen oder Statistiken. Die Beispieldaten sind klar als Beispiel gekennzeichnet und die Excel-Formeln sind korrekt. Keine Rechts- oder Gesundheitsberatung, keine Markenverletzungen.",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -1593,139 +1598,72 @@
       "pay_url": "https://buy.stripe.com/00w28scUx3Xd0zYcUY2kw19",
       "payment_link_id": "plink_1UKYVpJ5iOXkWb9VbjRG2ALn",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Soins et Suivi Médical pour Personnes Âgées",
+      "slug": "planificateur-soins-suivi-medical-seniors",
+      "price_eur": 9,
+      "target": "Aidants familiaux et petites organisations de soins à domicile",
+      "reason": "Les aidants familiaux et petites organisations de soins à domicile manquent souvent d'outils simples pour suivre efficacement les soins aux seniors. Ce tracker comble ce besoin avec un outil professionnel mais accessible, permettant de réduire les oublis et d'améliorer la coordination entre les différents intervenants.",
+      "language": "fr",
+      "pitch": "Un outil complet pour organiser les soins, suivre les médicaments et planifier les rendez-vous médicaux. Gagnez du temps et réduisez le stress dans la gestion des soins aux seniors.",
+      "content_html": "<h2>Contenu</h2><p>Un classeur Excel professionnel avec 3 onglets pour simplifier la gestion des soins aux personnes âgées : suivi médical, planning des soins et tableau de bord.</p>",
+      "pro": true,
+      "created": "2026-09-28T08:49:46",
+      "file": "planificateur-soins-suivi-medical-seniors-334f1a1de9a17b5d.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/8x27sM9Il51heqO3ko2kw1a",
+      "payment_link_id": "plink_1UKaNZJ5iOXkWb9VZrZ2U9TB",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez",
+      "slug": "le-guide-pratique-pour-freelancer-organisez-gerez-reussissez",
+      "price_eur": 5,
+      "target": "Freelancers et travailleurs indépendants",
+      "reason": "Ce guide répond à un besoin réel des freelancers et travailleurs indépendants en France, en Belgique et au Canada. Il offre des solutions pratiques et faciles à mettre en œuvre pour mieux gérer leur activité et réduire leur stress. Le prix de 5€ est accessible et représente une valeur ajoutée pour les lecteurs.",
+      "language": "fr",
+      "pitch": "Découvrez des stratégies simples pour mieux gérer votre temps, vos projets et vos finances. Un guide pratique pour maximiser votre productivité et réduire votre stress.",
+      "content_html": "<h2>Inhalt</h2> <ul><li>Introduction : Pourquoi ce guide est fait pour vous</li><li>Chapitre 1 : Organiser votre journée de travail</li><li>Chapitre 2 : Gérer efficacement vos projets</li><li>Chapitre 3 : Optimiser vos finances</li><li>Chapitre 4 : Communiquer avec vos clients</li><li>Chapitre 5 : Prendre soin de vous</li><li>Chapitre 6 : Planifier pour l'avenir</li></ul>",
+      "pro": false,
+      "created": "2026-09-28T08:49:46",
+      "file": "le-guide-pratique-pour-freelancer-organisez-gerez-reussissez-da18758644b72701.pdf",
+      "size": 1753,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/cNidRa9Il9hxdmK7AE2kw1b",
+      "payment_link_id": "plink_1UKaNaJ5iOXkWb9VcuPr1DgE",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Black Forest Travel Planner & Budget Tracker for Families",
+      "slug": "ultimate-black-forest-travel-planner-budget-tracker-for-families",
+      "price_eur": 9,
+      "target": "international families planning a trip to the Black Forest in Germany",
+      "reason": "Families traveling to the Black Forest often struggle with keeping track of their itinerary and expenses. This comprehensive planner ensures they can focus on creating memories rather than worrying about logistics and budgets.",
+      "language": "en",
+      "pitch": "Plan and track your family's Black Forest adventure with ease, ensuring you stay on budget and make the most of your trip.",
+      "content_html": "<h2>Inhalt</h2>This Excel template helps families organize their Black Forest travel itinerary, manage expenses, and ensure a stress-free vacation.",
+      "pro": true,
+      "created": "2026-09-28T08:49:46",
+      "file": "ultimate-black-forest-travel-planner-budget-tracker-for-families-090a8788a6c507e4.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/9B67sMg6JdxNaay7AE2kw1c",
+      "payment_link_id": "plink_1UKaNbJ5iOXkWb9Vy5QUjphG",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0036191999999999995,
-      "why": "Audit: Clever Sparen im Alltag: Einfache Tricks für private Haushaltsfinanzen"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0010584,
-      "why": "Audit: Smart Fitness Progress Tracker für Trainer & Selbständige"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0037236,
-      "why": "Audit: Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0011507999999999998,
-      "why": "Audit: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0036167999999999994,
-      "why": "Audit: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0011088,
-      "why": "Audit: Smart Business Trip Planner & Expense Tracker for Freelancers"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0030455999999999994,
-      "why": "Audit: The Etsy Seller's Growth Playbook: Proven Strategies to Increase Traffic & Sales"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": 0,
-      "why": "Audit entfernt: The Etsy Seller's Growth Playbook: Proven Strategies to Increase Traffic & Sales – erfundene Prozentzahlen (z.B. '72% der Käufer'), ungeprüfte Behauptungen über Etsy-Algorithmus-Updates, verdächtige Quellenangaben ('Marmalead'), Platzhalter ('"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0012527999999999999,
-      "why": "Audit: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0036948,
-      "why": "Audit: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0012851999999999998,
-      "why": "Audit: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0037703999999999997,
-      "why": "Audit: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0015551999999999999,
-      "why": "Audit: YouTube Content Planner & ROI-Tracker für Creator"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0009251999999999999,
-      "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0036455999999999993,
-      "why": "Audit: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfac"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0012707999999999999,
-      "why": "Audit: Baustellen-Angebots-Kalkulator für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0038759999999999997,
-      "why": "Audit: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinde"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0011136,
-      "why": "Audit: Hochzeits-Checkliste & Budget-Tracker für perfekte Planung"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0038087999999999998,
-      "why": "Audit: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Allt"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0018023999999999998,
-      "why": "Audit: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0034044,
-      "why": "Audit: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0009107999999999999,
-      "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.004174799999999999,
-      "why": "Audit: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0011088,
-      "why": "Audit: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides To"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0037044,
-      "why": "Audit: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle"
-    },
-    {
-      "t": "2026-09-27T17:27:04",
-      "eur": -0.0007488,
-      "why": "Audit: Ultimate City Trip Planner for Families in NRW"
-    },
     {
       "t": "2026-09-27T17:27:04",
       "eur": -0.0032243999999999997,
@@ -2595,6 +2533,136 @@
       "t": "2026-09-28T06:44:42",
       "eur": -0.000372,
       "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.0059184,
+      "why": "KI-Denken: Planificateur de Soins et Suivi Médical pour Personnes Âgées"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.0013583999999999998,
+      "why": "KI-Pruefung: Planificateur de Soins et Suivi Médical pour Personnes Âgées"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.0118404,
+      "why": "KI-Denken: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.0039324,
+      "why": "KI-Pruefung: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.00531,
+      "why": "KI-Denken: Ultimate Black Forest Travel Planner & Budget Tracker for Families"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Black Forest Travel Planner & Budget Tracker for Families"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.001974,
+      "why": "Excel-Upgrade: Freelancer-Invoice-Tracker für internationale Aufträge"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Freelancer-Invoice-Tracker für internationale Aufträge"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.0024671999999999997,
+      "why": "Excel-Upgrade: Umzugsbudget- und Zeitplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Umzugsbudget- und Zeitplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.0025031999999999997,
+      "why": "Excel-Upgrade: YouTube Video Performance Tracker & Optimierungstool für Creator"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: YouTube Video Performance Tracker & Optimierungstool für Creator"
+    },
+    {
+      "t": "2026-09-28T08:57:12",
+      "eur": -0.005039999999999999,
+      "why": "Audit: Stundentracker für Freelancer"
+    },
+    {
+      "t": "2026-09-28T08:57:12",
+      "eur": 0,
+      "why": "Audit entfernt: Stundentracker für Freelancer – 1 Formelfehler; Das Produkt ist legal, ehrlich und frei von Spam. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es bietet keine Beratung "
+    },
+    {
+      "t": "2026-09-28T08:57:12",
+      "eur": -0.0038171999999999998,
+      "why": "Audit: Effizientes Selbstmanagement für Selbstständige in 6 Schritten"
+    },
+    {
+      "t": "2026-09-28T08:57:12",
+      "eur": -0.0017868,
+      "why": "Audit: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
+    },
+    {
+      "t": "2026-09-28T08:57:12",
+      "eur": -0.003138,
+      "why": "Audit: The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners"
+    },
+    {
+      "t": "2026-09-28T08:57:12",
+      "eur": -0.0029423999999999995,
+      "why": "Audit: Zeit- und Projektbudget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T08:57:12",
+      "eur": -0.0038483999999999997,
+      "why": "Audit: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T08:57:12",
+      "eur": -0.0036468,
+      "why": "Audit: Freelancer-Invoice-Tracker für internationale Aufträge"
+    },
+    {
+      "t": "2026-09-28T08:57:12",
+      "eur": -0.0025824,
+      "why": "Audit: Umzugsbudget- und Zeitplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": 0,
+      "why": "Audit: 8 geprueft, 1 entfernt"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.0013416,
+      "why": "Blog-Artikel: Eifel Maare (es)"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.0014483999999999999,
+      "why": "Blog-Artikel: Rheingau Weinberge (fr)"
+    },
+    {
+      "t": "2026-09-28T08:49:46",
+      "eur": -0.00043079999999999995,
+      "why": "Video-Skript: Rheingau Weinberge"
     }
   ],
   "alive": true,
@@ -2743,6 +2811,22 @@
       "lang": "zh",
       "topic": "Muenchen Marienplatz",
       "created": "2026-09-28T06:44:42",
+      "img": true
+    },
+    {
+      "slug": "descubriendo-los-maares-de-eifel-un-tesoro-natural-en-aleman",
+      "title": "Descubriendo los Maares de Eifel: Un Tesoro Natural en Alemania",
+      "lang": "es",
+      "topic": "Eifel Maare",
+      "created": "2026-09-28T08:49:46",
+      "img": true
+    },
+    {
+      "slug": "escapade-viticole-vignobles-rheingau",
+      "title": "Une Escapade Viticole dans les Vignobles du Rheingau",
+      "lang": "fr",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-09-28T08:49:46",
       "img": true
     }
   ],
