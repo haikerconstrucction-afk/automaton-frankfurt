@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 496.0151,
-  "spent_eur": 8.6549,
+  "balance_eur": 495.3732,
+  "spent_eur": 9.2968,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -643,7 +643,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Sprache korrekt und einheitlich. Keine sachlichen Fehler oder unerlaubten Beratungen. Inhalte sind praxisnah und allgemein bekannt."
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Sprache korrekt und einheitlich. Keine sachlichen Fehler oder unerlaubten Beratungen. Inhalte sind praxisnah und allgemein bekannt.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4584991854"
+      }
     },
     {
       "type": "excel",
@@ -667,7 +670,10 @@
       "audit_v": 3,
       "audit_score": 8,
       "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Berechnungen basieren auf allgemein bekannten Fakten (z.B. 19% MwSt, Kilometerpauschale von 0.30€). Es gibt keine Rechts-, Steuer- oder Finanzberatung. Die Funktionalität ist klar beschrieben und sinnvoll implementiert",
-      "pro": true
+      "pro": true,
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4584991872"
+      }
     },
     {
       "type": "ebook",
@@ -738,7 +744,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Praktische Tipps ohne Rechts- oder Steuerberatung, keine Marken Dritter."
+      "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Praktische Tipps ohne Rechts- oder Steuerberatung, keine Marken Dritter.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4584985883"
+      }
     },
     {
       "type": "excel",
@@ -971,9 +980,9 @@
       "pay_url": "https://buy.stripe.com/dRm00k7Ad65l2I6aMQ2kw0G",
       "payment_link_id": "plink_1UKEY1J5iOXkWb9V8RugYLHI",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Die 50-30-20-Regel ist als allgemein bekannte Faustregel akzeptiert. Die anderen Prozentangaben (z.B. 30-50% bei Eigenmarken) sind plausibel, wenn nicht als konkrete Studienbehauptung dargestellt. Keine klaren Regelverstöße, nur allg. Spar-Tipps ohne falsche Behauptungen."
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Prozentangaben wie '30-50%' oder 'bis zu 50%' sind nicht konkret belegt und wirken erfunden. Die 50-30-20-Regel ist als allgemeine Faustregel akzeptabel. Ansonsten enthält das Ebook praktische, allgemeine Ratschläge ohne gravierende Regelverstöße."
     },
     {
       "type": "excel",
@@ -991,12 +1000,14 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/fZubJ23jX65l4Qef362kw0H",
       "payment_link_id": "plink_1UKEY2J5iOXkWb9VNfnZRiTR",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Gesundheitsversprechen. Klare Struktur, keine Rechts- oder Finanzberatung. Formeln sind nachvollziehbar und sinnvoll. Beispielhafte Daten korrekt gekennzeichnet."
+      "audit_note": "Produkt ist sachlich korrekt und erfindet keine Studien/Statistiken. Excel-Funktionen sind plausibel, Beispielkunden sind klar als solche gekennzeichnet. Keine Gesundheitsversprechen oder Markenverstöße.",
+      "pro": "fehler",
+      "retired": true,
+      "retired_why": "28 Formelfehler; Produkt ist sachlich korrekt und erfindet keine Studien/Statistiken. Excel-Funktionen sind plausibel, Beispielkunden sind klar als solche gekennzeichnet. Keine Gesundheitsversprechen oder Markenverstöße."
     },
     {
       "type": "ebook",
@@ -1017,9 +1028,9 @@
       "pay_url": "https://buy.stripe.com/cNi00k8Eh79p4Qe6wA2kw0I",
       "payment_link_id": "plink_1UKEjHJ5iOXkWb9VQHs79chK",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Die Sprache ist klar und auf Spanisch gehalten. Es gibt keine unfertigen Texte oder Platzhalter. Das E-Book bietet allgemeine Praxistipps für Lehrer ohne finanzielle, rechtliche oder medizinische Beratung. Es"
+      "audit_note": "Der Inhalt ist sachlich korrekt und bietet praktische Tipps ohne erfundene Studien oder Statistiken. Die Sprache ist durchgängig Spanisch und entspricht der Soll-Sprache. Es gibt keine Rechts- oder Gesundheitsberatung, keine Marken Dritter oder kopierte Werke. Die vorgestellten Strategien sind allge"
     },
     {
       "type": "excel",
@@ -1040,9 +1051,10 @@
       "pay_url": "https://buy.stripe.com/cNi5kE5s551h1E208c2kw0J",
       "payment_link_id": "plink_1UKEjIJ5iOXkWb9V9HxBT5In",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Produkt ist ein einfacher Medikationsplaner ohne Regelverstöße. Keine erfundenen Statistiken, Gesundheitsversprechen oder fremde Marken. Formeln sind funktional und nachvollziehbar."
+      "audit_note": "Keine Verstöße gegen die Regeln festgestellt. Das Produkt bietet konkrete Funktionen ohne erfundene Daten oder Gesundheitsversprechen. Die Excel-Formeln sind sinnvoll und die Anweisungen klar.",
+      "pro": "fehler"
     },
     {
       "type": "ebook",
@@ -1063,9 +1075,9 @@
       "pay_url": "https://buy.stripe.com/cNi7sM4o179p96u4os2kw0K",
       "payment_link_id": "plink_1UKEjIJ5iOXkWb9ViNhaMvFt",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Inhalt ist legal und ehrlich, keine unzulässigen Behauptungen oder erfundenen Statistiken, bietet praktische Tipps ohne spezifische Rechts- oder Finanzberatung. Keine Verwendung von Marken oder urheberrechtlich geschützten Inhalten. Der Text ist vollständig und frei von Platzhaltern oder Fehlern. Al"
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist vollständig und klar, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Es wird allgemein bekanntes Wissen und praktische Tipps vermittelt, ohne gegen die Regeln zu verstoßen. Die Sprache ist durchgehend korrekt und professionell."
     },
     {
       "type": "excel",
@@ -1083,12 +1095,14 @@
       "sales": 0,
       "score": 7,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/fZudRaaMp51h82q3ko2kw0L",
       "payment_link_id": "plink_1UKF2UJ5iOXkWb9V5N5mujkF",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine fremden Marken/Figuren oder Rechtsberatung. Klare Beispielrechnungen ohne irreführende Angaben. Einzig die 20% Marge ist als generalisierte Faustregel akzeptabel ohne konkrete Herkunft zu nennen."
+      "audit_note": "Der Inhalt ist klar strukturiert und bietet praktische Tipps ohne erfundene Studien, Statistiken oder Gesundheitsversprechen. Die Prozentzahl '20% Marge' ist als Faustregel akzeptabel und klar als Berechnungsbasis gekennzeichnet. Es gibt keine Marken oder Figuren Dritter, keine Rechts- oder Finanzbe",
+      "pro": "fehler",
+      "retired": true,
+      "retired_why": "6 Formelfehler; Der Inhalt ist klar strukturiert und bietet praktische Tipps ohne erfundene Studien, Statistiken oder Gesundheitsversprechen. Die Prozentzahl '20% Marge' ist als Faustregel akzeptabel und klar als Berechnungsbasis gekennzeichnet. Es gibt keine Marken oder Figuren Dritter, keine Recht"
     },
     {
       "type": "ebook",
@@ -1109,9 +1123,9 @@
       "pay_url": "https://buy.stripe.com/aFa28saMpbpF5UicUY2kw0M",
       "payment_link_id": "plink_1UKF2VJ5iOXkWb9V86mdcf9R",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Das E-Book enthält keine offensichtlichen Regelverstöße wie erfundene Statistiken, falsche Quellen oder Gesundheitsversprechen. Der Inhalt besteht aus praktischen Reisetipps für die Region Saarland und Moselle, die auf allgemein bekanntem Wissen basieren. Die Sprache ist durchgängig Französisch und "
+      "audit_note": "Der Inhalt ist weitgehend korrekt und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Zitate, und die Sprache ist konsistent. Kleinere Unvollständigkeiten in Texten sind vorhanden, aber nicht schwerwiegend."
     },
     {
       "type": "excel",
@@ -1129,12 +1143,13 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/5kQdRa3jX1P53Ma4os2kw0N",
       "payment_link_id": "plink_1UKF2WJ5iOXkWb9Vmj9gk4dO",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Keine erfundenen Zahlen oder Quellen, klare Struktur, keine Regelverstöße. Einige Excel-Formeln sind nicht ausführlich erklärt, aber das ist kein Problem, da es sich um ein Excel-Produkt handelt."
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar strukturiert und frei von erfundenen Studien oder Statistiken. Die Beispielrechnungen sind plausibel und klar als solche gekennzeichnet. Es gibt keine Regelverstöße.",
+      "retired": true,
+      "retired_why": "6 Formelfehler; Der Inhalt ist klar strukturiert und frei von erfundenen Studien oder Statistiken. Die Beispielrechnungen sind plausibel und klar als solche gekennzeichnet. Es gibt keine Regelverstöße."
     },
     {
       "type": "ebook",
@@ -1838,236 +1853,6 @@
     }
   ],
   "log": [
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0056435999999999995,
-      "why": "KI-Denken: Planificador de Mudanza y Renovación - Control de Costos y Cronograma para Autónomos"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0015563999999999999,
-      "why": "KI-Pruefung: Planificador de Mudanza y Renovación - Control de Costos y Cronograma para Autónomos"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.005122799999999999,
-      "why": "KI-Denken: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Tiempo"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Tiempo"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0021671999999999998,
-      "why": "Excel-Upgrade: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler stundentracker-freelancer: Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0035003999999999994,
-      "why": "Excel-Upgrade: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler kunden-rueckgewinnungs-tracker-fuer-klei: Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0022835999999999998,
-      "why": "Excel-Upgrade: Zeit- und Projektbudget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler zeit-und-projektbudget-tracker: Invalid column index 0"
-    },
-    {
-      "t": "2026-09-28T06:36:52",
-      "eur": -0.002034,
-      "why": "Audit: Volunteer & Club Event Budget Tracker"
-    },
-    {
-      "t": "2026-09-28T06:36:52",
-      "eur": -0.0032256,
-      "why": "Audit: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
-    },
-    {
-      "t": "2026-09-28T06:36:52",
-      "eur": -0.0023304,
-      "why": "Audit: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Ti"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0012599999999999998,
-      "why": "Blog-Artikel: Dresden Frauenkirche (fr)"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0013991999999999997,
-      "why": "Blog-Artikel: Harz Brocken (de)"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0004056,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584094116"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584094138"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Hochzeitsbudget-Tracker & Planer für Paare"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584085485"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0105168,
-      "why": "KI-Denken: Huerto Urbano en 7 Pasos: Guía Práctica para Autosuficiencia en Espacios Pequeños"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0041616,
-      "why": "KI-Pruefung: Huerto Urbano en 7 Pasos: Guía Práctica para Autosuficiencia en Espacios Pequeños"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1253 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.011830799999999999,
-      "why": "KI-Denken: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0040571999999999995,
-      "why": "KI-Pruefung: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.16,
-      "why": "KI-Bilder: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0052752,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0090756,
-      "why": "KI-Denken: 高效教学计划：教师与辅导员的实用指导"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0032423999999999994,
-      "why": "KI-Pruefung: 高效教学计划：教师与辅导员的实用指导"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.16,
-      "why": "KI-Bilder: 高效教学计划：教师与辅导员的实用指导"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0025259999999999996,
-      "why": "Excel-Upgrade: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0021696,
-      "why": "Excel-Upgrade: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0024695999999999997,
-      "why": "Excel-Upgrade: Zeit- und Projektbudget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Zeit- und Projektbudget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T06:57:30",
-      "eur": -0.004873199999999999,
-      "why": "Audit: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-28T06:57:30",
-      "eur": -0.0016979999999999999,
-      "why": "Audit: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
-    },
-    {
-      "t": "2026-09-28T06:57:30",
-      "eur": -0.0028068,
-      "why": "Audit: Zeit- und Projektbudget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T06:57:30",
-      "eur": -0.0037715999999999995,
-      "why": "Audit: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
-    },
-    {
-      "t": "2026-09-28T06:57:30",
-      "eur": -0.0022584,
-      "why": "Audit: YouTube Content ROI Tracker & Budget Planner"
-    },
     {
       "t": "2026-09-28T06:57:30",
       "eur": -0.0034355999999999996,
@@ -2842,6 +2627,236 @@
       "t": "2026-09-29T05:48:44",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584785975"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): 'choices'"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.005781599999999999,
+      "why": "KI-Denken: 建筑工项目报价与成本预算工具 - 专业Excel模板"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0011304,
+      "why": "KI-Pruefung: 建筑工项目报价与成本预算工具 - 专业Excel模板"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.005733599999999999,
+      "why": "KI-Denken: 智能工程报价与数量计算器 - 适用于小型建筑公司与承包商 (2026版)"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0010103999999999998,
+      "why": "KI-Pruefung: 智能工程报价与数量计算器 - 适用于小型建筑公司与承包商 (2026版)"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.005548799999999999,
+      "why": "KI-Denken: 智能报价与测量计算器 - 建筑工程模板"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能报价与测量计算器 - 建筑工程模板"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0056928,
+      "why": "KI-Denken: 建筑工地报价与测量计算器"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 建筑工地报价与测量计算器"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Table with name T___ already exists"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.005878799999999999,
+      "why": "KI-Denken: 智能建筑报价与工程测量计算器 - 2026专业版"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0011376,
+      "why": "KI-Pruefung: 智能建筑报价与工程测量计算器 - 2026专业版"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0056868,
+      "why": "KI-Denken: 智能建筑工作分析与成本计算器"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能建筑工作分析与成本计算器"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0021731999999999997,
+      "why": "Excel-Upgrade: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler smart-trainingsplaner-fortschritts-track: Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0023268,
+      "why": "Excel-Upgrade: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler senioren-medikationsplaner-erinnerungstr: Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0025655999999999995,
+      "why": "Excel-Upgrade: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler planificateur-voyage-foret-noire: Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": -0.0040403999999999995,
+      "why": "Audit: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Allt"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": -0.0019847999999999997,
+      "why": "Audit: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": 0,
+      "why": "Audit entfernt: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer – 28 Formelfehler; Produkt ist sachlich korrekt und erfindet keine Studien/Statistiken. Excel-Funktionen sind plausibel, Beispielkunden sind klar als solche geken"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": -0.0035688,
+      "why": "Audit: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": -0.0011279999999999999,
+      "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": -0.004301999999999999,
+      "why": "Audit: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": -0.0013812,
+      "why": "Audit: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides To"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": 0,
+      "why": "Audit entfernt: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides To – 6 Formelfehler; Der Inhalt ist klar strukturiert und bietet praktische Tipps ohne erfundene Studien, Statistiken oder Gesundheitsversprechen. Die Prozentzahl '2"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": -0.0038736,
+      "why": "Audit: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": -0.0009588,
+      "why": "Audit: Ultimate City Trip Planner for Families in NRW"
+    },
+    {
+      "t": "2026-09-29T13:10:11",
+      "eur": 0,
+      "why": "Audit entfernt: Ultimate City Trip Planner for Families in NRW – 6 Formelfehler; Der Inhalt ist klar strukturiert und frei von erfundenen Studien oder Statistiken. Die Beispielrechnungen sind plausibel und klar als solche gek"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Audit: 8 geprueft, 3 entfernt"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0012288,
+      "why": "Blog-Artikel: Heidelberg Altstadt (zh)"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.0013871999999999997,
+      "why": "Blog-Artikel: Neuschwanstein (es)"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.00040679999999999997,
+      "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr Umsatz und Kundenzufriedenheit"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584991854"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Business Trip Planner & Expense Tracker for Freelancers"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584991872"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
+    },
+    {
+      "t": "2026-09-29T12:57:54",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584985883"
     }
   ],
   "alive": true,
@@ -3055,6 +3070,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-09-29T05:48:44",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-reiseblog",
+      "title": "海德堡老城：德国最浪漫的城市漫步",
+      "lang": "zh",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-09-29T12:57:54",
+      "img": true
+    },
+    {
+      "slug": "neuschwanstein-un-cuento-de-hadas-en-los-alpes-bavaros",
+      "title": "Neuschwanstein: Un cuento de hadas en los Alpes bávaros",
+      "lang": "es",
+      "topic": "Neuschwanstein",
+      "created": "2026-09-29T12:57:54",
+      "img": true
     }
   ],
   "videos": [
@@ -3156,6 +3187,16 @@
       "hashtags": "#MoselValley #CochemMagic #GermanCastles #WineCountry #RiverCruise",
       "voice": "Welcome to Cochem, where the Mosel River paints a dream! Sail past medieval Reichsburg Castle perched above vineyards. Stroll flower-filled alleys of the Old Town, where half-timbered houses whisper history. Sip world-class Riesling as boats glide by. Adventure? Hike to Pinnerkreuz for epic valley views! #TravelGermany",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "neuschwanstein-un-cuento-de-hadas-en-los-alpes-bavaros",
+      "title": "Neuschwanstein: Un cuento de hadas en los Alpes bávaros",
+      "lang": "es",
+      "created": "2026-09-29T12:57:54",
+      "hashtags": "#Neuschwanstein #CastilloDeCuento #Baviera #Alemania #Viajes",
+      "voice": "En lo alto de los Alpes Bávaros, el Castillo de Neuschwanstein se erige como un sueño hecho piedra. Construido por orden del rey Luis II de Baviera, este majestuoso castillo es una joya arquitectónica que parece sacada de un cuento de hadas. Sus torres imponentes, sus interiores lujosos y su entorno natural te transportan a un mundo mágico. ¡Ven y déjate sorprender por esta maravilla histórica!",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
