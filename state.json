@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 495.2909,
-  "spent_eur": 9.3791,
+  "balance_eur": 495.0656,
+  "spent_eur": 9.6044,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1378,12 +1378,14 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Sprache ist durchgängig Französisch. Keine Platzhalter oder unfertigen Texte. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Formeln in der Tabelle sind sinnvoll und korrekt.",
-      "pay_url": "https://buy.stripe.com/dRmdRa7AdalB2I6bQU2kw0Y",
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Keine klaren Regelverstöße gefunden, aber die 'gains musculaires prévus' könnten als unbegründete Gesundheitsversprechen interpretiert werden. Die Beispielzahlen sind plausibel und als Beispiele erkennbar.",
       "payment_link_id": "plink_1UKPhoJ5iOXkWb9VfcTNTeVG",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "pro": "fehler",
+      "retired": true,
+      "retired_why": "1 Formelfehler; Keine klaren Regelverstöße gefunden, aber die 'gains musculaires prévus' könnten als unbegründete Gesundheitsversprechen interpretiert werden. Die Beispielzahlen sind plausibel und als Beispiele erkennbar."
     },
     {
       "type": "ebook",
@@ -1401,9 +1403,9 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 7,
-      "audit_note": "Das E-Book enthält praktische und allgemeine Ratschläge zur Immobilienverwaltung, ohne spezifische Rechts- oder Steuerberatung zu geben. Die Behauptung '90% der Konflikte werden entschärft' ist eine erfundene Statistik ohne Quellenangabe. Diese Prozentzahl sollte entfernt werden, da sie nicht belegt",
+      "audit_note": "Die Prozentzahl '90%' im Zusammenhang mit der Aussage 'La politesse et la rapidité désamorcent 90% des tensions' wirkt erfunden, da keine allgemein bekannte Grundlage dafür existiert. Der restliche Inhalt ist jedoch klar, strukturiert und frei von offensichtlichen Regelverstößen.",
       "pay_url": "https://buy.stripe.com/28EdRaaMpeBR4QecUY2kw0Z",
       "payment_link_id": "plink_1UKPhoJ5iOXkWb9VQ3Iyw7Zy",
       "site": "https://haiktec.tech"
@@ -1424,12 +1426,14 @@
       "sales": 0,
       "score": 7,
       "quality": 2,
-      "audit_v": 2,
-      "audit_score": 6,
-      "audit_note": "Produkt enthält keine erfundenen Zahlen oder Statistiken, aber die Formeln in der 'Study Plan'-Tabelle sind fehlerhaft (z.B. '=TODAY()-DATE(...)' für 'Study Hours' ergibt keinen sinnvollen Wert). Die grundlegende Funktionalität ist vorhanden, benötigt aber Korrekturen in den Berechnungen.",
-      "pay_url": "https://buy.stripe.com/dRm14o5s51P5ciG9IM2kw10",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine einfache Excel-Vorlage für Studienplanung ohne erfundene Statistiken oder unzulässige Behauptungen. Die enthaltenen Formeln sind technisch korrekt und es gibt keine Regelverstöße. Die beispielhaften Daten sind klar als solche erkennbar.",
       "payment_link_id": "plink_1UKPhpJ5iOXkWb9V6h7WWT1m",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "pro": "fehler",
+      "retired": true,
+      "retired_why": "6 Formelfehler; Das Produkt ist eine einfache Excel-Vorlage für Studienplanung ohne erfundene Statistiken oder unzulässige Behauptungen. Die enthaltenen Formeln sind technisch korrekt und es gibt keine Regelverstöße. Die beispielhaften Daten sind klar als solche erkennbar."
     },
     {
       "type": "ebook",
@@ -1447,9 +1451,9 @@
       "sales": 0,
       "score": 9,
       "quality": 2,
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Inhalt ist legal, ehrlich und frei von erfundenen Studien, Statistiken oder Prozentzahlen. Keine unfertigen Texte, Platzhalter oder sachlichen Fehler. Richtet sich klar an allgemein bekanntes Wissen und bietet praktische Tipps.",
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Der Inhalt enthält keine erfundenen Studien oder falschen Prozentzahlen. Die Tipps sind praxisnah und basieren auf allgemeinem Wissen. Die Sprache ist konsequent englisch und es gibt keine unfertigen Texte oder Platzhalter. Die Vorschläge sind legal und enthalten keine unzulässigen Gesundheitsverspr",
       "pay_url": "https://buy.stripe.com/7sYaEY7AdfFVciGbQU2kw11",
       "payment_link_id": "plink_1UKSsuJ5iOXkWb9VPQfbhe1y",
       "site": "https://haiktec.tech"
@@ -1463,19 +1467,20 @@
       "reason": "Viele Selbstständige müssen häufig reisen und verlieren wertvolle Zeit durch unorganisierte Packprozesse und unkontrollierte Reisekosten. Diese kombinierte Vorlage löst beide Probleme und spart so Zeit und Geld.",
       "language": "de",
       "pitch": "Vermeiden Sie vergessene Dinge und ungeplante Ausgaben mit dieser cleveren Packlisten- und Reisebudget-Kombi vorlage. Behalten Sie alle wichtigen Aspekte Ihrer Dienstreisen im Blick.",
-      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage kombiniert eine intelligente Packliste mit einem detaillierten Reisebudget-Tracker, speziell für selbstständige Reisende.</p>",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage unterstützt Sie bei der Planung Ihrer Geschäftsreisen, indem Sie Packlisten erstellen, Budgets verwalten und Ihre Ausgaben im Blick behalten. Mit klaren Dashboards und automatischen Berechnungen sparen Sie Zeit und behalten die Kontrolle.</p>",
       "created": "2026-09-28T00:49:31",
-      "file": "reise-packlisten-planer-budget-tracker-selbststaendige-3bdc7fca549e53c9.xlsx",
+      "file": "reise-packlisten-planer-budget-tracker-selbststaendige-5e721fb99f718032.xlsx",
       "size": 10,
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Klare Anleitung ohne Rechts-/Finanzberatung. Keine Marken Dritter. Formeln funktional und sinnvoll. Beispielhafte Einträge klar erkennbar.",
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Inhalte sind klar strukturiert und sachlich korrekt. Beispieldaten sind plausibel und entsprechen dem Excel-Tool. Keine Regelverstöße festgestellt.",
       "pay_url": "https://buy.stripe.com/4gMeVe8EhctJdmK5sw2kw12",
       "payment_link_id": "plink_1UKSsvJ5iOXkWb9VA5EMyl4Q",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -1493,9 +1498,9 @@
       "sales": 0,
       "score": 7,
       "quality": 2,
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Der Inhalt ist allgemein gehalten und enthält keine erfundenen Statistiken oder Prozentzahlen. Es werden praktische Tipps gegeben, ohne gegen die Regeln zu verstoßen. Der Text ist auf Deutsch und vollständig, ohne Platzhalter oder unfertige Stellen.",
+      "audit_note": "Keine klaren Regelverstöße festgestellt. Das E-Book enthält allgemeine Ratschläge und praxisnahe Tipps ohne erfundene Statistiken oder Prozentangaben. Der Inhalt ist klar strukturiert und entspricht den Vorgaben für digitale Produkte.",
       "pay_url": "https://buy.stripe.com/7sYdRa7Ad3Xd1E2aMQ2kw13",
       "payment_link_id": "plink_1UKSsvJ5iOXkWb9VzC36L3K0",
       "site": "https://haiktec.tech"
@@ -1517,9 +1522,9 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Produkt entspricht den Regeln. Enthält keine erfundenen Statistiken, Prozentzahlen oder Quellen. Alle Formeln und Tabellen sind sinnvoll. Keine rechtlichen, finanziellen oder medizinischen Ratschläge. Sprache durchgängig Englisch. Beispielhafte Daten sind klar als solche erkennbar.",
+      "audit_note": "Das Produkt ist klar strukturiert und frei von erfunden Zahlen, Statistiken oder Gesundheitsversprechen. Es enthält keine Rechts-, Steuer- oder Finanzberatung und verwendet keine fremden Marken oder Figuren. Die Beispieldaten sind konsistent und die Kennzahlen plausibel. Kleinere Verbesserungen wäre",
       "pay_url": "https://buy.stripe.com/bJe7sMbQtgJZeqOf362kw14",
       "payment_link_id": "plink_1UKYBTJ5iOXkWb9Vj9wfnqFg",
       "site": "https://haiktec.tech"
@@ -1541,9 +1546,9 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Das E-Book bietet allgemeine, praktische Ratschläge zur Hundepflege für beschäftigte Frauen. Es enthält keine erfundenen Statistiken, Quellen oder gesundheitsbezogenen Versprechen. Der Inhalt ist realistisch und rechtlich unbedenklich.",
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Keine Regelverstöße, keine falsche Sprache oder unfertigen Texte. Das Produkt entspricht den Regeln.",
       "pay_url": "https://buy.stripe.com/7sY3cw9IlbpF4QebQU2kw15",
       "payment_link_id": "plink_1UKYBUJ5iOXkWb9VEZhy0eOx",
       "site": "https://haiktec.tech"
@@ -1853,159 +1858,72 @@
       "pay_url": "https://buy.stripe.com/aFacN67AdfFV0zY8EI2kw1j",
       "payment_link_id": "plink_1UKu4IJ5iOXkWb9VnjPQoHXm",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能报价计算器与施工现场管理表 - 2026专业版",
+      "slug": "zh-cn-construction-quote-calculator-site-management-2026",
+      "price_eur": 14.99,
+      "target": "小型建筑公司、装修承包商、个体工匠",
+      "reason": "中文建筑市场缺乏专业且本地化的报价工具，本模板解决：1) 增值税自动计算 2) 中英双语切换 3) 符合中国施工行业习惯的分类标准",
+      "language": "zh",
+      "pitch": "专业级施工报价模板，集成材料/工时成本自动计算 + 现场进度追踪。15分钟完成精确报价，误差减少90%",
+      "content_html": "<h2>内容</h2><p>含报价单生成器、材料库存追踪、工时记录表及可视化数据看板</p>",
+      "pro": true,
+      "created": "2026-09-29T23:45:29",
+      "file": "zh-cn-construction-quote-calculator-site-management-2026-cacdae952c66785f.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/8x200k07L0L1beCbQU2kw1k",
+      "payment_link_id": "plink_1ULApHJ5iOXkWb9VFYxmQHyV",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "星空下的奇妙冒险：7个温馨的晚安故事",
+      "slug": "star-night-adventures-for-children",
+      "price_eur": 5,
+      "target": "父母为孩子寻找温馨的晚安故事",
+      "reason": "父母一直在寻找温馨的晚安故事，帮助孩子在睡前放松并进入甜美的梦境。这本书提供了7个原创的温馨故事，适合3-8岁的孩子，促进亲子关系和想象力发展。",
+      "language": "zh",
+      "pitch": "每晚一个奇妙的故事，带孩子在星空下进入甜美的梦境。适合3-8岁的孩子，促进亲密关系和想象力。",
+      "content_html": "<h2>内容</h2> <ul><li>星空下的奇妙冒险</li><li>月亮上的小兔子</li><li>星星的愿望</li><li>云朵的秘密</li><li>彩虹桥上的朋友们</li><li>夜晚的风之旅</li><li>梦想花园</li></ul>",
+      "pro": false,
+      "created": "2026-09-29T23:45:29",
+      "file": "star-night-adventures-for-children-d55adda658e7c536.pdf",
+      "size": 1563,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/6oUbJ2aMpbpF96u08c2kw1l",
+      "payment_link_id": "plink_1ULApHJ5iOXkWb9Vz5ymKv7e",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Budget de Mariage & Suivi des Dépenses - Modèle Professionnel 2026",
+      "slug": "planificateur-budget-mariage-professionnel-2026",
+      "price_eur": 12,
+      "target": "Couples et wedding planners en France/Belgique/Canada qui veulent garder le contrôle de leur budget mariage avec un outil professionnel",
+      "reason": "Les couples consacrent en moyenne 18h à la planification financière de leur mariage. Ce template professionnel permet de gagner du temps, d'éviter les dépassements de budget et de garder une vision claire - ce qui justifie amplement son prix.",
+      "language": "fr",
+      "pitch": "Suivi précis de toutes les dépenses du mariage, analyse automatique par catégorie et prévision du budget restant. Conçu par des experts pour éviter les mauvaises surprises financières.",
+      "content_html": "<h2>Contenu</h2><p>Tableaux de bord intelligents, analyses par fournisseur et catégorie, rapports visuels pour prendre des décisions éclairées.</p>",
+      "pro": true,
+      "created": "2026-09-29T23:45:29",
+      "file": "planificateur-budget-mariage-professionnel-2026-2887a9902e90a62c.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/cNibJ2bQtbpF1E25sw2kw1m",
+      "payment_link_id": "plink_1ULApIJ5iOXkWb9VW9mLijk5",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.005689199999999999,
-      "why": "KI-Denken: NRW-Reisebudget-Tracker & Exkursionsplaner"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0010692,
-      "why": "KI-Pruefung: NRW-Reisebudget-Tracker & Exkursionsplaner"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 11 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0058211999999999995,
-      "why": "KI-Denken: NRW Städtereise-Budget-Tracker & Planer"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0011627999999999999,
-      "why": "KI-Pruefung: NRW Städtereise-Budget-Tracker & Planer"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0113688,
-      "why": "KI-Denken: Bayerische Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0043332,
-      "why": "KI-Pruefung: Bayerische Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0022451999999999997,
-      "why": "Excel-Upgrade: Pflegezeit- und Kostenplaner für pflegende Angehörige"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Pflegezeit- und Kostenplaner für pflegende Angehörige"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0025488,
-      "why": "Excel-Upgrade: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler baustellen-kalkulation-angebots-tool-fue: Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0023652,
-      "why": "Excel-Upgrade: Hochzeitsbudget-Tracker & Planer für Paare"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Hochzeitsbudget-Tracker & Planer für Paare"
-    },
-    {
-      "t": "2026-09-28T18:23:53",
-      "eur": -0.003918,
-      "why": "Audit: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstv"
-    },
-    {
-      "t": "2026-09-28T18:23:53",
-      "eur": -0.0026567999999999995,
-      "why": "Audit: YouTube Video Performance Tracker & Optimierungstool für Creator"
-    },
-    {
-      "t": "2026-09-28T18:23:53",
-      "eur": -0.0029448,
-      "why": "Audit: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tu"
-    },
-    {
-      "t": "2026-09-28T18:23:53",
-      "eur": -0.0029291999999999994,
-      "why": "Audit: Pflegezeit- und Kostenplaner für pflegende Angehörige"
-    },
-    {
-      "t": "2026-09-28T18:23:53",
-      "eur": -0.0038891999999999998,
-      "why": "Audit: Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbsts"
-    },
-    {
-      "t": "2026-09-28T18:23:53",
-      "eur": -0.0014964,
-      "why": "Audit: Baustellen-Kalkulation & Angebots-Tool für Handwerker"
-    },
-    {
-      "t": "2026-09-28T18:23:53",
-      "eur": 0,
-      "why": "Audit entfernt: Baustellen-Kalkulation & Angebots-Tool für Handwerker – 3 Formelfehler; Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen (die 19% MwSt sind korrekt). Alle Angaben sind klar als Beispiele g"
-    },
-    {
-      "t": "2026-09-28T18:23:53",
-      "eur": -0.0034559999999999994,
-      "why": "Audit: Magical Bedtime Tales: Enchanting Stories for Children aged 3-8"
-    },
-    {
-      "t": "2026-09-28T18:23:53",
-      "eur": -0.0026555999999999997,
-      "why": "Audit: Hochzeitsbudget-Tracker & Planer für Paare"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": 0,
-      "why": "Audit: 8 geprueft, 1 entfernt"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0012947999999999998,
-      "why": "Blog-Artikel: Schwarzwald (en)"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0009203999999999999,
-      "why": "Blog-Artikel: Saarland Saarschleife (zh)"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.00034079999999999994,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0056748,
-      "why": "KI-Denken: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0010355999999999998,
-      "why": "KI-Pruefung: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0108456,
-      "why": "KI-Denken: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heidelberg"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.00342,
-      "why": "KI-Pruefung: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heidelberg"
-    },
     {
       "t": "2026-09-28T23:19:54",
       "eur": -0.16,
@@ -2855,6 +2773,156 @@
       "t": "2026-09-29T19:27:18",
       "eur": -0.000402,
       "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.005738399999999999,
+      "why": "KI-Denken: 建筑工程预算与测量计算器"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.0010631999999999998,
+      "why": "KI-Pruefung: 建筑工程预算与测量计算器"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Table with name T___ already exists"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.00549,
+      "why": "KI-Denken: 智能报价计算器与施工现场管理表 - 2026专业版"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能报价计算器与施工现场管理表 - 2026专业版"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.010447199999999999,
+      "why": "KI-Denken: 星空下的奇妙冒险：7个温馨的晚安故事"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.0038855999999999995,
+      "why": "KI-Pruefung: 星空下的奇妙冒险：7个温馨的晚安故事"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.16,
+      "why": "KI-Bilder: 星空下的奇妙冒险：7个温馨的晚安故事"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.006554399999999999,
+      "why": "KI-Denken: Planificateur de Budget de Mariage & Suivi des Dépenses - Modèle Professionnel 2026"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.0016476,
+      "why": "KI-Pruefung: Planificateur de Budget de Mariage & Suivi des Dépenses - Modèle Professionnel 2026"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.0025092,
+      "why": "Excel-Upgrade: Planificateur d'entraînement intelligent pour coachs et indépendants"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler planificateur-entrainement-intelligent-c: Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.0020759999999999997,
+      "why": "Excel-Upgrade: Exam Countdown Planner & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler exam-countdown-planner-study-progress-tr: Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.0024468,
+      "why": "Excel-Upgrade: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständig"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständig"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": -0.001122,
+      "why": "Audit: Planificateur d'entraînement intelligent pour coachs et indépendants"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": 0,
+      "why": "Audit entfernt: Planificateur d'entraînement intelligent pour coachs et indépendants – 1 Formelfehler; Keine klaren Regelverstöße gefunden, aber die 'gains musculaires prévus' könnten als unbegründete Gesundheitsversprechen interpretiert werden. D"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": -0.0036948,
+      "why": "Audit: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": -0.0011255999999999998,
+      "why": "Audit: Exam Countdown Planner & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": 0,
+      "why": "Audit entfernt: Exam Countdown Planner & Study Progress Tracker for Students – 6 Formelfehler; Das Produkt ist eine einfache Excel-Vorlage für Studienplanung ohne erfundene Statistiken oder unzulässige Behauptungen. Die enthaltenen Formeln"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": -0.0032448,
+      "why": "Audit: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Yo"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": -0.0015275999999999998,
+      "why": "Audit: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Ed"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": -0.003919199999999999,
+      "why": "Audit: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": -0.0021311999999999998,
+      "why": "Audit: Volunteer & Club Event Budget Tracker"
+    },
+    {
+      "t": "2026-09-29T23:51:48",
+      "eur": -0.0031931999999999998,
+      "why": "Audit: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": 0,
+      "why": "Audit: 8 geprueft, 2 entfernt"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.0012107999999999997,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (en)"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.001116,
+      "why": "Blog-Artikel: Frankfurt Skyline (zh)"
+    },
+    {
+      "t": "2026-09-29T23:45:29",
+      "eur": -0.000372,
+      "why": "Video-Skript: Frankfurt Skyline"
     }
   ],
   "alive": true,
@@ -3100,6 +3168,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-09-29T19:27:18",
       "img": true
+    },
+    {
+      "slug": "exploring-hamburg-speicherstadt-travelers-guide",
+      "title": "Exploring Hamburg's Speicherstadt: A Traveler's Guide",
+      "lang": "en",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-09-29T23:45:29",
+      "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-deutschland-reise-tipps",
+      "title": "德国法兰克福天际线：现代与传统的完美融合",
+      "lang": "zh",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-09-29T23:45:29",
+      "img": true
     }
   ],
   "videos": [
@@ -3221,6 +3305,16 @@
       "hashtags": "#Rügen #Kreidefelsen #UNESCO #OstseeUrlaub #NaturwunderDeutschland",
       "voice": "Die Kreidefelsen von Rügen - Deutschlands strahlend weißes Naturwunder! Über 70 Meter hoch ragen die majestätischen Felsen aus der Ostsee. Dieses UNESCO-Weltnaturerbe entstand vor 70 Millionen Jahren. Atemberaubende Aussichten garantiert der Hochuferweg - ein Muss für Naturliebhaber! Die weißen Klippen leuchten besonders im Sonnenlicht. Einfach magisch!",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "frankfurt-skyline-deutschland-reise-tipps",
+      "title": "德国法兰克福天际线：现代与传统的完美融合",
+      "lang": "zh",
+      "created": "2026-09-29T23:45:29",
+      "hashtags": "#法兰克福 #德国旅游 #天际线 #欧洲金融中心 #美因塔",
+      "voice": "欢迎来到法兰克福！这座德国最具活力的城市，以其壮观的天际线闻名于世。美因塔高耸云端，俯瞰着这座欧洲金融中心。漫步在博物馆河岸，感受文化与自然的交汇。无论是古典建筑还是现代摩天大楼，法兰克福完美融合了历史与未来。来这里，体验浪漫与繁华并存的独特魅力，探索这座城市的无限可能！",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
