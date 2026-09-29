@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 496.8323,
-  "spent_eur": 7.8377,
+  "balance_eur": 496.0151,
+  "spent_eur": 8.6549,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -539,7 +539,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Einige Prozentzahlen (50%, 6%, 70%, 85%) wurden als auffällig markiert, aber im geprüften Textabschnitt nicht gefunden. Der Inhalt enthält keine konkreten, unbelegten Statistiken oder Studien. Es handelt sich um allgemeine Ratschläge ohne Fachberatung."
+      "audit_note": "Einige Prozentzahlen (50%, 6%, 70%, 85%) wurden als auffällig markiert, aber im geprüften Textabschnitt nicht gefunden. Der Inhalt enthält keine konkreten, unbelegten Statistiken oder Studien. Es handelt sich um allgemeine Ratschläge ohne Fachberatung.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4584785941"
+      }
     },
     {
       "type": "excel",
@@ -563,7 +566,10 @@
       "audit_v": 3,
       "audit_score": 10,
       "audit_note": "Der Inhalt erfüllt alle Anforderungen: Keine erfundenen Studien, Statistiken oder Quellen, klare Funktionsbeschreibung ohne Gesundheitsversprechen oder Rechtsberatung, korrekte Beispielwerte ohne irreführende Angaben.",
-      "pro": true
+      "pro": true,
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4584793196"
+      }
     },
     {
       "type": "ebook",
@@ -586,7 +592,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Keine klaren Regelverstöße gefunden. Der Inhalt enthält praktische Tipps ohne erfundene Statistiken oder Prozentzahlen. Die Empfehlungen sind allgemein gehalten und basieren auf nachvollziehbaren Praxiserfahrungen."
+      "audit_note": "Keine klaren Regelverstöße gefunden. Der Inhalt enthält praktische Tipps ohne erfundene Statistiken oder Prozentzahlen. Die Empfehlungen sind allgemein gehalten und basieren auf nachvollziehbaren Praxiserfahrungen.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4584785975"
+      }
     },
     {
       "type": "excel",
@@ -747,12 +756,14 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/14AbJ2g6J8dt96u8EI2kw0x",
       "payment_link_id": "plink_1UKDBwJ5iOXkWb9V1Xkccrg1",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Klare Funktionsbeschreibung ohne falsche Behauptungen. Beispielhafte Einträge als solche erkennbar. Keine Regelverstöße bzgl. Recht, Finanzen oder Marken."
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Alle Angaben sind klar als Beispiele gekennzeichnet und entsprechen den Regeln. Es gibt keine sachlichen Fehler oder Regelverstöße. Der Inhalt ist vollständig und klar strukturiert.",
+      "pro": "fehler",
+      "retired": true,
+      "retired_why": "7 Formelfehler; Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Alle Angaben sind klar als Beispiele gekennzeichnet und entsprechen den Regeln. Es gibt keine sachlichen Fehler oder Regelverstöße. Der Inhalt ist vollständig und klar strukturiert."
     },
     {
       "type": "ebook",
@@ -773,9 +784,9 @@
       "pay_url": "https://buy.stripe.com/7sYcN6bQt79pgyW1cg2kw0y",
       "payment_link_id": "plink_1UKDBxJ5iOXkWb9VqpwuMgCM",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 10,
-      "audit_note": "Der Inhalt hält sich an die Regeln: keine erfundenen Studien, Statistiken oder Prozentzahlen enthalten; allgemein bekannte Fakten und praktische Tipps verwendet; keine Rechts-, Steuer-, Finanz- oder Medizinberatung; keine Gesundheitsversprechen oder fremden Marken; keine sachlichen Fehler oder Platz"
+      "audit_note": "Der Inhalt hält sich strikt an die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Der Text ist sachlich korrekt, bietet praktische Tipps und vermeidet jegliche Form von Beratung oder Gesundheitsversprechen. Die Sprache ist durchgängig Deutsch und klar formuliert, ohne Platzhalte"
     },
     {
       "type": "excel",
@@ -793,12 +804,14 @@
       "sales": 0,
       "score": 7,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/3cI9AU5s52T91E2g7a2kw0z",
       "payment_link_id": "plink_1UKDttJ5iOXkWb9VSsH8reoX",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Keine erfundenen Zahlen oder Statistiken gefunden. Die Inhalte entsprechen den Regeln und sind klar als Beispiele oder individuelle Einträge gekennzeichnet. Produkt ist funktional und regelkonform."
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Zitate. Sprachlich korrekt und konsistent. Beispiele dienen lediglich der Veranschaulichung. Leichte Schwächen bei der Formelkorrektheit in der ROI-Analyse.",
+      "pro": "fehler",
+      "retired": true,
+      "retired_why": "7 Formelfehler; Keine erfundenen Studien, Statistiken oder Zitate. Sprachlich korrekt und konsistent. Beispiele dienen lediglich der Veranschaulichung. Leichte Schwächen bei der Formelkorrektheit in der ROI-Analyse."
     },
     {
       "type": "ebook",
@@ -836,12 +849,14 @@
       "sales": 0,
       "score": 7,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/dRmaEY9IldxNgyW6wA2kw0B",
       "payment_link_id": "plink_1UKDtvJ5iOXkWb9V0ScC0ITf",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Keine Verstöße gegen die Regeln festgestellt. Der Inhalt beschreibt klar die Funktionen des Produkts ohne erfundene Studien, Gesundheitsversprechen oder Marken Dritter. Excel-Formeln sind sinnvoll eingesetzt. Beispielfunktionen sind korrekt dargestellt."
+      "audit_note": "Der Inhalt ist klar und übersichtlich gestaltet, enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es gibt keine Rechts-, Steuer- oder Finanzberatung und keine Verwendung von Marken oder Figuren Dritter. Die Beispieltabellen sind plausibel und klar als Beispiel markiert. Es ",
+      "pro": "fehler",
+      "retired": true,
+      "retired_why": "1 Formelfehler; Der Inhalt ist klar und übersichtlich gestaltet, enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es gibt keine Rechts-, Steuer- oder Finanzberatung und keine Verwendung von Marken oder Figuren Dritter. Die Beispieltabellen sind plausibel und klar als Beispi"
     },
     {
       "type": "ebook",
@@ -862,9 +877,9 @@
       "pay_url": "https://buy.stripe.com/9B64gA5s5gJZeqO6wA2kw0C",
       "payment_link_id": "plink_1UKEMsJ5iOXkWb9VqZmnJzG8",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken oder konkreten Prozentangaben. Es werden nur allgemein bekannte Praxistipps und Prinzipien des Minimalismus geteilt, ohne medizinische, finanzielle oder rechtliche Beratung. Der Text ist vollständig und in korrektem Deutsch verfasst."
+      "audit_note": "Keine erfundenen Zahlen oder Studien vorhanden. Inhalt besteht aus allgemein bekannten Ratschlägen und Praxis-Tipps. Keine klaren Regelverstöße erkennbar."
     },
     {
       "type": "excel",
@@ -882,12 +897,13 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/28E6oIdYB1P5aayf362kw0D",
       "payment_link_id": "plink_1UKEMtJ5iOXkWb9VXATLBcF8",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Die Prozentangaben für Nebenkosten und Gewinnmarge sind nicht als allgemein bekannte Werte gekennzeichnet. Alle anderen Inhalte sind korrekt: USt-Sätze (7%/19%) sind gültig, Excel-Formeln plausibel."
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Zahlen oder Statistiken, keine Beratung oder Gesundheitsversprechen und verwendet nur allgemein bekannte Fakten wie den Umsatzsteuersatz. Die Excel-Beispiele sind klar als Beispielrechnungen markiert und die Prozentzahlen (z.B. Rabatte, Neben",
+      "retired": true,
+      "retired_why": "2 Formelfehler; Der Inhalt ist sachlich korrekt, enthält keine erfundenen Zahlen oder Statistiken, keine Beratung oder Gesundheitsversprechen und verwendet nur allgemein bekannte Fakten wie den Umsatzsteuersatz. Die Excel-Beispiele sind klar als Beispielrechnungen markiert und die Prozentzahlen (z.B"
     },
     {
       "type": "ebook",
@@ -908,9 +924,9 @@
       "pay_url": "https://buy.stripe.com/8x2eVecUx51h4QeaMQ2kw0E",
       "payment_link_id": "plink_1UKEMuJ5iOXkWb9VpSf8oWMw",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Das E-Book entspricht den vorgegebenen Regeln. Es enthält keine erfundenen Studien, Statistiken oder unzulässigen Gesundheitsversprechen. Die Geschichten sind kindgerecht, fantasievoll und ohne fremde Marken oder Figuren. Die Sprache ist durchgehend korrekt und es gibt keine unfertigen Textstellen o"
+      "audit_note": "Der Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Geschichten sind kreativ und geeignet für die Zielgruppe. Die Sprache ist korrekt und es gibt keine Platzhalter oder Wiederholungen. Keine Gesundheitsversprechen, fremde Marken oder unerlaubte Beratung. L"
     },
     {
       "type": "excel",
@@ -928,12 +944,13 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/fZu5kE9Il0L1gyW08c2kw0F",
       "payment_link_id": "plink_1UKEY0J5iOXkWb9VISyuZhLg",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Der Inhalt entspricht den Regeln. Es werden keine erfundenen Studien, Statistiken oder Quellen genannt. Die Sprache ist durchgängig Deutsch und konsistent, ohne Platzhalter oder unfertige Texte. Die Excel-Formeln sind sinnvoll und korrekt dargestellt. Es handelt sich um eine praktische Checkliste un"
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Keine Regelverstöße. Der Inhalt ist klar strukturiert und enthält keine unzulässigen Angaben.",
+      "retired": true,
+      "retired_why": "3 Formelfehler; Keine erfundenen Zahlen, Statistiken oder Quellen. Keine Regelverstöße. Der Inhalt ist klar strukturiert und enthält keine unzulässigen Angaben."
     },
     {
       "type": "ebook",
@@ -1776,249 +1793,51 @@
       "pay_url": "https://buy.stripe.com/5kQ4gAf2F8dtdmK5sw2kw1h",
       "payment_link_id": "plink_1UKo09J5iOXkWb9VMhA5MQv4",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Berlin & Potsdam Road Trip Planner: Budget Tracker & Itinerary Organizer",
+      "slug": "berlin-potsdam-road-trip-planner-budget-tracker-itinerary-organizer",
+      "price_eur": 9,
+      "target": "Self-employed travelers planning a trip to Berlin and Potsdam",
+      "reason": "Este planificador ofrece una solución integral para organizar un viaje a Berlín y Potsdam, ayudando a mantener el control del presupuesto y las actividades planificadas.",
+      "language": "es",
+      "pitch": "Planifica tu viaje a Berlín y Potsdam con facilidad y controla tu presupuesto en cada paso.",
+      "content_html": "<h2>Inhalt</h2><p>Organiza y controla tu viaje a Berlín y Potsdam con este práctico planificador y rastreador de gastos. Incluye itinerario diario, seguimiento de gastos y herramientas para optimizar tu presupuesto.</p>",
+      "pro": true,
+      "created": "2026-09-29T05:48:44",
+      "file": "berlin-potsdam-road-trip-planner-budget-tracker-itinerary-organizer-cdf4c51a0372a195.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/9B69AUcUxgJZbeC7AE2kw1i",
+      "payment_link_id": "plink_1UKu4IJ5iOXkWb9Vk15sWegr",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores",
+      "slug": "descubre-sajonia-guia-practica-dresden",
+      "price_eur": 5,
+      "target": "Hombres viajeros autónomos que buscan experiencias auténticas en Sajonia (25-50 años, aventureros culturales)",
+      "reason": "Existe demanda creciente de guías prácticas de Alemania para hispanohablantes, especialmente fuera de las rutas turísticas masivas. Este nicho combina cultura, gastronomía y consejos logísticos específicos para viajeros autónomos que buscan autonomía y experiencias genuinas.",
+      "language": "es",
+      "pitch": "Descubre los secretos mejor guardados de Sajonia con esta guía práctica. 7 rutas temáticas con mapas sencillos y consejos locales para disfrutar Dresden como un experto.",
+      "content_html": "<h2>Contenido</h2><ul><li>Introducción: Por qué Sajonia es el destino perfecto</li><li>Capítulo 1: El Triángulo Dorado - Dresden, Meissen y Sächsische Schweiz</li><li>Capítulo 2: Ruta de la Cerveza Artesanal Sajona</li><li>Capítulo 3: Arquitectura e Historia Militar</li><li>Capítulo 4: Paseos en Bicicleta por el Río Elba</li><li>Capítulo 5: Gastronomía Local tras el Turismo de Masas</li><li>Capítulo 6: Los 7 Miradores Secretos</li><li>Conclusión: Tu Itinerario Personalizado</li></ul><p>Muestra: Capítulo 2 (primera página)...</p>",
+      "pro": false,
+      "created": "2026-09-29T05:48:44",
+      "file": "descubre-sajonia-guia-practica-dresden-a9eddd912cf9ae01.pdf",
+      "size": 1665,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/aFacN67AdfFV0zY8EI2kw1j",
+      "payment_link_id": "plink_1UKu4IJ5iOXkWb9VnjPQoHXm",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-27T21:33:42",
-      "eur": -0.00108,
-      "why": "Audit: Planificateur d'entraînement intelligent pour coachs et indépendants"
-    },
-    {
-      "t": "2026-09-27T21:33:42",
-      "eur": -0.0037355999999999995,
-      "why": "Audit: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et"
-    },
-    {
-      "t": "2026-09-27T21:33:42",
-      "eur": -0.0010932,
-      "why": "Audit: Exam Countdown Planner & Study Progress Tracker for Students"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.001632,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (de)"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.0013164,
-      "why": "Blog-Artikel: Frankfurt Skyline (en)"
-    },
-    {
-      "t": "2026-09-27T21:23:13",
-      "eur": -0.00035999999999999997,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.009684,
-      "why": "KI-Denken: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Your Sales"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.0034943999999999995,
-      "why": "KI-Pruefung: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Your Sales"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Your Sales"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.0041544,
-      "why": "KI-Denken: Reisebudget-Tracker & Packlisten-Manager für stressfreie Urlaube"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Reisebudget-Tracker & Packlisten-Manager für stressfreie Urlaube"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.0043452,
-      "why": "KI-Denken: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Edition)"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.0010631999999999998,
-      "why": "KI-Pruefung: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Edition)"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.011124,
-      "why": "KI-Denken: Der Etsy-Verkaufsbooster: 7 bewährte Strategien für mehr Sichtbarkeit und Umsatz"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.004285199999999999,
-      "why": "KI-Pruefung: Der Etsy-Verkaufsbooster: 7 bewährte Strategien für mehr Sichtbarkeit und Umsatz"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1486 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.0118704,
-      "why": "KI-Denken: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.0043343999999999995,
-      "why": "KI-Pruefung: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.16,
-      "why": "KI-Bilder: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-09-28T00:57:27",
-      "eur": -0.0032112,
-      "why": "Audit: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Yo"
-    },
-    {
-      "t": "2026-09-28T00:57:27",
-      "eur": -0.0012024,
-      "why": "Audit: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Ed"
-    },
-    {
-      "t": "2026-09-28T00:57:27",
-      "eur": -0.0039168,
-      "why": "Audit: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.0006803999999999998,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (zh)"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.0012816,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (es)"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.00036839999999999996,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Digital Classroom Masterclass: Essential Tech Tools for Modern Teachers & Tutors"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583985442"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Pflegezeit- und Kostenplaner für pflegende Angehörige"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583976837"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Die Kunst der Selbstmotivation: 7 bewährte Strategien für Freelancer und Selbstständige"
-    },
-    {
-      "t": "2026-09-28T00:49:31",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4583985482"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.005272799999999999,
-      "why": "KI-Denken: Membership Management & Event Budget Planner for Clubs & Volunteers"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.001254,
-      "why": "KI-Pruefung: Membership Management & Event Budget Planner for Clubs & Volunteers"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Benutzerfreundlichkeit könnte durch zusätzliche Automatisierungen verbessert werden'}"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0053016,
-      "why": "KI-Denken: Volunteer & Club Management Tracker: Membership, Finances & Events"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0011819999999999999,
-      "why": "KI-Pruefung: Volunteer & Club Management Tracker: Membership, Finances & Events"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0049499999999999995,
-      "why": "KI-Denken: Non-Profit Volunteer Management Tracker for Associations"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Non-Profit Volunteer Management Tracker for Associations"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.005148,
-      "why": "KI-Denken: Volunteer & Club Event Budget Tracker"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.0010248,
-      "why": "KI-Pruefung: Volunteer & Club Event Budget Tracker"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.010565999999999999,
-      "why": "KI-Denken: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.003516,
-      "why": "KI-Pruefung: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
-    },
-    {
-      "t": "2026-09-28T06:29:59",
-      "eur": -0.16,
-      "why": "KI-Bilder: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
-    },
     {
       "t": "2026-09-28T06:29:59",
       "eur": -0.0056435999999999995,
@@ -2778,6 +2597,251 @@
       "t": "2026-09-28T23:19:54",
       "eur": -0.0003972,
       "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0063696,
+      "why": "KI-Denken: Berlin & Potsdam Ultimate City Guide: Budget Tracker & Itinerary Planner"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0014831999999999998,
+      "why": "KI-Pruefung: Berlin & Potsdam Ultimate City Guide: Budget Tracker & Itinerary Planner"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0056771999999999994,
+      "why": "KI-Denken: Berlin & Potsdam Road Trip Planner: Budget Tracker & Itinerary Organizer"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Berlin & Potsdam Road Trip Planner: Budget Tracker & Itinerary Organizer"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.012379199999999996,
+      "why": "KI-Denken: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.004220399999999999,
+      "why": "KI-Pruefung: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.16,
+      "why": "KI-Bilder: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0057983999999999996,
+      "why": "KI-Denken: 智能建筑项目管理与预算跟踪器"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能建筑项目管理与预算跟踪器"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Table with name T___ already exists"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0056976,
+      "why": "KI-Denken: 智能建筑项目预算与进度跟踪器"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能建筑项目预算与进度跟踪器"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0058608,
+      "why": "KI-Denken: 建筑项目预算与测量计算器"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0011003999999999999,
+      "why": "KI-Pruefung: 建筑项目预算与测量计算器"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Table with name T___ already exists"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.005606399999999999,
+      "why": "KI-Denken: 建筑项目报价与测量计算器 - 工匠专用高效工具"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 建筑项目报价与测量计算器 - 工匠专用高效工具"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.00258,
+      "why": "Excel-Upgrade: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler umzugsbudget-renovierungskosten-rechner: Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0020988,
+      "why": "Excel-Upgrade: YouTube Content Planner & ROI-Tracker für Creator"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler youtube-content-planner-roi-tracker-fuer: Excel mit 7 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0021636,
+      "why": "Excel-Upgrade: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler senioren-medikationsplaner-erinnerungstr: Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": -0.0015035999999999997,
+      "why": "Audit: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": 0,
+      "why": "Audit entfernt: Umzugsbudget & Renovierungskosten-Rechner für Selbstständige – 7 Formelfehler; Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Alle Angaben sind klar als Beispiele gekennzeichnet und entspreche"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": -0.003997199999999999,
+      "why": "Audit: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": -0.0017808,
+      "why": "Audit: YouTube Content Planner & ROI-Tracker für Creator"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": 0,
+      "why": "Audit entfernt: YouTube Content Planner & ROI-Tracker für Creator – 7 Formelfehler; Keine erfundenen Studien, Statistiken oder Zitate. Sprachlich korrekt und konsistent. Beispiele dienen lediglich der Veranschaulichung. Leichte "
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": -0.0012035999999999998,
+      "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": 0,
+      "why": "Audit entfernt: Senioren-Medikationsplaner & Erinnerungstracker – 1 Formelfehler; Der Inhalt ist klar und übersichtlich gestaltet, enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es gibt keine Rechts"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": -0.0037703999999999997,
+      "why": "Audit: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfac"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": -0.0014892,
+      "why": "Audit: Baustellen-Angebots-Kalkulator für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": 0,
+      "why": "Audit entfernt: Baustellen-Angebots-Kalkulator für Handwerksbetriebe – 2 Formelfehler; Der Inhalt ist sachlich korrekt, enthält keine erfundenen Zahlen oder Statistiken, keine Beratung oder Gesundheitsversprechen und verwendet nur "
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": -0.0040932,
+      "why": "Audit: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinde"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": -0.0013847999999999998,
+      "why": "Audit: Hochzeits-Checkliste & Budget-Tracker für perfekte Planung"
+    },
+    {
+      "t": "2026-09-29T05:58:10",
+      "eur": 0,
+      "why": "Audit entfernt: Hochzeits-Checkliste & Budget-Tracker für perfekte Planung – 3 Formelfehler; Keine erfundenen Zahlen, Statistiken oder Quellen. Keine Regelverstöße. Der Inhalt ist klar strukturiert und enthält keine unzulässigen Angaben."
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Audit: 8 geprueft, 5 entfernt"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0012923999999999998,
+      "why": "Blog-Artikel: Bodensee (de)"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.0010811999999999998,
+      "why": "Blog-Artikel: Mosel Cochem (en)"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.000336,
+      "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Clever Sparen im Alltag: Einfache Tricks für private Haushaltsfinanzen"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584785941"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Fitness Progress Tracker für Trainer & Selbständige"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584793196"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-09-29T05:48:44",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584785975"
     }
   ],
   "alive": true,
@@ -2975,6 +3039,22 @@
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-09-28T23:19:54",
       "img": true
+    },
+    {
+      "slug": "entdecke-den-bodensee-ein-paradies-in-deutschland",
+      "title": "Entdecke den Bodensee: Ein Paradies in Deutschland",
+      "lang": "de",
+      "topic": "Bodensee",
+      "created": "2026-09-29T05:48:44",
+      "img": true
+    },
+    {
+      "slug": "exploring-cochem-at-the-mosel-charming-german-gem",
+      "title": "Exploring Cochem at the Mosel: A Charming German Gem",
+      "lang": "en",
+      "topic": "Mosel Cochem",
+      "created": "2026-09-29T05:48:44",
+      "img": true
     }
   ],
   "videos": [
@@ -3066,6 +3146,16 @@
       "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #Allemagne #VoyageCulturel",
       "voice": "Plongez dans l'histoire industrielle de l'Allemagne au site Zollverein, classé au patrimoine mondial de l'UNESCO ! Cet ancien complexe minier, symbole de la révolution industrielle, vous transporte à l'âge d'or du charbon et de l'acier. Explorez son architecture avant-gardiste, visitez le musée captivant, et profitez d'une vue à couper le souffle sur la Ruhr. Une expérience culturelle fascinante à ne pas manquer !",
       "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "exploring-cochem-at-the-mosel-charming-german-gem",
+      "title": "Exploring Cochem at the Mosel: A Charming German Gem",
+      "lang": "en",
+      "created": "2026-09-29T05:48:44",
+      "hashtags": "#MoselValley #CochemMagic #GermanCastles #WineCountry #RiverCruise",
+      "voice": "Welcome to Cochem, where the Mosel River paints a dream! Sail past medieval Reichsburg Castle perched above vineyards. Stroll flower-filled alleys of the Old Town, where half-timbered houses whisper history. Sip world-class Riesling as boats glide by. Adventure? Hike to Pinnerkreuz for epic valley views! #TravelGermany",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
