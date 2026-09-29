@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 495.3732,
-  "spent_eur": 9.2968,
+  "balance_eur": 495.2909,
+  "spent_eur": 9.3791,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1170,9 +1170,9 @@
       "pay_url": "https://buy.stripe.com/fZu3cwcUxgJZ82q9IM2kw0O",
       "payment_link_id": "plink_1UKFdYJ5iOXkWb9VaXVXvaM8",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Insgesamt ein guter, familienfreundlicher Reiseführer ohne gravierende Regelverstöße. Der Inhalt ist praxisnah und basiert auf allgemein bekanntem Wissen. Der erwähnte Wert '30%' ist jedoch nicht belegt und sollte entfernt werden. Keine gefälschten Studien, Gesundheitsversprechen oder Rechtsberatung"
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Einzelne Prozentzahl (30%) ohne klare Grundlage gefunden, jedoch kein schwerwiegender Verstoß gegen die Regeln. Der Rest des Inhalts entspricht den Vorgaben und ist frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen."
     },
     {
       "type": "excel",
@@ -1183,9 +1183,9 @@
       "reason": "Spezialisiert auf die boomende Touristik-Branche an Deutschlands Küsten. Kombiniert praktische Reiseplanung mit präziser Budgetierung - genau was selbstständige Reiseleiter für professionelle Gruppenreisen benötigen. Gibt es so noch nicht im Angebot.",
       "language": "de",
       "pitch": "Professionelle Reiseplanung mit automatischer Budgetkalkulation und Routenoptimierung. Spart Zeit und erhöht Kundenzufriedenheit durch präzise Kalkulation.",
-      "content_html": "<h2>Inhalt</h2><p>Automatische Budgetberechnung, Kilometer- und Zeitplanung für Rundreisen, Ausgaben-Tracking für Gruppen, ROI-Kalkulation pro Tour</p>",
+      "content_html": "<h2>Inhalt</h2>Die Excel-Vorlage unterstützt Sie bei der Budgetplanung und Routenoptimierung für Ihre Gruppenreisen. Mit integrierten Dashboards und Übersichten behalten Sie stets den Überblick.",
       "created": "2026-09-27T10:42:36",
-      "file": "ostsee-nordsee-reisebudget-tracker-routeplaner-fde3702534016d04.xlsx",
+      "file": "ostsee-nordsee-reisebudget-tracker-routeplaner-2002bb2c1e1022d2.xlsx",
       "size": 10,
       "sales": 0,
       "score": 8,
@@ -1193,9 +1193,10 @@
       "pay_url": "https://buy.stripe.com/14AeVe1bPgJZ82qbQU2kw0P",
       "payment_link_id": "plink_1UKFdYJ5iOXkWb9Veaevddg6",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 10,
-      "audit_note": "Der Inhalt ist klar strukturiert, es gibt keine erfundenen Zahlen, Statistiken oder Quellen. Die Sprache ist korrekt und einheitlich deutsch. Es gibt keine unfertigen Texte, Platzhalter oder sachlichen Fehler. Das Produkt bietet praktische Tipps und Beispielrechnungen, die als solche gekennzeichnet "
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Zahlen, Statistiken oder Quellen, keine Beratung, keine fremden Marken/Figuren. Die Excel-Funktionen sind sinnvoll und die Beispieldaten plausibel. Die Sprache ist konsistent und klar. Kleinere Verbesserungen sind möglich, z.B. fehlende Klarstellung",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -1216,9 +1217,9 @@
       "pay_url": "https://buy.stripe.com/4gMcN6bQtalBbeC9IM2kw0Q",
       "payment_link_id": "plink_1UKFdZJ5iOXkWb9VqfOUK8NE",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Insgesamt guter Reiseführer mit praxisnahen Tipps, jedoch finden sich vereinzelte nicht belegte Prozentangaben (z.B. '30% günstiger'). Der Inhalt ist ansonsten regelkonform und bietet nützliche lokale Informationen ohne falsche Behauptungen oder unzulässige Versprechen."
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Eine Prozentzahl (30%) wurde ohne Quellenangabe oder allgemeine Bekanntheit verwendet, ist jedoch nicht kritisch genug für eine Entfernung."
     },
     {
       "type": "excel",
@@ -1239,9 +1240,10 @@
       "pay_url": "https://buy.stripe.com/00w6oI7Ad2T9dmKcUY2kw0S",
       "payment_link_id": "plink_1UKH1sJ5iOXkWb9VUT4XS9s5",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder falschen Angaben. Klare Struktur, praktische Excel-Funktionen ohne Fehler. Inhalte sind allgemein gültig und entsprechen den Regeln."
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Zahlen, Statistiken oder Quellen, keine Gesundheitsversprechen, keine Rechts-, Steuer- oder Finanzberatung, keine fremden Marken oder Figuren. Die Beispielrechnungen sind klar als solche markiert und die Excel-Tabellen sind sinnvoll strukturiert.",
+      "pro": "fehler"
     },
     {
       "type": "ebook",
@@ -1262,9 +1264,9 @@
       "pay_url": "https://buy.stripe.com/8x26oIbQt1P596ucUY2kw0T",
       "payment_link_id": "plink_1UKH1tJ5iOXkWb9VJtuxjKao",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 10,
-      "audit_note": "Der Inhalt ist regelkonform: Keine erfundenen Studien, Statistiken oder Zahlen, keine Beratung, keine Gesundheitsversprechen oder Marken Dritter. Der Text ist vollständig, ohne Platzhalter oder Wiederholungen, und bietet praxisnahe Tipps für Reisende."
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Statistiken, Prozentzahlen oder Quellen gefunden. Der Text ist klar, vollständig und entspricht den Regeln. Einige Stellen könnten etwas präziser sein, aber insgesamt ist das Produkt regelkonform."
     },
     {
       "type": "excel",
@@ -1309,9 +1311,9 @@
       "pay_url": "https://buy.stripe.com/5kQ9AU3jXbpF1E29IM2kw0V",
       "payment_link_id": "plink_1UKLX7J5iOXkWb9VnNXnZ18N",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 9,
-      "audit_note": "Keine Regelverstöße festgestellt. Der Inhalt besteht aus originellen Kindergeschichten ohne erfundene Studien, Statistiken oder gesundheitliche Versprechen. Die Sprache ist korrekt Spanisch und es gibt keine unfertigen Texte oder Platzhalter."
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist legal, ehrlich und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Der Text ist vollständig, ohne Platzhalter oder Wiederholungen. Es handelt sich um eine Sammlung von kindgerechten Geschichten, die keine Gesundheitsversprechen, Markenbezüge oder sac"
     },
     {
       "type": "excel",
@@ -1322,9 +1324,9 @@
       "reason": "亚洲婚礼产业规模持续增长，但专业预算工具稀缺。该产品针对大中华区市场需求定制，解决跨国婚礼规划中的货币换算和预算控制痛点，比现有产品更符合本地使用习惯。",
       "language": "zh",
       "pitch": "一站式解决您的婚礼预算烦恼，7大智能计算表格帮您精准控制每一项支出，轻松规划梦想婚礼",
-      "content_html": "<h2>2026年婚礼预算完整解决方案</h2><p>包含场地预定、婚宴管理、礼服配饰、摄影摄像等7大核心模块</p>",
+      "content_html": "<h2>内容</h2>通过智能预算跟踪和规划工具，确保您的婚礼预算在控制之内。包含多个工作表、图表和KPI，提供全面的预算管理。",
       "created": "2026-09-27T17:01:01",
-      "file": "smart-wedding-budget-planner-2026-dbf817734134ff75.xlsx",
+      "file": "smart-wedding-budget-planner-2026-aef0e39c6d2b72f3.xlsx",
       "size": 10,
       "sales": 0,
       "score": 7,
@@ -1332,9 +1334,10 @@
       "pay_url": "https://buy.stripe.com/00w28s07L79p2I6cUY2kw0W",
       "payment_link_id": "plink_1UKLX8J5iOXkWb9VifOdU5ec",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 10,
-      "audit_note": "Keine erfundenen Zahlen, Statistiken, Zitate oder Quellen gefunden. Inhalt entspricht den Regeln: legal, ehrlich, kein Spam, keine Finanz-/Rechts-/Steuerberatung, keine Gesundheitsversprechen, keine Marken/Figuren Dritter, keine Kopien bestehender Werke. Formeln und Tabellen sind sinnvoll und korrek"
+      "audit_note": "Keine Verstöße gegen die Regeln festgestellt. Der Inhalt ist legal, ehrlich, enthält keine erfundenen Studien, Statistiken oder Quellen. Es handelt sich um ein klar strukturiertes Excel-Tool zur Budgetplanung ohne irreführende Angaben oder Gesundheitsversprechen. Die Sprache ist korrekt und einheitl",
+      "pro": true
     },
     {
       "type": "ebook",
@@ -1355,9 +1358,9 @@
       "pay_url": "https://buy.stripe.com/8x25kE6w951h2I69IM2kw0X",
       "payment_link_id": "plink_1UKLX8J5iOXkWb9VLXVVV3TH",
       "site": "https://haiktec.tech",
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Gut strukturierter Ratgeber mit praktischen Tipps, keine gravierenden Regelverstöße. Zwei nicht belegte Prozentangaben sollen entfernt werden (können durch allgemeine Formulierungen ersetzt werden). Keine Finanzberatung, nur allgemeine Sparhinweise."
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Einige Prozentzahlen (z.B. '现金支付能让消费金额降低15-30%', '减少22%的非计划购物') sind nicht allgemein bekannt und wirken erfunden. Der Inhalt ist jedoch ansonsten nützlich und entspricht den Regeln."
     },
     {
       "type": "excel",
@@ -1853,206 +1856,6 @@
     }
   ],
   "log": [
-    {
-      "t": "2026-09-28T06:57:30",
-      "eur": -0.0034355999999999996,
-      "why": "Audit: 高效教学计划：教师与辅导员的实用指导"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": 0,
-      "why": "Audit: 6 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0010704,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (en)"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.0011351999999999998,
-      "why": "Blog-Artikel: Muenchen Marienplatz (zh)"
-    },
-    {
-      "t": "2026-09-28T06:44:42",
-      "eur": -0.000372,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.0059184,
-      "why": "KI-Denken: Planificateur de Soins et Suivi Médical pour Personnes Âgées"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.0013583999999999998,
-      "why": "KI-Pruefung: Planificateur de Soins et Suivi Médical pour Personnes Âgées"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.0118404,
-      "why": "KI-Denken: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.0039324,
-      "why": "KI-Pruefung: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.00531,
-      "why": "KI-Denken: Ultimate Black Forest Travel Planner & Budget Tracker for Families"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Black Forest Travel Planner & Budget Tracker for Families"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.001974,
-      "why": "Excel-Upgrade: Freelancer-Invoice-Tracker für internationale Aufträge"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Freelancer-Invoice-Tracker für internationale Aufträge"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.0024671999999999997,
-      "why": "Excel-Upgrade: Umzugsbudget- und Zeitplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Umzugsbudget- und Zeitplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.0025031999999999997,
-      "why": "Excel-Upgrade: YouTube Video Performance Tracker & Optimierungstool für Creator"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: YouTube Video Performance Tracker & Optimierungstool für Creator"
-    },
-    {
-      "t": "2026-09-28T08:57:12",
-      "eur": -0.005039999999999999,
-      "why": "Audit: Stundentracker für Freelancer"
-    },
-    {
-      "t": "2026-09-28T08:57:12",
-      "eur": 0,
-      "why": "Audit entfernt: Stundentracker für Freelancer – 1 Formelfehler; Das Produkt ist legal, ehrlich und frei von Spam. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es bietet keine Beratung "
-    },
-    {
-      "t": "2026-09-28T08:57:12",
-      "eur": -0.0038171999999999998,
-      "why": "Audit: Effizientes Selbstmanagement für Selbstständige in 6 Schritten"
-    },
-    {
-      "t": "2026-09-28T08:57:12",
-      "eur": -0.0017868,
-      "why": "Audit: Kundenrückgewinnungs-Tracker für Kleinunternehmer"
-    },
-    {
-      "t": "2026-09-28T08:57:12",
-      "eur": -0.003138,
-      "why": "Audit: The Ultimate Guide to Time Blocking for Freelancers and Small Business Owners"
-    },
-    {
-      "t": "2026-09-28T08:57:12",
-      "eur": -0.0029423999999999995,
-      "why": "Audit: Zeit- und Projektbudget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T08:57:12",
-      "eur": -0.0038483999999999997,
-      "why": "Audit: 7-Schritte-Guide zur erfolgreichen Kundenakquise für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T08:57:12",
-      "eur": -0.0036468,
-      "why": "Audit: Freelancer-Invoice-Tracker für internationale Aufträge"
-    },
-    {
-      "t": "2026-09-28T08:57:12",
-      "eur": -0.0025824,
-      "why": "Audit: Umzugsbudget- und Zeitplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": 0,
-      "why": "Audit: 8 geprueft, 1 entfernt"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.0013416,
-      "why": "Blog-Artikel: Eifel Maare (es)"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.0014483999999999999,
-      "why": "Blog-Artikel: Rheingau Weinberge (fr)"
-    },
-    {
-      "t": "2026-09-28T08:49:46",
-      "eur": -0.00043079999999999995,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.011156399999999999,
-      "why": "KI-Denken: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scenic Routes"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.0035172,
-      "why": "KI-Pruefung: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scenic Routes"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.16,
-      "why": "KI-Bilder: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scenic Routes"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.005631599999999999,
-      "why": "KI-Denken: NRW-Reiseplaner & Budget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.001,
-      "why": "KI-Pruefung: NRW-Reiseplaner & Budget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.005069999999999999,
-      "why": "KI-Denken: NRW Roadtrip-Budget-Tracker & Routenplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": -0.001,
-      "why": "KI-Pruefung: NRW Roadtrip-Budget-Tracker & Routenplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T18:11:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Unvollständige Beschreibung, fehlende Details zu Routenplanung und KPIs.'}"
-    },
     {
       "t": "2026-09-28T18:11:41",
       "eur": -0.005689199999999999,
@@ -2857,6 +2660,201 @@
       "t": "2026-09-29T12:57:54",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584985883"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0058692,
+      "why": "KI-Denken: 智能建筑预算与进度跟踪器"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0012552,
+      "why": "KI-Pruefung: 智能建筑预算与进度跟踪器"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0057108,
+      "why": "KI-Denken: 建筑工地预算与报价计算器 - 2026版"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0010404,
+      "why": "KI-Pruefung: 建筑工地预算与报价计算器 - 2026版"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.005839199999999999,
+      "why": "KI-Denken: 智能建筑项目报价与测量计算器 - 2026专业版"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0011267999999999999,
+      "why": "KI-Pruefung: 智能建筑项目报价与测量计算器 - 2026专业版"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.005572799999999999,
+      "why": "KI-Denken: 智能建筑项目成本与报价计算器 - 专注手工行业"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0010259999999999998,
+      "why": "KI-Pruefung: 智能建筑项目成本与报价计算器 - 专注手工行业"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.00558,
+      "why": "KI-Denken: 建筑项目报价和预算跟踪器"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 建筑项目报价和预算跟踪器"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.005396399999999999,
+      "why": "KI-Denken: 智能施工报价与预算跟踪器"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能施工报价与预算跟踪器"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0055704,
+      "why": "KI-Denken: 智能建筑施工预算与测量计算器"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能建筑施工预算与测量计算器"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0021587999999999998,
+      "why": "Excel-Upgrade: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0026856,
+      "why": "Excel-Upgrade: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker fo"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Excel-Upgrade-Fehler ultimate-berlin-potsdam-travel-budget-pl: Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0023136,
+      "why": "Excel-Upgrade: 智能婚礼预算跟踪与规划器 - 2026年专属版"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Excel auf Pro-Niveau gebracht: 智能婚礼预算跟踪与规划器 - 2026年专属版"
+    },
+    {
+      "t": "2026-09-29T19:36:27",
+      "eur": -0.0033816,
+      "why": "Audit: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
+    },
+    {
+      "t": "2026-09-29T19:36:27",
+      "eur": -0.002394,
+      "why": "Audit: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-09-29T19:36:27",
+      "eur": -0.0038459999999999996,
+      "why": "Audit: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-09-29T19:36:27",
+      "eur": -0.0011459999999999999,
+      "why": "Audit: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-09-29T19:36:27",
+      "eur": -0.0032784,
+      "why": "Audit: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidde"
+    },
+    {
+      "t": "2026-09-29T19:36:27",
+      "eur": -0.0040224,
+      "why": "Audit: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
+    },
+    {
+      "t": "2026-09-29T19:36:27",
+      "eur": -0.002742,
+      "why": "Audit: 智能婚礼预算跟踪与规划器 - 2026年专属版"
+    },
+    {
+      "t": "2026-09-29T19:36:27",
+      "eur": -0.0047352,
+      "why": "Audit: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": 0,
+      "why": "Audit: 8 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0012768,
+      "why": "Blog-Artikel: Saechsische Schweiz (fr)"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.0010175999999999998,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (de)"
+    },
+    {
+      "t": "2026-09-29T19:27:18",
+      "eur": -0.000402,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
     }
   ],
   "alive": true,
@@ -3086,6 +3084,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-09-29T12:57:54",
       "img": true
+    },
+    {
+      "slug": "saxe-suisse-un-joyau-naturel-en-allemagne",
+      "title": "La Suisse Saxonne : un joyau naturel en Allemagne",
+      "lang": "fr",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-09-29T19:27:18",
+      "img": true
+    },
+    {
+      "slug": "ruegen-kreidefelsen-reisefuehrer",
+      "title": "Die magischen Kreidefelsen von Rügen: Ein Reiseführer",
+      "lang": "de",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-09-29T19:27:18",
+      "img": true
     }
   ],
   "videos": [
@@ -3197,6 +3211,16 @@
       "hashtags": "#Neuschwanstein #CastilloDeCuento #Baviera #Alemania #Viajes",
       "voice": "En lo alto de los Alpes Bávaros, el Castillo de Neuschwanstein se erige como un sueño hecho piedra. Construido por orden del rey Luis II de Baviera, este majestuoso castillo es una joya arquitectónica que parece sacada de un cuento de hadas. Sus torres imponentes, sus interiores lujosos y su entorno natural te transportan a un mundo mágico. ¡Ven y déjate sorprender por esta maravilla histórica!",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "ruegen-kreidefelsen-reisefuehrer",
+      "title": "Die magischen Kreidefelsen von Rügen: Ein Reiseführer",
+      "lang": "de",
+      "created": "2026-09-29T19:27:18",
+      "hashtags": "#Rügen #Kreidefelsen #UNESCO #OstseeUrlaub #NaturwunderDeutschland",
+      "voice": "Die Kreidefelsen von Rügen - Deutschlands strahlend weißes Naturwunder! Über 70 Meter hoch ragen die majestätischen Felsen aus der Ostsee. Dieses UNESCO-Weltnaturerbe entstand vor 70 Millionen Jahren. Atemberaubende Aussichten garantiert der Hochuferweg - ein Muss für Naturliebhaber! Die weißen Klippen leuchten besonders im Sonnenlicht. Einfach magisch!",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
