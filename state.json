@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 495.0656,
-  "spent_eur": 9.6044,
+  "balance_eur": 494.1127,
+  "spent_eur": 10.5573,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -795,7 +795,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 10,
-      "audit_note": "Der Inhalt hält sich strikt an die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Der Text ist sachlich korrekt, bietet praktische Tipps und vermeidet jegliche Form von Beratung oder Gesundheitsversprechen. Die Sprache ist durchgängig Deutsch und klar formuliert, ohne Platzhalte"
+      "audit_note": "Der Inhalt hält sich strikt an die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Der Text ist sachlich korrekt, bietet praktische Tipps und vermeidet jegliche Form von Beratung oder Gesundheitsversprechen. Die Sprache ist durchgängig Deutsch und klar formuliert, ohne Platzhalte",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4585507597"
+      }
     },
     {
       "type": "excel",
@@ -888,7 +891,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Keine erfundenen Zahlen oder Studien vorhanden. Inhalt besteht aus allgemein bekannten Ratschlägen und Praxis-Tipps. Keine klaren Regelverstöße erkennbar."
+      "audit_note": "Keine erfundenen Zahlen oder Studien vorhanden. Inhalt besteht aus allgemein bekannten Ratschlägen und Praxis-Tipps. Keine klaren Regelverstöße erkennbar.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4585512920"
+      }
     },
     {
       "type": "excel",
@@ -935,7 +941,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Der Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Geschichten sind kreativ und geeignet für die Zielgruppe. Die Sprache ist korrekt und es gibt keine Platzhalter oder Wiederholungen. Keine Gesundheitsversprechen, fremde Marken oder unerlaubte Beratung. L"
+      "audit_note": "Der Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Geschichten sind kreativ und geeignet für die Zielgruppe. Die Sprache ist korrekt und es gibt keine Platzhalter oder Wiederholungen. Keine Gesundheitsversprechen, fremde Marken oder unerlaubte Beratung. L",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4585512934"
+      }
     },
     {
       "type": "excel",
@@ -1570,12 +1579,13 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen gefunden. Der Inhalt ist klar, relevant und entspricht den Regeln. Die Formeln und Tabellen sind sinnvoll und korrekt. Keine Rechts-, Steuer-, Finanz- oder Gesundheitsberatung. Keine Marken oder Figuren Dritter verwendet.",
-      "pay_url": "https://buy.stripe.com/14A14o3jX0L13Ma3ko2kw16",
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Keine erfundenen Zahlen oder Studien gefunden. Die Beispielrechnungen sind plausibel und klar als Beispiele gekennzeichnet. Es gibt keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Die Sprache ist einheitlich Spanisch und vollständig. Einige Kennzahlen wie '#NAME?' deuten jedoch auf mögliche Fe",
       "payment_link_id": "plink_1UKYBVJ5iOXkWb9Vfz7bpOYf",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "retired": true,
+      "retired_why": "3 Formelfehler; Keine erfundenen Zahlen oder Studien gefunden. Die Beispielrechnungen sind plausibel und klar als Beispiele gekennzeichnet. Es gibt keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Die Sprache ist einheitlich Spanisch und vollständig. Einige Kennzahlen wie '#NAME?' deuten jedoch"
     },
     {
       "type": "ebook",
@@ -1594,9 +1604,9 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "audit_v": 2,
-      "audit_score": 7,
-      "audit_note": "Die erwähnten '100%' sind nicht durch allgemein bekannte Fakten gestützt, sollten jedoch entfernt werden. Der Rest des Inhalts entspricht den Regeln und ist größtenteils klar und informativ.",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die Prozentzahl '100%' ist als Marketing-Aussage zu interpretieren und nicht als konkrete Statistik. Der Inhalt ist sonst klar, legal und informativ, ohne erfundene Studien oder falsche Behauptungen.",
       "pay_url": "https://buy.stripe.com/bJebJ22fTfFV5Ui5sw2kw17",
       "payment_link_id": "plink_1UKYVoJ5iOXkWb9VygLvrZdy",
       "site": "https://haiktec.tech"
@@ -1618,12 +1628,13 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "audit_v": 2,
+      "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Das Produkt ist klar strukturiert und bietet eine nützliche Funktion zur Verfolgung von YouTube-Inhalten und Budgets ohne erfundene Statistiken oder Beratungen. Die Sprache ist konsequent und es gibt keine sachlichen Fehler. Kleinere Verbesserungen wären eine einheitliche Sprachwahl (Deutsch oder Ch",
-      "pay_url": "https://buy.stripe.com/aFadRaf2FalBdmK2gk2kw18",
+      "audit_note": "Der Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist klar und die Texte sind vollständig ohne Platzhalter oder Wiederholungen. Es gibt keine Rechts-, Steuer-, Finanz- oder Medizinberatung sowie keine Gesundheitsversprechen oder fremde ",
       "payment_link_id": "plink_1UKYVpJ5iOXkWb9V6Nxse9mX",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "retired": true,
+      "retired_why": "1 Formelfehler; Der Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist klar und die Texte sind vollständig ohne Platzhalter oder Wiederholungen. Es gibt keine Rechts-, Steuer-, Finanz- oder Medizinberatung sowie keine Gesundheitsversprec"
     },
     {
       "type": "ebook",
@@ -1642,9 +1653,9 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "audit_v": 2,
-      "audit_score": 8,
-      "audit_note": "Inhalt entspricht den Regeln: Keine erfunden Studien/Statistiken, keine Gesundheitsversprechen oder Rechtsberatung. Allgemein bekanntes Wissen und praktische Tipps werden vermittelt. SMART-Prinzip als allgemein bekannte Methode korrekt verwendet.",
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln, bietet praktische Tipps ohne erfundene Studien, Statistiken oder Prozentzahlen. Die Sprache ist einheitlich und sachlich korrekt, ohne unfertige Texte oder Platzhalter. Es gibt keine Gesundheitsversprechen, Finanzberatung oder Verwendung fremder Marken/Figuren. Der ",
       "pay_url": "https://buy.stripe.com/00w28scUx3Xd0zYcUY2kw19",
       "payment_link_id": "plink_1UKYVpJ5iOXkWb9VbjRG2ALn",
       "site": "https://haiktec.tech"
@@ -1668,7 +1679,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/8x27sM9Il51heqO3ko2kw1a",
       "payment_link_id": "plink_1UKaNZJ5iOXkWb9VZrZ2U9TB",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die meisten Kriterien: Es ist legal, ehrlich, kein Spam, enthält keine Finanz-/Rechts-/Steuerberatung, keine Gesundheitsversprechen, keine Marken/Figuren/Personen Dritter und keine Kopien bestehender Werke. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Die Sprache i"
     },
     {
       "type": "ebook",
@@ -1689,7 +1703,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/cNidRa9Il9hxdmK7AE2kw1b",
       "payment_link_id": "plink_1UKaNaJ5iOXkWb9VcuPr1DgE",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen. Keine Rechts- oder Finanzberatung. Empfehlungen sind allgemein gehalten und praxisorientiert. Sprache ist durchgängig Französisch, keine Platzhalter oder unfertigen Texte."
     },
     {
       "type": "excel",
@@ -1710,7 +1727,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/9B67sMg6JdxNaay7AE2kw1c",
       "payment_link_id": "plink_1UKaNbJ5iOXkWb9Vy5QUjphG",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist legal, ehrlich und erfüllt die Anforderungen. Es enthält keine erfundenen Statistiken, Studien oder Quellen. Die Beispielzahlen sind plausibel und klar als Beispiele markiert. Die Formeln und Tabellen sind sinnvoll und entsprechen der beschriebenen Funktionalität."
     },
     {
       "type": "ebook",
@@ -1729,9 +1749,13 @@
       "sales": 0,
       "score": 8,
       "quality": 2,
-      "pay_url": "https://buy.stripe.com/4gMaEYdYB8dtdmK3ko2kw1d",
       "payment_link_id": "plink_1UKjE4J5iOXkWb9VAik8A1PW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Die Aussage 'Leave 20% of your trunk empty for souvenirs and spontaneity' enthält eine konkrete Prozentzahl ohne bekannte Grundlage. Prozentzahlen ohne allgemein bekannten Hintergrund sind nicht erlaubt.",
+      "retired": true,
+      "retired_why": "Die Aussage 'Leave 20% of your trunk empty for souvenirs and spontaneity' enthält eine konkrete Prozentzahl ohne bekannte Grundlage. Prozentzahlen ohne allgemein bekannten Hintergrund sind nicht erlaubt. Erfundene Zahlen: 20%"
     },
     {
       "type": "excel",
@@ -1921,149 +1945,72 @@
       "pay_url": "https://buy.stripe.com/cNibJ2bQtbpF1E25sw2kw1m",
       "payment_link_id": "plink_1ULApIJ5iOXkWb9VW9mLijk5",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles",
+      "slug": "economisez-sans-stress-strategies-finances-personnelles",
+      "price_eur": 5,
+      "target": "Particuliers souhaitant mieux gérer leurs finances sans complication",
+      "reason": "Les particuliers cherchent des solutions simples pour mieux gérer leurs finances sans complication. Ce guide répond à ce besoin en offrant des stratégies pratiques et faciles à mettre en œuvre.",
+      "language": "fr",
+      "pitch": "Découvrez des astuces pratiques pour optimiser vos dépenses et économiser facilement au quotidien.",
+      "content_html": "<h2>Inhalt</h2><p>Ce guide vous propose des étapes simples et efficaces pour prendre le contrôle de vos finances. Vous trouverez des conseils clairs et des exemples concrets pour réduire vos dépenses sans sacrifier votre qualité de vie.</p>",
+      "pro": false,
+      "created": "2026-09-30T05:37:09",
+      "file": "economisez-sans-stress-strategies-finances-personnelles-6f573f30c5707067.pdf",
+      "size": 1831,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/5kQeVe8EhgJZ82q7AE2kw1n",
+      "payment_link_id": "plink_1ULGKdJ5iOXkWb9VlXZQOk0p",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Family Fitness Planner & Progress Tracker",
+      "slug": "family-fitness-planner-progress-tracker",
+      "price_eur": 9,
+      "target": "Family-oriented personal trainers and fitness-conscious parents who want to track their family's fitness journey",
+      "reason": "There's growing demand for family fitness solutions but no simple planning tool that accommodates multiple members. This tracker solves organization challenges while fostering healthy competition through visualization.",
+      "language": "en",
+      "pitch": "Plan weekly workouts for your whole family and track progress with this all-in-one fitness organizer. Perfect for busy parents who want to stay active together.",
+      "content_html": "<h2>Content</h2><p>1. Family Workout Planner (schedule sessions by member)</p><p>2. Progress Dashboard (visualize results)</p><p>3. Equipment Tracker (manage home gym items)</p><p>4. Quick-Start Guide with family-friendly exercise ideas</p>",
+      "pro": true,
+      "created": "2026-09-30T05:37:09",
+      "file": "family-fitness-planner-progress-tracker-a4b95bf8df378a3c.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/6oU6oI07LdxN1E29IM2kw1o",
+      "payment_link_id": "plink_1ULGKdJ5iOXkWb9VPT9D6OI0",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Small Landlord Success: Practical Organization & Management Tips for Owners of 1-5 Rental Properties",
+      "slug": "small-landlord-success-practical-organization-management-tips",
+      "price_eur": 5,
+      "target": "Private landlords managing 1-5 rental properties who want to streamline their operations without legal complexities",
+      "reason": "This fills a clear gap for small-scale landlords who need practical organization tips without legal complexities. It builds on our successful 'Vermieter-Profi' guide while offering more specific daily systems for those with just a few properties. The family-friendly approach distinguishes it from corporate landlord resources.",
+      "language": "en",
+      "pitch": "Get organized and reduce stress with simple systems for small-scale rental property management. Learn how to track everything efficiently while saving time for your family.",
+      "content_html": "<h2>Contents</h2>1. The 7-Minute Daily System for Small Landlords<br>2. Creating Your Landlord Binder: What to Include<br>3. Digital Tools That Actually Save You Time<br>4. Streamlining Tenant Communication (Without Being Available 24/7)<br>5. Maintenance Tracking Made Simple<br>6. Preparing for Tax Season - The Stress-Free Way<br><br>Sample Chapter Excerpt: 'For most small landlords, just 7 minutes each morning can transform your property management. Check your dedicated landlord email, review any maintenance tickets, and update your simple tracking spreadsheet. This prevents small tasks from piling up.'",
+      "pro": false,
+      "created": "2026-09-30T05:37:09",
+      "file": "small-landlord-success-practical-organization-management-tips-ca161b3499530403.pdf",
+      "size": 1553,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/aFa9AU3jX1P582q1cg2kw1p",
+      "payment_link_id": "plink_1ULGKeJ5iOXkWb9VcRrCHeHL",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.16,
-      "why": "KI-Bilder: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heidelberg"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.006177599999999999,
-      "why": "KI-Denken: Guía de Viaje Premium: Presupuesto y Ruta para Berlín y Potsdam"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0012731999999999997,
-      "why": "KI-Pruefung: Guía de Viaje Premium: Presupuesto y Ruta para Berlín y Potsdam"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0062688,
-      "why": "KI-Denken: Planificador de Viajes a Berlín & Potsdam: Presupuesto e Itinerario para Hombres"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0014303999999999999,
-      "why": "KI-Pruefung: Planificador de Viajes a Berlín & Potsdam: Presupuesto e Itinerario para Hombres"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0059472,
-      "why": "KI-Denken: Berlin & Potsdam Reisekosten-Tracker & Itinerary für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0011603999999999998,
-      "why": "KI-Pruefung: Berlin & Potsdam Reisekosten-Tracker & Itinerary für Selbstständige"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Formeln sinnvoll, Preis fair, aber Sprachmischung (Spanisch/Deutsch) kann verwirrend sein.'}"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0055379999999999995,
-      "why": "KI-Denken: Planificador de Viajes: Berlín y Potsdam para Hombres"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Viajes: Berlín y Potsdam para Hombres"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Preis für einfache Excel-Tabellen ohne besondere Funktionen etwas hoch'}"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.005944799999999999,
-      "why": "KI-Denken: Planificador de Viajes para Berlín y Potsdam - Presupuesto y Rutas"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0011472,
-      "why": "KI-Pruefung: Planificador de Viajes para Berlín y Potsdam - Presupuesto y Rutas"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': True, 'issues': \"Formel '=AVERAGE(C{r},D{r})*5' in 'Distanza km' ist unlogisch (Zeit ≠ km), Richtlinien verletzt\"}"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0027887999999999997,
-      "why": "Excel-Upgrade: Smart Fitness Progress Tracker für Trainer & Selbständige"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Smart Fitness Progress Tracker für Trainer & Selbständige"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0027407999999999994,
-      "why": "Excel-Upgrade: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler pruefungsvorbereitungs-tracker-fuer-stud: Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0023856,
-      "why": "Excel-Upgrade: Smart Business Trip Planner & Expense Tracker for Freelancers"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Smart Business Trip Planner & Expense Tracker for Freelancers"
-    },
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": -0.0038579999999999995,
-      "why": "Audit: Clever Sparen im Alltag: Einfache Tricks für private Haushaltsfinanzen"
-    },
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": -0.0039888,
-      "why": "Audit: Smart Fitness Progress Tracker für Trainer & Selbständige"
-    },
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": -0.0039228,
-      "why": "Audit: Vermieter-Profi in 7 Tagen: Der Praxisguide für kleine Privatvermieter"
-    },
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": -0.0013583999999999998,
-      "why": "Audit: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": 0,
-      "why": "Audit entfernt: Prüfungsvorbereitungs-Tracker für Studierende – 9 Formelfehler; Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Die Beispiel-Daten sind klar als solche markiert. Der Inhalt hält sich an die"
-    },
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": -0.003792,
-      "why": "Audit: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr"
-    },
     {
       "t": "2026-09-28T23:29:15",
       "eur": -0.004534799999999999,
@@ -2923,6 +2870,151 @@
       "t": "2026-09-29T23:45:29",
       "eur": -0.000372,
       "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.0121104,
+      "why": "KI-Denken: Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.0040992,
+      "why": "KI-Pruefung: Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.16,
+      "why": "KI-Bilder: Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.005944799999999999,
+      "why": "KI-Denken: Smart Family Fitness Planner & Progress Tracker"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.0011723999999999999,
+      "why": "KI-Pruefung: Smart Family Fitness Planner & Progress Tracker"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.010443599999999999,
+      "why": "KI-Denken: Small Landlord Success: Practical Organization & Management Tips for Owners of 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.0032915999999999996,
+      "why": "KI-Pruefung: Small Landlord Success: Practical Organization & Management Tips for Owners of 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.16,
+      "why": "KI-Bilder: Small Landlord Success: Practical Organization & Management Tips for Owners of 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": -0.002472,
+      "why": "Audit: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Ti"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": 0,
+      "why": "Audit entfernt: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Ti – 3 Formelfehler; Keine erfundenen Zahlen oder Studien gefunden. Die Beispielrechnungen sind plausibel und klar als Beispiele gekennzeichnet. Es gibt keine Rechts"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": -0.0037739999999999996,
+      "why": "Audit: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": -0.002346,
+      "why": "Audit: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": 0,
+      "why": "Audit entfernt: YouTube Content ROI Tracker & Budget Planner – 1 Formelfehler; Der Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist klar und die Texte sind vo"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": -0.0034655999999999997,
+      "why": "Audit: 高效教学计划：教师与辅导员的实用指导"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": -0.0020015999999999996,
+      "why": "Audit: Planificateur de Soins et Suivi Médical pour Personnes Âgées"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": -0.0036756,
+      "why": "Audit: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": -0.0019871999999999997,
+      "why": "Audit: Ultimate Black Forest Travel Planner & Budget Tracker for Families"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": -0.0032075999999999997,
+      "why": "Audit: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scen"
+    },
+    {
+      "t": "2026-09-30T05:44:17",
+      "eur": 0,
+      "why": "Audit entfernt: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scen – Die Aussage 'Leave 20% of your trunk empty for souvenirs and spontaneity' enthält eine konkrete Prozentzahl ohne bekannte Grundlage. Prozentzahlen ohne allgemei"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": 0,
+      "why": "Audit: 8 geprueft, 3 entfernt"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.0013356,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (es)"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.0012251999999999999,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (fr)"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.00038399999999999996,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585507597"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfachen Schritten"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585512920"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-09-30T05:37:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585512934"
     }
   ],
   "alive": true,
@@ -3184,6 +3276,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-09-29T23:45:29",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-viaje-corazon-medieval-alemania",
+      "title": "Rothenburg ob der Tauber: Un viaje al corazón medieval de Alemania",
+      "lang": "es",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-09-30T05:37:09",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-le-brandebourg-symbole-emblematique-de-berlin",
+      "title": "Découvrez le Brandebourg, symbole emblématique de Berlin",
+      "lang": "fr",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-09-30T05:37:09",
+      "img": true
     }
   ],
   "videos": [
@@ -3315,6 +3423,16 @@
       "hashtags": "#法兰克福 #德国旅游 #天际线 #欧洲金融中心 #美因塔",
       "voice": "欢迎来到法兰克福！这座德国最具活力的城市，以其壮观的天际线闻名于世。美因塔高耸云端，俯瞰着这座欧洲金融中心。漫步在博物馆河岸，感受文化与自然的交汇。无论是古典建筑还是现代摩天大楼，法兰克福完美融合了历史与未来。来这里，体验浪漫与繁华并存的独特魅力，探索这座城市的无限可能！",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-le-brandebourg-symbole-emblematique-de-berlin",
+      "title": "Découvrez le Brandebourg, symbole emblématique de Berlin",
+      "lang": "fr",
+      "created": "2026-09-30T05:37:09",
+      "hashtags": "#Berlin #BrandenburgerTor #Monument #Histoire #Architecture",
+      "voice": "Le Brandebourgeois Tor, monument emblématique de Berlin, est un témoignage fascinant de l'histoire allemande. Son architecture néoclassique, avec ses colonnes majestueuses et son quadrige magnifique, attire des millions de visiteurs chaque année. Situé au cœur de la ville, ce lieu chargé d'histoire est aussi un symbole de réunification et de paix. Une visite à Berlin ne saurait être complète sans admirer ce chef-d'œuvre intemporel.",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
