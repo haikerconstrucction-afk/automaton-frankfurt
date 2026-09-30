@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 493.0626,
-  "spent_eur": 11.6074,
+  "balance_eur": 493.0077,
+  "spent_eur": 11.6623,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2153,126 +2153,6 @@
   ],
   "log": [
     {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.0010103999999999998,
-      "why": "KI-Pruefung: 智能工程报价与数量计算器 - 适用于小型建筑公司与承包商 (2026版)"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.005548799999999999,
-      "why": "KI-Denken: 智能报价与测量计算器 - 建筑工程模板"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能报价与测量计算器 - 建筑工程模板"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.0056928,
-      "why": "KI-Denken: 建筑工地报价与测量计算器"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 建筑工地报价与测量计算器"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Table with name T___ already exists"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.005878799999999999,
-      "why": "KI-Denken: 智能建筑报价与工程测量计算器 - 2026专业版"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.0011376,
-      "why": "KI-Pruefung: 智能建筑报价与工程测量计算器 - 2026专业版"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.0056868,
-      "why": "KI-Denken: 智能建筑工作分析与成本计算器"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能建筑工作分析与成本计算器"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.0021731999999999997,
-      "why": "Excel-Upgrade: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler smart-trainingsplaner-fortschritts-track: Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.0023268,
-      "why": "Excel-Upgrade: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler senioren-medikationsplaner-erinnerungstr: Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.0025655999999999995,
-      "why": "Excel-Upgrade: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler planificateur-voyage-foret-noire: Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": -0.0040403999999999995,
-      "why": "Audit: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Allt"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": -0.0019847999999999997,
-      "why": "Audit: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": 0,
-      "why": "Audit entfernt: Smart Trainingsplaner & Fortschritts-Tracker für Fitnesstrainer – 28 Formelfehler; Produkt ist sachlich korrekt und erfindet keine Studien/Statistiken. Excel-Funktionen sind plausibel, Beispielkunden sind klar als solche geken"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": -0.0035688,
-      "why": "Audit: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
-    },
-    {
       "t": "2026-09-29T13:10:11",
       "eur": -0.0011279999999999999,
       "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
@@ -3151,6 +3031,126 @@
       "t": "2026-09-30T19:24:28",
       "eur": -0.000396,
       "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.006544799999999999,
+      "why": "KI-Denken: Gestor de Eventos y Finanzas para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0013272,
+      "why": "KI-Pruefung: Gestor de Eventos y Finanzas para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.00639,
+      "why": "KI-Denken: Gestión de Eventos y Finanzas para Asociaciones Voluntarias"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0012155999999999998,
+      "why": "KI-Pruefung: Gestión de Eventos y Finanzas para Asociaciones Voluntarias"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0062664,
+      "why": "KI-Denken: Gestión de Donaciones y Presupuesto para Asociaciones"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0012239999999999998,
+      "why": "KI-Pruefung: Gestión de Donaciones y Presupuesto para Asociaciones"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.006183599999999999,
+      "why": "KI-Denken: Gestión de Proyectos y Voluntarios para Asociaciones"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0012312,
+      "why": "KI-Pruefung: Gestión de Proyectos y Voluntarios para Asociaciones"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0065748,
+      "why": "KI-Denken: Gestión de Eventos y Finanzas para Asociaciones"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0013908,
+      "why": "KI-Pruefung: Gestión de Eventos y Finanzas para Asociaciones"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 8 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.006105599999999999,
+      "why": "KI-Denken: Planificador de Presupuesto y Proyectos para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0010187999999999998,
+      "why": "KI-Pruefung: Planificador de Presupuesto y Proyectos para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.005839199999999999,
+      "why": "KI-Denken: Planificador de Actividades y Control de Gastos para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Actividades y Control de Gastos para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0011148,
+      "why": "Blog-Artikel: Eifel Maare (fr)"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0012323999999999998,
+      "why": "Blog-Artikel: Rheingau Weinberge (de)"
+    },
+    {
+      "t": "2026-09-30T23:53:34",
+      "eur": -0.0003924,
+      "why": "Video-Skript: Rheingau Weinberge"
     }
   ],
   "alive": true,
@@ -3459,6 +3459,22 @@
       "lang": "es",
       "topic": "Muenchen Marienplatz",
       "created": "2026-09-30T19:24:28",
+      "img": true
+    },
+    {
+      "slug": "maars-eifel-allemagne",
+      "title": "Les Maars de l'Eifel : Perles naturelles d'Allemagne",
+      "lang": "fr",
+      "topic": "Eifel Maare",
+      "created": "2026-09-30T23:53:34",
+      "img": true
+    },
+    {
+      "slug": "entdecke-die-schoenheit-der-rheingau-weinberge",
+      "title": "Entdecke die Schönheit der Rheingau Weinberge",
+      "lang": "de",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-09-30T23:53:34",
       "img": true
     }
   ],
