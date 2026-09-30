@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 494.1127,
-  "spent_eur": 10.5573,
+  "balance_eur": 493.3107,
+  "spent_eur": 11.3593,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -991,7 +991,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 7,
-      "audit_note": "Prozentangaben wie '30-50%' oder 'bis zu 50%' sind nicht konkret belegt und wirken erfunden. Die 50-30-20-Regel ist als allgemeine Faustregel akzeptabel. Ansonsten enthält das Ebook praktische, allgemeine Ratschläge ohne gravierende Regelverstöße."
+      "audit_note": "Prozentangaben wie '30-50%' oder 'bis zu 50%' sind nicht konkret belegt und wirken erfunden. Die 50-30-20-Regel ist als allgemeine Faustregel akzeptabel. Ansonsten enthält das Ebook praktische, allgemeine Ratschläge ohne gravierende Regelverstöße.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4585700209"
+      }
     },
     {
       "type": "excel",
@@ -1039,7 +1042,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Der Inhalt ist sachlich korrekt und bietet praktische Tipps ohne erfundene Studien oder Statistiken. Die Sprache ist durchgängig Spanisch und entspricht der Soll-Sprache. Es gibt keine Rechts- oder Gesundheitsberatung, keine Marken Dritter oder kopierte Werke. Die vorgestellten Strategien sind allge"
+      "audit_note": "Der Inhalt ist sachlich korrekt und bietet praktische Tipps ohne erfundene Studien oder Statistiken. Die Sprache ist durchgängig Spanisch und entspricht der Soll-Sprache. Es gibt keine Rechts- oder Gesundheitsberatung, keine Marken Dritter oder kopierte Werke. Die vorgestellten Strategien sind allge",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4585705432"
+      }
     },
     {
       "type": "excel",
@@ -1063,7 +1069,10 @@
       "audit_v": 3,
       "audit_score": 8,
       "audit_note": "Keine Verstöße gegen die Regeln festgestellt. Das Produkt bietet konkrete Funktionen ohne erfundene Daten oder Gesundheitsversprechen. Die Excel-Formeln sind sinnvoll und die Anweisungen klar.",
-      "pro": "fehler"
+      "pro": "fehler",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4585705458"
+      }
     },
     {
       "type": "ebook",
@@ -1776,7 +1785,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/3cI4gA1bP79p6Ym3ko2kw1e",
       "payment_link_id": "plink_1UKjE5J5iOXkWb9VkGRhKbsj",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts- oder Finanzberatung. Klare Beispielrechnungen und Funktionsbeschreibung. Formeln sind plausibel und korrekt."
     },
     {
       "type": "ebook",
@@ -1797,7 +1809,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/6oU14o2fTfFV96ucUY2kw1f",
       "payment_link_id": "plink_1UKjE6J5iOXkWb9Vn95rC8cM",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht den Regeln, keine erfunden Studien oder Statistiken, keine Rechts- oder Gesundheitsberatung, klare und hilfreiche Reisetipps für die bayerischen Alpen."
     },
     {
       "type": "excel",
@@ -1818,7 +1833,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/cNicN63jXbpF82q3ko2kw1g",
       "payment_link_id": "plink_1UKo08J5iOXkWb9Vc0B6cVD5",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt hält sich an die Regeln und enthält keine erfundenen Studien, Statistiken oder falschen Angaben. Die Excel-Funktionen sind korrekt und sinnvoll für den beschriebenen Zweck. Die beispielhaften Einträge sind klar als solche erkennbar und dienen der Veranschaulichung. Keine Regelverstöße fe"
     },
     {
       "type": "ebook",
@@ -1839,7 +1857,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/5kQ4gAf2F8dtdmK5sw2kw1h",
       "payment_link_id": "plink_1UKo09J5iOXkWb9VMhA5MQv4",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich größtenteils an die Regeln und enthält keine erfundenen Statistiken, Prozentzahlen oder falschen Behauptungen. Der Hinweis '10%' ist zwar vorhanden, aber im Kontext des Trinkgeldes (5-10%) als allgemein bekannte Faustregel akzeptabel. Die Inhalte sind informativ, gut strukturier"
     },
     {
       "type": "excel",
@@ -1860,7 +1881,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/9B69AUcUxgJZbeC7AE2kw1i",
       "payment_link_id": "plink_1UKu4IJ5iOXkWb9Vk15sWegr",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die grundlegenden Anforderungen und enthält keine offensichtlichen Verstöße gegen die Regeln. Es gibt keine erfundenen Studien, Statistiken oder falschen Angaben. Die Excel-Tabellen sind funktional und nachvollziehbar. Die Beispiel-Daten sind plausibel und dienen nur der Demonstr"
     },
     {
       "type": "ebook",
@@ -1881,7 +1905,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/aFacN67AdfFV0zY8EI2kw1j",
       "payment_link_id": "plink_1UKu4IJ5iOXkWb9VnjPQoHXm",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder unangemessene Behauptungen gefunden. Enthält allgemein bekannte Fakten und praktische Tipps für Reisende im Raum Dresden/Sachsen. Design und Struktur sind klar und übersichtlich."
     },
     {
       "type": "excel",
@@ -1902,7 +1929,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/8x200k07L0L1beCbQU2kw1k",
       "payment_link_id": "plink_1ULApHJ5iOXkWb9VFYxmQHyV",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist grundsätzlich in Ordnung und erfüllt die meisten Regeln. Die Behauptung '误差减少90%' (Reduzierung der Fehlerquote um 90%) ist jedoch fragwürdig und könnte als frei erfunden angesehen werden, da keine Quellen oder Grundlagen dafür angegeben werden. Das Produkt sollte diese Behauptung ent"
     },
     {
       "type": "ebook",
@@ -1923,7 +1953,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/6oUbJ2aMpbpF96u08c2kw1l",
       "payment_link_id": "plink_1ULApHJ5iOXkWb9Vz5ymKv7e",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken, Prozentzahlen oder Zitate. Die Sprache ist korrekt und einheitlich, es gibt keine unfertigen Texte oder Platzhalter. Der Text fördert die Fantasie und eignet sich gut als Gute-Nacht-Geschichten für Kinder."
     },
     {
       "type": "excel",
@@ -2008,149 +2041,72 @@
       "pay_url": "https://buy.stripe.com/aFa9AU3jX1P582q1cg2kw1p",
       "payment_link_id": "plink_1ULGKeJ5iOXkWb9VcRrCHeHL",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Prüfungsvorbereitungs-Tracker für Studierende",
+      "slug": "pruefungsvorbereitungs-tracker-fuer-studierende",
+      "price_eur": 9,
+      "target": "Studierende im Bachelor- und Masterstudium, die ihre Prüfungsvorbereitung effizient planen möchten",
+      "reason": "Diese Vorlage füllt eine echte Lücke im Markt, da viele Studierende Schwierigkeiten haben, ihre Prüfungsvorbereitung effektiv zu planen und ihre Fortschritte zu verfolgen. Der integrierte Motivations-Tracker ist ein einzigartiges Feature, das helfen kann, Durchhänger zu vermeiden.",
+      "language": "de",
+      "pitch": "Organisiere deine Lerninhalte, verfolge deinen Fortschritt und steigere deine Effizienz mit dieser professionellen Excel-Vorlage. Ideal für stressfreie Prüfungsphasen.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Vorlage hilft dir, deine Prüfungsvorbereitung strukturiert zu planen und deinen Lernfortschritt im Blick zu behalten. Enthält Lernplaner, Fortschritts-Tracker und Motivations-Tipps.</p>",
+      "pro": true,
+      "created": "2026-09-30T12:41:11",
+      "file": "pruefungsvorbereitungs-tracker-fuer-studierende-4a74e2c9068c7116.xlsx",
+      "size": 17,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/14AcN62fTbpFciGg7a2kw1q",
+      "payment_link_id": "plink_1ULMyiJ5iOXkWb9VOsfBQBh5",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Cafés",
+      "slug": "gastfreundschaft-mit-gewinn-strategien-kleine-restaurants-cafes",
+      "price_eur": 7,
+      "target": "Inhaber kleiner Restaurants und Cafés mit 1-10 Mitarbeitern, die ihren Umsatz steigern und Gäste langfristig binden möchten",
+      "reason": "Kleine Gastro-Betriebe kämpfen aktuell stark mit gestiegenen Kosten und brauchen praktische, sofort umsetzbare Strategien ohne große Investitionen. Das E-Book fokussiert auf zwischenmenschliche Faktoren, die direkt den Umsatz beeinflussen - ein Bereich, der in vielen Ratgebern zu kurz kommt.",
+      "language": "de",
+      "pitch": "Praktische Tipps von der Gästebegrüßung bis zur Rechnung für mehr Umsatz und zufriedene Stammgäste. Bewährte Methoden, die direkt umsetzbar sind.",
+      "content_html": "<h2>Inhalt</h2><ol><li>Der erste Eindruck zählt: Gästebegrüßung perfektioniert</li><li>Speisekarte als Verkaufstool: Aufbau und Formulierungen</li><li>Tischgespräche clever nutzen ohne aufdringlich zu wirken</li><li>Stammgäste gewinnen und halten mit einfachen Systemen</li><li>Social Media als Gästemagnet: Echte Fotos vs. Stockbilder</li><li>Lokal-Events planen, die sich wirklich lohnen</li><li>Feedback nutzen statt fürchten: Beschwerden in Chancen verwandeln</li></ol><p><em>Leseprobe:</em> 'Händigen Sie die Speisekarte nicht einfach aus - präsentieren Sie heute's Besonderheit mit Begeisterung. Ein einfacher Satz wie „Unser Koch hat heute frische Moreln bekommen - daraus wird ein fantastisches Risotto“ steigert die Bestellwahrscheinlichkeit um 30%.'</p>",
+      "pro": false,
+      "created": "2026-09-30T12:41:11",
+      "file": "gastfreundschaft-mit-gewinn-strategien-kleine-restaurants-cafes-f560ac66cc9130c6.pdf",
+      "size": 1865,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/28E8wQ9IldxNciG7AE2kw1r",
+      "payment_link_id": "plink_1ULMyiJ5iOXkWb9VRc2ukzzY",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Travel Packing List & Budget Planner for Female Solo Travelers",
+      "slug": "ultimate-travel-packing-list-budget-planner-female-solo-travelers",
+      "price_eur": 9,
+      "target": "Female solo travelers who want to stay organized and control their travel expenses",
+      "reason": "This product addresses the specific needs of female solo travelers who want to stay organized while keeping control of their budget. The weight tracking feature prevents common airline baggage issues, and the climate-specific recommendations add real value. The clean design and automatic calculations make it superior to basic packing lists while maintaining simplicity.",
+      "language": "en",
+      "pitch": "Pack smarter, travel lighter: The ultimate packing checklist with integrated budget tracking for solo female travelers. Never forget essentials again while keeping full control over your travel expenses.",
+      "content_html": "<h2>Content</h2><p>1. Smart packing checklist with category organization<br>2. Integrated travel budget tracker<br>3. Weight distribution calculator<br>4. Climate-specific packing recommendations<br>5. Pre-travel preparation dashboard</p>",
+      "pro": true,
+      "created": "2026-09-30T12:41:11",
+      "file": "ultimate-travel-packing-list-budget-planner-female-solo-travelers-4933cbc40ceee18b.xlsx",
+      "size": 20,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/28EdRadYB3Xd6Ymg7a2kw1s",
+      "payment_link_id": "plink_1ULMyjJ5iOXkWb9VrQreDfLS",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": -0.004534799999999999,
-      "why": "Audit: Smart Business Trip Planner & Expense Tracker for Freelancers"
-    },
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": -0.001524,
-      "why": "Audit: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche"
-    },
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": 0,
-      "why": "Audit entfernt: Mitgliederverwaltung & Finanzplaner für Vereine und Ehrenamtliche – 3 Formelfehler; Inhalt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts- oder Finanzberatung. Die Excel-Tabellen si"
-    },
-    {
-      "t": "2026-09-28T23:29:15",
-      "eur": -0.0038723999999999994,
-      "why": "Audit: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": 0,
-      "why": "Audit: 8 geprueft, 2 entfernt"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0011435999999999998,
-      "why": "Blog-Artikel: Koeln Dom (es)"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0010896,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (fr)"
-    },
-    {
-      "t": "2026-09-28T23:19:54",
-      "eur": -0.0003972,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.0063696,
-      "why": "KI-Denken: Berlin & Potsdam Ultimate City Guide: Budget Tracker & Itinerary Planner"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.0014831999999999998,
-      "why": "KI-Pruefung: Berlin & Potsdam Ultimate City Guide: Budget Tracker & Itinerary Planner"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.0056771999999999994,
-      "why": "KI-Denken: Berlin & Potsdam Road Trip Planner: Budget Tracker & Itinerary Organizer"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Berlin & Potsdam Road Trip Planner: Budget Tracker & Itinerary Organizer"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.012379199999999996,
-      "why": "KI-Denken: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.004220399999999999,
-      "why": "KI-Pruefung: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.16,
-      "why": "KI-Bilder: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.0057983999999999996,
-      "why": "KI-Denken: 智能建筑项目管理与预算跟踪器"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能建筑项目管理与预算跟踪器"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Table with name T___ already exists"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.0056976,
-      "why": "KI-Denken: 智能建筑项目预算与进度跟踪器"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能建筑项目预算与进度跟踪器"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.0058608,
-      "why": "KI-Denken: 建筑项目预算与测量计算器"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.0011003999999999999,
-      "why": "KI-Pruefung: 建筑项目预算与测量计算器"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Table with name T___ already exists"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.005606399999999999,
-      "why": "KI-Denken: 建筑项目报价与测量计算器 - 工匠专用高效工具"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 建筑项目报价与测量计算器 - 工匠专用高效工具"
-    },
-    {
-      "t": "2026-09-29T05:48:44",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
-    },
     {
       "t": "2026-09-29T05:48:44",
       "eur": -0.00258,
@@ -3015,6 +2971,146 @@
       "t": "2026-09-30T05:37:09",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585512934"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.0065688,
+      "why": "KI-Denken: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.0015275999999999998,
+      "why": "KI-Pruefung: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 10 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.00648,
+      "why": "KI-Denken: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.0014796,
+      "why": "KI-Pruefung: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.014080799999999997,
+      "why": "KI-Denken: Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Cafés"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.004297199999999999,
+      "why": "KI-Pruefung: Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Cafés"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.16,
+      "why": "KI-Bilder: Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Cafés"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.006464399999999999,
+      "why": "KI-Denken: Ultimate Travel Packing List & Budget Planner for Female Solo Travelers"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.0013763999999999998,
+      "why": "KI-Pruefung: Ultimate Travel Packing List & Budget Planner for Female Solo Travelers"
+    },
+    {
+      "t": "2026-09-30T12:50:22",
+      "eur": -0.0017831999999999998,
+      "why": "Audit: NRW Städtereise-Budget-Tracker & Planer"
+    },
+    {
+      "t": "2026-09-30T12:50:22",
+      "eur": -0.0039575999999999995,
+      "why": "Audit: Bayerische Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber"
+    },
+    {
+      "t": "2026-09-30T12:50:22",
+      "eur": -0.0043968,
+      "why": "Audit: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
+    },
+    {
+      "t": "2026-09-30T12:50:22",
+      "eur": -0.0032147999999999994,
+      "why": "Audit: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heide"
+    },
+    {
+      "t": "2026-09-30T12:50:22",
+      "eur": -0.0022787999999999997,
+      "why": "Audit: Berlin & Potsdam Road Trip Planner: Budget Tracker & Itinerary Organizer"
+    },
+    {
+      "t": "2026-09-30T12:50:22",
+      "eur": -0.003915599999999999,
+      "why": "Audit: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
+    },
+    {
+      "t": "2026-09-30T12:50:22",
+      "eur": -0.0031511999999999994,
+      "why": "Audit: 智能报价计算器与施工现场管理表 - 2026专业版"
+    },
+    {
+      "t": "2026-09-30T12:50:22",
+      "eur": -0.0038243999999999995,
+      "why": "Audit: 星空下的奇妙冒险：7个温馨的晚安故事"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": 0,
+      "why": "Audit: 8 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.0013991999999999997,
+      "why": "Blog-Artikel: Dresden Frauenkirche (de)"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.0013452,
+      "why": "Blog-Artikel: Harz Brocken (en)"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.00033839999999999993,
+      "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Alltag"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585700209"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585705432"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Senioren-Medikationsplaner & Erinnerungstracker"
+    },
+    {
+      "t": "2026-09-30T12:41:11",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585705458"
     }
   ],
   "alive": true,
@@ -3292,6 +3388,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-09-30T05:37:09",
       "img": true
+    },
+    {
+      "slug": "dresden-frauenkirche-deutschland-reiseblog",
+      "title": "Die Dresdner Frauenkirche: Ein Symbol der Hoffnung und Schönheit",
+      "lang": "de",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-09-30T12:41:11",
+      "img": true
+    },
+    {
+      "slug": "discovering-the-harz-brocken-germanys-enchanted-mountain",
+      "title": "Discovering the Harz Brocken: Germany's Enchanted Mountain",
+      "lang": "en",
+      "topic": "Harz Brocken",
+      "created": "2026-09-30T12:41:11",
+      "img": true
     }
   ],
   "videos": [
@@ -3433,6 +3545,16 @@
       "hashtags": "#Berlin #BrandenburgerTor #Monument #Histoire #Architecture",
       "voice": "Le Brandebourgeois Tor, monument emblématique de Berlin, est un témoignage fascinant de l'histoire allemande. Son architecture néoclassique, avec ses colonnes majestueuses et son quadrige magnifique, attire des millions de visiteurs chaque année. Situé au cœur de la ville, ce lieu chargé d'histoire est aussi un symbole de réunification et de paix. Une visite à Berlin ne saurait être complète sans admirer ce chef-d'œuvre intemporel.",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discovering-the-harz-brocken-germanys-enchanted-mountain",
+      "title": "Discovering the Harz Brocken: Germany's Enchanted Mountain",
+      "lang": "en",
+      "created": "2026-09-30T12:41:11",
+      "hashtags": "#Brocken #HarzHiking #GermanyNature #NorthernGermany #MysticalMountains",
+      "voice": "The legendary Brocken - a must for every nature lover! Towering over the Harz mountains, this mystical summit offers epic hiking trails, fairytale forests and unforgettable views from its 1141m peak. Ride the historic steam train up, explore the granite cliffs, and feel like you've stepped into a German folktale!",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
