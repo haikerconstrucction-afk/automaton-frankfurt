@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 493.0077,
-  "spent_eur": 11.6623,
+  "balance_eur": 492.2084,
+  "spent_eur": 12.4616,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1095,7 +1095,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Der Inhalt ist vollständig und klar, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Es wird allgemein bekanntes Wissen und praktische Tipps vermittelt, ohne gegen die Regeln zu verstoßen. Die Sprache ist durchgehend korrekt und professionell."
+      "audit_note": "Der Inhalt ist vollständig und klar, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Es wird allgemein bekanntes Wissen und praktische Tipps vermittelt, ohne gegen die Regeln zu verstoßen. Die Sprache ist durchgehend korrekt und professionell.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586219617"
+      }
     },
     {
       "type": "excel",
@@ -1143,7 +1146,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Der Inhalt ist weitgehend korrekt und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Zitate, und die Sprache ist konsistent. Kleinere Unvollständigkeiten in Texten sind vorhanden, aber nicht schwerwiegend."
+      "audit_note": "Der Inhalt ist weitgehend korrekt und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Zitate, und die Sprache ist konsistent. Kleinere Unvollständigkeiten in Texten sind vorhanden, aber nicht schwerwiegend.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586219631"
+      }
     },
     {
       "type": "excel",
@@ -1190,7 +1196,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 7,
-      "audit_note": "Einzelne Prozentzahl (30%) ohne klare Grundlage gefunden, jedoch kein schwerwiegender Verstoß gegen die Regeln. Der Rest des Inhalts entspricht den Vorgaben und ist frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen."
+      "audit_note": "Einzelne Prozentzahl (30%) ohne klare Grundlage gefunden, jedoch kein schwerwiegender Verstoß gegen die Regeln. Der Rest des Inhalts entspricht den Vorgaben und ist frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586219645"
+      }
     },
     {
       "type": "excel",
@@ -2149,164 +2158,57 @@
       "pay_url": "https://buy.stripe.com/00wcN63jXfFVciG08c2kw1t",
       "payment_link_id": "plink_1ULTHdJ5iOXkWb9Vtf02g6YX",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Eventos y Finanzas para Asociaciones y Voluntarios",
+      "slug": "planificador-de-eventos-finanzas-asociaciones-voluntarios",
+      "price_eur": 9,
+      "target": "Asociaciones y voluntarios que necesitan organizar eventos y gestionar finanzas de manera eficiente.",
+      "reason": "Esta plantilla es esencial para cualquier asociación o grupo de voluntarios que necesite organizar eventos y gestionar finanzas de manera eficiente y profesional.",
+      "language": "es",
+      "pitch": "Simplifica la organización de eventos y la gestión financiera de tu asociación con esta plantilla profesional.",
+      "content_html": "<h2>Inhalt</h2>Organiza tus eventos y gestiona las finanzas de tu asociación de manera eficiente con esta plantilla profesional. Incluye hojas para presupuestos, registros de gastos y seguimiento de actividades.",
+      "pro": true,
+      "created": "2026-10-01T06:00:39",
+      "file": "planificador-de-eventos-finanzas-asociaciones-voluntarios-9f09987d05d49953.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es werden keine Gesundheitsversprechen oder Finanzberatungen gegeben. Die Sprache ist durchgängig Spanisch, es gibt keine Platzhalter oder unfertigen Texte. Die Berechnungen und Formeln sind plausib",
+      "pay_url": "https://buy.stripe.com/7sYdRacUx1P51E26wA2kw1u",
+      "payment_link_id": "plink_1ULdAoJ5iOXkWb9VzSxkQpLs",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés",
+      "slug": "guia-practica-para-duenos-de-perros-ocupados",
+      "price_eur": 7,
+      "target": "Hombres ocupados con perros en entornos urbanos",
+      "reason": "Responde a una necesidad real detectada en el mercado hispanohablante: hombres profesionales con responsabilidades laborales que quieren cuidar bien a sus perros sin descuidar otras áreas. Ofrece soluciones prácticas diferenciadas de los manuales tradicionales de cuidado canino, enfocándose en eficiencia más que en tiempo ideal.",
+      "language": "es",
+      "pitch": "Aprende técnicas probadas para integrar el cuidado de tu perro en tu ajetreada vida sin sacrificar su bienestar. Soluciones realistas para paseos, alimentación y salud canina.",
+      "content_html": "<h2>Contenido</h2><p>1. Introducción: El reto del dueño ocupado<br>2. Cómo organizar paseos eficientes en poco tiempo<br>3. Alimentación saludable para perros con horarios ajustados<br>4. Juegos interactivos que cansan mentalmente a tu perro<br>5. Cómo detectar señales de estrés en tu perro<br>6. Preparación para emergencias veterinarias<br>7. Construyendo un vínculo fuerte con poco tiempo</p><p>--- Extracto del Capítulo 2 ---<br>\"Los paseos cortos pero intensos pueden ser más efectivos que largas caminatas. Prueba rutas con desafíos como escaleras o terrenos variados. 15 minutos de juego activo equivalen a 30 de caminata lenta...\"</p>",
+      "pro": false,
+      "created": "2026-10-01T06:00:39",
+      "file": "guia-practica-para-duenos-de-perros-ocupados-05f684366ec8f2d0.pdf",
+      "size": 1816,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen, keine Gesundheitsversprechen oder Rechtsberatung, allgemein bekannte Praxistipps. Kleine Verbesserungen möglich, aber kein Regelverstoß.",
+      "pay_url": "https://buy.stripe.com/7sY5kEf2F79p5Ui6wA2kw1v",
+      "payment_link_id": "plink_1ULdApJ5iOXkWb9V8ZmPSk3i",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": -0.0011279999999999999,
-      "why": "Audit: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": -0.004301999999999999,
-      "why": "Audit: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": -0.0013812,
-      "why": "Audit: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides To"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": 0,
-      "why": "Audit entfernt: Planificateur de Voyage dans la Forêt Noire - Budget & Itinéraire pour Guides To – 6 Formelfehler; Der Inhalt ist klar strukturiert und bietet praktische Tipps ohne erfundene Studien, Statistiken oder Gesundheitsversprechen. Die Prozentzahl '2"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": -0.0038736,
-      "why": "Audit: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": -0.0009588,
-      "why": "Audit: Ultimate City Trip Planner for Families in NRW"
-    },
-    {
-      "t": "2026-09-29T13:10:11",
-      "eur": 0,
-      "why": "Audit entfernt: Ultimate City Trip Planner for Families in NRW – 6 Formelfehler; Der Inhalt ist klar strukturiert und frei von erfundenen Studien oder Statistiken. Die Beispielrechnungen sind plausibel und klar als solche gek"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Audit: 8 geprueft, 3 entfernt"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.0012288,
-      "why": "Blog-Artikel: Heidelberg Altstadt (zh)"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.0013871999999999997,
-      "why": "Blog-Artikel: Neuschwanstein (es)"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.00040679999999999997,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Der Erfolgsguide für kleine Restaurants und Cafés: Effektive Strategien für mehr Umsatz und Kundenzufriedenheit"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584991854"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Smart Business Trip Planner & Expense Tracker for Freelancers"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584991872"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Hundepflege-Hacks für gestresste Besitzer: Einfache Lösungen für den Alltag"
-    },
-    {
-      "t": "2026-09-29T12:57:54",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4584985883"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0058692,
-      "why": "KI-Denken: 智能建筑预算与进度跟踪器"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0012552,
-      "why": "KI-Pruefung: 智能建筑预算与进度跟踪器"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0057108,
-      "why": "KI-Denken: 建筑工地预算与报价计算器 - 2026版"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0010404,
-      "why": "KI-Pruefung: 建筑工地预算与报价计算器 - 2026版"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.005839199999999999,
-      "why": "KI-Denken: 智能建筑项目报价与测量计算器 - 2026专业版"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0011267999999999999,
-      "why": "KI-Pruefung: 智能建筑项目报价与测量计算器 - 2026专业版"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.005572799999999999,
-      "why": "KI-Denken: 智能建筑项目成本与报价计算器 - 专注手工行业"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0010259999999999998,
-      "why": "KI-Pruefung: 智能建筑项目成本与报价计算器 - 专注手工行业"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.00558,
-      "why": "KI-Denken: 建筑项目报价和预算跟踪器"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 建筑项目报价和预算跟踪器"
-    },
     {
       "t": "2026-09-29T19:27:18",
       "eur": 0,
@@ -3151,6 +3053,166 @@
       "t": "2026-09-30T23:53:34",
       "eur": -0.0003924,
       "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.006065999999999999,
+      "why": "KI-Denken: Planificador de Eventos y Finanzas para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.0010631999999999998,
+      "why": "KI-Pruefung: Planificador de Eventos y Finanzas para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.012765599999999998,
+      "why": "KI-Denken: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.0041316,
+      "why": "KI-Pruefung: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.005915999999999999,
+      "why": "KI-Denken: 智能搬家预算与装修跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能搬家预算与装修跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.005944799999999999,
+      "why": "KI-Denken: 智能搬迁与装修预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.0010236,
+      "why": "KI-Pruefung: 智能搬迁与装修预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.006071999999999999,
+      "why": "KI-Denken: 智能搬家预算与装修成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.0010031999999999999,
+      "why": "KI-Pruefung: 智能搬家预算与装修成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.006263999999999999,
+      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.0010547999999999998,
+      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.006223199999999999,
+      "why": "KI-Denken: 智能搬家预算与装修成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.0011952,
+      "why": "KI-Pruefung: 智能搬家预算与装修成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-10-01T06:08:40",
+      "eur": -0.0027983999999999995,
+      "why": "Audit: Planificador de Eventos y Finanzas para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-10-01T06:08:40",
+      "eur": -0.0037571999999999996,
+      "why": "Audit: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuid"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.0010727999999999998,
+      "why": "Blog-Artikel: Schwarzwald (zh)"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.0013835999999999998,
+      "why": "Blog-Artikel: Saarland Saarschleife (es)"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.00042359999999999994,
+      "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586219617"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle en 7 Étapes Faciles"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586219631"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
+    },
+    {
+      "t": "2026-10-01T06:00:39",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586219645"
     }
   ],
   "alive": true,
@@ -3476,6 +3538,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-09-30T23:53:34",
       "img": true
+    },
+    {
+      "slug": "explore-black-forest-germany",
+      "title": "探索德国黑森林：自然与文化的完美结合",
+      "lang": "zh",
+      "topic": "Schwarzwald",
+      "created": "2026-10-01T06:00:39",
+      "img": true
+    },
+    {
+      "slug": "saarland-saarschleife-alemania-tesoro-natural",
+      "title": "La Saarschleife en el Saarland: Un tesoro natural de Alemania",
+      "lang": "es",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-01T06:00:39",
+      "img": true
     }
   ],
   "videos": [
@@ -3637,6 +3715,16 @@
       "hashtags": "#München #Marienplatz #Baviera #Alemania #Viajes",
       "voice": "El Marienplatz, centro vibrante de Múnich, te espera con su impresionante ayuntamiento neogótico y el encantador Glockenspiel que cobra vida dos veces al día. Disfruta del ambiente único entre históricos cafés, lujosas boutiques y la energía contagiosa de esta plaza que late al ritmo de Baviera. ¡Una experiencia inolvidable en el alma de Alemania!",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "saarland-saarschleife-alemania-tesoro-natural",
+      "title": "La Saarschleife en el Saarland: Un tesoro natural de Alemania",
+      "lang": "es",
+      "created": "2026-10-01T06:00:39",
+      "hashtags": "#Saarland #Saarschleife #NaturalezaAlemana #ViajesEuropa #DestinosAlemania",
+      "voice": "En el corazón de Alemania, el Saarland te espera con su joya más preciada: la Saarschleife. Este impresionante meandro del río Saar ofrece vistas espectaculares desde el mirador Cloef. Sumérgete en la naturaleza con paseos en barco, senderos pintorescos y un ambiente único. ¡Un paraíso para los amantes de la tranquilidad y los paisajes inolvidables!",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
