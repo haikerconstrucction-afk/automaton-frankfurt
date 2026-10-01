@@ -94,7 +94,7 @@ def build(p, path):
             if not fcols: ws.cell(rownum, 1, None)
         end = max(ws.max_row, 2)
         ref = f"A1:{get_column_letter(len(cols))}{end}"
-        tname = re.sub(r"[^A-Za-z0-9_]", "_", "T_" + name)[:30]
+        tname = re.sub(r"[^A-Za-z0-9_]", "_", "T_" + name)[:24] + "_" + str(len(ws.parent.worksheets)) + str(abs(hash(name)) % 1000)
         t = Table(displayName=tname, ref=ref); t.tableStyleInfo = TableStyleInfo(name="TableStyleMedium7", showRowStripes=True)
         ws.add_table(t)
         for j, h in enumerate(heads, 1):

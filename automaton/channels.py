@@ -1,5 +1,13 @@
+import re
 """Vertriebskanaele: jeder Kanal wird automatisch aktiv, sobald seine Zugangsdaten als GitHub-Secret existieren.
 Neue Plattform = neue Klasse mit enabled() und publish(product)."""
+def etsy_title(t):
+    # Etsy: "&" hoechstens einmal, keine Sonderzeichen wie $ ^ `, max. 140 Zeichen
+    first = t.find("&")
+    if first >= 0: t = t[:first + 1] + re.sub(r"\s*&\s*", ", ", t[first + 1:])
+    t = re.sub(r"[\$\^`]", "", t)
+    return re.sub(r"\s+", " ", t).strip()[:140]
+
 import os, json, urllib.request, urllib.parse, pathlib
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
@@ -57,7 +65,7 @@ class Etsy:
         desc = (p.get("pitch", "") + ("\n\nInstant digital download. No physical item will be shipped." if en else
                 "\n\nSofortiger digitaler Download. Es wird kein physischer Artikel versendet. Kleinunternehmer gem. § 19 UStG."))
         tags = [t[:20] for t in (["excel template", "planner", "tracker", "spreadsheet"] if p.get("type") == "excel" else ["ebook", "pdf guide", "digital download", "instant download"])]
-        lst = http("POST", base, self.h(), {"quantity": 999, "title": p["title"][:140], "description": desc[:4000],
+        lst = http("POST", base, self.h(), {"quantity": 999, "title": etsy_title(p["title"]), "description": desc[:4000],
             "price": float(p["price_eur"]), "who_made": "i_did", "when_made": "2020_2026", "taxonomy_id": int(os.getenv("ETSY_TAXONOMY_ID", "2078")),
             "type": "download", "is_supply": "false", "tags": ",".join(tags)}, form=True)
         lid = lst["listing_id"]
