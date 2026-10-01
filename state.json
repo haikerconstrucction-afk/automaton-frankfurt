@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 492.2084,
-  "spent_eur": 12.4616,
+  "balance_eur": 491.7753,
+  "spent_eur": 12.8947,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1223,7 +1223,10 @@
       "audit_v": 3,
       "audit_score": 8,
       "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Zahlen, Statistiken oder Quellen, keine Beratung, keine fremden Marken/Figuren. Die Excel-Funktionen sind sinnvoll und die Beispieldaten plausibel. Die Sprache ist konsistent und klar. Kleinere Verbesserungen sind möglich, z.B. fehlende Klarstellung",
-      "pro": true
+      "pro": true,
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586410702"
+      }
     },
     {
       "type": "ebook",
@@ -1246,7 +1249,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Eine Prozentzahl (30%) wurde ohne Quellenangabe oder allgemeine Bekanntheit verwendet, ist jedoch nicht kritisch genug für eine Entfernung."
+      "audit_note": "Eine Prozentzahl (30%) wurde ohne Quellenangabe oder allgemeine Bekanntheit verwendet, ist jedoch nicht kritisch genug für eine Entfernung.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586406971"
+      }
     },
     {
       "type": "excel",
@@ -2210,146 +2216,6 @@
   ],
   "log": [
     {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.005396399999999999,
-      "why": "KI-Denken: 智能施工报价与预算跟踪器"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能施工报价与预算跟踪器"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0055704,
-      "why": "KI-Denken: 智能建筑施工预算与测量计算器"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能建筑施工预算与测量计算器"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0021587999999999998,
-      "why": "Excel-Upgrade: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0026856,
-      "why": "Excel-Upgrade: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker fo"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler ultimate-berlin-potsdam-travel-budget-pl: Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0023136,
-      "why": "Excel-Upgrade: 智能婚礼预算跟踪与规划器 - 2026年专属版"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: 智能婚礼预算跟踪与规划器 - 2026年专属版"
-    },
-    {
-      "t": "2026-09-29T19:36:27",
-      "eur": -0.0033816,
-      "why": "Audit: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
-    },
-    {
-      "t": "2026-09-29T19:36:27",
-      "eur": -0.002394,
-      "why": "Audit: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-09-29T19:36:27",
-      "eur": -0.0038459999999999996,
-      "why": "Audit: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
-    },
-    {
-      "t": "2026-09-29T19:36:27",
-      "eur": -0.0011459999999999999,
-      "why": "Audit: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-09-29T19:36:27",
-      "eur": -0.0032784,
-      "why": "Audit: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidde"
-    },
-    {
-      "t": "2026-09-29T19:36:27",
-      "eur": -0.0040224,
-      "why": "Audit: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
-    },
-    {
-      "t": "2026-09-29T19:36:27",
-      "eur": -0.002742,
-      "why": "Audit: 智能婚礼预算跟踪与规划器 - 2026年专属版"
-    },
-    {
-      "t": "2026-09-29T19:36:27",
-      "eur": -0.0047352,
-      "why": "Audit: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": 0,
-      "why": "Audit: 8 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0012768,
-      "why": "Blog-Artikel: Saechsische Schweiz (fr)"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.0010175999999999998,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (de)"
-    },
-    {
-      "t": "2026-09-29T19:27:18",
-      "eur": -0.000402,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.005738399999999999,
-      "why": "KI-Denken: 建筑工程预算与测量计算器"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.0010631999999999998,
-      "why": "KI-Pruefung: 建筑工程预算与测量计算器"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Table with name T___ already exists"
-    },
-    {
       "t": "2026-09-29T23:45:29",
       "eur": -0.00549,
       "why": "KI-Denken: 智能报价计算器与施工现场管理表 - 2026专业版"
@@ -3213,6 +3079,151 @@
       "t": "2026-10-01T06:00:39",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586219645"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.005987999999999999,
+      "why": "KI-Denken: 智能搬家与翻新预算跟踪器"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能搬家与翻新预算跟踪器"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Table with name T____ already exists"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.0061164,
+      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.006356399999999999,
+      "why": "KI-Denken: 智能搬迁与装修预算跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.0012816,
+      "why": "KI-Pruefung: 智能搬迁与装修预算跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.006385199999999999,
+      "why": "KI-Denken: 智能搬家预算与装修进度跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.0012371999999999997,
+      "why": "KI-Pruefung: 智能搬家预算与装修进度跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.005973599999999999,
+      "why": "KI-Denken: 智能搬家与装修预算和进度追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能搬家与装修预算和进度追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Qualitaetspruefung nicht bestanden: {'score': 3, 'rule_violation': True, 'issues': \"Zeileninhalt im 'Progress'-Sheet enthält politisch/geschichtlich sensiblen Text (unpassend für eine Umzugstracker-Vorlage). Formeln sind grundsätzlich sinnvoll, aber der politische Text verletzt die 'keine kontrovers"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.005884799999999999,
+      "why": "KI-Denken: 智能搬家与装修预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能搬家与装修预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.0060312,
+      "why": "KI-Denken: 智能搬家预算与装修成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.0010848,
+      "why": "KI-Pruefung: 智能搬家预算与装修成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.0013763999999999998,
+      "why": "Blog-Artikel: Koeln Dom (fr)"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.0008975999999999999,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (de)"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.00041519999999999995,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586410702"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586406971"
+    },
+    {
+      "t": "2026-10-01T13:25:12",
+      "eur": 0,
+      "why": "etsy-Fehler bei ultimate-berlin-potsdam-travel-budget-planner-itinerary-tracker-women: HTTP Error 400: Bad Request [{\"path\":\"\\/title\\/1\",\"type\":\"too_many_invalid_characters\",\"message\":\"& can only be use once\",\"transformed\":false}]\n"
     }
   ],
   "alive": true,
@@ -3554,6 +3565,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-10-01T06:00:39",
       "img": true
+    },
+    {
+      "slug": "cologne-cathedrale-allemagne",
+      "title": "Découvrez la majestueuse Cathédrale de Cologne en Allemagne",
+      "lang": "fr",
+      "topic": "Koeln Dom",
+      "created": "2026-10-01T13:25:12",
+      "img": true
+    },
+    {
+      "slug": "ruhrgebiet-zollverein-industriekultur-und-coole-vibes",
+      "title": "Ruhrgebiet Zollverein: Industriekultur und coole Vibes",
+      "lang": "de",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-01T13:25:12",
+      "img": true
     }
   ],
   "videos": [
@@ -3725,6 +3752,16 @@
       "hashtags": "#Saarland #Saarschleife #NaturalezaAlemana #ViajesEuropa #DestinosAlemania",
       "voice": "En el corazón de Alemania, el Saarland te espera con su joya más preciada: la Saarschleife. Este impresionante meandro del río Saar ofrece vistas espectaculares desde el mirador Cloef. Sumérgete en la naturaleza con paseos en barco, senderos pintorescos y un ambiente único. ¡Un paraíso para los amantes de la tranquilidad y los paisajes inolvidables!",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "ruhrgebiet-zollverein-industriekultur-und-coole-vibes",
+      "title": "Ruhrgebiet Zollverein: Industriekultur und coole Vibes",
+      "lang": "de",
+      "created": "2026-10-01T13:25:12",
+      "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #Industriekultur #Kultur #Ruhrpott",
+      "voice": "Entdecke das Ruhrgebiet Zollverein – ein Ort voller Geschichte und Innovation! Hier erlebst du, wie Industriekultur zu moderner Kunst wird. Das UNESCO-Welterbe Zeche Zollverein ist mehr als ein Denkmal – es ist lebendiger Begegnungsraum für Kultur, Design und Events. Lass dich inspirieren von der einzigartigen Architektur und dem kreativen Geist, der hier pulsiert. Zollverein – das Ruhrgebiet wie du es noch nie gesehen hast!",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
