@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 491.7753,
-  "spent_eur": 12.8947,
+  "balance_eur": 491.3721,
+  "spent_eur": 13.2979,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1276,7 +1276,10 @@
       "audit_v": 3,
       "audit_score": 10,
       "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Zahlen, Statistiken oder Quellen, keine Gesundheitsversprechen, keine Rechts-, Steuer- oder Finanzberatung, keine fremden Marken oder Figuren. Die Beispielrechnungen sind klar als solche markiert und die Excel-Tabellen sind sinnvoll strukturiert.",
-      "pro": "fehler"
+      "pro": "fehler",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586644388"
+      }
     },
     {
       "type": "ebook",
@@ -2212,124 +2215,81 @@
       "pay_url": "https://buy.stripe.com/7sY5kEf2F79p5Ui6wA2kw1v",
       "payment_link_id": "plink_1ULdApJ5iOXkWb9V8ZmPSk3i",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能搬家与装修预算跟踪器",
+      "slug": "intelligent-moving-and-renovation-budget-tracker",
+      "price_eur": 9,
+      "target": "需要搬家或装修的个人和小型企业",
+      "reason": "搬家与装修是一个复杂的过程，需要详细的预算规划和支出跟踪。这款模板通过自动计算的公式和清晰的仪表盘，帮助用户轻松管理预算，确保项目顺利完成。",
+      "language": "zh",
+      "pitch": "这款专业Excel模板帮助您轻松管理搬家与装修的预算，确保每一笔开销都在掌控之中。",
+      "content_html": "<h2>内容</h2><p>这款模板包含三个工作表，分别用于预算规划、支出跟踪和项目进度管理。每个工作表都有自动计算的公式和下拉菜单，方便您快速输入和更新数据。</p>",
+      "pro": true,
+      "created": "2026-10-01T19:37:27",
+      "file": "intelligent-moving-and-renovation-budget-tracker-4811dd973b047cb9.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist klar, sachlich und ohne erfundene Studien oder Statistiken. Die Beispieldaten sind plausibel und die Anweisungen sind verständlich. Es gibt keine Verstöße gegen die Regeln, jedoch könnte die Benutzerführung durch zusätzliche Erklärungen oder Hinweise verbessert werden.",
+      "pay_url": "https://buy.stripe.com/28E9AU4o1ctJaay3ko2kw1w",
+      "payment_link_id": "plink_1ULpvPJ5iOXkWb9VsBQpW9vX",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能园艺与自给自足：简单步骤实现全年丰收",
+      "slug": "zhi-neng-yuan-yi-zi-ji-zu-zu",
+      "price_eur": 5,
+      "target": "Gardener and self-sufficiency enthusiasts in China, Taiwan, and Singapore",
+      "reason": "随着人们对自给自足和健康生活的关注增加，园艺和自产食物越来越受欢迎。这本电子书提供了实用的步骤和技巧，帮助读者实现全年丰收，满足他们的需求。",
+      "language": "zh",
+      "pitch": "这本电子书将引导您通过简单的步骤实现全年丰收，无论您是否有园艺经验。适合所有热爱自然和自我种植的人士。",
+      "content_html": "<h2>内容</h2><ul><li>第一章：如何选择适合的园艺工具和材料</li><li>第二章：简单步骤规划您的园艺空间</li><li>第三章：选择适合当地气候的植物</li><li>第四章：全年种植时间表</li><li>第五章：常见的园艺问题和解决方案</li><li>第六章：收获后的储存和保鲜技巧</li></ul>",
+      "pro": false,
+      "created": "2026-10-01T19:37:27",
+      "file": "zhi-neng-yuan-yi-zi-ji-zu-zu-2e2beb01edc70bf6.pdf",
+      "size": 1598,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend regelkonform und bietet praktische Tipps ohne erfundene Zahlen oder Quellen. Einige Aussagen könnten klarer als Faustregeln oder Beispiele gekennzeichnet werden, aber es gibt keine schwerwiegenden Verstöße.",
+      "pay_url": "https://buy.stripe.com/9B66oI8Eh51h82q2gk2kw1x",
+      "payment_link_id": "plink_1ULpvQJ5iOXkWb9VKicT7U0D",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Contenu & Suivi des Performances YouTube",
+      "slug": "planificateur-contenu-suivi-performances-youtube",
+      "price_eur": 9,
+      "target": "Content Creator et YouTubeurs",
+      "reason": "Ce produit répond aux besoins des YouTubeurs en leur offrant un outil efficace pour planifier leur contenu et analyser leurs performances.",
+      "language": "fr",
+      "pitch": "Organisez votre planning de contenu et analysez vos performances YouTube avec cette feuille de calcul professionnelle.",
+      "content_html": "<h2>Inhalt</h2><p>Cette feuille de calcul vous permet de planifier votre contenu, de suivre les performances de vos vidéos et d'analyser vos résultats pour optimiser votre stratégie.</p>",
+      "pro": true,
+      "created": "2026-10-01T19:37:27",
+      "file": "planificateur-contenu-suivi-performances-youtube-fdb2830e279868b2.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine offensichtlichen Regelverstöße gefunden. Der Inhalt ist durchgängig in Französisch, enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Excel-Funktionen sind plausibel und die Beispiel-Daten sind klar als solche gekennzeichnet. Verbesserungspotenzial besteht in der Ü",
+      "pay_url": "https://buy.stripe.com/bJeaEY5s51P50zYf362kw1y",
+      "payment_link_id": "plink_1ULpvRJ5iOXkWb9VldIfrFPQ",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.00549,
-      "why": "KI-Denken: 智能报价计算器与施工现场管理表 - 2026专业版"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能报价计算器与施工现场管理表 - 2026专业版"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.010447199999999999,
-      "why": "KI-Denken: 星空下的奇妙冒险：7个温馨的晚安故事"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.0038855999999999995,
-      "why": "KI-Pruefung: 星空下的奇妙冒险：7个温馨的晚安故事"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.16,
-      "why": "KI-Bilder: 星空下的奇妙冒险：7个温馨的晚安故事"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.006554399999999999,
-      "why": "KI-Denken: Planificateur de Budget de Mariage & Suivi des Dépenses - Modèle Professionnel 2026"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.0016476,
-      "why": "KI-Pruefung: Planificateur de Budget de Mariage & Suivi des Dépenses - Modèle Professionnel 2026"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.0025092,
-      "why": "Excel-Upgrade: Planificateur d'entraînement intelligent pour coachs et indépendants"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler planificateur-entrainement-intelligent-c: Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.0020759999999999997,
-      "why": "Excel-Upgrade: Exam Countdown Planner & Study Progress Tracker for Students"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": 0,
-      "why": "Excel-Upgrade-Fehler exam-countdown-planner-study-progress-tr: Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.0024468,
-      "why": "Excel-Upgrade: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständig"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": 0,
-      "why": "Excel auf Pro-Niveau gebracht: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständig"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": -0.001122,
-      "why": "Audit: Planificateur d'entraînement intelligent pour coachs et indépendants"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": 0,
-      "why": "Audit entfernt: Planificateur d'entraînement intelligent pour coachs et indépendants – 1 Formelfehler; Keine klaren Regelverstöße gefunden, aber die 'gains musculaires prévus' könnten als unbegründete Gesundheitsversprechen interpretiert werden. D"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": -0.0036948,
-      "why": "Audit: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": -0.0011255999999999998,
-      "why": "Audit: Exam Countdown Planner & Study Progress Tracker for Students"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": 0,
-      "why": "Audit entfernt: Exam Countdown Planner & Study Progress Tracker for Students – 6 Formelfehler; Das Produkt ist eine einfache Excel-Vorlage für Studienplanung ohne erfundene Statistiken oder unzulässige Behauptungen. Die enthaltenen Formeln"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": -0.0032448,
-      "why": "Audit: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Yo"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": -0.0015275999999999998,
-      "why": "Audit: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Ed"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": -0.003919199999999999,
-      "why": "Audit: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": -0.0021311999999999998,
-      "why": "Audit: Volunteer & Club Event Budget Tracker"
-    },
-    {
-      "t": "2026-09-29T23:51:48",
-      "eur": -0.0031931999999999998,
-      "why": "Audit: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
-    },
     {
       "t": "2026-09-29T23:45:29",
       "eur": 0,
@@ -3224,6 +3184,116 @@
       "t": "2026-10-01T13:25:12",
       "eur": 0,
       "why": "etsy-Fehler bei ultimate-berlin-potsdam-travel-budget-planner-itinerary-tracker-women: HTTP Error 400: Bad Request [{\"path\":\"\\/title\\/1\",\"type\":\"too_many_invalid_characters\",\"message\":\"& can only be use once\",\"transformed\":false}]\n"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.0059927999999999995,
+      "why": "KI-Denken: 智能搬家与装修预算及进度追踪表"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能搬家与装修预算及进度追踪表"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Example data includes future dates (2026) which might confuse users.'}"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.006123599999999999,
+      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.0010332,
+      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.010421999999999999,
+      "why": "KI-Denken: 智能园艺与自给自足：简单步骤实现全年丰收"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.0036743999999999995,
+      "why": "KI-Pruefung: 智能园艺与自给自足：简单步骤实现全年丰收"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能园艺与自给自足：简单步骤实现全年丰收"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.006228,
+      "why": "KI-Denken: Planificateur de Contenu YouTube & Suivi des Performances"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.001062,
+      "why": "KI-Pruefung: Planificateur de Contenu YouTube & Suivi des Performances"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.006004799999999999,
+      "why": "KI-Denken: Planificateur de Contenu & Suivi des Performances YouTube"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Contenu & Suivi des Performances YouTube"
+    },
+    {
+      "t": "2026-10-01T19:45:28",
+      "eur": -0.0020567999999999997,
+      "why": "Audit: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-01T19:45:28",
+      "eur": -0.0037871999999999997,
+      "why": "Audit: 智能园艺与自给自足：简单步骤实现全年丰收"
+    },
+    {
+      "t": "2026-10-01T19:45:28",
+      "eur": -0.0022248,
+      "why": "Audit: Planificateur de Contenu & Suivi des Performances YouTube"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.0012552,
+      "why": "Blog-Artikel: Bodensee (en)"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.000996,
+      "why": "Blog-Artikel: Mosel Cochem (zh)"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.00034559999999999994,
+      "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-10-01T19:37:27",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586644388"
     }
   ],
   "alive": true,
@@ -3581,6 +3651,22 @@
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-10-01T13:25:12",
       "img": true
+    },
+    {
+      "slug": "discover-the-beauty-of-lake-constance-a-travelers-guide",
+      "title": "Discover the Beauty of Lake Constance: A Traveler's Guide",
+      "lang": "en",
+      "topic": "Bodensee",
+      "created": "2026-10-01T19:37:27",
+      "img": true
+    },
+    {
+      "slug": "explore-mosel-cochem-germany",
+      "title": "探索德国摩泽尔河谷：科赫姆的魅力之旅",
+      "lang": "zh",
+      "topic": "Mosel Cochem",
+      "created": "2026-10-01T19:37:27",
+      "img": true
     }
   ],
   "videos": [
@@ -3762,6 +3848,16 @@
       "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #Industriekultur #Kultur #Ruhrpott",
       "voice": "Entdecke das Ruhrgebiet Zollverein – ein Ort voller Geschichte und Innovation! Hier erlebst du, wie Industriekultur zu moderner Kunst wird. Das UNESCO-Welterbe Zeche Zollverein ist mehr als ein Denkmal – es ist lebendiger Begegnungsraum für Kultur, Design und Events. Lass dich inspirieren von der einzigartigen Architektur und dem kreativen Geist, der hier pulsiert. Zollverein – das Ruhrgebiet wie du es noch nie gesehen hast!",
       "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "explore-mosel-cochem-germany",
+      "title": "探索德国摩泽尔河谷：科赫姆的魅力之旅",
+      "lang": "zh",
+      "created": "2026-10-01T19:37:27",
+      "hashtags": "#德国旅游 #科赫姆 #摩泽尔河谷 #城堡 #自然风光",
+      "voice": "欢迎来到德国科赫姆，摩泽尔河谷的瑰宝！这里有雄伟的科赫姆城堡，俯瞰着浪漫的葡萄园和蜿蜒的河流。乘坐游船，感受摩泽尔河的宁静与美丽。小镇的古老街道充满历史气息，每一步都是时光的见证。无论是自然爱好者还是历史迷，科赫姆都将带给您难忘的体验。",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
