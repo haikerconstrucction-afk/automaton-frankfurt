@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 489.7306,
-  "spent_eur": 14.9395,
+  "balance_eur": 488.9595,
+  "spent_eur": 15.7106,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1534,7 +1534,10 @@
       "pay_url": "https://buy.stripe.com/4gMeVe8EhctJdmK5sw2kw12",
       "payment_link_id": "plink_1UKSsvJ5iOXkWb9VA5EMyl4Q",
       "site": "https://haiktec.tech",
-      "pro": true
+      "pro": true,
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587060049"
+      }
     },
     {
       "type": "ebook",
@@ -1557,7 +1560,10 @@
       "audit_note": "Keine klaren Regelverstöße festgestellt. Das E-Book enthält allgemeine Ratschläge und praxisnahe Tipps ohne erfundene Statistiken oder Prozentangaben. Der Inhalt ist klar strukturiert und entspricht den Vorgaben für digitale Produkte.",
       "pay_url": "https://buy.stripe.com/7sYdRa7Ad3Xd1E2aMQ2kw13",
       "payment_link_id": "plink_1UKSsvJ5iOXkWb9VzC36L3K0",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587060081"
+      }
     },
     {
       "type": "excel",
@@ -1581,7 +1587,10 @@
       "audit_note": "Das Produkt ist klar strukturiert und frei von erfunden Zahlen, Statistiken oder Gesundheitsversprechen. Es enthält keine Rechts-, Steuer- oder Finanzberatung und verwendet keine fremden Marken oder Figuren. Die Beispieldaten sind konsistent und die Kennzahlen plausibel. Kleinere Verbesserungen wäre",
       "pay_url": "https://buy.stripe.com/bJe7sMbQtgJZeqOf362kw14",
       "payment_link_id": "plink_1UKYBTJ5iOXkWb9Vj9wfnqFg",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587065186"
+      }
     },
     {
       "type": "ebook",
@@ -2425,114 +2434,80 @@
       "pay_url": "https://buy.stripe.com/eVq28s9IlfFVbeC4os2kw1D",
       "payment_link_id": "plink_1ULzlDJ5iOXkWb9VujoosOTe",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate NRW Travel Budget Planner & Itinerary Tracker",
+      "slug": "ultimate-nrw-travel-budget-planner-itinerary-tracker",
+      "price_eur": 9,
+      "target": "Women planning trips in NRW (Cologne, Düsseldorf, Ruhr Area)",
+      "reason": "This template provides a comprehensive solution for planning and tracking trips to NRW, ensuring women can travel confidently and efficiently.",
+      "language": "en",
+      "pitch": "Plan your perfect trip to NRW with this professional Excel template. Track your budget, organize your itinerary, and stay in control of your travel expenses.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps you plan and track your trip to NRW efficiently. It includes sheets for budget tracking, itinerary planning, and expense management. Perfect for women who want to explore Cologne, Düsseldorf, and the Ruhr Area without stress.</p>",
+      "pro": true,
+      "created": "2026-10-02T12:41:32",
+      "file": "ultimate-nrw-travel-budget-planner-itinerary-tracker-53e9ecdcf050e1d9.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine funktionale Excel-Vorlage zur Reiseplanung in NRW ohne erfundene Zahlen oder Regelverstöße. Die Beispieldaten sind plausibel und es werden keine falschen Behauptungen oder unzulässigen Inhalte verwendet.",
+      "pay_url": "https://buy.stripe.com/dRm9AU6w965lgyWaMQ2kw1E",
+      "payment_link_id": "plink_1UM5skJ5iOXkWb9VOu0fUyTW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers",
+      "slug": "bavarian-alps-adventure-guide-day-trips-solo-women",
+      "price_eur": 7,
+      "target": "Independent female travelers aged 25-45 seeking safe yet adventurous experiences in the Bavarian Alps (can also be used by groups)",
+      "reason": "Fills a gap in travel resources specifically addressing solo female travelers' practical needs in the Alps beyond generic safety warnings, combining route planning with cultural insights. The price reflects the tested, localized knowledge that saves users research time and boosts confidence.",
+      "language": "en",
+      "pitch": "Discover hidden alpine trails, authentic mountain huts, and breathtaking viewpoints – carefully selected for women traveling alone. Includes safety tips, photo spots, and local food recommendations you won't find in standard guides.",
+      "content_html": "<h2>Contents</h2>\n<ol>\n<li>Preparation: What to Pack for Alpine Day Hikes</li>\n<li>7 Curated Day Trip Routes (With Public Transport Options)</li>\n<li>Best Photo Spots & Panoramas</li>\n<li>Coziest Mountain Huts with Female-Friendly Atmosphere</li>\n<li>Local Alpine Dishes Worth Trying</li>\n<li>Safety Tips & Emergency Contacts</li>\n<li>Bonus: Off-Season Winter Alternatives</li>\n</ol>\n<h3>Sample Chapter Excerpt</h3>\n<p>The Murnauer Moos route combines easy wetland trails with dramatic alpine views – perfect for your first acclimatization day. Start at the short Staffelsee loop near the train station (luggage lockers available) before taking bus 9611 to... (continued)</p>",
+      "pro": false,
+      "created": "2026-10-02T12:41:32",
+      "file": "bavarian-alps-adventure-guide-day-trips-solo-women-aaf7d36501ac50a4.pdf",
+      "size": 1889,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Die Aussage '50% of pack weight should be water' ist eine konkrete Prozentzahl ohne allgemein bekannte Grundlage und damit erfunden. Dies verstößt gegen die Regeln, da nur allgemein bekannte Fakten erlaubt sind.",
+      "retired": true,
+      "retired_why": "Die Aussage '50% of pack weight should be water' ist eine konkrete Prozentzahl ohne allgemein bekannte Grundlage und damit erfunden. Dies verstößt gegen die Regeln, da nur allgemein bekannte Fakten erlaubt sind. Erfundene Zahlen: 50%"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Viajes para la Costa del Mar Báltico y Mar del Norte",
+      "slug": "planificador-viajes-costa-baltica-norte",
+      "price_eur": 9,
+      "target": "Hombres que viajan a la Costa del Mar Báltico y Mar del Norte",
+      "reason": "Este producto cubre una necesidad específica para organizar viajes eficientemente, asegurando que los usuarios puedan gestionar su presupuesto y planificación de manera efectiva.",
+      "language": "es",
+      "pitch": "Organiza tu viaje a la costa con esta herramienta profesional. Controla tu presupuesto, itinerario y actividades fácilmente.",
+      "content_html": "<h2>Incluye</h2><ul><li>Planificador de itinerario</li><li>Calculadora de presupuesto</li><li>Registro de actividades y gastos</li></ul>",
+      "pro": true,
+      "created": "2026-10-02T12:41:32",
+      "file": "planificador-viajes-costa-baltica-norte-982b1493667bec28.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt enthält keine offensichtlichen Regelverstöße wie erfundene Statistiken, Gesundheitsversprechen oder fremde Marken. Die Beispielrechnungen sind klar als solche markiert und die Excel-Formeln sind korrekt und sinnvoll. Der Preis von 9 Euro ist angegeben, ohne dass eine Finanzberatung erfol",
+      "pay_url": "https://buy.stripe.com/8x2cN6g6JctJ4QebQU2kw1F",
+      "payment_link_id": "plink_1UM5skJ5iOXkWb9VJ45Gf4Wb",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.012443999999999997,
-      "why": "KI-Denken: The Etsy Seller's Growth Handbook: 7 Proven Steps to Boost Your Online Store"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0034067999999999998,
-      "why": "KI-Pruefung: The Etsy Seller's Growth Handbook: 7 Proven Steps to Boost Your Online Store"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Etsy Seller's Growth Handbook: 7 Proven Steps to Boost Your Online Store"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.006137999999999999,
-      "why": "KI-Denken: Gestión de Eventos para Asociaciones y Voluntarios: Planificador y Tracker de Presupuestos"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0010968,
-      "why": "KI-Pruefung: Gestión de Eventos para Asociaciones y Voluntarios: Planificador y Tracker de Presupuestos"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.006052799999999999,
-      "why": "KI-Denken: Gestor de Presupuesto y Eventos para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0010332,
-      "why": "KI-Pruefung: Gestor de Presupuesto y Eventos para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 6 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.006834,
-      "why": "KI-Denken: Gestor de Finanzas y Eventos para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0017243999999999998,
-      "why": "KI-Pruefung: Gestor de Finanzas y Eventos para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0060647999999999995,
-      "why": "KI-Denken: Organizador de Eventos para Asociaciones y Voluntarios: Planificación y Control de Gastos"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0010428,
-      "why": "KI-Pruefung: Organizador de Eventos para Asociaciones y Voluntarios: Planificación y Control de Gastos"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0059364,
-      "why": "KI-Denken: Gestor de Eventos y Finanzas para Asociaciones"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0011556,
-      "why": "KI-Pruefung: Gestor de Eventos y Finanzas para Asociaciones"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0064031999999999995,
-      "why": "KI-Denken: Gestión de Eventos para Asociaciones: Planificador de Presupuesto y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0011832,
-      "why": "KI-Pruefung: Gestión de Eventos para Asociaciones: Planificador de Presupuesto y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-09-30T19:34:18",
       "eur": -0.0027228,
@@ -3432,6 +3407,111 @@
       "t": "2026-10-02T05:43:08",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586896051"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.0065304,
+      "why": "KI-Denken: Ultimate NRW Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.001014,
+      "why": "KI-Pruefung: Ultimate NRW Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.0122268,
+      "why": "KI-Denken: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.0035207999999999997,
+      "why": "KI-Pruefung: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.16,
+      "why": "KI-Bilder: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.006378,
+      "why": "KI-Denken: Planificador de Viajes para la Costa del Mar Báltico y Mar del Norte"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Viajes para la Costa del Mar Báltico y Mar del Norte"
+    },
+    {
+      "t": "2026-10-02T12:47:51",
+      "eur": -0.0021768,
+      "why": "Audit: Ultimate NRW Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-02T12:47:51",
+      "eur": -0.0032256,
+      "why": "Audit: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers"
+    },
+    {
+      "t": "2026-10-02T12:47:51",
+      "eur": 0,
+      "why": "Audit entfernt: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers – Die Aussage '50% of pack weight should be water' ist eine konkrete Prozentzahl ohne allgemein bekannte Grundlage und damit erfunden. Dies verstößt gegen die Reg"
+    },
+    {
+      "t": "2026-10-02T12:47:51",
+      "eur": -0.0022776,
+      "why": "Audit: Planificador de Viajes para la Costa del Mar Báltico y Mar del Norte"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 1 entfernt"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.0008088,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (zh)"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.0015936,
+      "why": "Blog-Artikel: Frankfurt Skyline (es)"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.00038879999999999996,
+      "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Edition)"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587060049"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587060081"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Volunteer & Club Event Budget Tracker"
+    },
+    {
+      "t": "2026-10-02T12:41:32",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587065186"
     }
   ],
   "alive": true,
@@ -3837,6 +3917,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-10-02T05:43:08",
       "img": true
+    },
+    {
+      "slug": "exploring-hamburg-speicherstadt",
+      "title": "探索汉堡仓库城：历史与现代的交汇处",
+      "lang": "zh",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-02T12:41:32",
+      "img": true
+    },
+    {
+      "slug": "la-impresionante-skyline-de-francfort-una-guia-para-viajeros",
+      "title": "La Impresionante Skyline de Fráncfort: Una Guía para Viajeros",
+      "lang": "es",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-02T12:41:32",
+      "img": true
     }
   ],
   "videos": [
@@ -4048,6 +4144,16 @@
       "hashtags": "#Rügen #ChalkCliffs #NatureLovers #BalticSea #TravelGermany",
       "voice": "Welcome to Rügen, home to Germany's breathtaking Chalk Cliffs! Formed over millennia, these pristine white cliffs rise majestically from the Baltic Sea. Feel the awe-inspiring beauty of nature as you hike along scenic trails or relax on the pebble beaches below. A true paradise for adventurers and nature lovers alike. Don’t miss this unforgettable experience!",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "la-impresionante-skyline-de-francfort-una-guia-para-viajeros",
+      "title": "La Impresionante Skyline de Fráncfort: Una Guía para Viajeros",
+      "lang": "es",
+      "created": "2026-10-02T12:41:32",
+      "hashtags": "#FrankfurtSkyline #CiudadModerna #EuropaVibrante #RinconMagico #TurismoAleman",
+      "voice": "Descubre Frankfurt, una ciudad que combina lo moderno con lo histórico. Sus imponentes rascacielos se alzan majestuosamente, creando una skyline única en Europa. El río Main serpentea suavemente, reflejando la vibrante vida urbana. Aquí, la cultura, los negocios y la naturaleza se entrelazan armoniosamente. ¡Visítala y déjate sorprender!",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
