@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 490.4096,
-  "spent_eur": 14.2604,
+  "balance_eur": 489.7306,
+  "spent_eur": 14.9395,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1405,7 +1405,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 6,
-      "audit_note": "Einige Prozentzahlen (z.B. '现金支付能让消费金额降低15-30%', '减少22%的非计划购物') sind nicht allgemein bekannt und wirken erfunden. Der Inhalt ist jedoch ansonsten nützlich und entspricht den Regeln."
+      "audit_note": "Einige Prozentzahlen (z.B. '现金支付能让消费金额降低15-30%', '减少22%的非计划购物') sind nicht allgemein bekannt und wirken erfunden. Der Inhalt ist jedoch ansonsten nützlich und entspricht den Regeln.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586899468"
+      }
     },
     {
       "type": "excel",
@@ -1453,7 +1456,10 @@
       "audit_note": "Die Prozentzahl '90%' im Zusammenhang mit der Aussage 'La politesse et la rapidité désamorcent 90% des tensions' wirkt erfunden, da keine allgemein bekannte Grundlage dafür existiert. Der restliche Inhalt ist jedoch klar, strukturiert und frei von offensichtlichen Regelverstößen.",
       "pay_url": "https://buy.stripe.com/28EdRaaMpeBR4QecUY2kw0Z",
       "payment_link_id": "plink_1UKPhoJ5iOXkWb9VQ3Iyw7Zy",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586899490"
+      }
     },
     {
       "type": "excel",
@@ -1501,7 +1507,10 @@
       "audit_note": "Der Inhalt enthält keine erfundenen Studien oder falschen Prozentzahlen. Die Tipps sind praxisnah und basieren auf allgemeinem Wissen. Die Sprache ist konsequent englisch und es gibt keine unfertigen Texte oder Platzhalter. Die Vorschläge sind legal und enthalten keine unzulässigen Gesundheitsverspr",
       "pay_url": "https://buy.stripe.com/7sYaEY7AdfFVciGbQU2kw11",
       "payment_link_id": "plink_1UKSsuJ5iOXkWb9VPQfbhe1y",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586896051"
+      }
     },
     {
       "type": "excel",
@@ -2368,164 +2377,57 @@
       "pay_url": "https://buy.stripe.com/fZu9AU1bP0L1eqO9IM2kw1B",
       "payment_link_id": "plink_1ULturJ5iOXkWb9VNSKYlUpA",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Schwarzwald-Reisebudget-Tracker & Planer für internationale Gäste",
+      "slug": "schwarzwald-reisebudget-tracker-planer",
+      "price_eur": 9,
+      "target": "internationale Gäste, die den Schwarzwald besuchen",
+      "reason": "Dieser Tracker bietet internationalen Gästen eine einfache Möglichkeit, ihre Schwarzwald-Reise zu planen und ihre Ausgaben im Blick zu behalten. Durch die klare Struktur und die praktischen Funktionen ist er ein unverzichtbares Tool für eine stressfreie Reise.",
+      "language": "de",
+      "pitch": "Planen Sie Ihre Schwarzwald-Reise mühelos mit diesem professionellen Budget-Tracker und Reiseplaner. Bleiben Sie organisiert und halten Sie Ihre Ausgaben im Blick.",
+      "content_html": "<h2>Inhalt</h2><p>Dieser Excel-Tracker hilft Ihnen, Ihr Schwarzwald-Reisebudget im Griff zu behalten und Ihre Aktivitäten zu planen. Er enthält separate Blätter für Ausgaben, Aktivitäten und eine Übersicht mit KPIs.</p>",
+      "pro": true,
+      "created": "2026-10-02T05:43:08",
+      "file": "schwarzwald-reisebudget-tracker-planer-e3cfbeb594fa6eeb.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Zitate festgestellt. Der Inhalt ist klar, vollständig und entspricht den Regeln. Die Excel-Funktionen und Beispieldaten sind plausibel und korrekt.",
+      "pay_url": "https://buy.stripe.com/eVq28s7Ad65l82q3ko2kw1C",
+      "payment_link_id": "plink_1ULzlCJ5iOXkWb9V05NFFH4q",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Entdecke das Saarland & die Mosel: Der ultimative Reiseführer für Naturfreunde und Kulturliebhaber",
+      "slug": "saarland-mosel-reisefuehrer",
+      "price_eur": 5,
+      "target": "Reiselustige, Naturfreunde und Kulturliebhaber, die das Saarland und die Moselregion erkunden möchten",
+      "reason": "Das Saarland und die Moselregion sind beliebte Reiseziele, aber viele Reisende kennen nur die bekanntesten Sehenswürdigkeiten. Dieser Reiseführer hilft ihnen, die versteckten Schätze der Region zu entdecken und ihre Reise optimal zu planen.",
+      "language": "de",
+      "pitch": "Erlebe die versteckten Schätze des Saarlandes und der Moselregion mit diesem praktischen Reiseführer. Entdecke Routen, Sehenswürdigkeiten und lokale Geheimtipps.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einführung ins Saarland und die Moselregion</li><li>Top 5 Wanderrouten für Naturfreunde</li><li>Kulturelle Highlights der Region</li><li>Empfehlungen für lokale Spezialitäten</li><li>Praktische Tipps für Fotografen</li><li>Gastfreundliche Unterkünfte</li></ul>",
+      "pro": false,
+      "created": "2026-10-02T05:43:08",
+      "file": "saarland-mosel-reisefuehrer-06bd633c1e0e3e60.pdf",
+      "size": 1548,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken oder Zahlen und hält sich an die vorgegebenen Regeln. Es gibt keine Rechts-, Finanz-, Steuer- oder Gesundheitsberatung. Der Text ist sachlich korrekt, vollständig und enthält keine Platzhalter oder Wiederholungen. Die Empfehlungen basieren auf",
+      "pay_url": "https://buy.stripe.com/eVq28s9IlfFVbeC4os2kw1D",
+      "payment_link_id": "plink_1ULzlDJ5iOXkWb9VujoosOTe",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585512920"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Schlafenszeit-Geschichten für kleine Entdecker: 7 magische Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585512934"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.0065688,
-      "why": "KI-Denken: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.0015275999999999998,
-      "why": "KI-Pruefung: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 10 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.00648,
-      "why": "KI-Denken: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.0014796,
-      "why": "KI-Pruefung: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.014080799999999997,
-      "why": "KI-Denken: Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Cafés"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.004297199999999999,
-      "why": "KI-Pruefung: Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Cafés"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.16,
-      "why": "KI-Bilder: Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Cafés"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.006464399999999999,
-      "why": "KI-Denken: Ultimate Travel Packing List & Budget Planner for Female Solo Travelers"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.0013763999999999998,
-      "why": "KI-Pruefung: Ultimate Travel Packing List & Budget Planner for Female Solo Travelers"
-    },
-    {
-      "t": "2026-09-30T12:50:22",
-      "eur": -0.0017831999999999998,
-      "why": "Audit: NRW Städtereise-Budget-Tracker & Planer"
-    },
-    {
-      "t": "2026-09-30T12:50:22",
-      "eur": -0.0039575999999999995,
-      "why": "Audit: Bayerische Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber"
-    },
-    {
-      "t": "2026-09-30T12:50:22",
-      "eur": -0.0043968,
-      "why": "Audit: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
-    },
-    {
-      "t": "2026-09-30T12:50:22",
-      "eur": -0.0032147999999999994,
-      "why": "Audit: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heide"
-    },
-    {
-      "t": "2026-09-30T12:50:22",
-      "eur": -0.0022787999999999997,
-      "why": "Audit: Berlin & Potsdam Road Trip Planner: Budget Tracker & Itinerary Organizer"
-    },
-    {
-      "t": "2026-09-30T12:50:22",
-      "eur": -0.003915599999999999,
-      "why": "Audit: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
-    },
-    {
-      "t": "2026-09-30T12:50:22",
-      "eur": -0.0031511999999999994,
-      "why": "Audit: 智能报价计算器与施工现场管理表 - 2026专业版"
-    },
-    {
-      "t": "2026-09-30T12:50:22",
-      "eur": -0.0038243999999999995,
-      "why": "Audit: 星空下的奇妙冒险：7个温馨的晚安故事"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": 0,
-      "why": "Audit: 8 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.0013991999999999997,
-      "why": "Blog-Artikel: Dresden Frauenkirche (de)"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.0013452,
-      "why": "Blog-Artikel: Harz Brocken (en)"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.00033839999999999993,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Clever haushalten: 7 einfache Strategien für mehr finanziellen Spielraum im Alltag"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585700209"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guía Práctica para Docentes: Estrategias Efectivas de Planificación y Evaluación"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585705432"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Senioren-Medikationsplaner & Erinnerungstracker"
-    },
-    {
-      "t": "2026-09-30T12:41:11",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585705458"
-    },
     {
       "t": "2026-09-30T19:24:28",
       "eur": -0.012443999999999997,
@@ -3375,6 +3277,161 @@
       "t": "2026-10-01T23:55:07",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586770041"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.0066288,
+      "why": "KI-Denken: Schwarzwald-Reisebudget-Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.0011807999999999999,
+      "why": "KI-Pruefung: Schwarzwald-Reisebudget-Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.012561600000000001,
+      "why": "KI-Denken: Entdecke das Saarland und die Mosel: Der ultimative Reiseführer für Naturliebhaber und Kulturinteressierte"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.004376399999999999,
+      "why": "KI-Pruefung: Entdecke das Saarland und die Mosel: Der ultimative Reiseführer für Naturliebhaber und Kulturinteressierte"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): E-Book zu kurz (1394 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.012164399999999999,
+      "why": "KI-Denken: Entdecke das Saarland und die Mosel: Der praktische Reiseführer für alle Geschlechter"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.004398,
+      "why": "KI-Pruefung: Entdecke das Saarland und die Mosel: Der praktische Reiseführer für alle Geschlechter"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1354 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.012130799999999999,
+      "why": "KI-Denken: Saarland und Mosel entdecken: Der ultimative Reiseführer für Selbstständige und kleine Unternehmen"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.0042,
+      "why": "KI-Pruefung: Saarland und Mosel entdecken: Der ultimative Reiseführer für Selbstständige und kleine Unternehmen"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (1199 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.012893999999999997,
+      "why": "KI-Denken: Saarland & Mosel Entdecken: Der ultimative Insider-Guide für selbstständige Reisende und Kleinunternehmer"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.0043836,
+      "why": "KI-Pruefung: Saarland & Mosel Entdecken: Der ultimative Insider-Guide für selbstständige Reisende und Kleinunternehmer"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): E-Book zu kurz (1235 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.012945599999999998,
+      "why": "KI-Denken: Entdecke das Saarland & die Mosel: Der ultimative Reiseführer für Naturfreunde und Kulturliebhaber"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.0042768,
+      "why": "KI-Pruefung: Entdecke das Saarland & die Mosel: Der ultimative Reiseführer für Naturfreunde und Kulturliebhaber"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.0065471999999999995,
+      "why": "KI-Denken: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.0010007999999999998,
+      "why": "KI-Pruefung: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-02T06:15:45",
+      "eur": -0.0021936,
+      "why": "Audit: Schwarzwald-Reisebudget-Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-02T06:15:45",
+      "eur": -0.0040152,
+      "why": "Audit: Entdecke das Saarland & die Mosel: Der ultimative Reiseführer für Naturfreunde u"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.0016499999999999998,
+      "why": "Blog-Artikel: Saechsische Schweiz (de)"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.0012,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (en)"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.00034319999999999994,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586899468"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et Gestion Simplifiée"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586899490"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Your Sales"
+    },
+    {
+      "t": "2026-10-02T05:43:08",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586896051"
     }
   ],
   "alive": true,
@@ -3764,6 +3821,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-10-01T23:55:07",
       "img": true
+    },
+    {
+      "slug": "saechsische-schweiz-ein-paradies-fuer-naturliebhaber-und-wan",
+      "title": "Sächsische Schweiz: Ein Paradies für Naturliebhaber und Wanderfreunde",
+      "lang": "de",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-02T05:43:08",
+      "img": true
+    },
+    {
+      "slug": "discover-the-majestic-chalk-cliffs-of-ruegen-germany",
+      "title": "Discover the Majestic Chalk Cliffs of Rügen, Germany",
+      "lang": "en",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-02T05:43:08",
+      "img": true
     }
   ],
   "videos": [
@@ -3965,6 +4038,16 @@
       "hashtags": "#Neuschwanstein #ChâteauDeRêve #Bavière #LouisII #AllemagneMagique",
       "voice": "Plongez dans un rêve devenu réalité! Le château de Neuschwanstein, joyau de Bavière, vous transporte dans un monde magique. Construit par le roi Louis II, ce chef-d'œuvre architectural se dresse fièrement sur un pic rocheux, entouré de paysages à couper le souffle. Ses flèches élancées et ses salles somptueuses vous invitent à explorer une histoire fascinante. Préparez-vous à être émerveillés!",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-the-majestic-chalk-cliffs-of-ruegen-germany",
+      "title": "Discover the Majestic Chalk Cliffs of Rügen, Germany",
+      "lang": "en",
+      "created": "2026-10-02T05:43:08",
+      "hashtags": "#Rügen #ChalkCliffs #NatureLovers #BalticSea #TravelGermany",
+      "voice": "Welcome to Rügen, home to Germany's breathtaking Chalk Cliffs! Formed over millennia, these pristine white cliffs rise majestically from the Baltic Sea. Feel the awe-inspiring beauty of nature as you hike along scenic trails or relax on the pebble beaches below. A true paradise for adventurers and nature lovers alike. Don’t miss this unforgettable experience!",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
