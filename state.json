@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 491.3721,
-  "spent_eur": 13.2979,
+  "balance_eur": 490.4096,
+  "spent_eur": 14.2604,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1302,7 +1302,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Keine erfundenen Statistiken, Prozentzahlen oder Quellen gefunden. Der Text ist klar, vollständig und entspricht den Regeln. Einige Stellen könnten etwas präziser sein, aber insgesamt ist das Produkt regelkonform."
+      "audit_note": "Keine erfundenen Statistiken, Prozentzahlen oder Quellen gefunden. Der Text ist klar, vollständig und entspricht den Regeln. Einige Stellen könnten etwas präziser sein, aber insgesamt ist das Produkt regelkonform.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586773852"
+      }
     },
     {
       "type": "excel",
@@ -1349,7 +1352,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 10,
-      "audit_note": "Der Inhalt ist legal, ehrlich und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Der Text ist vollständig, ohne Platzhalter oder Wiederholungen. Es handelt sich um eine Sammlung von kindgerechten Geschichten, die keine Gesundheitsversprechen, Markenbezüge oder sac"
+      "audit_note": "Der Inhalt ist legal, ehrlich und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Der Text ist vollständig, ohne Platzhalter oder Wiederholungen. Es handelt sich um eine Sammlung von kindgerechten Geschichten, die keine Gesundheitsversprechen, Markenbezüge oder sac",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586770025"
+      }
     },
     {
       "type": "excel",
@@ -1373,7 +1379,10 @@
       "audit_v": 3,
       "audit_score": 10,
       "audit_note": "Keine Verstöße gegen die Regeln festgestellt. Der Inhalt ist legal, ehrlich, enthält keine erfundenen Studien, Statistiken oder Quellen. Es handelt sich um ein klar strukturiertes Excel-Tool zur Budgetplanung ohne irreführende Angaben oder Gesundheitsversprechen. Die Sprache ist korrekt und einheitl",
-      "pro": true
+      "pro": true,
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4586770041"
+      }
     },
     {
       "type": "ebook",
@@ -2287,159 +2296,81 @@
       "pay_url": "https://buy.stripe.com/bJeaEY5s51P50zYf362kw1y",
       "payment_link_id": "plink_1ULpvRJ5iOXkWb9VldIfrFPQ",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats",
+      "slug": "guide-pratique-pour-enseignants-et-tuteurs",
+      "price_eur": 5,
+      "target": "enseignants et tuteurs en France, Belgique et Canada",
+      "reason": "Les enseignants et tuteurs ont besoin de solutions pratiques pour gérer leur temps et améliorer leurs résultats. Ce guide offre des stratégies concrètes et faciles à appliquer, ce qui en fait un achat essentiel pour ces professionnels.",
+      "language": "fr",
+      "pitch": "Découvrez des astuces simples et efficaces pour organiser vos cours, gagner du temps et améliorer l'apprentissage de vos élèves.",
+      "content_html": "<h2>Inhalt</h2>Ce livre pratique vous guide à travers des stratégies concrètes pour optimiser votre temps et améliorer les résultats de vos élèves. Découvrez des méthodes éprouvées pour planifier vos cours, gérer les défis courants et créer un environnement d'apprentissage efficace.",
+      "pro": false,
+      "created": "2026-10-01T23:55:07",
+      "file": "guide-pratique-pour-enseignants-et-tuteurs-2bba0906bf04dd30.pdf",
+      "size": 1533,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist gut strukturiert, frei von erfundenen Studien, Statistiken oder Prozentzahlen, und enthält nur allgemein bekannte Praxistipps und Strategien. Die Sprache ist korrekt und einheitlich, es gibt keine Platzhalter, Wiederholungen oder sachlichen Fehler. Der Inhalt entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/dRm6oI2fTfFV5UibQU2kw1z",
+      "payment_link_id": "plink_1ULtuqJ5iOXkWb9VeVhHPJmC",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Caregiver Expense Tracker & Budget Planner for Seniors",
+      "slug": "caregiver-expense-tracker-budget-planner-seniors",
+      "price_eur": 9,
+      "target": "Families and caregivers managing senior care expenses",
+      "reason": "This tool provides a clear, professional way for caregivers to manage senior care expenses, helping them stay organized and make informed budgeting decisions.",
+      "language": "en",
+      "pitch": "Effortlessly track and manage senior care expenses with this professional Excel tool. Stay organized and make budgeting simple for caregiving tasks.",
+      "content_html": "<h2>Content</h2><p>This Excel template includes three sheets: Expense Tracker, Budget Overview, and Dashboard. It helps you monitor caregiving costs, plan budgets, and visualize expenses with charts.</p>",
+      "pro": true,
+      "created": "2026-10-01T23:55:07",
+      "file": "caregiver-expense-tracker-budget-planner-seniors-0468daa438d3dd87.xlsx",
+      "size": 13,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine falsche oder gemischte Sprache. Keine unfertigen Texte oder Platzhalter. Keine sachlichen Fehler, Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine Gesundheitsversprechen. Keine fremden Marken/Figuren. Formeln/Tabellen sind sinnvoll",
+      "pay_url": "https://buy.stripe.com/6oUbJ23jX1P5fuS08c2kw1A",
+      "payment_link_id": "plink_1ULtuqJ5iOXkWb9Vwe63Kl3O",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families",
+      "slug": "the-freelancers-guide-to-work-life-balance",
+      "price_eur": 5,
+      "target": "Self-employed individuals and freelancers juggling work and family life",
+      "reason": "Freelancers often struggle to balance work and family life, leading to stress and burnout. This guide offers practical, easy-to-implement strategies to help them thrive in both areas, making it a valuable resource worth the modest price.",
+      "language": "en",
+      "pitch": "Discover practical steps to achieve work-life harmony as a freelancer. Learn how to manage your time effectively while ensuring quality family moments.",
+      "content_html": "<h2>Contents</h2><ul><li>Introduction: Why Work-Life Balance Matters</li><li>Chapter 1: Defining Your Priorities</li><li>Chapter 2: Time Management Techniques for Freelancers</li><li>Chapter 3: Setting Boundaries Between Work and Family</li><li>Chapter 4: Creating a Flexible Schedule</li><li>Chapter 5: Engaging with Your Family: Quality Time Tips</li><li>Chapter 6: Self-Care for Busy Freelancers</li></ul><h2>Sample Chapter: Time Management Techniques for Freelancers</h2>Discover how to prioritize tasks and use productivity tools effectively to make time for both work and family.",
+      "pro": false,
+      "created": "2026-10-01T23:55:07",
+      "file": "the-freelancers-guide-to-work-life-balance-7d56447ca81171ae.pdf",
+      "size": 2152,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt entspricht den Regeln: keine erfundenen Studien/Statistiken, keine Rechts-/Steuerberatung, kein Spam. Klare, praxisnahe Tipps für Freelancer. Einziges Manko: Leichte KI-Anmutung des Texts (etwas formelhaft), aber nicht regelswidrig.",
+      "pay_url": "https://buy.stripe.com/fZu9AU1bP0L1eqO9IM2kw1B",
+      "payment_link_id": "plink_1ULturJ5iOXkWb9VNSKYlUpA",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": 0,
-      "why": "Audit: 8 geprueft, 2 entfernt"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.0012107999999999997,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (en)"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.001116,
-      "why": "Blog-Artikel: Frankfurt Skyline (zh)"
-    },
-    {
-      "t": "2026-09-29T23:45:29",
-      "eur": -0.000372,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.0121104,
-      "why": "KI-Denken: Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.0040992,
-      "why": "KI-Pruefung: Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.16,
-      "why": "KI-Bilder: Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.005944799999999999,
-      "why": "KI-Denken: Smart Family Fitness Planner & Progress Tracker"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.0011723999999999999,
-      "why": "KI-Pruefung: Smart Family Fitness Planner & Progress Tracker"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.010443599999999999,
-      "why": "KI-Denken: Small Landlord Success: Practical Organization & Management Tips for Owners of 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.0032915999999999996,
-      "why": "KI-Pruefung: Small Landlord Success: Practical Organization & Management Tips for Owners of 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.16,
-      "why": "KI-Bilder: Small Landlord Success: Practical Organization & Management Tips for Owners of 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": -0.002472,
-      "why": "Audit: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Ti"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": 0,
-      "why": "Audit entfernt: Planificador de Mudanza y Renovación para Autónomos: Control de Presupuesto y Ti – 3 Formelfehler; Keine erfundenen Zahlen oder Studien gefunden. Die Beispielrechnungen sind plausibel und klar als Beispiele gekennzeichnet. Es gibt keine Rechts"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": -0.0037739999999999996,
-      "why": "Audit: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": -0.002346,
-      "why": "Audit: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": 0,
-      "why": "Audit entfernt: YouTube Content ROI Tracker & Budget Planner – 1 Formelfehler; Der Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist klar und die Texte sind vo"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": -0.0034655999999999997,
-      "why": "Audit: 高效教学计划：教师与辅导员的实用指导"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": -0.0020015999999999996,
-      "why": "Audit: Planificateur de Soins et Suivi Médical pour Personnes Âgées"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": -0.0036756,
-      "why": "Audit: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": -0.0019871999999999997,
-      "why": "Audit: Ultimate Black Forest Travel Planner & Budget Tracker for Families"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": -0.0032075999999999997,
-      "why": "Audit: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scen"
-    },
-    {
-      "t": "2026-09-30T05:44:17",
-      "eur": 0,
-      "why": "Audit entfernt: Saarland & Moselle Adventure Guide: 7 Family-Friendly Hidden Gems Along the Scen – Die Aussage 'Leave 20% of your trunk empty for souvenirs and spontaneity' enthält eine konkrete Prozentzahl ohne bekannte Grundlage. Prozentzahlen ohne allgemei"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": 0,
-      "why": "Audit: 8 geprueft, 3 entfernt"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.0013356,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (es)"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.0012251999999999999,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (fr)"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.00038399999999999996,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Selbstversorgung im Garten: 7 Schritte zur ganzjährigen Ernte"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4585507597"
-    },
-    {
-      "t": "2026-09-30T05:37:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Der Minimalismus-Guide für Selbstständige: Mehr Fokus, weniger Chaos in 7 einfachen Schritten"
-    },
     {
       "t": "2026-09-30T05:37:09",
       "eur": 0,
@@ -3294,6 +3225,156 @@
       "t": "2026-10-01T19:37:27",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586644388"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.011438400000000001,
+      "why": "KI-Denken: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.0039,
+      "why": "KI-Pruefung: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.0063192,
+      "why": "KI-Denken: Senior Care Expense Tracker & Medication Planner"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.00108,
+      "why": "KI-Pruefung: Senior Care Expense Tracker & Medication Planner"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.006332399999999999,
+      "why": "KI-Denken: Elderly Care Medication & Appointment Planner for Families"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.0011591999999999998,
+      "why": "KI-Pruefung: Elderly Care Medication & Appointment Planner for Families"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.006538799999999999,
+      "why": "KI-Denken: Senior Care Medication & Appointment Tracker"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.0011987999999999999,
+      "why": "KI-Pruefung: Senior Care Medication & Appointment Tracker"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.006371999999999999,
+      "why": "KI-Denken: Caregiver Expense Tracker & Budget Planner for Seniors"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.0012576,
+      "why": "KI-Pruefung: Caregiver Expense Tracker & Budget Planner for Seniors"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.012130799999999999,
+      "why": "KI-Denken: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.0034127999999999997,
+      "why": "KI-Pruefung: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
+    },
+    {
+      "t": "2026-10-02T00:01:04",
+      "eur": -0.0036647999999999993,
+      "why": "Audit: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner d"
+    },
+    {
+      "t": "2026-10-02T00:01:04",
+      "eur": -0.0015395999999999997,
+      "why": "Audit: Caregiver Expense Tracker & Budget Planner for Seniors"
+    },
+    {
+      "t": "2026-10-02T00:01:04",
+      "eur": -0.0032592,
+      "why": "Audit: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.0014315999999999999,
+      "why": "Blog-Artikel: Heidelberg Altstadt (es)"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.0010739999999999999,
+      "why": "Blog-Artikel: Neuschwanstein (fr)"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.0004116,
+      "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586773852"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586770025"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能婚礼预算跟踪与规划器 - 2026年专属版"
+    },
+    {
+      "t": "2026-10-01T23:55:07",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586770041"
     }
   ],
   "alive": true,
@@ -3667,6 +3748,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-10-01T19:37:27",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-guia-de-viaje",
+      "title": "Heidelberg Altstadt: Un Encanto Medieval a Orillas del Neckar",
+      "lang": "es",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-01T23:55:07",
+      "img": true
+    },
+    {
+      "slug": "neuschwanstein-chateau-conte-de-fees-allemand",
+      "title": "Neuschwanstein : le château de conte de fées allemand",
+      "lang": "fr",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-01T23:55:07",
+      "img": true
     }
   ],
   "videos": [
@@ -3858,6 +3955,16 @@
       "hashtags": "#德国旅游 #科赫姆 #摩泽尔河谷 #城堡 #自然风光",
       "voice": "欢迎来到德国科赫姆，摩泽尔河谷的瑰宝！这里有雄伟的科赫姆城堡，俯瞰着浪漫的葡萄园和蜿蜒的河流。乘坐游船，感受摩泽尔河的宁静与美丽。小镇的古老街道充满历史气息，每一步都是时光的见证。无论是自然爱好者还是历史迷，科赫姆都将带给您难忘的体验。",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "neuschwanstein-chateau-conte-de-fees-allemand",
+      "title": "Neuschwanstein : le château de conte de fées allemand",
+      "lang": "fr",
+      "created": "2026-10-01T23:55:07",
+      "hashtags": "#Neuschwanstein #ChâteauDeRêve #Bavière #LouisII #AllemagneMagique",
+      "voice": "Plongez dans un rêve devenu réalité! Le château de Neuschwanstein, joyau de Bavière, vous transporte dans un monde magique. Construit par le roi Louis II, ce chef-d'œuvre architectural se dresse fièrement sur un pic rocheux, entouré de paysages à couper le souffle. Ses flèches élancées et ses salles somptueuses vous invitent à explorer une histoire fascinante. Préparez-vous à être émerveillés!",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
