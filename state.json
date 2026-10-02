@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 488.9595,
-  "spent_eur": 15.7106,
+  "balance_eur": 488.5727,
+  "spent_eur": 16.0974,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2505,104 +2505,81 @@
       "pay_url": "https://buy.stripe.com/8x2cN6g6JctJ4QebQU2kw1F",
       "payment_link_id": "plink_1UM5skJ5iOXkWb9VJ45Gf4Wb",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos",
+      "slug": "descubre-el-rin-frankfurt-heidelberg-guia-practica",
+      "price_eur": 5,
+      "target": "Hombres interesados en explorar la cultura, la historia y la naturaleza de la región del Rin, Frankfurt y Heidelberg",
+      "reason": "Este ebook ofrece una guía práctica y detallada para hombres que desean explorar el Rin, Frankfurt y Heidelberg de manera autónoma y sin estrés, brindando información útil y consejos prácticos.",
+      "language": "es",
+      "pitch": "Explora los rincones más fascinantes del Rin, Frankfurt y Heidelberg con esta guía práctica diseñada para viajeros masculinos. Descubre itinerarios, consejos y secretos locales.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introducción: Por qué visitar el Rin, Frankfurt y Heidelberg</li><li>Capítulo 1: Preparativos esenciales para tu viaje</li><li>Capítulo 2: Los mejores itinerarios para explorar el Rin</li><li>Capítulo 3: Descubriendo Frankfurt: Cultura y modernidad</li><li>Capítulo 4: Heidelberg: Historia y naturaleza</li><li>Capítulo 5: Recomendaciones gastronómicas y cerveceras</li><li>Capítulo 6: Consejos prácticos para un viaje sin estrés</li></ul>",
+      "pro": false,
+      "created": "2026-10-02T19:22:44",
+      "file": "descubre-el-rin-frankfurt-heidelberg-guia-practica-0273195c9dbddad1.pdf",
+      "size": 1966,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken, Zahlen oder Quellen. Es handelt sich um allgemein bekannte Fakten und praktische Tipps für Reisende. Die Sprache ist korrekt und konsistent Spanisch, es gibt keine Platzhalter, unfertigen Texte oder sachliche Fehler. Es wird keine Rechts-, Ste",
+      "pay_url": "https://buy.stripe.com/28E8wQ4o1gJZ3Ma2gk2kw1G",
+      "payment_link_id": "plink_1UMCAgJ5iOXkWb9V83c3Rwym",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能柏林与波茨坦旅行预算追踪器 - 专业规划表格",
+      "slug": "berlin-potsdam-travel-budget-tracker-zh",
+      "price_eur": 9,
+      "target": "计划前往柏林和波茨坦旅行的中国自由职业者和小型企业主",
+      "reason": "为独自旅行的中国自由职业者提供智能预算工具，结合柏林波茨坦特色项目，通过清晰的可视化和自动化计算消除旅行财务压力",
+      "language": "zh",
+      "pitch": "轻松规划您的德国首都之旅，实时追踪所有开支，避免超支并优化旅行体验",
+      "content_html": "<h2>内容</h2><p>专为柏林和波茨坦旅行设计的全面预算追踪工具，包含智能计算和可视化分析</p>",
+      "pro": true,
+      "created": "2026-10-02T19:22:44",
+      "file": "berlin-potsdam-travel-budget-tracker-zh-e94dbe64acad9cb7.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt erfüllt die Regeln: Keine erfundenen Studien/Statistiken/Zahlen, keine falschen Behauptungen oder Gesundheitsversprechen, keine Rechts-/Finanzberatung. Klare Beschreibung der Funktionalität und Beispiel-Daten sind plausibel. Formeln machen Sinn und sind korrekt markiert.",
+      "pay_url": "https://buy.stripe.com/00wfZi3jXctJ2I6bQU2kw1H",
+      "payment_link_id": "plink_1UMCAhJ5iOXkWb9VFf4rkux9",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏",
+      "slug": "dresden-saxony-travel-guide-zh",
+      "price_eur": 5,
+      "target": "来自中国、台湾和新加坡的旅行者，计划前往德国萨克森州和德累斯顿",
+      "reason": "这本书提供了一个全面的旅行指南，帮助中国、台湾和新加坡的旅行者更好地规划和享受萨克森州和德累斯顿的旅行。通过实用的建议和详细的介绍，读者可以全面了解这些地区的历史、文化和必访景点，物有所值。",
+      "language": "zh",
+      "pitch": "通过这本实用的旅行指南，探索萨克森州和德累斯顿的文化、历史和隐藏的宝藏，规划一次难忘的旅程。",
+      "content_html": "<h2>内容</h2><ol><li>第一章：萨克森州简介</li><li>第二章：德累斯顿的历史与文化</li><li>第三章：必访景点与隐藏宝藏</li><li>第四章：美食与购物推荐</li><li>第五章：交通与住宿指南</li><li>第六章：旅行预算与行程规划</li></ol>",
+      "pro": false,
+      "created": "2026-10-02T19:22:44",
+      "file": "dresden-saxony-travel-guide-zh-87173a421a8c606a.pdf",
+      "size": 1600,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich an die Regeln und enthält keine erfundenen Studien, Statistiken oder andere Verstöße. Die Informationen sind allgemein bekannt und für einen Reiseführer angemessen. Kleine Verbesserungen wie präzisere Transportkosten wären möglich, aber kein Grund zur Ablehnung.",
+      "pay_url": "https://buy.stripe.com/4gM6oI3jX0L1gyWg7a2kw1I",
+      "payment_link_id": "plink_1UMCAhJ5iOXkWb9VyHiS0gpM",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-30T19:34:18",
-      "eur": -0.0027228,
-      "why": "Audit: Planificateur de Budget de Mariage & Suivi des Dépenses - Modèle Professionnel 2"
-    },
-    {
-      "t": "2026-09-30T19:34:18",
-      "eur": -0.0037463999999999996,
-      "why": "Audit: Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Pers"
-    },
-    {
-      "t": "2026-09-30T19:34:18",
-      "eur": -0.0020892,
-      "why": "Audit: Smart Family Fitness Planner & Progress Tracker"
-    },
-    {
-      "t": "2026-09-30T19:34:18",
-      "eur": -0.0030876,
-      "why": "Audit: Small Landlord Success: Practical Organization & Management Tips for Owners of 1"
-    },
-    {
-      "t": "2026-09-30T19:34:18",
-      "eur": -0.0041075999999999994,
-      "why": "Audit: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-09-30T19:34:18",
-      "eur": -0.003921599999999999,
-      "why": "Audit: Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Ca"
-    },
-    {
-      "t": "2026-09-30T19:34:18",
-      "eur": -0.0021263999999999996,
-      "why": "Audit: Ultimate Travel Packing List & Budget Planner for Female Solo Travelers"
-    },
-    {
-      "t": "2026-09-30T19:34:18",
-      "eur": -0.0031452,
-      "why": "Audit: The Etsy Seller's Growth Handbook: 7 Proven Steps to Boost Your Online Store"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": 0,
-      "why": "Audit: 8 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0008867999999999999,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (zh)"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.0016224,
-      "why": "Blog-Artikel: Muenchen Marienplatz (es)"
-    },
-    {
-      "t": "2026-09-30T19:24:28",
-      "eur": -0.000396,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.006544799999999999,
-      "why": "KI-Denken: Gestor de Eventos y Finanzas para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0013272,
-      "why": "KI-Pruefung: Gestor de Eventos y Finanzas para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.00639,
-      "why": "KI-Denken: Gestión de Eventos y Finanzas para Asociaciones Voluntarias"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0012155999999999998,
-      "why": "KI-Pruefung: Gestión de Eventos y Finanzas para Asociaciones Voluntarias"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0062664,
-      "why": "KI-Denken: Gestión de Donaciones y Presupuesto para Asociaciones"
-    },
     {
       "t": "2026-09-30T23:53:34",
       "eur": -0.0012239999999999998,
@@ -3512,6 +3489,96 @@
       "t": "2026-10-02T12:41:32",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587065186"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.013619999999999998,
+      "why": "KI-Denken: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.004116,
+      "why": "KI-Pruefung: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.16,
+      "why": "KI-Bilder: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.00633,
+      "why": "KI-Denken: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.0110748,
+      "why": "KI-Denken: 萨克森探索指南：德累斯顿及其周边地区的秘密美景与文化宝藏"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.0033431999999999997,
+      "why": "KI-Pruefung: 萨克森探索指南：德累斯顿及其周边地区的秘密美景与文化宝藏"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1423 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.0112008,
+      "why": "KI-Denken: 德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.0037248,
+      "why": "KI-Pruefung: 德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.16,
+      "why": "KI-Bilder: 德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏"
+    },
+    {
+      "t": "2026-10-02T19:30:52",
+      "eur": -0.003921599999999999,
+      "why": "Audit: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-02T19:30:52",
+      "eur": -0.0022619999999999997,
+      "why": "Audit: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-02T19:30:52",
+      "eur": -0.0038507999999999997,
+      "why": "Audit: 德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.0009299999999999999,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (fr)"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.0011519999999999998,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (de)"
+    },
+    {
+      "t": "2026-10-02T19:22:44",
+      "eur": -0.00034559999999999994,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
     }
   ],
   "alive": true,
@@ -3933,6 +4000,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-10-02T12:41:32",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-le-joyau-medieval-de-l-allemagne",
+      "title": "Rothenburg ob der Tauber : le joyau médiéval de l'Allemagne",
+      "lang": "fr",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-02T19:22:44",
+      "img": true
+    },
+    {
+      "slug": "berlin-brandenburger-tor-symbol-der-einheit",
+      "title": "Berlin Brandenburger Tor - Symbol der Einheit und Must-See in Berlin",
+      "lang": "de",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-02T19:22:44",
+      "img": true
     }
   ],
   "videos": [
@@ -4154,6 +4237,16 @@
       "hashtags": "#FrankfurtSkyline #CiudadModerna #EuropaVibrante #RinconMagico #TurismoAleman",
       "voice": "Descubre Frankfurt, una ciudad que combina lo moderno con lo histórico. Sus imponentes rascacielos se alzan majestuosamente, creando una skyline única en Europa. El río Main serpentea suavemente, reflejando la vibrante vida urbana. Aquí, la cultura, los negocios y la naturaleza se entrelazan armoniosamente. ¡Visítala y déjate sorprender!",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "berlin-brandenburger-tor-symbol-der-einheit",
+      "title": "Berlin Brandenburger Tor - Symbol der Einheit und Must-See in Berlin",
+      "lang": "de",
+      "created": "2026-10-02T19:22:44",
+      "hashtags": "#BrandenburgerTor #Berlin #Deutschland #Reisen #History",
+      "voice": "Das Brandenburger Tor – majestätisches Symbol der deutschen Geschichte! Errichtet nach dem Vorbild der Akropolis, begeistert das 26 Meter hohe Sandsteinmonument mit seiner Quadriga. Tagsüber Treffpunkt für Besucher, nachts magisch beleuchtet. Ein Muss für jeden Berlin-Besuch!",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
