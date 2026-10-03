@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 488.5727,
-  "spent_eur": 16.0974,
+  "balance_eur": 487.7799,
+  "spent_eur": 16.8902,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1614,7 +1614,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Keine Regelverstöße, keine falsche Sprache oder unfertigen Texte. Das Produkt entspricht den Regeln.",
       "pay_url": "https://buy.stripe.com/7sY3cw9IlbpF4QebQU2kw15",
       "payment_link_id": "plink_1UKYBUJ5iOXkWb9VEZhy0eOx",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587456872"
+      }
     },
     {
       "type": "excel",
@@ -1663,7 +1666,10 @@
       "audit_note": "Die Prozentzahl '100%' ist als Marketing-Aussage zu interpretieren und nicht als konkrete Statistik. Der Inhalt ist sonst klar, legal und informativ, ohne erfundene Studien oder falsche Behauptungen.",
       "pay_url": "https://buy.stripe.com/bJebJ22fTfFV5Ui5sw2kw17",
       "payment_link_id": "plink_1UKYVoJ5iOXkWb9VygLvrZdy",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587451395"
+      }
     },
     {
       "type": "excel",
@@ -1712,7 +1718,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln, bietet praktische Tipps ohne erfundene Studien, Statistiken oder Prozentzahlen. Die Sprache ist einheitlich und sachlich korrekt, ohne unfertige Texte oder Platzhalter. Es gibt keine Gesundheitsversprechen, Finanzberatung oder Verwendung fremder Marken/Figuren. Der ",
       "pay_url": "https://buy.stripe.com/00w28scUx3Xd0zYcUY2kw19",
       "payment_link_id": "plink_1UKYVpJ5iOXkWb9VbjRG2ALn",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587456904"
+      }
     },
     {
       "type": "excel",
@@ -2577,134 +2586,81 @@
       "pay_url": "https://buy.stripe.com/4gM6oI3jX0L1gyWg7a2kw1I",
       "payment_link_id": "plink_1UMCAhJ5iOXkWb9VyHiS0gpM",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Suivi de Budget et Planification de Chantier pour Artisans",
+      "slug": "suivi-budget-planification-chantier-artisans",
+      "price_eur": 9,
+      "target": "Artisans et petites entreprises de construction",
+      "reason": "Cet outil propose une solution complète pour les artisans pour suivre leurs chantiers et optimiser leurs budgets, ce qui est essentiel pour la réussite des projets.",
+      "language": "fr",
+      "pitch": "Optimisez la gestion de vos chantiers et de vos budgets avec cette feuille de calcul professionnelle.",
+      "content_html": "<h2>Inhalt</h2><p>Cette feuille de calcul vous permet de suivre les coûts, planifier les travaux et analyser les performances de vos chantiers.</p>",
+      "pro": true,
+      "created": "2026-10-02T23:49:45",
+      "file": "suivi-budget-planification-chantier-artisans-4654888ab52a2ba7.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Die Sprache ist korrekt und einheitlich Französisch. Es gibt keine unfertigen Texte, Platzhalter oder Wiederholungen. Die Formeln und Tabellen sind sinnvoll und entsprechen dem beschriebenen Zweck. Die berechneten",
+      "pay_url": "https://buy.stripe.com/fZuaEY7Ad51h5Ui9IM2kw1J",
+      "payment_link_id": "plink_1UMGLzJ5iOXkWb9VZewR3xSD",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Histoires Enchantées pour Endormir Vos Petits Lutins",
+      "slug": "7-histoires-enchantees-pour-endormir-vos-petits-lutins",
+      "price_eur": 5,
+      "target": "Parents d'enfants de 3 à 8 ans",
+      "reason": "Les parents cherchent souvent des moyens apaisants pour aider leurs enfants à s'endormir. Ce livre propose des histoires courtes et magiques, spécialement conçues pour créer une atmosphère de calme et de douceur, idéale pour les soirées en famille. Ces histoires sont faciles à comprendre et à suivre, tout en offrant une expérience immersive et relaxante pour les enfants.",
+      "language": "fr",
+      "pitch": "Délectez-vous de 7 histoires courtes et magiques, spécialement conçues pour aider vos enfants à s'endormir paisiblement. Chaque histoire est une aventure douce et apaisante, idéale pour les soirées en famille.",
+      "content_html": "<h2>Inhalt</h2><ul><li>1. Le Secret de la Forêt Luminée</li><li>2. Le Voyage du Petit Nuage Bleu</li><li>3. Le Château des Rêves Étoilés</li><li>4. La Danse des Lucioles</li><li>5. Le Mystère de la Montagne Dorée</li><li>6. L'Aventure du Petit Chaton Curieux</li><li>7. La Chanson de la Lune</li></ul><p>Leseprobe : Le Secret de la Forêt Luminée - Il était une fois, une petite fille nommée Lila qui découvrit un chemin secret menant à une forêt magique...</p>",
+      "pro": false,
+      "created": "2026-10-02T23:49:45",
+      "file": "7-histoires-enchantees-pour-endormir-vos-petits-lutins-e351351f11df6168.pdf",
+      "size": 1669,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Zahlen oder Statistiken. Der Inhalt ist vollständig, ehrlich und entspricht den Regeln. Keine Gesundheitsversprechen oder Beratung. Die Sprache ist korrekt und einheitlich Französisch.",
+      "pay_url": "https://buy.stripe.com/eVq3cw6w99hx2I69IM2kw1K",
+      "payment_link_id": "plink_1UMGM0J5iOXkWb9Vte3YBa3w",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Wedding Budget & Vendor Tracker",
+      "slug": "ultimate-wedding-budget-vendor-tracker",
+      "price_eur": 9,
+      "target": "Couples planning their wedding",
+      "reason": "This tracker helps couples stay organized and financially aware during the wedding planning process, ensuring they can enjoy their special day without stress.",
+      "language": "en",
+      "pitch": "Effortlessly manage your wedding budget and vendors with this all-in-one Excel tracker. Stay organized, avoid overspending, and ensure your big day goes smoothly.",
+      "content_html": "<h2>Content</h2><p>This Excel template includes four sheets: Budget Tracker, Vendor List, Guest List, and Timeline Planner. Track expenses, manage vendor contacts, and plan your wedding day timeline with ease.</p>",
+      "pro": true,
+      "created": "2026-10-02T23:49:45",
+      "file": "ultimate-wedding-budget-vendor-tracker-eced945e4ad71466.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Excel-Tabelle ist gut strukturiert und bietet nützliche Funktionen zur Budgetverwaltung. Keine Rechts-, Steuer- oder Finanzberatung. Die vorgestellten Berechnungen basieren auf Beispieldaten und sind nachvollziehbar.",
+      "pay_url": "https://buy.stripe.com/eVq8wQcUx8dt1E208c2kw1L",
+      "payment_link_id": "plink_1UMGM1J5iOXkWb9VrVrYI0YB",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0012239999999999998,
-      "why": "KI-Pruefung: Gestión de Donaciones y Presupuesto para Asociaciones"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.006183599999999999,
-      "why": "KI-Denken: Gestión de Proyectos y Voluntarios para Asociaciones"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0012312,
-      "why": "KI-Pruefung: Gestión de Proyectos y Voluntarios para Asociaciones"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0065748,
-      "why": "KI-Denken: Gestión de Eventos y Finanzas para Asociaciones"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0013908,
-      "why": "KI-Pruefung: Gestión de Eventos y Finanzas para Asociaciones"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 8 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.006105599999999999,
-      "why": "KI-Denken: Planificador de Presupuesto y Proyectos para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0010187999999999998,
-      "why": "KI-Pruefung: Planificador de Presupuesto y Proyectos para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.005839199999999999,
-      "why": "KI-Denken: Planificador de Actividades y Control de Gastos para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Actividades y Control de Gastos para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0011148,
-      "why": "Blog-Artikel: Eifel Maare (fr)"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0012323999999999998,
-      "why": "Blog-Artikel: Rheingau Weinberge (de)"
-    },
-    {
-      "t": "2026-09-30T23:53:34",
-      "eur": -0.0003924,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.006065999999999999,
-      "why": "KI-Denken: Planificador de Eventos y Finanzas para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.0010631999999999998,
-      "why": "KI-Pruefung: Planificador de Eventos y Finanzas para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.012765599999999998,
-      "why": "KI-Denken: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.0041316,
-      "why": "KI-Pruefung: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.005915999999999999,
-      "why": "KI-Denken: 智能搬家预算与装修跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能搬家预算与装修跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Table with name T_____ already exists"
-    },
     {
       "t": "2026-10-01T06:00:39",
       "eur": -0.005944799999999999,
@@ -3579,6 +3535,136 @@
       "t": "2026-10-02T19:22:44",
       "eur": -0.00034559999999999994,
       "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.006696,
+      "why": "KI-Denken: Suivi de Budget et Planification de Chantier pour Artisans"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Suivi de Budget et Planification de Chantier pour Artisans"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.0137688,
+      "why": "KI-Denken: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.0043092,
+      "why": "KI-Pruefung: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.007055999999999999,
+      "why": "KI-Denken: Ultimate Wedding Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.0011015999999999999,
+      "why": "KI-Pruefung: Ultimate Wedding Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.0070056,
+      "why": "KI-Denken: Wedding Vendor & Budget Comparison Tracker"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.0010811999999999998,
+      "why": "KI-Pruefung: Wedding Vendor & Budget Comparison Tracker"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.006662399999999999,
+      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-02T23:58:46",
+      "eur": -0.0038135999999999995,
+      "why": "Audit: Suivi de Budget et Planification de Chantier pour Artisans"
+    },
+    {
+      "t": "2026-10-02T23:58:46",
+      "eur": -0.0039467999999999994,
+      "why": "Audit: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
+    },
+    {
+      "t": "2026-10-02T23:58:46",
+      "eur": -0.0027863999999999996,
+      "why": "Audit: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.0011807999999999999,
+      "why": "Blog-Artikel: Dresden Frauenkirche (en)"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.0010175999999999998,
+      "why": "Blog-Artikel: Harz Brocken (zh)"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.00033959999999999996,
+      "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587456872"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587451395"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 高效教学计划：教师与辅导员的实用指导"
+    },
+    {
+      "t": "2026-10-02T23:49:45",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587456904"
     }
   ],
   "alive": true,
@@ -4016,6 +4102,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-10-02T19:22:44",
       "img": true
+    },
+    {
+      "slug": "discover-the-dresden-frauenkirche-a-symbol-of-resilience-and",
+      "title": "Discover the Dresden Frauenkirche: A Symbol of Resilience and Beauty",
+      "lang": "en",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-02T23:49:45",
+      "img": true
+    },
+    {
+      "slug": "de-guo-ha-ci-shan-bu-luo-ken-feng-zi-ran-yu-tong-hua-de-wan-",
+      "title": "德国哈茨山布罗肯峰：自然与童话的完美融合",
+      "lang": "zh",
+      "topic": "Harz Brocken",
+      "created": "2026-10-02T23:49:45",
+      "img": true
     }
   ],
   "videos": [
@@ -4247,6 +4349,16 @@
       "hashtags": "#BrandenburgerTor #Berlin #Deutschland #Reisen #History",
       "voice": "Das Brandenburger Tor – majestätisches Symbol der deutschen Geschichte! Errichtet nach dem Vorbild der Akropolis, begeistert das 26 Meter hohe Sandsteinmonument mit seiner Quadriga. Tagsüber Treffpunkt für Besucher, nachts magisch beleuchtet. Ein Muss für jeden Berlin-Besuch!",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "de-guo-ha-ci-shan-bu-luo-ken-feng-zi-ran-yu-tong-hua-de-wan-",
+      "title": "德国哈茨山布罗肯峰：自然与童话的完美融合",
+      "lang": "zh",
+      "created": "2026-10-02T23:49:45",
+      "hashtags": "#德国旅游 #哈茨山 #布罗肯峰 #童话徒步 #欧洲秘境",
+      "voice": "这里是德国北部的瑰宝——布罗肯峰！海拔1141米的传奇之巅，歌德笔下《浮士德》的灵感源泉。漫步原始森林，邂逅野鹿与魔女传说。春夏野花遍野，秋季彩林如画，冬季雾凇晶莹。乘坐百年蒸汽小火车登顶，360度全景令人屏息！",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
