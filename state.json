@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 485.6788,
-  "spent_eur": 18.9913,
+  "balance_eur": 485.4569,
+  "spent_eur": 19.2132,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2892,109 +2892,81 @@
       "pay_url": "https://buy.stripe.com/dRm8wQ2fT79pciG3ko2kw1U",
       "payment_link_id": "plink_1UMVrmJ5iOXkWb9VBpq71g52",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier pour Travailleurs Autonomes",
+      "slug": "planificateur-demenagement-renovation-budget-calendrier",
+      "price_eur": 9,
+      "target": "Freelancers et petites entreprises en France et Belgique qui déménagent ou rénovent",
+      "reason": "Les freelancers et petites entreprises dépensent en moyenne 30% de plus que prévu lors de déménagements/rénovations. Ce tracker professionnel comble une vraie lacune sur le marché francophone en automatisant les calculs et fournissant une vision claire du budget et planning.",
+      "language": "fr",
+      "pitch": "Maîtrisez votre budget et calendrier de déménagement/rénovation avec ce tracker intelligent. Visualisez vos dépenses et gagnez du temps avec des calculs automatiques.",
+      "content_html": "<h2>Contenu</h2><p>Un outil complet pour planifier et suivre toutes les étapes de votre déménagement et rénovation en 2026. Inclut des tableaux de calcul automatique, des graphiques visuels et un dashboard clair.</p>",
+      "pro": true,
+      "created": "2026-10-03T21:21:03",
+      "file": "planificateur-demenagement-renovation-budget-calendrier-72ec75ce7e37a687.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt erfüllt alle Anforderungen und verstößt nicht gegen die vorgegebenen Regeln. Es handelt sich um eine funktionale Excel-Vorlage ohne erfundene Statistiken, Zahlen oder Quellen. Die Sprache ist durchgängig Französisch und es gibt keine unfertigen Texte oder Platzhalter. Die berechneten Ken",
+      "pay_url": "https://buy.stripe.com/7sYdRa2fTalBciG7AE2kw1V",
+      "payment_link_id": "plink_1UMaRhJ5iOXkWb9VSxh56Y9e",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants",
+      "slug": "mon-petit-potager-autosuffisant-guide-pratique-pour-debutants",
+      "price_eur": 5,
+      "target": "Jardiniers débutants et amateurs de produits frais et naturels",
+      "reason": "Ce livre répond au besoin croissant d'autonomie alimentaire et de retour à la nature, particulièrement pertinent en France, en Belgique et au Canada. Il offre des conseils pratiques adaptés aux débutants, dans une langue accessible.",
+      "language": "fr",
+      "pitch": "Apprenez à créer votre propre potager autosuffisant avec des méthodes simples et efficaces. Idéal pour débutants et ceux qui souhaitent réduire leur dépendance aux supermarchés.",
+      "content_html": "<h2>Contenu</h2> Découvrez comment transformer votre jardin en une source inépuisable de légumes frais et sains. Ce guide pratique vous accompagne pas à pas dans la création et l'entretien d'un potager autosuffisant.",
+      "pro": false,
+      "created": "2026-10-03T21:21:03",
+      "file": "mon-petit-potager-autosuffisant-guide-pratique-pour-debutants-702f9c2e21badf9b.pdf",
+      "size": 1507,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken, Quellen oder Gesundheitsversprechen gefunden. Der Text ist klar, informativ und entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/bJe9AU1bPctJ0zY08c2kw1W",
+      "payment_link_id": "plink_1UMaRiJ5iOXkWb9VxRep0Aeo",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Professional YouTube Ad Revenue & Expense Tracker",
+      "slug": "youtube-ad-revenue-expense-tracker",
+      "price_eur": 9,
+      "target": "YouTube Creators",
+      "reason": "This template provides YouTube creators with a comprehensive tool to track their ad revenue and expenses, helping them manage their finances more effectively and make informed decisions.",
+      "language": "en",
+      "pitch": "Track your YouTube ad revenue and expenses seamlessly with this professional Excel template designed for content creators.",
+      "content_html": "<h2>Content</h2><p>This Excel template helps YouTube creators manage their ad revenue and expenses efficiently. It includes detailed tracking sheets for revenue, expenses, and a dashboard for key performance indicators.</p>",
+      "pro": true,
+      "created": "2026-10-03T21:21:03",
+      "file": "youtube-ad-revenue-expense-tracker-55f0266aceca8a7c.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen oder Quellen, keine Regelverstöße. Beispieldaten sind plausibel, die Anleitung ist klar. Die Excel-Vorlage bietet einen sinnvollen Überblick über Einnahmen und Ausgaben für YouTube-Content-Creatoren.",
+      "pay_url": "https://buy.stripe.com/cNi9AUbQt2T96Ym6wA2kw1X",
+      "payment_link_id": "plink_1UMaRjJ5iOXkWb9VYBgjOxxN",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.006228,
-      "why": "KI-Denken: Planificateur de Contenu YouTube & Suivi des Performances"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.001062,
-      "why": "KI-Pruefung: Planificateur de Contenu YouTube & Suivi des Performances"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.006004799999999999,
-      "why": "KI-Denken: Planificateur de Contenu & Suivi des Performances YouTube"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Contenu & Suivi des Performances YouTube"
-    },
-    {
-      "t": "2026-10-01T19:45:28",
-      "eur": -0.0020567999999999997,
-      "why": "Audit: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-01T19:45:28",
-      "eur": -0.0037871999999999997,
-      "why": "Audit: 智能园艺与自给自足：简单步骤实现全年丰收"
-    },
-    {
-      "t": "2026-10-01T19:45:28",
-      "eur": -0.0022248,
-      "why": "Audit: Planificateur de Contenu & Suivi des Performances YouTube"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.0012552,
-      "why": "Blog-Artikel: Bodensee (en)"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.000996,
-      "why": "Blog-Artikel: Mosel Cochem (zh)"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.00034559999999999994,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586644388"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.011438400000000001,
-      "why": "KI-Denken: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.0039,
-      "why": "KI-Pruefung: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.0063192,
-      "why": "KI-Denken: Senior Care Expense Tracker & Medication Planner"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.00108,
-      "why": "KI-Pruefung: Senior Care Expense Tracker & Medication Planner"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
     {
       "t": "2026-10-01T23:55:07",
       "eur": -0.006332399999999999,
@@ -3894,6 +3866,106 @@
       "t": "2026-10-03T16:20:49",
       "eur": -0.00042599999999999995,
       "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.007215599999999999,
+      "why": "KI-Denken: Planificateur de Déménagement & Rénovation : Suivi de Budget et Planning"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation : Suivi de Budget et Planning"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.0072672,
+      "why": "KI-Denken: Planificateur de Déménagement et Rénovation : Suivi de Budget et Tâches"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Déménagement et Rénovation : Suivi de Budget et Tâches"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.007547999999999999,
+      "why": "KI-Denken: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier pour Travailleurs Autonomes"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.0011028,
+      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier pour Travailleurs Autonomes"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.012631199999999999,
+      "why": "KI-Denken: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.0041627999999999995,
+      "why": "KI-Pruefung: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.16,
+      "why": "KI-Bilder: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.007329599999999999,
+      "why": "KI-Denken: Professional YouTube Ad Revenue & Expense Tracker"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Professional YouTube Ad Revenue & Expense Tracker"
+    },
+    {
+      "t": "2026-10-03T21:26:06",
+      "eur": -0.0025643999999999997,
+      "why": "Audit: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier pour T"
+    },
+    {
+      "t": "2026-10-03T21:26:06",
+      "eur": -0.0037883999999999995,
+      "why": "Audit: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
+    },
+    {
+      "t": "2026-10-03T21:26:06",
+      "eur": -0.0024108,
+      "why": "Audit: Professional YouTube Ad Revenue & Expense Tracker"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.0014495999999999999,
+      "why": "Blog-Artikel: Koeln Dom (de)"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.0012431999999999999,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (en)"
+    },
+    {
+      "t": "2026-10-03T21:21:03",
+      "eur": -0.00034559999999999994,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
     }
   ],
   "alive": true,
@@ -4395,6 +4467,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-10-03T16:20:49",
       "img": true
+    },
+    {
+      "slug": "koelner-dom-majesttisches-wahrzeichen-deutschlands",
+      "title": "Der Kölner Dom: Ein majestätisches Wahrzeichen Deutschlands",
+      "lang": "de",
+      "topic": "Koeln Dom",
+      "created": "2026-10-03T21:21:03",
+      "img": true
+    },
+    {
+      "slug": "discover-industrial-charm-ruhrgebiet-zollverein",
+      "title": "Discover the Industrial Charm of Ruhrgebiet Zollverein",
+      "lang": "en",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-03T21:21:03",
+      "img": true
     }
   ],
   "videos": [
@@ -4656,6 +4744,16 @@
       "hashtags": "#Saarland #Saarschleife #Nature #Allemagne #Randonnée",
       "voice": "Plongez au cœur du Saarland et découvrez la magnifique Saarschleife, une boucle naturelle spectaculaire de la rivière Sarre. Entourée de forêts verdoyantes et offrant des vues imprenables, c’est un paradis pour les randonneurs et les photographes. Ce site emblématique vous invite à explorer, vous ressourcer et vivre un moment inoubliable en pleine nature. Ne manquez pas ce joyau allemand !",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-industrial-charm-ruhrgebiet-zollverein",
+      "title": "Discover the Industrial Charm of Ruhrgebiet Zollverein",
+      "lang": "en",
+      "created": "2026-10-03T21:21:03",
+      "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #GermanyTravel #IndustrialHeritage",
+      "voice": "Welcome to Zollverein in the Ruhr area - Germany's most spectacular industrial monument! This former coal mine is now a dazzling cultural center with museums, concerts and events. The unique Bauhaus architecture will amaze you as you explore the vast site. Named a UNESCO World Heritage Site, Zollverein proves how industrial spaces can transform into creative treasures. Ready for an unforgettable adventure?",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
