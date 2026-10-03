@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 487.7799,
-  "spent_eur": 16.8902,
+  "balance_eur": 486.8344,
+  "spent_eur": 17.8357,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1745,7 +1745,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Das Produkt erfüllt die meisten Kriterien: Es ist legal, ehrlich, kein Spam, enthält keine Finanz-/Rechts-/Steuerberatung, keine Gesundheitsversprechen, keine Marken/Figuren/Personen Dritter und keine Kopien bestehender Werke. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Die Sprache i"
+      "audit_note": "Das Produkt erfüllt die meisten Kriterien: Es ist legal, ehrlich, kein Spam, enthält keine Finanz-/Rechts-/Steuerberatung, keine Gesundheitsversprechen, keine Marken/Figuren/Personen Dritter und keine Kopien bestehender Werke. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Die Sprache i",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587562722"
+      }
     },
     {
       "type": "ebook",
@@ -1769,7 +1772,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen. Keine Rechts- oder Finanzberatung. Empfehlungen sind allgemein gehalten und praxisorientiert. Sprache ist durchgängig Französisch, keine Platzhalter oder unfertigen Texte."
+      "audit_note": "Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen. Keine Rechts- oder Finanzberatung. Empfehlungen sind allgemein gehalten und praxisorientiert. Sprache ist durchgängig Französisch, keine Platzhalter oder unfertigen Texte.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587558017"
+      }
     },
     {
       "type": "excel",
@@ -1793,7 +1799,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Das Produkt ist legal, ehrlich und erfüllt die Anforderungen. Es enthält keine erfundenen Statistiken, Studien oder Quellen. Die Beispielzahlen sind plausibel und klar als Beispiele markiert. Die Formeln und Tabellen sind sinnvoll und entsprechen der beschriebenen Funktionalität."
+      "audit_note": "Das Produkt ist legal, ehrlich und erfüllt die Anforderungen. Es enthält keine erfundenen Statistiken, Studien oder Quellen. Die Beispielzahlen sind plausibel und klar als Beispiele markiert. Die Formeln und Tabellen sind sinnvoll und entsprechen der beschriebenen Funktionalität.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587562758"
+      }
     },
     {
       "type": "ebook",
@@ -2658,114 +2667,81 @@
       "pay_url": "https://buy.stripe.com/eVq8wQcUx8dt1E208c2kw1L",
       "payment_link_id": "plink_1UMGM1J5iOXkWb9VrVrYI0YB",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Household Budget",
+      "slug": "smart-saving-strategies-for-busy-families",
+      "price_eur": 5,
+      "target": "Families looking to save money without compromising their quality of life",
+      "reason": "This eBook addresses a common pain point for families by offering practical, actionable advice on saving money and managing household finances. It provides clear, easy-to-follow steps that can be implemented immediately, making it a valuable resource for busy families looking to improve their financial situation.",
+      "language": "en",
+      "pitch": "Discover easy-to-implement strategies to save money and manage your household finances more effectively. Perfect for busy families who want to stretch their budget.",
+      "content_html": "<h2>Contents</h2><ol><li>Introduction</li><li>Track Your Spending</li><li>Create a Budget That Works</li><li>Save on Groceries</li><li>Cut Utility Costs</li><li>Reduce Subscription Services</li><li>Plan for Big Expenses</li></ol><h2>Sample Chapter: Track Your Spending</h2><p>Start by keeping a record of all your expenses. Use a simple notebook or a budgeting app. This will help you identify where your money is going and where you can cut back.</p>",
+      "pro": false,
+      "created": "2026-10-03T05:22:36",
+      "file": "smart-saving-strategies-for-busy-families-0b888b87c251ffaa.pdf",
+      "size": 1861,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die Prozentzahl '20%' in Bezug auf höhere Einkaufskosten bei Hunger scheint erfunden und nicht durch allgemein bekannte Fakten gestützt. Der Rest des Inhalts ist regelkonform und bietet praktische Tipps ohne unzulässige Behauptungen oder Beratung.",
+      "pay_url": "https://buy.stripe.com/28E00k3jXctJ4Qe3ko2kw1M",
+      "payment_link_id": "plink_1UMLWsJ5iOXkWb9VAMozGbHm",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige",
+      "slug": "smart-fitness-kosten-tracker-trainingsplaner",
+      "price_eur": 9,
+      "target": "Fitness-Trainer und selbstständige Personal Trainer",
+      "reason": "Fitness-Trainer benötigen einfache Tools, um ihr Business zu organisieren. Diese Vorlage kombiniert Finanz-Tracking mit Trainingsplanung und spart so wertvolle Zeit.",
+      "language": "de",
+      "pitch": "Professionelle Budgetplanung und Trainingsoptimierung in einer Vorlage - spart Zeit und erhöht die Effizienz deiner Fitness-Business-Planung.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft dir, Kosten im Fitnessbereich zu tracken und gleichzeitig Trainingspläne für Kunden zu organisieren. Perfekt für selbstständige Trainer, die ihr Business optimieren wollen.</p>",
+      "pro": true,
+      "created": "2026-10-03T05:22:36",
+      "file": "smart-fitness-kosten-tracker-trainingsplaner-69de5dfdbffec6f4.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Klare Beispielrechnungen mit erkennbaren Beispieldaten. Keine Gesundheitsversprechen oder rechtlichen Bedenken. Excel-Funktionen sind korrekt und nachvollziehbar dargestellt.",
+      "pay_url": "https://buy.stripe.com/8x2dRaf2F3XdbeC8EI2kw1N",
+      "payment_link_id": "plink_1UMLWsJ5iOXkWb9VvBSTUHZW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter",
+      "slug": "organisiert-vermieten-leitfaden-fuer-kleine-privatvermieter",
+      "price_eur": 5,
+      "target": "Vermieter mit 1-5 Wohnungen",
+      "reason": "Kleine Privatvermieter haben oft Schwierigkeiten, ihre Vermietung zu organisieren. Dieser praktische Leitfaden bietet klare Schritte, um Ordnung zu schaffen und langfristig Zeit zu sparen – ohne teure Tools oder komplizierte Systeme.",
+      "language": "de",
+      "pitch": "Lerne, wie du mit einfachen Strategien deine Vermietung organisierst und Zeit sparst – ohne komplizierte Tools oder Stress.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einleitung: Warum Organisation beim Vermieten entscheidend ist</li><li>Schritt 1: Dokumentenmanagement leicht gemacht</li><li>Schritt 2: Effiziente Mieterkommunikation</li><li>Schritt 3: Kosten im Griff behalten</li><li>Schritt 4: Wartung und Reparaturen planen</li><li>Schritt 5: Mieterwechsel ohne Chaos</li><li>Schritt 6: Digitale Tools für Vermieter</li><li>Schritt 7: Langfristige Strategien für mehr Ruhe</li></ul>",
+      "pro": false,
+      "created": "2026-10-03T05:22:36",
+      "file": "organisiert-vermieten-leitfaden-fuer-kleine-privatvermieter-85b41356da9fff6e.pdf",
+      "size": 1674,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken oder Zahlen. Es werden allgemein bekannte Praxistipps gegeben, ohne spezifische Rechts-, Steuer- oder Finanzberatung. Die Sprache ist klar und sachlich, es gibt keine Platzhalter oder unfertigen Texte. Die Inhalte sind wiederholungsarm und fach",
+      "pay_url": "https://buy.stripe.com/fZu4gA1bP9hxbeCcUY2kw1O",
+      "payment_link_id": "plink_1UMLWtJ5iOXkWb9VQ3g9b0Ax",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.005944799999999999,
-      "why": "KI-Denken: 智能搬迁与装修预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.0010236,
-      "why": "KI-Pruefung: 智能搬迁与装修预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.006071999999999999,
-      "why": "KI-Denken: 智能搬家预算与装修成本追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.0010031999999999999,
-      "why": "KI-Pruefung: 智能搬家预算与装修成本追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.006263999999999999,
-      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.0010547999999999998,
-      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.006223199999999999,
-      "why": "KI-Denken: 智能搬家预算与装修成本追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.0011952,
-      "why": "KI-Pruefung: 智能搬家预算与装修成本追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-10-01T06:08:40",
-      "eur": -0.0027983999999999995,
-      "why": "Audit: Planificador de Eventos y Finanzas para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-10-01T06:08:40",
-      "eur": -0.0037571999999999996,
-      "why": "Audit: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuid"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.0010727999999999998,
-      "why": "Blog-Artikel: Schwarzwald (zh)"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.0013835999999999998,
-      "why": "Blog-Artikel: Saarland Saarschleife (es)"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.00042359999999999994,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 自由职业者的成功之道：7个简单步骤实现财务自由与高效工作"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586219617"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Guide Essentiel des Voyageurs Autonomes : Découvrir le Saarland et la Moselle en 7 Étapes Faciles"
-    },
     {
       "t": "2026-10-01T06:00:39",
       "eur": 0,
@@ -3665,6 +3641,111 @@
       "t": "2026-10-02T23:49:45",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587456904"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.011793600000000001,
+      "why": "KI-Denken: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Household Budget"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.0032987999999999997,
+      "why": "KI-Pruefung: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Household Budget"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.16,
+      "why": "KI-Bilder: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Household Budget"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.007177199999999999,
+      "why": "KI-Denken: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.0010835999999999999,
+      "why": "KI-Pruefung: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.014413199999999998,
+      "why": "KI-Denken: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.004085999999999999,
+      "why": "KI-Pruefung: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.16,
+      "why": "KI-Bilder: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-10-03T05:30:22",
+      "eur": -0.0031115999999999995,
+      "why": "Audit: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Househ"
+    },
+    {
+      "t": "2026-10-03T05:30:22",
+      "eur": -0.003492,
+      "why": "Audit: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-03T05:30:22",
+      "eur": -0.003792,
+      "why": "Audit: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.0013368,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (es)"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.0015323999999999997,
+      "why": "Blog-Artikel: Muenchen Marienplatz (fr)"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.000396,
+      "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Soins et Suivi Médical pour Personnes Âgées"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587562722"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587558017"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Black Forest Travel Planner & Budget Tracker for Families"
+    },
+    {
+      "t": "2026-10-03T05:22:36",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587562758"
     }
   ],
   "alive": true,
@@ -4118,6 +4199,22 @@
       "topic": "Harz Brocken",
       "created": "2026-10-02T23:49:45",
       "img": true
+    },
+    {
+      "slug": "descubriendo-el-mar-de-wadden-en-el-mar-del-norte",
+      "title": "Descubriendo el Mar de Wadden en el Mar del Norte: Una Experiencia Única",
+      "lang": "es",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-03T05:22:36",
+      "img": true
+    },
+    {
+      "slug": "munich-decouvrez-le-marienplatz-coeur-historique-de-la-ville",
+      "title": "Munich: Découvrez le Marienplatz, cœur historique de la ville",
+      "lang": "fr",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-03T05:22:36",
+      "img": true
     }
   ],
   "videos": [
@@ -4359,6 +4456,16 @@
       "hashtags": "#德国旅游 #哈茨山 #布罗肯峰 #童话徒步 #欧洲秘境",
       "voice": "这里是德国北部的瑰宝——布罗肯峰！海拔1141米的传奇之巅，歌德笔下《浮士德》的灵感源泉。漫步原始森林，邂逅野鹿与魔女传说。春夏野花遍野，秋季彩林如画，冬季雾凇晶莹。乘坐百年蒸汽小火车登顶，360度全景令人屏息！",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "munich-decouvrez-le-marienplatz-coeur-historique-de-la-ville",
+      "title": "Munich: Découvrez le Marienplatz, cœur historique de la ville",
+      "lang": "fr",
+      "created": "2026-10-03T05:22:36",
+      "hashtags": "#Munich #Marienplatz #Bavière #Voyage #Culture",
+      "voice": "Bienvenue sur la Marienplatz, l'âme vibrante de Munich ! Entourée de bâtiments historiques, cette place emblématique vous transporte à travers les siècles. Admirez la majestueuse Église Notre-Dame, symbole de l'architecture gothique. En hiver, le marché de Noël y prend vie avec ses lumières éclatantes et ses parfums enivrants. Une halte incontournable pour plonger au cœur de la culture bavaroise.",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
