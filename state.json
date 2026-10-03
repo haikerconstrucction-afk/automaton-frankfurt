@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 486.8344,
-  "spent_eur": 17.8357,
+  "balance_eur": 486.0531,
+  "spent_eur": 18.617,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1851,7 +1851,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts- oder Finanzberatung. Klare Beispielrechnungen und Funktionsbeschreibung. Formeln sind plausibel und korrekt."
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Rechts- oder Finanzberatung. Klare Beispielrechnungen und Funktionsbeschreibung. Formeln sind plausibel und korrekt.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587687335"
+      }
     },
     {
       "type": "ebook",
@@ -1875,7 +1878,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Inhalt entspricht den Regeln, keine erfunden Studien oder Statistiken, keine Rechts- oder Gesundheitsberatung, klare und hilfreiche Reisetipps für die bayerischen Alpen."
+      "audit_note": "Inhalt entspricht den Regeln, keine erfunden Studien oder Statistiken, keine Rechts- oder Gesundheitsberatung, klare und hilfreiche Reisetipps für die bayerischen Alpen.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587687369"
+      }
     },
     {
       "type": "excel",
@@ -1899,7 +1905,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Das Produkt hält sich an die Regeln und enthält keine erfundenen Studien, Statistiken oder falschen Angaben. Die Excel-Funktionen sind korrekt und sinnvoll für den beschriebenen Zweck. Die beispielhaften Einträge sind klar als solche erkennbar und dienen der Veranschaulichung. Keine Regelverstöße fe"
+      "audit_note": "Das Produkt hält sich an die Regeln und enthält keine erfundenen Studien, Statistiken oder falschen Angaben. Die Excel-Funktionen sind korrekt und sinnvoll für den beschriebenen Zweck. Die beispielhaften Einträge sind klar als solche erkennbar und dienen der Veranschaulichung. Keine Regelverstöße fe",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4587687391"
+      }
     },
     {
       "type": "ebook",
@@ -2739,124 +2748,81 @@
       "pay_url": "https://buy.stripe.com/fZu4gA1bP9hxbeCcUY2kw1O",
       "payment_link_id": "plink_1UMLWtJ5iOXkWb9VQ3g9b0Ax",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Exam Countdown Planner & Study Progress Tracker",
+      "slug": "exam-countdown-planner-study-progress-tracker",
+      "price_eur": 9,
+      "target": "Students preparing for exams",
+      "reason": "This tool provides a structured and visual way for students to manage their exam preparation, helping them stay organized and focused.",
+      "language": "en",
+      "pitch": "A comprehensive calendar and progress tracker designed to help students efficiently manage their study schedule and monitor their preparation progress.",
+      "content_html": "<h2>Content</h2><p>This Excel template includes three sheets: Countdown Calendar, Study Progress Tracker, and Dashboard. It helps students plan their study sessions, track progress, and visualize their preparation status.</p>",
+      "pro": true,
+      "created": "2026-10-03T11:43:30",
+      "file": "exam-countdown-planner-study-progress-tracker-dc189115ebb1f1f8.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Es handelt sich um einen funktionalen Studienplaner ohne irreführenden oder falschen Inhalt.",
+      "pay_url": "https://buy.stripe.com/4gM14of2F51hbeC9IM2kw1P",
+      "payment_link_id": "plink_1UMRUMJ5iOXkWb9VB4tj5cSE",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Little Restaurant Success Kit: Simple Strategies to Attract More Customers & Boost Your Cafe's Profits",
+      "slug": "little-restaurant-success-kit",
+      "price_eur": 7,
+      "target": "Small restaurant and café owners (primarily female entrepreneurs)",
+      "reason": "Small food businesses urgently need practical, low-budget marketing strategies post-pandemic, especially focusing on female entrepreneurs who often juggle family responsibilities. This fills a gap in very actionable advice between generic business books and expensive consultants.",
+      "language": "en",
+      "pitch": "7 proven strategies to increase foot traffic and loyalty at your small food business. Practical tips you can implement immediately without big investments.",
+      "content_html": "<h2>Contents</h2><ol><li>Creating Irresistible Window Displays</li><li>The 5-Minute Daily Social Media Routine</li><li>How to Turn One-Time Visitors into Regulars</li><li>Simple Upselling Techniques That Don't Feel Pushy</li><li>Low-Cost Events That Bring in Crowds</li><li>Building a Loyal Local Following</li><li>Tracking What Actually Works</li></ol><p><strong>Sample chapter:</strong> Learn how changing just one item in your window display every 48 hours can increase walk-in customers by 30% (real example from a Berlin café).</p>",
+      "pro": false,
+      "created": "2026-10-03T11:43:30",
+      "file": "little-restaurant-success-kit-4756d3246b38189e.pdf",
+      "size": 2262,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt hält sich an die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist klar und einheitlich, die Texte sind vollständig und frei von Platzhaltern. Es werden keine Gesundheitsversprechen oder Beratungen gegeben, und es gibt keine Nutzung von fremden Mark",
+      "pay_url": "https://buy.stripe.com/5kQ00kf2FalBgyW5sw2kw1Q",
+      "payment_link_id": "plink_1UMRUNJ5iOXkWb9VX9htbBFJ",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Viajes de Negocios: Tracker de Gastos, Itinerario y Checklist de Equipaje",
+      "slug": "planificador-viajes-negocios-tracker-gastos-itinerario-checklist-equipaje",
+      "price_eur": 11,
+      "target": "Empresarios y autónomos españoles que viajan frecuentemente por negocios",
+      "reason": "Los profesionales autónomos necesitan una solución integrada para planificar viajes de negocios de forma eficiente, mantener control de gastos y asegurarse de no olvidar elementos importantes.",
+      "language": "es",
+      "pitch": "Planifica eficientemente tus viajes de negocios con esta completa plantilla Excel: controla gastos, organiza itinerarios y nunca olvides nada en tu maleta.",
+      "content_html": "<h2>Contenido</h2><p>Plantilla profesional todo-en-uno para viajes de negocio con 3 hojas: registro de gastos, planificador de itinerario y checklist inteligente de equipaje.</p>",
+      "pro": true,
+      "created": "2026-10-03T11:43:30",
+      "file": "planificador-viajes-negocios-tracker-gastos-itinerario-checklist-equipaje-5fe13f8e3a5c7b3a.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Quellen. Die berechneten Kennzahlen sind plausibel und entsprechen den Beispieldaten. Keine Regelverstöße erkennbar. Die Sprache ist einheitlich Spanisch, keine unfertigen Texte oder Platzhalter.",
+      "pay_url": "https://buy.stripe.com/3cI7sM4o1ctJdmKaMQ2kw1R",
+      "payment_link_id": "plink_1UMRUOJ5iOXkWb9VLm7UQvE2",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586219631"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Ultimate Road Trip Guide: Bavaria & The Alps for Families"
-    },
-    {
-      "t": "2026-10-01T06:00:39",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586219645"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.005987999999999999,
-      "why": "KI-Denken: 智能搬家与翻新预算跟踪器"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能搬家与翻新预算跟踪器"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Table with name T____ already exists"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.0061164,
-      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.006356399999999999,
-      "why": "KI-Denken: 智能搬迁与装修预算跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.0012816,
-      "why": "KI-Pruefung: 智能搬迁与装修预算跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.006385199999999999,
-      "why": "KI-Denken: 智能搬家预算与装修进度跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.0012371999999999997,
-      "why": "KI-Pruefung: 智能搬家预算与装修进度跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.005973599999999999,
-      "why": "KI-Denken: 智能搬家与装修预算和进度追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能搬家与装修预算和进度追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Qualitaetspruefung nicht bestanden: {'score': 3, 'rule_violation': True, 'issues': \"Zeileninhalt im 'Progress'-Sheet enthält politisch/geschichtlich sensiblen Text (unpassend für eine Umzugstracker-Vorlage). Formeln sind grundsätzlich sinnvoll, aber der politische Text verletzt die 'keine kontrovers"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.005884799999999999,
-      "why": "KI-Denken: 智能搬家与装修预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能搬家与装修预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.0060312,
-      "why": "KI-Denken: 智能搬家预算与装修成本追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.0010848,
-      "why": "KI-Pruefung: 智能搬家预算与装修成本追踪器 - 2026专业版"
-    },
     {
       "t": "2026-10-01T13:25:12",
       "eur": 0,
@@ -3746,6 +3712,121 @@
       "t": "2026-10-03T05:22:36",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587562758"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.0071292,
+      "why": "KI-Denken: Exam Countdown & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.0011856,
+      "why": "KI-Pruefung: Exam Countdown & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.0066288,
+      "why": "KI-Denken: Exam Countdown Planner & Study Progress Tracker"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Exam Countdown Planner & Study Progress Tracker"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.013209599999999998,
+      "why": "KI-Denken: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers & Boost Your Cafe's Profits"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.0034392,
+      "why": "KI-Pruefung: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers & Boost Your Cafe's Profits"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers & Boost Your Cafe's Profits"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.007359599999999999,
+      "why": "KI-Denken: Planificador de Viajes de Negocios: Tracker de Gastos, Itinerario y Checklist de Equipaje"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.0013115999999999998,
+      "why": "KI-Pruefung: Planificador de Viajes de Negocios: Tracker de Gastos, Itinerario y Checklist de Equipaje"
+    },
+    {
+      "t": "2026-10-03T11:51:58",
+      "eur": -0.0020256,
+      "why": "Audit: Exam Countdown Planner & Study Progress Tracker"
+    },
+    {
+      "t": "2026-10-03T11:51:58",
+      "eur": -0.0032304,
+      "why": "Audit: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers &"
+    },
+    {
+      "t": "2026-10-03T11:51:58",
+      "eur": -0.0025236,
+      "why": "Audit: Planificador de Viajes de Negocios: Tracker de Gastos, Itinerario y Checklist de"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.0010463999999999998,
+      "why": "Blog-Artikel: Eifel Maare (de)"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.0010236,
+      "why": "Blog-Artikel: Rheingau Weinberge (en)"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.0003515999999999999,
+      "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: NRW Städtereise-Budget-Tracker & Planer"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587687335"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Bayerische Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587687369"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
+    },
+    {
+      "t": "2026-10-03T11:43:30",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587687391"
     }
   ],
   "alive": true,
@@ -4214,6 +4295,22 @@
       "lang": "fr",
       "topic": "Muenchen Marienplatz",
       "created": "2026-10-03T05:22:36",
+      "img": true
+    },
+    {
+      "slug": "eifel-maare-naturschoenheiten",
+      "title": "Die Eifel Maare: Naturschönheiten in der Vulkaneifel",
+      "lang": "de",
+      "topic": "Eifel Maare",
+      "created": "2026-10-03T11:43:30",
+      "img": true
+    },
+    {
+      "slug": "rheingau-wine-region-germany",
+      "title": "Discovering the Rheingau Wine Region: A Scenic German Escape",
+      "lang": "en",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-03T11:43:30",
       "img": true
     }
   ],
