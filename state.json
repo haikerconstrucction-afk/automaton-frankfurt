@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 486.0531,
-  "spent_eur": 18.617,
+  "balance_eur": 485.6788,
+  "spent_eur": 18.9913,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2820,94 +2820,81 @@
       "pay_url": "https://buy.stripe.com/3cI7sM4o1ctJdmKaMQ2kw1R",
       "payment_link_id": "plink_1UMRUOJ5iOXkWb9VLm7UQvE2",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas Como Hombre",
+      "slug": "el-arte-de-vender-en-etsy-estrategias-comprobadas",
+      "price_eur": 5,
+      "target": "Online-Haendler und Etsy-Verkaeufer, insbesondere Maenner",
+      "reason": "Este libro responde a la necesidad específica de los hombres que buscan mejorar sus ventas en Etsy, ofreciendo estrategias prácticas y relevantes. Al abordar temas como el algoritmo de Etsy, fotografías efectivas y marketing en redes sociales, proporciona un valor claro y tangible para los lectores de esta demografía.",
+      "language": "es",
+      "pitch": "Descubre cómo destacar en Etsy con técnicas prácticas diseñadas específicamente para hombres que buscan maximizar su impacto en el marketplace.",
+      "content_html": "<h2>Inhalt</h2> <p>Este libro ofrece una guía clara y eficaz para hombres que desean mejorar sus ventas en Etsy. Con ejemplos prácticos y estrategias fáciles de implementar, aprenderás a optimizar tus listados, atraer más compradores y cerrar más ventas. Perfecto para aquellos que buscan resultados tangibles en su negocio online.</p>",
+      "pro": false,
+      "created": "2026-10-03T16:20:49",
+      "file": "el-arte-de-vender-en-etsy-estrategias-comprobadas-66af37765d525ee1.pdf",
+      "size": 1783,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt bietet praktische Tipps ohne erfundene Studien, Statistiken oder Prozentzahlen. Keine Regelverstöße erkennbar.",
+      "pay_url": "https://buy.stripe.com/6oU9AU7AddxN96u3ko2kw1S",
+      "payment_link_id": "plink_1UMVrlJ5iOXkWb9VEzXGpPLA",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能活动预算与志愿者管理追踪器",
+      "slug": "zhi-neng-huo-dong-yu-suan-yu-zhi-yuan-zhe-guan-li-zhui-zong-qi",
+      "price_eur": 9,
+      "target": "Vereine und Ehrenamt",
+      "reason": "这款模板帮助协会和志愿者更高效地管理活动和预算，节省时间和资源。",
+      "language": "zh",
+      "pitch": "简化活动预算管理与志愿者协调，为您的团队提供高效的解决方案。",
+      "content_html": "<h2>内容</h2><p>这款Excel模板专为协会和志愿者设计，帮助您轻松管理活动预算、跟踪志愿者任务并生成清晰的报告。</p>",
+      "pro": true,
+      "created": "2026-10-03T16:20:49",
+      "file": "zhi-neng-huo-dong-yu-suan-yu-zhi-yuan-zhe-guan-li-zhui-zong-qi-cd3e2d983deb1940.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Regeln. Es enthält keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Es ist vollständig auf Chinesisch geschrieben und enthält keine Platzhalter oder unfertigen Texte. Es bietet keine Rechts-, Steuer-, Finanz- oder Medizinberatung und macht keine Gesundheitsv",
+      "pay_url": "https://buy.stripe.com/28EaEY3jXfFV82q7AE2kw1T",
+      "payment_link_id": "plink_1UMVrlJ5iOXkWb9VLG3JgPvd",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能狗狗护理：给忙碌狗主人的7个简单技巧",
+      "slug": "smart-dog-care-for-busy-owners",
+      "price_eur": 5,
+      "target": "忙碌的狗主人",
+      "reason": "本书针对忙碌的狗主人，提供了实用的狗狗护理技巧，节省时间并提高生活品质。",
+      "language": "zh",
+      "pitch": "简化狗狗护理，节省时间并提高生活品质。7个实用技巧，适合忙碌的日常生活。",
+      "content_html": "<h2>Inhalt</h2><ol><li>简介：为什么狗狗护理可以很简单</li><li>第一章：快速梳理技巧</li><li>第二章：高效遛狗策略</li><li>第三章：健康饮食计划</li><li>第四章：如何减少压力</li><li>第五章：简化训练方法</li><li>第六章：常见问题解答</li></ol><p>...</p>",
+      "pro": false,
+      "created": "2026-10-03T16:20:49",
+      "file": "smart-dog-care-for-busy-owners-22995641a138bdf2.pdf",
+      "size": 1508,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich an die Regeln, enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es werden keine Gesundheitsversprechen gemacht, keine fremden Marken verwendet und es gibt keine sachlichen Fehler. Der Text ist vollständig und kohärent, bietet praktische Tipps ohne Beratung in ve",
+      "pay_url": "https://buy.stripe.com/dRm8wQ2fT79pciG3ko2kw1U",
+      "payment_link_id": "plink_1UMVrmJ5iOXkWb9VBpq71g52",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Table with name T_____ already exists"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.0013763999999999998,
-      "why": "Blog-Artikel: Koeln Dom (fr)"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.0008975999999999999,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (de)"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.00041519999999999995,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ostsee-Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586410702"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586406971"
-    },
-    {
-      "t": "2026-10-01T13:25:12",
-      "eur": 0,
-      "why": "etsy-Fehler bei ultimate-berlin-potsdam-travel-budget-planner-itinerary-tracker-women: HTTP Error 400: Bad Request [{\"path\":\"\\/title\\/1\",\"type\":\"too_many_invalid_characters\",\"message\":\"& can only be use once\",\"transformed\":false}]\n"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.0059927999999999995,
-      "why": "KI-Denken: 智能搬家与装修预算及进度追踪表"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能搬家与装修预算及进度追踪表"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Example data includes future dates (2026) which might confuse users.'}"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.006123599999999999,
-      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.0010332,
-      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.010421999999999999,
-      "why": "KI-Denken: 智能园艺与自给自足：简单步骤实现全年丰收"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.0036743999999999995,
-      "why": "KI-Pruefung: 智能园艺与自给自足：简单步骤实现全年丰收"
-    },
-    {
-      "t": "2026-10-01T19:37:27",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能园艺与自给自足：简单步骤实现全年丰收"
-    },
     {
       "t": "2026-10-01T19:37:27",
       "eur": -0.006228,
@@ -3827,6 +3814,86 @@
       "t": "2026-10-03T11:43:30",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587687391"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): 'choices'"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.0127644,
+      "why": "KI-Denken: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas Como Hombre"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.0039504,
+      "why": "KI-Pruefung: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas Como Hombre"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.16,
+      "why": "KI-Bilder: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas Como Hombre"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.0073356,
+      "why": "KI-Denken: 智能活动预算与志愿者管理追踪器"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.0010884,
+      "why": "KI-Pruefung: 智能活动预算与志愿者管理追踪器"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.011543999999999999,
+      "why": "KI-Denken: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.0035519999999999996,
+      "why": "KI-Pruefung: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
+    },
+    {
+      "t": "2026-10-03T16:32:27",
+      "eur": -0.003588,
+      "why": "Audit: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas"
+    },
+    {
+      "t": "2026-10-03T16:32:27",
+      "eur": -0.0037991999999999995,
+      "why": "Audit: 智能活动预算与志愿者管理追踪器"
+    },
+    {
+      "t": "2026-10-03T16:32:27",
+      "eur": -0.0036276,
+      "why": "Audit: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.0014063999999999997,
+      "why": "Blog-Artikel: Schwarzwald (es)"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.0012216,
+      "why": "Blog-Artikel: Saarland Saarschleife (fr)"
+    },
+    {
+      "t": "2026-10-03T16:20:49",
+      "eur": -0.00042599999999999995,
+      "why": "Video-Skript: Saarland Saarschleife"
     }
   ],
   "alive": true,
@@ -4312,6 +4379,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-10-03T11:43:30",
       "img": true
+    },
+    {
+      "slug": "descubre-la-magia-del-bosque-negro-guia-aventura",
+      "title": "Descubre la Magia del Bosque Negro: Una Guía para Tu Próxima Aventura",
+      "lang": "es",
+      "topic": "Schwarzwald",
+      "created": "2026-10-03T16:20:49",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-la-saarschleife-perle-naturelle-du-saarland",
+      "title": "Découvrez la Saarschleife : La Perle Naturelle du Saarland",
+      "lang": "fr",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-03T16:20:49",
+      "img": true
     }
   ],
   "videos": [
@@ -4563,6 +4646,16 @@
       "hashtags": "#Munich #Marienplatz #Bavière #Voyage #Culture",
       "voice": "Bienvenue sur la Marienplatz, l'âme vibrante de Munich ! Entourée de bâtiments historiques, cette place emblématique vous transporte à travers les siècles. Admirez la majestueuse Église Notre-Dame, symbole de l'architecture gothique. En hiver, le marché de Noël y prend vie avec ses lumières éclatantes et ses parfums enivrants. Une halte incontournable pour plonger au cœur de la culture bavaroise.",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-la-saarschleife-perle-naturelle-du-saarland",
+      "title": "Découvrez la Saarschleife : La Perle Naturelle du Saarland",
+      "lang": "fr",
+      "created": "2026-10-03T16:20:49",
+      "hashtags": "#Saarland #Saarschleife #Nature #Allemagne #Randonnée",
+      "voice": "Plongez au cœur du Saarland et découvrez la magnifique Saarschleife, une boucle naturelle spectaculaire de la rivière Sarre. Entourée de forêts verdoyantes et offrant des vues imprenables, c’est un paradis pour les randonneurs et les photographes. Ce site emblématique vous invite à explorer, vous ressourcer et vivre un moment inoubliable en pleine nature. Ne manquez pas ce joyau allemand !",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
