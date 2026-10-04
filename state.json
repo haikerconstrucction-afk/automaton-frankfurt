@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 484.5125,
-  "spent_eur": 20.1576,
+  "balance_eur": 483.7203,
+  "spent_eur": 20.9498,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2013,7 +2013,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Das Produkt ist grundsätzlich in Ordnung und erfüllt die meisten Regeln. Die Behauptung '误差减少90%' (Reduzierung der Fehlerquote um 90%) ist jedoch fragwürdig und könnte als frei erfunden angesehen werden, da keine Quellen oder Grundlagen dafür angegeben werden. Das Produkt sollte diese Behauptung ent"
+      "audit_note": "Das Produkt ist grundsätzlich in Ordnung und erfüllt die meisten Regeln. Die Behauptung '误差减少90%' (Reduzierung der Fehlerquote um 90%) ist jedoch fragwürdig und könnte als frei erfunden angesehen werden, da keine Quellen oder Grundlagen dafür angegeben werden. Das Produkt sollte diese Behauptung ent",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4588215997"
+      }
     },
     {
       "type": "ebook",
@@ -2037,7 +2040,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken, Prozentzahlen oder Zitate. Die Sprache ist korrekt und einheitlich, es gibt keine unfertigen Texte oder Platzhalter. Der Text fördert die Fantasie und eignet sich gut als Gute-Nacht-Geschichten für Kinder."
+      "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken, Prozentzahlen oder Zitate. Die Sprache ist korrekt und einheitlich, es gibt keine unfertigen Texte oder Platzhalter. Der Text fördert die Fantasie und eignet sich gut als Gute-Nacht-Geschichten für Kinder.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4588216019"
+      }
     },
     {
       "type": "excel",
@@ -2061,7 +2067,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Das Produkt entspricht den Regeln. Es werden keine erfundenen Studien, Statistiken oder Quellen verwendet. Die Formeln und Tabellen sind plausibel und funktional. Der Inhalt ist klar strukturiert und vollständig in Französisch verfasst."
+      "audit_note": "Das Produkt entspricht den Regeln. Es werden keine erfundenen Studien, Statistiken oder Quellen verwendet. Die Formeln und Tabellen sind plausibel und funktional. Der Inhalt ist klar strukturiert und vollständig in Französisch verfasst.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4588221342"
+      }
     },
     {
       "type": "ebook",
@@ -3045,139 +3054,81 @@
       "pay_url": "https://buy.stripe.com/eVq7sM5s5bpFfuSaMQ2kw20",
       "payment_link_id": "plink_1UMddhJ5iOXkWb9VFvNAwLr3",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers",
+      "slug": "ultimate-black-forest-travel-budget-planner-expense-tracker",
+      "price_eur": 9,
+      "target": "International female travelers planning a trip to the Black Forest in Germany",
+      "reason": "This template provides a comprehensive and user-friendly solution for female travelers to manage their Black Forest trip budget efficiently, ensuring they stay within their limits while enjoying their adventure.",
+      "language": "en",
+      "pitch": "Plan your Black Forest adventure with ease: Track expenses, manage your budget, and optimize your itinerary with this professional Excel template.",
+      "content_html": "<h2>Content</h2><p>This Excel template includes sheets for tracking daily expenses, managing your travel budget, and visualizing your spending.</p>",
+      "pro": true,
+      "created": "2026-10-04T08:29:46",
+      "file": "ultimate-black-forest-travel-budget-planner-expense-tracker-1bdd603e75e6d3e9.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Der Inhalt entspricht den Regeln und bietet eine klare Funktionsbeschreibung des Excel-Tools. Die Beispielrechnungen sind plausibel und als solche erkennbar.",
+      "pay_url": "https://buy.stripe.com/4gM28scUxdxN4QecUY2kw21",
+      "payment_link_id": "plink_1UMksPJ5iOXkWb9VT7HHfATk",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets",
+      "slug": "saarland-moselle-hidden-gems-female-travel-guide",
+      "price_eur": 5,
+      "target": "Female solo travelers and small groups interested in authentic experiences along the Saar and Moselle rivers",
+      "reason": "While general Germany guides exist, this focuses specifically on the Saarland-Moselle region through a practical female traveler's lens - combining trusted routes, local business recommendations, and safety-conscious advice that's otherwise scattered across blogs and forums.",
+      "language": "en",
+      "pitch": "Discover 7 breathtaking routes with insider tips on local vineyards, medieval castles, and cozy cafes – perfectly planned for women who love independent travel without the tourist crowds.",
+      "content_html": "<h2>Contents</h2><ol><li>Essential Packing List for Smart Travelers</li><li>Route 1: The Castle Trail (Saarburg to Merzig)</li><li>Route 2: The Vineyard Loop (Mettlach to Perl)</li><li>Route 3: The Riverside Walk (Saarlouis to Dillingen)</li><li>Best Solo-Friendly Cafés & Bistros</li><li>Budget Planning & Safety Tips</li><li>Capturing Perfect Travel Photos</li></ol>",
+      "pro": false,
+      "created": "2026-10-04T08:29:46",
+      "file": "saarland-moselle-hidden-gems-female-travel-guide-abf9b332e8a81afe.pdf",
+      "size": 1627,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht weitgehend den Regeln, keine erfundenen Statistiken oder Quellen, keine sachlichen Fehler oder Rechtsberatung. Kleinere grammatikalische Unstimmigkeiten, aber insgesamt guter Reiseführer für unabhängige Reisende.",
+      "pay_url": "https://buy.stripe.com/eVqaEYf2FbpF5Ui08c2kw22",
+      "payment_link_id": "plink_1UMksQJ5iOXkWb9Vsgj0hVC2",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Viajes para NRW: Presupuesto y Ruta de Explora",
+      "slug": "planificador-viajes-nrw-presupuesto-ruta",
+      "price_eur": 9,
+      "target": "Hombres autónomos y pequeños empresarios que viajan a NRW (Colonia, Düsseldorf, Ruhrgebiet) por negocios o placer",
+      "reason": "Este producto llena un vacío en el mercado hispanohablante con una herramienta profesional para viajes a NRW, combinando planificación logística con gestión presupuestaria. Su enfoque pragmático y diseño claro lo hacen ideal para viajeros masculinos que valoran la eficiencia.",
+      "language": "es",
+      "pitch": "Controla gastos y optimiza tu tiempo en NRW con esta herramienta profesional. Ideal para viajeros pragmáticos que quieren explorar la región de forma eficiente.",
+      "content_html": "<h2>Contenido</h2><p>Planificador completo para viajes a NRW con seguimiento de gastos, itinerario y puntos de interés clave. Incluye dashboard resumen y gráficos automáticos.</p>",
+      "pro": true,
+      "created": "2026-10-04T08:29:46",
+      "file": "planificador-viajes-nrw-presupuesto-ruta-401ef704e4b90391.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Studien/Statistiken, klare Funktionsbeschreibung, korrekte Beispielrechnungen. Einziger kleiner Abzug für die pauschale Beispielpreise (z.B. Hotelkosten in Ruhrgebiet), die zwar realistisch sind aber keine konkreten Referenzen haben.",
+      "pay_url": "https://buy.stripe.com/9B67sMbQt1P5dmK2gk2kw23",
+      "payment_link_id": "plink_1UMksRJ5iOXkWb9VcjxaSymv",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Cuentos Mágicos para Pequeños Soñadores: 7 Historias para Dormir de 3 a 8 Años"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586770025"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能婚礼预算跟踪与规划器 - 2026年专属版"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586770041"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.0066288,
-      "why": "KI-Denken: Schwarzwald-Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.0011807999999999999,
-      "why": "KI-Pruefung: Schwarzwald-Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.012561600000000001,
-      "why": "KI-Denken: Entdecke das Saarland und die Mosel: Der ultimative Reiseführer für Naturliebhaber und Kulturinteressierte"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.004376399999999999,
-      "why": "KI-Pruefung: Entdecke das Saarland und die Mosel: Der ultimative Reiseführer für Naturliebhaber und Kulturinteressierte"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): E-Book zu kurz (1394 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.012164399999999999,
-      "why": "KI-Denken: Entdecke das Saarland und die Mosel: Der praktische Reiseführer für alle Geschlechter"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.004398,
-      "why": "KI-Pruefung: Entdecke das Saarland und die Mosel: Der praktische Reiseführer für alle Geschlechter"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1354 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.012130799999999999,
-      "why": "KI-Denken: Saarland und Mosel entdecken: Der ultimative Reiseführer für Selbstständige und kleine Unternehmen"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.0042,
-      "why": "KI-Pruefung: Saarland und Mosel entdecken: Der ultimative Reiseführer für Selbstständige und kleine Unternehmen"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1199 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.012893999999999997,
-      "why": "KI-Denken: Saarland & Mosel Entdecken: Der ultimative Insider-Guide für selbstständige Reisende und Kleinunternehmer"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.0043836,
-      "why": "KI-Pruefung: Saarland & Mosel Entdecken: Der ultimative Insider-Guide für selbstständige Reisende und Kleinunternehmer"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): E-Book zu kurz (1235 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.012945599999999998,
-      "why": "KI-Denken: Entdecke das Saarland & die Mosel: Der ultimative Reiseführer für Naturfreunde und Kulturliebhaber"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.0042768,
-      "why": "KI-Pruefung: Entdecke das Saarland & die Mosel: Der ultimative Reiseführer für Naturfreunde und Kulturliebhaber"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.0065471999999999995,
-      "why": "KI-Denken: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.0010007999999999998,
-      "why": "KI-Pruefung: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-02T06:15:45",
-      "eur": -0.0021936,
-      "why": "Audit: Schwarzwald-Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-02T06:15:45",
-      "eur": -0.0040152,
-      "why": "Audit: Entdecke das Saarland & die Mosel: Der ultimative Reiseführer für Naturfreunde u"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
     {
       "t": "2026-10-02T05:43:08",
       "eur": -0.0016499999999999998,
@@ -4052,6 +4003,136 @@
       "t": "2026-10-04T00:42:42",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588092636"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.007582799999999999,
+      "why": "KI-Denken: Ultimate Black Forest Travel Budget & Itinerary Planner for Female Explorers"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget & Itinerary Planner for Female Explorers"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.007724399999999999,
+      "why": "KI-Denken: Ultimate Black Forest Travel Expense Tracker"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.0010968,
+      "why": "KI-Pruefung: Ultimate Black Forest Travel Expense Tracker"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.0075972,
+      "why": "KI-Denken: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.0010259999999999998,
+      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.012831599999999999,
+      "why": "KI-Denken: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.0035675999999999993,
+      "why": "KI-Pruefung: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.16,
+      "why": "KI-Bilder: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.007884,
+      "why": "KI-Denken: Planificador de Viajes para NRW: Presupuesto y Ruta de Explora"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.0010236,
+      "why": "KI-Pruefung: Planificador de Viajes para NRW: Presupuesto y Ruta de Explora"
+    },
+    {
+      "t": "2026-10-04T08:34:23",
+      "eur": -0.0023832,
+      "why": "Audit: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travele"
+    },
+    {
+      "t": "2026-10-04T08:34:23",
+      "eur": -0.0032735999999999998,
+      "why": "Audit: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Loc"
+    },
+    {
+      "t": "2026-10-04T08:34:23",
+      "eur": -0.0024228,
+      "why": "Audit: Planificador de Viajes para NRW: Presupuesto y Ruta de Explora"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.0013583999999999998,
+      "why": "Blog-Artikel: Heidelberg Altstadt (fr)"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.0010103999999999998,
+      "why": "Blog-Artikel: Neuschwanstein (de)"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.00037559999999999997,
+      "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能报价计算器与施工现场管理表 - 2026专业版"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588215997"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 星空下的奇妙冒险：7个温馨的晚安故事"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588216019"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Budget de Mariage & Suivi des Dépenses - Modèle Professionnel 2026"
+    },
+    {
+      "t": "2026-10-04T08:29:46",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588221342"
     }
   ],
   "alive": true,
@@ -4585,6 +4666,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-10-04T00:42:42",
       "img": true
+    },
+    {
+      "slug": "decouvrez-la-magie-de-la-vieille-ville-de-heidelberg",
+      "title": "Découvrez la magie de la vieille ville de Heidelberg",
+      "lang": "fr",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-04T08:29:46",
+      "img": true
+    },
+    {
+      "slug": "maerchenhaftes-neuschwanstein-guide-beruehmtesten-schloss-de",
+      "title": "Märchenhaftes Neuschwanstein: Dein Guide zum berühmtesten Schloss Deutschlands",
+      "lang": "de",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-04T08:29:46",
+      "img": true
     }
   ],
   "videos": [
@@ -4866,6 +4963,16 @@
       "hashtags": "#MoselCochem #Alemania #Viajes #Vinos #Naturaleza",
       "voice": "En el corazón de Alemania, Mosel Cochem te espera. Con su impresionante castillo medieval, viñedos que pintan el paisaje y el sereno río Mosela, este destino es pura magia. Descubre sus encantadoras calles, disfruta de vinos exquisitos y sumérgete en la naturaleza. ¡Una experiencia que no te puedes perder!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "maerchenhaftes-neuschwanstein-guide-beruehmtesten-schloss-de",
+      "title": "Märchenhaftes Neuschwanstein: Dein Guide zum berühmtesten Schloss Deutschlands",
+      "lang": "de",
+      "created": "2026-10-04T08:29:46",
+      "hashtags": "#Neuschwanstein #Märchenschloss #Deutschland #Romantik #KönigLudwigII",
+      "voice": "Hoch über den Alpen thront das Märchenschloss Neuschwanstein, ein Meisterwerk deutscher Romantik. Erbaut von König Ludwig II., verzaubert es mit seinen Türmen, Prunkräumen und der atemberaubenden Kulisse. Hier erwacht jedes Kindheitstraumschloss zum Leben – ein Ort voller Geschichte und Magie.",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
