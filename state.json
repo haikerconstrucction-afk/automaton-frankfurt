@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 483.318,
-  "spent_eur": 21.3521,
+  "balance_eur": 483.0614,
+  "spent_eur": 21.6087,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3195,144 +3195,81 @@
       "audit_v": 3,
       "audit_score": 8,
       "audit_note": "Einige Prozentzahlen sind nicht belegt und erscheinen erfunden (z.B. '提前网上订票能节省30%-50%' und '几乎所有景点门票降价20-40%'). Diese sollten entfernt oder durch allgemein bekannte Faustregeln ersetzt werden. Der Rest des Inhalts ist jedoch sachlich korrekt und regelkonform."
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Budget de Voyage pour Berlin et Potsdam : Suivi des Dépenses & Itinéraire",
+      "slug": "planificateur-budget-voyage-berlin-potsdam",
+      "price_eur": 9,
+      "target": "Personnes voyageant à Berlin et Potsdam, cherchant à organiser leur budget et itinéraire efficacement.",
+      "reason": "Ce planificateur permet de suivre efficacement le budget et l'itinéraire d'un voyage à Berlin et Potsdam, rendant l'expérience de voyage plus organisée et moins stressante.",
+      "language": "fr",
+      "pitch": "Organisez votre voyage à Berlin et Potsdam en toute sérénité avec ce planificateur de budget et itinéraire professionnel.",
+      "content_html": "<h2>Inhalt</h2><p>Planificateur complet pour suivre vos dépenses, organiser votre itinéraire et maximiser votre expérience de voyage à Berlin et Potsdam.</p>",
+      "pro": true,
+      "created": "2026-10-04T19:41:32",
+      "file": "planificateur-budget-voyage-berlin-potsdam-11953e9f74ec25ba.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine falsche oder gemischte Sprache. Keine Platzhalter oder unfertigen Texte. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine Gesundheitsversprechen oder fremde Marken/Figuren. Formeln/Tabellen sind sinnvoll und korrekt. Beispiel",
+      "pay_url": "https://buy.stripe.com/5kQ00kf2FalB1E23ko2kw26",
+      "payment_link_id": "plink_1UMvVhJ5iOXkWb9VfYpMuBdb",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et les trésors cachés",
+      "slug": "decouvrez-saxe-et-dresde-guide-pratique",
+      "price_eur": 5,
+      "target": "Voyageurs francophones intéressés à explorer la Saxe et Dresde",
+      "reason": "Ce guide répond à un besoin clair parmi les voyageurs francophones intéressés par l'Allemagne et la Saxe. Il offre des informations pratiques, des itinéraires et des conseils budgétaires, ce qui en fait un outil essentiel pour tout voyageur souhaitant explorer cette région de manière indépendante.",
+      "language": "fr",
+      "pitch": "Un guide complet pour découvrir la Saxe et Dresde, riche en conseils pratiques, itinéraires et anecdotes historiques. Parfait pour les voyageurs curieux et indépendants.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introduction: Pourquoi visiter la Saxe et Dresde?</li><li>Chapitre 1: Les incontournables de Dresde</li><li>Chapitre 2: Explorer les alentours de Dresde</li><li>Chapitre 3: Itinéraires pour découvrir la Saxe</li><li>Chapitre 4: Conseils pratiques pour un voyage réussi</li><li>Chapitre 5: Histoire et culture de la Saxe</li><li>Chapitre 6: Budget et économies pour votre voyage</li></ul>",
+      "pro": false,
+      "created": "2026-10-04T19:41:32",
+      "file": "decouvrez-saxe-et-dresde-guide-pratique-545d34e8c2c7f163.pdf",
+      "size": 1998,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar, informativ und entspricht den Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder Quellen. Die Sprache ist korrekt und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Es wird keine Rechts-, Steuer-, Finanz- oder Gesundheitsberatung angeboten. Keine fremden M",
+      "pay_url": "https://buy.stripe.com/28E14og6JeBR6Ym9IM2kw27",
+      "payment_link_id": "plink_1UMvVhJ5iOXkWb9VuFuVVmhh",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Construction Site Measurement & Offer Tracker for Craftsmen",
+      "slug": "construction-site-measurement-offer-tracker",
+      "price_eur": 9,
+      "target": "craftsmanship businesses (offers, measurements, construction sites)",
+      "reason": "This template simplifies construction site management, offering clear insights into project costs and measurements, making it a valuable tool for craftsmen.",
+      "language": "en",
+      "pitch": "Streamline your construction site management with precise measurement tracking and professional offer calculations.",
+      "content_html": "<h2>Content</h2><p>This Excel template helps craftsmen efficiently manage construction site measurements, calculate offers, and track project costs. Perfect for small businesses looking to save time and improve accuracy.</p>",
+      "pro": true,
+      "created": "2026-10-04T19:41:32",
+      "file": "construction-site-measurement-offer-tracker-09034feb3d4d01c3.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Excel-Tabellen funktionieren korrekt und sind plausibel. Es werden keine Rechts-, Steuer-, Finanz- oder Gesundheitsratschläge gegeben. Der Inhalt ist klar und vollständig ohne Platzhalter oder",
+      "pay_url": "https://buy.stripe.com/dRm6oI07L65l2I63ko2kw28",
+      "payment_link_id": "plink_1UMvViJ5iOXkWb9VpeoU96Ku",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.00038879999999999996,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimativer Reise-Packlisten-Planer & Budget-Tracker für Selbstständige (2026 Edition)"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587060049"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Der Etsy-Erfolgsplan: 6 einfache Schritte für mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587060081"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Volunteer & Club Event Budget Tracker"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587065186"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.013619999999999998,
-      "why": "KI-Denken: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.004116,
-      "why": "KI-Pruefung: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.16,
-      "why": "KI-Bilder: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.00633,
-      "why": "KI-Denken: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.0110748,
-      "why": "KI-Denken: 萨克森探索指南：德累斯顿及其周边地区的秘密美景与文化宝藏"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.0033431999999999997,
-      "why": "KI-Pruefung: 萨克森探索指南：德累斯顿及其周边地区的秘密美景与文化宝藏"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1423 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.0112008,
-      "why": "KI-Denken: 德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.0037248,
-      "why": "KI-Pruefung: 德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.16,
-      "why": "KI-Bilder: 德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏"
-    },
-    {
-      "t": "2026-10-02T19:30:52",
-      "eur": -0.003921599999999999,
-      "why": "Audit: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-02T19:30:52",
-      "eur": -0.0022619999999999997,
-      "why": "Audit: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-02T19:30:52",
-      "eur": -0.0038507999999999997,
-      "why": "Audit: 德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.0009299999999999999,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (fr)"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.0011519999999999998,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (de)"
-    },
-    {
-      "t": "2026-10-02T19:22:44",
-      "eur": -0.00034559999999999994,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.006696,
-      "why": "KI-Denken: Suivi de Budget et Planification de Chantier pour Artisans"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Suivi de Budget et Planification de Chantier pour Artisans"
-    },
     {
       "t": "2026-10-02T23:49:45",
       "eur": -0.0137688,
@@ -4197,6 +4134,141 @@
       "t": "2026-10-04T15:24:34",
       "eur": -0.00038159999999999995,
       "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.008185199999999998,
+      "why": "KI-Denken: Planificateur de Voyage à Berlin et Potsdam : Budget Tracker & Itinéraire"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0011531999999999998,
+      "why": "KI-Pruefung: Planificateur de Voyage à Berlin et Potsdam : Budget Tracker & Itinéraire"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0089964,
+      "why": "KI-Denken: Planificateur de Voyage Berlin & Potsdam : Budget, Itinéraire et Checkliste"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0018275999999999998,
+      "why": "KI-Pruefung: Planificateur de Voyage Berlin & Potsdam : Budget, Itinéraire et Checkliste"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0078996,
+      "why": "KI-Denken: Guide de voyage pour Berlin et Potsdam : Tracker de budget et planificateur d'itinéraire"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Guide de voyage pour Berlin et Potsdam : Tracker de budget et planificateur d'itinéraire"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.007936799999999999,
+      "why": "KI-Denken: Planificateur de Budget de Voyage pour Berlin et Potsdam : Suivi des Dépenses & Itinéraire"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0010283999999999998,
+      "why": "KI-Pruefung: Planificateur de Budget de Voyage pour Berlin et Potsdam : Suivi des Dépenses & Itinéraire"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.013939199999999999,
+      "why": "KI-Denken: Le Guide Essentiel des Voyageurs Autonomes : Découvrir Dresden et la Saxe en 7 Étapes Faciles"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0041963999999999994,
+      "why": "KI-Pruefung: Le Guide Essentiel des Voyageurs Autonomes : Découvrir Dresden et la Saxe en 7 Étapes Faciles"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): E-Book zu kurz (1498 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0154212,
+      "why": "KI-Denken: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et les trésors cachés"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0041567999999999996,
+      "why": "KI-Pruefung: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et les trésors cachés"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.16,
+      "why": "KI-Bilder: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et les trésors cachés"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.007836,
+      "why": "KI-Denken: Construction Site Measurement & Offer Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Construction Site Measurement & Offer Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-10-04T19:55:25",
+      "eur": -0.0023375999999999996,
+      "why": "Audit: Planificateur de Budget de Voyage pour Berlin et Potsdam : Suivi des Dépenses & "
+    },
+    {
+      "t": "2026-10-04T19:55:25",
+      "eur": -0.0037787999999999997,
+      "why": "Audit: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et"
+    },
+    {
+      "t": "2026-10-04T19:55:25",
+      "eur": -0.0030443999999999996,
+      "why": "Audit: Construction Site Measurement & Offer Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0011363999999999999,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (es)"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.0014724,
+      "why": "Blog-Artikel: Frankfurt Skyline (fr)"
+    },
+    {
+      "t": "2026-10-04T19:41:32",
+      "eur": -0.00039,
+      "why": "Video-Skript: Frankfurt Skyline"
     }
   ],
   "alive": true,
@@ -4762,6 +4834,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-10-04T15:24:34",
       "img": true
+    },
+    {
+      "slug": "guia-esencial-para-visitar-la-speicherstadt-de-hamburgo",
+      "title": "Guía esencial para visitar la Speicherstadt de Hamburgo",
+      "lang": "es",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-04T19:41:32",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-la-skyline-de-francfort",
+      "title": "Découvrez la Skyline de Francfort : Un mélange unique d'architecture et de culture",
+      "lang": "fr",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-04T19:41:32",
+      "img": true
     }
   ],
   "videos": [
@@ -5063,6 +5151,16 @@
       "hashtags": "#吕根岛 #白垩崖 #德国自然景观 #北海旅行 #徒步探索",
       "voice": "欢迎来到德国吕根岛，这里的白垩崖壁是自然奇观的代名词！碧蓝的海水与洁白的崖壁形成鲜明对比，仿佛一幅绝美的画卷。这里是徒步爱好者的天堂，沿着海岸线漫步，您可以感受到大自然的震撼与历史的厚重。白垩崖不仅是地质奇观，更是德国北海沿岸的标志性景观。无论您是摄影爱好者还是自然探索者，吕根岛都将为您带来难忘的体验。",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-la-skyline-de-francfort",
+      "title": "Découvrez la Skyline de Francfort : Un mélange unique d'architecture et de culture",
+      "lang": "fr",
+      "created": "2026-10-04T19:41:32",
+      "hashtags": "#Frankfurt #Skyline #VoyageEnAllemagne #CultureUrbaine #Découverte",
+      "voice": "Bienvenue à Frankfurt, une ville qui allie élégance et dynamisme. Sa skyline époustouflante, dominée par des gratte-ciels impressionnants, est un symbole de puissance économique. Promenez-vous le long du Main, découvrez son riche patrimoine culturel et ressentez l’énergie unique de cette métropole. Frankfurt vous surprendra à chaque coin de rue !",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
