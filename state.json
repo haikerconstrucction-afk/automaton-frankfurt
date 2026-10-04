@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 483.7203,
-  "spent_eur": 20.9498,
+  "balance_eur": 483.318,
+  "spent_eur": 21.3521,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3126,124 +3126,78 @@
       "pay_url": "https://buy.stripe.com/9B67sMbQt1P5dmK2gk2kw23",
       "payment_link_id": "plink_1UMksRJ5iOXkWb9VcjxaSymv",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos",
+      "slug": "baviera-alpes-guia-recetados-es",
+      "price_eur": 5,
+      "target": "Hombres que buscan experiencias auténticas en Baviera y los Alpes.",
+      "reason": "Este ebook ofrece una guía práctica y detallada para hombres que buscan explorar Baviera y los Alpes de una manera auténtica y emocionante. Con consejos prácticos y rutas cuidadosamente seleccionadas, garantiza que los viajeros vivan experiencias inolvidables.",
+      "language": "es",
+      "pitch": "Explora los rincones menos conocidos de Baviera y los Alpes con esta guía práctica, diseñada para viajeros que buscan aventuras memorables.",
+      "content_html": "<h2>Inhalt</h2>\n\n<h3>Introducción</h3>\n\n<p>Bienvenido a Baviera y los Alpes, una región llena de paisajes impresionantes, cultura rica y rutas de senderismo épicas. Este ebook te guiará por los mejores recorridos diseñados especialmente para viajeros que buscan experiencias auténticas.</p>\n\n<h3>Capítulos</h3>\n\n<ul>\n<li>Capítulo 1: Preparativos esenciales para tu aventura</li>\n<li>Capítulo 2: Las mejores rutas de senderismo en Baviera</li>\n<li>Capítulo 3: Descubre los pueblos alpinos menos conocidos</li>\n<li>Capítulo 4: Los miradores más impresionantes de los Alpes</li>\n<li>Capítulo 5: La gastronomía bávara: platos que no puedes perderte</li>\n<li>Capítulo 6: Aventuras en invierno: esquí y más</li>\n</ul>",
+      "pro": false,
+      "created": "2026-10-04T15:24:34",
+      "file": "baviera-alpes-guia-recetados-es-19f478add5c74858.pdf",
+      "size": 1565,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist korrekt Spanisch, ohne Platzhalter oder unfertige Abschnitte. Es gibt keine sachlichen Fehler oder verbotenen Beratungen. Empfehlungen basieren auf allgemein bekanntem Wissen und eigenen Praxistipps. Der Text",
+      "pay_url": "https://buy.stripe.com/7sY9AUaMpdxNfuScUY2kw24",
+      "payment_link_id": "plink_1UMrPQJ5iOXkWb9Vwlir1wpW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能德国北海与波罗的海旅行预算追踪器 - 2026专业版",
+      "slug": "nordsee-ostsee-reise-budget-tracker-zh",
+      "price_eur": 9,
+      "target": "中国、台湾、新加坡自由行游客，计划游览德国北海和波罗的海的旅行者",
+      "reason": "专业旅行者需要清晰掌握在德国海岸线的开支情况，本模板特别针对中国游客设计了人民币自动换算功能，并提供完整的预算分析工具",
+      "language": "zh",
+      "pitch": "专业级旅行预算管理工具，帮助您实时跟踪所有旅行开支，轻松规划德国海岸线之旅",
+      "content_html": "<h2>内容</h2><p>完整的Excel解决方案，包含4个工作表，让您掌控德国海岸旅行的方方面面</p>",
+      "pro": true,
+      "created": "2026-10-04T15:24:34",
+      "file": "nordsee-ostsee-reise-budget-tracker-zh-f42d4d4a2abff62b.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Quellen. Es werden keine verbotenen Beratungen oder Gesundheitsversprechen gemacht. Die Excel-Tabellen sind logisch und sinnvoll gestaltet. Die Sprache ist klar und einheitlich, ohne Platzhalter oder unfertige Tex",
+      "pay_url": "https://buy.stripe.com/bJe6oI8Eh2T9aaycUY2kw25",
+      "payment_link_id": "plink_1UMrPRJ5iOXkWb9V9NY7wsy3",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能德国莱茵河与海德堡旅行指南：实用路线规划与预算建议",
+      "slug": "zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan",
+      "price_eur": 5,
+      "target": "中国、台湾、新加坡的中文读者，计划自助游德国莱茵河谷、法兰克福和海德堡的旅行者",
+      "reason": "现有旅行指南多聚焦柏林/慕尼黑等大城市，缺乏针对法兰克福-莱茵河-海德堡这条经典线路的中文实用建议。本指南特别解决华人游客的实际痛点如饮食适应、淡季旅游、文化差异等，提供真实体验过的省钱技巧和非传统景点信息",
+      "language": "zh",
+      "pitch": "专为华人设计的德国经典旅游线路规划指南，提供7天高效行程安排和本地人才知道的花钱技巧，助您避开游客陷阱享受地道体验",
+      "content_html": "<h2>内容目录</h2><p>第一章：行前必备：签证、保险与行李清单</p><p>第二章：法兰克福机场到市中心的5种经济交通方案</p><p>第三章：莱茵河游船选择指南：如何用1/3价格订到观景座位</p><p>第四章：海德堡学生票的秘密：用大学福利节省景点门票</p><p>第五章：当地家庭推荐的3家地道餐馆与隐藏菜单</p><p>第六章：文化礼仪避坑指南：从点餐小费到博物馆禁忌</p><p>第七章：淡季旅行全攻略：人少景美的冬季魔法时刻</p>",
+      "pro": false,
+      "created": "2026-10-04T15:24:34",
+      "file": "zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan-f14fd2d03a1a2e07.pdf",
+      "size": 1916,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Einige Prozentzahlen sind nicht belegt und erscheinen erfunden (z.B. '提前网上订票能节省30%-50%' und '几乎所有景点门票降价20-40%'). Diese sollten entfernt oder durch allgemein bekannte Faustregeln ersetzt werden. Der Rest des Inhalts ist jedoch sachlich korrekt und regelkonform."
     }
   ],
   "log": [
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.0016499999999999998,
-      "why": "Blog-Artikel: Saechsische Schweiz (de)"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.0012,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (en)"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.00034319999999999994,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 聪明省钱：8个简单的日常节约技巧 - 家庭财务管理实用指南"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586899468"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Petit Guide Pratique pour les Propriétaires de 1 à 5 Logements : Organisation et Gestion Simplifiée"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586899490"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Little Café Success Book: 7 Simple Strategies to Attract Families & Boost Your Sales"
-    },
-    {
-      "t": "2026-10-02T05:43:08",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586896051"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.0065304,
-      "why": "KI-Denken: Ultimate NRW Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.001014,
-      "why": "KI-Pruefung: Ultimate NRW Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.0122268,
-      "why": "KI-Denken: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.0035207999999999997,
-      "why": "KI-Pruefung: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.16,
-      "why": "KI-Bilder: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.006378,
-      "why": "KI-Denken: Planificador de Viajes para la Costa del Mar Báltico y Mar del Norte"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Viajes para la Costa del Mar Báltico y Mar del Norte"
-    },
-    {
-      "t": "2026-10-02T12:47:51",
-      "eur": -0.0021768,
-      "why": "Audit: Ultimate NRW Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-02T12:47:51",
-      "eur": -0.0032256,
-      "why": "Audit: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers"
-    },
-    {
-      "t": "2026-10-02T12:47:51",
-      "eur": 0,
-      "why": "Audit entfernt: Bavarian Alps Adventure Guide: 7 Unique Day Trips for Solo Female Travelers – Die Aussage '50% of pack weight should be water' ist eine konkrete Prozentzahl ohne allgemein bekannte Grundlage und damit erfunden. Dies verstößt gegen die Reg"
-    },
-    {
-      "t": "2026-10-02T12:47:51",
-      "eur": -0.0022776,
-      "why": "Audit: Planificador de Viajes para la Costa del Mar Báltico y Mar del Norte"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 1 entfernt"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.0008088,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (zh)"
-    },
-    {
-      "t": "2026-10-02T12:41:32",
-      "eur": -0.0015936,
-      "why": "Blog-Artikel: Frankfurt Skyline (es)"
-    },
     {
       "t": "2026-10-02T12:41:32",
       "eur": -0.00038879999999999996,
@@ -4133,6 +4087,116 @@
       "t": "2026-10-04T08:29:46",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588221342"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.0140436,
+      "why": "KI-Denken: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.0043235999999999995,
+      "why": "KI-Pruefung: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.16,
+      "why": "KI-Bilder: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.0074496,
+      "why": "KI-Denken: 智能东海岸与北海旅游预算追踪与路线规划器"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能东海岸与北海旅游预算追踪与路线规划器"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.007730399999999999,
+      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.011941199999999999,
+      "why": "KI-Denken: 莱茵河畔的探索：法兰克福与海德堡的非二元性别旅行指南"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.0034763999999999993,
+      "why": "KI-Pruefung: 莱茵河畔的探索：法兰克福与海德堡的非二元性别旅行指南"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (1483 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.0133848,
+      "why": "KI-Denken: 智能德国莱茵河与海德堡旅行指南：实用路线规划与预算建议"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.0043584,
+      "why": "KI-Pruefung: 智能德国莱茵河与海德堡旅行指南：实用路线规划与预算建议"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能德国莱茵河与海德堡旅行指南：实用路线规划与预算建议"
+    },
+    {
+      "t": "2026-10-04T15:32:47",
+      "eur": -0.003925199999999999,
+      "why": "Audit: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-04T15:32:47",
+      "eur": -0.0027599999999999994,
+      "why": "Audit: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-04T15:32:47",
+      "eur": -0.0044399999999999995,
+      "why": "Audit: 智能德国莱茵河与海德堡旅行指南：实用路线规划与预算建议"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.0010044,
+      "why": "Blog-Artikel: Saechsische Schweiz (en)"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.0012107999999999997,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (zh)"
+    },
+    {
+      "t": "2026-10-04T15:24:34",
+      "eur": -0.00038159999999999995,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
     }
   ],
   "alive": true,
@@ -4682,6 +4746,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-10-04T08:29:46",
       "img": true
+    },
+    {
+      "slug": "discover-the-enchanting-saxon-switzerland-germany",
+      "title": "Discover the Enchanting Saxon Switzerland: A Gem in Germany",
+      "lang": "en",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-04T15:24:34",
+      "img": true
+    },
+    {
+      "slug": "deutschland-ruegen-kreidefelsen-reise",
+      "title": "德国吕根岛白垩岩：自然奇观的完美之旅",
+      "lang": "zh",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-04T15:24:34",
+      "img": true
     }
   ],
   "videos": [
@@ -4973,6 +5053,16 @@
       "hashtags": "#Neuschwanstein #Märchenschloss #Deutschland #Romantik #KönigLudwigII",
       "voice": "Hoch über den Alpen thront das Märchenschloss Neuschwanstein, ein Meisterwerk deutscher Romantik. Erbaut von König Ludwig II., verzaubert es mit seinen Türmen, Prunkräumen und der atemberaubenden Kulisse. Hier erwacht jedes Kindheitstraumschloss zum Leben – ein Ort voller Geschichte und Magie.",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "deutschland-ruegen-kreidefelsen-reise",
+      "title": "德国吕根岛白垩岩：自然奇观的完美之旅",
+      "lang": "zh",
+      "created": "2026-10-04T15:24:34",
+      "hashtags": "#吕根岛 #白垩崖 #德国自然景观 #北海旅行 #徒步探索",
+      "voice": "欢迎来到德国吕根岛，这里的白垩崖壁是自然奇观的代名词！碧蓝的海水与洁白的崖壁形成鲜明对比，仿佛一幅绝美的画卷。这里是徒步爱好者的天堂，沿着海岸线漫步，您可以感受到大自然的震撼与历史的厚重。白垩崖不仅是地质奇观，更是德国北海沿岸的标志性景观。无论您是摄影爱好者还是自然探索者，吕根岛都将为您带来难忘的体验。",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
