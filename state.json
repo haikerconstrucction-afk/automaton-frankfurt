@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 483.0614,
-  "spent_eur": 21.6087,
+  "balance_eur": 482.6564,
+  "spent_eur": 22.0137,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3267,119 +3267,81 @@
       "pay_url": "https://buy.stripe.com/dRm6oI07L65l2I63ko2kw28",
       "payment_link_id": "plink_1UMvViJ5iOXkWb9VpeoU96Ku",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8",
+      "slug": "dreamland-adventures-magical-bedtime-stories-for-kids",
+      "price_eur": 5,
+      "target": "Parents looking for engaging and imaginative bedtime stories for their children",
+      "reason": "This product caters to a specific niche of parents looking for bedtime stories for their children aged 3-8. The stories are imaginative and designed to be easy to read aloud, creating a relaxing bedtime routine. The eBook offers clear value with its enchanting tales and practical examples of adventure and kindness.",
+      "language": "en",
+      "pitch": "Help your child drift off to sleep with enchanting tales of adventure and wonder. Perfect for creating bedtime routines filled with magic and imagination.",
+      "content_html": "<h2>Contents</h2> <ol><li>The Starry Quest</li><li>The Moonlit Forest</li><li>The Friendly Dragon</li><li>The Secret Garden</li><li>The Wishing Well</li><li>The Ocean's Whisper</li><li>The Dreamcatcher's Journey</li></ol> <h2>Sample Story: The Starry Quest</h2> <p>Once upon a time, in the vast kingdom of the night sky, a little star named Twinkle decided to embark on a grand adventure. Twinkle had always wondered what it would be like to explore the far reaches of the galaxy...</p>",
+      "pro": false,
+      "created": "2026-10-04T23:13:49",
+      "file": "dreamland-adventures-magical-bedtime-stories-for-kids-ff3715a0aa41dc03.pdf",
+      "size": 1886,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken, Quellen oder Zitaten. Die Sprache ist korrekt und einheitlich. Es gibt keine unfertigen Texte, Platzhalter oder Wiederholungen. Der Inhalt vermeidet Rechts-, Steuer-, Finanz- oder Medizinberatung sowie Gesundheitsversprechen. Es werden keine f",
+      "pay_url": "https://buy.stripe.com/4gM28s7Ad1P54Qe6wA2kw29",
+      "payment_link_id": "plink_1UMyoNJ5iOXkWb9VaLZN94Mo",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Hochzeit-Budget-Tracker & Checklistenmanager 2026",
+      "slug": "hochzeit-budget-tracker-checklistenmanager-2026",
+      "price_eur": 9,
+      "target": "Paare, die ihre Hochzeit organisieren und Kosten im Blick behalten wollen",
+      "reason": "Diese Vorlage bietet Paaren eine professionelle Möglichkeit, ihre Hochzeit übersichtlich zu planen, Kosten zu tracken und Checklisten zu verwalten. Sie ist einfach zu bedienen und bietet einen klaren Überblick über alle wichtigen Aspekte der Hochzeitsplanung.",
+      "language": "de",
+      "pitch": "Planen Sie Ihre Hochzeit stressfrei mit dieser professionellen Excel-Vorlage, die Budgettracking, Checklisten-Management und einen Überblick über alle Kosten bietet.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage unterstützt Sie bei der Organisation Ihrer Hochzeit. Tracken Sie Ihr Budget, verwalten Sie Checklisten und behalten Sie alle Ausgaben im Blick. Die Vorlage bietet eine klare Struktur, um keine wichtigen Details zu vergessen.</p>",
+      "pro": true,
+      "created": "2026-10-04T23:13:49",
+      "file": "hochzeit-budget-tracker-checklistenmanager-2026-3b1aa413b637dfe7.xlsx",
+      "size": 15,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Anforderungen und enthält keine erfundenen Studien, Statistiken oder falschen Informationen. Es handelt sich um eine einfache Excel-Vorlage für Hochzeitsplanungen ohne Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/eVq6oIf2FalB3Ma7AE2kw2a",
+      "payment_link_id": "plink_1UMyoNJ5iOXkWb9V0sboLISd",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum",
+      "slug": "clever-sparen-im-haushalt",
+      "price_eur": 5,
+      "target": "Private Haushaltsfinanzen und Sparen",
+      "reason": "Dieses E-Book bietet praktische und leicht verständliche Strategien für das Sparen im Haushalt, die direkt anwendbar sind und den Preis klar rechtfertigen.",
+      "language": "de",
+      "pitch": "Lernen Sie praktische Strategien, um im Alltag Geld zu sparen und Ihre Haushaltsfinanzen besser zu managen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einführung: Warum Sparen im Haushalt wichtig ist</li><li>1. Spartipps für den Einkauf</li><li>2. Energiesparen zu Hause</li><li>3. Cleveres Budgetieren</li><li>4. Kosten senken im Haushalt</li><li>5. Geld sparen bei Freizeitaktivitäten</li><li>6. Langfristige Sparziele setzen</li><li>7. Fazit und nächste Schritte</li></ul><p>Leseprobe: In diesem E-Book erfahren Sie, wie Sie mit einfachen Strategien Ihren Haushalt effizienter gestalten und mehr Geld sparen können.</p>",
+      "pro": false,
+      "created": "2026-10-04T23:13:49",
+      "file": "clever-sparen-im-haushalt-ff0ddf5001f8bcc8.pdf",
+      "size": 1991,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Die Prozentzahl '80 %' beim Energieverbrauch von LED-Lampen ist erfunden, da keine allgemein bekannte Quelle dafür existiert. Der Rest des Inhalts ist jedoch im Rahmen der Regeln akzeptabel und bietet praktische Tipps ohne spezifische Studien oder Statistiken zu zitieren.",
+      "pay_url": "https://buy.stripe.com/4gM8wQdYB51hdmK08c2kw2b",
+      "payment_link_id": "plink_1UMyoOJ5iOXkWb9VtC84pMJj",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.0137688,
-      "why": "KI-Denken: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.0043092,
-      "why": "KI-Pruefung: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.007055999999999999,
-      "why": "KI-Denken: Ultimate Wedding Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.0011015999999999999,
-      "why": "KI-Pruefung: Ultimate Wedding Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.0070056,
-      "why": "KI-Denken: Wedding Vendor & Budget Comparison Tracker"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.0010811999999999998,
-      "why": "KI-Pruefung: Wedding Vendor & Budget Comparison Tracker"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.006662399999999999,
-      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-02T23:58:46",
-      "eur": -0.0038135999999999995,
-      "why": "Audit: Suivi de Budget et Planification de Chantier pour Artisans"
-    },
-    {
-      "t": "2026-10-02T23:58:46",
-      "eur": -0.0039467999999999994,
-      "why": "Audit: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-10-02T23:58:46",
-      "eur": -0.0027863999999999996,
-      "why": "Audit: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.0011807999999999999,
-      "why": "Blog-Artikel: Dresden Frauenkirche (en)"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.0010175999999999998,
-      "why": "Blog-Artikel: Harz Brocken (zh)"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.00033959999999999996,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Paws & Relax: Stress-Free Dog Care Tips for Busy Female Owners"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587456872"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: El Jardín Autosuficiente: 7 Pasos Clave para una Cosecha Abundante"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587451395"
-    },
     {
       "t": "2026-10-02T23:49:45",
       "eur": -0.19,
@@ -4269,6 +4231,116 @@
       "t": "2026-10-04T19:41:32",
       "eur": -0.00039,
       "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.011890800000000002,
+      "why": "KI-Denken: Bedtime Adventures: 6 Magical Stories to Spark Your Child's Imagination"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.0034008,
+      "why": "KI-Pruefung: Bedtime Adventures: 6 Magical Stories to Spark Your Child's Imagination"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1362 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.013895999999999999,
+      "why": "KI-Denken: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.0035663999999999995,
+      "why": "KI-Pruefung: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.16,
+      "why": "KI-Bilder: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.008415599999999999,
+      "why": "KI-Denken: Hochzeitsbudget-Tracker & Planer für Paare"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.0011736,
+      "why": "KI-Pruefung: Hochzeitsbudget-Tracker & Planer für Paare"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.008650799999999998,
+      "why": "KI-Denken: Hochzeit-Budget-Tracker & Checklistenmanager 2026"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.001296,
+      "why": "KI-Pruefung: Hochzeit-Budget-Tracker & Checklistenmanager 2026"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.015917999999999998,
+      "why": "KI-Denken: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.0042036,
+      "why": "KI-Pruefung: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.16,
+      "why": "KI-Bilder: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
+    },
+    {
+      "t": "2026-10-04T23:27:00",
+      "eur": -0.0033491999999999997,
+      "why": "Audit: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-10-04T23:27:00",
+      "eur": -0.0025164,
+      "why": "Audit: Hochzeit-Budget-Tracker & Checklistenmanager 2026"
+    },
+    {
+      "t": "2026-10-04T23:27:00",
+      "eur": -0.0038975999999999998,
+      "why": "Audit: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.0012216,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (de)"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.0011987999999999999,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (en)"
+    },
+    {
+      "t": "2026-10-04T23:13:49",
+      "eur": -0.0003744,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
     }
   ],
   "alive": true,
@@ -4850,6 +4922,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-10-04T19:41:32",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-mittelalterliches-maerchenstae",
+      "title": "Rothenburg ob der Tauber: Ein Märchenstädtchen im Herzen Deutschlands",
+      "lang": "de",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-04T23:13:49",
+      "img": true
+    },
+    {
+      "slug": "exploring-brandenburg-gate-berlin",
+      "title": "Exploring the Iconic Brandenburg Gate in Berlin",
+      "lang": "en",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-04T23:13:49",
+      "img": true
     }
   ],
   "videos": [
@@ -5161,6 +5249,16 @@
       "hashtags": "#Frankfurt #Skyline #VoyageEnAllemagne #CultureUrbaine #Découverte",
       "voice": "Bienvenue à Frankfurt, une ville qui allie élégance et dynamisme. Sa skyline époustouflante, dominée par des gratte-ciels impressionnants, est un symbole de puissance économique. Promenez-vous le long du Main, découvrez son riche patrimoine culturel et ressentez l’énergie unique de cette métropole. Frankfurt vous surprendra à chaque coin de rue !",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "exploring-brandenburg-gate-berlin",
+      "title": "Exploring the Iconic Brandenburg Gate in Berlin",
+      "lang": "en",
+      "created": "2026-10-04T23:13:49",
+      "hashtags": "#BrandenburgGate #Berlin #Germany #TravelEurope #HistoryAndCulture",
+      "voice": "Welcome to the Brandenburg Gate, Berlin’s most iconic landmark! Standing tall since 1791, this neoclassical masterpiece has witnessed centuries of history, from Napoleon to the Cold War. Symbolizing unity and freedom, it’s a beacon of hope and resilience. Surrounded by bustling Pariser Platz, it’s the perfect starting point to explore Berlin’s vibrant culture and rich heritage. Capture the spirit of Germany at this timeless treasure! 🎥✨",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
