@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 485.4569,
-  "spent_eur": 19.2132,
+  "balance_eur": 484.5125,
+  "spent_eur": 20.1576,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -1932,7 +1932,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Der Inhalt hält sich größtenteils an die Regeln und enthält keine erfundenen Statistiken, Prozentzahlen oder falschen Behauptungen. Der Hinweis '10%' ist zwar vorhanden, aber im Kontext des Trinkgeldes (5-10%) als allgemein bekannte Faustregel akzeptabel. Die Inhalte sind informativ, gut strukturier"
+      "audit_note": "Der Inhalt hält sich größtenteils an die Regeln und enthält keine erfundenen Statistiken, Prozentzahlen oder falschen Behauptungen. Der Hinweis '10%' ist zwar vorhanden, aber im Kontext des Trinkgeldes (5-10%) als allgemein bekannte Faustregel akzeptabel. Die Inhalte sind informativ, gut strukturier",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4588092594"
+      }
     },
     {
       "type": "excel",
@@ -1956,7 +1959,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Das Produkt erfüllt die grundlegenden Anforderungen und enthält keine offensichtlichen Verstöße gegen die Regeln. Es gibt keine erfundenen Studien, Statistiken oder falschen Angaben. Die Excel-Tabellen sind funktional und nachvollziehbar. Die Beispiel-Daten sind plausibel und dienen nur der Demonstr"
+      "audit_note": "Das Produkt erfüllt die grundlegenden Anforderungen und enthält keine offensichtlichen Verstöße gegen die Regeln. Es gibt keine erfundenen Studien, Statistiken oder falschen Angaben. Die Excel-Tabellen sind funktional und nachvollziehbar. Die Beispiel-Daten sind plausibel und dienen nur der Demonstr",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4588092610"
+      }
     },
     {
       "type": "ebook",
@@ -1980,7 +1986,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Keine erfundenen Studien, Statistiken oder unangemessene Behauptungen gefunden. Enthält allgemein bekannte Fakten und praktische Tipps für Reisende im Raum Dresden/Sachsen. Design und Struktur sind klar und übersichtlich."
+      "audit_note": "Keine erfundenen Studien, Statistiken oder unangemessene Behauptungen gefunden. Enthält allgemein bekannte Fakten und praktische Tipps für Reisende im Raum Dresden/Sachsen. Design und Struktur sind klar und übersichtlich.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4588092636"
+      }
     },
     {
       "type": "excel",
@@ -2964,109 +2973,81 @@
       "pay_url": "https://buy.stripe.com/cNi9AUbQt2T96Ym6wA2kw1X",
       "payment_link_id": "plink_1UMaRjJ5iOXkWb9VYBgjOxxN",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors",
+      "slug": "teaching-smart-time-saving-strategies",
+      "price_eur": 5,
+      "target": "Teachers and tutors looking to optimize their workflow",
+      "reason": "Teachers and tutors often juggle multiple responsibilities. This ebook provides actionable strategies to help them manage their time better and improve their teaching methods, making it a valuable purchase.",
+      "language": "en",
+      "pitch": "Discover practical tips to save time and enhance your teaching efficiency. Perfect for educators balancing work and family life.",
+      "content_html": "<h2>Contents</h2> ...",
+      "pro": false,
+      "created": "2026-10-04T00:42:42",
+      "file": "teaching-smart-time-saving-strategies-de9568836eff2291.pdf",
+      "size": 1682,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils ehrlich und praktisch, ohne erfundene Studien, Statistiken oder Prozentzahlen. Es gibt keine falsche oder gemischte Sprache, keine unfertigen Texte oder Platzhalter. Die Tipps sind allgemein bekannt und praktisch, ohne Rechts-, Steuer-, Finanz- oder Medizinberatung. Der H",
+      "pay_url": "https://buy.stripe.com/bJe3cw3jXgJZ1E2g7a2kw1Y",
+      "payment_link_id": "plink_1UMddgJ5iOXkWb9VOhbJiQuN",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen",
+      "slug": "pflegebeduerftigen-verwaltungs-tracker",
+      "price_eur": 9,
+      "target": "Senioren und Pflegeorganisationen",
+      "reason": "Diese Vorlage bietet eine effiziente Möglichkeit, alle Pflegedienstleistungen und Kosten für pflegebedürftige Angehörige zu verwalten und zu kontrollieren, was für Pflegeorganisationen und Angehörige gleichermaßen wertvoll ist.",
+      "language": "de",
+      "pitch": "Effiziente Verwaltung von Pflegedienstleistungen und Kosten für Angehörige und Organisationen. Alles auf einen Blick, einfach zu bedienen.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Ihnen, alle Pflegedienstleistungen, Kosten und Termine für pflegebedürftige Angehörige zu verwalten. Sie umfasst mehrere Blätter für Übersichten, Detailplanung und Budgetkontrolle.</p>",
+      "pro": true,
+      "created": "2026-10-04T00:42:42",
+      "file": "pflegebeduerftigen-verwaltungs-tracker-424f45425bba987e.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist klar strukturiert und frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Beispielrechnungen sind plausibel und eindeutig als solche gekennzeichnet. Es gibt keine Verstöße gegen die vorgegebenen Regeln.",
+      "pay_url": "https://buy.stripe.com/bJeaEY07L8dtbeCdZ22kw1Z",
+      "payment_link_id": "plink_1UMddgJ5iOXkWb9Vh48UBlPt",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv",
+      "slug": "7-power-tipps-fuer-selbststaendige-so-organisierst-du-deinen-arbeitstag-effektiv",
+      "price_eur": 5,
+      "target": "Selbstständige und Freelancer, die ihre tägliche Arbeitsorganisation verbessern möchten",
+      "reason": "Zeitmanagement ist ein Dauerthema für Selbstständige – dieses E-Book bietet konkrete, sofort umsetzbare Lösungen für den Arbeitsalltag ohne überladen zu wirken oder komplexe Systeme zu predigen. Der praktische Fokus und die klaren Schritte machen den Kaufpreis leicht wett.",
+      "language": "de",
+      "pitch": "Praktische Strategien für mehr Struktur und Produktivität im Arbeitsalltag. Lerne, wie du Prioritäten setzt, Ablenkungen minimierst und mehr schaffst – ohne Überstunden.",
+      "content_html": "<h2>Inhalt</h2><ol><li>Einleitung: Warum Tagesplanung für Selbstständige entscheidend ist</li><li>Kapitel 1: Die 3 wichtigsten Aufgaben des Tages identifizieren</li><li>Kapitel 2: Zeitblock-Strategie für konzentriertes Arbeiten</li><li>Kapitel 3: Digitale Tools für die tägliche Organisation</li><li>Kapitel 4: Pausen clever einplanen für mehr Energie</li><li>Kapitel 5: E-Mails und Kommunikation kanalisieren</li><li>Kapitel 6: Tagesrückblick – was gut lief und was du morgen besser machst</li><li>Checkliste: Dein perfekter Arbeitstag in 7 Schritten</li></ol>",
+      "pro": false,
+      "created": "2026-10-04T00:42:42",
+      "file": "7-power-tipps-fuer-selbststaendige-so-organisierst-du-deinen-arbeitstag-effektiv-c88d3c908f541543.pdf",
+      "size": 1534,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt hält sich an die Regeln: keine erfundenen Studien, Statistiken oder Quellen, keine Beratung, keine Marken/Figuren Dritter. Die Tipps sind allgemein bekannt und praktisch formuliert. Es gibt keine sachlichen Fehler oder Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/eVq7sM5s5bpFfuSaMQ2kw20",
+      "payment_link_id": "plink_1UMddhJ5iOXkWb9VFvNAwLr3",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.006332399999999999,
-      "why": "KI-Denken: Elderly Care Medication & Appointment Planner for Families"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.0011591999999999998,
-      "why": "KI-Pruefung: Elderly Care Medication & Appointment Planner for Families"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.006538799999999999,
-      "why": "KI-Denken: Senior Care Medication & Appointment Tracker"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.0011987999999999999,
-      "why": "KI-Pruefung: Senior Care Medication & Appointment Tracker"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.006371999999999999,
-      "why": "KI-Denken: Caregiver Expense Tracker & Budget Planner for Seniors"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.0012576,
-      "why": "KI-Pruefung: Caregiver Expense Tracker & Budget Planner for Seniors"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.012130799999999999,
-      "why": "KI-Denken: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.0034127999999999997,
-      "why": "KI-Pruefung: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
-    },
-    {
-      "t": "2026-10-02T00:01:04",
-      "eur": -0.0036647999999999993,
-      "why": "Audit: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner d"
-    },
-    {
-      "t": "2026-10-02T00:01:04",
-      "eur": -0.0015395999999999997,
-      "why": "Audit: Caregiver Expense Tracker & Budget Planner for Seniors"
-    },
-    {
-      "t": "2026-10-02T00:01:04",
-      "eur": -0.0032592,
-      "why": "Audit: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.0014315999999999999,
-      "why": "Blog-Artikel: Heidelberg Altstadt (es)"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.0010739999999999999,
-      "why": "Blog-Artikel: Neuschwanstein (fr)"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.0004116,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Discover Dresden & Saxony: A Female Traveler's Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-10-01T23:55:07",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4586773852"
-    },
     {
       "t": "2026-10-01T23:55:07",
       "eur": -0.19,
@@ -3966,6 +3947,111 @@
       "t": "2026-10-03T21:21:03",
       "eur": -0.00034559999999999994,
       "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.0113304,
+      "why": "KI-Denken: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.0033191999999999996,
+      "why": "KI-Pruefung: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.007798799999999999,
+      "why": "KI-Denken: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.0012275999999999997,
+      "why": "KI-Pruefung: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.013951199999999997,
+      "why": "KI-Denken: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.0041952,
+      "why": "KI-Pruefung: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
+    },
+    {
+      "t": "2026-10-04T00:50:28",
+      "eur": -0.0030948,
+      "why": "Audit: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
+    },
+    {
+      "t": "2026-10-04T00:50:28",
+      "eur": -0.0027048,
+      "why": "Audit: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
+    },
+    {
+      "t": "2026-10-04T00:50:28",
+      "eur": -0.0038183999999999996,
+      "why": "Audit: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.0010692,
+      "why": "Blog-Artikel: Bodensee (zh)"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.001488,
+      "why": "Blog-Artikel: Mosel Cochem (es)"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.0003744,
+      "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heidelberg"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588092594"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Road Trip Planner: Budget Tracker & Itinerary Organizer"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588092610"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
+    },
+    {
+      "t": "2026-10-04T00:42:42",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588092636"
     }
   ],
   "alive": true,
@@ -4483,6 +4569,22 @@
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-10-03T21:21:03",
       "img": true
+    },
+    {
+      "slug": "de-guo-bo-deng-hu-zi-ran-yu-wen-hua-de-wan-mei-rong-he",
+      "title": "德国博登湖：自然与文化的完美融合",
+      "lang": "zh",
+      "topic": "Bodensee",
+      "created": "2026-10-04T00:42:42",
+      "img": true
+    },
+    {
+      "slug": "descubriendo-el-encanto-de-cochem-en-el-valle-del-mosela",
+      "title": "Descubriendo el encanto de Cochem en el Valle del Mosela",
+      "lang": "es",
+      "topic": "Mosel Cochem",
+      "created": "2026-10-04T00:42:42",
+      "img": true
     }
   ],
   "videos": [
@@ -4754,6 +4856,16 @@
       "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #GermanyTravel #IndustrialHeritage",
       "voice": "Welcome to Zollverein in the Ruhr area - Germany's most spectacular industrial monument! This former coal mine is now a dazzling cultural center with museums, concerts and events. The unique Bauhaus architecture will amaze you as you explore the vast site. Named a UNESCO World Heritage Site, Zollverein proves how industrial spaces can transform into creative treasures. Ready for an unforgettable adventure?",
       "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubriendo-el-encanto-de-cochem-en-el-valle-del-mosela",
+      "title": "Descubriendo el encanto de Cochem en el Valle del Mosela",
+      "lang": "es",
+      "created": "2026-10-04T00:42:42",
+      "hashtags": "#MoselCochem #Alemania #Viajes #Vinos #Naturaleza",
+      "voice": "En el corazón de Alemania, Mosel Cochem te espera. Con su impresionante castillo medieval, viñedos que pintan el paisaje y el sereno río Mosela, este destino es pura magia. Descubre sus encantadoras calles, disfruta de vinos exquisitos y sumérgete en la naturaleza. ¡Una experiencia que no te puedes perder!",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
