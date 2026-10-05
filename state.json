@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 481.8703,
-  "spent_eur": 22.7998,
+  "balance_eur": 481.0808,
+  "spent_eur": 23.5893,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2175,7 +2175,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Die Excel-Vorlage erfüllt die Anforderungen: Keine erfundenen Studien oder Statistiken, keine Gesundheitsversprechen oder Marken Dritter. Funktionen und Beispieldaten sind plausibel, alle Berechnungen sind klar als Beispiel markiert."
+      "audit_note": "Die Excel-Vorlage erfüllt die Anforderungen: Keine erfundenen Studien oder Statistiken, keine Gesundheitsversprechen oder Marken Dritter. Funktionen und Beispieldaten sind plausibel, alle Berechnungen sind klar als Beispiel markiert.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4589014073"
+      }
     },
     {
       "type": "ebook",
@@ -2199,7 +2202,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Inhalt bietet praktische Tipps ohne erfundene Studien oder Statistiken, keine Regelverstöße erkennbar. Kleine sprachliche Unebenheiten, aber insgesamt nützliche und legitime Ratschläge."
+      "audit_note": "Inhalt bietet praktische Tipps ohne erfundene Studien oder Statistiken, keine Regelverstöße erkennbar. Kleine sprachliche Unebenheiten, aber insgesamt nützliche und legitime Ratschläge.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4589022000"
+      }
     },
     {
       "type": "excel",
@@ -2223,7 +2229,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Der Inhalt ist weitgehend korrekt und entspricht den Regeln. Es gibt keine erfundenen Statistiken oder Quellen. Die Beispielrechnungen sind klar markiert und plausibel. Die Sprache ist durchgängig Englisch und es gibt keine unfertigen Texte oder Platzhalter. Kleinere Kritikpunkte: Die Beispielbudget"
+      "audit_note": "Der Inhalt ist weitgehend korrekt und entspricht den Regeln. Es gibt keine erfundenen Statistiken oder Quellen. Die Beispielrechnungen sind klar markiert und plausibel. Die Sprache ist durchgängig Englisch und es gibt keine unfertigen Texte oder Platzhalter. Kleinere Kritikpunkte: Die Beispielbudget",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4589022020"
+      }
     },
     {
       "type": "ebook",
@@ -3420,149 +3429,33 @@
       "pay_url": "https://buy.stripe.com/eVqcN62fTbpF0zY08c2kw2e",
       "payment_link_id": "plink_1UN4n2J5iOXkWb9VTp1xopOg",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería",
+      "slug": "estrategias-para-pequenos-restaurantes-y-cafeterias",
+      "price_eur": 5,
+      "target": "Dueños y gerentes de pequeños restaurantes y cafeterías en España y Latinoamérica",
+      "reason": "Los pequeños restaurantes y cafeterías necesitan estrategias prácticas y económicas para competir. Este ebook ofrece soluciones reales que han funcionado para negocios similares, con ejemplos concretos y pasos sencillos de implementar.",
+      "language": "es",
+      "pitch": "Descubre técnicas simples pero efectivas para aumentar tu clientela sin gastar grandes sumas en publicidad. Métodos probados por otros dueños de negocios como el tuyo.",
+      "content_html": "<h2>Contenido</h2><ul><li>Capítulo 1: El poder del buen servicio al cliente</li><li>Capítulo 2: Cómo usar redes sociales para atraer clientes locales</li><li>Capítulo 3: Estrategias de precios inteligentes para maximizar ganancias</li><li>Capítulo 4: Creando experiencias memorables para tus clientes</li><li>Capítulo 5: Colaboraciones rentables con negocios cercanos</li><li>Capítulo 6: Fidelización de clientes sin grandes descuentos</li><li>Capítulo 7: Métricas simples para evaluar qué estrategias funcionan</li></ul>",
+      "pro": false,
+      "created": "2026-10-05T14:46:56",
+      "file": "estrategias-para-pequenos-restaurantes-y-cafeterias-c34eef64dcc1285b.pdf",
+      "size": 1566,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das E-Book enthält praktische Tipps und Strategien, die auf allgemeinem Wissen basieren. Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Die Sprache ist konsequent und der Inhalt ist abgeschlossen. Es gibt keine Hinweise auf Rechts-, Steuer-, Finanz- oder Medizinberatung",
+      "pay_url": "https://buy.stripe.com/4gM7sM6w9ctJ2I66wA2kw2f",
+      "payment_link_id": "plink_1UNDNzJ5iOXkWb9VYHwwp2mt",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.0071292,
-      "why": "KI-Denken: Exam Countdown & Study Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.0011856,
-      "why": "KI-Pruefung: Exam Countdown & Study Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.0066288,
-      "why": "KI-Denken: Exam Countdown Planner & Study Progress Tracker"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Exam Countdown Planner & Study Progress Tracker"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.013209599999999998,
-      "why": "KI-Denken: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers & Boost Your Cafe's Profits"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.0034392,
-      "why": "KI-Pruefung: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers & Boost Your Cafe's Profits"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers & Boost Your Cafe's Profits"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.007359599999999999,
-      "why": "KI-Denken: Planificador de Viajes de Negocios: Tracker de Gastos, Itinerario y Checklist de Equipaje"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.0013115999999999998,
-      "why": "KI-Pruefung: Planificador de Viajes de Negocios: Tracker de Gastos, Itinerario y Checklist de Equipaje"
-    },
-    {
-      "t": "2026-10-03T11:51:58",
-      "eur": -0.0020256,
-      "why": "Audit: Exam Countdown Planner & Study Progress Tracker"
-    },
-    {
-      "t": "2026-10-03T11:51:58",
-      "eur": -0.0032304,
-      "why": "Audit: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers &"
-    },
-    {
-      "t": "2026-10-03T11:51:58",
-      "eur": -0.0025236,
-      "why": "Audit: Planificador de Viajes de Negocios: Tracker de Gastos, Itinerario y Checklist de"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.0010463999999999998,
-      "why": "Blog-Artikel: Eifel Maare (de)"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.0010236,
-      "why": "Blog-Artikel: Rheingau Weinberge (en)"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.0003515999999999999,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: NRW Städtereise-Budget-Tracker & Planer"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587687335"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Bayerische Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587687369"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
-    },
-    {
-      "t": "2026-10-03T11:43:30",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587687391"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): 'choices'"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.0127644,
-      "why": "KI-Denken: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas Como Hombre"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.0039504,
-      "why": "KI-Pruefung: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas Como Hombre"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.16,
-      "why": "KI-Bilder: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas Como Hombre"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.0073356,
-      "why": "KI-Denken: 智能活动预算与志愿者管理追踪器"
-    },
     {
       "t": "2026-10-03T16:20:49",
       "eur": -0.0010884,
@@ -4427,6 +4320,146 @@
       "t": "2026-10-05T05:46:19",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588778080"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): 'choices'"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): 'choices'"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.014319599999999995,
+      "why": "KI-Denken: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.0040656,
+      "why": "KI-Pruefung: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.0085224,
+      "why": "KI-Denken: 智能旅行打包清单与预算跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.0010164,
+      "why": "KI-Pruefung: 智能旅行打包清单与预算跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.008171999999999999,
+      "why": "KI-Denken: 智能旅行预算与打包清单 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与打包清单 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.0081444,
+      "why": "KI-Denken: 智能旅行打包清单与预算追踪器"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行打包清单与预算追踪器"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.008227199999999999,
+      "why": "KI-Denken: 智能旅行预算与行李清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与行李清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-05T15:00:45",
+      "eur": -0.0037968,
+      "why": "Audit: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafet"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Audit: 1 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Blog-Fehler: 'choices'"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.0003491999999999999,
+      "why": "Video-Skript: Dresden Frauenkirche"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589014073"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Cafés"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589022000"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Travel Packing List & Budget Planner for Female Solo Travelers"
+    },
+    {
+      "t": "2026-10-05T14:46:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589022020"
     }
   ],
   "alive": true,
@@ -5371,6 +5404,16 @@
       "hashtags": "#HarzBrocken #AlemaniaNaturaleza #EuropaVerde #AventuraHarz #TrenDelBrocken",
       "voice": "¡Descubre el monte Brocken, joya de los montes Harz en Alemania! Con sus 1,141 metros, ofrece paisajes de cuento: bosques eternos, rocas místicas y un tren de vapor centenario. En invierno es un reino helado, en verano un mar verde. ¡Aventura pura sin salir de Europa! #HarzBrocken #NaturalezaAlemana",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "dresden-frauenkirche",
+      "title": "德累斯顿圣母教堂：巴洛克明珠的浴火重生",
+      "lang": "zh",
+      "created": "2026-10-05T14:46:56",
+      "hashtags": "#德累斯顿圣母教堂 #德国旅游 #历史建筑 #巴洛克艺术 #和平象征",
+      "voice": "德累斯顿圣母教堂，这座巴洛克建筑的杰作，见证了德国历史的变迁。二战中被毁，却在2005年奇迹般重建。砂岩外墙壮丽夺目，顶部金色十字架闪耀着和平之光。走进教堂，精美的装饰让人叹为观止。它不仅是建筑艺术的巅峰，更是人类希望的象征。让我们一起感受这份震撼心灵的力量！",
+      "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
