@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 482.6564,
-  "spent_eur": 22.0137,
+  "balance_eur": 481.8703,
+  "spent_eur": 22.7998,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2094,7 +2094,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Statistiken oder gesundheitsbezogenen Versprechen, keine Rechtsberatung, keine gemischte Sprache oder unfertigen Texte. Allgemeine Tipps zur Finanzverwaltung, klar als solche gekennzeichnet."
+      "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Statistiken oder gesundheitsbezogenen Versprechen, keine Rechtsberatung, keine gemischte Sprache oder unfertigen Texte. Allgemeine Tipps zur Finanzverwaltung, klar als solche gekennzeichnet.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4588778056"
+      }
     },
     {
       "type": "excel",
@@ -2118,7 +2121,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 8,
-      "audit_note": "Produkt erfüllt alle Regeln: Keine erfundenen Studien/Statistiken, keine Gesundheitsversprechen oder fremden Marken, klare Funktionsbeschreibung ohne Pauschalwerte. Tabellenformeln sind logisch nachvollziehbar (z.B. SUM/AVERAGE basierend auf Beispielwerten). Platzhalter wie IF-Formeln sind technisch"
+      "audit_note": "Produkt erfüllt alle Regeln: Keine erfundenen Studien/Statistiken, keine Gesundheitsversprechen oder fremden Marken, klare Funktionsbeschreibung ohne Pauschalwerte. Tabellenformeln sind logisch nachvollziehbar (z.B. SUM/AVERAGE basierend auf Beispielwerten). Platzhalter wie IF-Formeln sind technisch",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4588771521"
+      }
     },
     {
       "type": "ebook",
@@ -2142,7 +2148,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Inhalt gibt praktische Organisationstipps ohne falsche Statistiken oder Beratung. Keine Verstöße gegen die Regeln erkennbar. Sprache ist korrekt Englisch, ohne Platzhalter oder unfertige Texte."
+      "audit_note": "Inhalt gibt praktische Organisationstipps ohne falsche Statistiken oder Beratung. Keine Verstöße gegen die Regeln erkennbar. Sprache ist korrekt Englisch, ohne Platzhalter oder unfertige Texte.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4588778080"
+      }
     },
     {
       "type": "excel",
@@ -3339,124 +3348,81 @@
       "pay_url": "https://buy.stripe.com/4gM8wQdYB51hdmK08c2kw2b",
       "payment_link_id": "plink_1UMyoOJ5iOXkWb9VtC84pMJj",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Workout & Nutrition Planner for Female Fitness Coaches",
+      "slug": "smart-workout-nutrition-planner-female-fitness-coaches",
+      "price_eur": 9,
+      "target": "Female fitness coaches and trainers who want to optimize client workouts and nutrition plans",
+      "reason": "Female fitness coaches often juggle multiple clients with varying goals. This template simplifies progress tracking and ensures data-driven decisions, saving time and improving results.",
+      "language": "en",
+      "pitch": "Simplify client progress tracking with this all-in-one workout and nutrition planner, designed specifically for female fitness coaches to save time and boost results.",
+      "content_html": "<h2>Content</h2><p>Track client workouts, nutrition intake, and progress statistics in one streamlined Excel template. Includes macros for auto-calculation, progress visualization, and goal tracking.</p>",
+      "pro": true,
+      "created": "2026-10-05T05:46:19",
+      "file": "smart-workout-nutrition-planner-female-fitness-coaches-2239156ec0921102.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Texte sind vollständig und frei von Platzhaltern oder Wiederholungen. Alle Formeln und Tabellen sind plausibel und logisch aufgebaut. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung enthalten. Produkt beschränkt sich auf allgeme",
+      "pay_url": "https://buy.stripe.com/14AaEYf2F65lbeCaMQ2kw2c",
+      "payment_link_id": "plink_1UN4n1J5iOXkWb9VhaEs60Zl",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Properties Efficiently",
+      "slug": "small-landlord-simplified-7-stress-free-strategies",
+      "price_eur": 7,
+      "target": "Private landlords (especially women) managing 1-5 rental properties who want better organization without complex systems",
+      "reason": "With rising rental demand, more people are becoming small landlords but struggle with organization. Unlike complex property management guides, this offers simple, actionable systems tailored for those with just 1-5 units - particularly helpful for women balancing rentals with other responsibilities.",
+      "language": "en",
+      "pitch": "Stop drowning in paperwork and tenant requests. This practical guide gives you simple yet powerful systems to manage your rentals effortlessly while maintaining great tenant relationships.",
+      "content_html": "<h2>Contents</h2><ul><li>Quick-Start System for New Landlords</li><li>The 15-Minute Weekly Maintenance Routine</li><li>Paperless Document Organization That Actually Works</li><li>Tenant Communication Scripts That Save Time</li><li>Visual Checklists for Move-In/Move-Out</li><li>Emergency Preparedness Made Simple</li><li>Bonus: Printable Maintenance Tracker</li></ul>",
+      "pro": false,
+      "created": "2026-10-05T05:46:19",
+      "file": "small-landlord-simplified-7-stress-free-strategies-94bded66eae71a53.pdf",
+      "size": 1604,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Statistiken oder Prozentzahlen gefunden. Praxistipps sind allgemein gehalten und realistisch. Keine Rechts- oder Steuerberatung erkennbar. Gute, stressfreie Strategien für kleine Vermieter.",
+      "pay_url": "https://buy.stripe.com/aFa4gAaMp0L1beC8EI2kw2d",
+      "payment_link_id": "plink_1UN4n1J5iOXkWb9VNeLDTJ2J",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Estudios y Seguimiento de Progreso para Estudiantes",
+      "slug": "planificador-estudios-progreso-estudiantes",
+      "price_eur": 9,
+      "target": "Estudiantes universitarios y de preparatoria que necesitan organizar su tiempo y tareas para prepararse para exámenes.",
+      "reason": "Esta plantilla ayuda a los estudiantes a mantener un enfoque estructurado y organizado durante la preparación de exámenes, maximizando su tiempo y eficiencia.",
+      "language": "es",
+      "pitch": "Optimiza tu tiempo y mejora tu rendimiento académico con esta plantilla integral para la preparación de exámenes.",
+      "content_html": "<h2>Inhalt</h2><p>Esta plantilla de Excel te ayuda a planificar tus estudios, realizar un seguimiento de tu progreso y mantener todo organizado para maximizar tu eficiencia durante la preparación de exámenes.</p>",
+      "pro": true,
+      "created": "2026-10-05T05:46:19",
+      "file": "planificador-estudios-progreso-estudiantes-53fcd00b1e61fa77.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt erfüllt die Anforderungen. Keine erfundenen Studien, Statistiken oder falschen Behauptungen vorhanden. Es handelt sich um eine funktionale Excel-Vorlage ohne Rechts- oder Gesundheitsberatung. Die Beispielwerte sind klar als solche erkennbar und keine generellen Behauptungen aufgestellt. Spra",
+      "pay_url": "https://buy.stripe.com/eVqcN62fTbpF0zY08c2kw2e",
+      "payment_link_id": "plink_1UN4n2J5iOXkWb9VTp1xopOg",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 高效教学计划：教师与辅导员的实用指导"
-    },
-    {
-      "t": "2026-10-02T23:49:45",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587456904"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.011793600000000001,
-      "why": "KI-Denken: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Household Budget"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.0032987999999999997,
-      "why": "KI-Pruefung: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Household Budget"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.16,
-      "why": "KI-Bilder: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Household Budget"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.007177199999999999,
-      "why": "KI-Denken: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.0010835999999999999,
-      "why": "KI-Pruefung: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.014413199999999998,
-      "why": "KI-Denken: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.004085999999999999,
-      "why": "KI-Pruefung: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.16,
-      "why": "KI-Bilder: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
-    },
-    {
-      "t": "2026-10-03T05:30:22",
-      "eur": -0.0031115999999999995,
-      "why": "Audit: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Househ"
-    },
-    {
-      "t": "2026-10-03T05:30:22",
-      "eur": -0.003492,
-      "why": "Audit: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-03T05:30:22",
-      "eur": -0.003792,
-      "why": "Audit: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.0013368,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (es)"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.0015323999999999997,
-      "why": "Blog-Artikel: Muenchen Marienplatz (fr)"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.000396,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Soins et Suivi Médical pour Personnes Âgées"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587562722"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Guide Pratique pour Freelancer: Organisez, Gérez, Réussissez"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587558017"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Black Forest Travel Planner & Budget Tracker for Families"
-    },
-    {
-      "t": "2026-10-03T05:22:36",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4587562758"
-    },
     {
       "t": "2026-10-03T11:43:30",
       "eur": -0.0071292,
@@ -4341,6 +4307,126 @@
       "t": "2026-10-04T23:13:49",
       "eur": -0.0003744,
       "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.008336399999999999,
+      "why": "KI-Denken: Smart Workout & Nutrition Planner for Female Fitness Coaches"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.0010764,
+      "why": "KI-Pruefung: Smart Workout & Nutrition Planner for Female Fitness Coaches"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.013233599999999998,
+      "why": "KI-Denken: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Properties Efficiently"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.0034056,
+      "why": "KI-Pruefung: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Properties Efficiently"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.16,
+      "why": "KI-Bilder: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Properties Efficiently"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.008437199999999999,
+      "why": "KI-Denken: Planificador de Estudios y Calificaciones para Estudiantes"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Estudios y Calificaciones para Estudiantes"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.008469599999999999,
+      "why": "KI-Denken: Planificador de Estudios y Seguimiento de Progreso para Estudiantes"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.0010248,
+      "why": "KI-Pruefung: Planificador de Estudios y Seguimiento de Progreso para Estudiantes"
+    },
+    {
+      "t": "2026-10-05T05:50:03",
+      "eur": -0.0027779999999999997,
+      "why": "Audit: Smart Workout & Nutrition Planner for Female Fitness Coaches"
+    },
+    {
+      "t": "2026-10-05T05:50:03",
+      "eur": -0.0030756,
+      "why": "Audit: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Propert"
+    },
+    {
+      "t": "2026-10-05T05:50:03",
+      "eur": -0.0023783999999999997,
+      "why": "Audit: Planificador de Estudios y Seguimiento de Progreso para Estudiantes"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.0010907999999999998,
+      "why": "Blog-Artikel: Dresden Frauenkirche (zh)"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.0014483999999999999,
+      "why": "Blog-Artikel: Harz Brocken (es)"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.00038879999999999996,
+      "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588778056"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Family Fitness Planner & Progress Tracker"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588771521"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Small Landlord Success: Practical Organization & Management Tips for Owners of 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-10-05T05:46:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588778080"
     }
   ],
   "alive": true,
@@ -4938,6 +5024,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-10-04T23:13:49",
       "img": true
+    },
+    {
+      "slug": "dresden-frauenkirche",
+      "title": "德累斯顿圣母教堂：巴洛克明珠的浴火重生",
+      "lang": "zh",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-05T05:46:19",
+      "img": true
+    },
+    {
+      "slug": "explorando-el-magico-brocken-en-las-montanas-del-harz",
+      "title": "Explorando el Mágico Brocken en las Montañas del Harz",
+      "lang": "es",
+      "topic": "Harz Brocken",
+      "created": "2026-10-05T05:46:19",
+      "img": true
     }
   ],
   "videos": [
@@ -5259,6 +5361,16 @@
       "hashtags": "#BrandenburgGate #Berlin #Germany #TravelEurope #HistoryAndCulture",
       "voice": "Welcome to the Brandenburg Gate, Berlin’s most iconic landmark! Standing tall since 1791, this neoclassical masterpiece has witnessed centuries of history, from Napoleon to the Cold War. Symbolizing unity and freedom, it’s a beacon of hope and resilience. Surrounded by bustling Pariser Platz, it’s the perfect starting point to explore Berlin’s vibrant culture and rich heritage. Capture the spirit of Germany at this timeless treasure! 🎥✨",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "explorando-el-magico-brocken-en-las-montanas-del-harz",
+      "title": "Explorando el Mágico Brocken en las Montañas del Harz",
+      "lang": "es",
+      "created": "2026-10-05T05:46:19",
+      "hashtags": "#HarzBrocken #AlemaniaNaturaleza #EuropaVerde #AventuraHarz #TrenDelBrocken",
+      "voice": "¡Descubre el monte Brocken, joya de los montes Harz en Alemania! Con sus 1,141 metros, ofrece paisajes de cuento: bosques eternos, rocas místicas y un tren de vapor centenario. En invierno es un reino helado, en verano un mar verde. ¡Aventura pura sin salir de Europa! #HarzBrocken #NaturalezaAlemana",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
