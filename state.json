@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 481.0808,
-  "spent_eur": 23.5893,
+  "balance_eur": 481.0125,
+  "spent_eur": 23.6576,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3457,136 +3457,6 @@
   ],
   "log": [
     {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.0010884,
-      "why": "KI-Pruefung: 智能活动预算与志愿者管理追踪器"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.011543999999999999,
-      "why": "KI-Denken: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.0035519999999999996,
-      "why": "KI-Pruefung: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
-    },
-    {
-      "t": "2026-10-03T16:32:27",
-      "eur": -0.003588,
-      "why": "Audit: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas"
-    },
-    {
-      "t": "2026-10-03T16:32:27",
-      "eur": -0.0037991999999999995,
-      "why": "Audit: 智能活动预算与志愿者管理追踪器"
-    },
-    {
-      "t": "2026-10-03T16:32:27",
-      "eur": -0.0036276,
-      "why": "Audit: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.0014063999999999997,
-      "why": "Blog-Artikel: Schwarzwald (es)"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.0012216,
-      "why": "Blog-Artikel: Saarland Saarschleife (fr)"
-    },
-    {
-      "t": "2026-10-03T16:20:49",
-      "eur": -0.00042599999999999995,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.007215599999999999,
-      "why": "KI-Denken: Planificateur de Déménagement & Rénovation : Suivi de Budget et Planning"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation : Suivi de Budget et Planning"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.0072672,
-      "why": "KI-Denken: Planificateur de Déménagement et Rénovation : Suivi de Budget et Tâches"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Déménagement et Rénovation : Suivi de Budget et Tâches"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.007547999999999999,
-      "why": "KI-Denken: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier pour Travailleurs Autonomes"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.0011028,
-      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier pour Travailleurs Autonomes"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.012631199999999999,
-      "why": "KI-Denken: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.0041627999999999995,
-      "why": "KI-Pruefung: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.16,
-      "why": "KI-Bilder: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.007329599999999999,
-      "why": "KI-Denken: Professional YouTube Ad Revenue & Expense Tracker"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Professional YouTube Ad Revenue & Expense Tracker"
-    },
-    {
-      "t": "2026-10-03T21:26:06",
-      "eur": -0.0025643999999999997,
-      "why": "Audit: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier pour T"
-    },
-    {
-      "t": "2026-10-03T21:26:06",
-      "eur": -0.0037883999999999995,
-      "why": "Audit: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
-    },
-    {
       "t": "2026-10-03T21:26:06",
       "eur": -0.0024108,
       "why": "Audit: Professional YouTube Ad Revenue & Expense Tracker"
@@ -4460,6 +4330,131 @@
       "t": "2026-10-05T14:46:56",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589022020"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.008302799999999999,
+      "why": "KI-Denken: 智能旅行打包清单与预算跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行打包清单与预算跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.0084552,
+      "why": "KI-Denken: 智能旅行预算与行李清单跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与行李清单跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.0085068,
+      "why": "KI-Denken: 智能环球旅行预算追踪器 & 高效打包清单 (2026专业版)"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.0010103999999999998,
+      "why": "KI-Pruefung: 智能环球旅行预算追踪器 & 高效打包清单 (2026专业版)"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.008281199999999999,
+      "why": "KI-Denken: 智能旅行预算追踪与打包清单"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算追踪与打包清单"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.008293199999999999,
+      "why": "KI-Denken: 智能旅行打包清单与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行打包清单与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.008361599999999999,
+      "why": "KI-Denken: 智能旅行预算与行李清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与行李清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 9 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.008348399999999999,
+      "why": "KI-Denken: 智能旅行预算与行李打包清单 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与行李打包清单 - 2026专业版"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.0011639999999999999,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (fr)"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.0010631999999999998,
+      "why": "Blog-Artikel: Muenchen Marienplatz (de)"
+    },
+    {
+      "t": "2026-10-05T22:41:23",
+      "eur": -0.00041519999999999995,
+      "why": "Video-Skript: Muenchen Marienplatz"
     }
   ],
   "alive": true,
@@ -5073,6 +5068,22 @@
       "topic": "Harz Brocken",
       "created": "2026-10-05T05:46:19",
       "img": true
+    },
+    {
+      "slug": "wattenmeer-mer-du-nord-allemagne",
+      "title": "Découvrez la magie du Wattenmeer de la mer du Nord en Allemagne",
+      "lang": "fr",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-05T22:41:23",
+      "img": true
+    },
+    {
+      "slug": "muenchen-marienplatz-herz-der-altstadt",
+      "title": "München Marienplatz: Herz der Altstadt & perfekter Startpunkt",
+      "lang": "de",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-05T22:41:23",
+      "img": true
     }
   ],
   "videos": [
@@ -5414,6 +5425,16 @@
       "hashtags": "#德累斯顿圣母教堂 #德国旅游 #历史建筑 #巴洛克艺术 #和平象征",
       "voice": "德累斯顿圣母教堂，这座巴洛克建筑的杰作，见证了德国历史的变迁。二战中被毁，却在2005年奇迹般重建。砂岩外墙壮丽夺目，顶部金色十字架闪耀着和平之光。走进教堂，精美的装饰让人叹为观止。它不仅是建筑艺术的巅峰，更是人类希望的象征。让我们一起感受这份震撼心灵的力量！",
       "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "muenchen-marienplatz-herz-der-altstadt",
+      "title": "München Marienplatz: Herz der Altstadt & perfekter Startpunkt",
+      "lang": "de",
+      "created": "2026-10-05T22:41:23",
+      "hashtags": "#Marienplatz #München #Bayern #Rathaus #Glockenspiel #Reiseparadies",
+      "voice": "Der pulsierende Marienplatz - wo Münchens Herz schlägt! Seit über 850 Jahren Treffpunkt für Einheimische und Besucher. Bestaunt das prächtige Rathaus mit seinem berühmten Glockenspiel, das täglich verzaubert. Rundum locken edle Boutiquen, traditionelle Brauhäuser und der Duft frischer Brezen. Einfach magisch - das Flair historischer Gemäulichkeit mit urbanem Lifestyle!",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
