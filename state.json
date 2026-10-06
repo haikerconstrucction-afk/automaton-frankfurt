@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 479.2412,
-  "spent_eur": 25.4289,
+  "balance_eur": 479.0058,
+  "spent_eur": 25.6643,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3612,124 +3612,81 @@
       "pay_url": "https://buy.stripe.com/3cIfZi4o18dtaay4os2kw2k",
       "payment_link_id": "plink_1UNaJVJ5iOXkWb9VSFJXo8GW",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube-Kanal-Analyse und Content-Planer für Creator",
+      "slug": "youtube-kanal-analyse-und-content-planer",
+      "price_eur": 9,
+      "target": "Content Creator und YouTuber",
+      "reason": "Diese Vorlage bietet Content Creators und YouTubern eine umfassende Möglichkeit, ihre Videoinhalte zu planen und ihre Kanalperformance zu analysieren, um bessere Entscheidungen zu treffen und ihre Reichweite zu maximieren.",
+      "language": "de",
+      "pitch": "Planen Sie Ihre YouTube-Inhalte effizient und analysieren Sie Ihre Kanalperformance mit dieser professionellen Excel-Vorlage.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Vorlage hilft Ihnen dabei, Ihre YouTube-Inhalte zu planen, Ihre Kanalperformance zu analysieren und wichtige KPIs zu verfolgen.</p>",
+      "pro": true,
+      "created": "2026-10-06T21:01:31",
+      "file": "youtube-kanal-analyse-und-content-planer-3fb984168b07e1c2.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist korrekt und entspricht den Regeln. Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Die Beispieldaten sind plausibel und klar als Beispiel gekennzeichnet. Es gibt keine Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/7sYeVe1bP51hbeCg7a2kw2l",
+      "payment_link_id": "plink_1UNfeAJ5iOXkWb9V03N9BlXI",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse",
+      "slug": "effektive-unterrichtsplanung-fuer-lehrer-und-nachhilfelehrer",
+      "price_eur": 5,
+      "target": "Lehrer und Nachhilfelehrer",
+      "reason": "Lehrer und Nachhilfelehrer stehen oft vor der Herausforderung, ihre Zeit effizient zu nutzen und qualitativ hochwertigen Unterricht zu gestalten. Dieses E-Book bietet konkrete Strategien und praktische Beispiele, um diese Herausforderungen zu meistern.",
+      "language": "de",
+      "pitch": "Erhalten Sie praktische Tipps und Strategien, um Ihre Unterrichtsplanung effizienter zu gestalten und mehr Zeit für Ihre Schüler zu gewinnen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Einführung in die effektive Unterrichtsplanung</li><li>Kapitel 2: Zeitmanagement im Unterricht</li><li>Kapitel 3: Erstellung von Lehrplänen</li><li>Kapitel 4: Nutzung von Technologie im Unterricht</li><li>Kapitel 5: Bewertung und Feedback</li><li>Kapitel 6: Praktische Beispiele und Fallstudien</li></ul>",
+      "pro": false,
+      "created": "2026-10-06T21:01:31",
+      "file": "effektive-unterrichtsplanung-fuer-lehrer-und-nachhilfelehrer-d12a3ef92a475a58.pdf",
+      "size": 1520,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Text ist sachlich korrekt, bietet praktische Tipps und enthält keine Regelverstöße. Der Inhalt ist klar strukturiert und hilfreich für Lehrer und Nachhilfelehrer.",
+      "pay_url": "https://buy.stripe.com/9B66oIf2FfFV96u8EI2kw2m",
+      "payment_link_id": "plink_1UNfeBJ5iOXkWb9VgSC5lWQP",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Caregiver Expense Tracker & Budget Planner for Seniors",
+      "slug": "caregiver-expense-tracker-budget-planner-seniors",
+      "price_eur": 9,
+      "target": "Seniors and Care Organizations",
+      "reason": "This template simplifies caregiving expense management, ensuring seniors and caregivers stay organized and financially prepared.",
+      "language": "en",
+      "pitch": "Effortlessly manage caregiving expenses with our professional Excel tracker, designed for seniors and caregivers to stay organized and on budget.",
+      "content_html": "<h2>Content</h2><p>Track expenses, plan budgets, and monitor caregiving costs with ease using this Excel template. Perfect for seniors, caregivers, and care organizations.</p>",
+      "pro": true,
+      "created": "2026-10-06T21:01:31",
+      "file": "caregiver-expense-tracker-budget-planner-seniors-b6fb06cf8ce814a6.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen nachgewiesen. Der Inhalt ist klar, sachlich und erfüllt die Regeln. Die Beispielrechnungen sind plausibel und korrekt.",
+      "pay_url": "https://buy.stripe.com/dRm28s8EhbpFgyWaMQ2kw2n",
+      "payment_link_id": "plink_1UNfeCJ5iOXkWb9VcCpZQU8r",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.0043235999999999995,
-      "why": "KI-Pruefung: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.16,
-      "why": "KI-Bilder: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.0074496,
-      "why": "KI-Denken: 智能东海岸与北海旅游预算追踪与路线规划器"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能东海岸与北海旅游预算追踪与路线规划器"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.007730399999999999,
-      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.011941199999999999,
-      "why": "KI-Denken: 莱茵河畔的探索：法兰克福与海德堡的非二元性别旅行指南"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.0034763999999999993,
-      "why": "KI-Pruefung: 莱茵河畔的探索：法兰克福与海德堡的非二元性别旅行指南"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1483 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.0133848,
-      "why": "KI-Denken: 智能德国莱茵河与海德堡旅行指南：实用路线规划与预算建议"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.0043584,
-      "why": "KI-Pruefung: 智能德国莱茵河与海德堡旅行指南：实用路线规划与预算建议"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能德国莱茵河与海德堡旅行指南：实用路线规划与预算建议"
-    },
-    {
-      "t": "2026-10-04T15:32:47",
-      "eur": -0.003925199999999999,
-      "why": "Audit: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-04T15:32:47",
-      "eur": -0.0027599999999999994,
-      "why": "Audit: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-04T15:32:47",
-      "eur": -0.0044399999999999995,
-      "why": "Audit: 智能德国莱茵河与海德堡旅行指南：实用路线规划与预算建议"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.0010044,
-      "why": "Blog-Artikel: Saechsische Schweiz (en)"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.0012107999999999997,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (zh)"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.00038159999999999995,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.008185199999999998,
-      "why": "KI-Denken: Planificateur de Voyage à Berlin et Potsdam : Budget Tracker & Itinéraire"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0011531999999999998,
-      "why": "KI-Pruefung: Planificateur de Voyage à Berlin et Potsdam : Budget Tracker & Itinéraire"
-    },
     {
       "t": "2026-10-04T19:41:32",
       "eur": 0,
@@ -4619,6 +4576,116 @@
       "t": "2026-10-06T15:15:09",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589760247"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.0091884,
+      "why": "KI-Denken: YouTube Content ROI & Performance Tracker für Creator"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.0012755999999999998,
+      "why": "KI-Pruefung: YouTube Content ROI & Performance Tracker für Creator"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.008758799999999999,
+      "why": "KI-Denken: YouTube-Kanal-Analyse und Content-Planer für Creator"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube-Kanal-Analyse und Content-Planer für Creator"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.0144456,
+      "why": "KI-Denken: Effektive Unterrichtsgestaltung: Praktische Tipps für Lehrer und Nachhilfelehrer"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.003993599999999999,
+      "why": "KI-Pruefung: Effektive Unterrichtsgestaltung: Praktische Tipps für Lehrer und Nachhilfelehrer"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1493 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.0141936,
+      "why": "KI-Denken: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.0039672,
+      "why": "KI-Pruefung: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.16,
+      "why": "KI-Bilder: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.0086568,
+      "why": "KI-Denken: Caregiver Expense Tracker & Budget Planner for Seniors"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Caregiver Expense Tracker & Budget Planner for Seniors"
+    },
+    {
+      "t": "2026-10-06T21:11:09",
+      "eur": -0.0014567999999999998,
+      "why": "Audit: YouTube-Kanal-Analyse und Content-Planer für Creator"
+    },
+    {
+      "t": "2026-10-06T21:11:09",
+      "eur": -0.0037175999999999997,
+      "why": "Audit: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategi"
+    },
+    {
+      "t": "2026-10-06T21:11:09",
+      "eur": -0.0013524,
+      "why": "Audit: Caregiver Expense Tracker & Budget Planner for Seniors"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.0008483999999999999,
+      "why": "Blog-Artikel: Koeln Dom (en)"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.0011279999999999999,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (zh)"
+    },
+    {
+      "t": "2026-10-06T21:01:31",
+      "eur": -0.00033,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
     }
   ],
   "alive": true,
@@ -5280,6 +5347,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-10-06T15:15:09",
       "img": true
+    },
+    {
+      "slug": "exploring-cologne-cathedral-a-must-visit-landmark-in-germany",
+      "title": "Exploring Cologne Cathedral: A Must-Visit Landmark in Germany",
+      "lang": "en",
+      "topic": "Koeln Dom",
+      "created": "2026-10-06T21:01:31",
+      "img": true
+    },
+    {
+      "slug": "explore-ruhrgebiet-zollverein-germany",
+      "title": "探索德国鲁尔区Zollverein：工业遗产与文化魅力",
+      "lang": "zh",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-06T21:01:31",
+      "img": true
     }
   ],
   "videos": [
@@ -5631,6 +5714,16 @@
       "hashtags": "#Marienplatz #München #Bayern #Rathaus #Glockenspiel #Reiseparadies",
       "voice": "Der pulsierende Marienplatz - wo Münchens Herz schlägt! Seit über 850 Jahren Treffpunkt für Einheimische und Besucher. Bestaunt das prächtige Rathaus mit seinem berühmten Glockenspiel, das täglich verzaubert. Rundum locken edle Boutiquen, traditionelle Brauhäuser und der Duft frischer Brezen. Einfach magisch - das Flair historischer Gemäulichkeit mit urbanem Lifestyle!",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "explore-ruhrgebiet-zollverein-germany",
+      "title": "探索德国鲁尔区Zollverein：工业遗产与文化魅力",
+      "lang": "zh",
+      "created": "2026-10-06T21:01:31",
+      "hashtags": "#鲁尔区 #祖尔菲兰 #德国文化 #世界遗产 #绿色旅游",
+      "voice": "来到德国鲁尔区的祖尔菲兰，感受工业遗产与文化的独特魅力！这里不仅是世界文化遗产，更是艺术与创新的交汇点。漫步在历史悠久的煤矿遗址，体验从工业巨人到绿色转型的奇迹。祖尔菲兰，一个让你领略过去与未来的奇妙之地！#鲁尔区 #祖尔菲兰 #德国文化",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
