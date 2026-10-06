@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 480.2098,
-  "spent_eur": 24.4603,
+  "balance_eur": 479.2412,
+  "spent_eur": 25.4289,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2337,7 +2337,10 @@
       "audit_note": "Der Inhalt ist klar, sachlich und ohne erfundene Studien oder Statistiken. Die Beispieldaten sind plausibel und die Anweisungen sind verständlich. Es gibt keine Verstöße gegen die Regeln, jedoch könnte die Benutzerführung durch zusätzliche Erklärungen oder Hinweise verbessert werden.",
       "pay_url": "https://buy.stripe.com/28E9AU4o1ctJaay3ko2kw1w",
       "payment_link_id": "plink_1ULpvPJ5iOXkWb9VsBQpW9vX",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4589760197"
+      }
     },
     {
       "type": "ebook",
@@ -2361,7 +2364,10 @@
       "audit_note": "Der Inhalt ist weitgehend regelkonform und bietet praktische Tipps ohne erfundene Zahlen oder Quellen. Einige Aussagen könnten klarer als Faustregeln oder Beispiele gekennzeichnet werden, aber es gibt keine schwerwiegenden Verstöße.",
       "pay_url": "https://buy.stripe.com/9B66oI8Eh51h82q2gk2kw1x",
       "payment_link_id": "plink_1ULpvQJ5iOXkWb9VKicT7U0D",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4589760219"
+      }
     },
     {
       "type": "excel",
@@ -2385,7 +2391,10 @@
       "audit_note": "Keine offensichtlichen Regelverstöße gefunden. Der Inhalt ist durchgängig in Französisch, enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Excel-Funktionen sind plausibel und die Beispiel-Daten sind klar als solche gekennzeichnet. Verbesserungspotenzial besteht in der Ü",
       "pay_url": "https://buy.stripe.com/bJeaEY5s51P50zYf362kw1y",
       "payment_link_id": "plink_1ULpvRJ5iOXkWb9VldIfrFPQ",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4589760247"
+      }
     },
     {
       "type": "ebook",
@@ -3531,139 +3540,81 @@
       "audit_v": 3,
       "audit_score": 9,
       "audit_note": "Der Inhalt ist klar, sachlich und erfüllt alle Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder Regelverstöße. Die Beispielrechnungen sind plausibel und klar gekennzeichnet."
+    },
+    {
+      "type": "ebook",
+      "title": "Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quotidien Harmonieux",
+      "slug": "guide-pratique-pour-maitres-de-chiens-occupes",
+      "price_eur": 5,
+      "target": "Hundebesitzer in Frankreich, Belgien und Kanada, die ihren Alltag mit Hund stressfrei gestalten möchten",
+      "reason": "Ce guide comble un manque dans le marché francophone en proposant des solutions réellement adaptées aux contraintes des propriétaires actifs. La demande pour des conseils pratiques en matière d'éducation et de soins canins est forte, comme en témoigne l'engouement pour les blogs spécialisés. À 5€, ce petit guide offre un excellent rapport qualité-prix avec des conseils immédiatement applicables.",
+      "language": "fr",
+      "pitch": "Découvrez 7 méthodes éprouvées pour concilier vie active et bien-être canin. Des solutions pratiques pour les maîtres pressés qui veulent le meilleur pour leur compagnon à quatre pattes.",
+      "content_html": "<h2>Contenu</h2><ul><li>Chapitre 1: Organiser son espace pour un chien heureux</li><li>Chapitre 2: Ritualiser les sorties et jeux malgré un emploi du temps chargé</li><li>Chapitre 3: Alimentation pratique sans compromis sur la qualité</li><li>Chapitre 4: Soins quotidiens express pour une santé optimale</li><li>Chapitre 5: Gérer les absences et la solitude de son chien</li><li>Chapitre 6: Voyager et se déplacer facilement avec son chien</li><li>Chapitre 7: Créer un lien solide même quand on manque de temps</li></ul>",
+      "pro": false,
+      "created": "2026-10-06T15:15:09",
+      "file": "guide-pratique-pour-maitres-de-chiens-occupes-a2c89aee95a6dc2f.pdf",
+      "size": 1833,
+      "sales": 0,
+      "score": 9,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist praktisch und allgemein gehalten, enthält keine erfundenen Studien oder Zahlen. Sprache ist konsequent Französisch, keine Regelverstöße erkennbar.",
+      "pay_url": "https://buy.stripe.com/3cI8wQ07L51h1E208c2kw2i",
+      "payment_link_id": "plink_1UNaJTJ5iOXkWb9V8l4QWP1z",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Moving & Renovation Budget Tracker for Families",
+      "slug": "ultimate-moving-renovation-budget-tracker-families",
+      "price_eur": 12,
+      "target": "Families planning a move or home renovation who need to track multiple expense categories efficiently",
+      "reason": "Most families struggle to track moving and renovation expenses across multiple categories while staying on budget. This template provides professional-grade organization with automatic calculations and visual oversight.",
+      "language": "en",
+      "pitch": "The all-in-one solution to manage your moving and renovation finances like a pro, with automatic calculations and clear visual overviews of your spending.",
+      "content_html": "<h2>Content</h2><p>Track every aspect of your moving and renovation costs in one place - from packing materials to contractor invoices. Includes automatic budget calculations, expense categorization, and progress tracking.</p>",
+      "pro": true,
+      "created": "2026-10-06T15:15:09",
+      "file": "ultimate-moving-renovation-budget-tracker-families-c06e3caf17e3c7e0.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist insgesamt korrekt und hält sich an die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert. Die Excel-Tabellen sind sinnvoll und enthalten keine Fehler. Die Sprache ist konsistent und es gibt keine unvollständi",
+      "pay_url": "https://buy.stripe.com/fZu00kf2FctJeqOcUY2kw2j",
+      "payment_link_id": "plink_1UNaJUJ5iOXkWb9VwCLBSHfo",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden",
+      "slug": "green-thumb-guide-gardening-tips",
+      "price_eur": 5,
+      "target": "Families interested in gardening and self-sufficiency",
+      "reason": "This ebook provides practical, easy-to-follow advice for families interested in gardening and self-sufficiency. It’s packed with actionable tips to help beginners grow a successful garden.",
+      "language": "en",
+      "pitch": "Discover how to grow a thriving organic garden in your backyard with easy-to-follow steps. Perfect for beginners and families looking to embrace self-sufficiency.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introduction: Why Start Your Own Garden?</li><li>Chapter 1: Choosing the Right Spot for Your Garden</li><li>Chapter 2: Preparing the Soil for Success</li><li>Chapter 3: Selecting the Best Plants for Your Climate</li><li>Chapter 4: Watering and Fertilizing Techniques</li><li>Chapter 5: Managing Pests Naturally</li><li>Chapter 6: Harvesting and Storing Your Produce</li><li>Bonus Chapter: Fun Gardening Projects for Kids</li></ul><p>Read a sample chapter below.</p>",
+      "pro": false,
+      "created": "2026-10-06T15:15:09",
+      "file": "green-thumb-guide-gardening-tips-4ce6513ef23c8866.pdf",
+      "size": 1788,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Statistiken, Zahlen oder Quellen, keine Gesundheitsversprechen, keine Finanz- oder Rechtsberatung, keine fremden Marken/Figuren oder Formeln. Der Text ist vollständig, klar und bietet praktische Tipps für den Gartenbau.",
+      "pay_url": "https://buy.stripe.com/3cIfZi4o18dtaay4os2kw2k",
+      "payment_link_id": "plink_1UNaJVJ5iOXkWb9VSFJXo8GW",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget & Itinerary Planner for Female Explorers"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.007724399999999999,
-      "why": "KI-Denken: Ultimate Black Forest Travel Expense Tracker"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.0010968,
-      "why": "KI-Pruefung: Ultimate Black Forest Travel Expense Tracker"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.0075972,
-      "why": "KI-Denken: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.0010259999999999998,
-      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.012831599999999999,
-      "why": "KI-Denken: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.0035675999999999993,
-      "why": "KI-Pruefung: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.16,
-      "why": "KI-Bilder: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.007884,
-      "why": "KI-Denken: Planificador de Viajes para NRW: Presupuesto y Ruta de Explora"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.0010236,
-      "why": "KI-Pruefung: Planificador de Viajes para NRW: Presupuesto y Ruta de Explora"
-    },
-    {
-      "t": "2026-10-04T08:34:23",
-      "eur": -0.0023832,
-      "why": "Audit: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travele"
-    },
-    {
-      "t": "2026-10-04T08:34:23",
-      "eur": -0.0032735999999999998,
-      "why": "Audit: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Loc"
-    },
-    {
-      "t": "2026-10-04T08:34:23",
-      "eur": -0.0024228,
-      "why": "Audit: Planificador de Viajes para NRW: Presupuesto y Ruta de Explora"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.0013583999999999998,
-      "why": "Blog-Artikel: Heidelberg Altstadt (fr)"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.0010103999999999998,
-      "why": "Blog-Artikel: Neuschwanstein (de)"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.00037559999999999997,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能报价计算器与施工现场管理表 - 2026专业版"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588215997"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 星空下的奇妙冒险：7个温馨的晚安故事"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588216019"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Budget de Mariage & Suivi des Dépenses - Modèle Professionnel 2026"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588221342"
-    },
-    {
-      "t": "2026-10-04T15:24:34",
-      "eur": -0.0140436,
-      "why": "KI-Denken: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
-    },
     {
       "t": "2026-10-04T15:24:34",
       "eur": -0.0043235999999999995,
@@ -4538,6 +4489,136 @@
       "t": "2026-10-06T06:26:17",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589495200"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.014255999999999996,
+      "why": "KI-Denken: Mon Chien Heureux: 7 Astuces Simples pour une Vie Équilibrée avec votre Compagnon Canin"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.0042756,
+      "why": "KI-Pruefung: Mon Chien Heureux: 7 Astuces Simples pour une Vie Équilibrée avec votre Compagnon Canin"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1406 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.0161004,
+      "why": "KI-Denken: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quotidien Harmonieux"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.0042612,
+      "why": "KI-Pruefung: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quotidien Harmonieux"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quotidien Harmonieux"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.0087312,
+      "why": "KI-Denken: Ultimate Moving & Renovation Budget Tracker for Families"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.0011279999999999999,
+      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Tracker for Families"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.0134148,
+      "why": "KI-Denken: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.0034955999999999993,
+      "why": "KI-Pruefung: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
+    },
+    {
+      "t": "2026-10-06T15:29:29",
+      "eur": -0.0038387999999999994,
+      "why": "Audit: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quot"
+    },
+    {
+      "t": "2026-10-06T15:29:29",
+      "eur": -0.0024647999999999996,
+      "why": "Audit: Ultimate Moving & Renovation Budget Tracker for Families"
+    },
+    {
+      "t": "2026-10-06T15:29:29",
+      "eur": -0.0032556,
+      "why": "Audit: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.0017795999999999999,
+      "why": "Blog-Artikel: Schwarzwald (fr)"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.0014807999999999998,
+      "why": "Blog-Artikel: Saarland Saarschleife (de)"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589760197"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能园艺与自给自足：简单步骤实现全年丰收"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589760219"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Contenu & Suivi des Performances YouTube"
+    },
+    {
+      "t": "2026-10-06T15:15:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589760247"
     }
   ],
   "alive": true,
@@ -5182,6 +5263,22 @@
       "lang": "zh",
       "topic": "Rheingau Weinberge",
       "created": "2026-10-06T06:26:17",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-la-magie-de-la-foret-noire",
+      "title": "Découvrez la Magie de la Forêt-Noire",
+      "lang": "fr",
+      "topic": "Schwarzwald",
+      "created": "2026-10-06T15:15:09",
+      "img": true
+    },
+    {
+      "slug": "saarland-saarschleife-deutschlands-malerische-flussschleife-",
+      "title": "Saarland Saarschleife: Deutschlands malerische Flussschleife entdecken",
+      "lang": "de",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-06T15:15:09",
       "img": true
     }
   ],
