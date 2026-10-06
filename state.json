@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 481.0125,
-  "spent_eur": 23.6576,
+  "balance_eur": 480.2098,
+  "spent_eur": 24.4603,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2256,7 +2256,10 @@
       "audit_note": "Keine klaren Regelverstöße festgestellt. Der Text enthält keine erfundenen Statistiken, Prozentzahlen oder Quellen. Alle Angaben sind allgemein bekannt oder als Praxistipps klar erkennbar. Die Sprache ist einheitlich Englisch und der Text ist vollständig.",
       "pay_url": "https://buy.stripe.com/00wcN63jXfFVciG08c2kw1t",
       "payment_link_id": "plink_1ULTHdJ5iOXkWb9Vtf02g6YX",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4589485403"
+      }
     },
     {
       "type": "excel",
@@ -2280,7 +2283,10 @@
       "audit_note": "Der Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es werden keine Gesundheitsversprechen oder Finanzberatungen gegeben. Die Sprache ist durchgängig Spanisch, es gibt keine Platzhalter oder unfertigen Texte. Die Berechnungen und Formeln sind plausib",
       "pay_url": "https://buy.stripe.com/7sYdRacUx1P51E26wA2kw1u",
       "payment_link_id": "plink_1ULdAoJ5iOXkWb9VzSxkQpLs",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4589485425"
+      }
     },
     {
       "type": "ebook",
@@ -2304,7 +2310,10 @@
       "audit_note": "Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen, keine Gesundheitsversprechen oder Rechtsberatung, allgemein bekannte Praxistipps. Kleine Verbesserungen möglich, aber kein Regelverstoß.",
       "pay_url": "https://buy.stripe.com/7sY5kEf2F79p5Ui6wA2kw1v",
       "payment_link_id": "plink_1ULdApJ5iOXkWb9V8ZmPSk3i",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4589495200"
+      }
     },
     {
       "type": "excel",
@@ -3453,144 +3462,78 @@
       "pay_url": "https://buy.stripe.com/4gM7sM6w9ctJ2I66wA2kw2f",
       "payment_link_id": "plink_1UNDNzJ5iOXkWb9VYHwwp2mt",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能旅行预算与打包清单追踪器 - 2026专业版",
+      "slug": "travel-budget-packing-list-tracker-2026",
+      "price_eur": 9,
+      "target": "常用于旅行规划的个人和企业，尤其是那些需要精确预算和打包清单的人",
+      "reason": "这款Excel模板结合了预算管理和打包清单的功能，为用户提供了一站式的旅行规划解决方案。其专业的设计和实用的功能使得它成为旅行者的必备工具。",
+      "language": "zh",
+      "pitch": "这款专业的Excel模板帮助旅行者轻松规划预算和管理打包清单，确保每次旅行都高效无忧。",
+      "content_html": "<h2>内容</h2>这款Excel模板包含两个主要工作表：旅行预算和打包清单。预算表帮助用户跟踪和管理旅行费用，而打包清单则确保用户不会遗漏任何重要物品。此外，还包含一个仪表板，提供关键指标的总览。",
+      "pro": true,
+      "created": "2026-10-06T06:26:17",
+      "file": "travel-budget-packing-list-tracker-2026-3af0f28e532e545d.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist insgesamt klar und ehrlich, enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Excel-Formeln und Tabellen sind sinnvoll und korrekt. Es gibt keine Rechts-, Steuer- oder Finanzberatung. Die Beispieldaten sind plausibel und klar als Beispiel markiert.",
+      "pay_url": "https://buy.stripe.com/4gM14o4o10L1beCaMQ2kw2g",
+      "payment_link_id": "plink_1UNRzPJ5iOXkWb9VJueO1iYo",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额",
+      "slug": "etsy-success-guide-7-steps-boost-traffic-sales",
+      "price_eur": 5,
+      "target": "Online-Händler und Etsy-Verkäufer",
+      "reason": "Etsy卖家在中国、台湾和新加坡的市场需求量高，但目前针对这一群体的实用指南较少。本指南提供了具体的步骤和策略，帮助卖家提升店铺表现，填补了这一市场空白。",
+      "language": "zh",
+      "pitch": "通过实用的策略和简单步骤，帮助你提升Etsy店铺的流量和销售额，吸引更多买家。",
+      "content_html": "<h2>内容</h2> <p>这本指南将为你提供实用的策略和简单步骤，帮助你提升Etsy店铺的流量和销售额，吸引更多买家。以下是本书的主要章节：</p> <ol><li>优化店铺设置</li><li>产品列表优化</li><li>吸引买家的照片技巧</li><li>有效的客户沟通</li><li>利用社交媒体推广</li><li>分析数据并优化策略</li><li>长期客户管理</li></ol>",
+      "pro": false,
+      "created": "2026-10-06T06:26:17",
+      "file": "etsy-success-guide-7-steps-boost-traffic-sales-aff03d565e87723d.pdf",
+      "size": 2545,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich weitgehend an die Regeln. Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Die Sprache ist korrekt und einheitlich, es gibt keine Platzhalter oder unfertigen Texte. Der Inhalt bietet allgemeine Praxistipps und ist frei von Rechts-, Steuer-, Finanz- o",
+      "pay_url": "https://buy.stripe.com/aFa9AU8Eh8dtdmK6wA2kw2h",
+      "payment_link_id": "plink_1UNRzQJ5iOXkWb9VSebcHeWa",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Suivi de Budget et de Planification pour Associations et Bénévoles",
+      "slug": "suivi-budget-planification-associations-bénévoles",
+      "price_eur": 9,
+      "target": "Associations et bénévoles",
+      "reason": "Cette feuille de calcul aide les associations et bénévoles à gérer leur budget et leurs activités efficacement, avec des outils de suivi et d'analyse simples à utiliser.",
+      "language": "fr",
+      "pitch": "Gérez efficacement votre budget et vos projets associatifs avec cette feuille de calcul professionnelle.",
+      "content_html": "<h2>Inhalt</h2>Suivi de votre budget associatif, planification des événements et gestion des dépenses.",
+      "pro": true,
+      "created": "2026-10-06T06:26:17",
+      "file": "suivi-budget-planification-associations-bénévoles-0ef669139b52caaa.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar, sachlich und erfüllt alle Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder Regelverstöße. Die Beispielrechnungen sind plausibel und klar gekennzeichnet."
     }
   ],
   "log": [
-    {
-      "t": "2026-10-03T21:26:06",
-      "eur": -0.0024108,
-      "why": "Audit: Professional YouTube Ad Revenue & Expense Tracker"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.0014495999999999999,
-      "why": "Blog-Artikel: Koeln Dom (de)"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.0012431999999999999,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (en)"
-    },
-    {
-      "t": "2026-10-03T21:21:03",
-      "eur": -0.00034559999999999994,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.0113304,
-      "why": "KI-Denken: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.0033191999999999996,
-      "why": "KI-Pruefung: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.16,
-      "why": "KI-Bilder: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.007798799999999999,
-      "why": "KI-Denken: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.0012275999999999997,
-      "why": "KI-Pruefung: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.013951199999999997,
-      "why": "KI-Denken: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.0041952,
-      "why": "KI-Pruefung: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
-    },
-    {
-      "t": "2026-10-04T00:50:28",
-      "eur": -0.0030948,
-      "why": "Audit: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
-    },
-    {
-      "t": "2026-10-04T00:50:28",
-      "eur": -0.0027048,
-      "why": "Audit: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
-    },
-    {
-      "t": "2026-10-04T00:50:28",
-      "eur": -0.0038183999999999996,
-      "why": "Audit: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.0010692,
-      "why": "Blog-Artikel: Bodensee (zh)"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.001488,
-      "why": "Blog-Artikel: Mosel Cochem (es)"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.0003744,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Rhineland Romantic Escape: A Female Traveler's Guide to Rhine, Frankfurt & Heidelberg"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588092594"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Road Trip Planner: Budget Tracker & Itinerary Organizer"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588092610"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Descubre Sajonia: Guía Práctica para Explorar Dresden y sus Alrededores"
-    },
-    {
-      "t": "2026-10-04T00:42:42",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588092636"
-    },
-    {
-      "t": "2026-10-04T08:29:46",
-      "eur": -0.007582799999999999,
-      "why": "KI-Denken: Ultimate Black Forest Travel Budget & Itinerary Planner for Female Explorers"
-    },
     {
       "t": "2026-10-04T08:29:46",
       "eur": -0.001,
@@ -4455,6 +4398,146 @@
       "t": "2026-10-05T22:41:23",
       "eur": -0.00041519999999999995,
       "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.0083052,
+      "why": "KI-Denken: 智能旅行预算与物品清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与物品清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 7 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.008373599999999998,
+      "why": "KI-Denken: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.012052799999999997,
+      "why": "KI-Denken: Etsy成功秘籍：2026年在线卖家必读指南"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.0031644,
+      "why": "KI-Pruefung: Etsy成功秘籍：2026年在线卖家必读指南"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1448 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.0136692,
+      "why": "KI-Denken: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.0041664,
+      "why": "KI-Pruefung: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.16,
+      "why": "KI-Bilder: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.0086868,
+      "why": "KI-Denken: Suivi de Budget et de Planification pour Associations et Bénévoles"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.001032,
+      "why": "KI-Pruefung: Suivi de Budget et de Planification pour Associations et Bénévoles"
+    },
+    {
+      "t": "2026-10-06T06:36:20",
+      "eur": -0.0022259999999999997,
+      "why": "Audit: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-06T06:36:20",
+      "eur": -0.004370399999999999,
+      "why": "Audit: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-10-06T06:36:20",
+      "eur": -0.0014604,
+      "why": "Audit: Suivi de Budget et de Planification pour Associations et Bénévoles"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.0013607999999999997,
+      "why": "Blog-Artikel: Eifel Maare (en)"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.0011844,
+      "why": "Blog-Artikel: Rheingau Weinberge (zh)"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.00036239999999999997,
+      "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Etsy Seller's Growth Handbook: 7 Proven Steps to Boost Your Online Store"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589485403"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Eventos y Finanzas para Asociaciones y Voluntarios"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589485425"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-06T06:26:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589495200"
     }
   ],
   "alive": true,
@@ -5083,6 +5166,22 @@
       "lang": "de",
       "topic": "Muenchen Marienplatz",
       "created": "2026-10-05T22:41:23",
+      "img": true
+    },
+    {
+      "slug": "discover-the-enchanting-eifel-maare-a-hidden-gem-in-germany",
+      "title": "Discover the Enchanting Eifel Maare: A Hidden Gem in Germany",
+      "lang": "en",
+      "topic": "Eifel Maare",
+      "created": "2026-10-06T06:26:17",
+      "img": true
+    },
+    {
+      "slug": "rheingau-weinberge-deutschland",
+      "title": "德国莱茵高葡萄园：美酒与风景的完美邂逅",
+      "lang": "zh",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-06T06:26:17",
       "img": true
     }
   ],
