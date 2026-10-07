@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 479.0058,
-  "spent_eur": 25.6643,
+  "balance_eur": 478.0541,
+  "spent_eur": 26.616,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2418,7 +2418,10 @@
       "audit_note": "Der Inhalt ist gut strukturiert, frei von erfundenen Studien, Statistiken oder Prozentzahlen, und enthält nur allgemein bekannte Praxistipps und Strategien. Die Sprache ist korrekt und einheitlich, es gibt keine Platzhalter, Wiederholungen oder sachlichen Fehler. Der Inhalt entspricht den Regeln.",
       "pay_url": "https://buy.stripe.com/dRm6oI2fTfFV5UibQU2kw1z",
       "payment_link_id": "plink_1ULtuqJ5iOXkWb9VeVhHPJmC",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4590124261"
+      }
     },
     {
       "type": "excel",
@@ -2442,7 +2445,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine falsche oder gemischte Sprache. Keine unfertigen Texte oder Platzhalter. Keine sachlichen Fehler, Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine Gesundheitsversprechen. Keine fremden Marken/Figuren. Formeln/Tabellen sind sinnvoll",
       "pay_url": "https://buy.stripe.com/6oUbJ23jX1P5fuS08c2kw1A",
       "payment_link_id": "plink_1ULtuqJ5iOXkWb9Vwe63Kl3O",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4590135600"
+      }
     },
     {
       "type": "ebook",
@@ -2466,7 +2472,10 @@
       "audit_note": "Inhalt entspricht den Regeln: keine erfundenen Studien/Statistiken, keine Rechts-/Steuerberatung, kein Spam. Klare, praxisnahe Tipps für Freelancer. Einziges Manko: Leichte KI-Anmutung des Texts (etwas formelhaft), aber nicht regelswidrig.",
       "pay_url": "https://buy.stripe.com/fZu9AU1bP0L1eqO9IM2kw1B",
       "payment_link_id": "plink_1ULturJ5iOXkWb9VNSKYlUpA",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4590135630"
+      }
     },
     {
       "type": "excel",
@@ -3684,119 +3693,81 @@
       "pay_url": "https://buy.stripe.com/dRm28s8EhbpFgyWaMQ2kw2n",
       "payment_link_id": "plink_1UNfeCJ5iOXkWb9VcCpZQU8r",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Freelancer's Guide to Stress-Free Time Management",
+      "slug": "freelancer-guide-stress-free-time-management",
+      "price_eur": 5,
+      "target": "self-employed and freelancers",
+      "reason": "Freelancers often struggle with time management, leading to stress and reduced productivity. This guide offers practical solutions to help them manage their time more effectively and improve their overall well-being.",
+      "language": "en",
+      "pitch": "Discover practical strategies to manage your time effectively as a freelancer and reduce stress with simple, actionable steps. This guide will help you focus on what truly matters in your work and personal life.",
+      "content_html": "<h2>Inhalt</h2> <ol><li>Introduction: Why Time Management Matters for Freelancers</li><li>Chapter 1: Setting Clear Goals</li><li>Chapter 2: Prioritizing Tasks Effectively</li><li>Chapter 3: Creating a Daily Routine</li><li>Chapter 4: Avoiding Procrastination</li><li>Chapter 5: Balancing Work and Personal Life</li><li>Chapter 6: Tools and Apps to Stay Organized</li></ol>",
+      "pro": false,
+      "created": "2026-10-07T01:35:42",
+      "file": "freelancer-guide-stress-free-time-management-c37f135cb859f851.pdf",
+      "size": 2066,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Zahlen, Statistiken oder Quellen. Es bietet allgemein bekanntes Wissen und praktische Tipps ohne Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine Gesundheitsversprechen, Markenverstöße oder unerlaubte Kopien. Der Text ist klar, vollständig un",
+      "pay_url": "https://buy.stripe.com/4gM14o5s5fFVaay2gk2kw2o",
+      "payment_link_id": "plink_1UNjwBJ5iOXkWb9Vt2bxWGn4",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos",
+      "slug": "planificador-presupuesto-ruta-bosque-negro",
+      "price_eur": 9,
+      "target": "Hombres que planean un viaje al Bosque Negro y buscan una herramienta profesional para gestionar su presupuesto y ruta.",
+      "reason": "Este tracker facilita la planificación y gestión de un viaje al Bosque Negro, ayudando al usuario a mantener un control detallado de su presupuesto y actividades, lo que garantiza una experiencia de viaje más organizada y sin estrés.",
+      "language": "es",
+      "pitch": "Optimiza tu viaje al Bosque Negro con esta herramienta profesional que te permite gestionar tu presupuesto y planificar tu ruta de manera eficiente.",
+      "content_html": "<h2>Inhalt</h2><p>Esta plantilla Excel está diseñada para ayudarte a planificar y gestionar tu viaje al Bosque Negro de manera profesional. Incluye hojas para el presupuesto, la ruta y actividades, además de un dashboard que te muestra los KPIs clave para mantener todo bajo control.</p>",
+      "pro": true,
+      "created": "2026-10-07T01:35:42",
+      "file": "planificador-presupuesto-ruta-bosque-negro-37a0486a4a5e1c59.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend korrekt und erfüllt die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Die Beispielrechnungen sind klar als solche erkennbar und die Sprache ist konsistent. Einige Wiederholungen in den Formeln sind vorhanden, beeinträchtigen aber nicht die Funktionalit",
+      "pay_url": "https://buy.stripe.com/4gM28sf2F79pdmK3ko2kw2p",
+      "payment_link_id": "plink_1UNjwCJ5iOXkWb9VwVYM9Jy6",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos",
+      "slug": "descubre-el-saarland-y-la-mosela-guia-practica",
+      "price_eur": 5,
+      "target": "Hombres interesados en explorar el Saarland y la región de la Mosela en Alemania",
+      "reason": "Este libro aborda una necesidad específica de la audiencia masculina interesada en viajes prácticos y auténticos. Ofrece información detallada y útil para explorar el Saarland y la Mosela, combinando consejos prácticos con experiencias culturales y actividades al aire libre.",
+      "language": "es",
+      "pitch": "Explora los rincones menos conocidos del Saarland y la Mosela con esta guía práctica, diseñada especialmente para viajeros masculinos que buscan aventuras auténticas y experiencias memorables.",
+      "content_html": "<h2>Contenido</h2><ul><li>Introducción: Descubre el Saarland y la Mosela</li><li>Capítulo 1: Lo mejor de Saarbrücken</li><li>Capítulo 2: Senderismo en el Parque Natural Saar-Hunsrück</li><li>Capítulo 3: Rutas en bicicleta por el valle del Mosela</li><li>Capítulo 4: Gastronomía local: Platos típicos y cervezas artesanales</li><li>Capítulo 5: Historia y cultura: Castillos y museos imperdibles</li><li>Capítulo 6: Planificación de tu viaje: Consejos prácticos</li></ul>",
+      "pro": false,
+      "created": "2026-10-07T01:35:42",
+      "file": "descubre-el-saarland-y-la-mosela-guia-practica-9f58118a10aae03f.pdf",
+      "size": 1966,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht weitestgehend den Regeln. Keine erfundenen Statistiken, Zitate oder Gesundheitsversprechen. Enthält allgemein bekannte Fakten über die Regionen. Geringfügige Kritik: Budgetangaben im Planungskapitel als Beispiel unklar markiert, aber nicht als konkrete Statistik präsentiert.",
+      "pay_url": "https://buy.stripe.com/dRm5kE07L3Xd82q5sw2kw2q",
+      "payment_link_id": "plink_1UNjwDJ5iOXkWb9VHbewzPR8",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0089964,
-      "why": "KI-Denken: Planificateur de Voyage Berlin & Potsdam : Budget, Itinéraire et Checkliste"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0018275999999999998,
-      "why": "KI-Pruefung: Planificateur de Voyage Berlin & Potsdam : Budget, Itinéraire et Checkliste"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0078996,
-      "why": "KI-Denken: Guide de voyage pour Berlin et Potsdam : Tracker de budget et planificateur d'itinéraire"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Guide de voyage pour Berlin et Potsdam : Tracker de budget et planificateur d'itinéraire"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.007936799999999999,
-      "why": "KI-Denken: Planificateur de Budget de Voyage pour Berlin et Potsdam : Suivi des Dépenses & Itinéraire"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0010283999999999998,
-      "why": "KI-Pruefung: Planificateur de Budget de Voyage pour Berlin et Potsdam : Suivi des Dépenses & Itinéraire"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.013939199999999999,
-      "why": "KI-Denken: Le Guide Essentiel des Voyageurs Autonomes : Découvrir Dresden et la Saxe en 7 Étapes Faciles"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0041963999999999994,
-      "why": "KI-Pruefung: Le Guide Essentiel des Voyageurs Autonomes : Découvrir Dresden et la Saxe en 7 Étapes Faciles"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): E-Book zu kurz (1498 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0154212,
-      "why": "KI-Denken: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et les trésors cachés"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0041567999999999996,
-      "why": "KI-Pruefung: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et les trésors cachés"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.16,
-      "why": "KI-Bilder: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et les trésors cachés"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.007836,
-      "why": "KI-Denken: Construction Site Measurement & Offer Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Construction Site Measurement & Offer Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-10-04T19:55:25",
-      "eur": -0.0023375999999999996,
-      "why": "Audit: Planificateur de Budget de Voyage pour Berlin et Potsdam : Suivi des Dépenses & "
-    },
-    {
-      "t": "2026-10-04T19:55:25",
-      "eur": -0.0037787999999999997,
-      "why": "Audit: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et"
-    },
-    {
-      "t": "2026-10-04T19:55:25",
-      "eur": -0.0030443999999999996,
-      "why": "Audit: Construction Site Measurement & Offer Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-04T19:41:32",
       "eur": -0.0011363999999999999,
@@ -4686,6 +4657,121 @@
       "t": "2026-10-06T21:01:31",
       "eur": -0.00033,
       "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.014391599999999997,
+      "why": "KI-Denken: The Freelancer's Guide to Stress-Free Time Management"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.0034079999999999996,
+      "why": "KI-Pruefung: The Freelancer's Guide to Stress-Free Time Management"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Freelancer's Guide to Stress-Free Time Management"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.0090672,
+      "why": "KI-Denken: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.0011376,
+      "why": "KI-Pruefung: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.0168672,
+      "why": "KI-Denken: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.0042899999999999995,
+      "why": "KI-Pruefung: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-10-07T01:46:10",
+      "eur": -0.003192,
+      "why": "Audit: The Freelancer's Guide to Stress-Free Time Management"
+    },
+    {
+      "t": "2026-10-07T01:46:10",
+      "eur": -0.0023975999999999997,
+      "why": "Audit: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional par"
+    },
+    {
+      "t": "2026-10-07T01:46:10",
+      "eur": -0.003926399999999999,
+      "why": "Audit: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.0012155999999999998,
+      "why": "Blog-Artikel: Bodensee (es)"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.0013751999999999998,
+      "why": "Blog-Artikel: Mosel Cochem (fr)"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.00038399999999999996,
+      "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590124261"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Caregiver Expense Tracker & Budget Planner for Seniors"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590135600"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
+    },
+    {
+      "t": "2026-10-07T01:35:42",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590135630"
     }
   ],
   "alive": true,
@@ -5363,6 +5449,22 @@
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-10-06T21:01:31",
       "img": true
+    },
+    {
+      "slug": "descubriendo-el-lago-constanza-un-tesoro-natural-en-alemania",
+      "title": "Descubriendo el Lago Constanza: Un Tesoro Natural en Alemania",
+      "lang": "es",
+      "topic": "Bodensee",
+      "created": "2026-10-07T01:35:42",
+      "img": true
+    },
+    {
+      "slug": "decouvrir-cochem-la-perle-de-la-moselle",
+      "title": "Découvrir Cochem, la perle de la Moselle",
+      "lang": "fr",
+      "topic": "Mosel Cochem",
+      "created": "2026-10-07T01:35:42",
+      "img": true
     }
   ],
   "videos": [
@@ -5724,6 +5826,16 @@
       "hashtags": "#鲁尔区 #祖尔菲兰 #德国文化 #世界遗产 #绿色旅游",
       "voice": "来到德国鲁尔区的祖尔菲兰，感受工业遗产与文化的独特魅力！这里不仅是世界文化遗产，更是艺术与创新的交汇点。漫步在历史悠久的煤矿遗址，体验从工业巨人到绿色转型的奇迹。祖尔菲兰，一个让你领略过去与未来的奇妙之地！#鲁尔区 #祖尔菲兰 #德国文化",
       "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrir-cochem-la-perle-de-la-moselle",
+      "title": "Découvrir Cochem, la perle de la Moselle",
+      "lang": "fr",
+      "created": "2026-10-07T01:35:42",
+      "hashtags": "#Cochem #Moselle #VoyageEnAllemagne #CharmeMédiéval #VinsMoselle",
+      "voice": "Au cœur de l’Allemagne, Cochem vous enchante avec son château impérial dominant la Moselle. Explorez ses ruelles médiévales, dégustez des vins locaux et embarquez pour une croisière inoubliable. Cochem, une destination où histoire, nature et plaisirs gourmands se rencontrent harmonieusement. À vivre absolument!",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
