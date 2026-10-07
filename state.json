@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 477.0242,
-  "spent_eur": 27.6459,
+  "balance_eur": 476.9748,
+  "spent_eur": 27.6953,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3870,99 +3870,30 @@
       "pay_url": "https://buy.stripe.com/fZu4gAg6J65l96u2gk2kw2u",
       "payment_link_id": "plink_1UNyvbJ5iOXkWb9VGhZEq7JR",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker",
+      "slug": "berlin-potsdam-family-travel-budget-planner-itinerary-tracker",
+      "price_eur": 9,
+      "target": "Families planning trips to Berlin and Potsdam",
+      "reason": "Families planning trips to Berlin and Potsdam need a simple yet powerful tool to manage their budget and itinerary. This Excel template provides everything they need in one place, ensuring a smooth and enjoyable travel experience.",
+      "language": "en",
+      "pitch": "Effortlessly manage your family trip to Berlin and Potsdam with this all-in-one budget and itinerary tracker. Stay organized, save money, and make unforgettable memories.",
+      "content_html": "<h2>Inhalt</h2><p>Plan your family trip to Berlin and Potsdam with ease. Track expenses, create daily itineraries, and stay on budget with this professional Excel template.</p>",
+      "pro": true,
+      "created": "2026-10-07T23:08:25",
+      "file": "berlin-potsdam-family-travel-budget-planner-itinerary-tracker-630e81e74e6c4aee.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/4gMfZi07L79p4Qeg7a2kw2v",
+      "payment_link_id": "plink_1UO4H4J5iOXkWb9VMC7yWgHL",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.014319599999999995,
-      "why": "KI-Denken: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.0040656,
-      "why": "KI-Pruefung: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.0085224,
-      "why": "KI-Denken: 智能旅行打包清单与预算跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.0010164,
-      "why": "KI-Pruefung: 智能旅行打包清单与预算跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.008171999999999999,
-      "why": "KI-Denken: 智能旅行预算与打包清单 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行预算与打包清单 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.0081444,
-      "why": "KI-Denken: 智能旅行打包清单与预算追踪器"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行打包清单与预算追踪器"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.008227199999999999,
-      "why": "KI-Denken: 智能旅行预算与行李清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行预算与行李清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-05T15:00:45",
-      "eur": -0.0037968,
-      "why": "Audit: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafet"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Audit: 1 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-05T14:46:56",
       "eur": 0,
@@ -4872,6 +4803,96 @@
       "t": "2026-10-07T17:27:46",
       "eur": -0.00042119999999999994,
       "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": -0.009623999999999999,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": -0.0011003999999999999,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": -0.0093516,
+      "why": "KI-Denken: Berlin & Potsdam Family Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": -0.0092112,
+      "why": "KI-Denken: Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": -0.015764399999999998,
+      "why": "KI-Denken: Discover Saxony & Dresden: A Family-Friendly Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": 0,
+      "why": "Audit-Fehler: HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": -0.0011903999999999999,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (fr)"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": -0.0017063999999999998,
+      "why": "Blog-Artikel: Frankfurt Skyline (de)"
+    },
+    {
+      "t": "2026-10-07T23:08:25",
+      "eur": -0.0003852,
+      "why": "Video-Skript: Frankfurt Skyline"
     }
   ],
   "alive": true,
@@ -5597,6 +5618,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-10-07T17:27:46",
       "img": true
+    },
+    {
+      "slug": "speicherstadt-hambourg-allemagne",
+      "title": "La Speicherstadt de Hambourg : visite guidée du plus grand quartier d'entrepôts au monde",
+      "lang": "fr",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-07T23:08:25",
+      "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-deutschlands-manhattan-am-main",
+      "title": "Die Frankfurter Skyline: Deutschlands Manhattan am Main",
+      "lang": "de",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-07T23:08:25",
+      "img": true
     }
   ],
   "videos": [
@@ -5988,6 +6025,16 @@
       "hashtags": "#Rügen #Kreidefelsen #Alemania #Naturaleza #Viajes #Acantilados",
       "voice": "En la isla de Rügen, al norte de Alemania, se encuentran los famosos acantilados de creta, un espectáculo natural que dejará sin aliento. Sus imponentes paredes blancas contrastan con el azul intenso del mar Báltico, creando un escenario mágico. Ideal para amantes de la naturaleza, senderismo y fotografía. ¡Un lugar que debes visitar para vivir una experiencia inolvidable!",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "frankfurt-skyline-deutschlands-manhattan-am-main",
+      "title": "Die Frankfurter Skyline: Deutschlands Manhattan am Main",
+      "lang": "de",
+      "created": "2026-10-07T23:08:25",
+      "hashtags": "#FrankfurtSkyline #MainMetropole #HessenEntdecken #StädtetripDeutschland #SkylineFrankfurt",
+      "voice": "Frankfurt beeindruckt mit einer der spektakulärsten Skyline Europas! Zwischen modernen Hochhäusern und historischen Schätzen pulsiert das Leben. Bestaunen Sie den Main-Tower, bummeln Sie über die lebhafte Zeil oder genießen Sie die Natur an den Ufern des Mains. Hier verbinden sich Dynamik und Tradition perfekt – ein Muss für jede Deutschland-Reise!",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
