@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 477.2633,
-  "spent_eur": 27.4068,
+  "balance_eur": 477.0242,
+  "spent_eur": 27.6459,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3846,139 +3846,33 @@
       "pay_url": "https://buy.stripe.com/6oU3cw4o13XdeqO08c2kw2t",
       "payment_link_id": "plink_1UNqXNJ5iOXkWb9VdbjyneCR",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg",
+      "slug": "guide-voyage-rhin-francfort-heidelberg",
+      "price_eur": 5,
+      "target": "Voyageurs francophones (particuliers ou professionnels) visitant l'Allemagne pour la première fois ou cherchant des itinéraires moins connus",
+      "reason": "Il manque un guide pratique en français centré spécifiquement sur cette région phare de l'Allemagne, avec des conseils concrets adaptés aux voyageurs francophones. Les guides existants sont soit trop généraux, soit en allemand/anglais. Ce public recherche des informations locales fiables sans avoir à compiler des dizaines de sources.",
+      "language": "fr",
+      "pitch": "Un guide pratique pour explorer les trésors culturels et naturels de la région du Rhin, Francfort et Heidelberg. Avec des itinéraires optimisés, des conseils locaux et des astuces pour voyager intelligemment.",
+      "content_html": "<h2>Contenu</h2>\n<ul>\n<li>Préparer son voyage en toute sérénité</li>\n<li>Itinéraire 3 jours : Le Rhin romantique</li>\n<li>Itinéraire 2 jours : Francfort, entre modernité et tradition</li>\n<li>Heidelberg : perle médiévale au bord du Neckar</li>\n<li>Bonnes adresses testées : où manger et dormir sans se ruiner</li>\n<li>Astuces pour éviter les pièges à touristes</li>\n</ul>\n<h3>Extrait : \"Traverser le vieux pont de Heidelberg au coucher du soleil\"</h3>\n<p>Le meilleur moment pour visiter ce lieu emblématique... (suite dans le guide)</p>",
+      "pro": false,
+      "created": "2026-10-07T17:27:46",
+      "file": "guide-voyage-rhin-francfort-heidelberg-28518a1437fcd3bf.pdf",
+      "size": 1665,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine klaren Regelverstöße gefunden. Der Inhalt besteht aus allgemein bekannten Reisetipps ohne erfundene Statistiken oder gesundheitsbezogene Versprechen. Formulierungen wie '50-100€' sind als Faustregel akzeptabel, da nicht als exakte Statistik präsentiert. Kleinere Fehler wie fehlende Seitenzahle",
+      "pay_url": "https://buy.stripe.com/fZu4gAg6J65l96u2gk2kw2u",
+      "payment_link_id": "plink_1UNyvbJ5iOXkWb9VGhZEq7JR",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.008336399999999999,
-      "why": "KI-Denken: Smart Workout & Nutrition Planner for Female Fitness Coaches"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.0010764,
-      "why": "KI-Pruefung: Smart Workout & Nutrition Planner for Female Fitness Coaches"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.013233599999999998,
-      "why": "KI-Denken: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Properties Efficiently"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.0034056,
-      "why": "KI-Pruefung: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Properties Efficiently"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.16,
-      "why": "KI-Bilder: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Properties Efficiently"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.008437199999999999,
-      "why": "KI-Denken: Planificador de Estudios y Calificaciones para Estudiantes"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Estudios y Calificaciones para Estudiantes"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.008469599999999999,
-      "why": "KI-Denken: Planificador de Estudios y Seguimiento de Progreso para Estudiantes"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.0010248,
-      "why": "KI-Pruefung: Planificador de Estudios y Seguimiento de Progreso para Estudiantes"
-    },
-    {
-      "t": "2026-10-05T05:50:03",
-      "eur": -0.0027779999999999997,
-      "why": "Audit: Smart Workout & Nutrition Planner for Female Fitness Coaches"
-    },
-    {
-      "t": "2026-10-05T05:50:03",
-      "eur": -0.0030756,
-      "why": "Audit: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Propert"
-    },
-    {
-      "t": "2026-10-05T05:50:03",
-      "eur": -0.0023783999999999997,
-      "why": "Audit: Planificador de Estudios y Seguimiento de Progreso para Estudiantes"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.0010907999999999998,
-      "why": "Blog-Artikel: Dresden Frauenkirche (zh)"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.0014483999999999999,
-      "why": "Blog-Artikel: Harz Brocken (es)"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.00038879999999999996,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Économisez Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588778056"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Smart Family Fitness Planner & Progress Tracker"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588771521"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Small Landlord Success: Practical Organization & Management Tips for Owners of 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-10-05T05:46:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4588778080"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): 'choices'"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): 'choices'"
-    },
     {
       "t": "2026-10-05T14:46:56",
       "eur": -0.014319599999999995,
@@ -4853,6 +4747,131 @@
       "t": "2026-10-07T08:43:55",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590284413"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.015747599999999997,
+      "why": "KI-Denken: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.004213199999999999,
+      "why": "KI-Pruefung: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.16,
+      "why": "KI-Bilder: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.009515999999999998,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Travel Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.0011327999999999998,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Travel Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.009201599999999999,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.009248399999999999,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.009735599999999999,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Trip Planner for Families: Budget & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.0013919999999999998,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Trip Planner for Families: Budget & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.009820799999999998,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Trip Budget Tracker"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.0013679999999999999,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Trip Budget Tracker"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-07T17:46:48",
+      "eur": -0.003953999999999999,
+      "why": "Audit: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": 0,
+      "why": "Audit: 1 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.0010404,
+      "why": "Blog-Artikel: Saechsische Schweiz (zh)"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.0014663999999999999,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (es)"
+    },
+    {
+      "t": "2026-10-07T17:27:46",
+      "eur": -0.00042119999999999994,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
     }
   ],
   "alive": true,
@@ -5562,6 +5581,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-10-07T08:43:55",
       "img": true
+    },
+    {
+      "slug": "saek-sische-schweiz-deutschland-reise",
+      "title": "萨克森瑞士：德国东部的自然奇观",
+      "lang": "zh",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-07T17:27:46",
+      "img": true
+    },
+    {
+      "slug": "acantilados-de-rugen-alemania",
+      "title": "Descubriendo los Acantilados de Rügen: Un Tesoro Natural de Alemania",
+      "lang": "es",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-07T17:27:46",
+      "img": true
     }
   ],
   "videos": [
@@ -5943,6 +5978,16 @@
       "hashtags": "#Neuschwanstein #FairytaleCastle #Bavaria #GermanyTravel #CastleGoals",
       "voice": "Rising from the Bavarian Alps like a storybook dream, Neuschwanstein Castle captivates with its fairy-tale towers and romantic design. King Ludwig II's extravagant vision combines medieval architecture with lavish interiors. The castle's magical appearance inspired Walt Disney's Sleeping Beauty Castle. Surrounded by stunning lakes and mountains, this masterpiece offers panoramic views that will leave you speechless. A true jewel of Germany!",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "acantilados-de-rugen-alemania",
+      "title": "Descubriendo los Acantilados de Rügen: Un Tesoro Natural de Alemania",
+      "lang": "es",
+      "created": "2026-10-07T17:27:46",
+      "hashtags": "#Rügen #Kreidefelsen #Alemania #Naturaleza #Viajes #Acantilados",
+      "voice": "En la isla de Rügen, al norte de Alemania, se encuentran los famosos acantilados de creta, un espectáculo natural que dejará sin aliento. Sus imponentes paredes blancas contrastan con el azul intenso del mar Báltico, creando un escenario mágico. Ideal para amantes de la naturaleza, senderismo y fotografía. ¡Un lugar que debes visitar para vivir una experiencia inolvidable!",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
