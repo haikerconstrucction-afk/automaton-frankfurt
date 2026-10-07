@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 478.0541,
-  "spent_eur": 26.616,
+  "balance_eur": 477.2633,
+  "spent_eur": 27.4068,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2499,7 +2499,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Zitate festgestellt. Der Inhalt ist klar, vollständig und entspricht den Regeln. Die Excel-Funktionen und Beispieldaten sind plausibel und korrekt.",
       "pay_url": "https://buy.stripe.com/eVq28s7Ad65l82q3ko2kw1C",
       "payment_link_id": "plink_1ULzlCJ5iOXkWb9V05NFFH4q",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4590284365"
+      }
     },
     {
       "type": "ebook",
@@ -2523,7 +2526,10 @@
       "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken oder Zahlen und hält sich an die vorgegebenen Regeln. Es gibt keine Rechts-, Finanz-, Steuer- oder Gesundheitsberatung. Der Text ist sachlich korrekt, vollständig und enthält keine Platzhalter oder Wiederholungen. Die Empfehlungen basieren auf",
       "pay_url": "https://buy.stripe.com/eVq28s9IlfFVbeC4os2kw1D",
       "payment_link_id": "plink_1ULzlDJ5iOXkWb9VujoosOTe",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4590284391"
+      }
     },
     {
       "type": "excel",
@@ -2547,7 +2553,10 @@
       "audit_note": "Das Produkt ist eine funktionale Excel-Vorlage zur Reiseplanung in NRW ohne erfundene Zahlen oder Regelverstöße. Die Beispieldaten sind plausibel und es werden keine falschen Behauptungen oder unzulässigen Inhalte verwendet.",
       "pay_url": "https://buy.stripe.com/dRm9AU6w965lgyWaMQ2kw1E",
       "payment_link_id": "plink_1UM5skJ5iOXkWb9VOu0fUyTW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4590284413"
+      }
     },
     {
       "type": "ebook",
@@ -3765,134 +3774,81 @@
       "pay_url": "https://buy.stripe.com/dRm5kE07L3Xd82q5sw2kw2q",
       "payment_link_id": "plink_1UNjwDJ5iOXkWb9VHbewzPR8",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能德国北莱茵-威斯特法伦州旅行预算跟踪器 & 行程规划 - 2026专业版",
+      "slug": "intelligent-nrw-travel-budget-tracker-itinerary-planner-2026-chinese",
+      "price_eur": 9,
+      "target": "前往德国北莱茵-威斯特法伦州（科隆、杜塞尔多夫、鲁尔区）旅行的个人或家庭，希望有效规划预算与行程",
+      "reason": "这款模板结合了预算管理与行程规划功能，帮助旅行者高效管理北莱茵-威斯特法伦州旅行，确保支出透明、行程合理，物超所值。",
+      "language": "zh",
+      "pitch": "这款专业的Excel模板帮助您轻松管理北莱茵-威斯特法伦州旅行的预算与行程，确保每一分钱都用在刀刃上。",
+      "content_html": "<h2>内容</h2><p>这款Excel模板包含预算跟踪和行程规划功能，帮助您高效管理旅行的每一环节。通过智能计算与可视化图表，清晰掌握支出情况与行程进度。</p>",
+      "pro": true,
+      "created": "2026-10-07T08:43:55",
+      "file": "intelligent-nrw-travel-budget-tracker-itinerary-planner-2026-chinese-73131941e128d175.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Statistiken oder Zahlen, keine Regelverstöße wie Rechts- oder Finanzberatung. Klare Beispielrechnungen und allgemein bekanntes Wissen verwendet. Kleine Verbesserungspotenziale bei der Strukturierung der Formeln.",
+      "pay_url": "https://buy.stripe.com/dRmaEYg6JfFVfuSaMQ2kw2r",
+      "payment_link_id": "plink_1UNqXMJ5iOXkWb9VmXfxfeUn",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线",
+      "slug": "ultimate-bavaria-alps-travel-guide",
+      "price_eur": 5,
+      "target": "前往德国巴伐利亚和阿尔卑斯山旅行的游客，尤其是首次前往的自然爱好者和文化探索者",
+      "reason": "巴伐利亚和阿尔卑斯山是德国最受欢迎的旅游目的地之一，但许多游客在规划旅程时感到困惑。本指南旨在为他们提供实用、全面的信息，帮助他们轻松规划并享受完美的旅行体验。",
+      "language": "zh",
+      "pitch": "本指南为您提供巴伐利亚与阿尔卑斯山的详细旅行路线、实用贴士和隐藏景点，助您轻松规划完美旅程。",
+      "content_html": "<h2>Inhalt</h2>\n<ul>\n<li>第一章：巴伐利亚与阿尔卑斯山简介</li>\n<li>第二章：最佳旅行季节与天气建议</li>\n<li>第三章：必去景点与隐藏宝藏</li>\n<li>第四章：徒步路线与自然探险</li>\n<li>第五章：美食与当地文化体验</li>\n<li>第六章：预算与交通规划</li></ul>",
+      "pro": false,
+      "created": "2026-10-07T08:43:55",
+      "file": "ultimate-bavaria-alps-travel-guide-8454d4446409a857.pdf",
+      "size": 1643,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht weitgehend den Regeln, keine erfundenen Studien/Statistiken oder spezifischen Wirkungsversprechen. Enthält allgemein bekannte Reiseinformationen ohne problematische Behauptungen.",
+      "pay_url": "https://buy.stripe.com/5kQ6oIdYBeBR5UibQU2kw2s",
+      "payment_link_id": "plink_1UNqXNJ5iOXkWb9V0SWQO9CQ",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Checkliste",
+      "slug": "planificateur-voyage-cote-baltique-mer-du-nord",
+      "price_eur": 12,
+      "target": "Francophones voyageant en Allemagne (couples, familles et solos)",
+      "reason": "Les voyageurs francophones manquent souvent d'outils pratiques pour planifier leurs itinéraires sur les côtes allemandes alors que la région gagne en popularité. Ce tracker complet leur permet de gagner du temps et d'éviter les mauvaises surprises budgétaires.",
+      "language": "fr",
+      "pitch": "Le compagnon ultime pour organiser votre voyage le long des côtes allemandes. Gardez le contrôle de votre budget, itinéraire et préparatifs en un seul endroit.",
+      "content_html": "<h2>Contenu</h2><p>Planifiez chaque détail de votre aventure sur les côtes allemandes avec cet outil professionnel. Inclus : suivi de dépenses, planificateur d'itinéraire, checkliste de préparation et analyse des coûts.</p>",
+      "pro": true,
+      "created": "2026-10-07T08:43:55",
+      "file": "planificateur-voyage-cote-baltique-mer-du-nord-3bf86b3526ba12bf.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine Regelverstöße festgestellt. Der Inhalt ist klar strukturiert, enthält keine erfundenen Studien oder Statistiken, keine Rechts- oder Gesundheitsberatung und keine Marken Dritter. Die Beispielzahlen (Budget, Ausgaben etc.) sind offensichtlich als exemplarisch gekennzeichnet.",
+      "pay_url": "https://buy.stripe.com/6oU3cw4o13XdeqO08c2kw2t",
+      "payment_link_id": "plink_1UNqXNJ5iOXkWb9VdbjyneCR",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0011363999999999999,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (es)"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.0014724,
-      "why": "Blog-Artikel: Frankfurt Skyline (fr)"
-    },
-    {
-      "t": "2026-10-04T19:41:32",
-      "eur": -0.00039,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.011890800000000002,
-      "why": "KI-Denken: Bedtime Adventures: 6 Magical Stories to Spark Your Child's Imagination"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.0034008,
-      "why": "KI-Pruefung: Bedtime Adventures: 6 Magical Stories to Spark Your Child's Imagination"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1362 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.013895999999999999,
-      "why": "KI-Denken: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.0035663999999999995,
-      "why": "KI-Pruefung: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.16,
-      "why": "KI-Bilder: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.008415599999999999,
-      "why": "KI-Denken: Hochzeitsbudget-Tracker & Planer für Paare"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.0011736,
-      "why": "KI-Pruefung: Hochzeitsbudget-Tracker & Planer für Paare"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.008650799999999998,
-      "why": "KI-Denken: Hochzeit-Budget-Tracker & Checklistenmanager 2026"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.001296,
-      "why": "KI-Pruefung: Hochzeit-Budget-Tracker & Checklistenmanager 2026"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.015917999999999998,
-      "why": "KI-Denken: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.0042036,
-      "why": "KI-Pruefung: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.16,
-      "why": "KI-Bilder: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
-    },
-    {
-      "t": "2026-10-04T23:27:00",
-      "eur": -0.0033491999999999997,
-      "why": "Audit: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
-    },
-    {
-      "t": "2026-10-04T23:27:00",
-      "eur": -0.0025164,
-      "why": "Audit: Hochzeit-Budget-Tracker & Checklistenmanager 2026"
-    },
-    {
-      "t": "2026-10-04T23:27:00",
-      "eur": -0.0038975999999999998,
-      "why": "Audit: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.0012216,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (de)"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.0011987999999999999,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (en)"
-    },
-    {
-      "t": "2026-10-04T23:13:49",
-      "eur": -0.0003744,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
     {
       "t": "2026-10-05T05:46:19",
       "eur": -0.008336399999999999,
@@ -4772,6 +4728,131 @@
       "t": "2026-10-07T01:35:42",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590135630"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.0090936,
+      "why": "KI-Denken: 智能德国北莱茵-威斯特法伦州旅行预算跟踪器 & 行程规划 - 2026专业版"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.001044,
+      "why": "KI-Pruefung: 智能德国北莱茵-威斯特法伦州旅行预算跟踪器 & 行程规划 - 2026专业版"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.0138924,
+      "why": "KI-Denken: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.003935999999999999,
+      "why": "KI-Pruefung: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.16,
+      "why": "KI-Bilder: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.009259199999999999,
+      "why": "KI-Denken: Ostsee-Nordsee Reisebudget-Tracker & Routenplaner"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.0010152,
+      "why": "KI-Pruefung: Ostsee-Nordsee Reisebudget-Tracker & Routenplaner"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.009785999999999998,
+      "why": "KI-Denken: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.0013416,
+      "why": "KI-Pruefung: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-07T08:49:02",
+      "eur": -0.0022608,
+      "why": "Audit: 智能德国北莱茵-威斯特法伦州旅行预算跟踪器 & 行程规划 - 2026专业版"
+    },
+    {
+      "t": "2026-10-07T08:49:02",
+      "eur": -0.004085999999999999,
+      "why": "Audit: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
+    },
+    {
+      "t": "2026-10-07T08:49:02",
+      "eur": -0.0017868,
+      "why": "Audit: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Check"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.0016116,
+      "why": "Blog-Artikel: Heidelberg Altstadt (de)"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.0014183999999999998,
+      "why": "Blog-Artikel: Neuschwanstein (en)"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.0003467999999999999,
+      "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Schwarzwald-Reisebudget-Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590284365"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Entdecke das Saarland & die Mosel: Der ultimative Reiseführer für Naturfreunde und Kulturliebhaber"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590284391"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate NRW Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-07T08:43:55",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590284413"
     }
   ],
   "alive": true,
@@ -5465,6 +5546,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-10-07T01:35:42",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-entdecken-charmantes-reiseziel-deutschla",
+      "title": "Heidelberg Altstadt entdecken: Ein charmantes Reiseziel in Deutschland",
+      "lang": "de",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-07T08:43:55",
+      "img": true
+    },
+    {
+      "slug": "discover-the-magic-of-neuschwanstein-castle",
+      "title": "Discover the Magic of Neuschwanstein Castle: A Fairytale Escape in Germany",
+      "lang": "en",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-07T08:43:55",
+      "img": true
     }
   ],
   "videos": [
@@ -5836,6 +5933,16 @@
       "hashtags": "#Cochem #Moselle #VoyageEnAllemagne #CharmeMédiéval #VinsMoselle",
       "voice": "Au cœur de l’Allemagne, Cochem vous enchante avec son château impérial dominant la Moselle. Explorez ses ruelles médiévales, dégustez des vins locaux et embarquez pour une croisière inoubliable. Cochem, une destination où histoire, nature et plaisirs gourmands se rencontrent harmonieusement. À vivre absolument!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-the-magic-of-neuschwanstein-castle",
+      "title": "Discover the Magic of Neuschwanstein Castle: A Fairytale Escape in Germany",
+      "lang": "en",
+      "created": "2026-10-07T08:43:55",
+      "hashtags": "#Neuschwanstein #FairytaleCastle #Bavaria #GermanyTravel #CastleGoals",
+      "voice": "Rising from the Bavarian Alps like a storybook dream, Neuschwanstein Castle captivates with its fairy-tale towers and romantic design. King Ludwig II's extravagant vision combines medieval architecture with lavish interiors. The castle's magical appearance inspired Walt Disney's Sleeping Beauty Castle. Surrounded by stunning lakes and mountains, this masterpiece offers panoramic views that will leave you speechless. A true jewel of Germany!",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
