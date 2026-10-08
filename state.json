@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 476.9748,
-  "spent_eur": 27.6953,
+  "balance_eur": 476.0005,
+  "spent_eur": 28.6696,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2603,7 +2603,10 @@
       "audit_note": "Das Produkt enthält keine offensichtlichen Regelverstöße wie erfundene Statistiken, Gesundheitsversprechen oder fremde Marken. Die Beispielrechnungen sind klar als solche markiert und die Excel-Formeln sind korrekt und sinnvoll. Der Preis von 9 Euro ist angegeben, ohne dass eine Finanzberatung erfol",
       "pay_url": "https://buy.stripe.com/8x2cN6g6JctJ4QebQU2kw1F",
       "payment_link_id": "plink_1UM5skJ5iOXkWb9VJ45Gf4Wb",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4590953291"
+      }
     },
     {
       "type": "ebook",
@@ -2627,7 +2630,10 @@
       "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken, Zahlen oder Quellen. Es handelt sich um allgemein bekannte Fakten und praktische Tipps für Reisende. Die Sprache ist korrekt und konsistent Spanisch, es gibt keine Platzhalter, unfertigen Texte oder sachliche Fehler. Es wird keine Rechts-, Ste",
       "pay_url": "https://buy.stripe.com/28E8wQ4o1gJZ3Ma2gk2kw1G",
       "payment_link_id": "plink_1UMCAgJ5iOXkWb9V83c3Rwym",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4590964254"
+      }
     },
     {
       "type": "excel",
@@ -2651,7 +2657,10 @@
       "audit_note": "Produkt erfüllt die Regeln: Keine erfundenen Studien/Statistiken/Zahlen, keine falschen Behauptungen oder Gesundheitsversprechen, keine Rechts-/Finanzberatung. Klare Beschreibung der Funktionalität und Beispiel-Daten sind plausibel. Formeln machen Sinn und sind korrekt markiert.",
       "pay_url": "https://buy.stripe.com/00wfZi3jXctJ2I6bQU2kw1H",
       "payment_link_id": "plink_1UMCAhJ5iOXkWb9VFf4rkux9",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4590953319"
+      }
     },
     {
       "type": "ebook",
@@ -3890,140 +3899,85 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/4gMfZi07L79p4Qeg7a2kw2v",
       "payment_link_id": "plink_1UO4H4J5iOXkWb9VMC7yWgHL",
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Zahlen, Statistiken oder Quellen. Klare Struktur, keine sachlichen Fehler oder Regelverstöße."
+    },
+    {
+      "type": "ebook",
+      "title": "Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxony's Hidden Gems",
+      "slug": "discovering-dresden-with-kids-family-travel-guide",
+      "price_eur": 5,
+      "target": "Families planning trips to Dresden and Saxony who want child-friendly activities",
+      "reason": "Existing travel guides don't address practical family needs like pacing, meal planning, or managing diverse age interests - our tested solutions fill this gap while showcasing Dresden's unexpectedly child-friendly culture.",
+      "language": "en",
+      "pitch": "Unlock Dresden's magical family side with our practical guide featuring 20+ tested kid-approved locations, stress-free itinerary planning, and local secrets to maximize fun while minimizing costs.",
+      "content_html": "<h2>Content</h2><p>1. Why Dresden is Perfect for Families</p><p>2. Top 5 Interactive Museums Kids Will Love</p><p>3. Outdoor Adventures Along the Elbe River</p><p>4. Rainy Day Survival Guide</p><p>5. Local Treats & Child-Friendly Dining</p><p>6. Sample Itineraries by Age Group</p><p>+ Bonus: Public Transport Hacks & Bathroom Map</p>",
+      "pro": false,
+      "created": "2026-10-08T06:10:20",
+      "file": "discovering-dresden-with-kids-family-travel-guide-f936132060018549.pdf",
+      "size": 1881,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist gut strukturiert und enthält keine erfundenen Zahlen, Statistiken oder fragwürdige Quellen. Es werden allgemein bekannte Fakten und praktische Tipps präsentiert, die für Familien geeignet sind. Der Text ist klar und vollständig, ohne Platzhalter oder Abbruch. Keine Verstöße gegen die ",
+      "pay_url": "https://buy.stripe.com/7sY8wQ2fT51h1E25sw2kw2w",
+      "payment_link_id": "plink_1UOAhyJ5iOXkWb9VPxU1EGLw",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Baustellen-Material- & Arbeitszeit-Tracker für Handwerksbetriebe",
+      "slug": "baustellen-material-arbeitszeit-tracker-handwerksbetriebe",
+      "price_eur": 9,
+      "target": "Handwerksbetriebe in Deutschland (Maler, Elektriker, Tischler etc.)",
+      "reason": "Handwerker benötigen eine einfache, aber professionelle Lösung zur Dokumentation von Material und Arbeitszeiten auf der Baustelle. Diese Vorlage ersetzt aufwendige manuelle Berechnungen und hilft bei der Rechnungsstellung.",
+      "language": "de",
+      "pitch": "Professionelle Vorlage zur effizienten Erfassung von Materialverbrauch und Arbeitszeiten auf Baustellen - spart Zeit und erhöht die Übersichtlichkeit für kleine Handwerksfirmen.",
+      "content_html": "<h2>Inhalt</h2><p>Eine durchdachte Excel-Lösung zur täglichen Dokumentation von Materialeinsatz und Arbeitsstunden, inkl. automatischer Berechnungen und Auswertungen.</p>",
+      "pro": true,
+      "created": "2026-10-08T06:10:20",
+      "file": "baustellen-material-arbeitszeit-tracker-handwerksbetriebe-9be1e3e3c785b841.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine funktionale Excel-Vorlage ohne erfundene Zahlen, Statistiken oder gesundheitsbezogene Aussagen. Die Inhalte sind klar strukturiert und entsprechen den angegebenen Nutzungsregeln. Die Beispielberechnungen sind plausibel und die Funktionalitäten sinnvoll beschrieben.",
+      "pay_url": "https://buy.stripe.com/9B614o4o12T996u1cg2kw2x",
+      "payment_link_id": "plink_1UOAhzJ5iOXkWb9VSnNHLofA",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren",
+      "slug": "abenteuer-im-traumland-gute-nacht-geschichten",
+      "price_eur": 5,
+      "target": "Eltern, die ihre Kinder mit fantasievollen und beruhigenden Geschichten ins Bett bringen möchten",
+      "reason": "Dieses E-Book bietet Eltern eine einfache Möglichkeit, ihre Kinder mit fantasievollen Geschichten ins Bett zu bringen. Die Geschichten fördern die Kreativität und Fantasie der Kinder und sind leicht verständlich geschrieben. Der Preis ist fair für die gebotene Qualität und die Anzahl der Geschichten.",
+      "language": "de",
+      "pitch": "7 einzigartige Geschichten, die nicht nur zum Einschlafen einladen, sondern auch die Fantasie der Kinder fördern. Perfekt für die tägliche Gute-Nacht-Routine.",
+      "content_html": "<h2>Inhalt</h2>\n<ul>\n<li>Die Reise zum Mond</li>\n<li>Das Geheimnis des Glitzerwaldes</li>\n<li>Das kleine Boot, das die Sterne sammelte</li>\n<li>Die Prinzessin und der Drache</li>\n<li>Das Abenteuer im Zaubergarten</li>\n<li>Die Suche nach dem goldenen Schlüssel</li>\n<li>Das Lied der Nachtigall</li>\n</ul>\n<h2>Leseprobe</h2>\n<p>Hier ist eine kurze Leseprobe aus der Geschichte 'Die Reise zum Mond': 'Emma schaute durch ihr Fenster und sah den leuchtenden Mond am Himmel. Plötzlich fiel ihr ein kleiner Stern direkt vor ihre Füße...'</p>",
+      "pro": false,
+      "created": "2026-10-08T06:10:20",
+      "file": "abenteuer-im-traumland-gute-nacht-geschichten-61371b71bd35cc98.pdf",
+      "size": 1694,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das E-Book entspricht den Vorgaben: Fantasiegeschichten ohne konkrete Prozentzahlen oder erfundene Studien. Keine Gesundheitsversprechen, keine Fremdmarken oder Rechtsberatung. Geschichten sind kindgerecht und kreativ.",
+      "pay_url": "https://buy.stripe.com/9B614o1bPgJZ5Ui7AE2kw2y",
+      "payment_link_id": "plink_1UOAi0J5iOXkWb9VtIzD1E3B",
       "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Blog-Fehler: 'choices'"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.0003491999999999999,
-      "why": "Video-Skript: Dresden Frauenkirche"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589014073"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Gastfreundschaft mit Gewinn: 7 bewährte Strategien für kleine Restaurants und Cafés"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589022000"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Travel Packing List & Budget Planner for Female Solo Travelers"
-    },
-    {
-      "t": "2026-10-05T14:46:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589022020"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.008302799999999999,
-      "why": "KI-Denken: 智能旅行打包清单与预算跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行打包清单与预算跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.0084552,
-      "why": "KI-Denken: 智能旅行预算与行李清单跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行预算与行李清单跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.0085068,
-      "why": "KI-Denken: 智能环球旅行预算追踪器 & 高效打包清单 (2026专业版)"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.0010103999999999998,
-      "why": "KI-Pruefung: 智能环球旅行预算追踪器 & 高效打包清单 (2026专业版)"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.008281199999999999,
-      "why": "KI-Denken: 智能旅行预算追踪与打包清单"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行预算追踪与打包清单"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.008293199999999999,
-      "why": "KI-Denken: 智能旅行打包清单与预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行打包清单与预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.008361599999999999,
-      "why": "KI-Denken: 智能旅行预算与行李清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行预算与行李清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-05T22:41:23",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 9 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-10-05T22:41:23",
       "eur": -0.008348399999999999,
@@ -4893,6 +4847,141 @@
       "t": "2026-10-07T23:08:25",
       "eur": -0.0003852,
       "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.0146724,
+      "why": "KI-Denken: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxony's Hidden Gems"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.0034248,
+      "why": "KI-Pruefung: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxony's Hidden Gems"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.16,
+      "why": "KI-Bilder: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxony's Hidden Gems"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.009689999999999999,
+      "why": "KI-Denken: Baustellen-Material- & Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.0011832,
+      "why": "KI-Pruefung: Baustellen-Material- & Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.015681599999999997,
+      "why": "KI-Denken: 7 zauberhafte Gute-Nacht-Geschichten für kleine Träumer: Abenteuer im Reich der Fantasie"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.004363199999999999,
+      "why": "KI-Pruefung: 7 zauberhafte Gute-Nacht-Geschichten für kleine Träumer: Abenteuer im Reich der Fantasie"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1472 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.016464,
+      "why": "KI-Denken: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.0043403999999999995,
+      "why": "KI-Pruefung: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.16,
+      "why": "KI-Bilder: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-08T06:21:12",
+      "eur": -0.0013919999999999998,
+      "why": "Audit: Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-08T06:21:12",
+      "eur": -0.0031452,
+      "why": "Audit: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxo"
+    },
+    {
+      "t": "2026-10-08T06:21:12",
+      "eur": -0.0033948,
+      "why": "Audit: Baustellen-Material- & Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-08T06:21:12",
+      "eur": -0.0040236,
+      "why": "Audit: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 "
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": 0,
+      "why": "Audit: 4 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.0014196,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (en)"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.0008088,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (zh)"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.00034319999999999994,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Viajes para la Costa del Mar Báltico y Mar del Norte"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590953291"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590964254"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-08T06:10:20",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590953319"
     }
   ],
   "alive": true,
@@ -5634,6 +5723,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-10-07T23:08:25",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-fairytale-town-germany",
+      "title": "Rothenburg ob der Tauber: A Fairytale Town in Germany",
+      "lang": "en",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-08T06:10:20",
+      "img": true
+    },
+    {
+      "slug": "berlin-brandenburger-tor-lu-you-zhi-nan",
+      "title": "柏林勃兰登堡门旅行指南：探索德国历史的象征",
+      "lang": "zh",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-08T06:10:20",
+      "img": true
     }
   ],
   "videos": [
@@ -6035,6 +6140,16 @@
       "hashtags": "#FrankfurtSkyline #MainMetropole #HessenEntdecken #StädtetripDeutschland #SkylineFrankfurt",
       "voice": "Frankfurt beeindruckt mit einer der spektakulärsten Skyline Europas! Zwischen modernen Hochhäusern und historischen Schätzen pulsiert das Leben. Bestaunen Sie den Main-Tower, bummeln Sie über die lebhafte Zeil oder genießen Sie die Natur an den Ufern des Mains. Hier verbinden sich Dynamik und Tradition perfekt – ein Muss für jede Deutschland-Reise!",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "berlin-brandenburger-tor-lu-you-zhi-nan",
+      "title": "柏林勃兰登堡门旅行指南：探索德国历史的象征",
+      "lang": "zh",
+      "created": "2026-10-08T06:10:20",
+      "hashtags": "#勃兰登堡门 #柏林必去 #德国旅游 #地标建筑 #欧洲历史",
+      "voice": "勃兰登堡门——柏林的璀璨明珠！这座新古典主义杰作不仅是德国的国家象征，更是欧洲历史的活教科书。18根雄伟立柱撑起胜利女神像，见证过拿破仑军队的凯旋，也目睹了柏林墙的倒塌。如今这里成为全球游客的朝圣地，夜晚灯光下的城门堪称摄影天堂！",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
