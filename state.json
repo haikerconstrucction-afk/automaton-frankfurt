@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 475.1878,
-  "spent_eur": 29.4823,
+  "balance_eur": 474.98,
+  "spent_eur": 29.6901,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4056,104 +4056,33 @@
       "pay_url": "https://buy.stripe.com/cNi9AU6w9dxN0zY3ko2kw2B",
       "payment_link_id": "plink_1UOHkFJ5iOXkWb9VEZRIkLFg",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1-5 Propiedades",
+      "slug": "el-pequeno-libro-del-propietario",
+      "price_eur": 5,
+      "target": "Propietarios de 1-5 viviendas en España y Latinoamérica",
+      "reason": "Este libro llena un vacío en el mercado español y latinoamericano, proporcionando estrategias prácticas y específicas para propietarios de 1-5 viviendas. Al enfocarse en la organización y gestión eficiente, ofrece un valor claro a un precio accesible.",
+      "language": "es",
+      "pitch": "Descubre cómo organizar y gestionar tus propiedades de manera eficiente y sin estrés. Con estrategias prácticas para maximizar tu tiempo y reducir las preocupaciones.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introducción</li><li>Capítulo 1: Organiza tus documentos</li><li>Capítulo 2: Mantén un calendario claro</li><li>Capítulo 3: Simplifica la comunicación con los inquilinos</li><li>Capítulo 4: Automatiza los pagos y cobros</li><li>Capítulo 5: Mantén las propiedades en buen estado</li><li>Capítulo 6: Reduce el estrés con herramientas digitales</li><li>Capítulo 7: Planifica para el futuro</li></ul>",
+      "pro": false,
+      "created": "2026-10-08T19:58:46",
+      "file": "el-pequeno-libro-del-propietario-b58ed3ebc2a29246.pdf",
+      "size": 2017,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen. Keine Rechts-/Finanzberatung, Gesundheitsversprechen oder fremde Marken. Sprache ist korrekt Spanisch, keine Platzhalter oder unfertigen Texte. Praktische Tipps ohne konkrete Zahlen oder wissenschaftliche Behauptungen.",
+      "pay_url": "https://buy.stripe.com/6oU14o4o165l0zY3ko2kw2C",
+      "payment_link_id": "plink_1UONuWJ5iOXkWb9VZFwPO1BA",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-06T06:26:17",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589485403"
-    },
-    {
-      "t": "2026-10-06T06:26:17",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Eventos y Finanzas para Asociaciones y Voluntarios"
-    },
-    {
-      "t": "2026-10-06T06:26:17",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589485425"
-    },
-    {
-      "t": "2026-10-06T06:26:17",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-06T06:26:17",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589495200"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.014255999999999996,
-      "why": "KI-Denken: Mon Chien Heureux: 7 Astuces Simples pour une Vie Équilibrée avec votre Compagnon Canin"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.0042756,
-      "why": "KI-Pruefung: Mon Chien Heureux: 7 Astuces Simples pour une Vie Équilibrée avec votre Compagnon Canin"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1406 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.0161004,
-      "why": "KI-Denken: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quotidien Harmonieux"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.0042612,
-      "why": "KI-Pruefung: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quotidien Harmonieux"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quotidien Harmonieux"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.0087312,
-      "why": "KI-Denken: Ultimate Moving & Renovation Budget Tracker for Families"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.0011279999999999999,
-      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Tracker for Families"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.0134148,
-      "why": "KI-Denken: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.0034955999999999993,
-      "why": "KI-Pruefung: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
-    },
-    {
-      "t": "2026-10-06T15:29:29",
-      "eur": -0.0038387999999999994,
-      "why": "Audit: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quot"
-    },
-    {
-      "t": "2026-10-06T15:29:29",
-      "eur": -0.0024647999999999996,
-      "why": "Audit: Ultimate Moving & Renovation Budget Tracker for Families"
-    },
-    {
-      "t": "2026-10-06T15:29:29",
-      "eur": -0.0032556,
-      "why": "Audit: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
-    },
     {
       "t": "2026-10-06T15:15:09",
       "eur": 0,
@@ -5063,6 +4992,96 @@
       "t": "2026-10-08T13:35:56",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591181940"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): 'choices'"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): 'choices'"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): 'choices'"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": -0.0148512,
+      "why": "KI-Denken: El Pequeño manual del propietario: Guía práctica para gestionar de 1 a 5 propiedades sin estrés"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": -0.0040739999999999995,
+      "why": "KI-Pruefung: El Pequeño manual del propietario: Guía práctica para gestionar de 1 a 5 propiedades sin estrés"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): E-Book zu kurz (1268 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": -0.017692799999999998,
+      "why": "KI-Denken: El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1-5 Propiedades"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": -0.004056,
+      "why": "KI-Pruefung: El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1-5 Propiedades"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": -0.16,
+      "why": "KI-Bilder: El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1-5 Propiedades"
+    },
+    {
+      "t": "2026-10-08T20:26:59",
+      "eur": -0.0036864,
+      "why": "Audit: El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": 0,
+      "why": "Audit: 1 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": -0.0014004,
+      "why": "Blog-Artikel: Harz Brocken (fr)"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": -0.0015336,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (de)"
+    },
+    {
+      "t": "2026-10-08T19:58:46",
+      "eur": -0.00039,
+      "why": "Video-Skript: Nordsee Wattenmeer"
     }
   ],
   "alive": true,
@@ -5828,6 +5847,22 @@
       "topic": "Dresden Frauenkirche",
       "created": "2026-10-08T13:35:56",
       "img": true
+    },
+    {
+      "slug": "decouvrez-le-brocken-dans-le-harz",
+      "title": "Découvrez le Brocken dans le Harz : Entre Nature et Histoire",
+      "lang": "fr",
+      "topic": "Harz Brocken",
+      "created": "2026-10-08T19:58:46",
+      "img": true
+    },
+    {
+      "slug": "nordsee-wattenmeer-deutschland",
+      "title": "Entdecke das Nordsee Wattenmeer: Ein einzigartiges Naturparadies in Deutschland",
+      "lang": "de",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-08T19:58:46",
+      "img": true
     }
   ],
   "videos": [
@@ -6249,6 +6284,16 @@
       "hashtags": "#Dresde #Frauenkirche #Alemania #Patrimonio #Barroco",
       "voice": "¡Maravíllate con la Frauenkirche de Dresde! Esta joya barroca, destruida en la guerra y reconstruida piedra a piedra, hoy brilla como símbolo de esperanza. Sube a su cúpula para vistas espectaculares del Elba. Su impresionante interior te transportará al esplendor del siglo XVIII. #AlemaniaTeEspera",
       "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "nordsee-wattenmeer-deutschland",
+      "title": "Entdecke das Nordsee Wattenmeer: Ein einzigartiges Naturparadies in Deutschland",
+      "lang": "de",
+      "created": "2026-10-08T19:58:46",
+      "hashtags": "#Wattenmeer #Nordsee #Naturwunder #Wattwandern #UNESCO",
+      "voice": "Entdecke das UNESCO-Weltnaturerbe Wattenmeer! Wo sich Himmel, Meer und Land berühren. Wandere durchs Watt bei Ebbe, beobachte Vogelschwärme und winzige Krabbeltiere. Ein lebendiges Ökosystem, das sich zweimal täglich völlig verändert. Natur pur zwischen Salzwiesen und Dünen - dein unvergessliches Nordseeabenteuer!",
+      "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
