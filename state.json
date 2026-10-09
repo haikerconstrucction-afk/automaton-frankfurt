@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 474.98,
-  "spent_eur": 29.6901,
+  "balance_eur": 474.1921,
+  "spent_eur": 30.478,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2765,7 +2765,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Excel-Tabelle ist gut strukturiert und bietet nützliche Funktionen zur Budgetverwaltung. Keine Rechts-, Steuer- oder Finanzberatung. Die vorgestellten Berechnungen basieren auf Beispieldaten und sind nachvollziehbar.",
       "pay_url": "https://buy.stripe.com/eVq8wQcUx8dt1E208c2kw1L",
       "payment_link_id": "plink_1UMGM1J5iOXkWb9VrVrYI0YB",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4591542323"
+      }
     },
     {
       "type": "ebook",
@@ -2789,7 +2792,10 @@
       "audit_note": "Die Prozentzahl '20%' in Bezug auf höhere Einkaufskosten bei Hunger scheint erfunden und nicht durch allgemein bekannte Fakten gestützt. Der Rest des Inhalts ist regelkonform und bietet praktische Tipps ohne unzulässige Behauptungen oder Beratung.",
       "pay_url": "https://buy.stripe.com/28E00k3jXctJ4Qe3ko2kw1M",
       "payment_link_id": "plink_1UMLWsJ5iOXkWb9VAMozGbHm",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4591542341"
+      }
     },
     {
       "type": "excel",
@@ -2813,7 +2819,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Klare Beispielrechnungen mit erkennbaren Beispieldaten. Keine Gesundheitsversprechen oder rechtlichen Bedenken. Excel-Funktionen sind korrekt und nachvollziehbar dargestellt.",
       "pay_url": "https://buy.stripe.com/8x2dRaf2F3XdbeC8EI2kw1N",
       "payment_link_id": "plink_1UMLWsJ5iOXkWb9VvBSTUHZW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4591542363"
+      }
     },
     {
       "type": "ebook",
@@ -4080,134 +4089,57 @@
       "pay_url": "https://buy.stripe.com/6oU14o4o165l0zY3ko2kw2C",
       "payment_link_id": "plink_1UONuWJ5iOXkWb9VZFwPO1BA",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能考试预算与复习计划追踪器",
+      "slug": "intelligent-exam-budget-study-plan-tracker",
+      "price_eur": 9,
+      "target": "Studierende und Prüfungsvorbereitung",
+      "reason": "Diese Vorlage bietet Studierenden eine klare Struktur für ihre Prüfungsvorbereitung und hilft ihnen, ihr Budget und ihre Zeit effektiv zu verwalten.",
+      "language": "zh",
+      "pitch": "Effiziente Budgetierung und Zeitplanung für Prüfungsvorbereitungen - alles in einer professionellen Excel-Vorlage.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Studierenden, ihre Prüfungsvorbereitung effizient zu planen und ihr Budget zu verwalten. Enthält Budget-Tracker, Lernplaner und Fortschrittsübersichten.</p>",
+      "pro": true,
+      "created": "2026-10-09T00:25:56",
+      "file": "intelligent-exam-budget-study-plan-tracker-84bdbc7d5120b911.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die Excel-Vorlage ist funktional und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Beispielzahlen in den Tabs sind klar als Beispiele erkennbar und dienen der Veranschaulichung der Funktionen. Die Sprache ist durchgängig korrekt (Chinesisch mit",
+      "pay_url": "https://buy.stripe.com/bJe00k3jXfFV96u3ko2kw2D",
+      "payment_link_id": "plink_1UORudJ5iOXkWb9Viip9eOUz",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客",
+      "slug": "smart-restaurant-and-cafe-success-guide",
+      "price_eur": 5,
+      "target": "小型餐厅与咖啡馆老板",
+      "reason": "小型餐厅与咖啡馆在2026年面临激烈的市场竞争，需要一个简单实用的指南来提升营业额与客户满意度。",
+      "language": "zh",
+      "pitch": "通过7个简单而有效的策略，帮助小型餐厅和咖啡馆吸引更多顾客，提升营业额与客户满意度。",
+      "content_html": "<h2>内容</h2> <ol><li>第一章：优化菜单设计</li><li>第二章：打造独特的顾客体验</li><li>第三章：利用社交媒体提升知名度</li><li>第四章：顾客忠诚度计划</li><li>第五章：成本控制与定价策略</li><li>第六章：员工管理与培训</li><li>第七章：节日与特殊活动的营销策略</li></ol>",
+      "pro": false,
+      "created": "2026-10-09T00:25:56",
+      "file": "smart-restaurant-and-cafe-success-guide-aa214dc1d3276f08.pdf",
+      "size": 2782,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Grundsätzlich nützliche Tipps, jedoch einige erfundene Prozentzahlen ohne Quellenangabe, die entfernt werden sollten.",
+      "pay_url": "https://buy.stripe.com/fZu28sg6J3Xd6YmcUY2kw2E",
+      "payment_link_id": "plink_1UORudJ5iOXkWb9VjPU0SgHi",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.0017795999999999999,
-      "why": "Blog-Artikel: Schwarzwald (fr)"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.0014807999999999998,
-      "why": "Blog-Artikel: Saarland Saarschleife (de)"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": 0,
-      "why": "Video-Fehler: HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589760197"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能园艺与自给自足：简单步骤实现全年丰收"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589760219"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Contenu & Suivi des Performances YouTube"
-    },
-    {
-      "t": "2026-10-06T15:15:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4589760247"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.0091884,
-      "why": "KI-Denken: YouTube Content ROI & Performance Tracker für Creator"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.0012755999999999998,
-      "why": "KI-Pruefung: YouTube Content ROI & Performance Tracker für Creator"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.008758799999999999,
-      "why": "KI-Denken: YouTube-Kanal-Analyse und Content-Planer für Creator"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube-Kanal-Analyse und Content-Planer für Creator"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.0144456,
-      "why": "KI-Denken: Effektive Unterrichtsgestaltung: Praktische Tipps für Lehrer und Nachhilfelehrer"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.003993599999999999,
-      "why": "KI-Pruefung: Effektive Unterrichtsgestaltung: Praktische Tipps für Lehrer und Nachhilfelehrer"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1493 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.0141936,
-      "why": "KI-Denken: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.0039672,
-      "why": "KI-Pruefung: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.16,
-      "why": "KI-Bilder: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.0086568,
-      "why": "KI-Denken: Caregiver Expense Tracker & Budget Planner for Seniors"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Caregiver Expense Tracker & Budget Planner for Seniors"
-    },
     {
       "t": "2026-10-06T21:11:09",
       "eur": -0.0014567999999999998,
@@ -5082,6 +5014,136 @@
       "t": "2026-10-08T19:58:46",
       "eur": -0.00039,
       "why": "Video-Skript: Nordsee Wattenmeer"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.009696,
+      "why": "KI-Denken: 智能期末考试时间计划与进度追踪器 - 专业版"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能期末考试时间计划与进度追踪器 - 专业版"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 7 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.0096612,
+      "why": "KI-Denken: 智能考试预算与复习计划追踪器"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能考试预算与复习计划追踪器"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 429: Too Many Requests"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): 'choices'"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.0145332,
+      "why": "KI-Denken: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.003908399999999999,
+      "why": "KI-Pruefung: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.0102756,
+      "why": "KI-Denken: Planificateur de Voyage Intelligent & Liste de Bagages - Tracker de Budget Professionnel"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): 'choices'"
+    },
+    {
+      "t": "2026-10-09T00:43:11",
+      "eur": -0.0036431999999999997,
+      "why": "Audit: 智能考试预算与复习计划追踪器"
+    },
+    {
+      "t": "2026-10-09T00:43:11",
+      "eur": -0.0041556,
+      "why": "Audit: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Blog-Fehler: 'choices'"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Video-Fehler: 'choices'"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591542323"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Household Budget"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591542341"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-09T00:25:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591542363"
     }
   ],
   "alive": true,
