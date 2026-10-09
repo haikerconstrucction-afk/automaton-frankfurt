@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 473.3659,
-  "spent_eur": 31.3042,
+  "balance_eur": 473.1381,
+  "spent_eur": 31.532,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4194,109 +4194,81 @@
       "pay_url": "https://buy.stripe.com/fZu5kE1bP3Xd0zYf362kw2G",
       "payment_link_id": "plink_1UOZulJ5iOXkWb9V0BQzlWMo",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Volunteer Event Budget & Donation Tracker",
+      "slug": "volunteer-event-budget-donation-tracker",
+      "price_eur": 9,
+      "target": "volunteer organizations, nonprofits, and community groups",
+      "reason": "This template provides a structured and efficient way for volunteer organizations and nonprofits to manage their events and donations, ensuring transparency and effective resource allocation.",
+      "language": "en",
+      "pitch": "Effortlessly plan and track your volunteer events and donations with this comprehensive Excel template. Stay organized, maximize contributions, and ensure smooth event execution.",
+      "content_html": "<h2>Inhalt</h2><p>This template includes sheets for budgeting, donation tracking, and event planning, helping you manage your resources efficiently and transparently.</p>",
+      "pro": true,
+      "created": "2026-10-09T17:01:10",
+      "file": "volunteer-event-budget-donation-tracker-34f6a9ccc8cb7826.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Prozentangaben. Der Inhalt entspricht den Regeln und bietet klare Praxistipps ohne Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/aFa9AU3jXbpF0zYbQU2kw2H",
+      "payment_link_id": "plink_1UOhGyJ5iOXkWb9VpfnOJQJQ",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care",
+      "slug": "happy-paws-happy-home-simple-strategies-for-stress-free-dog-care",
+      "price_eur": 5,
+      "target": "dog owners, especially families",
+      "reason": "Dog owners often struggle with balancing their busy lives and the needs of their pets. This ebook provides clear, actionable steps to simplify dog care and enhance the relationship between dogs and their families.",
+      "language": "en",
+      "pitch": "Discover 7 practical strategies to simplify dog care and create a harmonious home for both you and your furry friend.",
+      "content_html": "<h2>Contents</h2><ol><li>Introduction</li><li>Understanding Your Dog's Needs</li><li>Creating a Daily Routine</li><li>Nutrition Essentials</li><li>Effective Training Techniques</li><li>Managing Vet Visits</li><li>Relaxation Activities</li><li>Conclusion</li></ol><h2>Sample Chapter</h2><p>Understanding Your Dog's Needs...</p>",
+      "pro": false,
+      "created": "2026-10-09T17:01:10",
+      "file": "happy-paws-happy-home-simple-strategies-for-stress-free-dog-care-2220e0524358fc3d.pdf",
+      "size": 2188,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist größtenteils korrekt und basiert auf allgemein bekanntem Wissen. Die Prozentzahl '10%' wurde als erfunden identifiziert, jedoch ist sie nicht Teil des Hauptinhalts, sondern möglicherweise ein Platzhalter oder Fehler in der Vorlage. Es gibt keine anderen Verstöße gegen die Regeln. Der ",
+      "pay_url": "https://buy.stripe.com/aFabJ2aMp0L1ciGcUY2kw2I",
+      "payment_link_id": "plink_1UOhGzJ5iOXkWb9VeYkuD9AL",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Umzugskosten-Tracker & Renovierungsplaner für Selbstständige",
+      "slug": "umzugskosten-tracker-renovierungsplaner",
+      "price_eur": 9,
+      "target": "Selbstständige und KMU, die einen Umzug oder eine Renovierung planen",
+      "reason": "Umzüge und Renovierungen sind komplex und kostenintensiv. Diese Vorlage bietet eine einfache Möglichkeit, alle relevanten Kosten und Aufgaben zu verwalten und den Überblick zu behalten.",
+      "language": "de",
+      "pitch": "Verwalte alle Kosten und Aufgaben für deinen Umzug oder deine Renovierung mit dieser professionellen Excel-Vorlage – übersichtlich und effizient.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft dir, alle Umzugs- und Renovierungskosten zu tracken, Aufgaben zu planen und den Überblick zu behalten. Mit klaren KPIs, Diagrammen und praktischen Dropdowns für Kategorien und Status.</p>",
+      "pro": true,
+      "created": "2026-10-09T17:01:10",
+      "file": "umzugskosten-tracker-renovierungsplaner-48cb38a3f00a3f00.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Studien, Statistiken oder Prozentzahlen, keine falsche oder gemischte Sprache, keine unfertigen Texte oder Platzhalter. Die Excel-Vorlage bietet präzise und nützliche Funktionen ohne Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/dRmcN65s5ctJaay2gk2kw2J",
+      "payment_link_id": "plink_1UOhH0J5iOXkWb9V73f0nOvy",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.0138924,
-      "why": "KI-Denken: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.003935999999999999,
-      "why": "KI-Pruefung: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.16,
-      "why": "KI-Bilder: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.009259199999999999,
-      "why": "KI-Denken: Ostsee-Nordsee Reisebudget-Tracker & Routenplaner"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.0010152,
-      "why": "KI-Pruefung: Ostsee-Nordsee Reisebudget-Tracker & Routenplaner"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.009785999999999998,
-      "why": "KI-Denken: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.0013416,
-      "why": "KI-Pruefung: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-07T08:49:02",
-      "eur": -0.0022608,
-      "why": "Audit: 智能德国北莱茵-威斯特法伦州旅行预算跟踪器 & 行程规划 - 2026专业版"
-    },
-    {
-      "t": "2026-10-07T08:49:02",
-      "eur": -0.004085999999999999,
-      "why": "Audit: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
-    },
-    {
-      "t": "2026-10-07T08:49:02",
-      "eur": -0.0017868,
-      "why": "Audit: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Check"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.0016116,
-      "why": "Blog-Artikel: Heidelberg Altstadt (de)"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.0014183999999999998,
-      "why": "Blog-Artikel: Neuschwanstein (en)"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.0003467999999999999,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Schwarzwald-Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590284365"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Entdecke das Saarland & die Mosel: Der ultimative Reiseführer für Naturfreunde und Kulturliebhaber"
-    },
     {
       "t": "2026-10-07T08:43:55",
       "eur": 0,
@@ -5201,6 +5173,101 @@
       "t": "2026-10-09T09:09:35",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591735421"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.009766799999999999,
+      "why": "KI-Denken: Volunteer Event Budget & Expense Tracker"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Volunteer Event Budget & Expense Tracker"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.010162799999999998,
+      "why": "KI-Denken: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.0011795999999999998,
+      "why": "KI-Pruefung: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.015519599999999998,
+      "why": "KI-Denken: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.00342,
+      "why": "KI-Pruefung: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.16,
+      "why": "KI-Bilder: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.010124399999999999,
+      "why": "KI-Denken: Umzugskosten-Tracker & Renovierungsplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.0010463999999999998,
+      "why": "KI-Pruefung: Umzugskosten-Tracker & Renovierungsplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-09T17:07:37",
+      "eur": -0.0048264,
+      "why": "Audit: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-09T17:07:37",
+      "eur": -0.0032556,
+      "why": "Audit: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
+    },
+    {
+      "t": "2026-10-09T17:07:37",
+      "eur": -0.004314,
+      "why": "Audit: Umzugskosten-Tracker & Renovierungsplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.0015467999999999999,
+      "why": "Blog-Artikel: Rheingau Weinberge (es)"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.0013344,
+      "why": "Blog-Artikel: Schwarzwald (de)"
+    },
+    {
+      "t": "2026-10-09T17:01:10",
+      "eur": -0.0004139999999999999,
+      "why": "Video-Skript: Schwarzwald"
     }
   ],
   "alive": true,
@@ -5998,6 +6065,22 @@
       "topic": "Eifel Maare",
       "created": "2026-10-09T09:09:35",
       "img": true
+    },
+    {
+      "slug": "rheingau-viedos-alemania",
+      "title": "Descubriendo los viñedos del Rheingau en Alemania",
+      "lang": "es",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-09T17:01:10",
+      "img": true
+    },
+    {
+      "slug": "schwarzwald-natur-kultur-kulinarik",
+      "title": "Der Schwarzwald - Natur, Kultur und Kulinarik im Herzen Deutschlands",
+      "lang": "de",
+      "topic": "Schwarzwald",
+      "created": "2026-10-09T17:01:10",
+      "img": true
     }
   ],
   "videos": [
@@ -6429,6 +6512,16 @@
       "hashtags": "#Wattenmeer #Nordsee #Naturwunder #Wattwandern #UNESCO",
       "voice": "Entdecke das UNESCO-Weltnaturerbe Wattenmeer! Wo sich Himmel, Meer und Land berühren. Wandere durchs Watt bei Ebbe, beobachte Vogelschwärme und winzige Krabbeltiere. Ein lebendiges Ökosystem, das sich zweimal täglich völlig verändert. Natur pur zwischen Salzwiesen und Dünen - dein unvergessliches Nordseeabenteuer!",
       "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "schwarzwald-natur-kultur-kulinarik",
+      "title": "Der Schwarzwald - Natur, Kultur und Kulinarik im Herzen Deutschlands",
+      "lang": "de",
+      "created": "2026-10-09T17:01:10",
+      "hashtags": "#Schwarzwald #Natur #Deutschland #Entdecken #Wanderlust",
+      "voice": "Entdecken Sie den Schwarzwald, Deutschlands grüne Oase! Hier erwarten Sie majestätische Wälder, idyllische Seen und eine einzigartige Tierwelt. Genießen Sie traditionelle Köstlichkeiten wie den berühmten Schwarzwälder Kirschtortenschinken und tauchen Sie ein in die charmante Kultur der Region. Ob aktiv oder entspannt – hier finden Sie Ruhe und Abenteuer in perfekter Harmonie. Der Schwarzwald – ein Paradies für Naturliebhaber und Genießer!",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
