@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 473.1381,
-  "spent_eur": 31.532,
+  "balance_eur": 472.7558,
+  "spent_eur": 31.9143,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4266,94 +4266,81 @@
       "pay_url": "https://buy.stripe.com/dRmcN65s5ctJaay2gk2kw2J",
       "payment_link_id": "plink_1UOhH0J5iOXkWb9V73f0nOvy",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte",
+      "slug": "gemaesesegarten-fuer-einsteiger-schritte-zur-ernte",
+      "price_eur": 5,
+      "target": "Gärtner und Selbstversorger",
+      "reason": "Dieses E-Book bietet praktische, leicht verständliche Anleitungen für Anfänger, die ihren eigenen Gemüsegarten anlegen möchten. Es ist ein kostengünstiger Einstieg in die Selbstversorgung und ermöglicht es jedem, unabhängig von Erfahrung oder Platz, erfolgreich Gemüse anzubauen.",
+      "language": "de",
+      "pitch": "Lerne, wie du mit minimalem Aufwand deinen eigenen Gemüsegarten anlegst und frisches Gemüse erntest. Praktische Tipps für Anfänger!",
+      "content_html": "<h2>Inhalt</h2> <p>Entdecke, wie einfach es ist, deinen eigenen Gemüsegarten zu starten und frisches Gemüse zu ernten. Dieses E-Book führt dich Schritt für Schritt durch den Prozess und bietet praktische Beispiele für den Erfolg.</p>",
+      "pro": false,
+      "created": "2026-10-09T22:42:07",
+      "file": "gemaesesegarten-fuer-einsteiger-schritte-zur-ernte-799c71b0a494a90c.pdf",
+      "size": 1793,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist allgemein gehalten und enthält keine erfunden Zahlen, Statistiken oder Gesundheitsversprechen. Die Tipps sind praktisch und für Einsteiger geeignet. Keine Regelverstöße erkennbar.",
+      "pay_url": "https://buy.stripe.com/00w3cwaMpctJ3MaaMQ2kw2K",
+      "payment_link_id": "plink_1UOmakJ5iOXkWb9VLG4Wfy88",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Content Monetization Tracker & Planner",
+      "slug": "youtube-content-monetization-tracker-planner",
+      "price_eur": 9,
+      "target": "Content Creator and YouTube Creators",
+      "reason": "This tool provides a clear, organized, and professional way for YouTube creators to track and optimize their monetization strategies, ensuring they maximize their income and plan future content effectively.",
+      "language": "en",
+      "pitch": "Streamline your YouTube monetization strategy with this professional Excel tracker. Plan, track, and optimize your content revenue effortlessly.",
+      "content_html": "<h2>Content</h2><p>This Excel template helps you manage and optimize your YouTube content monetization. Track ad revenue, sponsorships, and other income streams while planning future content with ease.</p>",
+      "pro": true,
+      "created": "2026-10-09T22:42:07",
+      "file": "youtube-content-monetization-tracker-planner-abadbb9cd1ac9c96.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Quellen. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen der Funktionsdemonstration. Das Produkt ist eine legitime Excel-Vorlage ohne falsche Behauptungen oder Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/00wdRa6w92T96YmdZ22kw2L",
+      "payment_link_id": "plink_1UOmalJ5iOXkWb9VQhTSAYOA",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classroom",
+      "slug": "stress-free-teacher-time-management-strategies",
+      "price_eur": 5,
+      "target": "teachers and tutors (primarily female educators looking for work-life balance solutions)",
+      "reason": "Teachers face increasing time pressures with little practical support. This fills the gap with actionable, stress-reducing strategies specifically for educators - a niche not fully addressed by current offerings. The price point makes it accessible while clearly delivering value through concrete time-saving methods.",
+      "language": "en",
+      "pitch": "Discover easy-to-implement techniques to reduce workload stress and bring joy back to teaching. Perfect for modern educators juggling multiple responsibilities.",
+      "content_html": "<h2>Content</h2><ol><li>Introduction: Why Teachers Burn Out (And How To Avoid It)</li><li>The 15-Minute Daily Planning Method</li><li>Batch Processing: How To Cut Grading Time In Half</li><li>Energy Management: Teaching With Less Exhaustion</li><li>The Magic of Student-Led Learning Zones</li><li>Digital Tools That Actually Save Time (2026 Edition)</li><li>Creating Sustainable Routines That Last</li></ol><p>Sample Chapter Excerpt: \"Instead of planning each lesson separately, try theming your weeks...\"</p>",
+      "pro": false,
+      "created": "2026-10-09T22:42:07",
+      "file": "stress-free-teacher-time-management-strategies-7495b24e7f1e718e.pdf",
+      "size": 1662,
+      "sales": 0,
+      "score": 9,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist größtenteils ehrlich und praktisch orientiert, enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es gibt keine Gesundheitsversprechen, keine fremden Marken/Figuren und keine Rechts-/Finanz-/Steuerberatung. Der Text ist komplett und enthält keine Platzhalter oder unfert",
+      "pay_url": "https://buy.stripe.com/6oU5kE8EhdxNdmK3ko2kw2M",
+      "payment_link_id": "plink_1UOmamJ5iOXkWb9VRdy3MXoP",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590284391"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate NRW Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590284413"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.015747599999999997,
-      "why": "KI-Denken: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.004213199999999999,
-      "why": "KI-Pruefung: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.16,
-      "why": "KI-Bilder: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.009515999999999998,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Travel Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.0011327999999999998,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Travel Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.009201599999999999,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.009248399999999999,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Travel Budget Planner"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.009735599999999999,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Trip Planner for Families: Budget & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.0013919999999999998,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Trip Planner for Families: Budget & Itinerary Tracker"
-    },
     {
       "t": "2026-10-07T17:27:46",
       "eur": 0,
@@ -5268,6 +5255,91 @@
       "t": "2026-10-09T17:01:10",
       "eur": -0.0004139999999999999,
       "why": "Video-Skript: Schwarzwald"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.0170688,
+      "why": "KI-Denken: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.0043092,
+      "why": "KI-Pruefung: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.16,
+      "why": "KI-Bilder: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.010057199999999999,
+      "why": "KI-Denken: YouTube Content Monetization Tracker & Planner"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube Content Monetization Tracker & Planner"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.0149412,
+      "why": "KI-Denken: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classroom"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.0033587999999999995,
+      "why": "KI-Pruefung: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classroom"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classroom"
+    },
+    {
+      "t": "2026-10-09T22:48:25",
+      "eur": -0.003953999999999999,
+      "why": "Audit: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
+    },
+    {
+      "t": "2026-10-09T22:48:25",
+      "eur": -0.002232,
+      "why": "Audit: YouTube Content Monetization Tracker & Planner"
+    },
+    {
+      "t": "2026-10-09T22:48:25",
+      "eur": -0.003192,
+      "why": "Audit: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classr"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.0012143999999999998,
+      "why": "Blog-Artikel: Saarland Saarschleife (en)"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.0006167999999999999,
+      "why": "Blog-Artikel: Koeln Dom (zh)"
+    },
+    {
+      "t": "2026-10-09T22:42:07",
+      "eur": -0.0003372,
+      "why": "Video-Skript: Koeln Dom"
     }
   ],
   "alive": true,
@@ -6080,6 +6152,22 @@
       "lang": "de",
       "topic": "Schwarzwald",
       "created": "2026-10-09T17:01:10",
+      "img": true
+    },
+    {
+      "slug": "discover-the-enchanting-saarland-saarschleife-germanys-hidde",
+      "title": "Discover the Enchanting Saarland Saarschleife: Germany's Hidden Gem",
+      "lang": "en",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-09T22:42:07",
+      "img": true
+    },
+    {
+      "slug": "koeln-dom-lvyou-zhinan",
+      "title": "科隆大教堂攻略：德国哥特式建筑的巅峰之作",
+      "lang": "zh",
+      "topic": "Koeln Dom",
+      "created": "2026-10-09T22:42:07",
       "img": true
     }
   ],
