@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 474.1921,
-  "spent_eur": 30.478,
+  "balance_eur": 473.3659,
+  "spent_eur": 31.3042,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2846,7 +2846,10 @@
       "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken oder Zahlen. Es werden allgemein bekannte Praxistipps gegeben, ohne spezifische Rechts-, Steuer- oder Finanzberatung. Die Sprache ist klar und sachlich, es gibt keine Platzhalter oder unfertigen Texte. Die Inhalte sind wiederholungsarm und fach",
       "pay_url": "https://buy.stripe.com/fZu4gA1bP9hxbeCcUY2kw1O",
       "payment_link_id": "plink_1UMLWtJ5iOXkWb9VQ3g9b0Ax",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4591747862"
+      }
     },
     {
       "type": "excel",
@@ -2870,7 +2873,10 @@
       "audit_note": "Produkt entspricht den Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Es handelt sich um einen funktionalen Studienplaner ohne irreführenden oder falschen Inhalt.",
       "pay_url": "https://buy.stripe.com/4gM14of2F51hbeC9IM2kw1P",
       "payment_link_id": "plink_1UMRUMJ5iOXkWb9VB4tj5cSE",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4591735405"
+      }
     },
     {
       "type": "ebook",
@@ -2894,7 +2900,10 @@
       "audit_note": "Der Inhalt hält sich an die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist klar und einheitlich, die Texte sind vollständig und frei von Platzhaltern. Es werden keine Gesundheitsversprechen oder Beratungen gegeben, und es gibt keine Nutzung von fremden Mark",
       "pay_url": "https://buy.stripe.com/5kQ00kf2FalBgyW5sw2kw1Q",
       "payment_link_id": "plink_1UMRUNJ5iOXkWb9VX9htbBFJ",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4591735421"
+      }
     },
     {
       "type": "excel",
@@ -4137,179 +4146,57 @@
       "pay_url": "https://buy.stripe.com/fZu28sg6J3Xd6YmcUY2kw2E",
       "payment_link_id": "plink_1UORudJ5iOXkWb9VjPU0SgHi",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026",
+      "slug": "planificateur-voyage-liste-bagages-professionnel",
+      "price_eur": 9,
+      "target": "Freelancers, entrepreneurs et voyageurs autonomes qui souhaitent organiser leurs voyages professionnels et personnels de manière efficace",
+      "reason": "Ce produit comble un manque dans le marché francophone avec un outil professionnel et complet pour la planification de voyages, répondant au besoin croissant de solutions d'organisation pour travailleurs autonomes et entrepreneurs fréquemment en déplacement.",
+      "language": "fr",
+      "pitch": "Optimisez vos voyages avec ce planificateur complet incluant budget, itinéraire et liste de bagages intelligente. Tout en un seul fichier Excel professionnel.",
+      "content_html": "<h2>Contenu</h2><p>Un outil tout-en-un pour planifier vos voyages en 2026 : suivi des dépenses, itinéraire détaillé et liste de bagages personnalisable.</p>",
+      "pro": true,
+      "created": "2026-10-09T09:09:35",
+      "file": "planificateur-voyage-liste-bagages-professionnel-f64294abf013c9c5.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Statistiken, Prozentzahlen oder Studien erkennbar. Sprache ist klar und einheitlich, keine Regelverstöße wie Gesundheitsversprechen, Rechtsberatung oder Markennutzung. Beispielrechnungen sind plausibel und klar als Beispiel markiert. Verbesserungspotenzial: Berechnete Kennzahlen kön",
+      "pay_url": "https://buy.stripe.com/8x2aEYaMpalB6YmdZ22kw2F",
+      "payment_link_id": "plink_1UOZulJ5iOXkWb9Vz96toszj",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus",
+      "slug": "boostez-vos-ventes-sur-etsy-7-strategies-simples-pour-augmenter-vos-revenus",
+      "price_eur": 5,
+      "target": "Online-Händler und Etsy-Verkäufer",
+      "reason": "Ce livre répond à un besoin spécifique des vendeurs sur Etsy en offrant des conseils pratiques et faciles à mettre en œuvre pour augmenter leurs ventes. Il est conçu pour être accessible et utile, même pour ceux qui débutent dans le commerce en ligne.",
+      "language": "fr",
+      "pitch": "Découvrez des techniques éprouvées pour maximiser vos ventes sur Etsy en seulement 7 étapes faciles, avec des conseils pratiques et des exemples concrets.",
+      "content_html": "<h2>Contenu</h2><ul><li>Introduction</li><li>Stratégie 1: Optimisation de vos titres et descriptions</li><li>Stratégie 2: Utilisation efficace des tags</li><li>Stratégie 3: Photographie professionnelle de vos produits</li><li>Stratégie 4: Gestion des avis clients</li><li>Stratégie 5: Promotion sur les réseaux sociaux</li><li>Stratégie 6: Analyse et ajustement de vos prix</li><li>Stratégie 7: Expansion de votre gamme de produits</li></ul>",
+      "pro": false,
+      "created": "2026-10-09T09:09:35",
+      "file": "boostez-vos-ventes-sur-etsy-7-strategies-simples-pour-augmenter-vos-revenus-bd8d658588ec1d39.pdf",
+      "size": 2204,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Die Prozentzahlen '30%' und '5%' sind nicht weiter erklärt oder belegt und könnten erfunden wirken. Der Rest des Inhalts hält sich jedoch an die Regeln und bietet allgemein bekanntes Wissen und praktische Tipps.",
+      "pay_url": "https://buy.stripe.com/fZu5kE1bP3Xd0zYf362kw2G",
+      "payment_link_id": "plink_1UOZulJ5iOXkWb9V0BQzlWMo",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-06T21:11:09",
-      "eur": -0.0014567999999999998,
-      "why": "Audit: YouTube-Kanal-Analyse und Content-Planer für Creator"
-    },
-    {
-      "t": "2026-10-06T21:11:09",
-      "eur": -0.0037175999999999997,
-      "why": "Audit: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategi"
-    },
-    {
-      "t": "2026-10-06T21:11:09",
-      "eur": -0.0013524,
-      "why": "Audit: Caregiver Expense Tracker & Budget Planner for Seniors"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.0008483999999999999,
-      "why": "Blog-Artikel: Koeln Dom (en)"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.0011279999999999999,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (zh)"
-    },
-    {
-      "t": "2026-10-06T21:01:31",
-      "eur": -0.00033,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.014391599999999997,
-      "why": "KI-Denken: The Freelancer's Guide to Stress-Free Time Management"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.0034079999999999996,
-      "why": "KI-Pruefung: The Freelancer's Guide to Stress-Free Time Management"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Freelancer's Guide to Stress-Free Time Management"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.0090672,
-      "why": "KI-Denken: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.0011376,
-      "why": "KI-Pruefung: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.0168672,
-      "why": "KI-Denken: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.0042899999999999995,
-      "why": "KI-Pruefung: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.16,
-      "why": "KI-Bilder: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
-    },
-    {
-      "t": "2026-10-07T01:46:10",
-      "eur": -0.003192,
-      "why": "Audit: The Freelancer's Guide to Stress-Free Time Management"
-    },
-    {
-      "t": "2026-10-07T01:46:10",
-      "eur": -0.0023975999999999997,
-      "why": "Audit: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional par"
-    },
-    {
-      "t": "2026-10-07T01:46:10",
-      "eur": -0.003926399999999999,
-      "why": "Audit: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.0012155999999999998,
-      "why": "Blog-Artikel: Bodensee (es)"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.0013751999999999998,
-      "why": "Blog-Artikel: Mosel Cochem (fr)"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.00038399999999999996,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Guide Pratique pour Enseignants et Tuteurs : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590124261"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Caregiver Expense Tracker & Budget Planner for Seniors"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590135600"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Freelancer's Guide to Work-Life Balance: Simple Strategies for Busy Families"
-    },
-    {
-      "t": "2026-10-07T01:35:42",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590135630"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.0090936,
-      "why": "KI-Denken: 智能德国北莱茵-威斯特法伦州旅行预算跟踪器 & 行程规划 - 2026专业版"
-    },
-    {
-      "t": "2026-10-07T08:43:55",
-      "eur": -0.001044,
-      "why": "KI-Pruefung: 智能德国北莱茵-威斯特法伦州旅行预算跟踪器 & 行程规划 - 2026专业版"
-    },
     {
       "t": "2026-10-07T08:43:55",
       "eur": -0.0138924,
@@ -5144,6 +5031,176 @@
       "t": "2026-10-09T00:25:56",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591542363"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0101988,
+      "why": "KI-Denken: Planificateur de Voyage Intelligent & Liste de Bagages - Modèle Professionnel 2026"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0012155999999999998,
+      "why": "KI-Pruefung: Planificateur de Voyage Intelligent & Liste de Bagages - Modèle Professionnel 2026"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 7 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0100656,
+      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages - Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0012167999999999999,
+      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages - Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.009874799999999998,
+      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Professionnel"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0010019999999999999,
+      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Professionnel"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.010097999999999998,
+      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0011783999999999998,
+      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0177792,
+      "why": "KI-Denken: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0038891999999999998,
+      "why": "KI-Pruefung: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.16,
+      "why": "KI-Bilder: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.009836399999999999,
+      "why": "KI-Denken: Event Budget Tracker & Volunteer Management for Clubs"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Event Budget Tracker & Volunteer Management for Clubs"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.009951599999999998,
+      "why": "KI-Denken: Non-Profit Volunteer Management & Event Budget Tracker"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0010332,
+      "why": "KI-Pruefung: Non-Profit Volunteer Management & Event Budget Tracker"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-09T09:16:20",
+      "eur": -0.0015539999999999998,
+      "why": "Audit: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
+    },
+    {
+      "t": "2026-10-09T09:16:20",
+      "eur": -0.0036731999999999997,
+      "why": "Audit: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0011556,
+      "why": "Blog-Artikel: Muenchen Marienplatz (en)"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.0009348,
+      "why": "Blog-Artikel: Eifel Maare (zh)"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.00039,
+      "why": "Video-Skript: Eifel Maare"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591747862"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Exam Countdown Planner & Study Progress Tracker"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591735405"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers & Boost Your Cafe's Profits"
+    },
+    {
+      "t": "2026-10-09T09:09:35",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591735421"
     }
   ],
   "alive": true,
@@ -5924,6 +5981,22 @@
       "lang": "de",
       "topic": "Nordsee Wattenmeer",
       "created": "2026-10-08T19:58:46",
+      "img": true
+    },
+    {
+      "slug": "marienplatz-munich-heartbeat-bavaria",
+      "title": "Marienplatz Munich: The Heartbeat of Bavaria",
+      "lang": "en",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-09T09:09:35",
+      "img": true
+    },
+    {
+      "slug": "tan-mi-de-guo-ai-fei-er-ma-er-hu-da-zi-ran-di-mei-li-kui-zen",
+      "title": "探秘德国艾费尔玛珥湖：大自然的美丽馈赠",
+      "lang": "zh",
+      "topic": "Eifel Maare",
+      "created": "2026-10-09T09:09:35",
       "img": true
     }
   ],
