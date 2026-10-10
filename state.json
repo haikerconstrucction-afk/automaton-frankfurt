@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 470.9734,
-  "spent_eur": 33.6967,
+  "balance_eur": 470.761,
+  "spent_eur": 33.9091,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4500,94 +4500,81 @@
       "pay_url": "https://buy.stripe.com/9B6eVe4o1dxNeqOcUY2kw2S",
       "payment_link_id": "plink_1UOzdqJ5iOXkWb9Vqd5EGeG3",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer",
+      "slug": "ultimate-north-baltic-sea-family-travel-budget-planner-route-organizer",
+      "price_eur": 9,
+      "target": "Families planning trips to Germany's North and Baltic Seas",
+      "reason": "This Excel template provides families with a comprehensive tool to plan and manage their trip to Germany's North and Baltic Seas, ensuring they stay on budget and make the most of their journey.",
+      "language": "en",
+      "pitch": "Plan your family adventure to the North and Baltic Seas with ease. Track expenses, organize routes, and ensure a stress-free trip with this comprehensive Excel planner.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps you manage all aspects of your family trip to Germany's North and Baltic Seas. From tracking daily expenses to organizing your travel route, this planner ensures you stay on budget and make the most of your journey.</p>",
+      "pro": true,
+      "created": "2026-10-10T18:39:35",
+      "file": "ultimate-north-baltic-sea-family-travel-budget-planner-route-organizer-0a52304e8c458bee.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Der Inhalt ist klar strukturiert und frei von Regelverstößen. Die Beispieldaten sind plausibel und entsprechen den berechneten Kennzahlen.",
+      "pay_url": "https://buy.stripe.com/dRm28s7AdeBRciG6wA2kw2T",
+      "payment_link_id": "plink_1UP5F9J5iOXkWb9VOhoUwsAG",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide",
+      "slug": "discover-rhine-frankfurt-heidelberg-family-travel-guide",
+      "price_eur": 5,
+      "target": "Families planning a trip to Rhine, Frankfurt, and Heidelberg",
+      "reason": "This guide fills a gap by offering a practical, family-friendly travel resource for Rhine, Frankfurt, and Heidelberg, combining historical insights, practical tips, and budget-friendly activities.",
+      "language": "en",
+      "pitch": "Explore the Rhine, Frankfurt & Heidelberg with ease and joy! This guide offers practical tips, hidden gems, and family-friendly activities to make your trip unforgettable.",
+      "content_html": "<h2>Content</h2><ul><li>Introduction: Why Visit Rhine, Frankfurt & Heidelberg?</li><li>Chapter 1: Best Family-Friendly Attractions in Rhine</li><li>Chapter 2: Exploring Frankfurt with Kids</li><li>Chapter 3: Heidelberg’s Hidden Gems for Families</li><li>Chapter 4: Practical Travel Tips for Families</li><li>Chapter 5: Budget-Friendly Activities</li><li>Chapter 6: Creating Lasting Memories</li></ul>",
+      "pro": false,
+      "created": "2026-10-10T18:39:35",
+      "file": "discover-rhine-frankfurt-heidelberg-family-travel-guide-0adfb4646e0abc7f.pdf",
+      "size": 1905,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils regelkonform. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Text enthält praktische Tipps und allgemein bekannte Informationen. Leichte Wiederholungen und eine unvollständige Stelle (abgebrochener Satz im Abschnitt 8) liegen vor, aber dies ist kein",
+      "pay_url": "https://buy.stripe.com/cNi9AU1bP9hxciG7AE2kw2U",
+      "payment_link_id": "plink_1UP5FAJ5iOXkWb9V8Ppe8yaN",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer für Selbstständige",
+      "slug": "berlin-potsdam-reisebudget-tracker-itinerary-planer",
+      "price_eur": 9,
+      "target": "Selbstständige und KMU, die Geschäftsreisen nach Berlin und Potsdam planen",
+      "reason": "Dieses Tool bietet Selbstständigen und KMUs eine effiziente Möglichkeit, ihre Geschäftsreisen nach Berlin und Potsdam zu planen und ihr Budget zu kontrollieren, was Zeit und Kosten spart.",
+      "language": "de",
+      "pitch": "Planen Sie Ihre Geschäftsreisen nach Berlin & Potsdam effizient mit diesem professionellen Excel-Tracker – Budgetkontrolle & Zeitplanung in einem Tool.",
+      "content_html": "<h2>Inhalt</h2><p>Dieses Excel-Tool hilft Ihnen, Ihre Geschäftsreisen nach Berlin und Potsdam detailliert zu planen und Ihr Budget zu verwalten. Nutzen Sie die vorgefertigten Vorlagen, um Ihre Ausgaben zu tracken, Ihre Termine zu organisieren und Ihre Reiseeffizienz zu steigern.</p>",
+      "pro": true,
+      "created": "2026-10-10T18:39:35",
+      "file": "berlin-potsdam-reisebudget-tracker-itinerary-planer-1683fed338874bb8.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Kriterien: Keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Rechts- oder Steuerberatung, keine Gesundheitsversprechen oder fremde Marken. Die Excel-Vorlage ist funktional und für den angegebenen Zweck geeignet. Einige kleine Verbesserungen bei der Formatierung ",
+      "pay_url": "https://buy.stripe.com/14A7sM9IleBRdmK9IM2kw2V",
+      "payment_link_id": "plink_1UP5FBJ5iOXkWb9ViJIZk565",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590964254"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590953319"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.0095544,
-      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.0010379999999999999,
-      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.01404,
-      "why": "KI-Denken: 7 Simple Ways to Slash Household Expenses Without Sacrificing Comfort"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.0034367999999999994,
-      "why": "KI-Pruefung: 7 Simple Ways to Slash Household Expenses Without Sacrificing Comfort"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Simple Ways to Slash Household Expenses Without Sacrificing Comfort"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.0098652,
-      "why": "KI-Denken: Planificador Avanzado de Entrenamiento y Nutrición para Entrenadores Personales"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.0011519999999999998,
-      "why": "KI-Pruefung: Planificador Avanzado de Entrenamiento y Nutrición para Entrenadores Personales"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.0096756,
-      "why": "KI-Denken: Planificador Mensual de Entrenamiento y Nutrición para Entrenadores Personales"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.009984,
-      "why": "KI-Denken: Planificador de Entrenamiento y Nutrición para Entrenadores Masculinos"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.0014375999999999998,
-      "why": "KI-Pruefung: Planificador de Entrenamiento y Nutrición para Entrenadores Masculinos"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.009803999999999998,
-      "why": "KI-Denken: Planificador de Entrenamiento y Nutrición para Entrenadores Personales"
-    },
     {
       "t": "2026-10-08T13:35:56",
       "eur": -0.0011148,
@@ -5507,6 +5494,86 @@
       "t": "2026-10-10T12:37:11",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592486125"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.010682399999999998,
+      "why": "KI-Denken: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.0010884,
+      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.016248,
+      "why": "KI-Denken: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.0033852,
+      "why": "KI-Pruefung: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.16,
+      "why": "KI-Bilder: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.0104484,
+      "why": "KI-Denken: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-10T18:43:25",
+      "eur": -0.0016176,
+      "why": "Audit: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
+    },
+    {
+      "t": "2026-10-10T18:43:25",
+      "eur": -0.0031188,
+      "why": "Audit: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-10-10T18:43:25",
+      "eur": -0.0022308,
+      "why": "Audit: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.000966,
+      "why": "Blog-Artikel: Neuschwanstein (zh)"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.0012611999999999999,
+      "why": "Blog-Artikel: Saechsische Schweiz (es)"
+    },
+    {
+      "t": "2026-10-10T18:39:35",
+      "eur": -0.0003515999999999999,
+      "why": "Video-Skript: Saechsische Schweiz"
     }
   ],
   "alive": true,
@@ -6368,6 +6435,22 @@
       "topic": "Heidelberg Altstadt",
       "created": "2026-10-10T12:37:11",
       "img": true
+    },
+    {
+      "slug": "tan-mi-de-guo-xin-tian-e-bao-tong-hua-cheng-bao-de-meng-huan",
+      "title": "探秘德国新天鹅堡：童话城堡的梦幻之旅",
+      "lang": "zh",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-10T18:39:35",
+      "img": true
+    },
+    {
+      "slug": "sajonia-suiza-paraiso-natural-alemania",
+      "title": "Sajonia Suiza: Un paraíso natural en Alemania",
+      "lang": "es",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-10T18:39:35",
+      "img": true
     }
   ],
   "videos": [
@@ -6829,6 +6912,16 @@
       "hashtags": "#HeidelbergAltstadt #GermanyTravel #HistoricGermany #CastleViews #TravelInspiration",
       "voice": "Welcome to Heidelberg Altstadt, the heart of Heidelberg, where history and culture blend seamlessly. Stroll along cobblestone streets lined with charming boutiques and cozy cafés. Marvel at the iconic Heidelberg Castle, perched above the Neckar River, offering panoramic views. Discover the Old University, a symbol of knowledge and tradition. End your day at the Philosophers' Walk, a serene spot to reflect and take in the beauty. Heidelberg Altstadt – a place where every corner tells a story.",
       "credits": "Foto: -wuppertaler, CC BY-SA 4.0, via Wikimedia Commons; Foto: KaiBorgeest, CC BY-SA 4.0, via Wikimedia Commons; Foto: No machine-readable author provided. Martinw2 assumed (based on copyright claims, CC BY-SA 3.0, via Wikimedia Commons; Foto: Schlurcher, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "sajonia-suiza-paraiso-natural-alemania",
+      "title": "Sajonia Suiza: Un paraíso natural en Alemania",
+      "lang": "es",
+      "created": "2026-10-10T18:39:35",
+      "hashtags": "#suizasajona #alemania #naturaleza #senderismo #viajes",
+      "voice": "¡Bienvenidos a la Suiza Sajona en Alemania! Un paraíso para amantes de la naturaleza. Descubre formaciones rocosas únicas, miradores increíbles y bosques mágicos. Caminar por sus senderos es como entrar en un cuento. ¡Un destino perfecto para desconectar y llenarte de energía!",
+      "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
