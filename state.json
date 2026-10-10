@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 472.7558,
-  "spent_eur": 31.9143,
+  "balance_eur": 471.9668,
+  "spent_eur": 32.7033,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -2927,7 +2927,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Quellen. Die berechneten Kennzahlen sind plausibel und entsprechen den Beispieldaten. Keine Regelverstöße erkennbar. Die Sprache ist einheitlich Spanisch, keine unfertigen Texte oder Platzhalter.",
       "pay_url": "https://buy.stripe.com/3cI7sM4o1ctJdmKaMQ2kw1R",
       "payment_link_id": "plink_1UMRUOJ5iOXkWb9VLm7UQvE2",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4592331977"
+      }
     },
     {
       "type": "ebook",
@@ -2951,7 +2954,10 @@
       "audit_note": "Der Inhalt bietet praktische Tipps ohne erfundene Studien, Statistiken oder Prozentzahlen. Keine Regelverstöße erkennbar.",
       "pay_url": "https://buy.stripe.com/6oU9AU7AddxN96u3ko2kw1S",
       "payment_link_id": "plink_1UMVrlJ5iOXkWb9VEzXGpPLA",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4592346066"
+      }
     },
     {
       "type": "excel",
@@ -2975,7 +2981,10 @@
       "audit_note": "Das Produkt erfüllt die Regeln. Es enthält keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Es ist vollständig auf Chinesisch geschrieben und enthält keine Platzhalter oder unfertigen Texte. Es bietet keine Rechts-, Steuer-, Finanz- oder Medizinberatung und macht keine Gesundheitsv",
       "pay_url": "https://buy.stripe.com/28EaEY3jXfFV82q7AE2kw1T",
       "payment_link_id": "plink_1UMVrlJ5iOXkWb9VLG3JgPvd",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4592346076"
+      }
     },
     {
       "type": "ebook",
@@ -4338,114 +4347,81 @@
       "pay_url": "https://buy.stripe.com/6oU5kE8EhdxNdmK3ko2kw2M",
       "payment_link_id": "plink_1UOmamJ5iOXkWb9VRdy3MXoP",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Control de Gastos y Planificación para Cuidadores de Adultos Mayores",
+      "slug": "control-gastos-planificacion-cuidadores-adultos-mayores",
+      "price_eur": 9,
+      "target": "Hombres cuidadores de familiares mayores y pequeñas organizaciones de cuidados",
+      "reason": "Los cuidadores de adultos mayores necesitan una herramienta simple pero profesional para organizar sus múltiples gastos y planificar mejor su presupuesto, evitando sorpresas financieras.",
+      "language": "es",
+      "pitch": "Organiza y controla todos los gastos relacionados con el cuidado de adultos mayores en un solo lugar. Optimiza tu presupuesto y planificación con esta herramienta profesional.",
+      "content_html": "<h2>Incluye</h2><ul><li>Registro detallado de gastos diarios</li><li>Planificación mensual de presupuesto</li><li>Seguimiento de medicamentos y suministros</li><li>Dashboard con KPIs clave</li></ul>",
+      "pro": true,
+      "created": "2026-10-10T05:57:05",
+      "file": "control-gastos-planificacion-cuidadores-adultos-mayores-f79c7da3ce2a32a0.xlsx",
+      "size": 17,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt erfüllt alle Anforderungen: Keine erfundenen Studien/Statistiken, klare Funktionsbeschreibung ohne falsche Versprechen, korrekte Excel-Formeln und Beispieldaten. Die Beispielberechnungen sind plausibel. Keine Regelverstöße feststellbar.",
+      "pay_url": "https://buy.stripe.com/fZufZi3jXdxN5Ui6wA2kw2N",
+      "payment_link_id": "plink_1UOtMNJ5iOXkWb9VEW1GGYT9",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Autónomos",
+      "slug": "7-pasos-para-convertirte-en-un-freelancer-exitoso",
+      "price_eur": 5,
+      "target": "Hombres autónomos y freelancers en España y Latinoamérica que buscan mejorar su productividad y organización",
+      "reason": "Muchos freelancers hombres en español carecen de guías prácticas adaptadas a su realidad cultural y desafíos específicos. Este ebook ofrece consejos concretos con ejemplos relevantes para el mercado hispanohablante, sin caer en clichés.",
+      "language": "es",
+      "pitch": "Descubre las estrategias clave para organizar tu trabajo, aumentar tu eficiencia y gestionar tu negocio como freelancer con esta guía práctica llena de ejemplos reales.",
+      "content_html": "<h2>Contenido</h2><ol><li>Cómo definir tus servicios y precios</li><li>Organización diaria para maximizar tu tiempo</li><li>Herramientas digitales esenciales</li><li>Gestión de clientes y comunicación efectiva</li><li>Mantenimiento del equilibrio trabajo-vida</li><li>Estrategias para ahorrar y gestionar finanzas</li><li>Cómo seguir creciendo profesionalmente</li></ol><p>Incluye plantillas descargables para planificación semanal y seguimiento de proyectos.</p>",
+      "pro": false,
+      "created": "2026-10-10T05:57:05",
+      "file": "7-pasos-para-convertirte-en-un-freelancer-exitoso-ab5d73eabdde11b7.pdf",
+      "size": 1829,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Enthält eine spezifische Prozentzahl (30%), die möglicherweise erfunden ist, da keine allgemein bekannte Grundlage dafür erkennbar ist. Der Rest des Inhalts entspricht den Regeln und ist größtenteils frei von erfundenen Statistiken oder unzulässigen Angaben.",
+      "pay_url": "https://buy.stripe.com/4gM14o2fT2T91E2bQU2kw2O",
+      "payment_link_id": "plink_1UOtMOJ5iOXkWb9VzKTQun8m",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste",
+      "slug": "schwarzwald-reisebudget-tracker-planer",
+      "price_eur": 9,
+      "target": "Internationale Reisende, die den Schwarzwald besuchen und ihr Budget und ihre Ausgaben effizient planen möchten.",
+      "reason": "Diese Vorlage bietet Reisenden eine übersichtliche Möglichkeit, ihre Budgets und Ausgaben während ihres Schwarzwald-Aufenthalts zu verwalten, und hilft ihnen, ihre Finanzen effizient zu planen und zu kontrollieren.",
+      "language": "zh",
+      "pitch": "Planen Sie Ihr Schwarzwald-Abenteuer präzise mit dieser professionellen Excel-Vorlage – perfekt für internationale Gäste.",
+      "content_html": "<h2>Inhalt</h2><p>Dieser Tracker hilft Ihnen, alle Reisekosten und Ausgaben im Schwarzwald zu verwalten, einschließlich Unterkunft, Transport, Verpflegung und Aktivitäten.</p>",
+      "pro": true,
+      "created": "2026-10-10T05:57:05",
+      "file": "schwarzwald-reisebudget-tracker-planer-f2ac77d3c7b1a47f.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es ist klar strukturiert und bietet eine praktische Excel-Vorlage für Budget-Tracking im Schwarzwald. Die Sprache ist korrekt, und es gibt keine sachlichen Fehler oder Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/6oUfZi3jXalB6Ym7AE2kw2P",
+      "payment_link_id": "plink_1UOtMPJ5iOXkWb9V8eNDVl0p",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.009820799999999998,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Trip Budget Tracker"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.0013679999999999999,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Trip Budget Tracker"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-07T17:46:48",
-      "eur": -0.003953999999999999,
-      "why": "Audit: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": 0,
-      "why": "Audit: 1 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.0010404,
-      "why": "Blog-Artikel: Saechsische Schweiz (zh)"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.0014663999999999999,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (es)"
-    },
-    {
-      "t": "2026-10-07T17:27:46",
-      "eur": -0.00042119999999999994,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": -0.009623999999999999,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": -0.0011003999999999999,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": -0.0093516,
-      "why": "KI-Denken: Berlin & Potsdam Family Travel Budget Planner"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": -0.0092112,
-      "why": "KI-Denken: Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
-    },
     {
       "t": "2026-10-07T23:08:25",
       "eur": -0.015764399999999998,
@@ -5340,6 +5316,116 @@
       "t": "2026-10-09T22:42:07",
       "eur": -0.0003372,
       "why": "Video-Skript: Koeln Dom"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.0109956,
+      "why": "KI-Denken: Control de Gastos y Planificación para Cuidadores de Adultos Mayores"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.001584,
+      "why": "KI-Pruefung: Control de Gastos y Planificación para Cuidadores de Adultos Mayores"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.017101199999999997,
+      "why": "KI-Denken: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Autónomos"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.0038855999999999995,
+      "why": "KI-Pruefung: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Autónomos"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Autónomos"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.010506,
+      "why": "KI-Denken: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.0011232,
+      "why": "KI-Pruefung: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-10T06:01:53",
+      "eur": -0.0037979999999999997,
+      "why": "Audit: Control de Gastos y Planificación para Cuidadores de Adultos Mayores"
+    },
+    {
+      "t": "2026-10-10T06:01:53",
+      "eur": -0.0036539999999999997,
+      "why": "Audit: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Au"
+    },
+    {
+      "t": "2026-10-10T06:01:53",
+      "eur": -0.0032279999999999995,
+      "why": "Audit: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.0012504,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (es)"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.0013967999999999997,
+      "why": "Blog-Artikel: Bodensee (fr)"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.00039,
+      "why": "Video-Skript: Bodensee"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Viajes de Negocios: Tracker de Gastos, Itinerario y Checklist de Equipaje"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592331977"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas Como Hombre"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592346066"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能活动预算与志愿者管理追踪器"
+    },
+    {
+      "t": "2026-10-10T05:57:05",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592346076"
     }
   ],
   "alive": true,
@@ -6169,6 +6255,22 @@
       "topic": "Koeln Dom",
       "created": "2026-10-09T22:42:07",
       "img": true
+    },
+    {
+      "slug": "descubre-el-ruhrgebiet-zollverein",
+      "title": "Descubre el Ruhrgebiet: La magia industrial de Zollverein",
+      "lang": "es",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-10T05:57:05",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-le-lac-de-constance-allemagne",
+      "title": "Découvrez le lac de Constance, un joyau entre l'Allemagne, l'Autriche et la Suisse",
+      "lang": "fr",
+      "topic": "Bodensee",
+      "created": "2026-10-10T05:57:05",
+      "img": true
     }
   ],
   "videos": [
@@ -6610,6 +6712,16 @@
       "hashtags": "#Schwarzwald #Natur #Deutschland #Entdecken #Wanderlust",
       "voice": "Entdecken Sie den Schwarzwald, Deutschlands grüne Oase! Hier erwarten Sie majestätische Wälder, idyllische Seen und eine einzigartige Tierwelt. Genießen Sie traditionelle Köstlichkeiten wie den berühmten Schwarzwälder Kirschtortenschinken und tauchen Sie ein in die charmante Kultur der Region. Ob aktiv oder entspannt – hier finden Sie Ruhe und Abenteuer in perfekter Harmonie. Der Schwarzwald – ein Paradies für Naturliebhaber und Genießer!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-le-lac-de-constance-allemagne",
+      "title": "Découvrez le lac de Constance, un joyau entre l'Allemagne, l'Autriche et la Suisse",
+      "lang": "fr",
+      "created": "2026-10-10T05:57:05",
+      "hashtags": "#LacDeConstance #EvasionNature #VoyageEurope #TrésorFrontalier #AventureAquatique",
+      "voice": "Le lac de Constance, joyau franco-germano-suisse, enchante avec ses eaux cristallines et ses paysages de contes. Naviguez entre îles mystérieuses, explorez les vignobles en pente douce et vibrez lors des festivals estivaux. Un terrain de jeu naturel où chaque rivale cache une histoire... À découvrir absolument !",
+      "credits": "Foto: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons; Foto: Julian Herzog (Website), CC BY 4.0, via Wikimedia Commons; Foto: Stefan-Xp, CC BY-SA 3.0, via Wikimedia Commons; Foto: User:Mateus2019, CC BY 3.0 de, via Wikimedia Commons; Foto: böhringer friedrich, CC BY-SA 2.5, via Wikimedia Commons",
       "posted": {}
     }
   ],
