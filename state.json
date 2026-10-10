@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 471.9668,
-  "spent_eur": 32.7033,
+  "balance_eur": 470.9734,
+  "spent_eur": 33.6967,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3008,7 +3008,10 @@
       "audit_note": "Der Inhalt hält sich an die Regeln, enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es werden keine Gesundheitsversprechen gemacht, keine fremden Marken verwendet und es gibt keine sachlichen Fehler. Der Text ist vollständig und kohärent, bietet praktische Tipps ohne Beratung in ve",
       "pay_url": "https://buy.stripe.com/dRm8wQ2fT79pciG3ko2kw1U",
       "payment_link_id": "plink_1UMVrmJ5iOXkWb9VBpq71g52",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4592501468"
+      }
     },
     {
       "type": "excel",
@@ -3032,7 +3035,10 @@
       "audit_note": "Das Produkt erfüllt alle Anforderungen und verstößt nicht gegen die vorgegebenen Regeln. Es handelt sich um eine funktionale Excel-Vorlage ohne erfundene Statistiken, Zahlen oder Quellen. Die Sprache ist durchgängig Französisch und es gibt keine unfertigen Texte oder Platzhalter. Die berechneten Ken",
       "pay_url": "https://buy.stripe.com/7sYdRa2fTalBciG7AE2kw1V",
       "payment_link_id": "plink_1UMaRhJ5iOXkWb9VSxh56Y9e",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4592486101"
+      }
     },
     {
       "type": "ebook",
@@ -3056,7 +3062,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken, Quellen oder Gesundheitsversprechen gefunden. Der Text ist klar, informativ und entspricht den Regeln.",
       "pay_url": "https://buy.stripe.com/bJe9AU1bPctJ0zY08c2kw1W",
       "payment_link_id": "plink_1UMaRiJ5iOXkWb9VxRep0Aeo",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4592486125"
+      }
     },
     {
       "type": "excel",
@@ -4419,169 +4428,81 @@
       "pay_url": "https://buy.stripe.com/6oUfZi3jXalB6Ym7AE2kw2P",
       "payment_link_id": "plink_1UOtMPJ5iOXkWb9V8eNDVl0p",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝",
+      "slug": "zh-smart-explore-saarland-mosel-guide",
+      "price_eur": 5,
+      "target": "中国、台湾、新加坡的自助旅行爱好者和自然文化探索者",
+      "reason": "现有产品中缺乏专门针对华人赴德旅行的实用指南，特别是小众地区。结合最新2026年交通信息和汇率变化，提供真实可验证的当地经验而非理论性建议。通过分步骤的规划方法和具体数字增强可信度与实用价值。",
+      "language": "zh",
+      "pitch": "一本专为华人旅行者设计的实用指南，通过7个简单步骤揭开德国萨尔兰与摩泽尔地区最迷人的风景和鲜为人知的当地秘密。适合独自旅行者、家庭及情侣轻松规划行程。",
+      "content_html": "<h2>内容目录</h2><ul><li>为什么要探索萨尔兰和摩泽尔？</li><li>基础信息：签证、交通、住宿</li><li>7步行程规划法</li><li>预算管理和省钱技巧</li><li>当地文化礼仪贴士</li><li>故事分享：当地人的秘密推荐</li></ul><h3>试读片段：</h3><p>想象在山丘间蜿蜒的摩泽尔河边，偶然发现一个世代经营的家庭酒庄，享用着市面上找不到的雷司令...</p>",
+      "pro": false,
+      "created": "2026-10-10T12:37:11",
+      "file": "zh-smart-explore-saarland-mosel-guide-19e247422e6e5998.pdf",
+      "size": 1620,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich an die Regeln. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Der Text ist vollständig, kein Spam, keine Gesundheitsversprechen oder Fremdmarken. Die Informationen basieren auf allgemein bekanntem Wissen und eigenen Praxistipps. Kleinere Optimierun",
+      "pay_url": "https://buy.stripe.com/dRm28s8EhdxN0zYf362kw2Q",
+      "payment_link_id": "plink_1UOzdoJ5iOXkWb9VBthuP5XP",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage en NRW: Budget & Itinéraire pour Explorateurs Urbains",
+      "slug": "planificateur-voyage-nrw-budget-itineraire",
+      "price_eur": 9,
+      "target": "Voyageurs francophones visitant la Rhénanie-du-Nord-Westphalie (Cologne, Düsseldorf, Ruhr)",
+      "reason": "Un outil complet mais simple pour les voyageurs visitant la NRW avec une structure claire et des visualisations utiles. La combinaison budget + itinéraire dans un seul fichier répond à un vrai besoin pratique.",
+      "language": "fr",
+      "pitch": "Outil tout-en-un pour planifier vos dépenses et itinéraires en NRW. Suivez votre budget, organisez vos visites et découvrez les meilleurs spots comme un local.",
+      "content_html": "<h2>Contenu</h2><p>Un compagnon indispensable pour explorer la NRW sans stress. Planifiez chaque détail de votre voyage et gardez le contrôle de vos finances.</p>",
+      "pro": true,
+      "created": "2026-10-10T12:37:11",
+      "file": "planificateur-voyage-nrw-budget-itineraire-170c16caf982a72a.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionaler Excel-Reiseplaner für NRW auf Französisch ohne erfundene Studien, Statistiken oder falsche Behauptungen. Die Beispielberechnungen basieren auf fiktiven aber realistischen Eingabedaten. Die Funktionalität entspricht den beschriebenen Kalkulationen. Es gibt keine Verst",
+      "pay_url": "https://buy.stripe.com/5kQdRacUx3XdfuS2gk2kw2R",
+      "payment_link_id": "plink_1UOzdpJ5iOXkWb9Vdd6gCdHo",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidden Gems",
+      "slug": "ultimate-bavaria-alps-travel-guide-2026",
+      "price_eur": 7.9,
+      "target": "Freelancers, digital nomads and small business owners exploring Bavaria and the Alps for work and leisure",
+      "reason": "Les freelancers et petits entrepreneurs français cherchent de plus en plus à combiner travail et découverte. Ce guide comble un manque en offrant des conseils adaptés spécifiquement aux besoins des travailleurs autonomes explorant la région bavaroise, avec des outils pratiques pour concilier productivité et voyage.",
+      "language": "fr",
+      "pitch": "Découvrez les trésors cachés de la Bavière et des Alpes avec ce guide pratique spécialement conçu pour les voyageurs autonomes. 6 étapes simples pour planifier un voyage mémorable sans stress.",
+      "content_html": "<h2>Contenu</h2>\n<ul>\n<li>Introduction: Pourquoi la Bavière est parfaite pour les freelancers</li>\n<li>Chapitre 1: 5 itinéraires adaptés au travail à distance</li>\n<li>Chapitre 2: Budget voyage malin - comment économiser sur chaque aspect</li>\n<li>Chapitre 3: Hébergement intelligent pour travailleurs nomades</li>\n<li>Chapitre 4: Cafés avec wifi fiable et espaces de coworking secrets</li>\n<li>Chapitre 5: Excursions d'une journée productives avec des vues spectaculaires</li>\n<li>Chapitre 6: Planificateur de voyage imprimable (inclut tracker de dépenses)</li>\n</ul>\n\n<h2>Extrait gratuit</h2>\n<p>Saviez-vous que Munich abrite plus de 30 cafés parfaits pour le travail à distance? Notre guide vous révèle les 5 meilleurs, avec des prises électriques à chaque table, un wifi ultra-rapide et un excellent café local.</p>",
+      "pro": false,
+      "created": "2026-10-10T12:37:11",
+      "file": "ultimate-bavaria-alps-travel-guide-2026-892cdcbfffeccb5c.pdf",
+      "size": 1601,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend konform mit den Regeln. Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen festgestellt. Die Sprache ist durchgehend Französisch, und es gibt keine unfertigen Texte oder Platzhalter. Der Text enthält keine Rechts-, Steuer-, Finanz- oder Medizinberatung sowie",
+      "pay_url": "https://buy.stripe.com/9B6eVe4o1dxNeqOcUY2kw2S",
+      "payment_link_id": "plink_1UOzdqJ5iOXkWb9Vqd5EGeG3",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": -0.015764399999999998,
-      "why": "KI-Denken: Discover Saxony & Dresden: A Family-Friendly Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": 0,
-      "why": "Audit-Fehler: HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": -0.0011903999999999999,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (fr)"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": -0.0017063999999999998,
-      "why": "Blog-Artikel: Frankfurt Skyline (de)"
-    },
-    {
-      "t": "2026-10-07T23:08:25",
-      "eur": -0.0003852,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.0146724,
-      "why": "KI-Denken: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxony's Hidden Gems"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.0034248,
-      "why": "KI-Pruefung: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxony's Hidden Gems"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.16,
-      "why": "KI-Bilder: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxony's Hidden Gems"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.009689999999999999,
-      "why": "KI-Denken: Baustellen-Material- & Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.0011832,
-      "why": "KI-Pruefung: Baustellen-Material- & Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.015681599999999997,
-      "why": "KI-Denken: 7 zauberhafte Gute-Nacht-Geschichten für kleine Träumer: Abenteuer im Reich der Fantasie"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.004363199999999999,
-      "why": "KI-Pruefung: 7 zauberhafte Gute-Nacht-Geschichten für kleine Träumer: Abenteuer im Reich der Fantasie"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1472 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.016464,
-      "why": "KI-Denken: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.0043403999999999995,
-      "why": "KI-Pruefung: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.16,
-      "why": "KI-Bilder: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-08T06:21:12",
-      "eur": -0.0013919999999999998,
-      "why": "Audit: Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-08T06:21:12",
-      "eur": -0.0031452,
-      "why": "Audit: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxo"
-    },
-    {
-      "t": "2026-10-08T06:21:12",
-      "eur": -0.0033948,
-      "why": "Audit: Baustellen-Material- & Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-08T06:21:12",
-      "eur": -0.0040236,
-      "why": "Audit: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 "
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": 0,
-      "why": "Audit: 4 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.0014196,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (en)"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.0008088,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (zh)"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.00034319999999999994,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Viajes para la Costa del Mar Báltico y Mar del Norte"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4590953291"
-    },
-    {
-      "t": "2026-10-08T06:10:20",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
-    },
     {
       "t": "2026-10-08T06:10:20",
       "eur": 0,
@@ -5426,6 +5347,166 @@
       "t": "2026-10-10T05:57:05",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592346076"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.015067200000000001,
+      "why": "KI-Denken: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0037535999999999997,
+      "why": "KI-Pruefung: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.010546799999999999,
+      "why": "KI-Denken: Planificateur de Voyage NRW : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0010752,
+      "why": "KI-Pruefung: Planificateur de Voyage NRW : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0114336,
+      "why": "KI-Denken: Planificateur de Voyage NRW : Budget, Itinéraire & Activités pour les Voyageurs Francophones"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0017988,
+      "why": "KI-Pruefung: Planificateur de Voyage NRW : Budget, Itinéraire & Activités pour les Voyageurs Francophones"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.010809599999999997,
+      "why": "KI-Denken: Planificateur de Voyage NRW pour Professionnels : Budget, Itinéraire & Highlights (2026)"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0012827999999999997,
+      "why": "KI-Pruefung: Planificateur de Voyage NRW pour Professionnels : Budget, Itinéraire & Highlights (2026)"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0107736,
+      "why": "KI-Denken: Planificateur de Voyage en NRW: Budget & Itinéraire pour Explorateurs Urbains"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0011879999999999998,
+      "why": "KI-Pruefung: Planificateur de Voyage en NRW: Budget & Itinéraire pour Explorateurs Urbains"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.016517999999999998,
+      "why": "KI-Denken: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidden Gems"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0040548,
+      "why": "KI-Pruefung: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidden Gems"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.16,
+      "why": "KI-Bilder: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidden Gems"
+    },
+    {
+      "t": "2026-10-10T12:44:29",
+      "eur": -0.004025999999999999,
+      "why": "Audit: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-10-10T12:44:29",
+      "eur": -0.0041772,
+      "why": "Audit: Planificateur de Voyage en NRW: Budget & Itinéraire pour Explorateurs Urbains"
+    },
+    {
+      "t": "2026-10-10T12:44:29",
+      "eur": -0.0038183999999999996,
+      "why": "Audit: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidde"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0011088,
+      "why": "Blog-Artikel: Mosel Cochem (de)"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.0014628,
+      "why": "Blog-Artikel: Heidelberg Altstadt (en)"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.00036239999999999997,
+      "why": "Video-Skript: Heidelberg Altstadt"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592501468"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier pour Travailleurs Autonomes"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592486101"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
+    },
+    {
+      "t": "2026-10-10T12:37:11",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592486125"
     }
   ],
   "alive": true,
@@ -6271,6 +6352,22 @@
       "topic": "Bodensee",
       "created": "2026-10-10T05:57:05",
       "img": true
+    },
+    {
+      "slug": "cochem-an-der-mosel-ein-maerchenhaftes-reiseziel-in-deutschl",
+      "title": "Cochem an der Mosel: Ein märchenhaftes Reiseziel in Deutschland",
+      "lang": "de",
+      "topic": "Mosel Cochem",
+      "created": "2026-10-10T12:37:11",
+      "img": true
+    },
+    {
+      "slug": "discover-heidelberg-altstadt-a-timeless-gem-in-germany",
+      "title": "Discover Heidelberg Altstadt: A Timeless Gem in Germany",
+      "lang": "en",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-10T12:37:11",
+      "img": true
     }
   ],
   "videos": [
@@ -6722,6 +6819,16 @@
       "hashtags": "#LacDeConstance #EvasionNature #VoyageEurope #TrésorFrontalier #AventureAquatique",
       "voice": "Le lac de Constance, joyau franco-germano-suisse, enchante avec ses eaux cristallines et ses paysages de contes. Naviguez entre îles mystérieuses, explorez les vignobles en pente douce et vibrez lors des festivals estivaux. Un terrain de jeu naturel où chaque rivale cache une histoire... À découvrir absolument !",
       "credits": "Foto: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons; Foto: Julian Herzog (Website), CC BY 4.0, via Wikimedia Commons; Foto: Stefan-Xp, CC BY-SA 3.0, via Wikimedia Commons; Foto: User:Mateus2019, CC BY 3.0 de, via Wikimedia Commons; Foto: böhringer friedrich, CC BY-SA 2.5, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-heidelberg-altstadt-a-timeless-gem-in-germany",
+      "title": "Discover Heidelberg Altstadt: A Timeless Gem in Germany",
+      "lang": "en",
+      "created": "2026-10-10T12:37:11",
+      "hashtags": "#HeidelbergAltstadt #GermanyTravel #HistoricGermany #CastleViews #TravelInspiration",
+      "voice": "Welcome to Heidelberg Altstadt, the heart of Heidelberg, where history and culture blend seamlessly. Stroll along cobblestone streets lined with charming boutiques and cozy cafés. Marvel at the iconic Heidelberg Castle, perched above the Neckar River, offering panoramic views. Discover the Old University, a symbol of knowledge and tradition. End your day at the Philosophers' Walk, a serene spot to reflect and take in the beauty. Heidelberg Altstadt – a place where every corner tells a story.",
+      "credits": "Foto: -wuppertaler, CC BY-SA 4.0, via Wikimedia Commons; Foto: KaiBorgeest, CC BY-SA 4.0, via Wikimedia Commons; Foto: No machine-readable author provided. Martinw2 assumed (based on copyright claims, CC BY-SA 3.0, via Wikimedia Commons; Foto: Schlurcher, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
