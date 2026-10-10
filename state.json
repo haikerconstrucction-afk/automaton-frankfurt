@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 470.761,
-  "spent_eur": 33.9091,
+  "balance_eur": 470.5319,
+  "spent_eur": 34.1382,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4572,89 +4572,81 @@
       "pay_url": "https://buy.stripe.com/14A7sM9IleBRdmK9IM2kw2V",
       "payment_link_id": "plink_1UP5FBJ5iOXkWb9ViJIZk565",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps",
+      "slug": "dresden-sachsen-reisefuehrer-geheimtipps",
+      "price_eur": 5,
+      "target": "Selbstständige und KMU, die Dresden und Sachsen entdecken möchten (für Geschäftsreisen oder Privat)",
+      "reason": "Die meisten Reiseführer für Dresden und Sachsen richten sich an klassische Touristen. Dieses eBook spricht gezielt die Bedürfnisse von selbstständigen Reisenden und KMU-Inhabern an, die die Region effizient und inspirierend erleben möchten - mit echtem Mehrwert für Geschäftsreisen und Workations.",
+      "language": "de",
+      "pitch": "Mit diesem Guide finden Sie die wahren Perlen der Region abseits der Touristenpfade. Sparen Sie Zeit mit kuratierten Routen und Insiderwissen von Lokalexperten.",
+      "content_html": "<h2>Inhalt</h2> <ol><li>Einleitung: Warum Sachsen mehr als nur Dresden ist</li><li>Die besten versteckten Cafés und Arbeitsplätze für Digital Nomads</li><li>Kurztrips ab Dresden: 3 ungewöhnliche Tagesausflüge</li><li>Kostengünstige Übernachtungen mit Charme für Selbstständige</li><li>Lokale Geschäfte und Märkte für authentische Souvenirs</li><li>Jahreszeiten-Guide: Wann lohnt sich welche Region?</li><li>Bonus: Kontakte zu lokalen Netzwerken für Geschäftsreisende</li></ol>",
+      "pro": false,
+      "created": "2026-10-10T23:35:56",
+      "file": "dresden-sachsen-reisefuehrer-geheimtipps-84f247b63dfe329e.pdf",
+      "size": 1639,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist größtenteils korrekt und bietet nützliche lokale Tipps ohne erfundene Statistiken oder problematische Aussagen. Die Empfehlungen sind subjektiv und als persönliche Vorschläge erkennbar. Einige kleinere Formatierungsfehler und Abbrüche im Text, aber keine schwerwiegenden Verstöße.",
+      "pay_url": "https://buy.stripe.com/eVq8wQ8Eh3Xd2I6bQU2kw2W",
+      "payment_link_id": "plink_1UP9syJ5iOXkWb9VQxVB1pbE",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Construction Site Offer & Measurement Tracker for Craftsmen",
+      "slug": "construction-offer-measurement-tracker",
+      "price_eur": 9,
+      "target": "Small construction business owners and independent craftsmen (especially women in trades)",
+      "reason": "Handcraft businesses need professional tools to track measurements, calculate offers accurately, and analyze their business performance - this powerful Excel template provides all essential features in one place.",
+      "language": "en",
+      "pitch": "Professional tool to track offers, measurements, and material costs with automated calculations and clear dashboards.",
+      "content_html": "<h2>Content</h2><p>Track all your construction offers, measurements, and material costs in one place with automated calculations and visual reports to improve your bidding accuracy.</p>",
+      "pro": true,
+      "created": "2026-10-10T23:35:56",
+      "file": "construction-offer-measurement-tracker-8a5502fc97d50325.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Zahlen, Studien oder Gesundheitsversprechen, keine Rechts-/Finanzberatung. Funktionale Excel-Tabelle mit automatisierten Berechnungen. Beispieldaten plausibel.",
+      "pay_url": "https://buy.stripe.com/14AfZiaMpbpFaaybQU2kw2X",
+      "payment_link_id": "plink_1UP9szJ5iOXkWb9ViFzHFlDU",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8",
+      "slug": "bedtime-magic-stories-for-children",
+      "price_eur": 5,
+      "target": "Parents looking for engaging bedtime stories to read to their children",
+      "reason": "Parents are always looking for new and engaging bedtime stories to read to their children. This ebook provides a collection of enchanting tales that captivate young minds and make bedtime a special and calming experience.",
+      "language": "en",
+      "pitch": "Transform bedtime into a magical experience with 7 enchanting stories designed to captivate young minds and help them drift off to sleep.",
+      "content_html": "<h2>Content</h2><p>Discover a collection of delightful bedtime stories that will enchant your child and make bedtime a cherished part of the day.</p><h3>Chapter 1: The Starry Adventure</h3><p>Follow young Lily as she embarks on a magical journey across the night sky, meeting friendly constellations and learning about the wonders of the universe.</p><h3>Chapter 2: The Brave Little Explorer</h3><p>Join Max as he explores a hidden forest, makes new animal friends, and learns valuable lessons about courage and kindness.</p><h3>Chapter 3: The Sleepy Dragon</h3><p>Meet a dragon who is having trouble falling asleep and find out how he discovers the secrets to a peaceful night's rest.</p><h3>Chapter 4: The Wishing Well</h3><p>A tale of a magical well that grants wishes, teaching the importance of gratitude and the joy of giving.</p><h3>Chapter 5: The Moonlit Picnic</h3><p>Experience a whimsical nighttime picnic under the glow of the moon, where the characters enjoy sweet treats and share delightful stories.</p><h3>Chapter 6: The Dreamcatcher's Tale</h3><p>Learn about a young girl who creates a dreamcatcher to protect her dreams, filled with enchanting illustrations and a heartwarming message.</p><h3>Chapter 7: The Nightingale’s Song</h3><p>A musical adventure with a nightingale whose beautiful songs bring peace and tranquility to the night, encouraging relaxation and sleep.</p>",
+      "pro": false,
+      "created": "2026-10-10T23:35:56",
+      "file": "bedtime-magic-stories-for-children-20107cae0a0f4816.pdf",
+      "size": 1644,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Zahlen, keine Gesundheitsversprechen, keine fremden Marken/Figuren, keine falsche oder gemischte Sprache, keine unfertigen Texte oder Platzhalter. Die Geschichten sind kindgerecht und enthalten praktische Tipps für Eltern.",
+      "pay_url": "https://buy.stripe.com/7sY3cwcUx9hxdmK6wA2kw2Y",
+      "payment_link_id": "plink_1UP9t0J5iOXkWb9VD7x8HJVN",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.0011148,
-      "why": "KI-Pruefung: Planificador de Entrenamiento y Nutrición para Entrenadores Personales"
-    },
-    {
-      "t": "2026-10-08T13:51:48",
-      "eur": -0.0016271999999999999,
-      "why": "Audit: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-08T13:51:48",
-      "eur": -0.0032519999999999997,
-      "why": "Audit: 7 Simple Ways to Slash Household Expenses Without Sacrificing Comfort"
-    },
-    {
-      "t": "2026-10-08T13:51:48",
-      "eur": -0.005088,
-      "why": "Audit: Planificador de Entrenamiento y Nutrición para Entrenadores Personales"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.0012131999999999998,
-      "why": "Blog-Artikel: Dresden Frauenkirche (es)"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Blog-Fehler: HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.00035999999999999997,
-      "why": "Video-Skript: Dresden Frauenkirche"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 德累斯顿与萨克森旅行指南：探索文化与历史的隐藏宝藏"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591181866"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Suivi de Budget et Planification de Chantier pour Artisans"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591170277"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-10-08T13:35:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591181940"
-    },
     {
       "t": "2026-10-08T19:58:46",
       "eur": 0,
@@ -5574,6 +5566,86 @@
       "t": "2026-10-10T18:39:35",
       "eur": -0.0003515999999999999,
       "why": "Video-Skript: Saechsische Schweiz"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.017509199999999996,
+      "why": "KI-Denken: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.0041627999999999995,
+      "why": "KI-Pruefung: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.010999199999999999,
+      "why": "KI-Denken: Ultimate Construction Site Offer & Measurement Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.0012179999999999997,
+      "why": "KI-Pruefung: Ultimate Construction Site Offer & Measurement Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.0160044,
+      "why": "KI-Denken: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.0035843999999999997,
+      "why": "KI-Pruefung: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.16,
+      "why": "KI-Bilder: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
+    },
+    {
+      "t": "2026-10-10T23:40:52",
+      "eur": -0.0039564,
+      "why": "Audit: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen &"
+    },
+    {
+      "t": "2026-10-10T23:40:52",
+      "eur": -0.005311199999999999,
+      "why": "Audit: Ultimate Construction Site Offer & Measurement Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-10-10T23:40:52",
+      "eur": -0.0033468,
+      "why": "Audit: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.0013884,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (fr)"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.0011711999999999998,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (de)"
+    },
+    {
+      "t": "2026-10-10T23:35:56",
+      "eur": -0.00036599999999999995,
+      "why": "Video-Skript: Hamburg Speicherstadt"
     }
   ],
   "alive": true,
@@ -6451,6 +6523,22 @@
       "topic": "Saechsische Schweiz",
       "created": "2026-10-10T18:39:35",
       "img": true
+    },
+    {
+      "slug": "decouvrez-les-falaises-de-craie-de-rugen-un-joyau-naturel-en",
+      "title": "Découvrez les Falaises de Craie de Rügen : Un Joyau Naturel en Allemagne",
+      "lang": "fr",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-10T23:35:56",
+      "img": true
+    },
+    {
+      "slug": "hamburger-speicherstadt-entdecken",
+      "title": "Entdecke die Hamburger Speicherstadt – Ein historisches Juwel",
+      "lang": "de",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-10T23:35:56",
+      "img": true
     }
   ],
   "videos": [
@@ -6922,6 +7010,16 @@
       "hashtags": "#suizasajona #alemania #naturaleza #senderismo #viajes",
       "voice": "¡Bienvenidos a la Suiza Sajona en Alemania! Un paraíso para amantes de la naturaleza. Descubre formaciones rocosas únicas, miradores increíbles y bosques mágicos. Caminar por sus senderos es como entrar en un cuento. ¡Un destino perfecto para desconectar y llenarte de energía!",
       "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "hamburger-speicherstadt-entdecken",
+      "title": "Entdecke die Hamburger Speicherstadt – Ein historisches Juwel",
+      "lang": "de",
+      "created": "2026-10-10T23:35:56",
+      "hashtags": "#Hamburg #Speicherstadt #Weltkulturerbe #Maritim #Reiseinspiration",
+      "voice": "Die Hamburger Speicherstadt - ein einzigartiges Juwel! Diese historische Lagerhausstadt verzaubert mit ihrer roten Backsteinarchitektur, romantischen Kanälen und besonderen Atmosphäre. Als größtes zusammenhängendes Lagerhausensemble der Welt begeistert das UNESCO-Welterbe mit maritimem Flair. Absolut sehenswert!",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
