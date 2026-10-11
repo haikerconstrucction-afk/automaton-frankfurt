@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 469.7448,
-  "spent_eur": 34.9253,
+  "balance_eur": 468.7383,
+  "spent_eur": 35.9318,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3170,7 +3170,10 @@
       "audit_note": "Der Inhalt hält sich an die Regeln: keine erfundenen Studien, Statistiken oder Quellen, keine Beratung, keine Marken/Figuren Dritter. Die Tipps sind allgemein bekannt und praktisch formuliert. Es gibt keine sachlichen Fehler oder Regelverstöße.",
       "pay_url": "https://buy.stripe.com/eVq7sM5s5bpFfuSaMQ2kw20",
       "payment_link_id": "plink_1UMddhJ5iOXkWb9VFvNAwLr3",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4593078397"
+      }
     },
     {
       "type": "excel",
@@ -3194,7 +3197,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Der Inhalt entspricht den Regeln und bietet eine klare Funktionsbeschreibung des Excel-Tools. Die Beispielrechnungen sind plausibel und als solche erkennbar.",
       "pay_url": "https://buy.stripe.com/4gM28scUxdxN4QecUY2kw21",
       "payment_link_id": "plink_1UMksPJ5iOXkWb9VT7HHfATk",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4593094640"
+      }
     },
     {
       "type": "ebook",
@@ -3218,7 +3224,10 @@
       "audit_note": "Inhalt entspricht weitgehend den Regeln, keine erfundenen Statistiken oder Quellen, keine sachlichen Fehler oder Rechtsberatung. Kleinere grammatikalische Unstimmigkeiten, aber insgesamt guter Reiseführer für unabhängige Reisende.",
       "pay_url": "https://buy.stripe.com/eVqaEYf2FbpF5Ui08c2kw22",
       "payment_link_id": "plink_1UMksQJ5iOXkWb9Vsgj0hVC2",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4593094664"
+      }
     },
     {
       "type": "excel",
@@ -4725,184 +4734,81 @@
       "pay_url": "https://buy.stripe.com/5kQ4gAf2FctJgyWf362kw31",
       "payment_link_id": "plink_1UPFl8J5iOXkWb9VMJDW4iZW",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能房东管理指南：轻松管理1-5套房产的7个实用步骤",
+      "slug": "smart-landlord-guide-1-5-properties",
+      "price_eur": 5,
+      "target": "房东",
+      "reason": "中国、台湾和新加坡的小房东在管理房产时常常面临诸多挑战。这本指南提供了实用的步骤和技巧，帮助他们高效组织和管理出租物业，减少压力。",
+      "language": "zh",
+      "pitch": "这本指南为管理1-5套房产的小房东提供了7个简单步骤，帮助您高效组织和管理出租物业，减少压力。",
+      "content_html": "<h2>内容</h2><p>本指南提供了实用的步骤和技巧，帮助小房东轻松管理出租物业。无论您是新手还是有经验的房东，这本书都能为您提供宝贵的建议。</p><h3>目录</h3><ol><li>第一章：房产筛选与评估</li><li>第二章：租户筛选与管理</li><li>第三章：房产维护与改进</li><li>第四章：财务规划与预算</li><li>第五章：法律合规与风险管理</li><li>第六章：技术与工具的应用</li><li>第七章：长期规划与扩展</li></ol>",
+      "pro": false,
+      "created": "2026-10-11T12:56:04",
+      "file": "smart-landlord-guide-1-5-properties-50d2825c6c415a8e.pdf",
+      "size": 1623,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist größtenteils sachlich korrekt und entspricht den festgelegten Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Text ist fertiggestellt und bietet praktische Tipps für die Verwaltung von 1-5 Immobilien. Es wird keine Rechts-, Steuer-, Finanz- oder Medizinbe",
+      "pay_url": "https://buy.stripe.com/14A9AUcUx8dtfuS1cg2kw32",
+      "payment_link_id": "plink_1UPMRQJ5iOXkWb9Vr0pkCUsW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Révisions & Suivi des Examens pour Étudiants",
+      "slug": "planificateur-revisions-suivi-examens-etudiants",
+      "price_eur": 9,
+      "target": "Étudiants universitaires et en préparation d'examens",
+      "reason": "Les étudiants ont besoin d'un outil professionnel pour optimiser leur temps de révision et suivre leurs progrès de manière visuelle, ce qui leur manque souvent dans les solutions existantes.",
+      "language": "fr",
+      "pitch": "Optimisez vos révisions et suivez votre progression vers la réussite avec cet outil tout-en-un pour étudiants sérieux.",
+      "content_html": "<h2>Contenu</h2><p>Un système complet pour planifier, organiser et analyser vos sessions de révisions et résultats d'examens.</p>",
+      "pro": true,
+      "created": "2026-10-11T12:56:04",
+      "file": "planificateur-revisions-suivi-examens-etudiants-b55a05dd2465b494.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine legitime Excel-Vorlage für die Prüfungsplanung ohne erfundene Statistiken oder gesundheitsbezogene Versprechen. Die Beispielzahlen dienen nur der Veranschaulichung und sind klar als solche erkennbar. Keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/9B6dRa3jX0L1fuSf362kw33",
+      "payment_link_id": "plink_1UPMRRJ5iOXkWb9VzepdYTsY",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies simples pour attirer plus de clients",
+      "slug": "petit-guide-succes-petits-restaurants-cafes",
+      "price_eur": 5,
+      "target": "Petits restaurants et cafés",
+      "reason": "Ce guide répond directement aux besoins des petits restaurants et cafés en offrant des stratégies pratiques et faciles à mettre en œuvre. Il est conçu pour aider les propriétaires à attirer plus de clients et à augmenter leur chiffre d'affaires.",
+      "language": "fr",
+      "pitch": "Découvrez 6 stratégies efficaces pour augmenter votre chiffre d'affaires et fidéliser vos clients. Idéal pour les propriétaires de petits établissements.",
+      "content_html": "<h2>Inhalt</h2>\n<ul>\n<li>Introduction</li>\n<li>Stratégie 1 : Créer une ambiance accueillante</li>\n<li>Stratégie 2 : Optimiser votre présence en ligne</li>\n<li>Stratégie 3 : Proposer des offres spéciales</li>\n<li>Stratégie 4 : Améliorer le service client</li>\n<li>Stratégie 5 : Collaborer avec des partenaires locaux</li>\n<li>Stratégie 6 : Organiser des événements attractifs</li>\n</ul>\n<h2>Leseprobe</h2>\n<p>Dans ce guide, vous découvrirez des conseils pratiques et des exemples concrets pour transformer votre petit restaurant ou café en un lieu incontournable. Commençons par la première stratégie : créer une ambiance accueillante...</p>",
+      "pro": false,
+      "created": "2026-10-11T12:56:04",
+      "file": "petit-guide-succes-petits-restaurants-cafes-6314e82631ad4018.pdf",
+      "size": 1743,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Zahlen. Das E-Book bietet allgemein bekannte Praxistipps und ist klar strukturiert.",
+      "pay_url": "https://buy.stripe.com/fZubJ27AddxNdmKdZ22kw34",
+      "payment_link_id": "plink_1UPMRRJ5iOXkWb9VybVECXfj",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.0096612,
-      "why": "KI-Denken: 智能考试预算与复习计划追踪器"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能考试预算与复习计划追踪器"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): 'choices'"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.0145332,
-      "why": "KI-Denken: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.003908399999999999,
-      "why": "KI-Pruefung: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.0102756,
-      "why": "KI-Denken: Planificateur de Voyage Intelligent & Liste de Bagages - Tracker de Budget Professionnel"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): 'choices'"
-    },
-    {
-      "t": "2026-10-09T00:43:11",
-      "eur": -0.0036431999999999997,
-      "why": "Audit: 智能考试预算与复习计划追踪器"
-    },
-    {
-      "t": "2026-10-09T00:43:11",
-      "eur": -0.0041556,
-      "why": "Audit: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Blog-Fehler: 'choices'"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Video-Fehler: 'choices'"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591542323"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Smart Saving Strategies for Busy Families: Practical Tips to Stretch Your Household Budget"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591542341"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591542363"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0101988,
-      "why": "KI-Denken: Planificateur de Voyage Intelligent & Liste de Bagages - Modèle Professionnel 2026"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0012155999999999998,
-      "why": "KI-Pruefung: Planificateur de Voyage Intelligent & Liste de Bagages - Modèle Professionnel 2026"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 7 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0100656,
-      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages - Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0012167999999999999,
-      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages - Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.009874799999999998,
-      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Professionnel"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0010019999999999999,
-      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Professionnel"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.010097999999999998,
-      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0011783999999999998,
-      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0177792,
-      "why": "KI-Denken: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
-    },
     {
       "t": "2026-10-09T09:09:35",
       "eur": -0.0038891999999999998,
@@ -5732,6 +5638,181 @@
       "t": "2026-10-11T05:51:57",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592963952"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.015303599999999999,
+      "why": "KI-Denken: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0036167999999999994,
+      "why": "KI-Pruefung: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.011170799999999998,
+      "why": "KI-Denken: Planificateur de Révision & Suivi des Dépenses pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0010811999999999998,
+      "why": "KI-Pruefung: Planificateur de Révision & Suivi des Dépenses pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.011357999999999998,
+      "why": "KI-Denken: Planificateur Intelligent de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0012011999999999997,
+      "why": "KI-Pruefung: Planificateur Intelligent de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.012009599999999999,
+      "why": "KI-Denken: Planificateur d'Études et Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0016823999999999997,
+      "why": "KI-Pruefung: Planificateur d'Études et Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Qualitaetspruefung nicht bestanden: {'score': 7, 'rule_violation': True, 'issues': \"Formel in 'Moyenne' ist fehlerhaft (='D{r}/E2'), sollte '=D{r}/20' sein (Note auf 20 gerechnet).\"}"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.011097599999999997,
+      "why": "KI-Denken: Planificateur d'Études Intelligent & Suivi des Progrès pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0010152,
+      "why": "KI-Pruefung: Planificateur d'Études Intelligent & Suivi des Progrès pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.011357999999999998,
+      "why": "KI-Denken: Planificateur de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0012384,
+      "why": "KI-Pruefung: Planificateur de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0176472,
+      "why": "KI-Denken: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies simples pour attirer plus de clients"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0038496,
+      "why": "KI-Pruefung: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies simples pour attirer plus de clients"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies simples pour attirer plus de clients"
+    },
+    {
+      "t": "2026-10-11T13:05:10",
+      "eur": -0.0038759999999999997,
+      "why": "Audit: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
+    },
+    {
+      "t": "2026-10-11T13:05:10",
+      "eur": -0.0020664,
+      "why": "Audit: Planificateur de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-11T13:05:10",
+      "eur": -0.0036563999999999998,
+      "why": "Audit: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies sim"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0015371999999999999,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (es)"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.0013296,
+      "why": "Blog-Artikel: Dresden Frauenkirche (fr)"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.00037679999999999994,
+      "why": "Video-Skript: Dresden Frauenkirche"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593078397"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593094640"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
+    },
+    {
+      "t": "2026-10-11T12:56:04",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593094664"
     }
   ],
   "alive": true,
@@ -6641,6 +6722,22 @@
       "topic": "Rothenburg ob der Tauber",
       "created": "2026-10-11T05:51:57",
       "img": true
+    },
+    {
+      "slug": "brandenburger-tor-berlin-guia-de-viaje",
+      "title": "Descubriendo el Brandenburger Tor de Berlín: Un ícono histórico",
+      "lang": "es",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-11T12:56:04",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-la-frauenkirche-de-dresde-joyau-baroque-en-allemag",
+      "title": "Découvrez la Frauenkirche de Dresde : Joyau Baroque en Allemagne",
+      "lang": "fr",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-11T12:56:04",
+      "img": true
     }
   ],
   "videos": [
@@ -7132,6 +7229,16 @@
       "hashtags": "#罗滕堡 #德国小镇 #中世纪古城 #圣诞市场 #欧洲旅行",
       "voice": "欢迎来到罗滕堡，这座古老的中世纪小镇仿佛从童话故事中走出来。漫步在狭窄的鹅卵石街道，探索保存完好的古城墙，每一块石头都诉说着历史。这里还是世界著名的圣诞市场发源地，每年吸引着无数游客。无论是白天还是夜晚，罗滕堡都散发着浪漫的气息，让人流连忘返。",
       "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-la-frauenkirche-de-dresde-joyau-baroque-en-allemag",
+      "title": "Découvrez la Frauenkirche de Dresde : Joyau Baroque en Allemagne",
+      "lang": "fr",
+      "created": "2026-10-11T12:56:04",
+      "hashtags": "#Dresde #AllemagneVoyage #Patrimoine #Architecture #Frauenkirche",
+      "voice": "La Frauenkirche de Dresde, un phénix architectural ! Cet édifice baroque sublime, dynamité en 1945, renaît de ses cendres après 60 ans. Son dôme en pierre unique et son intérieur doré vous couperont le souffle. Montée au sommet pour une vue panoramique époustouflante sur l'Elbe. Un symbole bouleversant de réconciliation !",
+      "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
