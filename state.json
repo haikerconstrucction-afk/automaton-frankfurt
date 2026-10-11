@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 468.469,
-  "spent_eur": 36.2011,
+  "balance_eur": 468.2242,
+  "spent_eur": 36.4459,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4854,119 +4854,81 @@
       "pay_url": "https://buy.stripe.com/5kQ9AU2fTalBdmK5sw2kw36",
       "payment_link_id": "plink_1UPS7JJ5iOXkWb9VPlHB4qIX",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Vereins-Event Budget Tracker & Finanzplaner",
+      "slug": "vereins-event-budget-tracker-finanzplaner",
+      "price_eur": 9,
+      "target": "Vereine und ehrenamtliche Organisationen",
+      "reason": "Vereine und ehrenamtliche Organisationen benötigen einfache, aber professionelle Tools zur Planung und Kontrolle ihrer Events. Diese Vorlage erspart Stunden manueller Arbeit und gibt Klarheit über die Finanzen – ohne Buchhaltungskenntnisse.",
+      "language": "de",
+      "pitch": "Professionelle Budgetplanung für Vereins-Events mit automatischer Kostenberechnung und Auswertung – einfach, übersichtlich, effizient.",
+      "content_html": "<h2>Inhalt</h2>Planung und Kontrolle von Vereins-Events mit automatischer Budgetberechnung, Ausgabenkategorisierung und Echtzeit-Überwachung der Finanzen.",
+      "pro": true,
+      "created": "2026-10-11T23:42:20",
+      "file": "vereins-event-budget-tracker-finanzplaner-a916892fd029e2dd.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Der Inhalt ist klar, ehrlich und erfüllt die Regeln. Die Beispielrechnungen sind plausibel und die Sprache ist konsistent Deutsch. Die Formeln und Tabellen machen Sinn und sind korrekt implementiert.",
+      "pay_url": "https://buy.stripe.com/bJe4gA3jXeBRfuSg7a2kw37",
+      "payment_link_id": "plink_1UPWTMJ5iOXkWb9VcSKslSxU",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer",
+      "slug": "hundepflege-leicht-gemacht",
+      "price_eur": 5,
+      "target": "Hundebesitzer aller Erfahrungsstufen",
+      "reason": "Dieses E-Book wird speziell für Hundebesitzer entwickelt, die ihren Alltag mit ihrem Vierbeiner strukturierter und stressfreier gestalten möchten. Es bietet praktische und leicht umsetzbare Lösungen, die sich bewährt haben und von vielen Hundefreunden geschätzt werden.",
+      "language": "de",
+      "pitch": "Entdecken Sie einfache Lösungen, die Ihren Alltag mit Ihrem Hund entspannter und freudiger machen. Praktische Tipps für mehr Harmonie und weniger Stress.",
+      "content_html": "<h2>Inhalt</h2><p>Einleitung: Warum dieses E-Book?<br>Kapitel 1: Grundbedürfnisse sicherstellen<br>Kapitel 2: Effizientes Gassi gehen planen<br>Kapitel 3: Ernährung leicht gemacht<br>Kapitel 4: Gesundheitsvorsorge ohne Stress<br>Kapitel 5: Beschäftigung und Spiel<br>Kapitel 6: Ruhe und Entspannung fördern</p>",
+      "pro": false,
+      "created": "2026-10-11T23:42:20",
+      "file": "hundepflege-leicht-gemacht-128aa79631354cc2.pdf",
+      "size": 1704,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das E-Book enthält praktische, allgemein bekannte Tipps zur Hundepflege ohne erfundene Statistiken oder spezifische Gesundheitsversprechen. Die Sprache ist konsistent und sachlich richtig. Keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/3cIcN6f2F65l82q4os2kw38",
+      "payment_link_id": "plink_1UPWTNJ5iOXkWb9VI9Qz1EJ4",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Moving & Renovation Budget Tracker for Women",
+      "slug": "ultimate-moving-renovation-budget-tracker-for-women",
+      "price_eur": 9,
+      "target": "Women planning a move or renovation project, seeking organized budgeting & tracking.",
+      "reason": "This tracker empowers women to take control of their moving or renovation projects with a professional, easy-to-use tool. It saves time, reduces stress, and ensures budget clarity.",
+      "language": "en",
+      "pitch": "Effortlessly manage your moving or renovation budget with a professional Excel tracker designed specifically for women. Track expenses, deadlines, and progress in one place.",
+      "content_html": "<h2>Content</h2><p>This Excel tracker includes sheets for budget planning, expense tracking, and project progress monitoring. It’s designed to simplify your moving or renovation process with clear categories, automated calculations, and visual insights.</p>",
+      "pro": true,
+      "created": "2026-10-11T23:42:20",
+      "file": "ultimate-moving-renovation-budget-tracker-for-women-c426ed2a7e36e9fb.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist klar, ehrlich und legal. Es gibt keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Excel-Tabellen sind sinnvoll und korrekt. Die Beispielrechnungen sind klar als solche markiert. Der Titel und die Beschreibung sind zielgruppengerecht und präzise. Es gibt keine fre",
+      "pay_url": "https://buy.stripe.com/00w5kE1bP65ldmK1cg2kw39",
+      "payment_link_id": "plink_1UPWTNJ5iOXkWb9V2gjYcsVg",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.16,
-      "why": "KI-Bilder: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.010124399999999999,
-      "why": "KI-Denken: Umzugskosten-Tracker & Renovierungsplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.0010463999999999998,
-      "why": "KI-Pruefung: Umzugskosten-Tracker & Renovierungsplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-09T17:07:37",
-      "eur": -0.0048264,
-      "why": "Audit: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-09T17:07:37",
-      "eur": -0.0032556,
-      "why": "Audit: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
-    },
-    {
-      "t": "2026-10-09T17:07:37",
-      "eur": -0.004314,
-      "why": "Audit: Umzugskosten-Tracker & Renovierungsplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.0015467999999999999,
-      "why": "Blog-Artikel: Rheingau Weinberge (es)"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.0013344,
-      "why": "Blog-Artikel: Schwarzwald (de)"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.0004139999999999999,
-      "why": "Video-Skript: Schwarzwald"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.0170688,
-      "why": "KI-Denken: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.0043092,
-      "why": "KI-Pruefung: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.16,
-      "why": "KI-Bilder: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.010057199999999999,
-      "why": "KI-Denken: YouTube Content Monetization Tracker & Planner"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Content Monetization Tracker & Planner"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.0149412,
-      "why": "KI-Denken: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classroom"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.0033587999999999995,
-      "why": "KI-Pruefung: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classroom"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classroom"
-    },
-    {
-      "t": "2026-10-09T22:48:25",
-      "eur": -0.003953999999999999,
-      "why": "Audit: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
-    },
-    {
-      "t": "2026-10-09T22:48:25",
-      "eur": -0.002232,
-      "why": "Audit: YouTube Content Monetization Tracker & Planner"
-    },
     {
       "t": "2026-10-09T22:48:25",
       "eur": -0.003192,
@@ -5856,6 +5818,116 @@
       "t": "2026-10-11T18:58:08",
       "eur": -0.0003515999999999999,
       "why": "Video-Skript: Nordsee Wattenmeer"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.0113676,
+      "why": "KI-Denken: Spenden- und Veranstaltungsbudget-Tracker für Vereine"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.001068,
+      "why": "KI-Pruefung: Spenden- und Veranstaltungsbudget-Tracker für Vereine"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.011776799999999999,
+      "why": "KI-Denken: Vereinsfinanz-Tracker & Budgetplaner für Ehrenamtliche"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.0013751999999999998,
+      "why": "KI-Pruefung: Vereinsfinanz-Tracker & Budgetplaner für Ehrenamtliche"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.0111564,
+      "why": "KI-Denken: Vereins-Event Budget Tracker & Finanzplaner"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.0011952,
+      "why": "KI-Pruefung: Vereins-Event Budget Tracker & Finanzplaner"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.0173832,
+      "why": "KI-Denken: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.0042552,
+      "why": "KI-Pruefung: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.16,
+      "why": "KI-Bilder: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.011281199999999998,
+      "why": "KI-Denken: Ultimate Moving & Renovation Budget Tracker for Women"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Tracker for Women"
+    },
+    {
+      "t": "2026-10-11T23:47:53",
+      "eur": -0.0030359999999999996,
+      "why": "Audit: Vereins-Event Budget Tracker & Finanzplaner"
+    },
+    {
+      "t": "2026-10-11T23:47:53",
+      "eur": -0.0038783999999999997,
+      "why": "Audit: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
+    },
+    {
+      "t": "2026-10-11T23:47:53",
+      "eur": -0.0030659999999999997,
+      "why": "Audit: Ultimate Moving & Renovation Budget Tracker for Women"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.0008327999999999999,
+      "why": "Blog-Artikel: Muenchen Marienplatz (zh)"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.0014988,
+      "why": "Blog-Artikel: Eifel Maare (es)"
+    },
+    {
+      "t": "2026-10-11T23:42:20",
+      "eur": -0.00038879999999999996,
+      "why": "Video-Skript: Eifel Maare"
     }
   ],
   "alive": true,
@@ -6796,6 +6868,22 @@
       "lang": "en",
       "topic": "Nordsee Wattenmeer",
       "created": "2026-10-11T18:58:08",
+      "img": true
+    },
+    {
+      "slug": "muenchen-marienplatz-guide",
+      "title": "慕尼黑玛丽安广场：老城心脏的千年魅力",
+      "lang": "zh",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-11T23:42:20",
+      "img": true
+    },
+    {
+      "slug": "explorando-las-magicas-maares-de-la-eifel",
+      "title": "Explorando las Mágicas Maares de la Eifel en Alemania",
+      "lang": "es",
+      "topic": "Eifel Maare",
+      "created": "2026-10-11T23:42:20",
       "img": true
     }
   ],
