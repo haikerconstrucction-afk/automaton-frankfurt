@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 470.5319,
-  "spent_eur": 34.1382,
+  "balance_eur": 469.7448,
+  "spent_eur": 34.9253,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3089,7 +3089,10 @@
       "audit_note": "Keine erfundenen Zahlen oder Quellen, keine Regelverstöße. Beispieldaten sind plausibel, die Anleitung ist klar. Die Excel-Vorlage bietet einen sinnvollen Überblick über Einnahmen und Ausgaben für YouTube-Content-Creatoren.",
       "pay_url": "https://buy.stripe.com/cNi9AUbQt2T96Ym6wA2kw1X",
       "payment_link_id": "plink_1UMaRjJ5iOXkWb9VYBgjOxxN",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4592963914"
+      }
     },
     {
       "type": "ebook",
@@ -3113,7 +3116,10 @@
       "audit_note": "Der Inhalt ist größtenteils ehrlich und praktisch, ohne erfundene Studien, Statistiken oder Prozentzahlen. Es gibt keine falsche oder gemischte Sprache, keine unfertigen Texte oder Platzhalter. Die Tipps sind allgemein bekannt und praktisch, ohne Rechts-, Steuer-, Finanz- oder Medizinberatung. Der H",
       "pay_url": "https://buy.stripe.com/bJe3cw3jXgJZ1E2g7a2kw1Y",
       "payment_link_id": "plink_1UMddgJ5iOXkWb9VOhbJiQuN",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4592963936"
+      }
     },
     {
       "type": "excel",
@@ -3137,7 +3143,10 @@
       "audit_note": "Das Produkt ist klar strukturiert und frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Beispielrechnungen sind plausibel und eindeutig als solche gekennzeichnet. Es gibt keine Verstöße gegen die vorgegebenen Regeln.",
       "pay_url": "https://buy.stripe.com/bJeaEY07L8dtbeCdZ22kw1Z",
       "payment_link_id": "plink_1UMddgJ5iOXkWb9Vh48UBlPt",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4592963952"
+      }
     },
     {
       "type": "ebook",
@@ -4644,114 +4653,81 @@
       "pay_url": "https://buy.stripe.com/7sY3cwcUx9hxdmK6wA2kw2Y",
       "payment_link_id": "plink_1UP9t0J5iOXkWb9VD7x8HJVN",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Presupuesto y Control de Gastos para Bodas",
+      "slug": "planificador-presupuesto-control-gastos-bodas",
+      "price_eur": 9,
+      "target": "Hombres organizando su boda",
+      "reason": "Este producto es esencial para cualquier hombre organizando su boda, proporcionando una herramienta clara y efectiva para gestionar el presupuesto y los gastos, asegurando que nada se escape.",
+      "language": "es",
+      "pitch": "Simplifica la planificación de tu boda con este práctico planificador. Mantén el control de todos los gastos y asegúrate de cumplir con tu presupuesto.",
+      "content_html": "<h2>Inhalt</h2><p>Este archivo de Excel te ayudará a organizar y controlar todos los gastos relacionados con tu boda. Con herramientas claras y fáciles de usar, podrás mantener una visión general de tus finanzas y asegurarte de que todo esté bajo control.</p>",
+      "pro": true,
+      "created": "2026-10-11T05:51:57",
+      "file": "planificador-presupuesto-control-gastos-bodas-ecaf60b057bb473d.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist legal, ehrlich und entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist einheitlich und es gibt keine Platzhalter oder unfertigen Texte. Die Formeln und Tabellen sind sinnvoll und korrekt. Die Beispielkennzahlen sind plausibel. L",
+      "pay_url": "https://buy.stripe.com/eVq3cw07L9hxfuSdZ22kw2Z",
+      "payment_link_id": "plink_1UPFl7J5iOXkWb9Vlu9We02v",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas Familiares",
+      "slug": "ahorro-inteligente-en-casa-7-estrategias",
+      "price_eur": 5,
+      "target": "Hombres que buscan optimizar el presupuesto familiar sin complicaciones",
+      "reason": "En tiempos de incertidumbre económica, la demanda de guías prácticas para manejar el presupuesto familiar está en aumento. Este ebook ofrece consejos concretos y fáciles de implementar, especialmente valiosos para hombres que administran los gastos del hogar pero no son expertos en finanzas.",
+      "language": "es",
+      "pitch": "Descubre métodos simples para reducir gastos y mejorar tu economía doméstica. Consejos prácticos para aplicar desde hoy mismo.",
+      "content_html": "<h2>Contenido</h2><ul><li>Capítulo 1: Analizar tus gastos mensuales</li><li>Capítulo 2: Las compras inteligentes</li><li>Capítulo 3: Ahorrar en servicios básicos</li><li>Capítulo 4: Planificar comidas y evitar desperdicios</li><li>Capítulo 5: Mantenimiento preventivo del hogar</li><li>Capítulo 6: Alternativas de bajo costo para el ocio</li><li>Capítulo 7: Crear un fondo de emergencia paso a paso</li></ul>",
+      "pro": false,
+      "created": "2026-10-11T05:51:57",
+      "file": "ahorro-inteligente-en-casa-7-estrategias-5e934672c9dfd88f.pdf",
+      "size": 1692,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Studien, Statistiken oder Quellen und vermeidet Rechts-, Steuer- oder Finanzberatung. Die Tipps sind praktisch und allgemein gültig. Kleinere Wiederholungen und geringfügig unfertige Stellen beeinträchtigen die Qualität nicht wesentlich.",
+      "pay_url": "https://buy.stripe.com/bJe14o5s59hxdmK4os2kw30",
+      "payment_link_id": "plink_1UPFl8J5iOXkWb9V0KkzDviG",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能个人健身预算与进度追踪器",
+      "slug": "zhi-neng-ge-ren-jian-shen-yu-suan-yu-jin-du-zhui-zong-qi",
+      "price_eur": 9,
+      "target": "个人教练、健身爱好者",
+      "reason": "该模板提供直观的健身预算管理和进度追踪，帮助个人教练和健身爱好者有效控制支出和记录训练进度，确保健身目标有序推进。",
+      "language": "zh",
+      "pitch": "优化您的健身预算和训练进度，实时跟踪您的财务和训练目标，确保高效管理。",
+      "content_html": "<h2>内容</h2><p>该Excel模板提供智能预算管理和进度追踪功能，帮助您规划和管理健身支出，同时记录训练进度，确保您的健身目标有序推进。</p>",
+      "pro": true,
+      "created": "2026-10-11T05:51:57",
+      "file": "zhi-neng-ge-ren-jian-shen-yu-suan-yu-jin-du-zhui-zong-qi-400b58459e53f8cb.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist klar strukturiert und frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Beispielrechnungen sind plausibel und nicht irreführend. Der Inhalt entspricht den Regeln und bietet nützliche Praxistipps.",
+      "pay_url": "https://buy.stripe.com/5kQ4gAf2FctJgyWf362kw31",
+      "payment_link_id": "plink_1UPFl8J5iOXkWb9VMJDW4iZW",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): 'choices'"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): 'choices'"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): 'choices'"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 429: Too Many Requests"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": -0.0148512,
-      "why": "KI-Denken: El Pequeño manual del propietario: Guía práctica para gestionar de 1 a 5 propiedades sin estrés"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": -0.0040739999999999995,
-      "why": "KI-Pruefung: El Pequeño manual del propietario: Guía práctica para gestionar de 1 a 5 propiedades sin estrés"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): E-Book zu kurz (1268 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": -0.017692799999999998,
-      "why": "KI-Denken: El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1-5 Propiedades"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": -0.004056,
-      "why": "KI-Pruefung: El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1-5 Propiedades"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": -0.16,
-      "why": "KI-Bilder: El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1-5 Propiedades"
-    },
-    {
-      "t": "2026-10-08T20:26:59",
-      "eur": -0.0036864,
-      "why": "Audit: El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": 0,
-      "why": "Audit: 1 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": -0.0014004,
-      "why": "Blog-Artikel: Harz Brocken (fr)"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": -0.0015336,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (de)"
-    },
-    {
-      "t": "2026-10-08T19:58:46",
-      "eur": -0.00039,
-      "why": "Video-Skript: Nordsee Wattenmeer"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.009696,
-      "why": "KI-Denken: 智能期末考试时间计划与进度追踪器 - 专业版"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能期末考试时间计划与进度追踪器 - 专业版"
-    },
-    {
-      "t": "2026-10-09T00:25:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 7 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-10-09T00:25:56",
       "eur": -0.0096612,
@@ -5646,6 +5622,116 @@
       "t": "2026-10-10T23:35:56",
       "eur": -0.00036599999999999995,
       "why": "Video-Skript: Hamburg Speicherstadt"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.010963199999999998,
+      "why": "KI-Denken: Planificador de Presupuesto y Control de Gastos para Bodas"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.0010488,
+      "why": "KI-Pruefung: Planificador de Presupuesto y Control de Gastos para Bodas"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.0172668,
+      "why": "KI-Denken: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas Familiares"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.0040224,
+      "why": "KI-Pruefung: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas Familiares"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.16,
+      "why": "KI-Bilder: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas Familiares"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.0107604,
+      "why": "KI-Denken: 智能个人健身预算与进度追踪器"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能个人健身预算与进度追踪器"
+    },
+    {
+      "t": "2026-10-11T05:57:07",
+      "eur": -0.0035075999999999996,
+      "why": "Audit: Planificador de Presupuesto y Control de Gastos para Bodas"
+    },
+    {
+      "t": "2026-10-11T05:57:07",
+      "eur": -0.003672,
+      "why": "Audit: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas "
+    },
+    {
+      "t": "2026-10-11T05:57:07",
+      "eur": -0.0020988,
+      "why": "Audit: 智能个人健身预算与进度追踪器"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.0013548,
+      "why": "Blog-Artikel: Frankfurt Skyline (en)"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.0010224,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (zh)"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.00033839999999999993,
+      "why": "Video-Skript: Rothenburg ob der Tauber"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Professional YouTube Ad Revenue & Expense Tracker"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592963914"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592963936"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
+    },
+    {
+      "t": "2026-10-11T05:51:57",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592963952"
     }
   ],
   "alive": true,
@@ -6539,6 +6625,22 @@
       "topic": "Hamburg Speicherstadt",
       "created": "2026-10-10T23:35:56",
       "img": true
+    },
+    {
+      "slug": "exploring-frankfurt-skyline",
+      "title": "Exploring the Iconic Frankfurt Skyline: A City of Contrasts",
+      "lang": "en",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-11T05:51:57",
+      "img": true
+    },
+    {
+      "slug": "explore-rothenburg-ob-der-tauber-germany",
+      "title": "探索德国童话小镇：罗滕堡的迷人魅力",
+      "lang": "zh",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-11T05:51:57",
+      "img": true
     }
   ],
   "videos": [
@@ -7020,6 +7122,16 @@
       "hashtags": "#Hamburg #Speicherstadt #Weltkulturerbe #Maritim #Reiseinspiration",
       "voice": "Die Hamburger Speicherstadt - ein einzigartiges Juwel! Diese historische Lagerhausstadt verzaubert mit ihrer roten Backsteinarchitektur, romantischen Kanälen und besonderen Atmosphäre. Als größtes zusammenhängendes Lagerhausensemble der Welt begeistert das UNESCO-Welterbe mit maritimem Flair. Absolut sehenswert!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "explore-rothenburg-ob-der-tauber-germany",
+      "title": "探索德国童话小镇：罗滕堡的迷人魅力",
+      "lang": "zh",
+      "created": "2026-10-11T05:51:57",
+      "hashtags": "#罗滕堡 #德国小镇 #中世纪古城 #圣诞市场 #欧洲旅行",
+      "voice": "欢迎来到罗滕堡，这座古老的中世纪小镇仿佛从童话故事中走出来。漫步在狭窄的鹅卵石街道，探索保存完好的古城墙，每一块石头都诉说着历史。这里还是世界著名的圣诞市场发源地，每年吸引着无数游客。无论是白天还是夜晚，罗滕堡都散发着浪漫的气息，让人流连忘返。",
+      "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
