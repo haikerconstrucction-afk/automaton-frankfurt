@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 468.7383,
-  "spent_eur": 35.9318,
+  "balance_eur": 468.469,
+  "spent_eur": 36.2011,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4806,154 +4806,57 @@
       "pay_url": "https://buy.stripe.com/fZubJ27AddxNdmKdZ22kw34",
       "payment_link_id": "plink_1UPMRRJ5iOXkWb9VybVECXfj",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Family Vacation Budget & Packing List Tracker",
+      "slug": "ultimate-family-vacation-budget-packing-list-tracker",
+      "price_eur": 9,
+      "target": "Familien, die eine einfache Möglichkeit suchen, ihr Urlaubsbudget zu verwalten und Packlisten zu erstellen",
+      "reason": "Dieses Produkt entspricht der aktuellen Marktnachfrage nach praktischen Lösungen für die Reiseplanung und bietet Familien einen klaren Mehrwert durch intuitive Bedienung und automatische Berechnungen.",
+      "language": "en",
+      "pitch": "Simplify your family vacation planning with this all-in-one Excel template, designed to manage your budget and packing list efficiently.",
+      "content_html": "<h2>Inhalt</h2><p>Diese professionelle Excel-Vorlage hilft Ihnen, Ihr Urlaubsbudget zu verwalten und eine detaillierte Packliste für die ganze Familie zu erstellen. Mit automatischen Berechnungen und übersichtlichen Dashboards bleibt alles im Blick.</p>",
+      "pro": true,
+      "created": "2026-10-11T18:58:08",
+      "file": "ultimate-family-vacation-budget-packing-list-tracker-d10750386dae76c3.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die meisten Anforderungen: keine erfunden Zahlen oder Statistiken, keine unzulässigen Beratungen, keine unfertigen Texte. Die Excel-Formeln sind sinnvoll und korrekt. Eine kleine Schwäche ist die gemischte Sprache (Englisch/Deutsch), was allerdings nicht direkt gegen die Regeln v",
+      "pay_url": "https://buy.stripe.com/4gMaEY3jX51hfuS6wA2kw35",
+      "payment_link_id": "plink_1UPS7IJ5iOXkWb9VSkBBVM43",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More Customers",
+      "slug": "the-etsy-sellers-blueprint",
+      "price_eur": 5,
+      "target": "Online sellers and Etsy entrepreneurs",
+      "reason": "This ebook provides a comprehensive, easy-to-follow guide for Etsy sellers aiming to boost their sales and improve their online presence. It combines practical tips with actionable strategies, making it a valuable resource for entrepreneurs looking to succeed on Etsy.",
+      "language": "en",
+      "pitch": "Discover actionable strategies to increase your Etsy store's visibility and sales. Perfect for sellers who want to grow their business effectively.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Crafting Compelling Product Listings</li><li>Mastering SEO for Etsy</li><li>Engaging with Your Customers</li><li>Maximizing Social Media Impact</li><li>Analyzing and Improving Your Performance</li><li>Scaling Your Etsy Business</li></ul>",
+      "pro": false,
+      "created": "2026-10-11T18:58:08",
+      "file": "the-etsy-sellers-blueprint-756b63853dd9ce29.pdf",
+      "size": 1635,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Inhalt ist klar, ehrlich und bietet praktische Tipps ohne Regelverstöße. Sprache und Struktur sind konsistent und professionell.",
+      "pay_url": "https://buy.stripe.com/5kQ9AU2fTalBdmK5sw2kw36",
+      "payment_link_id": "plink_1UPS7JJ5iOXkWb9VPlHB4qIX",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0038891999999999998,
-      "why": "KI-Pruefung: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.16,
-      "why": "KI-Bilder: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.009836399999999999,
-      "why": "KI-Denken: Event Budget Tracker & Volunteer Management for Clubs"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Event Budget Tracker & Volunteer Management for Clubs"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.009951599999999998,
-      "why": "KI-Denken: Non-Profit Volunteer Management & Event Budget Tracker"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0010332,
-      "why": "KI-Pruefung: Non-Profit Volunteer Management & Event Budget Tracker"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-09T09:16:20",
-      "eur": -0.0015539999999999998,
-      "why": "Audit: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
-    },
-    {
-      "t": "2026-10-09T09:16:20",
-      "eur": -0.0036731999999999997,
-      "why": "Audit: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0011556,
-      "why": "Blog-Artikel: Muenchen Marienplatz (en)"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.0009348,
-      "why": "Blog-Artikel: Eifel Maare (zh)"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.00039,
-      "why": "Video-Skript: Eifel Maare"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Organisiert Vermieten: Der 7-Schritte-Guide für kleine Privatvermieter"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591747862"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Exam Countdown Planner & Study Progress Tracker"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591735405"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Little Restaurant Success Kit: Simple Strategies to Attract More Customers & Boost Your Cafe's Profits"
-    },
-    {
-      "t": "2026-10-09T09:09:35",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4591735421"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.009766799999999999,
-      "why": "KI-Denken: Volunteer Event Budget & Expense Tracker"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Volunteer Event Budget & Expense Tracker"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.010162799999999998,
-      "why": "KI-Denken: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.0011795999999999998,
-      "why": "KI-Pruefung: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.015519599999999998,
-      "why": "KI-Denken: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
-    },
-    {
-      "t": "2026-10-09T17:01:10",
-      "eur": -0.00342,
-      "why": "KI-Pruefung: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
-    },
     {
       "t": "2026-10-09T17:01:10",
       "eur": -0.16,
@@ -5813,6 +5716,146 @@
       "t": "2026-10-11T12:56:04",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593094664"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.011078399999999999,
+      "why": "KI-Denken: Ultimate Family Travel Budget & Packing List Planner"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Family Travel Budget & Packing List Planner"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0110712,
+      "why": "KI-Denken: Ultimate Family Travel Budget Planner & Packing List Tracker"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Family Travel Budget Planner & Packing List Tracker"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.011331599999999999,
+      "why": "KI-Denken: Ultimate Family Vacation Packing List & Budget Tracker (2026 Edition)"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0012456,
+      "why": "KI-Pruefung: Ultimate Family Vacation Packing List & Budget Tracker (2026 Edition)"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0112212,
+      "why": "KI-Denken: Ultimate Family Vacation Budget & Packing List Tracker"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0010344,
+      "why": "KI-Pruefung: Ultimate Family Vacation Budget & Packing List Tracker"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.015173999999999997,
+      "why": "KI-Denken: The Etsy Seller's Path to Success: Simple Steps to Boost Your Online Store"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0032267999999999997,
+      "why": "KI-Pruefung: The Etsy Seller's Path to Success: Simple Steps to Boost Your Online Store"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): E-Book zu kurz (1482 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.015727199999999997,
+      "why": "KI-Denken: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More Customers"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0033695999999999995,
+      "why": "KI-Pruefung: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More Customers"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More Customers"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.011639999999999998,
+      "why": "KI-Denken: Vereinsfinanz-Tracker & Spendenziel-Rechner"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0012275999999999997,
+      "why": "KI-Pruefung: Vereinsfinanz-Tracker & Spendenziel-Rechner"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-11T19:08:41",
+      "eur": -0.0040536,
+      "why": "Audit: Ultimate Family Vacation Budget & Packing List Tracker"
+    },
+    {
+      "t": "2026-10-11T19:08:41",
+      "eur": -0.00309,
+      "why": "Audit: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More C"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0013919999999999998,
+      "why": "Blog-Artikel: Harz Brocken (de)"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0010788,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (en)"
+    },
+    {
+      "t": "2026-10-11T18:58:08",
+      "eur": -0.0003515999999999999,
+      "why": "Video-Skript: Nordsee Wattenmeer"
     }
   ],
   "alive": true,
@@ -6738,6 +6781,22 @@
       "topic": "Dresden Frauenkirche",
       "created": "2026-10-11T12:56:04",
       "img": true
+    },
+    {
+      "slug": "harz-brocken-deutschland-reiseblog",
+      "title": "Entdecke den Harz Brocken: Ein magisches Reiseziel in Deutschland",
+      "lang": "de",
+      "topic": "Harz Brocken",
+      "created": "2026-10-11T18:58:08",
+      "img": true
+    },
+    {
+      "slug": "north-sea-wadden-sea-germany",
+      "title": "Exploring the North Sea Wadden Sea: A Natural Wonder in Germany",
+      "lang": "en",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-11T18:58:08",
+      "img": true
     }
   ],
   "videos": [
@@ -7239,6 +7298,16 @@
       "hashtags": "#Dresde #AllemagneVoyage #Patrimoine #Architecture #Frauenkirche",
       "voice": "La Frauenkirche de Dresde, un phénix architectural ! Cet édifice baroque sublime, dynamité en 1945, renaît de ses cendres après 60 ans. Son dôme en pierre unique et son intérieur doré vous couperont le souffle. Montée au sommet pour une vue panoramique époustouflante sur l'Elbe. Un symbole bouleversant de réconciliation !",
       "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "north-sea-wadden-sea-germany",
+      "title": "Exploring the North Sea Wadden Sea: A Natural Wonder in Germany",
+      "lang": "en",
+      "created": "2026-10-11T18:58:08",
+      "hashtags": "#WaddenSea #NorthSea #UNESCO #NatureLovers #Germany",
+      "voice": "Experience the magic of Germany's North Sea Wadden Sea! This UNESCO World Heritage site is a haven of natural wonders. Witness the ever-changing tides, vast mudflats, and rich wildlife. From playful seals to flocks of migratory birds, every moment is breathtaking. Feel the rhythm of nature and immerse yourself in this unique coastal paradise. The Wadden Sea is more than a destination—it’s a journey into the heart of untouched beauty.",
+      "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
