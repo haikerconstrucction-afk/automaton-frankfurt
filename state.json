@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 466.4662,
-  "spent_eur": 38.2039,
+  "balance_eur": 466.1974,
+  "spent_eur": 38.4728,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5088,154 +5088,57 @@
       "pay_url": "https://buy.stripe.com/aFa6oI2fT9hx82qcUY2kw3f",
       "payment_link_id": "plink_1UPlKPJ5iOXkWb9ViD9UAeVa",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Insolites",
+      "slug": "guide-saarland-moselle-decouvertes-itineraires",
+      "price_eur": 5,
+      "target": "Voyageurs indépendants, couples et familles cherchant à explorer le Saarland et la Moselle hors des sentiers battus",
+      "reason": "Il manque des guides pratiques en français axés sur des expériences authentiques dans cette région frontalière peu couverte. Nos itinéraires testés et adresses vérifiées offrent un vrai gain de temps aux voyageurs.",
+      "language": "fr",
+      "pitch": "Découvrez les trésors cachés du Saarland et de la Moselle avec ce guide pratique. 7 itinéraires thématiques pour explorer la région comme un local.",
+      "content_html": "<h2>Contenu</h2><ul><li>Préparer son voyage (logistique, transports, budget)</li><li>7 itinéraires thématiques détaillés</li><li>Adresses secrètes (restaurants, hébergements)</li><li>Conseils photo et météo</li><li>Extrait : Itinéraire 'Vignobles et Châteaux'</li></ul>",
+      "pro": false,
+      "created": "2026-10-12T23:02:05",
+      "file": "guide-saarland-moselle-decouvertes-itineraires-7f734e639468972c.pdf",
+      "size": 1910,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Der Inhalt enthält keine offensichtlichen Regelverstöße. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Die Informationen sind allgemein gehalten und bieten praktische Tipps ohne spezifische Gesundheitsversprechen, Rechtsberatung oder Markenverweise. Allerdings könnte ",
+      "pay_url": "https://buy.stripe.com/14A8wQbQt79p2I67AE2kw3g",
+      "payment_link_id": "plink_1UPsN4J5iOXkWb9VLHYewtLL",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate NRW Family Travel Budget Planner & Itinerary Tracker",
+      "slug": "ultimate-nrw-family-travel-budget-planner-itinerary-tracker",
+      "price_eur": 9,
+      "target": "Families planning trips to NRW (Cologne, Düsseldorf, Ruhrgebiet)",
+      "reason": "Families traveling to NRW need a comprehensive tool to manage their budget and itinerary effectively. This template simplifies trip planning, ensures financial control, and enhances the overall travel experience.",
+      "language": "en",
+      "pitch": "Efficiently plan and track your NRW family trip budget and itinerary with this professional Excel template. Stay organized and enjoy stress-free travel.",
+      "content_html": "<h2>Content</h2><p>This Excel template includes sheets for budgeting, itinerary planning, and expense tracking, specifically designed for family trips to NRW. It features automated calculations, visual charts, and easy-to-use dropdowns for seamless trip planning.</p>",
+      "pro": true,
+      "created": "2026-10-12T23:02:05",
+      "file": "ultimate-nrw-family-travel-budget-planner-itinerary-tracker-7e2c2bc2f02fa977.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispiel-Daten sind klar als solche gekennzeichnet und dienen nur der Veranschaulichung. Die Funktionalität ist nachvollziehbar und plausibel.",
+      "pay_url": "https://buy.stripe.com/8x23cw9IlalBbeC2gk2kw3h",
+      "payment_link_id": "plink_1UPsN4J5iOXkWb9VL16NVtQh",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-10T12:44:29",
-      "eur": -0.0038183999999999996,
-      "why": "Audit: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidde"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0011088,
-      "why": "Blog-Artikel: Mosel Cochem (de)"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0014628,
-      "why": "Blog-Artikel: Heidelberg Altstadt (en)"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.00036239999999999997,
-      "why": "Video-Skript: Heidelberg Altstadt"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能狗狗护理：给忙碌狗主人的7个简单技巧"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592501468"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier pour Travailleurs Autonomes"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592486101"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Mon Petit Potager Autosuffisant : Guide Pratique pour Débutants"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592486125"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.010682399999999998,
-      "why": "KI-Denken: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.0010884,
-      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.016248,
-      "why": "KI-Denken: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.0033852,
-      "why": "KI-Pruefung: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.16,
-      "why": "KI-Bilder: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.0104484,
-      "why": "KI-Denken: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-10T18:43:25",
-      "eur": -0.0016176,
-      "why": "Audit: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
-    },
-    {
-      "t": "2026-10-10T18:43:25",
-      "eur": -0.0031188,
-      "why": "Audit: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-10-10T18:43:25",
-      "eur": -0.0022308,
-      "why": "Audit: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.000966,
-      "why": "Blog-Artikel: Neuschwanstein (zh)"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.0012611999999999999,
-      "why": "Blog-Artikel: Saechsische Schweiz (es)"
-    },
-    {
-      "t": "2026-10-10T18:39:35",
-      "eur": -0.0003515999999999999,
-      "why": "Video-Skript: Saechsische Schweiz"
-    },
     {
       "t": "2026-10-10T23:35:56",
       "eur": -0.017509199999999996,
@@ -6095,6 +5998,151 @@
       "t": "2026-10-12T15:32:48",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593855068"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.018916799999999998,
+      "why": "KI-Denken: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Insolites"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.0042228,
+      "why": "KI-Pruefung: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Insolites"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Insolites"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.0121104,
+      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.0012395999999999998,
+      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.011752799999999999,
+      "why": "KI-Denken: Ultimate NRW Family Trip Budget Planner"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate NRW Family Trip Budget Planner"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.011693999999999998,
+      "why": "KI-Denken: Ultimate Family Trip Budget & Itinerary Planner for NRW"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Family Trip Budget & Itinerary Planner for NRW"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.0114684,
+      "why": "KI-Denken: Ultimate NRW Family Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate NRW Family Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.011901599999999998,
+      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Route Optimizer"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.001104,
+      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Route Optimizer"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.01185,
+      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.0010811999999999998,
+      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-12T23:10:48",
+      "eur": -0.003959999999999999,
+      "why": "Audit: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Ins"
+    },
+    {
+      "t": "2026-10-12T23:10:48",
+      "eur": -0.0016836,
+      "why": "Audit: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.0010187999999999998,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (fr)"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.0013884,
+      "why": "Blog-Artikel: Bodensee (de)"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": -0.00044399999999999995,
+      "why": "Video-Skript: Bodensee"
+    },
+    {
+      "t": "2026-10-12T23:02:05",
+      "eur": 0,
+      "why": "Video-Fehler: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=481bac8321b34a"
     }
   ],
   "alive": true,
@@ -7083,6 +7131,22 @@
       "lang": "es",
       "topic": "Koeln Dom",
       "created": "2026-10-12T15:32:48",
+      "img": true
+    },
+    {
+      "slug": "zollverein-ruhrgebiet-allemagne",
+      "title": "Découvrez le Zollverein en Ruhrgebiet, un joyau industriel en Allemagne",
+      "lang": "fr",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-12T23:02:05",
+      "img": true
+    },
+    {
+      "slug": "entdecke-den-bodensee-deutschlands-malerisches-dreilaenderec",
+      "title": "Entdecke den Bodensee – Deutschlands malerisches Dreiländereck",
+      "lang": "de",
+      "topic": "Bodensee",
+      "created": "2026-10-12T23:02:05",
       "img": true
     }
   ],
