@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 467.2536,
-  "spent_eur": 37.4165,
+  "balance_eur": 466.4662,
+  "spent_eur": 38.2039,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3353,7 +3353,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine falsche oder gemischte Sprache. Keine Platzhalter oder unfertigen Texte. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine Gesundheitsversprechen oder fremde Marken/Figuren. Formeln/Tabellen sind sinnvoll und korrekt. Beispiel",
       "pay_url": "https://buy.stripe.com/5kQ00kf2FalB1E23ko2kw26",
       "payment_link_id": "plink_1UMvVhJ5iOXkWb9VfYpMuBdb",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4593855028"
+      }
     },
     {
       "type": "ebook",
@@ -3377,7 +3380,10 @@
       "audit_note": "Der Inhalt ist klar, informativ und entspricht den Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder Quellen. Die Sprache ist korrekt und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Es wird keine Rechts-, Steuer-, Finanz- oder Gesundheitsberatung angeboten. Keine fremden M",
       "pay_url": "https://buy.stripe.com/28E14og6JeBR6Ym9IM2kw27",
       "payment_link_id": "plink_1UMvVhJ5iOXkWb9VuFuVVmhh",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4593838395"
+      }
     },
     {
       "type": "excel",
@@ -3401,7 +3407,10 @@
       "audit_note": "Das Produkt entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Excel-Tabellen funktionieren korrekt und sind plausibel. Es werden keine Rechts-, Steuer-, Finanz- oder Gesundheitsratschläge gegeben. Der Inhalt ist klar und vollständig ohne Platzhalter oder",
       "pay_url": "https://buy.stripe.com/dRm6oI07L65l2I63ko2kw28",
       "payment_link_id": "plink_1UMvViJ5iOXkWb9VpeoU96Ku",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4593855068"
+      }
     },
     {
       "type": "ebook",
@@ -5007,119 +5016,81 @@
       "pay_url": "https://buy.stripe.com/28EcN607LeBR4Qe08c2kw3c",
       "payment_link_id": "plink_1UPcShJ5iOXkWb9VdO1gl0k8",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能老年护理预算与健康追踪器",
+      "slug": "senior-care-budget-health-tracker",
+      "price_eur": 9,
+      "target": "Senioren und Pflegeorganisationen für Angehörige",
+      "reason": "这款模板简化了老年护理的预算和健康管理，提供了清晰的KPIs和图表，帮助用户做出明智的决策。",
+      "language": "zh",
+      "pitch": "这款专业的Excel模板帮助您轻松管理老年护理的预算和健康信息，优化护理流程。",
+      "content_html": "<h2>Inhalt</h2><p>这款模板包含预算追踪、健康记录和护理计划，确保您的护理工作高效且井然有序。</p>",
+      "pro": true,
+      "created": "2026-10-12T15:32:48",
+      "file": "senior-care-budget-health-tracker-3cc8ab65fdf66840.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist legal, ehrlich und enthält keine erfundenen Studien, Statistiken oder Zitate. Es bietet praktische Excel-Vorlagen für die Verwaltung von Budget und Gesundheit im Alter. Die Formeln sind korrekt und sinnvoll, und es gibt keine Gesundheitsversprechen oder Markenverletzungen. Kleinere s",
+      "pay_url": "https://buy.stripe.com/00w14o3jXeBR6Ym08c2kw3d",
+      "payment_link_id": "plink_1UPlKNJ5iOXkWb9VzAN7yIjT",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能自由职业者的财务管理：7步指南轻松实现财务自由",
+      "slug": "freelancer-financial-management-zh",
+      "price_eur": 5,
+      "target": "中国的自由职业者和独立工作者",
+      "reason": "在中国，越来越多的年轻人选择成为自由职业者，但他们往往缺乏财务管理的经验。这本书提供了一个简单易懂的指南，帮助他们掌握财务管理的核心技巧，实现财务自由与职业成功的双重目标。",
+      "language": "zh",
+      "pitch": "掌握财务管理的核心技巧，清晰规划收入与支出，实现财务自由与职业成功的双重目标。",
+      "content_html": "<h2>内容</h2> 目录 + 试读<br><br><strong>目录：</strong><br>1. 为什么财务管理对自由职业者至关重要<br>2. 第一步：明确你的财务目标<br>3. 第二步：建立收入与支出追踪系统<br>4. 第三步：制定预算并严格执行<br>5. 第四步：优化税务管理与储蓄计划<br>6. 第五步：投资未来，创造被动收入<br>7. 第六步：定期评估与调整财务策略<br>8. 第七步：保持财务健康与职业发展的平衡<br><br><strong>试读：</strong><br>财务管理是自由职业者成功的关键。无论你是设计师、程序员还是作家，清晰的财务规划不仅能帮助你实现财务自由，还能让你专注于职业发展。本书将带你一步步掌握财务管理的核心技巧，轻松应对自由职业中的财务挑战。",
+      "pro": false,
+      "created": "2026-10-12T15:32:48",
+      "file": "freelancer-financial-management-zh-cf1fc18828cd731b.pdf",
+      "size": 1967,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend korrekt und bietet praktische Tipps zur Finanzplanung für Freelancer. Es gibt keine erfundenen Zahlen oder Statistiken. Der Text ist klar strukturiert und vermeidet jegliche Form von Rechts-, Steuer- oder Finanzberatung. Es gibt keine Gesundheitsversprechen oder Marken-/Per",
+      "pay_url": "https://buy.stripe.com/eVqcN68EhfFV6YmbQU2kw3e",
+      "payment_link_id": "plink_1UPlKOJ5iOXkWb9ViTm3sOVV",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage et Suivi de Dépenses pour le Forêt-Noire",
+      "slug": "planificateur-voyage-depenses-foret-noire",
+      "price_eur": 9,
+      "target": "Voyageurs internationaux visitant le Forêt-Noire",
+      "reason": "Ce planificateur offre une solution complète pour organiser et suivre un voyage dans le Forêt-Noire, en ajoutant de la valeur par la gestion des dépenses et des itinéraires.",
+      "language": "fr",
+      "pitch": "Organisez votre voyage dans le Forêt-Noire avec un suivi précis des dépenses et des itinéraires.",
+      "content_html": "<h2>Inhalt</h2><p>Ce planificateur vous aide à organiser votre voyage dans le Forêt-Noire en suivant vos dépenses, vos itinéraires et vos activités.</p>",
+      "pro": true,
+      "created": "2026-10-12T15:32:48",
+      "file": "planificateur-voyage-depenses-foret-noire-5ad05f280c1d47ec.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein einfacher Excel-Planer für Reisen und Ausgaben in der Forêt-Noire ohne erfundene Zahlen oder Statistiken. Es enthält nur grundlegende Berechnungen und Beispiel-Daten. Keine Regelverstöße erkannt.",
+      "pay_url": "https://buy.stripe.com/aFa6oI2fT9hx82qcUY2kw3f",
+      "payment_link_id": "plink_1UPlKPJ5iOXkWb9ViD9UAeVa",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592346066"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能活动预算与志愿者管理追踪器"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592346076"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.015067200000000001,
-      "why": "KI-Denken: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0037535999999999997,
-      "why": "KI-Pruefung: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.010546799999999999,
-      "why": "KI-Denken: Planificateur de Voyage NRW : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0010752,
-      "why": "KI-Pruefung: Planificateur de Voyage NRW : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0114336,
-      "why": "KI-Denken: Planificateur de Voyage NRW : Budget, Itinéraire & Activités pour les Voyageurs Francophones"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0017988,
-      "why": "KI-Pruefung: Planificateur de Voyage NRW : Budget, Itinéraire & Activités pour les Voyageurs Francophones"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.010809599999999997,
-      "why": "KI-Denken: Planificateur de Voyage NRW pour Professionnels : Budget, Itinéraire & Highlights (2026)"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0012827999999999997,
-      "why": "KI-Pruefung: Planificateur de Voyage NRW pour Professionnels : Budget, Itinéraire & Highlights (2026)"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0107736,
-      "why": "KI-Denken: Planificateur de Voyage en NRW: Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0011879999999999998,
-      "why": "KI-Pruefung: Planificateur de Voyage en NRW: Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.016517999999999998,
-      "why": "KI-Denken: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidden Gems"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.0040548,
-      "why": "KI-Pruefung: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidden Gems"
-    },
-    {
-      "t": "2026-10-10T12:37:11",
-      "eur": -0.16,
-      "why": "KI-Bilder: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidden Gems"
-    },
-    {
-      "t": "2026-10-10T12:44:29",
-      "eur": -0.004025999999999999,
-      "why": "Audit: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-10-10T12:44:29",
-      "eur": -0.0041772,
-      "why": "Audit: Planificateur de Voyage en NRW: Budget & Itinéraire pour Explorateurs Urbains"
-    },
     {
       "t": "2026-10-10T12:44:29",
       "eur": -0.0038183999999999996,
@@ -6014,6 +5985,116 @@
       "t": "2026-10-12T06:03:45",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593576564"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.0113856,
+      "why": "KI-Denken: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.0171372,
+      "why": "KI-Denken: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.0041952,
+      "why": "KI-Pruefung: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.0114036,
+      "why": "KI-Denken: Planificateur de Voyage et Suivi de Dépenses pour le Forêt-Noire"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Voyage et Suivi de Dépenses pour le Forêt-Noire"
+    },
+    {
+      "t": "2026-10-12T15:39:30",
+      "eur": -0.0022007999999999997,
+      "why": "Audit: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-10-12T15:39:30",
+      "eur": -0.0043212,
+      "why": "Audit: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
+    },
+    {
+      "t": "2026-10-12T15:39:30",
+      "eur": -0.0019944,
+      "why": "Audit: Planificateur de Voyage et Suivi de Dépenses pour le Forêt-Noire"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.0011003999999999999,
+      "why": "Blog-Artikel: Saarland Saarschleife (zh)"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.0013248,
+      "why": "Blog-Artikel: Koeln Dom (es)"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.00039,
+      "why": "Video-Skript: Koeln Dom"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Budget de Voyage pour Berlin et Potsdam : Suivi des Dépenses & Itinéraire"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593855028"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et les trésors cachés"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593838395"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Construction Site Measurement & Offer Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-10-12T15:32:48",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593855068"
     }
   ],
   "alive": true,
@@ -6986,6 +7067,22 @@
       "lang": "en",
       "topic": "Schwarzwald",
       "created": "2026-10-12T06:03:45",
+      "img": true
+    },
+    {
+      "slug": "saarland-saarschleife-guide",
+      "title": "探索德国萨尔的自然奇观：萨尔环",
+      "lang": "zh",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-12T15:32:48",
+      "img": true
+    },
+    {
+      "slug": "descubre-la-majestuosidad-del-colonia-dom-en-alemania",
+      "title": "Descubre la majestuosidad del Colonia Dom en Alemania",
+      "lang": "es",
+      "topic": "Koeln Dom",
+      "created": "2026-10-12T15:32:48",
       "img": true
     }
   ],
