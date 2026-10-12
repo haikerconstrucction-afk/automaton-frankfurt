@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 468.2242,
-  "spent_eur": 36.4459,
+  "balance_eur": 467.2536,
+  "spent_eur": 37.4165,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3251,7 +3251,10 @@
       "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Studien/Statistiken, klare Funktionsbeschreibung, korrekte Beispielrechnungen. Einziger kleiner Abzug für die pauschale Beispielpreise (z.B. Hotelkosten in Ruhrgebiet), die zwar realistisch sind aber keine konkreten Referenzen haben.",
       "pay_url": "https://buy.stripe.com/9B67sMbQt1P5dmK2gk2kw23",
       "payment_link_id": "plink_1UMksRJ5iOXkWb9VcjxaSymv",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4593560831"
+      }
     },
     {
       "type": "ebook",
@@ -3275,7 +3278,10 @@
       "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist korrekt Spanisch, ohne Platzhalter oder unfertige Abschnitte. Es gibt keine sachlichen Fehler oder verbotenen Beratungen. Empfehlungen basieren auf allgemein bekanntem Wissen und eigenen Praxistipps. Der Text",
       "pay_url": "https://buy.stripe.com/7sY9AUaMpdxNfuScUY2kw24",
       "payment_link_id": "plink_1UMrPQJ5iOXkWb9Vwlir1wpW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4593560849"
+      }
     },
     {
       "type": "excel",
@@ -3299,7 +3305,10 @@
       "audit_note": "Der Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Quellen. Es werden keine verbotenen Beratungen oder Gesundheitsversprechen gemacht. Die Excel-Tabellen sind logisch und sinnvoll gestaltet. Die Sprache ist klar und einheitlich, ohne Platzhalter oder unfertige Tex",
       "pay_url": "https://buy.stripe.com/bJe6oI8Eh2T9aaycUY2kw25",
       "payment_link_id": "plink_1UMrPRJ5iOXkWb9V9NY7wsy3",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4593576564"
+      }
     },
     {
       "type": "ebook",
@@ -4926,139 +4935,81 @@
       "pay_url": "https://buy.stripe.com/00w5kE1bP65ldmK1cg2kw39",
       "payment_link_id": "plink_1UPWTNJ5iOXkWb9V2gjYcsVg",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round",
+      "slug": "simple-gardeners-handbook-grow-food-year-round",
+      "price_eur": 5,
+      "target": "female gardeners and self-sufficient beginners",
+      "reason": "Addresses a growing interest in homegrown food among urban women, with practical, space-conscious solutions different from existing intensive gardening guides.",
+      "language": "en",
+      "pitch": "A beginner-friendly guide with practical steps for creating a productive home garden. Learn how to grow fresh vegetables with minimal space and effort!",
+      "content_html": "<h2>Content</h2><ul><li>Chapter 1: Choosing the Right Spot</li><li>Chapter 2: Simple Soil Preparation</li><li>Chapter 3: Easy-Start Vegetables</li><li>Chapter 4: Watering Without Stress</li><li>Chapter 5: Natural Pest Solutions</li><li>Chapter 6: Seasonal Planting Tips</li><li>Chapter 7: Harvesting & Storage</li></ul>",
+      "pro": false,
+      "created": "2026-10-12T06:03:45",
+      "file": "simple-gardeners-handbook-grow-food-year-round-89c1f096ca0eacd0.pdf",
+      "size": 2037,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist gut strukturiert, bietet praktische Tipps und ist frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es gibt keine Regelverstöße, und die Informationen sind allgemein bekannt und hilfreich für Anfänger.",
+      "pay_url": "https://buy.stripe.com/9B6aEYf2F8dtciGaMQ2kw3a",
+      "payment_link_id": "plink_1UPcSfJ5iOXkWb9VEUQ25Jgj",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Content ROI Tracker & Budget Planner",
+      "slug": "youtube-content-roi-tracker-budget-planner",
+      "price_eur": 9,
+      "target": "Content Creators and YouTubers",
+      "reason": "Los creadores de contenido necesitan herramientas profesionales para gestionar su ROI y presupuesto de manera eficiente, maximizando así el impacto de sus videos en YouTube.",
+      "language": "es",
+      "pitch": "Maximiza el retorno de inversión de tus videos de YouTube y gestiona tu presupuesto de manera eficiente con esta herramienta profesional.",
+      "content_html": "<h2>Inhalt</h2><p>Planifica, rastrea y optimiza tu contenido de YouTube con esta plantilla Excel diseñada para creadores. Sigue el ROI de cada video y administra tu presupuesto de producción de manera efectiva.</p>",
+      "pro": true,
+      "created": "2026-10-12T06:03:45",
+      "file": "youtube-content-roi-tracker-budget-planner-0342ad58f3020e0e.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend korrekt und es gibt keine erfundenen Zahlen oder Statistiken. Die Beispielrechnungen sind klar als solche gekennzeichnet und basieren auf allgemein bekannten Berechnungsmethoden. Die Sprache ist konsistent Spanisch und es gibt keine Platzhalter oder unfertigen Texte. Die Fo",
+      "pay_url": "https://buy.stripe.com/00w9AU4o165l4QedZ22kw3b",
+      "payment_link_id": "plink_1UPcSgJ5iOXkWb9Vz8QN8XbA",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el Rendimiento de los Estudiantes",
+      "slug": "guia-profesores-tutores-estrategias-estudiantes",
+      "price_eur": 5,
+      "target": "Profesores y tutores que buscan mejorar el rendimiento de sus estudiantes",
+      "reason": "Este eBook aborda necesidades específicas de profesores y tutores, proporcionando estrategias prácticas y fáciles de implementar. Su enfoque en la motivación y la mejora del rendimiento estudiantil lo hace altamente valioso para el público objetivo.",
+      "language": "es",
+      "pitch": "Descubre técnicas efectivas para motivar y guiar a tus estudiantes hacia el éxito académico. Este eBook ofrece estrategias prácticas y fáciles de implementar.",
+      "content_html": "<h2>Inhalt</h2> <ul><li>Introducción a la enseñanza efectiva</li><li>Estrategias para motivar a los estudiantes</li><li>Técnicas de gestión del tiempo en el aula</li><li>Herramientas para evaluaciones más justas y precisas</li><li>Cómo fomentar la participación activa</li><li>Conclusión: Mejora continua en la enseñanza</li></ul>",
+      "pro": false,
+      "created": "2026-10-12T06:03:45",
+      "file": "guia-profesores-tutores-estrategias-estudiantes-6af2e224a5dd9f1f.pdf",
+      "size": 1665,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das eBook enthält keine erfundenen Studien, Statistiken oder Zahlen. Es bietet allgemeine, praxisnahe Ratschläge für Lehrer, ohne gegen die genannten Regeln zu verstoßen. Die Inhalte sind durchgängig in korrektem Spanisch verfasst, ohne Platzhalter oder unvollständige Passagen.",
+      "pay_url": "https://buy.stripe.com/28EcN607LeBR4Qe08c2kw3c",
+      "payment_link_id": "plink_1UPcShJ5iOXkWb9VdO1gl0k8",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-09T22:48:25",
-      "eur": -0.003192,
-      "why": "Audit: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classr"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.0012143999999999998,
-      "why": "Blog-Artikel: Saarland Saarschleife (en)"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.0006167999999999999,
-      "why": "Blog-Artikel: Koeln Dom (zh)"
-    },
-    {
-      "t": "2026-10-09T22:42:07",
-      "eur": -0.0003372,
-      "why": "Video-Skript: Koeln Dom"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.0109956,
-      "why": "KI-Denken: Control de Gastos y Planificación para Cuidadores de Adultos Mayores"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.001584,
-      "why": "KI-Pruefung: Control de Gastos y Planificación para Cuidadores de Adultos Mayores"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.017101199999999997,
-      "why": "KI-Denken: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Autónomos"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.0038855999999999995,
-      "why": "KI-Pruefung: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Autónomos"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Autónomos"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.010506,
-      "why": "KI-Denken: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.0011232,
-      "why": "KI-Pruefung: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-10T06:01:53",
-      "eur": -0.0037979999999999997,
-      "why": "Audit: Control de Gastos y Planificación para Cuidadores de Adultos Mayores"
-    },
-    {
-      "t": "2026-10-10T06:01:53",
-      "eur": -0.0036539999999999997,
-      "why": "Audit: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Au"
-    },
-    {
-      "t": "2026-10-10T06:01:53",
-      "eur": -0.0032279999999999995,
-      "why": "Audit: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.0012504,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (es)"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.0013967999999999997,
-      "why": "Blog-Artikel: Bodensee (fr)"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.00039,
-      "why": "Video-Skript: Bodensee"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Viajes de Negocios: Tracker de Gastos, Itinerario y Checklist de Equipaje"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592331977"
-    },
-    {
-      "t": "2026-10-10T05:57:05",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: El Arte de Vender en Etsy: 7 Estrategias Comprobadas para Incrementar tus Ventas Como Hombre"
-    },
     {
       "t": "2026-10-10T05:57:05",
       "eur": 0,
@@ -5928,6 +5879,141 @@
       "t": "2026-10-11T23:42:20",
       "eur": -0.00038879999999999996,
       "why": "Video-Skript: Eifel Maare"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.016850399999999998,
+      "why": "KI-Denken: The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.0035952,
+      "why": "KI-Pruefung: The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.011889599999999998,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.0013416,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.011502,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.0010271999999999998,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.0171132,
+      "why": "KI-Denken: Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el Rendimiento de los Estudiantes"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.0037236,
+      "why": "KI-Pruefung: Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el Rendimiento de los Estudiantes"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el Rendimiento de los Estudiantes"
+    },
+    {
+      "t": "2026-10-12T06:11:29",
+      "eur": -0.0032867999999999994,
+      "why": "Audit: The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round"
+    },
+    {
+      "t": "2026-10-12T06:11:29",
+      "eur": -0.0039996,
+      "why": "Audit: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-12T06:11:29",
+      "eur": -0.0035039999999999997,
+      "why": "Audit: Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el R"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.0012299999999999998,
+      "why": "Blog-Artikel: Rheingau Weinberge (fr)"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.0013152,
+      "why": "Blog-Artikel: Schwarzwald (en)"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.0003324,
+      "why": "Video-Skript: Schwarzwald"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": 0,
+      "why": "Video-Fehler: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=ed06b84fdcec4c"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Viajes para NRW: Presupuesto y Ruta de Explora"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593560831"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593560849"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-12T06:03:45",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593576564"
     }
   ],
   "alive": true,
@@ -6884,6 +6970,22 @@
       "lang": "es",
       "topic": "Eifel Maare",
       "created": "2026-10-11T23:42:20",
+      "img": true
+    },
+    {
+      "slug": "decouverte-vignobles-rheingau-allemagne",
+      "title": "Découvrez les vignobles du Rheingau, un joyau vinicole allemand",
+      "lang": "fr",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-12T06:03:45",
+      "img": true
+    },
+    {
+      "slug": "discover-the-magic-of-the-black-forest-a-travelers-guide",
+      "title": "Discover the Magic of the Black Forest: A Traveler's Guide",
+      "lang": "en",
+      "topic": "Schwarzwald",
+      "created": "2026-10-12T06:03:45",
       "img": true
     }
   ],
