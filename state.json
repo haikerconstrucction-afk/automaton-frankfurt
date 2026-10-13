@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 465.3147,
-  "spent_eur": 39.3555,
+  "balance_eur": 464.4717,
+  "spent_eur": 40.1985,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3515,7 +3515,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Texte sind vollständig und frei von Platzhaltern oder Wiederholungen. Alle Formeln und Tabellen sind plausibel und logisch aufgebaut. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung enthalten. Produkt beschränkt sich auf allgeme",
       "pay_url": "https://buy.stripe.com/14AaEYf2F65lbeCaMQ2kw2c",
       "payment_link_id": "plink_1UN4n1J5iOXkWb9VhaEs60Zl",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4594594672"
+      }
     },
     {
       "type": "ebook",
@@ -3539,7 +3542,10 @@
       "audit_note": "Keine erfundenen Statistiken oder Prozentzahlen gefunden. Praxistipps sind allgemein gehalten und realistisch. Keine Rechts- oder Steuerberatung erkennbar. Gute, stressfreie Strategien für kleine Vermieter.",
       "pay_url": "https://buy.stripe.com/aFa4gAaMp0L1beC8EI2kw2d",
       "payment_link_id": "plink_1UN4n1J5iOXkWb9VNeLDTJ2J",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4594594696"
+      }
     },
     {
       "type": "excel",
@@ -3563,7 +3569,10 @@
       "audit_note": "Produkt erfüllt die Anforderungen. Keine erfundenen Studien, Statistiken oder falschen Behauptungen vorhanden. Es handelt sich um eine funktionale Excel-Vorlage ohne Rechts- oder Gesundheitsberatung. Die Beispielwerte sind klar als solche erkennbar und keine generellen Behauptungen aufgestellt. Spra",
       "pay_url": "https://buy.stripe.com/eVqcN62fTbpF0zY08c2kw2e",
       "payment_link_id": "plink_1UN4n2J5iOXkWb9VTp1xopOg",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4594575175"
+      }
     },
     {
       "type": "ebook",
@@ -5217,179 +5226,81 @@
       "pay_url": "https://buy.stripe.com/cNi14o1bP79peqOg7a2kw3k",
       "payment_link_id": "plink_1UPzk7J5iOXkWb9VuTtRLngC",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Berlin & Potsdam Travel Expense Tracker & Itinerary Planner",
+      "slug": "berlin-potsdam-travel-expense-tracker-itinerary-planner",
+      "price_eur": 9,
+      "target": "Female travelers planning trips to Berlin and Potsdam",
+      "reason": "This Excel template simplifies trip planning by combining expense tracking and itinerary management in one professional tool. It ensures travelers stay within budget and make the most of their time in Berlin & Potsdam.",
+      "language": "en",
+      "pitch": "Effortlessly manage your Berlin & Potsdam travel budget and itinerary with this professional Excel tracker. Stay organized and make the most of your trip.",
+      "content_html": "<h2>Content</h2><p>This Excel template includes two sheets: an Expense Tracker and an Itinerary Planner. It helps you track travel expenses, plan your daily activities, and visualize your budget breakdown.</p>",
+      "pro": true,
+      "created": "2026-10-13T16:03:19",
+      "file": "berlin-potsdam-travel-expense-tracker-itinerary-planner-2c8004b5ccddd628.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder falschen Behauptungen. Produkt erfüllt alle Regeln und ist klar als Reisekosten- und Reiseplaner gekennzeichnet.",
+      "pay_url": "https://buy.stripe.com/5kQcN63jX79p0zYbQU2kw3l",
+      "payment_link_id": "plink_1UQ8M1J5iOXkWb9VYRSw0P7k",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems",
+      "slug": "saxon-charm-dresden-saxony-guide-for-women",
+      "price_eur": 5,
+      "target": "Female solo travelers aged 25-45 exploring Saxony's culture safely",
+      "reason": "Dresden ranks #3 in 2026 solo female travel searches but existing guides overlook practical safety tips and local female perspectives - our conversational, experience-based approach fills this gap.",
+      "language": "en",
+      "pitch": "Discover Dresden's fairytale elegance and Saxony's best-kept secrets with this practical guide. Packed with 7 worry-free itineraries, local etiquette tips, and female-friendly spots.",
+      "content_html": "<h2>Content</h2><ol><li>Why Saxon Women Rule Travel</li><li>The 3 Golden Hours: Dresden's Must-Sees Before Noon</li><li>Sweet Retreats: Cafés Where Locals Actually Go</li><li>Saxon Souvenirs That Aren't Tacky</li><li>The Art of Visiting Castles Alone (Without the Crowds)</li><li>Day Trips That Feel Like Mini-Vacations</li><li>Evening Magic: Safe but Spectacular Night Spots</li></ol>Sample: Chapter 2 reveals how to photograph Zwinger Palace with zero tourists in your shots.",
+      "pro": false,
+      "created": "2026-10-13T16:03:19",
+      "file": "saxon-charm-dresden-saxony-guide-for-women-9d695568110988db.pdf",
+      "size": 1641,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Allgemein bekannte Fakten, keine erfundenen Studien oder Statistiken. Keine Rechts-, Finanz- oder Gesundheitsberatung. Keine Copyright-Verletzungen oder unfertigen Texte. Sprache korrekt.",
+      "pay_url": "https://buy.stripe.com/8x27sM4o1fFV96u08c2kw3m",
+      "payment_link_id": "plink_1UQ8M2J5iOXkWb9VEJBRmVoJ",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Control y Calculadora de Presupuestos para Talleres",
+      "slug": "control-y-calculadora-de-presupuestos-para-talleres",
+      "price_eur": 9,
+      "target": "Handwerksbetriebe",
+      "reason": "Esta plantilla responde a la necesidad de los talleres de gestionar de manera eficiente sus presupuestos y costos de proyectos, ofreciendo una solución práctica y profesional.",
+      "language": "es",
+      "pitch": "Optimiza tus presupuestos y controla los costos de tus proyectos con esta herramienta profesional diseñada para talleres y profesionales de la construcción.",
+      "content_html": "<h2>Incluye</h2><ul><li>Hoja de cálculo para control de materiales y mano de obra</li><li>Calculadora de presupuestos automática</li><li>Dashboard con KPIs clave</li><li>Gráficos para visualizar costos y ganancias</li></ul>",
+      "pro": true,
+      "created": "2026-10-13T16:03:19",
+      "file": "control-y-calculadora-de-presupuestos-para-talleres-30d67a46de4f7964.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Studien, Statistiken oder Prozentzahlen, keine falsche oder gemischte Sprache, keine Platzhalter oder unfertigen Texte, keine Rechts-, Steuer-, Finanz- oder Medizinberatung, keine Gesundheitsversprechen oder fremden Marken. Die Formeln und Tabellen ",
+      "pay_url": "https://buy.stripe.com/6oU6oI9Il1P5dmKbQU2kw3n",
+      "payment_link_id": "plink_1UQ8M2J5iOXkWb9VqyXwd7QR",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.00033839999999999993,
-      "why": "Video-Skript: Rothenburg ob der Tauber"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Professional YouTube Ad Revenue & Expense Tracker"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592963914"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Teaching Smart: Time-Saving Strategies for Busy Teachers and Tutors"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592963936"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4592963952"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.015303599999999999,
-      "why": "KI-Denken: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0036167999999999994,
-      "why": "KI-Pruefung: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.011170799999999998,
-      "why": "KI-Denken: Planificateur de Révision & Suivi des Dépenses pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0010811999999999998,
-      "why": "KI-Pruefung: Planificateur de Révision & Suivi des Dépenses pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.011357999999999998,
-      "why": "KI-Denken: Planificateur Intelligent de Révisions & Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0012011999999999997,
-      "why": "KI-Pruefung: Planificateur Intelligent de Révisions & Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.012009599999999999,
-      "why": "KI-Denken: Planificateur d'Études et Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0016823999999999997,
-      "why": "KI-Pruefung: Planificateur d'Études et Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Qualitaetspruefung nicht bestanden: {'score': 7, 'rule_violation': True, 'issues': \"Formel in 'Moyenne' ist fehlerhaft (='D{r}/E2'), sollte '=D{r}/20' sein (Note auf 20 gerechnet).\"}"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.011097599999999997,
-      "why": "KI-Denken: Planificateur d'Études Intelligent & Suivi des Progrès pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0010152,
-      "why": "KI-Pruefung: Planificateur d'Études Intelligent & Suivi des Progrès pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.011357999999999998,
-      "why": "KI-Denken: Planificateur de Révisions & Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0012384,
-      "why": "KI-Pruefung: Planificateur de Révisions & Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0176472,
-      "why": "KI-Denken: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies simples pour attirer plus de clients"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0038496,
-      "why": "KI-Pruefung: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies simples pour attirer plus de clients"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies simples pour attirer plus de clients"
-    },
-    {
-      "t": "2026-10-11T13:05:10",
-      "eur": -0.0038759999999999997,
-      "why": "Audit: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
-    },
-    {
-      "t": "2026-10-11T13:05:10",
-      "eur": -0.0020664,
-      "why": "Audit: Planificateur de Révisions & Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-11T13:05:10",
-      "eur": -0.0036563999999999998,
-      "why": "Audit: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies sim"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0015371999999999999,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (es)"
-    },
     {
       "t": "2026-10-11T12:56:04",
       "eur": -0.0013296,
@@ -6224,6 +6135,176 @@
       "t": "2026-10-13T06:50:33",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594302650"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.012163199999999997,
+      "why": "KI-Denken: Berlin & Potsdam Travel Expense Tracker & Itinerary Planner"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0012011999999999997,
+      "why": "KI-Pruefung: Berlin & Potsdam Travel Expense Tracker & Itinerary Planner"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.016959599999999995,
+      "why": "KI-Denken: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0034763999999999993,
+      "why": "KI-Pruefung: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.16,
+      "why": "KI-Bilder: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.012372,
+      "why": "KI-Denken: Calculadora Profesional de Presupuestos y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0011916,
+      "why": "KI-Pruefung: Calculadora Profesional de Presupuestos y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.012518399999999999,
+      "why": "KI-Denken: Herramienta Profesional de Presupuesto y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0013248,
+      "why": "KI-Pruefung: Herramienta Profesional de Presupuesto y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0121956,
+      "why": "KI-Denken: Calculadora Profesional de Presupuestos y Mediciones para Talleres"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0011124,
+      "why": "KI-Pruefung: Calculadora Profesional de Presupuestos y Mediciones para Talleres"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.012070799999999998,
+      "why": "KI-Denken: Calculadora Profesional de Presupuestos y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0010211999999999999,
+      "why": "KI-Pruefung: Calculadora Profesional de Presupuestos y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.012118799999999999,
+      "why": "KI-Denken: Control y Calculadora de Presupuestos para Talleres"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Control y Calculadora de Presupuestos para Talleres"
+    },
+    {
+      "t": "2026-10-13T16:14:43",
+      "eur": -0.0022884,
+      "why": "Audit: Berlin & Potsdam Travel Expense Tracker & Itinerary Planner"
+    },
+    {
+      "t": "2026-10-13T16:14:43",
+      "eur": -0.0032543999999999997,
+      "why": "Audit: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
+    },
+    {
+      "t": "2026-10-13T16:14:43",
+      "eur": -0.0032748,
+      "why": "Audit: Control y Calculadora de Presupuestos para Talleres"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0013379999999999998,
+      "why": "Blog-Artikel: Neuschwanstein (es)"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0015827999999999999,
+      "why": "Blog-Artikel: Saechsische Schweiz (fr)"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.0003672,
+      "why": "Video-Skript: Saechsische Schweiz"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Workout & Nutrition Planner for Female Fitness Coaches"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594594672"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Properties Efficiently"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594594696"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Estudios y Seguimiento de Progreso para Estudiantes"
+    },
+    {
+      "t": "2026-10-13T16:03:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594575175"
     }
   ],
   "alive": true,
@@ -7245,6 +7326,22 @@
       "topic": "Heidelberg Altstadt",
       "created": "2026-10-13T06:50:33",
       "img": true
+    },
+    {
+      "slug": "neuschwanstein-cuento-de-hadas-castillo-alemania",
+      "title": "Neuschwanstein: El Cuento de Hadas hecho Castillo en Alemania",
+      "lang": "es",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-13T16:03:19",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-la-saxe-suisse-joyau-naturel-allemagne",
+      "title": "Découvrez la Saxe Suisse : un joyau naturel en Allemagne",
+      "lang": "fr",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-13T16:03:19",
+      "img": true
     }
   ],
   "videos": [
@@ -7756,6 +7853,16 @@
       "hashtags": "#WaddenSea #NorthSea #UNESCO #NatureLovers #Germany",
       "voice": "Experience the magic of Germany's North Sea Wadden Sea! This UNESCO World Heritage site is a haven of natural wonders. Witness the ever-changing tides, vast mudflats, and rich wildlife. From playful seals to flocks of migratory birds, every moment is breathtaking. Feel the rhythm of nature and immerse yourself in this unique coastal paradise. The Wadden Sea is more than a destination—it’s a journey into the heart of untouched beauty.",
       "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-la-saxe-suisse-joyau-naturel-allemagne",
+      "title": "Découvrez la Saxe Suisse : un joyau naturel en Allemagne",
+      "lang": "fr",
+      "created": "2026-10-13T16:03:19",
+      "hashtags": "#SuisseSaxonne #Allemagne #Voyage #Nature #Aventure",
+      "voice": "Découvrez la Suisse saxonne, un joyau naturel entre l'Allemagne et la République tchèque ! Escaladez des formations rocheuses uniques, explorez des châteaux mystérieux et profitez de paysages dignes des contes de fées. Parfait pour les randonneurs et amateurs de photos. L'aventure vous attend !",
+      "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
