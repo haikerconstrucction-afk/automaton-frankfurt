@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 464.4717,
-  "spent_eur": 40.1985,
+  "balance_eur": 464.0818,
+  "spent_eur": 40.5884,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5298,99 +5298,81 @@
       "pay_url": "https://buy.stripe.com/6oU6oI9Il1P5dmKbQU2kw3n",
       "payment_link_id": "plink_1UQ8M2J5iOXkWb9VqyXwd7QR",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir",
+      "slug": "historias-magicas-para-pequenos-sonadores",
+      "price_eur": 5,
+      "target": "Padres hispanohablantes con hijos de 3 a 8 años",
+      "reason": "Una colección de siete historias cortas y educativas diseñadas para padres hispanohablantes que buscan fomentar valores positivos y crear momentos especiales antes de dormir con sus hijos.",
+      "language": "es",
+      "pitch": "Descubre 7 historias mágicas y educativas para ayudar a tus hijos a dormir tranquilos. Perfectas para padres ocupados que buscan momentos especiales antes de dormir.",
+      "content_html": "<h2>Contenido</h2>\n<ol><li>El Dragón que Aprendió a Compartir</li><li>La Luna y el Sol</li><li>El Unicornio Valiente</li><li>El Jardín Secreto</li><li>El Robot Amistoso</li><li>El Mapache Curioso</li><li>El Viaje Estelar</li></ol>",
+      "pro": false,
+      "created": "2026-10-13T21:18:43",
+      "file": "historias-magicas-para-pequenos-sonadores-66ca8d350e76462c.pdf",
+      "size": 1692,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt des eBooks entspricht den vorgegebenen Regeln. Es gibt keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Die Sprache ist korrekt Spanisch, es gibt keine Platzhalter oder unfertigen Texte. Der Inhalt ist pädagogisch wertvoll und frei von Rechts-, Steuer-, Finanz- oder Medi",
+      "pay_url": "https://buy.stripe.com/28E3cw5s52T92I6dZ22kw3o",
+      "payment_link_id": "plink_1UQDEKJ5iOXkWb9VL9DXU25f",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能婚礼预算追踪器与供应商管理器 - 2026专业版",
+      "slug": "smart-wedding-budget-tracker-2026",
+      "price_eur": 12.99,
+      "target": "中国、台湾和新加坡的中产阶级新婚夫妇和专业婚礼策划师",
+      "reason": "在中国婚庆市场迅速发展的背景下，许多新婚夫妇面临预算失控和供应商管理混乱的挑战。这款工具提供一站式解决方案，特别考虑了中文用户习惯和本土支付方式。相比现有产品，它增加了供应商比较功能和符合当地文化的分类，真正解决目标用户的痛点。",
+      "language": "zh",
+      "pitch": "一站式解决方案，精确控制和优化您婚礼的每一分钱支出，避免超支并轻松比较供应商报价",
+      "content_html": "<h2>内容</h2><p>这款专业工具帮助您跟踪所有婚礼相关开支，从场地租赁到摄影师费用，让您的婚礼规划既省钱又省心。</p>",
+      "pro": true,
+      "created": "2026-10-13T21:18:43",
+      "file": "smart-wedding-budget-tracker-2026-cee4c0a6e2b65bc8.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar und präzise, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Die Beispielrechnungen sind plausibel und entsprechen den Beispieldaten. Es gibt keine Regelverstöße oder sachlichen Fehler.",
+      "pay_url": "https://buy.stripe.com/fZu8wQ2fTeBR0zY5sw2kw3p",
+      "payment_link_id": "plink_1UQDELJ5iOXkWb9VTnxrCQLv",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'",
+      "slug": "smart-household-finance-7-steps-to-monthly-savings",
+      "price_eur": 5,
+      "target": "中国、台湾、新加坡的家庭主妇/主夫、年轻夫妻及任何希望优化家庭预算的人",
+      "reason": "针对华语家庭对实用理财工具的强烈需求，填补了非投资型日常节省指南的市场空白。通过可立即执行的步骤和定制化工具，解决‘知道要节约但不知如何系统化’的痛点。",
+      "language": "zh",
+      "pitch": "无需牺牲生活品质，通过系统性方法每月自动节省20%家庭开支。提供可直接使用的预算模板和日常追踪工具。",
+      "content_html": "<h2>内容目录</h2><ul><li>第一章：为什么传统省钱方法总是失败？</li><li>第二章：建立你的家庭财务仪表盘（含模板）</li><li>第三章：水电煤隐形消耗的5个‘杀手’</li><li>第四章：智能采购金字塔策略</li><li>第五章：孩子教育金的创意储蓄法</li><li>第六章：家庭娱乐预算的黄金分割</li><li>第七章：自动化节省系统搭建指南</li></ul>",
+      "pro": false,
+      "created": "2026-10-13T21:18:43",
+      "file": "smart-household-finance-7-steps-to-monthly-savings-affec6e2ce99fa32.pdf",
+      "size": 1654,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das E-Book bietet praktische, allgemein gültige Ratschläge zur Haushaltsbudgetierung ohne spezifische Prozentangaben oder falsche Behauptungen. Stellen wie '每月自动节省20%家庭开支' sind zwar ambitioniert, aber als Ziel formuliert und nicht als garantierte Leistung. Keine klaren Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/28E3cw5s58dtbeCg7a2kw3q",
+      "payment_link_id": "plink_1UQDEMJ5iOXkWb9VJlZS7xcB",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.0013296,
-      "why": "Blog-Artikel: Dresden Frauenkirche (fr)"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.00037679999999999994,
-      "why": "Video-Skript: Dresden Frauenkirche"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Power-Tipps für Selbstständige: So organisierst du deinen Arbeitstag effektiv"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593078397"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593094640"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
-    },
-    {
-      "t": "2026-10-11T12:56:04",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593094664"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.011078399999999999,
-      "why": "KI-Denken: Ultimate Family Travel Budget & Packing List Planner"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Family Travel Budget & Packing List Planner"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0110712,
-      "why": "KI-Denken: Ultimate Family Travel Budget Planner & Packing List Tracker"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Family Travel Budget Planner & Packing List Tracker"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.011331599999999999,
-      "why": "KI-Denken: Ultimate Family Vacation Packing List & Budget Tracker (2026 Edition)"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0012456,
-      "why": "KI-Pruefung: Ultimate Family Vacation Packing List & Budget Tracker (2026 Edition)"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0112212,
-      "why": "KI-Denken: Ultimate Family Vacation Budget & Packing List Tracker"
-    },
     {
       "t": "2026-10-11T18:58:08",
       "eur": -0.0010344,
@@ -6305,6 +6287,91 @@
       "t": "2026-10-13T16:03:19",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594575175"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.018518399999999997,
+      "why": "KI-Denken: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.0044052,
+      "why": "KI-Pruefung: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.16,
+      "why": "KI-Bilder: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.012465599999999999,
+      "why": "KI-Denken: 智能婚礼预算追踪器与供应商管理器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.0011891999999999998,
+      "why": "KI-Pruefung: 智能婚礼预算追踪器与供应商管理器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.016742399999999998,
+      "why": "KI-Denken: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.0037715999999999995,
+      "why": "KI-Pruefung: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
+    },
+    {
+      "t": "2026-10-13T21:27:12",
+      "eur": -0.004096799999999999,
+      "why": "Audit: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
+    },
+    {
+      "t": "2026-10-13T21:27:12",
+      "eur": -0.0021515999999999996,
+      "why": "Audit: 智能婚礼预算追踪器与供应商管理器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-13T21:27:12",
+      "eur": -0.0039131999999999995,
+      "why": "Audit: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.0011388,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (de)"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.0011255999999999998,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (en)"
+    },
+    {
+      "t": "2026-10-13T21:18:43",
+      "eur": -0.00038159999999999995,
+      "why": "Video-Skript: Hamburg Speicherstadt"
     }
   ],
   "alive": true,
@@ -7342,6 +7409,22 @@
       "topic": "Saechsische Schweiz",
       "created": "2026-10-13T16:03:19",
       "img": true
+    },
+    {
+      "slug": "ruegen-kreidefelsen-naturwunder-ostsee",
+      "title": "Rügen Kreidefelsen: Naturwunder an der Ostseeküste",
+      "lang": "de",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-13T21:18:43",
+      "img": true
+    },
+    {
+      "slug": "exploring-hamburgs-historic-speicherstadt",
+      "title": "Exploring Hamburg's Historic Speicherstadt: A Traveler's Guide",
+      "lang": "en",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-13T21:18:43",
+      "img": true
     }
   ],
   "videos": [
@@ -7863,6 +7946,16 @@
       "hashtags": "#SuisseSaxonne #Allemagne #Voyage #Nature #Aventure",
       "voice": "Découvrez la Suisse saxonne, un joyau naturel entre l'Allemagne et la République tchèque ! Escaladez des formations rocheuses uniques, explorez des châteaux mystérieux et profitez de paysages dignes des contes de fées. Parfait pour les randonneurs et amateurs de photos. L'aventure vous attend !",
       "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "exploring-hamburgs-historic-speicherstadt",
+      "title": "Exploring Hamburg's Historic Speicherstadt: A Traveler's Guide",
+      "lang": "en",
+      "created": "2026-10-13T21:18:43",
+      "hashtags": "#HamburgSpeicherstadt #UNESCOHeritage #HistoricHamburg #TravelGermany #CulturalGem",
+      "voice": "Welcome to Hamburg Speicherstadt, a breathtaking blend of history and charm. This UNESCO World Heritage Site, recognized in 2015, is a stunning red-brick warehouse district nestled along picturesque waterways. Once the heart of global trade, it’s now a vibrant hub of culture, museums, and unique experiences. From its architectural marvels to its magical reflections on the canals, Speicherstadt captures the essence of Hamburg’s maritime spirit. Discover history, beauty, and inspiration in every corner!",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
