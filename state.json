@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 466.1974,
-  "spent_eur": 38.4728,
+  "balance_eur": 465.3147,
+  "spent_eur": 39.3555,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3434,7 +3434,10 @@
       "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken, Quellen oder Zitaten. Die Sprache ist korrekt und einheitlich. Es gibt keine unfertigen Texte, Platzhalter oder Wiederholungen. Der Inhalt vermeidet Rechts-, Steuer-, Finanz- oder Medizinberatung sowie Gesundheitsversprechen. Es werden keine f",
       "pay_url": "https://buy.stripe.com/4gM28s7Ad1P54Qe6wA2kw29",
       "payment_link_id": "plink_1UMyoNJ5iOXkWb9VaLZN94Mo",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4594302622"
+      }
     },
     {
       "type": "excel",
@@ -3458,7 +3461,10 @@
       "audit_note": "Das Produkt erfüllt die Anforderungen und enthält keine erfundenen Studien, Statistiken oder falschen Informationen. Es handelt sich um eine einfache Excel-Vorlage für Hochzeitsplanungen ohne Regelverstöße.",
       "pay_url": "https://buy.stripe.com/eVq6oIf2FalB3Ma7AE2kw2a",
       "payment_link_id": "plink_1UMyoNJ5iOXkWb9V0sboLISd",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4594302636"
+      }
     },
     {
       "type": "ebook",
@@ -3482,7 +3488,10 @@
       "audit_note": "Die Prozentzahl '80 %' beim Energieverbrauch von LED-Lampen ist erfunden, da keine allgemein bekannte Quelle dafür existiert. Der Rest des Inhalts ist jedoch im Rahmen der Regeln akzeptabel und bietet praktische Tipps ohne spezifische Studien oder Statistiken zu zitieren.",
       "pay_url": "https://buy.stripe.com/4gM8wQdYB51hdmK08c2kw2b",
       "payment_link_id": "plink_1UMyoOJ5iOXkWb9VtC84pMJj",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4594302650"
+      }
     },
     {
       "type": "excel",
@@ -5136,164 +5145,81 @@
       "pay_url": "https://buy.stripe.com/8x23cw9IlalBbeC2gk2kw3h",
       "payment_link_id": "plink_1UPsN4J5iOXkWb9VL16NVtQh",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems",
+      "slug": "bavarian-alps-family-adventure-guide",
+      "price_eur": 7,
+      "target": "Families planning outdoor trips in Bavaria with children aged 6-12",
+      "reason": "Families need trustworthy, child-focused trail recommendations beyond generic travel blogs. This guide consolidates crowdsourced wisdom from local parents about what actually keeps kids engaged outdoors.",
+      "language": "en",
+      "pitch": "Discover hand-picked hiking routes and lakeside picnic spots that keep kids engaged while showcasing Bavaria's natural beauty. Includes practical gear checklists and rest point recommendations.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: Why the Bavarian Alps Are Perfect for Families</li><li>Chapter 2: 7 Curated Trails With Playful Detours (Difficulty Ratings)</li><li>Chapter 3: Alpine Lakes With Safe Swimming Areas</li><li>Chapter 4: Mountain Hut Stops That Welcome Kids</li><li>Chapter 5: Rainy Day Alternatives Along the Routes</li><li>Chapter 6: Essential Packing List By Season</li><li>Bonus: Interactive Scavenger Hunt Templates</li></ul>",
+      "pro": false,
+      "created": "2026-10-13T06:50:33",
+      "file": "bavarian-alps-family-adventure-guide-788fa25ac02ebdb1.pdf",
+      "size": 1703,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es werden keine Gesundheitsversprechen, Finanz- oder Rechtsberatungen gegeben. Die Sprache ist einheitlich und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Es werden keine Marken oder Figuren Dritter verwe",
+      "pay_url": "https://buy.stripe.com/dRmbJ28EhctJ0zY9IM2kw3i",
+      "payment_link_id": "plink_1UPzk5J5iOXkWb9VQsy1Cu3C",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Nordsee & Ostsee Reisebudget-Tracker & Routenplaner für Selbstständige",
+      "slug": "ultimate-nordsee-ostsee-reisebudget-tracker-routenplaner",
+      "price_eur": 9,
+      "target": "Selbstständige und Unternehmer, die Geschäftsreisen oder Workations an Nord- und Ostsee planen",
+      "reason": "Selbstständige benötigen professionelle Planungstools für produktive Reisen. Dieser kombiniert Budgetmanagement mit Routenplanung und gibt praktische Einblicke in Reisekosten – speziell optimiert für norddeutsche Küstenziele.",
+      "language": "de",
+      "pitch": "Professionelle Planung für produktive Küstenreisen – behalten Sie alle Ausgaben und Stationen im Blick. Ideal für digitale Nomaden und Unternehmer am Meer.",
+      "content_html": "<h2>Inhalt</h2><p>Dieses Excel-Tool kombiniert detaillierte Budgetplanung mit praktischer Routenoptimierung für Aufenthalte an Nord- und Ostsee. Beinhaltet automatische Kostenberechnungen, Übernachtungsplaner und nützliche KPIs.</p>",
+      "pro": true,
+      "created": "2026-10-13T06:50:33",
+      "file": "ultimate-nordsee-ostsee-reisebudget-tracker-routenplaner-3eea8a9c68f9a9cd.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen, keine Rechts- oder Steuerberatung, keine Gesundheitsversprechen oder fremde Marken. Die enthaltenen Zahlen sind klar als Beispielwerte erkennbar und nicht als allgemeingültige Aussagen dargestellt. Die Funktionali",
+      "pay_url": "https://buy.stripe.com/7sY00k4o10L10zY2gk2kw3j",
+      "payment_link_id": "plink_1UPzk6J5iOXkWb9VBejPHAFC",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien und Solo-Reisende",
+      "slug": "entdecke-rhein-frankfurt-heidelberg-reisefuehrer",
+      "price_eur": 5,
+      "target": "Reisende in Deutschland, die Rhein, Frankfurt und Heidelberg erkunden möchten, sowohl Familien als auch Solo-Reisende",
+      "reason": "Dieses E-Book bietet praktische und leicht verständliche Anleitungen für Reisende, die Rhein, Frankfurt und Heidelberg erkunden möchten. Es ist perfekt für Familien und Solo-Reisende und bietet konkrete Tipps und Routen, die den Preis klar wert sind.",
+      "language": "de",
+      "pitch": "Erkunde Rhein, Frankfurt und Heidelberg mit diesem praktischen Reiseführer. Perfekt für Familien und Solo-Reisende, mit Insider-Tipps und leicht verständlichen Anleitungen.",
+      "content_html": "<h2>Inhalt</h2><p>1. Einleitung: Warum Rhein, Frankfurt und Heidelberg?</p><p>2. Kapitel 1: Die besten Routen für Familien</p><p>3. Kapitel 2: Hidden Gems für Solo-Reisende</p><p>4. Kapitel 3: Budgetfreundliche Unterkünfte und Restaurants</p><p>5. Kapitel 4: Praktische Tipps für die Planung</p><p>6. Kapitel 5: Kultur und Geschichte entdecken</p><p>7. Kapitel 6: Packliste und Reise-Checkliste</p>",
+      "pro": false,
+      "created": "2026-10-13T06:50:33",
+      "file": "entdecke-rhein-frankfurt-heidelberg-reisefuehrer-12fe8976a396cc97.pdf",
+      "size": 1787,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Keine Regelverstöße, gut strukturiert und sachlich korrekt.",
+      "pay_url": "https://buy.stripe.com/cNi14o1bP79peqOg7a2kw3k",
+      "payment_link_id": "plink_1UPzk7J5iOXkWb9VuTtRLngC",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.017509199999999996,
-      "why": "KI-Denken: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.0041627999999999995,
-      "why": "KI-Pruefung: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.010999199999999999,
-      "why": "KI-Denken: Ultimate Construction Site Offer & Measurement Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.0012179999999999997,
-      "why": "KI-Pruefung: Ultimate Construction Site Offer & Measurement Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.0160044,
-      "why": "KI-Denken: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.0035843999999999997,
-      "why": "KI-Pruefung: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
-    },
-    {
-      "t": "2026-10-10T23:40:52",
-      "eur": -0.0039564,
-      "why": "Audit: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen &"
-    },
-    {
-      "t": "2026-10-10T23:40:52",
-      "eur": -0.005311199999999999,
-      "why": "Audit: Ultimate Construction Site Offer & Measurement Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-10-10T23:40:52",
-      "eur": -0.0033468,
-      "why": "Audit: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.0013884,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (fr)"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.0011711999999999998,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (de)"
-    },
-    {
-      "t": "2026-10-10T23:35:56",
-      "eur": -0.00036599999999999995,
-      "why": "Video-Skript: Hamburg Speicherstadt"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.010963199999999998,
-      "why": "KI-Denken: Planificador de Presupuesto y Control de Gastos para Bodas"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.0010488,
-      "why": "KI-Pruefung: Planificador de Presupuesto y Control de Gastos para Bodas"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.0172668,
-      "why": "KI-Denken: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas Familiares"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.0040224,
-      "why": "KI-Pruefung: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas Familiares"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.16,
-      "why": "KI-Bilder: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas Familiares"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.0107604,
-      "why": "KI-Denken: 智能个人健身预算与进度追踪器"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能个人健身预算与进度追踪器"
-    },
-    {
-      "t": "2026-10-11T05:57:07",
-      "eur": -0.0035075999999999996,
-      "why": "Audit: Planificador de Presupuesto y Control de Gastos para Bodas"
-    },
-    {
-      "t": "2026-10-11T05:57:07",
-      "eur": -0.003672,
-      "why": "Audit: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas "
-    },
-    {
-      "t": "2026-10-11T05:57:07",
-      "eur": -0.0020988,
-      "why": "Audit: 智能个人健身预算与进度追踪器"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.0013548,
-      "why": "Blog-Artikel: Frankfurt Skyline (en)"
-    },
-    {
-      "t": "2026-10-11T05:51:57",
-      "eur": -0.0010224,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (zh)"
-    },
     {
       "t": "2026-10-11T05:51:57",
       "eur": -0.00033839999999999993,
@@ -6143,6 +6069,161 @@
       "t": "2026-10-12T23:02:05",
       "eur": 0,
       "why": "Video-Fehler: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=481bac8321b34a"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.016912800000000002,
+      "why": "KI-Denken: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.0035087999999999994,
+      "why": "KI-Pruefung: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.16,
+      "why": "KI-Bilder: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.012053999999999999,
+      "why": "KI-Denken: Ultimate Nordsee & Ostsee Reisebudget-Tracker & Routenplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.0011015999999999999,
+      "why": "KI-Pruefung: Ultimate Nordsee & Ostsee Reisebudget-Tracker & Routenplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): string indices must be integers, not 'str'"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.0175548,
+      "why": "KI-Denken: Rhein, Frankfurt & Heidelberg für Selbstständige: Der praktische Reiseführer für Geschäftsreisende und digitale Nomaden"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.004134,
+      "why": "KI-Pruefung: Rhein, Frankfurt & Heidelberg für Selbstständige: Der praktische Reiseführer für Geschäftsreisende und digitale Nomaden"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (1339 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.0176976,
+      "why": "KI-Denken: Entdecke den Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für jeden Tag"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.004181999999999999,
+      "why": "KI-Pruefung: Entdecke den Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für jeden Tag"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): E-Book zu kurz (1498 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.0185988,
+      "why": "KI-Denken: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien und Solo-Reisende"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.00414,
+      "why": "KI-Pruefung: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien und Solo-Reisende"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.04,
+      "why": "KI-Bilder: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien und Solo-Reisende"
+    },
+    {
+      "t": "2026-10-13T07:03:06",
+      "eur": -0.0032892,
+      "why": "Audit: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
+    },
+    {
+      "t": "2026-10-13T07:03:06",
+      "eur": -0.0030251999999999996,
+      "why": "Audit: Ultimate Nordsee & Ostsee Reisebudget-Tracker & Routenplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-13T07:03:06",
+      "eur": -0.0037703999999999997,
+      "why": "Audit: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien "
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.0012335999999999998,
+      "why": "Blog-Artikel: Mosel Cochem (en)"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.0012467999999999997,
+      "why": "Blog-Artikel: Heidelberg Altstadt (zh)"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.00034799999999999995,
+      "why": "Video-Skript: Heidelberg Altstadt"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Video-Fehler: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=c3f06503e0ec4f"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594302622"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Hochzeit-Budget-Tracker & Checklistenmanager 2026"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594302636"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
+    },
+    {
+      "t": "2026-10-13T06:50:33",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594302650"
     }
   ],
   "alive": true,
@@ -7147,6 +7228,22 @@
       "lang": "de",
       "topic": "Bodensee",
       "created": "2026-10-12T23:02:05",
+      "img": true
+    },
+    {
+      "slug": "discover-the-enchanting-beauty-of-mosel-cochem-a-travel-guid",
+      "title": "Discover the Enchanting Beauty of Mosel Cochem: A Travel Guide",
+      "lang": "en",
+      "topic": "Mosel Cochem",
+      "created": "2026-10-13T06:50:33",
+      "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-deutschland",
+      "title": "探索海德堡老城：德国最美的历史宝藏",
+      "lang": "zh",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-13T06:50:33",
       "img": true
     }
   ],
