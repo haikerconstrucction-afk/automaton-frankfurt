@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 463.2298,
-  "spent_eur": 41.4404,
+  "balance_eur": 462.3983,
+  "spent_eur": 42.2719,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3698,7 +3698,10 @@
       "audit_note": "Inhalt ist praktisch und allgemein gehalten, enthält keine erfundenen Studien oder Zahlen. Sprache ist konsequent Französisch, keine Regelverstöße erkennbar.",
       "pay_url": "https://buy.stripe.com/3cI8wQ07L51h1E208c2kw2i",
       "payment_link_id": "plink_1UNaJTJ5iOXkWb9V8l4QWP1z",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4595064694"
+      }
     },
     {
       "type": "excel",
@@ -3722,7 +3725,10 @@
       "audit_note": "Der Inhalt ist insgesamt korrekt und hält sich an die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert. Die Excel-Tabellen sind sinnvoll und enthalten keine Fehler. Die Sprache ist konsistent und es gibt keine unvollständi",
       "pay_url": "https://buy.stripe.com/fZu00kf2FctJeqOcUY2kw2j",
       "payment_link_id": "plink_1UNaJUJ5iOXkWb9VwCLBSHfo",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4595064716"
+      }
     },
     {
       "type": "ebook",
@@ -3746,7 +3752,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Statistiken, Zahlen oder Quellen, keine Gesundheitsversprechen, keine Finanz- oder Rechtsberatung, keine fremden Marken/Figuren oder Formeln. Der Text ist vollständig, klar und bietet praktische Tipps für den Gartenbau.",
       "pay_url": "https://buy.stripe.com/3cIfZi4o18dtaay4os2kw2k",
       "payment_link_id": "plink_1UNaJVJ5iOXkWb9VSFJXo8GW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4595064730"
+      }
     },
     {
       "type": "excel",
@@ -5427,164 +5436,81 @@
       "pay_url": "https://buy.stripe.com/7sYbJ27AdctJ2I6g7a2kw3s",
       "payment_link_id": "plink_1UQGwZJ5iOXkWb9VEyJnpWy4",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Exam Prep Budget & Progress Tracker for Students",
+      "slug": "ultimate-exam-prep-budget-tracker-students",
+      "price_eur": 9,
+      "target": "students preparing for exams",
+      "reason": "Students often struggle to manage their exam preparation efficiently. This tool helps them track costs and progress, ensuring better organization and focus.",
+      "language": "en",
+      "pitch": "Stay organized and focused with this all-in-one exam prep tracker! Track your study budget, resources, and progress effortlessly.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps students manage their exam preparation efficiently. Track study materials, expenses, and progress with ease.</p>",
+      "pro": true,
+      "created": "2026-10-14T07:42:04",
+      "file": "ultimate-exam-prep-budget-tracker-students-7c25f280a401e8ce.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es werden keine Marken oder Figuren Dritter verwendet, und es gibt keine Rechts-, Steuer- oder Finanzberatung. Die Beispielrechnungen sind plausibel und klar als solche markiert. Die Sprache ist ei",
+      "pay_url": "https://buy.stripe.com/aFaeVef2FdxN6Ym1cg2kw3t",
+      "payment_link_id": "plink_1UQMyLJ5iOXkWb9V9hiW5Xvd",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Families and Boost Your Revenue",
+      "slug": "ultimate-family-friendly-restaurant-guide",
+      "price_eur": 5,
+      "target": "Small restaurants and cafes that want to attract more families and increase their revenue",
+      "reason": "Small restaurants and cafes often struggle to attract families despite their potential for high repeat business. This guide provides practical, actionable steps that are easy to implement and can lead to significant revenue growth.",
+      "language": "en",
+      "pitch": "Discover how to create a welcoming environment for families and turn your restaurant into their favorite dining spot. Practical tips and strategies that you can implement right away.",
+      "content_html": "<h2>Inhalt</h2>\n<ul>\n<li>Introduction: Why Families Are Your Best Customers</li>\n<li>Chapter 1: Creating a Kid-Friendly Menu</li>\n<li>Chapter 2: Designing a Family-Friendly Atmosphere</li>\n<li>Chapter 3: Marketing Strategies That Appeal to Families</li>\n<li>Chapter 4: Hosting Family Events and Specials</li>\n<li>Chapter 5: Handling Feedback and Complaints</li>\n<li>Chapter 6: Building Long-Term Relationships with Families</li>\n<li>Conclusion: Your Action Plan for Success</li>\n</ul>",
+      "pro": false,
+      "created": "2026-10-14T07:42:04",
+      "file": "ultimate-family-friendly-restaurant-guide-31e6db9e35daa753.pdf",
+      "size": 2195,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist professionell und sachlich korrekt. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Alle Tipps basieren auf allgemeinem Wissen und praktischen Erfahrungen. Die Sprache ist einheitlich und es gibt keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine",
+      "pay_url": "https://buy.stripe.com/5kQ4gAdYBbpFbeC9IM2kw3u",
+      "payment_link_id": "plink_1UQMyMJ5iOXkWb9VI4UkjjiP",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimativer Reisebudget-Tracker & Packlisten-Planer (2026 Edition)",
+      "slug": "reisebudget-tracker-packlisten-planer-2026",
+      "price_eur": 9,
+      "target": "Selbstständige & Familien, die Geschäfts- oder Urlaubsreisen planen",
+      "reason": "Kombiniert die wichtigsten Reiseplanungsfunktionen in einem Tool. Spart selbstständigen Reisenden mehrere Stunden Arbeit durch die automatische Berechnung aller Kosten und übersichtliche Packlisten-Vorlagen.",
+      "language": "de",
+      "pitch": "Professionelle All-in-One-Lösung zur Planung von Reisekosten und Gepäck. Spart Zeit und Geld durch automatische Berechnungen und praktische Vorlagen.",
+      "content_html": "<h2>Inhalt</h2><p>Detaillierte Budgetplanung, intelligente Packlisten, automatische Kostenberechnungen und Übersichten für bis zu 5 Reisende.</p>",
+      "pro": true,
+      "created": "2026-10-14T07:42:04",
+      "file": "reisebudget-tracker-packlisten-planer-2026-7abc0295a2a37382.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Prozentuale Budgetverbrauch ist höher als 100 %, was im vorliegenden Beispiel nicht plausibel ist. Es handelt sich um eine falsche Berechnung, aber kein klarer Regelverstoß gegen die Inhaltsrichtlinien.",
+      "pay_url": "https://buy.stripe.com/bJe28s1bP1P50zY7AE2kw3v",
+      "payment_link_id": "plink_1UQMyNJ5iOXkWb9VsmNzke27",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-11T23:47:53",
-      "eur": -0.0030659999999999997,
-      "why": "Audit: Ultimate Moving & Renovation Budget Tracker for Women"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.0008327999999999999,
-      "why": "Blog-Artikel: Muenchen Marienplatz (zh)"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.0014988,
-      "why": "Blog-Artikel: Eifel Maare (es)"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.00038879999999999996,
-      "why": "Video-Skript: Eifel Maare"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.016850399999999998,
-      "why": "KI-Denken: The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.0035952,
-      "why": "KI-Pruefung: The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.011889599999999998,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.0013416,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.011502,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.0010271999999999998,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.0171132,
-      "why": "KI-Denken: Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el Rendimiento de los Estudiantes"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.0037236,
-      "why": "KI-Pruefung: Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el Rendimiento de los Estudiantes"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el Rendimiento de los Estudiantes"
-    },
-    {
-      "t": "2026-10-12T06:11:29",
-      "eur": -0.0032867999999999994,
-      "why": "Audit: The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round"
-    },
-    {
-      "t": "2026-10-12T06:11:29",
-      "eur": -0.0039996,
-      "why": "Audit: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-12T06:11:29",
-      "eur": -0.0035039999999999997,
-      "why": "Audit: Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el R"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.0012299999999999998,
-      "why": "Blog-Artikel: Rheingau Weinberge (fr)"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.0013152,
-      "why": "Blog-Artikel: Schwarzwald (en)"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.0003324,
-      "why": "Video-Skript: Schwarzwald"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": 0,
-      "why": "Video-Fehler: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=ed06b84fdcec4c"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Viajes para NRW: Presupuesto y Ruta de Explora"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593560831"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Baviera y los Alpes: Descubre los Mejores Recorridos para Viajeros Masculinos"
-    },
     {
       "t": "2026-10-12T06:03:45",
       "eur": 0,
@@ -6434,6 +6360,161 @@
       "t": "2026-10-14T01:15:40",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594898471"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.012147599999999998,
+      "why": "KI-Denken: Ultimate Exam Prep Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.019254,
+      "why": "KI-Denken: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Families and Boost Your Revenue"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.0032531999999999995,
+      "why": "KI-Pruefung: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Families and Boost Your Revenue"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Families and Boost Your Revenue"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.012639599999999999,
+      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.0010932,
+      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.012507599999999999,
+      "why": "KI-Denken: Ultimativer Familienurlaub-Packlisten-Planer & Budget-Tracker"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.0010248,
+      "why": "KI-Pruefung: Ultimativer Familienurlaub-Packlisten-Planer & Budget-Tracker"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.012424799999999998,
+      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.012695999999999999,
+      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer (2026 Edition)"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.0011664,
+      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer (2026 Edition)"
+    },
+    {
+      "t": "2026-10-14T07:51:14",
+      "eur": -0.0022056,
+      "why": "Audit: Ultimate Exam Prep Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-14T07:51:14",
+      "eur": -0.0031188,
+      "why": "Audit: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Fa"
+    },
+    {
+      "t": "2026-10-14T07:51:14",
+      "eur": -0.0026219999999999998,
+      "why": "Audit: Ultimativer Reisebudget-Tracker & Packlisten-Planer (2026 Edition)"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.0013092,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (fr)"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.0016559999999999997,
+      "why": "Blog-Artikel: Dresden Frauenkirche (de)"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.00038639999999999996,
+      "why": "Video-Skript: Dresden Frauenkirche"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quotidien Harmonieux"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595064694"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Moving & Renovation Budget Tracker for Families"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595064716"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
+    },
+    {
+      "t": "2026-10-14T07:42:04",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595064730"
     }
   ],
   "alive": true,
@@ -7503,6 +7584,22 @@
       "topic": "Rothenburg ob der Tauber",
       "created": "2026-10-14T01:15:40",
       "img": true
+    },
+    {
+      "slug": "decouvrez-le-brandenburger-tor-de-berlin-un-symbole-historiq",
+      "title": "Découvrez le Brandenburger Tor de Berlin : Un Symbole Historique et Culturel",
+      "lang": "fr",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-14T07:42:04",
+      "img": true
+    },
+    {
+      "slug": "dresden-frauenkirche-reisetipps-deutschland",
+      "title": "Die Dresdner Frauenkirche: Ein Symbol der Wiederauferstehung",
+      "lang": "de",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-14T07:42:04",
+      "img": true
     }
   ],
   "videos": [
@@ -8044,6 +8141,16 @@
       "hashtags": "#Rothenburg #Alemania #Viajes #Europa #Medieval",
       "voice": "Descubre Rothenburg ob der Tauber, un rincón mágico en Alemania. Sus calles empedradas, sus casas de colores y sus imponentes murallas te transportarán al pasado. Pasea por la plaza del mercado, admira el ayuntamiento y déjate conquistar por su ambiente único. ¡Rothenburg es un sueño hecho realidad para los amantes de la historia y la belleza!",
       "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "dresden-frauenkirche-reisetipps-deutschland",
+      "title": "Die Dresdner Frauenkirche: Ein Symbol der Wiederauferstehung",
+      "lang": "de",
+      "created": "2026-10-14T07:42:04",
+      "hashtags": "#FrauenkircheDresden #BarockArchitektur #DeutschlandReisen #HistorischeBaukunst #Versöhnung",
+      "voice": "Die Frauenkirche in Dresden – ein Meisterwerk barocker Baukunst und ein Symbol der Hoffnung. Nach ihrer Zerstörung 1945 wurde sie originalgetreu wiederaufgebaut. Heute steht sie nicht nur als architektonisches Juwel da, sondern auch als Zeichen der Versöhnung. Ein Ort, der Geschichte atmet und Besucher jeden Tag aufs Neue beeindruckt.",
+      "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
