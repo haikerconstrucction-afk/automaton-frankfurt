@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 461.9881,
-  "spent_eur": 42.6821,
+  "balance_eur": 461.5949,
+  "spent_eur": 43.0753,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5604,94 +5604,81 @@
       "pay_url": "https://buy.stripe.com/aFa3cw07LdxN96u08c2kw3z",
       "payment_link_id": "plink_1UQXHkJ5iOXkWb9VuWYoEUN0",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres",
+      "slug": "huerto-autosuficiente-7-pasos-hombres",
+      "price_eur": 5,
+      "target": "Hombres que buscan autosuficiencia en la horticultura, desde principiantes hasta nivel intermedio",
+      "reason": "Responde a la creciente demanda de autosuficiencia en España/Latam, con enfoque práctico y adaptado al ritmo de vida masculino actual. Combina conocimiento tradicional con soluciones modernas, demostrando que la horticultura puede ser sencilla y satisfactoria.",
+      "language": "es",
+      "pitch": "Aprende a cultivar tu propio alimento todo el año con métodos sencillos y efectivos. Ideal para quienes valoran la independencia y el contacto con la naturaleza.",
+      "content_html": "<h2>Contenido</h2><ol><li>Planificación estratégica del espacio</li><li>Selección de cultivos todo el año</li><li>Técnicas de riego eficiente</li><li>Control natural de plagas</li><li>Almacenamiento y conservación</li><li>Integración con otras actividades</li><li>7 errores comunes y cómo evitarlos</li></ol>",
+      "pro": false,
+      "created": "2026-10-14T23:16:51",
+      "file": "huerto-autosuficiente-7-pasos-hombres-3bb6f75d0d7d8e1c.pdf",
+      "size": 1619,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Die Prozentzahl '60%' ist nicht belegt und wurde wahrscheinlich erfunden. Der Rest des Inhalts ist jedoch korrekt und folgt den Regeln.",
+      "pay_url": "https://buy.stripe.com/fZueVe3jXalB5Ui9IM2kw3A",
+      "payment_link_id": "plink_1UQbVmJ5iOXkWb9VD6NuAPeT",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube广告收入与成本追踪器 - 2026专业版",
+      "slug": "youtube-ad-revenue-cost-tracker-2026",
+      "price_eur": 9,
+      "target": "中文地区的YouTube内容创作者和频道运营者",
+      "reason": "中文市场缺少专门为独立内容创作者设计的YouTube收入追踪工具，这个模板填补了市场空白，帮助用户量化内容价值并做出数据驱动的决策。",
+      "language": "zh",
+      "pitch": "专业级的YouTube广告收入追踪工具，帮助内容创作者清晰掌握每支视频的盈利表现与成本结构，优化内容策略",
+      "content_html": "<h2>功能内容</h2><p>全面追踪视频广告收入、分析不同类型内容的盈利效率、管理制作成本预算</p>",
+      "pro": true,
+      "created": "2026-10-14T23:16:51",
+      "file": "youtube-ad-revenue-cost-tracker-2026-4170e8c541ddb0b5.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist klar strukturiert und erfüllt alle Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind plausibel und klar als solche markiert. Es gibt keine Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/3cI4gAcUx51hdmK7AE2kw3B",
+      "payment_link_id": "plink_1UQbVnJ5iOXkWb9VWaqHIVhM",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现",
+      "slug": "smart-teaching-7-steps-for-teachers",
+      "price_eur": 5,
+      "target": "教师和补习老师，尤其是面临多任务管理和时间压力的教育工作者",
+      "reason": "在中国教育市场，教师们面临着日益增长的工作压力和课堂管理挑战。目前列表中缺乏针对教育工作者的实用中文指南，而这个群体数量庞大且对提升教学效率有强烈需求。该书提供可立即实施的策略，填补了这一市场空白。",
+      "language": "zh",
+      "pitch": "这本实用指南为忙碌的教师提供经过验证的策略，帮助他们在更短时间内取得更好的教学效果。通过7个简单步骤，您将学会如何高效备课、管理课堂时间并激发学生学习动力。",
+      "content_html": "<h2>内容</h2><p>1. 高效备课的黄金法则</p><p>2. 课堂时间管理技巧</p><p>3. 创造互动式学习环境</p><p>4. 个性化教学策略</p><p>5. 技术工具在教学中的应用</p><p>6. 学生表现评估与反馈</p><p>7. 教师自我成长与压力管理</p><p>每章包含具体案例、实用模板和行动计划。</p>",
+      "pro": false,
+      "created": "2026-10-14T23:16:51",
+      "file": "smart-teaching-7-steps-for-teachers-d176306ad05d384f.pdf",
+      "size": 2144,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend regelkonform und bietet praktische Tipps. Allerdings wurde eine spezifische Prozentzahl (80%) ohne bekannte Grundlage verwendet, die entfernt werden sollte. Keine klaren Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/4gMeVe7Ad8dtciG2gk2kw3C",
+      "payment_link_id": "plink_1UQbVoJ5iOXkWb9VHZV0tHvn",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.011693999999999998,
-      "why": "KI-Denken: Ultimate Family Trip Budget & Itinerary Planner for NRW"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Family Trip Budget & Itinerary Planner for NRW"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.0114684,
-      "why": "KI-Denken: Ultimate NRW Family Trip Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate NRW Family Trip Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.011901599999999998,
-      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Route Optimizer"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.001104,
-      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Route Optimizer"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.01185,
-      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.0010811999999999998,
-      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-12T23:10:48",
-      "eur": -0.003959999999999999,
-      "why": "Audit: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Ins"
-    },
-    {
-      "t": "2026-10-12T23:10:48",
-      "eur": -0.0016836,
-      "why": "Audit: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.0010187999999999998,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (fr)"
-    },
     {
       "t": "2026-10-12T23:02:05",
       "eur": -0.0013884,
@@ -6606,6 +6593,91 @@
       "t": "2026-10-14T18:40:54",
       "eur": -0.00033959999999999996,
       "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.0185184,
+      "why": "KI-Denken: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.0042384,
+      "why": "KI-Pruefung: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.16,
+      "why": "KI-Bilder: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.012785999999999999,
+      "why": "KI-Denken: YouTube广告收入与成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.0010283999999999998,
+      "why": "KI-Pruefung: YouTube广告收入与成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.018416400000000003,
+      "why": "KI-Denken: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.0042888,
+      "why": "KI-Pruefung: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
+    },
+    {
+      "t": "2026-10-14T23:22:55",
+      "eur": -0.0037535999999999997,
+      "why": "Audit: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
+    },
+    {
+      "t": "2026-10-14T23:22:55",
+      "eur": -0.0025775999999999998,
+      "why": "Audit: YouTube广告收入与成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-14T23:22:55",
+      "eur": -0.004356,
+      "why": "Audit: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.0014652,
+      "why": "Blog-Artikel: Muenchen Marienplatz (es)"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.0012587999999999998,
+      "why": "Blog-Artikel: Eifel Maare (fr)"
+    },
+    {
+      "t": "2026-10-14T23:16:51",
+      "eur": -0.00038879999999999996,
+      "why": "Video-Skript: Eifel Maare"
     }
   ],
   "alive": true,
@@ -7706,6 +7778,22 @@
       "lang": "zh",
       "topic": "Nordsee Wattenmeer",
       "created": "2026-10-14T13:46:36",
+      "img": true
+    },
+    {
+      "slug": "descubriendo-el-corazon-de-munich-marienplatz",
+      "title": "Descubriendo el corazón de Múnich: Marienplatz",
+      "lang": "es",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-14T23:16:51",
+      "img": true
+    },
+    {
+      "slug": "decouverte-des-maars-de-l-eifel-tresors-naturels-d-allemagne",
+      "title": "Découverte des Maars de l'Eifel : Trésors naturels d'Allemagne",
+      "lang": "fr",
+      "topic": "Eifel Maare",
+      "created": "2026-10-14T23:16:51",
       "img": true
     }
   ],
