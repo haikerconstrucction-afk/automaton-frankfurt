@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 462.3983,
-  "spent_eur": 42.2719,
+  "balance_eur": 462.0064,
+  "spent_eur": 42.6638,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5508,109 +5508,81 @@
       "pay_url": "https://buy.stripe.com/bJe28s1bP1P50zY7AE2kw3v",
       "payment_link_id": "plink_1UQMyNJ5iOXkWb9VsmNzke27",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit",
+      "slug": "etsy-erfolgsplan-fuer-online-haendler",
+      "price_eur": 5,
+      "target": "Online-Händler und Etsy-Verkäufer",
+      "reason": "Dieses eBook bietet einen umfassenden Leitfaden für Online-Händler und Etsy-Verkäufer, um ihre Einnahmen zu steigern und ihre Reichweite zu erhöhen.",
+      "language": "de",
+      "pitch": "Maximieren Sie Ihre Verkäufe auf Etsy mit bewährten Strategien und praktischen Tipps für mehr Sichtbarkeit und höhere Umsätze.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einleitung: Warum Etsy?</li><li>Kapitel 1: Optimierung deiner Shop-Beschreibung</li><li>Kapitel 2: Professionelle Produktfotos erstellen</li><li>Kapitel 3: Effektive SEO-Strategien</li><li>Kapitel 4: Kundenbindung und Rückgewinnung</li><li>Kapitel 5: Social Media Marketing</li><li>Kapitel 6: Analyse und Anpassung</li></ul>",
+      "pro": false,
+      "created": "2026-10-14T13:46:36",
+      "file": "etsy-erfolgsplan-fuer-online-haendler-3d00aad6c794718d.pdf",
+      "size": 1746,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist legal, ehrlich und bietet praktische Tipps ohne falsche Behauptungen oder erfundene Studien. Die Sprache ist konsistent und es gibt keine unerlaubten Inhalte. Einige Stellen könnten detaillierter sein, aber insgesamt ist das E-Book gut strukturiert und hilfreich.",
+      "pay_url": "https://buy.stripe.com/bJeaEY1bP2T9eqO6wA2kw3w",
+      "payment_link_id": "plink_1UQSjCJ5iOXkWb9VFaUCo1vH",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Volunteer Event Budget & Donation Tracker",
+      "slug": "volunteer-event-budget-donation-tracker",
+      "price_eur": 9,
+      "target": "clubs, associations, and volunteers organizing events",
+      "reason": "This template simplifies event budget and donation management for clubs and associations, ensuring transparency and efficiency in financial tracking.",
+      "language": "en",
+      "pitch": "Effortlessly manage your event budgets and donations with this professional Excel template, designed to streamline tracking and reporting for volunteer organizations.",
+      "content_html": "<h2>Content</h2><p>This Excel template includes sheets for budget planning, expense tracking, donation management, and a summary dashboard. It’s perfect for clubs, associations, and volunteers organizing events.</p>",
+      "pro": true,
+      "created": "2026-10-14T13:46:36",
+      "file": "volunteer-event-budget-donation-tracker-f0aae27328a20644.xlsx",
+      "size": 3,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils klar und korrekt. Es gibt keine erfundenen Statistiken, Prozentzahlen oder Quellen. Die Excel-Formeln sind plausibel und die Beispielrechnungen stimmen mit den Daten überein. Es gibt keine Regelverstöße wie Rechts-, Steuer-, Finanz- oder Medizinberatung, Gesundheitsverspr",
+      "pay_url": "https://buy.stripe.com/9B69AU3jXctJ82q8EI2kw3x",
+      "payment_link_id": "plink_1UQSjDJ5iOXkWb9Vu6ttH5V1",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behaved Pup",
+      "slug": "busy-dog-owner-survival-guide",
+      "price_eur": 5,
+      "target": "female dog owners juggling work and pet care",
+      "reason": "Many working women struggle with dog ownership guilt. This fills a gap by offering realistic, time-efficient solutions rather than idealized routines that require hours most professionals don't have.",
+      "language": "en",
+      "pitch": "Practical, stress-free solutions for busy women who want to give their dogs the best care without sacrificing their sanity. Learn how to create harmony between your busy schedule and your dog's needs in just 7 simple steps.",
+      "content_html": "<h2>Contents</h2><ol><li>Quick Morning Routines for Working Owners</li><li>Affordable DIY Enrichment Toys</li><li>5-Minute Training Sessions That Actually Work</li><li>Meal Prep Hacks for Healthy Dogs</li><li>The Lazy Walker's Guide to Satisfying Exercise</li><li>Emergency Backup Plans When Life Gets Crazy</li><li>Creating Your Personalized Dog Care System</li></ol>",
+      "pro": false,
+      "created": "2026-10-14T13:46:36",
+      "file": "busy-dog-owner-survival-guide-8a0dd639baaf3d51.pdf",
+      "size": 2061,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Studien. Keine Regelverstöße. Der Text ist klar und praxisorientiert, ohne Gesundheitsversprechen, Finanz- oder Rechtsberatung. Lediglich der Abbruch bei Kapitel 3 könnte als unfertig wirken, ist aber kein Grund für die Entfernung.",
+      "pay_url": "https://buy.stripe.com/fZu28s8EhdxNciG9IM2kw3y",
+      "payment_link_id": "plink_1UQSjEJ5iOXkWb9Vzu7Nzume",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593560849"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-12T06:03:45",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593576564"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.0113856,
-      "why": "KI-Denken: 智能老年护理预算与健康追踪器"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能老年护理预算与健康追踪器"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.0171372,
-      "why": "KI-Denken: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.0041952,
-      "why": "KI-Pruefung: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.0114036,
-      "why": "KI-Denken: Planificateur de Voyage et Suivi de Dépenses pour le Forêt-Noire"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Voyage et Suivi de Dépenses pour le Forêt-Noire"
-    },
-    {
-      "t": "2026-10-12T15:39:30",
-      "eur": -0.0022007999999999997,
-      "why": "Audit: 智能老年护理预算与健康追踪器"
-    },
-    {
-      "t": "2026-10-12T15:39:30",
-      "eur": -0.0043212,
-      "why": "Audit: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
-    },
-    {
-      "t": "2026-10-12T15:39:30",
-      "eur": -0.0019944,
-      "why": "Audit: Planificateur de Voyage et Suivi de Dépenses pour le Forêt-Noire"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.0011003999999999999,
-      "why": "Blog-Artikel: Saarland Saarschleife (zh)"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.0013248,
-      "why": "Blog-Artikel: Koeln Dom (es)"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.00039,
-      "why": "Video-Skript: Koeln Dom"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Budget de Voyage pour Berlin et Potsdam : Suivi des Dépenses & Itinéraire"
-    },
     {
       "t": "2026-10-12T15:32:48",
       "eur": 0,
@@ -6515,6 +6487,101 @@
       "t": "2026-10-14T07:42:04",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595064730"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.019582799999999997,
+      "why": "KI-Denken: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.0042804,
+      "why": "KI-Pruefung: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.16,
+      "why": "KI-Bilder: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.012616799999999997,
+      "why": "KI-Denken: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): IncompleteRead(33 bytes read)"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): IncompleteRead(22 bytes read)"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.0178284,
+      "why": "KI-Denken: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behaved Pup"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.0036047999999999996,
+      "why": "KI-Pruefung: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behaved Pup"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behaved Pup"
+    },
+    {
+      "t": "2026-10-14T13:59:53",
+      "eur": -0.0038736,
+      "why": "Audit: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und "
+    },
+    {
+      "t": "2026-10-14T13:59:53",
+      "eur": -0.0034871999999999998,
+      "why": "Audit: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-14T13:59:53",
+      "eur": -0.0032915999999999996,
+      "why": "Audit: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behav"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.0008843999999999999,
+      "why": "Blog-Artikel: Harz Brocken (en)"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.0011015999999999999,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (zh)"
+    },
+    {
+      "t": "2026-10-14T13:46:36",
+      "eur": -0.0003372,
+      "why": "Video-Skript: Nordsee Wattenmeer"
     }
   ],
   "alive": true,
@@ -7600,6 +7667,22 @@
       "topic": "Dresden Frauenkirche",
       "created": "2026-10-14T07:42:04",
       "img": true
+    },
+    {
+      "slug": "exploring-harz-brocken-germany-mystical-mountain",
+      "title": "Exploring the Harz Brocken: Germany's Mystical Mountain",
+      "lang": "en",
+      "topic": "Harz Brocken",
+      "created": "2026-10-14T13:46:36",
+      "img": true
+    },
+    {
+      "slug": "tan-mi-de-guo-bei-hai-qian-tan-zi-ran-yu-wen-hua-de-wan-mei-",
+      "title": "探秘德国北海浅滩：自然与文化的完美交融",
+      "lang": "zh",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-14T13:46:36",
+      "img": true
     }
   ],
   "videos": [
@@ -8151,6 +8234,16 @@
       "hashtags": "#FrauenkircheDresden #BarockArchitektur #DeutschlandReisen #HistorischeBaukunst #Versöhnung",
       "voice": "Die Frauenkirche in Dresden – ein Meisterwerk barocker Baukunst und ein Symbol der Hoffnung. Nach ihrer Zerstörung 1945 wurde sie originalgetreu wiederaufgebaut. Heute steht sie nicht nur als architektonisches Juwel da, sondern auch als Zeichen der Versöhnung. Ein Ort, der Geschichte atmet und Besucher jeden Tag aufs Neue beeindruckt.",
       "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "tan-mi-de-guo-bei-hai-qian-tan-zi-ran-yu-wen-hua-de-wan-mei-",
+      "title": "探秘德国北海浅滩：自然与文化的完美交融",
+      "lang": "zh",
+      "created": "2026-10-14T13:46:36",
+      "hashtags": "#德国旅行 #世界遗产 #自然奇观 #北海浅滩 #生态旅游",
+      "voice": "想体验踩在海底漫步的奇妙感觉吗？德国北海浅滩是世界自然遗产，每天退潮时露出广阔滩涂，成为观鸟者和探险家的乐园。这里栖息着数千种珍稀物种，泥滩在阳光下闪闪发光像钻石海。步行探索这个生态宝库，还有机会亲手挖到蛤蜊和海螺！",
+      "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
