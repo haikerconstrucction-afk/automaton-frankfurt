@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 462.0064,
-  "spent_eur": 42.6638,
+  "balance_eur": 461.9881,
+  "spent_eur": 42.6821,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5580,79 +5580,33 @@
       "pay_url": "https://buy.stripe.com/fZu28s8EhdxNciG9IM2kw3y",
       "payment_link_id": "plink_1UQSjEJ5iOXkWb9Vzu7Nzume",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Mudanza y Renovación Profesional: Control de Presupuesto y Tiempo",
+      "slug": "planificador-mudanza-renovacion-profesional",
+      "price_eur": 9,
+      "target": "Hombres autónomos y pequeños empresarios que necesitan organizar mudanzas y reformas",
+      "reason": "Este planificador profesional resuelve el caos típico de mudanzas y reformas, permitiendo controlar costes y plazos en un solo lugar. La estructura intuitiva y los análisis automáticos ayudan a tomar decisiones informadas y evitar sobrecostes.",
+      "language": "es",
+      "pitch": "Herramienta todo en uno para controlar costes y plazos de mudanzas y renovaciones. Simplifica la gestión de presupuestos y evita sorpresas.",
+      "content_html": "<h2>Incluye</h2><ul><li>Control detallado de gastos por categorías</li><li>Seguimiento de plazos y hitos clave</li><li>Dashboard con KPIs esenciales</li><li>Gráficos visuales para análisis rápido</li></ul>",
+      "pro": true,
+      "created": "2026-10-14T18:40:54",
+      "file": "planificador-mudanza-renovacion-profesional-4c153e9472d81563.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist konform mit den Regeln. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Das Produkt ist eine Excel-Vorlage mit klaren Funktionsbeschreibungen und Beispielrechnungen, die als solche erkennbar sind. Die Sprache ist durchgängig Spanisch. Es gibt keine sachli",
+      "pay_url": "https://buy.stripe.com/aFa3cw07LdxN96u08c2kw3z",
+      "payment_link_id": "plink_1UQXHkJ5iOXkWb9VuWYoEUN0",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593855028"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Découvrez Saxe et Dresde: Guide pratique pour explorer la culture, l'histoire et les trésors cachés"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593838395"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Construction Site Measurement & Offer Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-10-12T15:32:48",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4593855068"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.018916799999999998,
-      "why": "KI-Denken: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Insolites"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.0042228,
-      "why": "KI-Pruefung: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Insolites"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Insolites"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.0121104,
-      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.0012395999999999998,
-      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.011752799999999999,
-      "why": "KI-Denken: Ultimate NRW Family Trip Budget Planner"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate NRW Family Trip Budget Planner"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
     {
       "t": "2026-10-12T23:02:05",
       "eur": -0.011693999999999998,
@@ -6582,6 +6536,76 @@
       "t": "2026-10-14T13:46:36",
       "eur": -0.0003372,
       "why": "Video-Skript: Nordsee Wattenmeer"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": -0.0128496,
+      "why": "KI-Denken: Planificador de Mudanza y Renovación Profesional: Control de Presupuesto y Tiempo"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": -0.0010488,
+      "why": "KI-Pruefung: Planificador de Mudanza y Renovación Profesional: Control de Presupuesto y Tiempo"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): 'choices'"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): 'choices'"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): 'choices'"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): 'choices'"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): 'choices'"
+    },
+    {
+      "t": "2026-10-14T18:51:51",
+      "eur": -0.0041652,
+      "why": "Audit: Planificador de Mudanza y Renovación Profesional: Control de Presupuesto y Tiemp"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Audit: 1 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": 0,
+      "why": "Blog-Fehler: 'choices'"
+    },
+    {
+      "t": "2026-10-14T18:40:54",
+      "eur": -0.00033959999999999996,
+      "why": "Video-Skript: Harz Brocken"
     }
   ],
   "alive": true,
@@ -8244,6 +8268,16 @@
       "hashtags": "#德国旅行 #世界遗产 #自然奇观 #北海浅滩 #生态旅游",
       "voice": "想体验踩在海底漫步的奇妙感觉吗？德国北海浅滩是世界自然遗产，每天退潮时露出广阔滩涂，成为观鸟者和探险家的乐园。这里栖息着数千种珍稀物种，泥滩在阳光下闪闪发光像钻石海。步行探索这个生态宝库，还有机会亲手挖到蛤蜊和海螺！",
       "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "exploring-harz-brocken-germany-mystical-mountain",
+      "title": "Exploring the Harz Brocken: Germany's Mystical Mountain",
+      "lang": "en",
+      "created": "2026-10-14T18:40:54",
+      "hashtags": "#Harz #Brocken #GermanyTravel #HikingAdventure #MagicMountains",
+      "voice": "Meet the mighty Brocken – queen of Germany's Harz Mountains! This legendary summit shrouded in mist offers epic hikes through fairytale forests. Ride the nostalgic Brocken Railway, spot wild lynx, and stand where Goethe found inspiration. Summer or winter, the Brocken delivers magical adventures between its granite cliffs and purple heather fields. Pure wanderlust!",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
