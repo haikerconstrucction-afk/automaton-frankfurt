@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 464.0818,
-  "spent_eur": 40.5884,
+  "balance_eur": 463.2298,
+  "spent_eur": 41.4404,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3596,7 +3596,10 @@
       "audit_note": "Das E-Book enthält praktische Tipps und Strategien, die auf allgemeinem Wissen basieren. Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Die Sprache ist konsequent und der Inhalt ist abgeschlossen. Es gibt keine Hinweise auf Rechts-, Steuer-, Finanz- oder Medizinberatung",
       "pay_url": "https://buy.stripe.com/4gM7sM6w9ctJ2I66wA2kw2f",
       "payment_link_id": "plink_1UNDNzJ5iOXkWb9VYHwwp2mt",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4594898435"
+      }
     },
     {
       "type": "excel",
@@ -3620,7 +3623,10 @@
       "audit_note": "Inhalt ist insgesamt klar und ehrlich, enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Excel-Formeln und Tabellen sind sinnvoll und korrekt. Es gibt keine Rechts-, Steuer- oder Finanzberatung. Die Beispieldaten sind plausibel und klar als Beispiel markiert.",
       "pay_url": "https://buy.stripe.com/4gM14o4o10L1beCaMQ2kw2g",
       "payment_link_id": "plink_1UNRzPJ5iOXkWb9VJueO1iYo",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4594898457"
+      }
     },
     {
       "type": "ebook",
@@ -3644,7 +3650,10 @@
       "audit_note": "Der Inhalt hält sich weitgehend an die Regeln. Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Die Sprache ist korrekt und einheitlich, es gibt keine Platzhalter oder unfertigen Texte. Der Inhalt bietet allgemeine Praxistipps und ist frei von Rechts-, Steuer-, Finanz- o",
       "pay_url": "https://buy.stripe.com/aFa9AU8Eh8dtdmK6wA2kw2h",
       "payment_link_id": "plink_1UNRzQJ5iOXkWb9VSebcHeWa",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4594898471"
+      }
     },
     {
       "type": "excel",
@@ -5370,174 +5379,57 @@
       "pay_url": "https://buy.stripe.com/28E3cw5s58dtbeCg7a2kw3q",
       "payment_link_id": "plink_1UQDEMJ5iOXkWb9VJlZS7xcB",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur d'Entraînement & Suivi des Progrès pour Coachs",
+      "slug": "planificateur-entrainement-suivi-progres-coachs",
+      "price_eur": 9,
+      "target": "coachs sportifs indépendants et salles de fitness",
+      "reason": "Les coachs ont besoin d'un outil simple mais complet pour gérer leur clientèle et démontrer les progrès. Cette solution couvre tous les aspects essentiels tout en restant facile à utiliser.",
+      "language": "fr",
+      "pitch": "Un outil complet pour planifier les séances et suivre les progrès de vos clients. Optimisez votre temps et augmentez l'engagement de vos clients.",
+      "content_html": "<h2>Contenu</h2><p>Planifiez les séances, suivez les performances et analysez les progrès de vos clients avec des outils visuels.</p>",
+      "pro": true,
+      "created": "2026-10-14T01:15:40",
+      "file": "planificateur-entrainement-suivi-progres-coachs-b2dcd125d5abce73.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine Excel-Vorlage für Trainingsplanung und Fortschrittsverfolgung für Trainer. Es enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Formeln und berechneten Kennzahlen sind plausibel und entsprechen den Beispieldaten. Die Sprache ist durchgängig Französis",
+      "pay_url": "https://buy.stripe.com/dRmdRaaMp79p82qdZ22kw3r",
+      "payment_link_id": "plink_1UQGwYJ5iOXkWb9VADx6koMh",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Petit Guide du Vermieter Intelligent: 7 Stratégies Simples pour Gérer 1-5 Logements Sans Stress",
+      "slug": "petit-guide-vermieter-intelligent-1-5-logements",
+      "price_eur": 5,
+      "target": "Petits propriétaires avec 1 à 5 logements en France/Belgique/Canada (non-professionnels)",
+      "reason": "Les petits propriétaires (1-5 logements) recherchent des solutions simples et économiques, sans logiciels complexes ou frais d'agence. Ce guide comble un vrai besoin avec des conseils immédiatement applicables, différenciant des produits juridiques ou techniques existants.",
+      "language": "fr",
+      "pitch": "Découvrez comment gérer vos locations en moins de 2 heures par semaine avec des méthodes éprouvées. Ce guide pratique vous évite les erreurs coûteuses et transforme la gestion locative en tâche facile.",
+      "content_html": "<h2>Contenu du Guide</h2>\n<ul>\n  <li>Introduction : Pourquoi ce système fonctionne pour les petits propriétaires</li>\n  <li>Chapitre 1 : Organiser ses documents en 3 dossiers clés</li>\n  <li>Chapitre 2 : Un tableau Excel simple pour tout suivre</li>\n  <li>Chapitre 3 : Trouver de bons locataires (sans agence)</li>\n  <li>Chapitre 4 : Automatiser les rappels de paiement</li>\n  <li>Chapitre 5 : Préparer l'entrée/sortie des locataires</li>\n  <li>Chapitre 6 : Anticiper les petites réparations</li>\n  <li>Chapitre 7 : 1 heure/semaine - le planning idéal</li>\n  <li>Annexe : Modèles prêts à utiliser</li>\n</ul>\n\n<p>Extrait du Chapitre 2 :...</p>",
+      "pro": false,
+      "created": "2026-10-14T01:15:40",
+      "file": "petit-guide-vermieter-intelligent-1-5-logements-90e3490073b85e69.pdf",
+      "size": 1723,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die Angabe '80% der Probleme' ist nicht belegt und sollte entfernt werden. Der Rest des Inhalts ist praktisch und entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/7sYbJ27AdctJ2I6g7a2kw3s",
+      "payment_link_id": "plink_1UQGwZJ5iOXkWb9VEyJnpWy4",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0010344,
-      "why": "KI-Pruefung: Ultimate Family Vacation Budget & Packing List Tracker"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.015173999999999997,
-      "why": "KI-Denken: The Etsy Seller's Path to Success: Simple Steps to Boost Your Online Store"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0032267999999999997,
-      "why": "KI-Pruefung: The Etsy Seller's Path to Success: Simple Steps to Boost Your Online Store"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): E-Book zu kurz (1482 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.015727199999999997,
-      "why": "KI-Denken: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More Customers"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0033695999999999995,
-      "why": "KI-Pruefung: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More Customers"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More Customers"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.011639999999999998,
-      "why": "KI-Denken: Vereinsfinanz-Tracker & Spendenziel-Rechner"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0012275999999999997,
-      "why": "KI-Pruefung: Vereinsfinanz-Tracker & Spendenziel-Rechner"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-11T19:08:41",
-      "eur": -0.0040536,
-      "why": "Audit: Ultimate Family Vacation Budget & Packing List Tracker"
-    },
-    {
-      "t": "2026-10-11T19:08:41",
-      "eur": -0.00309,
-      "why": "Audit: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More C"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0013919999999999998,
-      "why": "Blog-Artikel: Harz Brocken (de)"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0010788,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (en)"
-    },
-    {
-      "t": "2026-10-11T18:58:08",
-      "eur": -0.0003515999999999999,
-      "why": "Video-Skript: Nordsee Wattenmeer"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.0113676,
-      "why": "KI-Denken: Spenden- und Veranstaltungsbudget-Tracker für Vereine"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.001068,
-      "why": "KI-Pruefung: Spenden- und Veranstaltungsbudget-Tracker für Vereine"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.011776799999999999,
-      "why": "KI-Denken: Vereinsfinanz-Tracker & Budgetplaner für Ehrenamtliche"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.0013751999999999998,
-      "why": "KI-Pruefung: Vereinsfinanz-Tracker & Budgetplaner für Ehrenamtliche"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.0111564,
-      "why": "KI-Denken: Vereins-Event Budget Tracker & Finanzplaner"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.0011952,
-      "why": "KI-Pruefung: Vereins-Event Budget Tracker & Finanzplaner"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.0173832,
-      "why": "KI-Denken: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.0042552,
-      "why": "KI-Pruefung: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.16,
-      "why": "KI-Bilder: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.011281199999999998,
-      "why": "KI-Denken: Ultimate Moving & Renovation Budget Tracker for Women"
-    },
-    {
-      "t": "2026-10-11T23:42:20",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Tracker for Women"
-    },
-    {
-      "t": "2026-10-11T23:47:53",
-      "eur": -0.0030359999999999996,
-      "why": "Audit: Vereins-Event Budget Tracker & Finanzplaner"
-    },
-    {
-      "t": "2026-10-11T23:47:53",
-      "eur": -0.0038783999999999997,
-      "why": "Audit: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
-    },
     {
       "t": "2026-10-11T23:47:53",
       "eur": -0.0030659999999999997,
@@ -6372,6 +6264,176 @@
       "t": "2026-10-13T21:18:43",
       "eur": -0.00038159999999999995,
       "why": "Video-Skript: Hamburg Speicherstadt"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.0123156,
+      "why": "KI-Denken: Planificateur d'Entraînement & Suivi des Progrès pour Coachs"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur d'Entraînement & Suivi des Progrès pour Coachs"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.0181548,
+      "why": "KI-Denken: Petit Guide Pratique pour les Petits Propriétaires: Organiser et Gérer 1 à 5 Logements Sans Stress"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.0041496,
+      "why": "KI-Pruefung: Petit Guide Pratique pour les Petits Propriétaires: Organiser et Gérer 1 à 5 Logements Sans Stress"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): E-Book zu kurz (1380 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.019627199999999997,
+      "why": "KI-Denken: Le Petit Guide du Vermieter Intelligent: 7 Stratégies Simples pour Gérer 1-5 Logements Sans Stress"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.004206,
+      "why": "KI-Pruefung: Le Petit Guide du Vermieter Intelligent: 7 Stratégies Simples pour Gérer 1-5 Logements Sans Stress"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Petit Guide du Vermieter Intelligent: 7 Stratégies Simples pour Gérer 1-5 Logements Sans Stress"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.012419999999999999,
+      "why": "KI-Denken: Exam Prep Master Tracker: Smart Study Planner & Performance Analyzer"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Exam Prep Master Tracker: Smart Study Planner & Performance Analyzer"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 6 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.012331199999999999,
+      "why": "KI-Denken: Ultimate Exam Countdown & Study Planner for Students"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Exam Countdown & Study Planner for Students"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.012041999999999999,
+      "why": "KI-Denken: Exam Preparation Budget Planner & Study Tracker"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Exam Preparation Budget Planner & Study Tracker"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.012620399999999999,
+      "why": "KI-Denken: Exam Preparation Budget & Study Time Tracker"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.00108,
+      "why": "KI-Pruefung: Exam Preparation Budget & Study Time Tracker"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-14T01:25:11",
+      "eur": -0.0023507999999999997,
+      "why": "Audit: Planificateur d'Entraînement & Suivi des Progrès pour Coachs"
+    },
+    {
+      "t": "2026-10-14T01:25:11",
+      "eur": -0.003828,
+      "why": "Audit: Le Petit Guide du Vermieter Intelligent: 7 Stratégies Simples pour Gérer 1-5 Log"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.0012275999999999997,
+      "why": "Blog-Artikel: Frankfurt Skyline (zh)"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.0013548,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (es)"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.0003948,
+      "why": "Video-Skript: Rothenburg ob der Tauber"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594898435"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594898457"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-10-14T01:15:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594898471"
     }
   ],
   "alive": true,
@@ -7425,6 +7487,22 @@
       "topic": "Hamburg Speicherstadt",
       "created": "2026-10-13T21:18:43",
       "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-deutschland-reise",
+      "title": "探索法兰克福天际线：现代与历史的完美融合",
+      "lang": "zh",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-14T01:15:40",
+      "img": true
+    },
+    {
+      "slug": "descubre-la-magia-medieval-de-rothenburg-ob-der-tauber",
+      "title": "Descubre la magia medieval de Rothenburg ob der Tauber",
+      "lang": "es",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-14T01:15:40",
+      "img": true
     }
   ],
   "videos": [
@@ -7956,6 +8034,16 @@
       "hashtags": "#HamburgSpeicherstadt #UNESCOHeritage #HistoricHamburg #TravelGermany #CulturalGem",
       "voice": "Welcome to Hamburg Speicherstadt, a breathtaking blend of history and charm. This UNESCO World Heritage Site, recognized in 2015, is a stunning red-brick warehouse district nestled along picturesque waterways. Once the heart of global trade, it’s now a vibrant hub of culture, museums, and unique experiences. From its architectural marvels to its magical reflections on the canals, Speicherstadt captures the essence of Hamburg’s maritime spirit. Discover history, beauty, and inspiration in every corner!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-la-magia-medieval-de-rothenburg-ob-der-tauber",
+      "title": "Descubre la magia medieval de Rothenburg ob der Tauber",
+      "lang": "es",
+      "created": "2026-10-14T01:15:40",
+      "hashtags": "#Rothenburg #Alemania #Viajes #Europa #Medieval",
+      "voice": "Descubre Rothenburg ob der Tauber, un rincón mágico en Alemania. Sus calles empedradas, sus casas de colores y sus imponentes murallas te transportarán al pasado. Pasea por la plaza del mercado, admira el ayuntamiento y déjate conquistar por su ambiente único. ¡Rothenburg es un sueño hecho realidad para los amantes de la historia y la belleza!",
+      "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
