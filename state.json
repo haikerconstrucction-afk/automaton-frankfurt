@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 460.745,
-  "spent_eur": 43.9252,
+  "balance_eur": 459.9085,
+  "spent_eur": 44.7617,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3860,7 +3860,10 @@
       "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Zahlen, Statistiken oder Quellen. Es bietet allgemein bekanntes Wissen und praktische Tipps ohne Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine Gesundheitsversprechen, Markenverstöße oder unerlaubte Kopien. Der Text ist klar, vollständig un",
       "pay_url": "https://buy.stripe.com/4gM14o5s5fFVaay2gk2kw2o",
       "payment_link_id": "plink_1UNjwBJ5iOXkWb9Vt2bxWGn4",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4595927879"
+      }
     },
     {
       "type": "excel",
@@ -3884,7 +3887,10 @@
       "audit_note": "Der Inhalt ist weitgehend korrekt und erfüllt die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Die Beispielrechnungen sind klar als solche erkennbar und die Sprache ist konsistent. Einige Wiederholungen in den Formeln sind vorhanden, beeinträchtigen aber nicht die Funktionalit",
       "pay_url": "https://buy.stripe.com/4gM28sf2F79pdmK3ko2kw2p",
       "payment_link_id": "plink_1UNjwCJ5iOXkWb9VwVYM9Jy6",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4595949246"
+      }
     },
     {
       "type": "ebook",
@@ -3908,7 +3914,10 @@
       "audit_note": "Inhalt entspricht weitestgehend den Regeln. Keine erfundenen Statistiken, Zitate oder Gesundheitsversprechen. Enthält allgemein bekannte Fakten über die Regionen. Geringfügige Kritik: Budgetangaben im Planungskapitel als Beispiel unklar markiert, aber nicht als konkrete Statistik präsentiert.",
       "pay_url": "https://buy.stripe.com/dRm5kE07L3Xd82q5sw2kw2q",
       "payment_link_id": "plink_1UNjwDJ5iOXkWb9VHbewzPR8",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4595927923"
+      }
     },
     {
       "type": "excel",
@@ -5733,164 +5742,81 @@
       "pay_url": "https://buy.stripe.com/dRm4gA7AddxN3Mag7a2kw3E",
       "payment_link_id": "plink_1UQgf7J5iOXkWb9VBc2DgbSW",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Black Forest Family Travel Budget Planner & Expense Tracker",
+      "slug": "ultimate-black-forest-family-travel-budget-planner-expense-tracker",
+      "price_eur": 9,
+      "target": "Families planning a trip to the Black Forest in Germany",
+      "reason": "This template provides families with a comprehensive tool to manage their travel budget effectively, ensuring they stay within their financial limits while enjoying their trip to the Black Forest.",
+      "language": "en",
+      "pitch": "Effortlessly manage your travel budget and expenses with this professional Excel template designed for families exploring the Black Forest.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template includes multiple sheets to help you plan, track, and analyze your travel expenses. It features a detailed budget planner, an expense tracker, and a dashboard with key performance indicators (KPIs) to keep your travel finances in check.</p>",
+      "pro": true,
+      "created": "2026-10-15T11:34:56",
+      "file": "ultimate-black-forest-family-travel-budget-planner-expense-tracker-0e823a5da8bc7f5e.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Produkt erfüllt grundlegende Anforderungen, könnte jedoch in der Benutzerfreundlichkeit verbessert werden (z. B. Erklärung der automatischen Berechnungen, konsistenterer Dashboard-Aufbau).",
+      "pay_url": "https://buy.stripe.com/8x28wQg6JgJZgyW7AE2kw3F",
+      "payment_link_id": "plink_1UQn3QJ5iOXkWb9V9X1NMXKS",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Culture",
+      "slug": "saarland-moselle-family-adventure-guide",
+      "price_eur": 5.99,
+      "target": "Families planning trips to Saarland/Moselle region who want unique, child-friendly activities beyond typical tourist spots",
+      "reason": "Existing guides overlook family-specific needs like pacing, child-friendly amenities, and educational activities disguised as play. This provides turnkey solutions for stress-free exploration.",
+      "language": "en",
+      "pitch": "A carefully curated week-long itinerary revealing hidden playgrounds, interactive museums, and scenic picnic spots perfect for families. Includes restaurant tips with kid-approved menus and stress-free transportation hacks.",
+      "content_html": "<h2>Contents</h2><ul><li>Day 1: Magical Forests & Castle Hunts</li><li>Day 2: River Adventures & Interactive Museums</li><li>Day 3: Underground Wonders & Hands-On Workshops</li><li>Day 4: Vineyard Trails with Play Stops</li><li>Day 5: Lakeside Fun & Wildlife Spotting</li><li>Day 6: Historical Towns Made Kid-Friendly</li><li>Day 7: Your Perfect Family Departure Day</li><li>Bonus: Rainy Day Alternatives & Allergy-Friendly Dining</li></ul><p>Preview: Our 'Treasure Map Walk' turns the Saar Loop viewpoint into an exciting pirate adventure where kids earn local treats by spotting landmarks...</p>",
+      "pro": false,
+      "created": "2026-10-15T11:34:56",
+      "file": "saarland-moselle-family-adventure-guide-8594208c49ed02f4.pdf",
+      "size": 1650,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfunden Zahlen, Statistiken, Quellen oder Zitate; keine Gesundheitsversprechen, Rechts-/Finanzberatung oder fremde Marken. Sprache konsistent, keine unfertigen Texte oder Platzhalter. Inhalt bietet praktische Reisetipps ohne sachliche Fehler.",
+      "pay_url": "https://buy.stripe.com/7sY00k4o1fFV2I64os2kw3G",
+      "payment_link_id": "plink_1UQn3QJ5iOXkWb9V103uuZLe",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimativer NRW Reisekosten-Tracker & Städteplaner für Selbstständige",
+      "slug": "nrw-reisekosten-tracker-staedteplaner-selbststaendige",
+      "price_eur": 9,
+      "target": "Selbstständige und Kleinunternehmer, die regelmäßig Geschäftsreisen innerhalb von NRW (Köln, Düsseldorf, Ruhrgebiet) unternehmen",
+      "reason": "Geschäftsreisende in NRW benötigen eine einfache aber professionelle Lösung zur Nachverfolgung ihrer Kosten. Diese Vorlage spart Zeit durch Automatisierung und hilft beim Steuersparen, was den Preis gerechtfertigt.",
+      "language": "de",
+      "pitch": "Professionelle Excel-Lösung zur exakten Planung und Nachverfolgung aller Reisekosten in NRW - inklusive automatischer Kilometerpauschalenberechnung und Übernachtungskostenoptimierung.",
+      "content_html": "<h2>Inhalt</h2><p>Planen Sie Geschäftsreisen in NRW effizient und behalten Sie alle Ausgaben im Blick. Diese Vorlage berechnet automatisch Ihre Gesamtkosten und hilft bei der Budgetplanung.</p>",
+      "pro": true,
+      "created": "2026-10-15T11:34:56",
+      "file": "nrw-reisekosten-tracker-staedteplaner-selbststaendige-79d808c395ed3fe8.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die meisten Anforderungen: Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Rechts-, Steuer- oder Finanzberatung sowie keine Gesundheitsversprechen. Es verwendet allgemein bekannte Fakten wie die 19 % MwSt und bietet klare Beispielrechnungen. Die Excel-F",
+      "pay_url": "https://buy.stripe.com/5kQ6oIbQtdxNeqO2gk2kw3H",
+      "payment_link_id": "plink_1UQn3RJ5iOXkWb9V7a6HYOW3",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594302650"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.012163199999999997,
-      "why": "KI-Denken: Berlin & Potsdam Travel Expense Tracker & Itinerary Planner"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0012011999999999997,
-      "why": "KI-Pruefung: Berlin & Potsdam Travel Expense Tracker & Itinerary Planner"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.016959599999999995,
-      "why": "KI-Denken: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0034763999999999993,
-      "why": "KI-Pruefung: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.16,
-      "why": "KI-Bilder: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.012372,
-      "why": "KI-Denken: Calculadora Profesional de Presupuestos y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0011916,
-      "why": "KI-Pruefung: Calculadora Profesional de Presupuestos y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.012518399999999999,
-      "why": "KI-Denken: Herramienta Profesional de Presupuesto y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0013248,
-      "why": "KI-Pruefung: Herramienta Profesional de Presupuesto y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0121956,
-      "why": "KI-Denken: Calculadora Profesional de Presupuestos y Mediciones para Talleres"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0011124,
-      "why": "KI-Pruefung: Calculadora Profesional de Presupuestos y Mediciones para Talleres"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.012070799999999998,
-      "why": "KI-Denken: Calculadora Profesional de Presupuestos y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0010211999999999999,
-      "why": "KI-Pruefung: Calculadora Profesional de Presupuestos y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.012118799999999999,
-      "why": "KI-Denken: Control y Calculadora de Presupuestos para Talleres"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Control y Calculadora de Presupuestos para Talleres"
-    },
-    {
-      "t": "2026-10-13T16:14:43",
-      "eur": -0.0022884,
-      "why": "Audit: Berlin & Potsdam Travel Expense Tracker & Itinerary Planner"
-    },
-    {
-      "t": "2026-10-13T16:14:43",
-      "eur": -0.0032543999999999997,
-      "why": "Audit: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
-    },
-    {
-      "t": "2026-10-13T16:14:43",
-      "eur": -0.0032748,
-      "why": "Audit: Control y Calculadora de Presupuestos para Talleres"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0013379999999999998,
-      "why": "Blog-Artikel: Neuschwanstein (es)"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0015827999999999999,
-      "why": "Blog-Artikel: Saechsische Schweiz (fr)"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.0003672,
-      "why": "Video-Skript: Saechsische Schweiz"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Smart Workout & Nutrition Planner for Female Fitness Coaches"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594594672"
-    },
     {
       "t": "2026-10-13T16:03:19",
       "eur": -0.19,
@@ -6740,6 +6666,161 @@
       "t": "2026-10-15T04:45:30",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595743371"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.013551599999999999,
+      "why": "KI-Denken: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Families"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0012227999999999998,
+      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Families"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0133032,
+      "why": "KI-Denken: Ultimate Black Forest Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0011903999999999999,
+      "why": "KI-Pruefung: Ultimate Black Forest Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 8 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0131376,
+      "why": "KI-Denken: Black Forest Family Adventure Planner: Track Budget & Activities in One Place"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0010944,
+      "why": "KI-Pruefung: Black Forest Family Adventure Planner: Track Budget & Activities in One Place"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.013155599999999998,
+      "why": "KI-Denken: Ultimate Black Forest Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Black Forest Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0180048,
+      "why": "KI-Denken: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Culture"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0034536,
+      "why": "KI-Pruefung: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Culture"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.16,
+      "why": "KI-Bilder: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Culture"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.013434,
+      "why": "KI-Denken: Ultimativer NRW Reisekosten-Tracker & Städteplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0011447999999999999,
+      "why": "KI-Pruefung: Ultimativer NRW Reisekosten-Tracker & Städteplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-15T11:42:11",
+      "eur": -0.0022668,
+      "why": "Audit: Ultimate Black Forest Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-15T11:42:11",
+      "eur": -0.0033023999999999996,
+      "why": "Audit: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Cultu"
+    },
+    {
+      "t": "2026-10-15T11:42:11",
+      "eur": -0.004422,
+      "why": "Audit: Ultimativer NRW Reisekosten-Tracker & Städteplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0013775999999999999,
+      "why": "Blog-Artikel: Saarland Saarschleife (es)"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0009948,
+      "why": "Blog-Artikel: Koeln Dom (fr)"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.0003804,
+      "why": "Video-Skript: Koeln Dom"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Freelancer's Guide to Stress-Free Time Management"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595927879"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595949246"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-10-15T11:34:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595927923"
     }
   ],
   "alive": true,
@@ -7872,6 +7953,22 @@
       "lang": "zh",
       "topic": "Schwarzwald",
       "created": "2026-10-15T04:45:30",
+      "img": true
+    },
+    {
+      "slug": "descubre-la-belleza-unica-de-la-saarschleife-en-el-saarland",
+      "title": "Descubre la belleza única de la Saarschleife en el Saarland",
+      "lang": "es",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-15T11:34:56",
+      "img": true
+    },
+    {
+      "slug": "cathedrale-de-cologne-une-merveille-gothique-a-decouvrir-abs",
+      "title": "Cathédrale de Cologne - Une merveille gothique à découvrir absolument",
+      "lang": "fr",
+      "topic": "Koeln Dom",
+      "created": "2026-10-15T11:34:56",
       "img": true
     }
   ],
