@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 461.5949,
-  "spent_eur": 43.0753,
+  "balance_eur": 460.745,
+  "spent_eur": 43.9252,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3779,7 +3779,10 @@
       "audit_note": "Der Inhalt ist korrekt und entspricht den Regeln. Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Die Beispieldaten sind plausibel und klar als Beispiel gekennzeichnet. Es gibt keine Regelverstöße.",
       "pay_url": "https://buy.stripe.com/7sYeVe1bP51hbeCg7a2kw2l",
       "payment_link_id": "plink_1UNfeAJ5iOXkWb9V03N9BlXI",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4595743353"
+      }
     },
     {
       "type": "ebook",
@@ -3803,7 +3806,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Text ist sachlich korrekt, bietet praktische Tipps und enthält keine Regelverstöße. Der Inhalt ist klar strukturiert und hilfreich für Lehrer und Nachhilfelehrer.",
       "pay_url": "https://buy.stripe.com/9B66oIf2FfFV96u8EI2kw2m",
       "payment_link_id": "plink_1UNfeBJ5iOXkWb9VgSC5lWQP",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4595743367"
+      }
     },
     {
       "type": "excel",
@@ -3827,7 +3833,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen nachgewiesen. Der Inhalt ist klar, sachlich und erfüllt die Regeln. Die Beispielrechnungen sind plausibel und korrekt.",
       "pay_url": "https://buy.stripe.com/dRm28s8EhbpFgyWaMQ2kw2n",
       "payment_link_id": "plink_1UNfeCJ5iOXkWb9VcCpZQU8r",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4595743371"
+      }
     },
     {
       "type": "ebook",
@@ -5676,174 +5685,57 @@
       "pay_url": "https://buy.stripe.com/4gMeVe7Ad8dtciG2gk2kw3C",
       "payment_link_id": "plink_1UQbVoJ5iOXkWb9VHZV0tHvn",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Soins et Budget pour Aidants Familiaux",
+      "slug": "planificateur-soins-budget-aidants-familiaux",
+      "price_eur": 9,
+      "target": "Seniors et organisations de soins à domicile en France et Belgique",
+      "reason": "Les aidants familiaux en France passent en moyenne 6,5h/jour à s'occuper d'un proche dépendant. Ce tracker simplifie la coordination des soins et le suivi des dépenses, essentiel pour les familles et petites structures.",
+      "language": "fr",
+      "pitch": "Optimisez l'organisation des soins et le suivi des dépenses pour vos proches dépendants. Un outil clé-en-main pour les aidants familiaux et petites structures d'aide à domicile.",
+      "content_html": "<h2>Contenu</h2><p>Planificateur complet pour gérer les rendez-vous médicaux, les traitements et les dépenses liées aux soins d'un proche dépendant</p>",
+      "pro": true,
+      "created": "2026-10-15T04:45:30",
+      "file": "planificateur-soins-budget-aidants-familiaux-24df6505ada33747.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist inhaltlich korrekt, es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Es enthält auch keine Platzhalter oder unfertigen Texte. Die Excel-Formeln und Berechnungen sind plausibel und entsprechen den Beispieldaten. Es wird keine Beratung in den Bereichen Recht, Steuern, ",
+      "pay_url": "https://buy.stripe.com/fZu4gA2fT79paaycUY2kw3D",
+      "payment_link_id": "plink_1UQgf6J5iOXkWb9VdjPLvNkv",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votre Activité",
+      "slug": "guide-pratique-freelance-organisation",
+      "price_eur": 7,
+      "target": "Freelancers et indépendants francophones cherchant à optimiser leur organisation et productivité",
+      "reason": "Les freelancers francophones manquent souvent de guides pratiques adaptés à leurs besoins spécifiques en matière d'organisation. Ce livre comble ce vide avec des solutions immédiatement applicables, basées sur des méthodes éprouvées par des indépendants comme eux.",
+      "language": "fr",
+      "pitch": "Découvrez les méthodes éprouvées pour gérer efficacement votre activité en tant que freelance. Des outils concrets et des stratégies adaptables à tous les métiers indépendants.",
+      "content_html": "<h2>Contenu</h2><ul><li>Chapitre 1 : Structurer sa journée de travail</li><li>Chapitre 2 : Gérer ses clients et projets</li><li>Chapitre 3 : Automatiser les tâches répétitives</li><li>Chapitre 4 : Fixer ses tarifs avec confiance</li><li>Chapitre 5 : Organiser ses finances et taxes</li><li>Chapitre 6 : Trouver l'équilibre vie pro/vie perso</li><li>Chapitre 7 : Développer son réseau efficacement</li></ul>",
+      "pro": false,
+      "created": "2026-10-15T04:45:30",
+      "file": "guide-pratique-freelance-organisation-6b3f57ef84055e9d.pdf",
+      "size": 1862,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Die Prozentzahlen '20%' und '80%' sind nicht belegt und scheinen erfunden zu sein. Der Rest des Inhalts ist jedoch in Ordnung und folgt den Regeln.",
+      "pay_url": "https://buy.stripe.com/dRm4gA7AddxN3Mag7a2kw3E",
+      "payment_link_id": "plink_1UQgf7J5iOXkWb9VBc2DgbSW",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.0013884,
-      "why": "Blog-Artikel: Bodensee (de)"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": -0.00044399999999999995,
-      "why": "Video-Skript: Bodensee"
-    },
-    {
-      "t": "2026-10-12T23:02:05",
-      "eur": 0,
-      "why": "Video-Fehler: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=481bac8321b34a"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.016912800000000002,
-      "why": "KI-Denken: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.0035087999999999994,
-      "why": "KI-Pruefung: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.16,
-      "why": "KI-Bilder: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.012053999999999999,
-      "why": "KI-Denken: Ultimate Nordsee & Ostsee Reisebudget-Tracker & Routenplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.0011015999999999999,
-      "why": "KI-Pruefung: Ultimate Nordsee & Ostsee Reisebudget-Tracker & Routenplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): string indices must be integers, not 'str'"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.0175548,
-      "why": "KI-Denken: Rhein, Frankfurt & Heidelberg für Selbstständige: Der praktische Reiseführer für Geschäftsreisende und digitale Nomaden"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.004134,
-      "why": "KI-Pruefung: Rhein, Frankfurt & Heidelberg für Selbstständige: Der praktische Reiseführer für Geschäftsreisende und digitale Nomaden"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1339 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.0176976,
-      "why": "KI-Denken: Entdecke den Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für jeden Tag"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.004181999999999999,
-      "why": "KI-Pruefung: Entdecke den Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für jeden Tag"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): E-Book zu kurz (1498 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.0185988,
-      "why": "KI-Denken: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien und Solo-Reisende"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.00414,
-      "why": "KI-Pruefung: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien und Solo-Reisende"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.04,
-      "why": "KI-Bilder: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien und Solo-Reisende"
-    },
-    {
-      "t": "2026-10-13T07:03:06",
-      "eur": -0.0032892,
-      "why": "Audit: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
-    },
-    {
-      "t": "2026-10-13T07:03:06",
-      "eur": -0.0030251999999999996,
-      "why": "Audit: Ultimate Nordsee & Ostsee Reisebudget-Tracker & Routenplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-13T07:03:06",
-      "eur": -0.0037703999999999997,
-      "why": "Audit: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien "
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.0012335999999999998,
-      "why": "Blog-Artikel: Mosel Cochem (en)"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.0012467999999999997,
-      "why": "Blog-Artikel: Heidelberg Altstadt (zh)"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.00034799999999999995,
-      "why": "Video-Skript: Heidelberg Altstadt"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Video-Fehler: 403, message='Invalid response status', url='wss://speech.platform.bing.com/consumer/speech/synthesize/readaloud/edge/v1?TrustedClientToken=6A5AA1D4EAFF4E9FB37E23D68491D6F4&ConnectionId=c3f06503e0ec4f"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Dreamland Adventures: 7 Magical Bedtime Stories for Children aged 3-8"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594302622"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Hochzeit-Budget-Tracker & Checklistenmanager 2026"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594302636"
-    },
-    {
-      "t": "2026-10-13T06:50:33",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Clever sparen im Haushalt: 7 einfache Strategien für mehr finanziellen Spielraum"
-    },
     {
       "t": "2026-10-13T06:50:33",
       "eur": 0,
@@ -6678,6 +6570,176 @@
       "t": "2026-10-14T23:16:51",
       "eur": -0.00038879999999999996,
       "why": "Video-Skript: Eifel Maare"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.012931199999999999,
+      "why": "KI-Denken: Suivi des dépenses et planification des soins pour seniors"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Suivi des dépenses et planification des soins pour seniors"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.013159199999999998,
+      "why": "KI-Denken: Suivi des Soins et Dépenses pour Proches Aidants"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.0011903999999999999,
+      "why": "KI-Pruefung: Suivi des Soins et Dépenses pour Proches Aidants"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.0126336,
+      "why": "KI-Denken: Suivi des Dépenses de Soins pour Personnes Âgées"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Suivi des Dépenses de Soins pour Personnes Âgées"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.013046399999999998,
+      "why": "KI-Denken: Suivi des Dépenses et Planification des Soins pour Personnes Âgées"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.0010584,
+      "why": "KI-Pruefung: Suivi des Dépenses et Planification des Soins pour Personnes Âgées"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.012805199999999997,
+      "why": "KI-Denken: Planificateur de Soins Médicaux et Suivi des Dépenses pour Seniors"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Soins Médicaux et Suivi des Dépenses pour Seniors"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.013454399999999998,
+      "why": "KI-Denken: Planificateur de Soins et Budget pour Aidants Familiaux"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.0013895999999999997,
+      "why": "KI-Pruefung: Planificateur de Soins et Budget pour Aidants Familiaux"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.019918799999999997,
+      "why": "KI-Denken: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.004070399999999999,
+      "why": "KI-Pruefung: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-10-15T04:52:52",
+      "eur": -0.004724399999999999,
+      "why": "Audit: Planificateur de Soins et Budget pour Aidants Familiaux"
+    },
+    {
+      "t": "2026-10-15T04:52:52",
+      "eur": -0.0036983999999999997,
+      "why": "Audit: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votr"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.0010668,
+      "why": "Blog-Artikel: Rheingau Weinberge (de)"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.0012515999999999998,
+      "why": "Blog-Artikel: Schwarzwald (zh)"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.00035399999999999993,
+      "why": "Video-Skript: Schwarzwald"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: YouTube-Kanal-Analyse und Content-Planer für Creator"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595743353"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595743367"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Caregiver Expense Tracker & Budget Planner for Seniors"
+    },
+    {
+      "t": "2026-10-15T04:45:30",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595743371"
     }
   ],
   "alive": true,
@@ -7795,6 +7857,22 @@
       "topic": "Eifel Maare",
       "created": "2026-10-14T23:16:51",
       "img": true
+    },
+    {
+      "slug": "rheingau-weinberge-wein-kultur-natur",
+      "title": "Rheingau Weinberge: Wein, Kultur und Natur genießen",
+      "lang": "de",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-15T04:45:30",
+      "img": true
+    },
+    {
+      "slug": "hei-sen-lin-de-guo-lu-xing-zhi-nan",
+      "title": "德国黑森林旅行指南：童话般的自然仙境",
+      "lang": "zh",
+      "topic": "Schwarzwald",
+      "created": "2026-10-15T04:45:30",
+      "img": true
     }
   ],
   "videos": [
@@ -8366,6 +8444,16 @@
       "hashtags": "#Harz #Brocken #GermanyTravel #HikingAdventure #MagicMountains",
       "voice": "Meet the mighty Brocken – queen of Germany's Harz Mountains! This legendary summit shrouded in mist offers epic hikes through fairytale forests. Ride the nostalgic Brocken Railway, spot wild lynx, and stand where Goethe found inspiration. Summer or winter, the Brocken delivers magical adventures between its granite cliffs and purple heather fields. Pure wanderlust!",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "hei-sen-lin-de-guo-lu-xing-zhi-nan",
+      "title": "德国黑森林旅行指南：童话般的自然仙境",
+      "lang": "zh",
+      "created": "2026-10-15T04:45:30",
+      "hashtags": "#德国黑森林 #欧洲旅行 #自然奇观 #童话小镇 #户外徒步",
+      "voice": "在德国西南部，神秘的黑森林像童话世界般展开！绵延的冷杉林倒映在镜面般的蒂蒂湖上，这里是著名黑森林蛋糕的故乡。漫步百年木制农舍间，聆听布谷钟的报时，每条徒步小径都藏着惊喜。无论是夏天的野花山谷，还是白雪覆盖的冬景，这片魔法森林全年绽放魅力！#黑森林 #德国旅行",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
