@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 459.9085,
-  "spent_eur": 44.7617,
+  "balance_eur": 459.6534,
+  "spent_eur": 45.0168,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5814,114 +5814,81 @@
       "pay_url": "https://buy.stripe.com/5kQ6oIbQtdxNeqO2gk2kw3H",
       "payment_link_id": "plink_1UQn3RJ5iOXkWb9V7a6HYOW3",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bayerische Alpen Entdecken: Der ultimative Outdoor-Guide für Selbstständige und Freiberufler",
+      "slug": "bayerische-alpen-outdoor-guide-fuer-selbststaendige",
+      "price_eur": 7.99,
+      "target": "Selbstständige und Freiberufler, die ihre Freizeit in den bayerischen Alpen aktiv nutzen möchten",
+      "reason": "Bietet praktische Lösungen für Selbstständige, die kurze Auszeiten effektiv nutzen wollen. Kombiniert Reiseführer mit spezifischen Tipps für Freiberufler. Einzigartiger Fokus auf Zeitmanagement im alpinen Umfeld.",
+      "language": "de",
+      "pitch": "Praktische Tipps und Routen für kurze Outdoor-Auszeiten zwischen Arbeitsterminen. Perfekt für selbstständige Naturliebhaber, die effizient entspannen wollen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einführung: Warum die Alpen perfekt für Work-Life-Balance sind</li><li>Kapitel 1: Die besten Halbtageswanderungen mit Panoramablick</li><li>Kapitel 2: Co-Working mit Bergblick - Arbeitsplätze mit Inspiration</li><li>Kapitel 3: Schnellentspannung am Berg - 15-Minuten-Programm</li><li>Kapitel 4: Budgetfreundliche Übernachtungen für Solo-Reisende</li><li>Kapitel 5: Regionale Küche to go - Mittagessen mit Alpencharm</li><li>Kapitel 6: Netzwerken in der Natur - Tipps für geschäftliche Kontakte</li></ul><h3>Leseprobe:</h3><p>Kapitel 2 zeigt, wie Sie selbst an kurzen Arbeitstagen die Natur genießen können...</p>",
+      "pro": false,
+      "created": "2026-10-15T17:05:18",
+      "file": "bayerische-alpen-outdoor-guide-fuer-selbststaendige-1f8b77833910b8de.pdf",
+      "size": 1661,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine klaren Regelverstöße gefunden. Der Inhalt ist sachlich korrekt, enthält keine erfundenen Studien, Statistiken oder Quellen. Es gibt keine Rechts-, Steuer- oder Finanzberatung, keine Gesundheitsversprechen oder Markenverwendung. Der Text ist durchgängig in deutscher Sprache und frei von Platzha",
+      "pay_url": "https://buy.stripe.com/6oU6oI9Il65l6YmaMQ2kw3I",
+      "payment_link_id": "plink_1UQsIHJ5iOXkWb9VdkyCZC0r",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Baltic & North Sea Travel Budget Planner for Women",
+      "slug": "ultimate-baltic-north-sea-travel-budget-planner-for-women",
+      "price_eur": 9,
+      "target": "Women planning trips to Germany's Baltic and North Sea regions",
+      "reason": "This planner simplifies travel budgeting and planning, offering a clear overview of expenses and activities, making it an essential tool for women exploring Germany's coastal regions.",
+      "language": "en",
+      "pitch": "Plan your perfect trip with this all-in-one travel budget and itinerary tracker, designed specifically for women exploring Germany's coastal gems.",
+      "content_html": "<h2>Content</h2><p>This Excel template helps you organize your travel budget, track expenses, and plan your itinerary efficiently. Includes expense tracking, itinerary planning, and a dashboard for quick insights.</p>",
+      "pro": true,
+      "created": "2026-10-15T17:05:18",
+      "file": "ultimate-baltic-north-sea-travel-budget-planner-for-women-88c6fd8bc3e3a6c6.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt erfüllt alle Regeln: Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet, die Sprache ist korrekt und einheitlich, es gibt keine Platzhalter, Wiederholungen oder sachlichen Fehler. Die Formeln und Tabellen sind sinnvoll und plausibel, und es werden keine verbotene",
+      "pay_url": "https://buy.stripe.com/dRm5kE7AddxNdmKf362kw3J",
+      "payment_link_id": "plink_1UQsIIJ5iOXkWb9VZp1conuQ",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Discovering Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to History, Culture & Hidden Gems",
+      "slug": "female-travelers-guide-rhine-frankfurt-heidelberg",
+      "price_eur": 5,
+      "target": "Women travelers interested in exploring the Rhine region, Frankfurt, and Heidelberg, focusing on history, culture, and hidden gems.",
+      "reason": "This eBook fills a gap in the market by providing a tailored travel guide for female travelers exploring Rhine, Frankfurt, and Heidelberg. It combines practical advice with unique insights, making it a valuable resource for women seeking enriching travel experiences.",
+      "language": "en",
+      "pitch": "Explore the Rhine, Frankfurt, and Heidelberg like never before! This guide offers practical tips, scenic routes, and unique insights tailored for female travelers.",
+      "content_html": "<h2>Content</h2> <p>Discover the essence of Rhine, Frankfurt, and Heidelberg with this comprehensive eBook. From historical landmarks to hidden spots, this guide has it all. <strong>Preview:</strong> Learn how to navigate Heidelberg’s Philosopher's Walk and uncover the best local cafes in Frankfurt.</p>",
+      "pro": false,
+      "created": "2026-10-15T17:05:18",
+      "file": "female-travelers-guide-rhine-frankfurt-heidelberg-025a9da89c2032bf.pdf",
+      "size": 1819,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt entspricht den Regeln, keine erfunden Studien, Statistiken oder falschen Angaben. Gute Reiseführer-Qualität mit praktischen Tipps für weibliche Reisende.",
+      "pay_url": "https://buy.stripe.com/fZuaEY9IlalB96u3ko2kw3K",
+      "payment_link_id": "plink_1UQsIJJ5iOXkWb9Vcfmin3sj",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Small Landlord Simplified: 7 Stress-Free Strategies to Manage 1-5 Rental Properties Efficiently"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594594696"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Estudios y Seguimiento de Progreso para Estudiantes"
-    },
-    {
-      "t": "2026-10-13T16:03:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594575175"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.018518399999999997,
-      "why": "KI-Denken: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.0044052,
-      "why": "KI-Pruefung: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.16,
-      "why": "KI-Bilder: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.012465599999999999,
-      "why": "KI-Denken: 智能婚礼预算追踪器与供应商管理器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.0011891999999999998,
-      "why": "KI-Pruefung: 智能婚礼预算追踪器与供应商管理器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.016742399999999998,
-      "why": "KI-Denken: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.0037715999999999995,
-      "why": "KI-Pruefung: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
-    },
-    {
-      "t": "2026-10-13T21:27:12",
-      "eur": -0.004096799999999999,
-      "why": "Audit: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
-    },
-    {
-      "t": "2026-10-13T21:27:12",
-      "eur": -0.0021515999999999996,
-      "why": "Audit: 智能婚礼预算追踪器与供应商管理器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-13T21:27:12",
-      "eur": -0.0039131999999999995,
-      "why": "Audit: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.0011388,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (de)"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.0011255999999999998,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (en)"
-    },
-    {
-      "t": "2026-10-13T21:18:43",
-      "eur": -0.00038159999999999995,
-      "why": "Video-Skript: Hamburg Speicherstadt"
-    },
     {
       "t": "2026-10-14T01:15:40",
       "eur": -0.0123156,
@@ -6821,6 +6788,106 @@
       "t": "2026-10-15T11:34:56",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595927923"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.019214399999999996,
+      "why": "KI-Denken: Bayern & Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber und Wanderer"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.0041688,
+      "why": "KI-Pruefung: Bayern & Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber und Wanderer"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1499 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): string indices must be integers, not 'str'"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.0193692,
+      "why": "KI-Denken: Bayerische Alpen Entdecken: Der ultimative Outdoor-Guide für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.0042959999999999995,
+      "why": "KI-Pruefung: Bayerische Alpen Entdecken: Der ultimative Outdoor-Guide für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.013058399999999998,
+      "why": "KI-Denken: Ultimate Baltic & North Sea Travel Budget Planner for Women"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Baltic & North Sea Travel Budget Planner for Women"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.018448799999999998,
+      "why": "KI-Denken: Discovering Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to History, Culture & Hidden Gems"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.0034691999999999995,
+      "why": "KI-Pruefung: Discovering Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to History, Culture & Hidden Gems"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.16,
+      "why": "KI-Bilder: Discovering Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to History, Culture & Hidden Gems"
+    },
+    {
+      "t": "2026-10-15T17:17:55",
+      "eur": -0.003953999999999999,
+      "why": "Audit: Bayerische Alpen Entdecken: Der ultimative Outdoor-Guide für Selbstständige und "
+    },
+    {
+      "t": "2026-10-15T17:17:55",
+      "eur": -0.002178,
+      "why": "Audit: Ultimate Baltic & North Sea Travel Budget Planner for Women"
+    },
+    {
+      "t": "2026-10-15T17:17:55",
+      "eur": -0.0031571999999999993,
+      "why": "Audit: Discovering Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to History,"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.0014351999999999998,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (de)"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.0008676,
+      "why": "Blog-Artikel: Bodensee (en)"
+    },
+    {
+      "t": "2026-10-15T17:05:18",
+      "eur": -0.0003467999999999999,
+      "why": "Video-Skript: Bodensee"
     }
   ],
   "alive": true,
@@ -7970,6 +8037,22 @@
       "topic": "Koeln Dom",
       "created": "2026-10-15T11:34:56",
       "img": true
+    },
+    {
+      "slug": "ruhrgebiet-zollverein-deutschland",
+      "title": "Das Ruhrgebiet Zollverein: Industrielle Schönheit und Kultur pur",
+      "lang": "de",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-15T17:05:18",
+      "img": true
+    },
+    {
+      "slug": "bodensee-germany-lake-travel-guide",
+      "title": "Bodensee: A Stunning German Lake with Scenic Views & Delicious Food",
+      "lang": "en",
+      "topic": "Bodensee",
+      "created": "2026-10-15T17:05:18",
+      "img": true
     }
   ],
   "videos": [
@@ -8551,6 +8634,16 @@
       "hashtags": "#德国黑森林 #欧洲旅行 #自然奇观 #童话小镇 #户外徒步",
       "voice": "在德国西南部，神秘的黑森林像童话世界般展开！绵延的冷杉林倒映在镜面般的蒂蒂湖上，这里是著名黑森林蛋糕的故乡。漫步百年木制农舍间，聆听布谷钟的报时，每条徒步小径都藏着惊喜。无论是夏天的野花山谷，还是白雪覆盖的冬景，这片魔法森林全年绽放魅力！#黑森林 #德国旅行",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "bodensee-germany-lake-travel-guide",
+      "title": "Bodensee: A Stunning German Lake with Scenic Views & Delicious Food",
+      "lang": "en",
+      "created": "2026-10-15T17:05:18",
+      "hashtags": "#Bodensee #GermanLakes #EuropeHiddenGems #OutdoorParadise #CulturalEscapes",
+      "voice": "Welcome to Lake Constance – Germany's aquatic jewel where three nations meet! Glide past medieval towns like fairytale Meersburg, cycle sunflower-lined trails with Alpine panoramas, or dive into waters so clear you'll see the bottom. Every castle-crowned hill tells a story in this 4-season playground. Pure magic awaits! #LakeConstance #GermanyTravel #AlpineLakes",
+      "credits": "Foto: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons; Foto: Julian Herzog (Website), CC BY 4.0, via Wikimedia Commons; Foto: Stefan-Xp, CC BY-SA 3.0, via Wikimedia Commons; Foto: User:Mateus2019, CC BY 3.0 de, via Wikimedia Commons; Foto: böhringer friedrich, CC BY-SA 2.5, via Wikimedia Commons",
       "posted": {}
     }
   ],
