@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 459.3995,
-  "spent_eur": 45.2707,
+  "balance_eur": 458.4128,
+  "spent_eur": 46.2574,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -3941,7 +3941,10 @@
       "audit_note": "Keine erfundenen Statistiken oder Zahlen, keine Regelverstöße wie Rechts- oder Finanzberatung. Klare Beispielrechnungen und allgemein bekanntes Wissen verwendet. Kleine Verbesserungspotenziale bei der Strukturierung der Formeln.",
       "pay_url": "https://buy.stripe.com/dRmaEYg6JfFVfuSaMQ2kw2r",
       "payment_link_id": "plink_1UNqXMJ5iOXkWb9VmXfxfeUn",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4596400048"
+      }
     },
     {
       "type": "ebook",
@@ -3965,7 +3968,10 @@
       "audit_note": "Inhalt entspricht weitgehend den Regeln, keine erfundenen Studien/Statistiken oder spezifischen Wirkungsversprechen. Enthält allgemein bekannte Reiseinformationen ohne problematische Behauptungen.",
       "pay_url": "https://buy.stripe.com/5kQ6oIdYBeBR5UibQU2kw2s",
       "payment_link_id": "plink_1UNqXNJ5iOXkWb9V0SWQO9CQ",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4596400078"
+      }
     },
     {
       "type": "excel",
@@ -3989,7 +3995,10 @@
       "audit_note": "Keine Regelverstöße festgestellt. Der Inhalt ist klar strukturiert, enthält keine erfundenen Studien oder Statistiken, keine Rechts- oder Gesundheitsberatung und keine Marken Dritter. Die Beispielzahlen (Budget, Ausgaben etc.) sind offensichtlich als exemplarisch gekennzeichnet.",
       "pay_url": "https://buy.stripe.com/6oU3cw4o13XdeqO08c2kw2t",
       "payment_link_id": "plink_1UNqXNJ5iOXkWb9VdbjyneCR",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4596380837"
+      }
     },
     {
       "type": "ebook",
@@ -5958,134 +5967,81 @@
       "pay_url": "https://buy.stripe.com/fZu6oI07LfFV4QecUY2kw3N",
       "payment_link_id": "plink_1UQwQqJ5iOXkWb9VzmijCT9G",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "睡前魔法：7个温馨的晚安故事（3-8岁）",
+      "slug": "shui-qian-mo-fa-7-ge-wen-xin-de-wan-an-gu-shi",
+      "price_eur": 5,
+      "target": "家长",
+      "reason": "这本书通过简单的故事，帮助孩子放松身心，享受宁静的夜晚。适合家长在睡前为孩子朗读，增进亲子关系，同时帮助孩子养成良好的睡眠习惯。",
+      "language": "zh",
+      "pitch": "通过7个温馨的睡前故事，帮助孩子放松身心，享受宁静的夜晚。适合3-8岁儿童，简单易懂的语言，温暖人心的情节。",
+      "content_html": "<h2>内容</h2> <ul><li>小熊的夜空冒险</li><li>小兔子的梦之旅</li><li>小鸟的友谊之歌</li><li>小狐狸的奇妙花园</li><li>小象的星光愿望</li><li>小猫的魔法之夜</li><li>小狗的温暖拥抱</li></ul>",
+      "pro": false,
+      "created": "2026-10-16T00:26:53",
+      "file": "shui-qian-mo-fa-7-ge-wen-xin-de-wan-an-gu-shi-2bb52d75993d2b20.pdf",
+      "size": 2206,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine Regelverstöße festgestellt. Der Inhalt besteht aus kreativen Geschichten ohne erfundene Studien, Statistiken oder gesundheitsbezogene Versprechen. Alle Inhalte sind kindgerecht und entsprechen den Vorgaben.",
+      "pay_url": "https://buy.stripe.com/dRm14odYB1P5aaybQU2kw3O",
+      "payment_link_id": "plink_1UQzDhJ5iOXkWb9Vm4oMM4L1",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Mariage Professionnel & Suivi des Dépenses",
+      "slug": "planificateur-mariage-professionnel-suivi-depenses",
+      "price_eur": 12,
+      "target": "Couples et wedding planners francophones",
+      "reason": "Les couples dépensent en moyenne 15-20h sur la planification de leur mariage. Cet outil permet de gagner du temps, éviter les oublis et garder le contrôle du budget - ce qui est la principale source de stress dans l'organisation d'un mariage.",
+      "language": "fr",
+      "pitch": "Gérez facilement le budget et les tâches de votre mariage avec ce tableau de bord complet et personnalisable. Suivez toutes les dépenses et deadlines en un clin d'œil.",
+      "content_html": "<h2>Contenu</h2><p>Un outil professionnel pour tout organiser sans stress : budget détaillé, liste des fournisseurs, planning des tâches et tableau de bord visuel.</p>",
+      "pro": true,
+      "created": "2026-10-16T00:26:53",
+      "file": "planificateur-mariage-professionnel-suivi-depenses-ff1d60e84f05b0fa.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein grundsätzlich funktionsfähiger Hochzeitsplaner in Excel mit klaren Anweisungen und sinnvollen Berechnungen. Es enthält keine erfundenen Studien, Statistiken oder falschen Behauptungen. Die Beispiel-Daten sind plausibel und eindeutig als solche gekennzeichnet. Die Funktionen entsp",
+      "pay_url": "https://buy.stripe.com/8x28wQ8Eh9hxbeCaMQ2kw3P",
+      "payment_link_id": "plink_1UQzDiJ5iOXkWb9V2oLpx4m7",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gérer vos Finances Personnelles",
+      "slug": "guide-economiser-au-quotidien",
+      "price_eur": 5,
+      "target": "Privés souhaitant optimiser leurs finances sans sacrifices",
+      "reason": "Ce guide répond à un besoin réel de nombreux ménages souhaitant mieux gérer leurs finances sans sacrifier leur confort. Il offre des conseils pratiques et faciles à appliquer pour des économies immédiates.",
+      "language": "fr",
+      "pitch": "Découvrez des astuces pratiques pour économiser sans renoncer à votre confort et apprendre à mieux gérer votre budget familial.",
+      "content_html": "<h2>Contenu</h2>Introduction + Table des matières + Extrait",
+      "pro": false,
+      "created": "2026-10-16T00:26:53",
+      "file": "guide-economiser-au-quotidien-b46db5e9e3e226ea.pdf",
+      "size": 1676,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Der Inhalt ist größtenteils in Ordnung, enthält aber einige nicht allgemein bekannte Prozentangaben wie '20 à 30 % moins chers' und '7 %'. Die 50/30/20-Regel ist als Faustregel bekannt, sollte aber klar als solche gekennzeichnet werden. Keine schwerwiegenden Regelverstöße, aber Optimierungspotenzial",
+      "pay_url": "https://buy.stripe.com/cNifZicUx51h6Ym6wA2kw3Q",
+      "payment_link_id": "plink_1UQzDiJ5iOXkWb9VC3WYAWYp",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": -0.0012275999999999997,
-      "why": "Blog-Artikel: Frankfurt Skyline (zh)"
-    },
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": -0.0013548,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (es)"
-    },
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": -0.0003948,
-      "why": "Video-Skript: Rothenburg ob der Tauber"
-    },
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Estrategias Probadas para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
-    },
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594898435"
-    },
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能旅行预算与打包清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594898457"
-    },
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-10-14T01:15:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4594898471"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.012147599999999998,
-      "why": "KI-Denken: Ultimate Exam Prep Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.019254,
-      "why": "KI-Denken: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.0032531999999999995,
-      "why": "KI-Pruefung: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.012639599999999999,
-      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.0010932,
-      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.012507599999999999,
-      "why": "KI-Denken: Ultimativer Familienurlaub-Packlisten-Planer & Budget-Tracker"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.0010248,
-      "why": "KI-Pruefung: Ultimativer Familienurlaub-Packlisten-Planer & Budget-Tracker"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.012424799999999998,
-      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.012695999999999999,
-      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer (2026 Edition)"
-    },
     {
       "t": "2026-10-14T07:42:04",
       "eur": -0.0011664,
@@ -6960,6 +6916,136 @@
       "t": "2026-10-15T21:27:07",
       "eur": -0.00037919999999999995,
       "why": "Video-Skript: Heidelberg Altstadt"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.0174504,
+      "why": "KI-Denken: 宝宝快乐入睡：温馨睡前故事的魔力"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.0034235999999999997,
+      "why": "KI-Pruefung: 宝宝快乐入睡：温馨睡前故事的魔力"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1437 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.018161999999999998,
+      "why": "KI-Denken: 睡前魔法：7个温馨的晚安故事（3-8岁）"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.0037955999999999992,
+      "why": "KI-Pruefung: 睡前魔法：7个温馨的晚安故事（3-8岁）"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: 睡前魔法：7个温馨的晚安故事（3-8岁）"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.0141984,
+      "why": "KI-Denken: Planificateur de Mariage Professionnel & Suivi des Dépenses"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.0014735999999999998,
+      "why": "KI-Pruefung: Planificateur de Mariage Professionnel & Suivi des Dépenses"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.019572,
+      "why": "KI-Denken: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gérer vos Finances Personnelles"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.0040584,
+      "why": "KI-Pruefung: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gérer vos Finances Personnelles"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gérer vos Finances Personnelles"
+    },
+    {
+      "t": "2026-10-16T00:41:45",
+      "eur": -0.0038699999999999997,
+      "why": "Audit: 睡前魔法：7个温馨的晚安故事（3-8岁）"
+    },
+    {
+      "t": "2026-10-16T00:41:45",
+      "eur": -0.0035759999999999998,
+      "why": "Audit: Planificateur de Mariage Professionnel & Suivi des Dépenses"
+    },
+    {
+      "t": "2026-10-16T00:41:45",
+      "eur": -0.0037907999999999996,
+      "why": "Audit: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gé"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.0014076,
+      "why": "Blog-Artikel: Neuschwanstein (fr)"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.001308,
+      "why": "Blog-Artikel: Saechsische Schweiz (de)"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.00043199999999999993,
+      "why": "Video-Skript: Saechsische Schweiz"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能德国北莱茵-威斯特法伦州旅行预算跟踪器 & 行程规划 - 2026专业版"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596400048"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596400078"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-16T00:26:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596380837"
     }
   ],
   "alive": true,
@@ -8141,6 +8227,22 @@
       "topic": "Heidelberg Altstadt",
       "created": "2026-10-15T21:27:07",
       "img": true
+    },
+    {
+      "slug": "decouvrez-neuschwanstein-le-chateau-de-feerie-en-allemagne",
+      "title": "Découvrez Neuschwanstein : Le Château de Féerie en Allemagne",
+      "lang": "fr",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-16T00:26:53",
+      "img": true
+    },
+    {
+      "slug": "saechsische-schweiz-naturwunder-und-wanderparadies",
+      "title": "Sächsische Schweiz: Naturwunder und Wanderparadies",
+      "lang": "de",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-16T00:26:53",
+      "img": true
     }
   ],
   "videos": [
@@ -8742,6 +8844,16 @@
       "hashtags": "#Heidelberg #Alemania #CiudadMedieval #Europa #Viajes",
       "voice": "Descubre Heidelberg Altstadt, un sueño medieval a orillas del Neckar. Calles empedradas, el majestuoso castillo y el romántico Puente Viejo te transportarán al pasado. ¡Déjate seducir por sus bodegas, cafés centenarios y ese aire universitario que lo invade todo! #Alemania #Heidelberg",
       "credits": "Foto: -wuppertaler, CC BY-SA 4.0, via Wikimedia Commons; Foto: KaiBorgeest, CC BY-SA 4.0, via Wikimedia Commons; Foto: No machine-readable author provided. Martinw2 assumed (based on copyright claims, CC BY-SA 3.0, via Wikimedia Commons; Foto: Schlurcher, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "saechsische-schweiz-naturwunder-und-wanderparadies",
+      "title": "Sächsische Schweiz: Naturwunder und Wanderparadies",
+      "lang": "de",
+      "created": "2026-10-16T00:26:53",
+      "hashtags": "#SächsischeSchweiz #WandernDeutschland #Naturparadies #Elbsandsteingebirge #Basteibrücke",
+      "voice": "Die Sächsische Schweiz ist ein einzigartiges Naturjuwel direkt vor den Toren Dresdens. Mit ihren beeindruckenden Felsformationen, tiefen Wäldern und dem romantischen Elbtal verzaubert sie jedes Wanderherz. Ob auf der legendären Basteibrücke oder bei der Erkundung der Festung Königstein – hier warten unvergessliche Abenteuer. Entdecke die Vielfalt dieser faszinierenden Landschaft und lass dich von ihrer Magie begeistern!",
+      "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
