@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 457.1598,
-  "spent_eur": 47.5104,
+  "balance_eur": 456.9192,
+  "spent_eur": 47.751,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -6192,104 +6192,81 @@
       "pay_url": "https://buy.stripe.com/cNi9AUbQt2T9dmK5sw2kw3W",
       "payment_link_id": "plink_1URBABJ5iOXkWb9VtU4ffO7V",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Gestión y Planificación de Eventos para Asociaciones",
+      "slug": "gestion-eventos-asociaciones-excel",
+      "price_eur": 9,
+      "target": "Presidentes y tesoreros de asociaciones sin ánimo de lucro, organizadores de eventos voluntarios",
+      "reason": "Simplifica la gestión de eventos comunitarios con una herramienta profesional que combina planificación, seguimiento financiero y coordinación de voluntarios en un solo lugar.",
+      "language": "es",
+      "pitch": "Planifica y controla todos los aspectos de tus eventos benéficos o comunitarios con esta herramienta profesional. Optimiza presupuestos, horarios y recursos humanos.",
+      "content_html": "<h2>Incluye</h2><ul><li>Planificador de eventos</li><li>Control de gastos</li><li>Asignación de voluntarios</li><li>Dashboard resumen</li></ul>",
+      "pro": true,
+      "created": "2026-10-16T18:06:01",
+      "file": "gestion-eventos-asociaciones-excel-1af706d3f5fb8968.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils korrekt und folgt den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert und entsprechen den Beispieldaten. Die Sprache ist konsistent spanisch und es gibt keine Platzhalter oder unfertigen Texte.",
+      "pay_url": "https://buy.stripe.com/7sYfZiaMp0L15Ui1cg2kw3X",
+      "payment_link_id": "plink_1URFaoJ5iOXkWb9VTlIXX09f",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés",
+      "slug": "guia-practica-para-duenos-de-perros-ocupados",
+      "price_eur": 5,
+      "target": "Hombres ocupados que buscan mejorar el cuidado de sus perros sin agregar estrés a su rutina.",
+      "reason": "Este libro es esencial porque aborda las necesidades reales de los dueños de perros ocupados, ofreciendo soluciones prácticas que pueden integrarse fácilmente en su rutina diaria. Además, el enfoque en hombres ocupados llena un nicho específico y ofrece un valor claro por el precio.",
+      "language": "es",
+      "pitch": "Descubre 7 estrategias prácticas para cuidar a tu perro de manera eficiente y sin estrés, incluso con una agenda apretada.",
+      "content_html": "<h2>Inhalt</h2>Este libro ofrece una guía práctica para dueños de perros ocupados que buscan mejorar el cuidado de sus mascotas sin sacrificar su tiempo libre. Con estrategias simples y efectivas, aprenderás a organizar el cuidado de tu perro de manera eficiente, desde la alimentación hasta el ejercicio y el entrenamiento. Además, encontrarás consejos para mantener a tu perro feliz y saludable, incluso cuando estás ocupado.",
+      "pro": false,
+      "created": "2026-10-16T18:06:01",
+      "file": "guia-practica-para-duenos-de-perros-ocupados-e477aeb1d3487136.pdf",
+      "size": 1585,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen festgestellt. Der Inhalt ist klar, praxisnah und entspricht den Regeln. Kleinere sprachliche Ungenauigkeiten, aber kein Regelverstoß.",
+      "pay_url": "https://buy.stripe.com/00wbJ2f2FeBRciGf362kw3Y",
+      "payment_link_id": "plink_1URFapJ5iOXkWb9Vg5k3dIug",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能搬家与装修预算跟踪器",
+      "slug": "smart-moving-renovation-budget-tracker",
+      "price_eur": 9,
+      "target": "Selbstständige und Kleinunternehmer, die umziehen oder renovieren",
+      "reason": "Diese Vorlage bietet eine klare Struktur und ermöglicht es Nutzern, ihr Budget effizient zu verwalten und Ausgaben im Blick zu behalten.",
+      "language": "zh",
+      "pitch": "Effizient verwalten Sie Ihr Umzugs- und Renovierungsbudget mit dieser professionellen Excel-Vorlage.",
+      "content_html": "<h2>Inhalt</h2>Diese Excel-Vorlage hilft Ihnen, Ihr Budget für Umzug und Renovierung zu verwalten. Sie können alle Kosten und Aufgaben einfach und übersichtlich nachverfolgen.",
+      "pro": true,
+      "created": "2026-10-16T18:06:01",
+      "file": "smart-moving-renovation-budget-tracker-b9a893405600a3d8.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist eine einfache Excel-Vorlage zur Budgetverwaltung ohne erfundene Statistiken, Quellen oder Gesundheitsversprechen. Die Beispielzahlen sind plausibel und klar als solche gekennzeichnet. Keine Verstöße gegen die genannten Regeln festgestellt.",
+      "pay_url": "https://buy.stripe.com/aFa5kE3jXbpFfuScUY2kw3Z",
+      "payment_link_id": "plink_1URFaqJ5iOXkWb9VnhSWxabw",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.012785999999999999,
-      "why": "KI-Denken: YouTube广告收入与成本追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.0010283999999999998,
-      "why": "KI-Pruefung: YouTube广告收入与成本追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.018416400000000003,
-      "why": "KI-Denken: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.0042888,
-      "why": "KI-Pruefung: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
-    },
-    {
-      "t": "2026-10-14T23:22:55",
-      "eur": -0.0037535999999999997,
-      "why": "Audit: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
-    },
-    {
-      "t": "2026-10-14T23:22:55",
-      "eur": -0.0025775999999999998,
-      "why": "Audit: YouTube广告收入与成本追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-14T23:22:55",
-      "eur": -0.004356,
-      "why": "Audit: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.0014652,
-      "why": "Blog-Artikel: Muenchen Marienplatz (es)"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.0012587999999999998,
-      "why": "Blog-Artikel: Eifel Maare (fr)"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.00038879999999999996,
-      "why": "Video-Skript: Eifel Maare"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.012931199999999999,
-      "why": "KI-Denken: Suivi des dépenses et planification des soins pour seniors"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Suivi des dépenses et planification des soins pour seniors"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.013159199999999998,
-      "why": "KI-Denken: Suivi des Soins et Dépenses pour Proches Aidants"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.0011903999999999999,
-      "why": "KI-Pruefung: Suivi des Soins et Dépenses pour Proches Aidants"
-    },
     {
       "t": "2026-10-15T04:45:30",
       "eur": 0,
@@ -7194,6 +7171,101 @@
       "t": "2026-10-16T13:17:56",
       "eur": -0.0003467999999999999,
       "why": "Video-Skript: Rothenburg ob der Tauber"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.014074799999999998,
+      "why": "KI-Denken: Gestión y Planificación de Eventos para Asociaciones"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.0011292,
+      "why": "KI-Pruefung: Gestión y Planificación de Eventos para Asociaciones"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.0196452,
+      "why": "KI-Denken: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.0041832,
+      "why": "KI-Pruefung: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.014195999999999999,
+      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.0010668,
+      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 8 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.014120399999999998,
+      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-16T18:10:43",
+      "eur": -0.0023388,
+      "why": "Audit: Gestión y Planificación de Eventos para Asociaciones"
+    },
+    {
+      "t": "2026-10-16T18:10:43",
+      "eur": -0.0036899999999999997,
+      "why": "Audit: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuid"
+    },
+    {
+      "t": "2026-10-16T18:10:43",
+      "eur": -0.0024384,
+      "why": "Audit: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.001284,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (de)"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.0011076,
+      "why": "Blog-Artikel: Dresden Frauenkirche (en)"
+    },
+    {
+      "t": "2026-10-16T18:06:01",
+      "eur": -0.00035399999999999993,
+      "why": "Video-Skript: Dresden Frauenkirche"
     }
   ],
   "alive": true,
@@ -8423,6 +8495,22 @@
       "topic": "Rothenburg ob der Tauber",
       "created": "2026-10-16T13:17:56",
       "img": true
+    },
+    {
+      "slug": "berlin-brandenburger-tor-reisetipps",
+      "title": "Berlin Brandenburger Tor – Das Symbol der deutschen Geschichte",
+      "lang": "de",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-16T18:06:01",
+      "img": true
+    },
+    {
+      "slug": "discover-the-dresden-frauenkirche-a-symbol-of-resilience-and",
+      "title": "Discover the Dresden Frauenkirche: A Symbol of Resilience and Beauty",
+      "lang": "en",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-16T18:06:01",
+      "img": true
     }
   ],
   "videos": [
@@ -9054,6 +9142,16 @@
       "hashtags": "#Rothenburg #VoyageEnAllemagne #CitéMédiévale #Bavière #Découverte",
       "voice": "Bienvenue à Rothenburg ob der Tauber, un véritable joyau médiéval en Allemagne ! Découvrez ses ruelles pavées, ses maisons à colombages et ses remparts millénaires. Flânez sur la place du marché, imprégnez-vous de l’histoire et vibrez lors de ses festivals traditionnels. Une immersion inoubliable dans le passé !",
       "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-the-dresden-frauenkirche-a-symbol-of-resilience-and",
+      "title": "Discover the Dresden Frauenkirche: A Symbol of Resilience and Beauty",
+      "lang": "en",
+      "created": "2026-10-16T18:06:01",
+      "hashtags": "#Frauenkirche #Dresden #GermanyTravel #Baroque #Landmark #History #TravelEurope #Wanderlust",
+      "voice": "Rising proudly from Dresden's heart, the Frauenkirche is a breathtaking masterpiece of Baroque architecture! Destroyed in WWII, its miraculous reconstruction stands as a powerful symbol of hope and reconciliation. Marvel at the golden cross atop its magnificent dome, a gift from Britain. Inside, the luminous altar and intricate details will leave you speechless. This isn't just a church - it's a living testament to resilience!",
+      "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
