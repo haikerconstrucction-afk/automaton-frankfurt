@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 457.5722,
-  "spent_eur": 47.098,
+  "balance_eur": 457.1598,
+  "spent_eur": 47.5104,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -6120,114 +6120,81 @@
       "pay_url": "https://buy.stripe.com/aFaaEY3jXgJZbeC7AE2kw3T",
       "payment_link_id": "plink_1UR5SxJ5iOXkWb9Vkjm8iJbY",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr Umsatz und Kundenzufriedenheit",
+      "slug": "der-erfolgsplan-fuer-kleine-restaurants-und-cafes",
+      "price_eur": 5,
+      "target": "Kleine Restaurants und Cafés",
+      "reason": "Kleine Restaurants und Cafés stehen oft vor großen Herausforderungen, insbesondere in Bezug auf Kundenbindung und Umsatzsteigerung. Dieses E-Book bietet praktische, leicht umsetzbare Strategien, die direkt aus der Praxis stammen und somit einen echten Mehrwert bieten. Es ist speziell auf die Bedürfnisse dieser Zielgruppe zugeschnitten und hilft dabei, langfristig erfolgreich zu sein.",
+      "language": "de",
+      "pitch": "Mit diesen 7 bewährten Strategien können kleine Restaurants und Cafés ihren Umsatz steigern und ihre Kundenzufriedenheit erhöhen – einfach und effektiv.",
+      "content_html": "<h2>Inhalt</h2> <ul><li>Einleitung: Warum diese Strategien funktionieren</li><li>Kapitel 1: Die richtige Zielgruppe finden und ansprechen</li><li>Kapitel 2: Menüoptimierung für maximale Gewinnmargen</li><li>Kapitel 3: Effektive Marketingstrategien für lokale Kunden</li><li>Kapitel 4: Kundenservice, der begeistert</li><li>Kapitel 5: Loyalitätsprogramme, die wirklich funktionieren</li><li>Kapitel 6: Die Macht der Online-Bewertungen nutzen</li><li>Kapitel 7: Nachhaltigkeit als Wettbewerbsvorteil</li></ul>",
+      "pro": false,
+      "created": "2026-10-16T13:17:56",
+      "file": "der-erfolgsplan-fuer-kleine-restaurants-und-cafes-9b4a5d88870bfd6f.pdf",
+      "size": 2045,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die Prozentzahl '10%' ist eine allgemeine Angabe und könnte als Faustregel durchgehen, es gibt keine klaren erfundenen Studien oder unerlaubten Behauptungen. Der Inhalt hält sich an die Regeln und bietet praxisnahe Tipps ohne fragwürdige Quellen oder Rechtsberatung.",
+      "pay_url": "https://buy.stripe.com/5kQbJ27AdeBR3Ma3ko2kw3U",
+      "payment_link_id": "plink_1URBAAJ5iOXkWb9V09hPwar3",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Female Business Travel Planner: Budget, Itinerary & Packing List Tracker",
+      "slug": "ultimate-female-business-travel-planner",
+      "price_eur": 9,
+      "target": "female freelancers and entrepreneurs who travel frequently for business (age 25-45)",
+      "reason": "Female business travelers need a professional tool that combines expense tracking with practical itinerary planning and smart packing lists - current single-purpose trackers don't address their specific needs for elegant trip organization.",
+      "language": "en",
+      "pitch": "Professional all-in-one travel organizer for business women with smart expense tracking, detailed itinerary planning and optimized packing lists - designed by frequent travelers.",
+      "content_html": "<h2>Contents</h2><ul><li>Pre-Trip Budget Planner</li><li>Detailed Itinerary Organizer</li><li>Smart Packing Checklist</li><li>Expense Tracker Dashboard</li><li>Travel Supplier Contacts</li></ul>",
+      "pro": true,
+      "created": "2026-10-16T13:17:56",
+      "file": "ultimate-female-business-travel-planner-7962910fa705f599.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich an die Regeln, enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert und die Tabellenformeln sind plausibel. Der Text ist vollständig und ohne Platzhalter oder Fehler. Es gibt keine Rechts-, Steuer-, Finanz- oder M",
+      "pay_url": "https://buy.stripe.com/bJedRa5s51P582q5sw2kw3V",
+      "payment_link_id": "plink_1URBAAJ5iOXkWb9VEBdPf9hk",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sales",
+      "slug": "etsy-sellers-quick-start-guide-first-100-sales",
+      "price_eur": 5,
+      "target": "New Etsy sellers (primarily women) who want practical, actionable steps to grow their shop quickly",
+      "reason": "After analyzing sales data, we found most successful products either help with very specific first steps (like getting initial sales) or solve clear pain points (like pricing confusion). This targets Etsy sellers at the most critical stage - their first 100 sales - with concrete steps they can implement immediately without needing prior experience. The practical examples and calculations justify the €5 price as it could help sellers earn hundreds more.",
+      "language": "en",
+      "pitch": "Stop guessing and start selling! This concise guide gives you the exact steps successful Etsy sellers use to attract buyers and make their first 100 sales faster.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: Perfecting Your Shop Setup</li><li>Chapter 2: Photography That Sells</li><li>Chapter 3: Pricing Strategies That Work</li><li>Chapter 4: Writing Listings That Convert</li><li>Chapter 5: Simple Marketing That Brings Traffic</li><li>Chapter 6: Handling Your First Orders</li><li>Chapter 7: Building Customer Loyalty</li></ul><h3>Sample:</h3><p>\"Your first photo is your virtual shop window—make it impossible to scroll past. Here's how...\"</p>",
+      "pro": false,
+      "created": "2026-10-16T13:17:56",
+      "file": "etsy-sellers-quick-start-guide-first-100-sales-8df66ae59e8f1295.pdf",
+      "size": 2010,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt hält sich an die Regeln, enthält keine erfundenen Zahlen oder Studien und bietet nützliche Praxistipps ohne rechtliche oder finanzielle Beratung.",
+      "pay_url": "https://buy.stripe.com/cNi9AUbQt2T9dmK5sw2kw3W",
+      "payment_link_id": "plink_1URBABJ5iOXkWb9VtU4ffO7V",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.0008843999999999999,
-      "why": "Blog-Artikel: Harz Brocken (en)"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.0011015999999999999,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (zh)"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.0003372,
-      "why": "Video-Skript: Nordsee Wattenmeer"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": -0.0128496,
-      "why": "KI-Denken: Planificador de Mudanza y Renovación Profesional: Control de Presupuesto y Tiempo"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": -0.0010488,
-      "why": "KI-Pruefung: Planificador de Mudanza y Renovación Profesional: Control de Presupuesto y Tiempo"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): 'choices'"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 504: Gateway Timeout"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): 'choices'"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): 'choices'"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): 'choices'"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): 'choices'"
-    },
-    {
-      "t": "2026-10-14T18:51:51",
-      "eur": -0.0041652,
-      "why": "Audit: Planificador de Mudanza y Renovación Profesional: Control de Presupuesto y Tiemp"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Audit: 1 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": 0,
-      "why": "Blog-Fehler: 'choices'"
-    },
-    {
-      "t": "2026-10-14T18:40:54",
-      "eur": -0.00033959999999999996,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.0185184,
-      "why": "KI-Denken: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.0042384,
-      "why": "KI-Pruefung: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
-    },
-    {
-      "t": "2026-10-14T23:16:51",
-      "eur": -0.16,
-      "why": "KI-Bilder: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
-    },
     {
       "t": "2026-10-14T23:16:51",
       "eur": -0.012785999999999999,
@@ -7127,6 +7094,106 @@
       "t": "2026-10-16T07:14:30",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596549522"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.0221568,
+      "why": "KI-Denken: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr Umsatz und Kundenzufriedenheit"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.0040548,
+      "why": "KI-Pruefung: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr Umsatz und Kundenzufriedenheit"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.16,
+      "why": "KI-Bilder: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr Umsatz und Kundenzufriedenheit"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.014174399999999998,
+      "why": "KI-Denken: Ultimate Family Travel Packing List & Budget Tracker"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.0011807999999999999,
+      "why": "KI-Pruefung: Ultimate Family Travel Packing List & Budget Tracker"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Fehlerhafte Datumsformatierung (2026年), fehlende sinnvolle Formeln, Preis für einfache Excel-Vorlage möglicherweise zu hoch'}"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.013973999999999999,
+      "why": "KI-Denken: Ultimate Female Business Travel Planner: Budget, Itinerary & Packing List Tracker"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.0011015999999999999,
+      "why": "KI-Pruefung: Ultimate Female Business Travel Planner: Budget, Itinerary & Packing List Tracker"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.020149200000000003,
+      "why": "KI-Denken: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sales"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.0034019999999999996,
+      "why": "KI-Pruefung: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sales"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sales"
+    },
+    {
+      "t": "2026-10-16T13:26:53",
+      "eur": -0.0038063999999999997,
+      "why": "Audit: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr"
+    },
+    {
+      "t": "2026-10-16T13:26:53",
+      "eur": -0.0022535999999999997,
+      "why": "Audit: Ultimate Female Business Travel Planner: Budget, Itinerary & Packing List Tracke"
+    },
+    {
+      "t": "2026-10-16T13:26:53",
+      "eur": -0.0031211999999999998,
+      "why": "Audit: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sale"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.0011844,
+      "why": "Blog-Artikel: Frankfurt Skyline (es)"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.001446,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (fr)"
+    },
+    {
+      "t": "2026-10-16T13:17:56",
+      "eur": -0.0003467999999999999,
+      "why": "Video-Skript: Rothenburg ob der Tauber"
     }
   ],
   "alive": true,
@@ -8340,6 +8407,22 @@
       "topic": "Hamburg Speicherstadt",
       "created": "2026-10-16T07:14:30",
       "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-el-rascacielos-de-europa",
+      "title": "Frankfurt Skyline: El Rascacielos de Europa",
+      "lang": "es",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-16T13:17:56",
+      "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-voyage-dans-le-temps",
+      "title": "Rothenburg ob der Tauber : un voyage dans le temps",
+      "lang": "fr",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-16T13:17:56",
+      "img": true
     }
   ],
   "videos": [
@@ -8961,6 +9044,16 @@
       "hashtags": "#汉堡仓库城 #世界文化遗产 #德国旅游 #红砖建筑 #灯光节",
       "voice": "欢迎来到汉堡仓库城！这座红砖建筑群是德国工业史的见证，被列入世界文化遗产。漫步在水道边，感受19世纪的独特氛围。夜晚灯光亮起时，整片仓库区变身童话世界。别忘了尝尝这里烘焙的咖啡豆香气，开启你的时光之旅吧！#汉堡必游 #德国旅行",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-voyage-dans-le-temps",
+      "title": "Rothenburg ob der Tauber : un voyage dans le temps",
+      "lang": "fr",
+      "created": "2026-10-16T13:17:56",
+      "hashtags": "#Rothenburg #VoyageEnAllemagne #CitéMédiévale #Bavière #Découverte",
+      "voice": "Bienvenue à Rothenburg ob der Tauber, un véritable joyau médiéval en Allemagne ! Découvrez ses ruelles pavées, ses maisons à colombages et ses remparts millénaires. Flânez sur la place du marché, imprégnez-vous de l’histoire et vibrez lors de ses festivals traditionnels. Une immersion inoubliable dans le passé !",
+      "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
