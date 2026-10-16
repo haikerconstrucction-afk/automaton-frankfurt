@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 458.4128,
-  "spent_eur": 46.2574,
+  "balance_eur": 457.5722,
+  "spent_eur": 47.098,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4022,7 +4022,10 @@
       "audit_note": "Keine klaren Regelverstöße gefunden. Der Inhalt besteht aus allgemein bekannten Reisetipps ohne erfundene Statistiken oder gesundheitsbezogene Versprechen. Formulierungen wie '50-100€' sind als Faustregel akzeptabel, da nicht als exakte Statistik präsentiert. Kleinere Fehler wie fehlende Seitenzahle",
       "pay_url": "https://buy.stripe.com/fZu4gAg6J65l96u2gk2kw2u",
       "payment_link_id": "plink_1UNyvbJ5iOXkWb9VGhZEq7JR",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4596531687"
+      }
     },
     {
       "type": "excel",
@@ -4046,7 +4049,10 @@
       "site": "https://haiktec.tech",
       "audit_v": 3,
       "audit_score": 9,
-      "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Zahlen, Statistiken oder Quellen. Klare Struktur, keine sachlichen Fehler oder Regelverstöße."
+      "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Zahlen, Statistiken oder Quellen. Klare Struktur, keine sachlichen Fehler oder Regelverstöße.",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4596549508"
+      }
     },
     {
       "type": "ebook",
@@ -4070,7 +4076,10 @@
       "audit_note": "Der Inhalt ist gut strukturiert und enthält keine erfundenen Zahlen, Statistiken oder fragwürdige Quellen. Es werden allgemein bekannte Fakten und praktische Tipps präsentiert, die für Familien geeignet sind. Der Text ist klar und vollständig, ohne Platzhalter oder Abbruch. Keine Verstöße gegen die ",
       "pay_url": "https://buy.stripe.com/7sY8wQ2fT51h1E25sw2kw2w",
       "payment_link_id": "plink_1UOAhyJ5iOXkWb9VPxU1EGLw",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4596549522"
+      }
     },
     {
       "type": "excel",
@@ -6039,164 +6048,81 @@
       "pay_url": "https://buy.stripe.com/cNifZicUx51h6Ym6wA2kw3Q",
       "payment_link_id": "plink_1UQzDiJ5iOXkWb9VC3WYAWYp",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Family Fitness Progress Tracker",
+      "slug": "smart-family-fitness-progress-tracker",
+      "price_eur": 9,
+      "target": "Families and fitness enthusiasts looking to track their fitness progress and expenses",
+      "reason": "Families often struggle to keep track of their fitness activities and expenses. This tracker simplifies the process, providing a clear overview and motivation through visual progress tracking.",
+      "language": "en",
+      "pitch": "Effortlessly track your family's fitness progress and expenses with this professional Excel tracker, designed for busy households.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel tracker helps families monitor their fitness activities, expenses, and progress over time. It includes detailed sheets for activity tracking, expense management, and progress visualization.</p>",
+      "pro": true,
+      "created": "2026-10-16T07:14:30",
+      "file": "smart-family-fitness-progress-tracker-bfb0252fb5867c11.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist grundsätzlich regelkonform und erfindet keine Statistiken oder Studien. Die Kalorienberechnungsformel ist als einfache Beispielrechnung gestaltet und stellt keine gesundheitsbezogene Wirkungsbehauptung dar. Kleine Mängel: Die wiederholten Formeln in der ActivityTracking-Tabelle könnt",
+      "pay_url": "https://buy.stripe.com/bJe3cwg6J65l4Qe5sw2kw3R",
+      "payment_link_id": "plink_1UR5SwJ5iOXkWb9Vx6eSh4gT",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Small Landlord's Simplified Guide: 7 Stress-Free Strategies to Manage 1-5 Rental Properties",
+      "slug": "small-landlord-simplified-guide",
+      "price_eur": 5,
+      "target": "Private landlords with 1-5 rental properties looking for simple organizational strategies",
+      "reason": "This fills a clear need for small-scale landlords who want simple, practical systems without complex property management software. The 7-chapter format provides actionable steps they can implement immediately, making the €5 price clearly worthwhile. Unlike legal guides, this focuses purely on organization - an underserved niche in current offerings.",
+      "language": "en",
+      "pitch": "Save time and reduce stress with these 7 proven property management strategies. Perfect for busy landlords who want an organized system without the overwhelm.",
+      "content_html": "<h2>Content</h2><ul><li>Chapter 1: Setting Up Your Landlord Toolkit</li><li>Chapter 2: The 15-Minute Weekly Check-In System</li><li>Chapter 3: Tenant Communication Made Simple</li><li>Chapter 4: Maintenance Tracking That Actually Works</li><li>Chapter 5: Financial Tracking Without Spreadsheet Headaches</li><li>Chapter 6: Preparing for Vacancies (Without the Panic)</li><li>Chapter 7: Building a Reliable Network of Helpers</li></ul><p><strong>Free Sample:</strong> Try our 15-minute weekly check-in system that keeps everything organized without eating up your free time.</p>",
+      "pro": false,
+      "created": "2026-10-16T07:14:30",
+      "file": "small-landlord-simplified-guide-b41b4762f04a2181.pdf",
+      "size": 1954,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Studien oder Statistiken und hält sich an die vorgegebenen Regeln. Es werden keine falschen oder gemischten Sprachen verwendet, keine unfertigen Texte oder Platzhalter gefunden, und es gibt keine Beratung zu Rechts-, Steuer-, Finanz- oder Medizint",
+      "pay_url": "https://buy.stripe.com/dRm9AUg6J2T9ciG6wA2kw3S",
+      "payment_link_id": "plink_1UR5SwJ5iOXkWb9VRK13I9YF",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Intelligenter Prüfungsvorbereitungs-Tracker für Studierende",
+      "slug": "intelligenter-pruefungsvorbereitungs-tracker-fuer-studierende",
+      "price_eur": 9,
+      "target": "Studierende in Prüfungsphasen",
+      "reason": "Diese Vorlage bietet Studierenden eine zentrale, professionelle Planungshilfe für ihre Prüfungsvorbereitungen. Durch die automatischen Auswertungen kann der Lernfortschritt effizient gesteuert werden, wodurch wertvolle Zeit eingespart wird.",
+      "language": "de",
+      "pitch": "Spare Zeit und Nerven mit diesem durchdachten Planer für deine nächsten Klausuren. Behalte den Überblick über Lernstoff, Zeitbudget und Fortschritt.",
+      "content_html": "<h2>Inhalt</h2><p>Professionelle Excel-Vorlage mit 4 integrierten Arbeitsblättern zur optimalen Prüfungsvorbereitung - inklusive Lernplaner, Stoffkatalog, Zeitbudget und Fortschrittsdashboard.</p>",
+      "pro": true,
+      "created": "2026-10-16T07:14:30",
+      "file": "intelligenter-pruefungsvorbereitungs-tracker-fuer-studierende-947db968cfe9dc5e.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Zahlen erkennbar. Alle Prozentangaben und Formeln basieren auf eingegebenen Daten und sind plausibel. Der Inhalt ist klar, sachlich und entspricht den Regeln. Lediglich die Berechnung 'Abgedeckte Themen (%)' ergibt im Beispiel 0 %, was korrekt ist, da kein ",
+      "pay_url": "https://buy.stripe.com/aFaaEY3jXgJZbeC7AE2kw3T",
+      "payment_link_id": "plink_1UR5SxJ5iOXkWb9Vkjm8iJbY",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.0011664,
-      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer (2026 Edition)"
-    },
-    {
-      "t": "2026-10-14T07:51:14",
-      "eur": -0.0022056,
-      "why": "Audit: Ultimate Exam Prep Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-14T07:51:14",
-      "eur": -0.0031188,
-      "why": "Audit: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Fa"
-    },
-    {
-      "t": "2026-10-14T07:51:14",
-      "eur": -0.0026219999999999998,
-      "why": "Audit: Ultimativer Reisebudget-Tracker & Packlisten-Planer (2026 Edition)"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.0013092,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (fr)"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.0016559999999999997,
-      "why": "Blog-Artikel: Dresden Frauenkirche (de)"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.00038639999999999996,
-      "why": "Video-Skript: Dresden Frauenkirche"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guide Pratique pour Maîtres de Chiens Occupés: 7 Stratégies Simples pour un Quotidien Harmonieux"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595064694"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Moving & Renovation Budget Tracker for Families"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595064716"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Green Thumb Guide: 7 Simple Steps to Grow Your Own Organic Garden"
-    },
-    {
-      "t": "2026-10-14T07:42:04",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595064730"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.019582799999999997,
-      "why": "KI-Denken: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.0042804,
-      "why": "KI-Pruefung: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.16,
-      "why": "KI-Bilder: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.012616799999999997,
-      "why": "KI-Denken: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): IncompleteRead(33 bytes read)"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): IncompleteRead(22 bytes read)"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.0178284,
-      "why": "KI-Denken: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behaved Pup"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.0036047999999999996,
-      "why": "KI-Pruefung: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behaved Pup"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behaved Pup"
-    },
-    {
-      "t": "2026-10-14T13:59:53",
-      "eur": -0.0038736,
-      "why": "Audit: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und "
-    },
-    {
-      "t": "2026-10-14T13:59:53",
-      "eur": -0.0034871999999999998,
-      "why": "Audit: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-14T13:59:53",
-      "eur": -0.0032915999999999996,
-      "why": "Audit: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behav"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-14T13:46:36",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-14T13:46:36",
       "eur": 0,
@@ -7046,6 +6972,161 @@
       "t": "2026-10-16T00:26:53",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596380837"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.013507199999999999,
+      "why": "KI-Denken: Smart Family Fitness Progress Tracker"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Smart Family Fitness Progress Tracker"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.0195948,
+      "why": "KI-Denken: The Small Landlord's Simplified Guide: 7 Stress-Free Strategies to Manage 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.0032819999999999998,
+      "why": "KI-Pruefung: The Small Landlord's Simplified Guide: 7 Stress-Free Strategies to Manage 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Small Landlord's Simplified Guide: 7 Stress-Free Strategies to Manage 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.014183999999999999,
+      "why": "KI-Denken: Prüfungsvorbereitungs-Budget-Tracker & Lernplaner für Studierende"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.0013067999999999999,
+      "why": "KI-Pruefung: Prüfungsvorbereitungs-Budget-Tracker & Lernplaner für Studierende"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.014347199999999997,
+      "why": "KI-Denken: Prüfungsvorbereitungs-Tracker für Studierende: Lernplan, Fortschritt & Zeitmanagement"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.0013548,
+      "why": "KI-Pruefung: Prüfungsvorbereitungs-Tracker für Studierende: Lernplan, Fortschritt & Zeitmanagement"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.013700399999999998,
+      "why": "KI-Denken: Prüfungsvorbereitungs-Tracker & Lernplaner für Studierende"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Prüfungsvorbereitungs-Tracker & Lernplaner für Studierende"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.0142116,
+      "why": "KI-Denken: Intelligenter Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.0012635999999999997,
+      "why": "KI-Pruefung: Intelligenter Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-10-16T07:21:46",
+      "eur": -0.0036612,
+      "why": "Audit: Smart Family Fitness Progress Tracker"
+    },
+    {
+      "t": "2026-10-16T07:21:46",
+      "eur": -0.0030996,
+      "why": "Audit: The Small Landlord's Simplified Guide: 7 Stress-Free Strategies to Manage 1-5 Re"
+    },
+    {
+      "t": "2026-10-16T07:21:46",
+      "eur": -0.0026508,
+      "why": "Audit: Intelligenter Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.0009708,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (en)"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.0009839999999999998,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (zh)"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.0003324,
+      "why": "Video-Skript: Hamburg Speicherstadt"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596531687"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596549508"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxony's Hidden Gems"
+    },
+    {
+      "t": "2026-10-16T07:14:30",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596549522"
     }
   ],
   "alive": true,
@@ -8243,6 +8324,22 @@
       "topic": "Saechsische Schweiz",
       "created": "2026-10-16T00:26:53",
       "img": true
+    },
+    {
+      "slug": "ruegen-chalk-cliffs-guide",
+      "title": "Exploring the Majestic Kreidefelsen of Rügen: A Guide to Germany's Iconic Chalk Cliffs",
+      "lang": "en",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-16T07:14:30",
+      "img": true
+    },
+    {
+      "slug": "tan-su-han-bao-cang-ku-cheng-li-shi-yu-xian-dai-de-jiao-hui",
+      "title": "探索汉堡仓库城：历史与现代的交汇",
+      "lang": "zh",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-16T07:14:30",
+      "img": true
     }
   ],
   "videos": [
@@ -8854,6 +8951,16 @@
       "hashtags": "#SächsischeSchweiz #WandernDeutschland #Naturparadies #Elbsandsteingebirge #Basteibrücke",
       "voice": "Die Sächsische Schweiz ist ein einzigartiges Naturjuwel direkt vor den Toren Dresdens. Mit ihren beeindruckenden Felsformationen, tiefen Wäldern und dem romantischen Elbtal verzaubert sie jedes Wanderherz. Ob auf der legendären Basteibrücke oder bei der Erkundung der Festung Königstein – hier warten unvergessliche Abenteuer. Entdecke die Vielfalt dieser faszinierenden Landschaft und lass dich von ihrer Magie begeistern!",
       "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "tan-su-han-bao-cang-ku-cheng-li-shi-yu-xian-dai-de-jiao-hui",
+      "title": "探索汉堡仓库城：历史与现代的交汇",
+      "lang": "zh",
+      "created": "2026-10-16T07:14:30",
+      "hashtags": "#汉堡仓库城 #世界文化遗产 #德国旅游 #红砖建筑 #灯光节",
+      "voice": "欢迎来到汉堡仓库城！这座红砖建筑群是德国工业史的见证，被列入世界文化遗产。漫步在水道边，感受19世纪的独特氛围。夜晚灯光亮起时，整片仓库区变身童话世界。别忘了尝尝这里烘焙的咖啡豆香气，开启你的时光之旅吧！#汉堡必游 #德国旅行",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
