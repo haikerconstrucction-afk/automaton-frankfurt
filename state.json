@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 456.9192,
-  "spent_eur": 47.751,
+  "balance_eur": 456.6388,
+  "spent_eur": 48.0314,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -6264,149 +6264,33 @@
       "pay_url": "https://buy.stripe.com/aFa5kE3jXbpFfuScUY2kw3Z",
       "payment_link_id": "plink_1URFaqJ5iOXkWb9VnhSWxabw",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能园艺与全年收获：7步指南轻松实现自给自足",
+      "slug": "smart-gardening-year-round-harvest",
+      "price_eur": 5,
+      "target": "Gärtner und Selbstversorger",
+      "reason": "随着人们对健康和生活质量的关注增加，自给自足的园艺方式在中国、台湾和新加坡越来越受欢迎。这个E-Book提供了实用的步骤和建议，帮助初学者轻松入门并实现全年收获。",
+      "language": "zh",
+      "pitch": "学习如何在一年四季中轻松种植和收获自己的蔬菜和水果，节省开支并享受新鲜食品。",
+      "content_html": "<h2>内容</h2><ol><li>引言：为什么自给自足很重要</li><li>规划你的花园：选择合适的空间和植物</li><li>土壤准备与施肥技巧</li><li>种植与灌溉的最佳实践</li><li>病虫害防治：自然方法</li><li>收获与储存：最大化你的产量</li><li>全年种植计划：适应季节变化</li></ol>",
+      "pro": false,
+      "created": "2026-10-16T21:13:48",
+      "file": "smart-gardening-year-round-harvest-f09248eb4a5b8fa2.pdf",
+      "size": 1712,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Studien, Statistiken oder Prozentzahlen, und entspricht den gegebenen Regeln. Einige Wiederholungen in Überschriften und Formulierungen sind vorhanden, jedoch nicht gravierend.",
+      "pay_url": "https://buy.stripe.com/28E9AU9IldxNfuS8EI2kw40",
+      "payment_link_id": "plink_1URIZNJ5iOXkWb9V7Dca1d8b",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.0126336,
-      "why": "KI-Denken: Suivi des Dépenses de Soins pour Personnes Âgées"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Suivi des Dépenses de Soins pour Personnes Âgées"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.013046399999999998,
-      "why": "KI-Denken: Suivi des Dépenses et Planification des Soins pour Personnes Âgées"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.0010584,
-      "why": "KI-Pruefung: Suivi des Dépenses et Planification des Soins pour Personnes Âgées"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.012805199999999997,
-      "why": "KI-Denken: Planificateur de Soins Médicaux et Suivi des Dépenses pour Seniors"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Soins Médicaux et Suivi des Dépenses pour Seniors"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.013454399999999998,
-      "why": "KI-Denken: Planificateur de Soins et Budget pour Aidants Familiaux"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.0013895999999999997,
-      "why": "KI-Pruefung: Planificateur de Soins et Budget pour Aidants Familiaux"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.019918799999999997,
-      "why": "KI-Denken: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.004070399999999999,
-      "why": "KI-Pruefung: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-10-15T04:52:52",
-      "eur": -0.004724399999999999,
-      "why": "Audit: Planificateur de Soins et Budget pour Aidants Familiaux"
-    },
-    {
-      "t": "2026-10-15T04:52:52",
-      "eur": -0.0036983999999999997,
-      "why": "Audit: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votr"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.0010668,
-      "why": "Blog-Artikel: Rheingau Weinberge (de)"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.0012515999999999998,
-      "why": "Blog-Artikel: Schwarzwald (zh)"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.00035399999999999993,
-      "why": "Video-Skript: Schwarzwald"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: YouTube-Kanal-Analyse und Content-Planer für Creator"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595743353"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Effektive Unterrichtsplanung für Lehrer und Nachhilfelehrer: Praktische Strategien für mehr Zeit und bessere Ergebnisse"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595743367"
-    },
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Caregiver Expense Tracker & Budget Planner for Seniors"
-    },
     {
       "t": "2026-10-15T04:45:30",
       "eur": 0,
@@ -7266,6 +7150,146 @@
       "t": "2026-10-16T18:06:01",
       "eur": -0.00035399999999999993,
       "why": "Video-Skript: Dresden Frauenkirche"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.0187332,
+      "why": "KI-Denken: 智能园艺与全年收获：7步指南轻松实现自给自足"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.0038699999999999997,
+      "why": "KI-Pruefung: 智能园艺与全年收获：7步指南轻松实现自给自足"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能园艺与全年收获：7步指南轻松实现自给自足"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.014138399999999999,
+      "why": "KI-Denken: Planificateur de Contenu YouTube & Analyse des Performances"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Contenu YouTube & Analyse des Performances"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.01407,
+      "why": "KI-Denken: Planificateur de Contenu YouTube & Suivi des Performances"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Contenu YouTube & Suivi des Performances"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.014235599999999998,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.0010068,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.014092799999999999,
+      "why": "KI-Denken: Planificateur de Contenu & Suivi des Dépenses YouTube"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Contenu & Suivi des Dépenses YouTube"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.014081999999999997,
+      "why": "KI-Denken: Planificateur de Contenu & ROI YouTube Professionnel"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Contenu & ROI YouTube Professionnel"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.0139992,
+      "why": "KI-Denken: Planificateur de Contenu & Suivi des Performances YouTube"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Contenu & Suivi des Performances YouTube"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-16T21:21:36",
+      "eur": -0.003942,
+      "why": "Audit: 智能园艺与全年收获：7步指南轻松实现自给自足"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": 0,
+      "why": "Audit: 1 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.0012504,
+      "why": "Blog-Artikel: Harz Brocken (zh)"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.0014724,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (es)"
+    },
+    {
+      "t": "2026-10-16T21:13:48",
+      "eur": -0.0004608,
+      "why": "Video-Skript: Nordsee Wattenmeer"
     }
   ],
   "alive": true,
@@ -8511,6 +8535,22 @@
       "topic": "Dresden Frauenkirche",
       "created": "2026-10-16T18:06:01",
       "img": true
+    },
+    {
+      "slug": "harz-brocken-deutschland",
+      "title": "哈茨国家公园与布罗肯山：德国神秘高地的自然奇遇",
+      "lang": "zh",
+      "topic": "Harz Brocken",
+      "created": "2026-10-16T21:13:48",
+      "img": true
+    },
+    {
+      "slug": "descubriendo-el-mar-de-wadden-del-mar-del-norte-alemania",
+      "title": "Descubriendo el Mar de Wadden del Mar del Norte: una joya natural de Alemania",
+      "lang": "es",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-16T21:13:48",
+      "img": true
     }
   ],
   "videos": [
@@ -9152,6 +9192,16 @@
       "hashtags": "#Frauenkirche #Dresden #GermanyTravel #Baroque #Landmark #History #TravelEurope #Wanderlust",
       "voice": "Rising proudly from Dresden's heart, the Frauenkirche is a breathtaking masterpiece of Baroque architecture! Destroyed in WWII, its miraculous reconstruction stands as a powerful symbol of hope and reconciliation. Marvel at the golden cross atop its magnificent dome, a gift from Britain. Inside, the luminous altar and intricate details will leave you speechless. This isn't just a church - it's a living testament to resilience!",
       "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubriendo-el-mar-de-wadden-del-mar-del-norte-alemania",
+      "title": "Descubriendo el Mar de Wadden del Mar del Norte: una joya natural de Alemania",
+      "lang": "es",
+      "created": "2026-10-16T21:13:48",
+      "hashtags": "#MarDeWadden #UNESCO #NaturalezaAlemana #Biodiversidad #AvesMigratorias",
+      "voice": "El Mar de Wadden, situado en el norte de Alemania, es un espectáculo natural que dejará sin aliento. Declarado Patrimonio de la Humanidad por la UNESCO, este ecosistema único cambia con las mareas. Durante la marea baja, el lecho marino se convierte en un territorio de exploración para senderistas, donde descubrirás una increíble biodiversidad. Es además un paraíso para los amantes de las aves, que encuentran aquí su hogar. ¡Una experiencia inolvidable en contacto directo con la naturaleza!",
+      "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
