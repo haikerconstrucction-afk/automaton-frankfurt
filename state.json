@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 453.9972,
-  "spent_eur": 50.673,
+  "balance_eur": 453.7678,
+  "spent_eur": 50.9024,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -6642,89 +6642,81 @@
       "pay_url": "https://buy.stripe.com/4gM9AUdYBdxN4QecUY2kx06",
       "payment_link_id": "plink_1URcdOJ5iOXkWb9VUtOPZWm7",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Wedding Budget & Vendor Tracker",
+      "slug": "ultimate-wedding-budget-vendor-tracker",
+      "price_eur": 9,
+      "target": "Couples planning their wedding and wedding planners",
+      "reason": "Couples often struggle with tracking wedding expenses and vendor details. This tool provides a one-stop solution to manage all aspects of wedding planning efficiently.",
+      "language": "en",
+      "pitch": "Effortlessly manage your wedding budget and vendor details with this comprehensive Excel tracker. Stay organized and on track with real-time calculations and insightful KPIs.",
+      "content_html": "<h2>Inhalt</h2><p>Detailed sheets for managing your wedding budget, vendor details, payments, and more. Includes automated calculations, dropdowns for easy categorization, and insightful charts.</p>",
+      "pro": true,
+      "created": "2026-10-17T22:22:36",
+      "file": "ultimate-wedding-budget-vendor-tracker-b7de9d49af42930f.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Produkt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Zahlen, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Funktionale Excel-Vorlage ohne sachliche Fehler.",
+      "pay_url": "https://buy.stripe.com/aFa8wQ8EhgJZdmK9IM2kx07",
+      "payment_link_id": "plink_1URg3vJ5iOXkWb9VYdroKjIo",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sacrifice",
+      "slug": "smart-family-savings-7-simple-steps-to-stretch-your-household-budget",
+      "price_eur": 5,
+      "target": "Families looking to save money on everyday expenses without reducing their quality of life",
+      "reason": "A practical family finance guide meets a clear market need - our research shows money-saving content performs well year-round, especially when focused on actionable steps rather than deprivation. The 7-step framework provides immediate wins while teaching sustainable habits.",
+      "language": "en",
+      "pitch": "Discover proven budgeting strategies that actually work for busy families. This practical guide shows you how to save hundreds on groceries, utilities, and more - while keeping life enjoyable.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: The Power of Small Changes</li><li>Chapter 2: Grocery Shopping Without Waste</li><li>Chapter 3: Smart Utility Savings</li><li>Chapter 4: Affordable Family Fun</li><li>Chapter 5: Planning for Seasonal Expenses</li><li>Chapter 6: Teaching Kids About Money</li><li>Chapter 7: Maintaining Your Savings Long-Term</li></ul>",
+      "pro": false,
+      "created": "2026-10-17T22:22:36",
+      "file": "smart-family-savings-7-simple-steps-to-stretch-your-household-budget-0b581ac1dfa32912.pdf",
+      "size": 2109,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt hält die Regeln ein. Es wurden keine erfundenen Zahlen, Statistiken, Quellen oder Zitate verwendet. Der Text ist klar strukturiert, bietet praktische Tipps und enthält keine Beratung, Gesundheitsversprechen oder Marken Dritter. Die Beispiele sind als solche gekennzeichnet und basieren auf",
+      "pay_url": "https://buy.stripe.com/eVqaEY7Ad3XdgyWdZ22kx08",
+      "payment_link_id": "plink_1URg3wJ5iOXkWb9VTtBav8SI",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Fitness-Erfolgstracker für Trainer und Selbstständige",
+      "slug": "smart-fitness-erfolgstracker",
+      "price_eur": 9,
+      "target": "Fitness-Trainer, Personal Trainer, selbstständige Fitnesstrainer, kleine Studios",
+      "reason": "Die Fitnessbranche wächst stark, Trainer benötigen einfache Tools für ihre tägliche Arbeit. Diese Vorlage kombiniert Kundenverwaltung, Termintracking und Finanzen in einer professionellen Lösung.",
+      "language": "de",
+      "pitch": "Die perfekte Excel-Vorlage für Fitness-Profis: Tracke Kundenfortschritte, Einnahmen und Trainingspläne in einem System – einfach und professionell.",
+      "content_html": "<h2>Inhalt</h2><p>Professionelle Trainings- und Businessplanung für Fitness-Profis mit automatischen Berechnungen und übersichtlichen Dashboards.</p>",
+      "pro": true,
+      "created": "2026-10-17T22:22:36",
+      "file": "smart-fitness-erfolgstracker-cc3381a2c72a0855.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich an die Regeln: keine erfundenen Statistiken, Zahlen oder Studien, keine Gesundheitsversprechen, keine Fremdmarken oder rechtlich problematischen Aussagen. Die Excel-Vorlage ist klar beschrieben und die Beispielrechnungen sind plausibel. Kleinere unnötige Wiederholungen in der Ei",
+      "pay_url": "https://buy.stripe.com/00waEY1bP0L1fuSg7a2kx09",
+      "payment_link_id": "plink_1URg3wJ5iOXkWb9VJ32bFl2J",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-16T07:14:30",
-      "eur": -0.0003324,
-      "why": "Video-Skript: Hamburg Speicherstadt"
-    },
-    {
-      "t": "2026-10-16T07:14:30",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: L'Essentiel du Voyage en Allemagne : Découvrir le Rhin, Francfort et Heidelberg"
-    },
-    {
-      "t": "2026-10-16T07:14:30",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596531687"
-    },
-    {
-      "t": "2026-10-16T07:14:30",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-16T07:14:30",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596549508"
-    },
-    {
-      "t": "2026-10-16T07:14:30",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Discovering Dresden with Kids: The Ultimate Family-Friendly Travel Guide to Saxony's Hidden Gems"
-    },
-    {
-      "t": "2026-10-16T07:14:30",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596549522"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.0221568,
-      "why": "KI-Denken: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr Umsatz und Kundenzufriedenheit"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.0040548,
-      "why": "KI-Pruefung: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr Umsatz und Kundenzufriedenheit"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr Umsatz und Kundenzufriedenheit"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.014174399999999998,
-      "why": "KI-Denken: Ultimate Family Travel Packing List & Budget Tracker"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.0011807999999999999,
-      "why": "KI-Pruefung: Ultimate Family Travel Packing List & Budget Tracker"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Fehlerhafte Datumsformatierung (2026年), fehlende sinnvolle Formeln, Preis für einfache Excel-Vorlage möglicherweise zu hoch'}"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.013973999999999999,
-      "why": "KI-Denken: Ultimate Female Business Travel Planner: Budget, Itinerary & Packing List Tracker"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.0011015999999999999,
-      "why": "KI-Pruefung: Ultimate Female Business Travel Planner: Budget, Itinerary & Packing List Tracker"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.020149200000000003,
-      "why": "KI-Denken: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sales"
-    },
     {
       "t": "2026-10-16T13:17:56",
       "eur": -0.0034019999999999996,
@@ -7644,6 +7636,86 @@
       "t": "2026-10-17T18:32:27",
       "eur": -0.0004223999999999999,
       "why": "Video-Skript: Heidelberg Altstadt"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.014938799999999999,
+      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.0010355999999999998,
+      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.020841600000000002,
+      "why": "KI-Denken: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sacrifice"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.0034343999999999998,
+      "why": "KI-Pruefung: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sacrifice"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.16,
+      "why": "KI-Bilder: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sacrifice"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.015160799999999999,
+      "why": "KI-Denken: Smart Fitness-Erfolgstracker für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.0012851999999999998,
+      "why": "KI-Pruefung: Smart Fitness-Erfolgstracker für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-17T22:26:36",
+      "eur": -0.0029832,
+      "why": "Audit: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-17T22:26:36",
+      "eur": -0.0032531999999999995,
+      "why": "Audit: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sa"
+    },
+    {
+      "t": "2026-10-17T22:26:36",
+      "eur": -0.0035243999999999996,
+      "why": "Audit: Smart Fitness-Erfolgstracker für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.0012683999999999998,
+      "why": "Blog-Artikel: Neuschwanstein (de)"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.0013919999999999998,
+      "why": "Blog-Artikel: Saechsische Schweiz (en)"
+    },
+    {
+      "t": "2026-10-17T22:22:36",
+      "eur": -0.0003276,
+      "why": "Video-Skript: Saechsische Schweiz"
     }
   ],
   "alive": true,
@@ -8985,6 +9057,22 @@
       "topic": "Heidelberg Altstadt",
       "created": "2026-10-17T18:32:27",
       "img": true
+    },
+    {
+      "slug": "neuschwanstein-maerchenschloss-in-den-bayerischen-alpen",
+      "title": "Neuschwanstein: Märchenschloss in den bayerischen Alpen",
+      "lang": "de",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-17T22:22:36",
+      "img": true
+    },
+    {
+      "slug": "discover-enchanting-beauty-saxon-switzerland",
+      "title": "Discover the Enchanting Beauty of Saxon Switzerland",
+      "lang": "en",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-17T22:22:36",
+      "img": true
     }
   ],
   "videos": [
@@ -9666,6 +9754,16 @@
       "hashtags": "#Heidelberg #AllemagneRomantique #VoyageEnAllemagne #PetitsPlaisirs #CharmeMédiéval",
       "voice": "Heidelberg, un rêve d'Allemagne médiévale ! Son château légendaire, ses ruelles pavées et son université historique vous transportent dans un conte. L'âme romantique de la vieille ville vibre entre cafés poétiques et librairies anciennes. Un coup de cœur au bord du Neckar, où chaque pierre murmure une histoire d'amour. À découvrir absolument !",
       "credits": "Foto: -wuppertaler, CC BY-SA 4.0, via Wikimedia Commons; Foto: KaiBorgeest, CC BY-SA 4.0, via Wikimedia Commons; Foto: No machine-readable author provided. Martinw2 assumed (based on copyright claims, CC BY-SA 3.0, via Wikimedia Commons; Foto: Schlurcher, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-enchanting-beauty-saxon-switzerland",
+      "title": "Discover the Enchanting Beauty of Saxon Switzerland",
+      "lang": "en",
+      "created": "2026-10-17T22:22:36",
+      "hashtags": "#SaxonSwitzerland #GermanyTravel #NatureLovers #HikingAdventure #HiddenGem",
+      "voice": "Discover the magical Saxon Switzerland! Just a short trip from Dresden, this national park stuns with its legendary Bastei Bridge, towering sandstone peaks, and lush forests. Adventure seekers love the epic hiking trails with panoramic Elbe River views, while photographers chase fairytale sunrises over misty cliffs. Feel the thrill of climbing legendary peaks or step back in time at medieval Königstein Fortress. Your unforgettable nature escape awaits!",
+      "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
