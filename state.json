@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 454.9423,
-  "spent_eur": 49.7279,
+  "balance_eur": 454.6646,
+  "spent_eur": 50.0056,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -6426,124 +6426,81 @@
       "pay_url": "https://buy.stripe.com/14A8wQg6JfFV3Ma2gk2kw45",
       "payment_link_id": "plink_1URRiHJ5iOXkWb9V3VU1cKF1",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Entdecke Saarland & Mosel: Der ultimative Reiseführer für Selbstständige und Familien",
+      "slug": "entdecke-saarland-mosel-ultimativer-reisefuehrer",
+      "price_eur": 5,
+      "target": "Selbstständige und Familien, die das Saarland und die Moselregion authentisch und stressfrei entdecken möchten",
+      "reason": "Dieser Guide füllt eine Marktlücke, da er speziell auf die Bedürfnisse von Selbstständigen (Zeiteffizienz, Arbeitsmöglichkeiten unterwegs) und Familien (Budgetfreundlichkeit, kinderfreundliche Aktivitäten) in dieser Region eingeht. Bisherige Reiseführer behandeln entweder nur Standardtourismus oder richten sich nicht an diese Zielgruppen. Der Preis ist gerechtfertigt durch exklusive lokale Insidertipps, die man in dieser Form nirgendwo gebündelt findet.",
+      "language": "de",
+      "pitch": "7 einfache Schritte zu unvergesslichen Erlebnissen abseits der Touristenpfade. Spare Zeit und Geld mit lokalen Insidertipps für Unterkünfte, Aktivitäten und kulinarische Highlights.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Die Region verstehen – Geheimtipps abseits der Klischees</li><li>Kapitel 2: Perfekte Unterkünfte für jeden Reisestil</li><li>Kapitel 3: Kulinarische Entdeckungen – Von Winzerhöfen bis Streetfood</li><li>Kapitel 4: Familienfreundliche Aktivitäten bei jedem Wetter</li><li>Kapitel 5: Effiziente Routenplanung für Selbstständige mit begrenzter Zeit</li><li>Kapitel 6: Budgetfreundliche Alternativen zu teuren Touristenattraktionen</li><li>Kapitel 7: Jahreszeitenspezifische Reisetipps (Frühling bis Winter)</li></ul><p>Leseprobe: 'Wussten Sie, dass Sie im Saarland kostenlos an geführten Wanderungen teilnehmen können? Kapitel 3 verrät, wie Sie diese wenig bekannten Angebote finden...'</p>",
+      "pro": false,
+      "created": "2026-10-17T12:14:55",
+      "file": "entdecke-saarland-mosel-ultimativer-reisefuehrer-ad603989547db377.pdf",
+      "size": 1584,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils in Ordnung, ohne erfundene Studien oder Statistiken. Es werden allgemeine Tipps und lokale Empfehlungen gegeben, die plausibel erscheinen. Einige kleinere sprachliche Schwächen und unvollständige Sätze sind vorhanden, aber keine gravierenden Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/9B614odYB79pfuS8EI2kw46",
+      "payment_link_id": "plink_1URWevJ5iOXkWb9VbcyRNcOD",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate NRW Family Travel Budget Planner & Expense Tracker",
+      "slug": "ultimate-nrw-family-travel-budget-planner-expense-tracker",
+      "price_eur": 9,
+      "target": "Female travelers planning family trips in NRW (Cologne, Düsseldorf, Ruhr area)",
+      "reason": "Provides a comprehensive tool for female travelers to plan family trips in NRW, ensuring they stay on budget and have an organized view of their expenses.",
+      "language": "en",
+      "pitch": "Plan your family trip to NRW with ease, track expenses, and stay on budget.",
+      "content_html": "<h2>Content</h2>Manage your travel budget, track expenses by category, and visualize spending trends for stress-free family trips in NRW.",
+      "pro": true,
+      "created": "2026-10-17T12:14:55",
+      "file": "ultimate-nrw-family-travel-budget-planner-expense-tracker-439530bf600de50c.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfunden Studien, Statistiken oder Prozentzahlen. Keine sachlichen Fehler oder Regelverstöße. Der Inhalt ist klar, präzise und entspricht den Vorgaben. Einzig kleine Optimierungen in der Benutzerführung sind denkbar.",
+      "pay_url": "https://buy.stripe.com/cNieVe9Il0L1eqObQU2kw47",
+      "payment_link_id": "plink_1URWewJ5iOXkWb9VodsnRNmT",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures",
+      "slug": "bavarian-alps-hidden-gems-solo-female-travel-guide",
+      "price_eur": 5,
+      "target": "Female solo travelers aged 25-45 exploring Bavaria's nature and culture independently",
+      "reason": "Fills a gap in female-focused travel resources for Bavaria, combining safety advice with authentic experiences. The structured approach builds confidence for solo adventures while highlighting lesser-known gems.",
+      "language": "en",
+      "pitch": "Discover Bavaria's safest scenic routes, charming villages, and local secrets with confidence. This guide blends practical safety tips with authentic cultural experiences for unforgettable solo adventures.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: Planning Your Perfect Alpine Escape</li><li>Chapter 2: Transportation Made Simple</li><li>Chapter 3: Safe Hiking Trails with Stunning Views</li><li>Chapter 4: Cozy Accommodations with Female-Friendly Hosts</li><li>Chapter 5: Dining Solo Like a Local</li><li>Chapter 6: Cultural Etiquette & Hidden Festivals</li><li>Bonus: Essential German Phrases & Emergency Contacts</li></ul>",
+      "pro": false,
+      "created": "2026-10-17T12:14:55",
+      "file": "bavarian-alps-hidden-gems-solo-female-travel-guide-fcb3ea74aee22cd6.pdf",
+      "size": 1789,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist gut strukturiert, praxisorientiert und frei von erfundenen Statistiken oder Prozentzahlen. Es gibt keine Rechts-, Finanz- oder Gesundheitsberatung. Die Sprache ist konsistent Englisch, und es gibt keine unfertigen Texte oder Platzhalter. Die Tipps sind hilfreich und basieren auf allge",
+      "pay_url": "https://buy.stripe.com/3cI8wQf2FdxN4QecUY2kx00",
+      "payment_link_id": "plink_1URWexJ5iOXkWb9VNq578CEY",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-15T21:27:07",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-15T21:27:07",
-      "eur": -0.0132264,
-      "why": "KI-Denken: 智能施工现场报价与成本跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-15T21:27:07",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能施工现场报价与成本跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-15T21:43:04",
-      "eur": -0.0023124,
-      "why": "Audit: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist p"
-    },
-    {
-      "t": "2026-10-15T21:43:04",
-      "eur": -0.0038736,
-      "why": "Audit: Descubre Dresden y Sajonia: Guía Práctica para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-15T21:43:04",
-      "eur": -0.0026219999999999998,
-      "why": "Audit: 智能施工现场报价与成本跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-15T21:27:07",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-15T21:27:07",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-15T21:27:07",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-15T21:27:07",
-      "eur": -0.0012587999999999998,
-      "why": "Blog-Artikel: Mosel Cochem (zh)"
-    },
-    {
-      "t": "2026-10-15T21:27:07",
-      "eur": -0.0009983999999999998,
-      "why": "Blog-Artikel: Heidelberg Altstadt (es)"
-    },
-    {
-      "t": "2026-10-15T21:27:07",
-      "eur": -0.00037919999999999995,
-      "why": "Video-Skript: Heidelberg Altstadt"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.0174504,
-      "why": "KI-Denken: 宝宝快乐入睡：温馨睡前故事的魔力"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.0034235999999999997,
-      "why": "KI-Pruefung: 宝宝快乐入睡：温馨睡前故事的魔力"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1437 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.018161999999999998,
-      "why": "KI-Denken: 睡前魔法：7个温馨的晚安故事（3-8岁）"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.0037955999999999992,
-      "why": "KI-Pruefung: 睡前魔法：7个温馨的晚安故事（3-8岁）"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.16,
-      "why": "KI-Bilder: 睡前魔法：7个温馨的晚安故事（3-8岁）"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.0141984,
-      "why": "KI-Denken: Planificateur de Mariage Professionnel & Suivi des Dépenses"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.0014735999999999998,
-      "why": "KI-Pruefung: Planificateur de Mariage Professionnel & Suivi des Dépenses"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.019572,
-      "why": "KI-Denken: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gérer vos Finances Personnelles"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.0040584,
-      "why": "KI-Pruefung: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gérer vos Finances Personnelles"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gérer vos Finances Personnelles"
-    },
     {
       "t": "2026-10-16T00:41:45",
       "eur": -0.0038699999999999997,
@@ -7433,6 +7390,116 @@
       "t": "2026-10-17T07:00:16",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597232664"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.020706,
+      "why": "KI-Denken: Saarland & Mosel Entdecker-Guide: 7 einzigartige Touren für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.004278,
+      "why": "KI-Pruefung: Saarland & Mosel Entdecker-Guide: 7 einzigartige Touren für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1434 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.022207199999999996,
+      "why": "KI-Denken: Entdecke Saarland & Mosel: Der ultimative Reiseführer für Selbstständige und Familien"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.0042876,
+      "why": "KI-Pruefung: Entdecke Saarland & Mosel: Der ultimative Reiseführer für Selbstständige und Familien"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.0146412,
+      "why": "KI-Denken: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Female Travelers"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.0011543999999999999,
+      "why": "KI-Pruefung: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Female Travelers"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Beschränkte Zielgruppe, einfache Funktionen, Preis könnte niedriger sein'}"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.0144876,
+      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.0010524,
+      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.019710000000000002,
+      "why": "KI-Denken: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.0034223999999999995,
+      "why": "KI-Pruefung: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.16,
+      "why": "KI-Bilder: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
+    },
+    {
+      "t": "2026-10-17T12:24:08",
+      "eur": -0.004007999999999999,
+      "why": "Audit: Entdecke Saarland & Mosel: Der ultimative Reiseführer für Selbstständige und Fam"
+    },
+    {
+      "t": "2026-10-17T12:24:08",
+      "eur": -0.0020147999999999998,
+      "why": "Audit: Ultimate NRW Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-17T12:24:08",
+      "eur": -0.0031811999999999995,
+      "why": "Audit: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.001062,
+      "why": "Blog-Artikel: Saarland Saarschleife (fr)"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.0010475999999999999,
+      "why": "Blog-Artikel: Koeln Dom (de)"
+    },
+    {
+      "t": "2026-10-17T12:14:55",
+      "eur": -0.0003924,
+      "why": "Video-Skript: Koeln Dom"
     }
   ],
   "alive": true,
@@ -8725,6 +8792,22 @@
       "lang": "es",
       "topic": "Schwarzwald",
       "created": "2026-10-17T07:00:16",
+      "img": true
+    },
+    {
+      "slug": "saarschleife-sarre-allemagne",
+      "title": "La Saarschleife, joyau naturel de la Sarre en Allemagne",
+      "lang": "fr",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-17T12:14:55",
+      "img": true
+    },
+    {
+      "slug": "koelner-dom-majesttisches-wahrzeichen-am-rhein",
+      "title": "Kölner Dom: Ein majestätisches Wahrzeichen am Rhein",
+      "lang": "de",
+      "topic": "Koeln Dom",
+      "created": "2026-10-17T12:14:55",
       "img": true
     }
   ],
