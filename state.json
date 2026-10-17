@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 456.6388,
-  "spent_eur": 48.0314,
+  "balance_eur": 455.7836,
+  "spent_eur": 48.8866,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4103,7 +4103,10 @@
       "audit_note": "Das Produkt ist eine funktionale Excel-Vorlage ohne erfundene Zahlen, Statistiken oder gesundheitsbezogene Aussagen. Die Inhalte sind klar strukturiert und entsprechen den angegebenen Nutzungsregeln. Die Beispielberechnungen sind plausibel und die Funktionalitäten sinnvoll beschrieben.",
       "pay_url": "https://buy.stripe.com/9B614o4o12T996u1cg2kw2x",
       "payment_link_id": "plink_1UOAhzJ5iOXkWb9VSnNHLofA",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4597088015"
+      }
     },
     {
       "type": "ebook",
@@ -4127,7 +4130,10 @@
       "audit_note": "Das E-Book entspricht den Vorgaben: Fantasiegeschichten ohne konkrete Prozentzahlen oder erfundene Studien. Keine Gesundheitsversprechen, keine Fremdmarken oder Rechtsberatung. Geschichten sind kindgerecht und kreativ.",
       "pay_url": "https://buy.stripe.com/9B614o1bPgJZ5Ui7AE2kw2y",
       "payment_link_id": "plink_1UOAi0J5iOXkWb9VtIzD1E3B",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4597088035"
+      }
     },
     {
       "type": "excel",
@@ -4151,7 +4157,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Zahlen. Alle Angaben sind klar als Beispiele oder allgemeine Funktionalitäten gekennzeichnet. Keine Regelverstöße erkennbar.",
       "pay_url": "https://buy.stripe.com/4gMbJ2dYBbpF96ucUY2kw2z",
       "payment_link_id": "plink_1UOHkEJ5iOXkWb9Vg9eVtuzg",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4597108542"
+      }
     },
     {
       "type": "ebook",
@@ -6288,174 +6297,57 @@
       "pay_url": "https://buy.stripe.com/28E9AU9IldxNfuS8EI2kw40",
       "payment_link_id": "plink_1URIZNJ5iOXkWb9V7Dca1d8b",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Content ROI Tracker & Budget Planner 2026",
+      "slug": "youtube-content-roi-tracker-budget-planner-2026",
+      "price_eur": 9,
+      "target": "YouTube Content Creators looking to track performance and optimize their budget",
+      "reason": "Les créateurs YouTube ont besoin d'analyser en détail leurs performances financières pour optimiser leur stratégie de contenu. Ce tracker permet une visibilité immédiate sur ce qui rapporte et ce qui coûte.",
+      "language": "fr",
+      "pitch": "Maximisez votre retour sur investissement YouTube avec ce tracker complet qui analyse vos dépenses et revenus par vidéo. Optimisez votre budget contenu en visualisant ce qui performe réellement.",
+      "content_html": "<h2>Contenu</h2><p>Ce template Excel professionnel vous permet de suivre toutes vos dépenses liées à la création de contenu vidéo (équipement, logiciels, musique, publicité) et de corréler cela avec vos revenus (publicités, partenariats, super chats).</p>",
+      "pro": true,
+      "created": "2026-10-17T00:32:06",
+      "file": "youtube-content-roi-tracker-budget-planner-2026-35d87d4c3833191f.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist korrekt in französischer Sprache verfasst und enthält keine offensichtlichen Verstöße gegen die Regeln. Es werden keine erfundenen Studien, Statistiken oder irreführende Behauptungen gemacht. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen nur zur Veranschaulichung ",
+      "pay_url": "https://buy.stripe.com/6oU3cwdYB65ldmK6wA2kw41",
+      "payment_link_id": "plink_1URLfCJ5iOXkWb9VjR6TCUiW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats",
+      "slug": "guide-pratique-enseignants-strategies-simples",
+      "price_eur": 5,
+      "target": "Enseignants et professeurs particuliers en France",
+      "reason": "Ce guide répond aux besoins des enseignants et professeurs particuliers qui cherchent à mieux organiser leur temps et améliorer leurs résultats. Les stratégies proposées sont simples, pratiques et immédiatement applicables, offrant ainsi une valeur claire pour le prix.",
+      "language": "fr",
+      "pitch": "Découvrez des méthodes pratiques pour optimiser votre temps et maximiser l'impact de vos cours, sans stress.",
+      "content_html": "<h2>Contenu</h2>Ce guide vous propose des stratégies concrètes pour mieux organiser votre temps, planifier vos cours efficacement et améliorer les performances de vos élèves. Découvrez des conseils pratiques et des outils simples à mettre en place dès maintenant.\n\n<h2>Table des matières</h2>\n1. Planifier efficacement ses cours\n2. Techniques pour réduire le temps de correction\n3. Outils numériques pour simplifier votre travail\n4. Gérer les interruptions et rester concentré\n5. Motivations et feedbacks pour les élèves\n6. Équilibre entre vie professionnelle et personnelle",
+      "pro": false,
+      "created": "2026-10-17T00:32:06",
+      "file": "guide-pratique-enseignants-strategies-simples-c592e6375de6cbe9.pdf",
+      "size": 1607,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Studien. Der Inhalt ist klar und praktisch orientiert, ohne Regelverstöße wie Gesundheitsversprechen, Beratung oder Markennennung. Die Sprache ist einheitlich und der Text vollständig. Einige Wiederholungen im Stil, aber kein Grund zur Entfernung.",
+      "pay_url": "https://buy.stripe.com/fZu4gA5s5bpF1E2bQU2kw42",
+      "payment_link_id": "plink_1URLfDJ5iOXkWb9Vo1aGW4N5",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-15T04:45:30",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595743371"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.013551599999999999,
-      "why": "KI-Denken: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Families"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0012227999999999998,
-      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Families"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0133032,
-      "why": "KI-Denken: Ultimate Black Forest Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0011903999999999999,
-      "why": "KI-Pruefung: Ultimate Black Forest Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 8 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0131376,
-      "why": "KI-Denken: Black Forest Family Adventure Planner: Track Budget & Activities in One Place"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0010944,
-      "why": "KI-Pruefung: Black Forest Family Adventure Planner: Track Budget & Activities in One Place"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.013155599999999998,
-      "why": "KI-Denken: Ultimate Black Forest Family Travel Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Black Forest Family Travel Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0180048,
-      "why": "KI-Denken: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Culture"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0034536,
-      "why": "KI-Pruefung: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Culture"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Culture"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.013434,
-      "why": "KI-Denken: Ultimativer NRW Reisekosten-Tracker & Städteplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0011447999999999999,
-      "why": "KI-Pruefung: Ultimativer NRW Reisekosten-Tracker & Städteplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-15T11:42:11",
-      "eur": -0.0022668,
-      "why": "Audit: Ultimate Black Forest Family Travel Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-15T11:42:11",
-      "eur": -0.0033023999999999996,
-      "why": "Audit: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Cultu"
-    },
-    {
-      "t": "2026-10-15T11:42:11",
-      "eur": -0.004422,
-      "why": "Audit: Ultimativer NRW Reisekosten-Tracker & Städteplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0013775999999999999,
-      "why": "Blog-Artikel: Saarland Saarschleife (es)"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0009948,
-      "why": "Blog-Artikel: Koeln Dom (fr)"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.0003804,
-      "why": "Video-Skript: Koeln Dom"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Freelancer's Guide to Stress-Free Time Management"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595927879"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595949246"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Descubre el Saarland y la Mosela: Guía práctica para viajeros masculinos"
-    },
-    {
-      "t": "2026-10-15T11:34:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4595927923"
-    },
-    {
-      "t": "2026-10-15T17:05:18",
-      "eur": -0.019214399999999996,
-      "why": "KI-Denken: Bayern & Alpen Entdecken: Der ultimative Reiseführer für Naturliebhaber und Wanderer"
-    },
     {
       "t": "2026-10-15T17:05:18",
       "eur": -0.0041688,
@@ -7290,6 +7182,176 @@
       "t": "2026-10-16T21:13:48",
       "eur": -0.0004608,
       "why": "Video-Skript: Nordsee Wattenmeer"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.014049599999999999,
+      "why": "KI-Denken: Planificateur de Contenu & Suivi des Performances YouTube"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Contenu & Suivi des Performances YouTube"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 63 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.014462399999999999,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.0011748,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.019814399999999996,
+      "why": "KI-Denken: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.0038255999999999997,
+      "why": "KI-Pruefung: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.014312399999999998,
+      "why": "KI-Denken: Senior Care & Medication Tracker"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senior Care & Medication Tracker"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.014873999999999998,
+      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.0014927999999999999,
+      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.014349599999999999,
+      "why": "KI-Denken: Senior Care Expense Tracker & Medication Planner"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.0011028,
+      "why": "KI-Pruefung: Senior Care Expense Tracker & Medication Planner"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.014204399999999999,
+      "why": "KI-Denken: Senior Care Expense & Medication Tracker for Caregivers & Families"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senior Care Expense & Medication Tracker for Caregivers & Families"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-17T00:39:40",
+      "eur": -0.0024155999999999995,
+      "why": "Audit: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-17T00:39:40",
+      "eur": -0.0036107999999999995,
+      "why": "Audit: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.0011867999999999998,
+      "why": "Blog-Artikel: Muenchen Marienplatz (fr)"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.0010379999999999999,
+      "why": "Blog-Artikel: Eifel Maare (de)"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.0004116,
+      "why": "Video-Skript: Eifel Maare"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Baustellen-Material- & Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597088015"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597088035"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-17T00:32:06",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597108542"
     }
   ],
   "alive": true,
@@ -8550,6 +8612,22 @@
       "lang": "es",
       "topic": "Nordsee Wattenmeer",
       "created": "2026-10-16T21:13:48",
+      "img": true
+    },
+    {
+      "slug": "munich-marienplatz-guide-voyage",
+      "title": "Découvrir la Marienplatz de Munich : Cœur historique de la Bavière",
+      "lang": "fr",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-17T00:32:06",
+      "img": true
+    },
+    {
+      "slug": "eifel-maare-kraterseen-deutschland",
+      "title": "Die Eifel Maare: Einzigartige Kraterseen in Deutschlands Naturparadies",
+      "lang": "de",
+      "topic": "Eifel Maare",
+      "created": "2026-10-17T00:32:06",
       "img": true
     }
   ],
