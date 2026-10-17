@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 454.6646,
-  "spent_eur": 50.0056,
+  "balance_eur": 454.4373,
+  "spent_eur": 50.2329,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -6498,89 +6498,81 @@
       "pay_url": "https://buy.stripe.com/3cI8wQf2FdxN4QecUY2kx00",
       "payment_link_id": "plink_1URWexJ5iOXkWb9VNq578CEY",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador Profesional de Viajes Costa Báltica y Mar del Norte para Autónomos",
+      "slug": "planificador-viajes-costa-baltica-norte-autonomos",
+      "price_eur": 12,
+      "target": "Hombres autónomos que planifican viajes de trabajo/ocio a las costas alemanas",
+      "reason": "Falta de herramientas específicas para autónomos que viajen a esta zona. Combina planificación logística con control financiero profesional.",
+      "language": "es",
+      "pitch": "Controla tu itinerario, gastos y reservas en un solo lugar. Ideal para viajes eficientes y sin estrés.",
+      "content_html": "<h2>Incluye</h2><ul><li>Tracker de rutas y transporte</li><li>Control de gastos detallado</li><li>Organizador de reservas</li><li>Dashboard resumen</li></ul>",
+      "pro": true,
+      "created": "2026-10-17T15:43:34",
+      "file": "planificador-viajes-costa-baltica-norte-autonomos-20769b6b31c491c1.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist klar, sachlich und frei von erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist korrekt und einheitlich. Die Excel-Formeln sind sinnvoll und plausibel. Es gibt keine Rechts-, Steuer-, Finanz- oder Gesundheitsberatung. Die Beispieldaten sind realistisch und die berechne",
+      "pay_url": "https://buy.stripe.com/7sYeVe8Eh1P5aayg7a2kx01",
+      "payment_link_id": "plink_1URZpfJ5iOXkWb9VV03yyQ2P",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independientes",
+      "slug": "descubre-rin-frankfurt-heidelberg-guia-viajeros-independientes",
+      "price_eur": 5,
+      "target": "Hombres autónomos y viajeros independientes interesados en explorar la región del Rin, Frankfurt y Heidelberg de forma práctica y sin complicaciones",
+      "reason": "Existe mucha demanda de guías prácticas en español sobre destinos alemanes, especialmente para viajeros independientes que prefieren información concisa y aplicable. Este ebook llena ese vacío centrándose en experiencias auténticas más allá del turismo masivo, con un enfoque respetuoso hacia el público masculino pero sin estereotipos.",
+      "language": "es",
+      "pitch": "Conviértete en tu propio guía turístico con esta guía paso a paso para descubrir los secretos mejor guardados de la región. Incluye rutas optimizadas y consejos de expertos para sacar el máximo provecho de tu viaje.",
+      "content_html": "<h2>Contenido</h2><ul><li>Capítulo 1: Preparando tu aventura</li><li>Capítulo 2: Las joyas del Rin que no te puedes perder</li><li>Capítulo 3: Frankfurt más allá de lo obvio</li><li>Capítulo 4: Heidelberg con ojos locales</li><li>Capítulo 5: Cómo moverte como experto</li><li>Capítulo 6: Presupuesto y consejos finales</li></ul><p>Lee un fragmento del Capítulo 3 sobre cómo encontrar las mejores vistas de Frankfurt sin pagar entrada.</p>",
+      "pro": false,
+      "created": "2026-10-17T15:43:34",
+      "file": "descubre-rin-frankfurt-heidelberg-guia-viajeros-independientes-3f726158b8bba53c.pdf",
+      "size": 1588,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine Regelverstöße festgestellt. Der Text ist sachlich korrekt, enthält keine erfundenen Zahlen, Statistiken oder Zitate und erfüllt alle Vorgaben.",
+      "pay_url": "https://buy.stripe.com/fZudRaaMp9hxgyW8EI2kx02",
+      "payment_link_id": "plink_1URZpfJ5iOXkWb9Vi1hblMCC",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能柏林与波茨坦旅行预算追踪器 - 专业技能向导版",
+      "slug": "smart-berlin-potsdam-travel-budget-tracker-zh",
+      "price_eur": 12,
+      "target": "计划前往柏林和波茨坦的个人旅行者，需要高效管理交通、住宿和活动预算",
+      "reason": "针对中国旅行者设计的专业预算工具，特有的双币种显示和消费预警系统能有效控制柏林地区旅行开支",
+      "language": "zh",
+      "pitch": "专业级旅行预算管理系统，实时掌握开销并对未来花费进行智能预测",
+      "content_html": "<h2>内容介绍</h2><p>本Excel模板包含2个数据分析表和1个智能预测面板，帮助您轻松掌控德国柏林及周边地区的旅行开支</p>",
+      "pro": true,
+      "created": "2026-10-17T15:43:34",
+      "file": "smart-berlin-potsdam-travel-budget-tracker-zh-d86da18048dc8d2b.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionaler Excel-Budget-Tracker ohne erfundene Statistiken oder fragwürdige Behauptungen. Es enthält keine Rechts-/Finanz-/Medizinberatung und keine fremden Marken. Die Beispielpreise für Tickets und Mahlzeiten sind plausibel und nicht als allgemeingültige Werte dargestellt. Di",
+      "pay_url": "https://buy.stripe.com/5kQ9AU3jXctJ0zYbQU2kx03",
+      "payment_link_id": "plink_1URZpgJ5iOXkWb9V2jbvXWNy",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-16T00:41:45",
-      "eur": -0.0038699999999999997,
-      "why": "Audit: 睡前魔法：7个温馨的晚安故事（3-8岁）"
-    },
-    {
-      "t": "2026-10-16T00:41:45",
-      "eur": -0.0035759999999999998,
-      "why": "Audit: Planificateur de Mariage Professionnel & Suivi des Dépenses"
-    },
-    {
-      "t": "2026-10-16T00:41:45",
-      "eur": -0.0037907999999999996,
-      "why": "Audit: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gé"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.0014076,
-      "why": "Blog-Artikel: Neuschwanstein (fr)"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.001308,
-      "why": "Blog-Artikel: Saechsische Schweiz (de)"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.00043199999999999993,
-      "why": "Video-Skript: Saechsische Schweiz"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能德国北莱茵-威斯特法伦州旅行预算跟踪器 & 行程规划 - 2026专业版"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596400048"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 巴伐利亚与阿尔卑斯山终极旅行指南：探索自然与文化的最佳路线"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596400078"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-16T00:26:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4596380837"
-    },
-    {
-      "t": "2026-10-16T07:14:30",
-      "eur": -0.013507199999999999,
-      "why": "KI-Denken: Smart Family Fitness Progress Tracker"
-    },
     {
       "t": "2026-10-16T07:14:30",
       "eur": -0.001,
@@ -7500,6 +7492,86 @@
       "t": "2026-10-17T12:14:55",
       "eur": -0.0003924,
       "why": "Video-Skript: Koeln Dom"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.014602799999999999,
+      "why": "KI-Denken: Planificador Profesional de Viajes Costa Báltica y Mar del Norte para Autónomos"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador Profesional de Viajes Costa Báltica y Mar del Norte para Autónomos"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.0207432,
+      "why": "KI-Denken: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independientes"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.0041376,
+      "why": "KI-Pruefung: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independientes"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.16,
+      "why": "KI-Bilder: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independientes"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.014543999999999998,
+      "why": "KI-Denken: 智能柏林与波茨坦旅行预算追踪器 - 专业技能向导版"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能柏林与波茨坦旅行预算追踪器 - 专业技能向导版"
+    },
+    {
+      "t": "2026-10-17T15:47:21",
+      "eur": -0.0023975999999999997,
+      "why": "Audit: Planificador Profesional de Viajes Costa Báltica y Mar del Norte para Autónomos"
+    },
+    {
+      "t": "2026-10-17T15:47:21",
+      "eur": -0.0037463999999999996,
+      "why": "Audit: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independien"
+    },
+    {
+      "t": "2026-10-17T15:47:21",
+      "eur": -0.002748,
+      "why": "Audit: 智能柏林与波茨坦旅行预算追踪器 - 专业技能向导版"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.0013716,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (en)"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.0009444,
+      "why": "Blog-Artikel: Bodensee (zh)"
+    },
+    {
+      "t": "2026-10-17T15:43:34",
+      "eur": -0.00033959999999999996,
+      "why": "Video-Skript: Bodensee"
     }
   ],
   "alive": true,
@@ -8809,6 +8881,22 @@
       "topic": "Koeln Dom",
       "created": "2026-10-17T12:14:55",
       "img": true
+    },
+    {
+      "slug": "discover-the-ruhrgebiet-zollverein-germany",
+      "title": "Discover the Ruhrgebiet Zollverein: A Cultural Gem in Germany",
+      "lang": "en",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-17T15:43:34",
+      "img": true
+    },
+    {
+      "slug": "bodensee-deutschland-reise",
+      "title": "探秘德国博登湖：自然与文化的完美交汇",
+      "lang": "zh",
+      "topic": "Bodensee",
+      "created": "2026-10-17T15:43:34",
+      "img": true
     }
   ],
   "videos": [
@@ -9470,6 +9558,16 @@
       "hashtags": "#SelvaNegra #Alemania #Naturaleza #Viajar #BosquesMagicos",
       "voice": "¡Descubre la Selva Negra alemana! Un paraíso verde con los bosques más densos de Europa. Prueba su famosa tarta, pasea por pueblos de ensueño y sumérgete en sus aguas termales. Aquí la naturaleza es la protagonista. ¡Aventura y dulce tradición en un mismo lugar! #SelvaNegra",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "bodensee-deutschland-reise",
+      "title": "探秘德国博登湖：自然与文化的完美交汇",
+      "lang": "zh",
+      "created": "2026-10-17T15:43:34",
+      "hashtags": "#博登湖 #德国旅游 #自然风光 #户外天堂 #欧洲之美",
+      "voice": "博登湖，德国最美的自然宝藏！毗邻瑞士和奥地利，这片水域不仅是三国交界之地，更是文化与自然的完美融合。无论你是想在湖上扬帆，还是沿湖骑行，这里都是户外爱好者的天堂。古老的湖畔小镇，散发着历史的魅力，四季变换的景色更是让人流连忘返。快来博登湖，感受大自然的心跳吧！",
+      "credits": "Foto: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons; Foto: Julian Herzog (Website), CC BY 4.0, via Wikimedia Commons; Foto: Stefan-Xp, CC BY-SA 3.0, via Wikimedia Commons; Foto: User:Mateus2019, CC BY 3.0 de, via Wikimedia Commons; Foto: böhringer friedrich, CC BY-SA 2.5, via Wikimedia Commons",
       "posted": {}
     }
   ],
