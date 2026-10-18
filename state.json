@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 452.7641,
-  "spent_eur": 51.9061,
+  "balance_eur": 451.9643,
+  "spent_eur": 52.7059,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4346,7 +4346,10 @@
       "audit_note": "Die Prozentzahlen '30%' und '5%' sind nicht weiter erklärt oder belegt und könnten erfunden wirken. Der Rest des Inhalts hält sich jedoch an die Regeln und bietet allgemein bekanntes Wissen und praktische Tipps.",
       "pay_url": "https://buy.stripe.com/fZu5kE1bP3Xd0zYf362kw2G",
       "payment_link_id": "plink_1UOZulJ5iOXkWb9V0BQzlWMo",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4597921543"
+      }
     },
     {
       "type": "excel",
@@ -4370,7 +4373,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Prozentangaben. Der Inhalt entspricht den Regeln und bietet klare Praxistipps ohne Regelverstöße.",
       "pay_url": "https://buy.stripe.com/aFa9AU3jXbpF0zYbQU2kw2H",
       "payment_link_id": "plink_1UOhGyJ5iOXkWb9VpfnOJQJQ",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4597943192"
+      }
     },
     {
       "type": "ebook",
@@ -4394,7 +4400,10 @@
       "audit_note": "Der Inhalt ist größtenteils korrekt und basiert auf allgemein bekanntem Wissen. Die Prozentzahl '10%' wurde als erfunden identifiziert, jedoch ist sie nicht Teil des Hauptinhalts, sondern möglicherweise ein Platzhalter oder Fehler in der Vorlage. Es gibt keine anderen Verstöße gegen die Regeln. Der ",
       "pay_url": "https://buy.stripe.com/aFabJ2aMp0L1ciGcUY2kw2I",
       "payment_link_id": "plink_1UOhGzJ5iOXkWb9VeYkuD9AL",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4597921569"
+      }
     },
     {
       "type": "excel",
@@ -6795,119 +6804,81 @@
       "pay_url": "https://buy.stripe.com/5kQ3cw2fT3XdbeCaMQ2kx0c",
       "payment_link_id": "plink_1URm1gJ5iOXkWb9VjNWkdAVT",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador Profesional de Viajes y Lista de Equipaje",
+      "slug": "planificador-profesional-de-viajes-y-lista-de-equipaje",
+      "price_eur": 9,
+      "target": "Hombres que planean viajes frecuentes, especialmente para negocios o aventuras.",
+      "reason": "Esta herramienta facilita la organización integral de viajes, especialmente para hombres que necesitan mantener un enfoque profesional y eficiente en sus actividades.",
+      "language": "es",
+      "pitch": "Optimiza tus viajes con esta herramienta profesional que combina la planificación de itinerarios y una lista de equipaje inteligente.",
+      "content_html": "<h2>Incluye:</h2><ul><li>Planificación detallada del itinerario.</li><li>Lista de equipaje personalizable.</li><li>Presupuesto y seguimiento de gastos.</li></ul>",
+      "pro": true,
+      "created": "2026-10-18T11:11:53",
+      "file": "planificador-profesional-de-viajes-y-lista-de-equipaje-040ddb9e3d5a0337.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Verstöße gegen die Regeln. Die Funktionalität ist klar beschrieben und die Beispiele sind plausibel. Die Sprache ist durchgängig Spanisch und es gibt keine unfertigen Texte oder Platzhalter.",
+      "pay_url": "https://buy.stripe.com/3cIeVe07LgJZ96u7AE2kx0d",
+      "payment_link_id": "plink_1URs4vJ5iOXkWb9Vw38eQNBT",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar Tus Ventas",
+      "slug": "guia-definitiva-para-vendedores-de-etsy",
+      "price_eur": 7.99,
+      "target": "Hombres emprendedores que venden en Etsy y buscan aumentar sus ventas",
+      "reason": "Este ebook satisface una necesidad clara en el mercado español/latinoamericano de Etsy, ofreciendo consejos prácticos y específicos para vendedores hombres que buscan hacer crecer su negocio sin jargon excesivo. Las estrategias son aplicables inmediatamente y el precio es justo por la calidad del contenido.",
+      "language": "es",
+      "pitch": "Descubre las estrategias clave que utilizan los vendedores más exitosos de Etsy para destacar, atraer más clientes y aumentar tus ingresos. Aplica estos métodos comprobados desde el primer día.",
+      "content_html": "<h2>Contenido</h2><ul><li>Capítulo 1: Optimiza tu tienda para el éxito</li><li>Capítulo 2: Fotografías que venden</li><li>Capítulo 3: Títulos y etiquetas ganadoras</li><li>Capítulo 4: Estrategias de precios inteligentes</li><li>Capítulo 5: Servicio al cliente que fideliza</li><li>Capítulo 6: Promoción fuera de Etsy</li><li>Capítulo 7: Escala tu negocio</li></ul>",
+      "pro": false,
+      "created": "2026-10-18T11:11:53",
+      "file": "guia-definitiva-para-vendedores-de-etsy-7dfcb9dc26fa9aa5.pdf",
+      "size": 1951,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt entspricht den gegebenen Regeln und bietet nützliche, allgemein anwendbare Ratschläge für Etsy-Verkäufer. Keine erfundenen Statistiken, Prozentzahlen oder Quellen. Die Strategien basieren auf bewährten Praktiken ohne spezifische Wirkungsbehauptungen. Eine Prozentangabe (10%) scheint nicht",
+      "pay_url": "https://buy.stripe.com/28EcN6g6J2T9dmK5sw2kx0e",
+      "payment_link_id": "plink_1URs4wJ5iOXkWb9VDB74qtUf",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能协会活动预算 & 志愿者管理追踪器 - 2026专业版",
+      "slug": "association-event-budget-volunteer-tracker-zh",
+      "price_eur": 9,
+      "target": "小型协会、非营利组织和志愿者协调员",
+      "reason": "中国小型协会和专业志愿者组织需要有效的工具来管理有限资源，这个模板提供了实用的解决方案，且市场上类似产品较少",
+      "language": "zh",
+      "pitch": "专业活动预算规划和志愿者管理系统，帮助协会轻松追踪支出、捐款和志愿工时",
+      "content_html": "<h2>内容</h2><p>包含活动预算表、捐赠追踪表和志愿者管理表的专业Excel模板，特别为中国小型协会设计</p>",
+      "pro": true,
+      "created": "2026-10-18T11:11:53",
+      "file": "association-event-budget-volunteer-tracker-zh-4fc8a439a6d18e3d.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Quellen gefunden. Inhalt beschränkt sich auf allgemein bekannte Funktionalitäten einer Excel-Tabelle und ist sachlich korrekt. Keine Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/dRm14o9Il3XdeqO3ko2kx0f",
+      "payment_link_id": "plink_1URs4xJ5iOXkWb9Vx6tY5FMI",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.0011076,
-      "why": "Blog-Artikel: Dresden Frauenkirche (en)"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.00035399999999999993,
-      "why": "Video-Skript: Dresden Frauenkirche"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.0187332,
-      "why": "KI-Denken: 智能园艺与全年收获：7步指南轻松实现自给自足"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.0038699999999999997,
-      "why": "KI-Pruefung: 智能园艺与全年收获：7步指南轻松实现自给自足"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能园艺与全年收获：7步指南轻松实现自给自足"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.014138399999999999,
-      "why": "KI-Denken: Planificateur de Contenu YouTube & Analyse des Performances"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Contenu YouTube & Analyse des Performances"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.01407,
-      "why": "KI-Denken: Planificateur de Contenu YouTube & Suivi des Performances"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Contenu YouTube & Suivi des Performances"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.014235599999999998,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.0010068,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.014092799999999999,
-      "why": "KI-Denken: Planificateur de Contenu & Suivi des Dépenses YouTube"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Contenu & Suivi des Dépenses YouTube"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.014081999999999997,
-      "why": "KI-Denken: Planificateur de Contenu & ROI YouTube Professionnel"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Contenu & ROI YouTube Professionnel"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.0139992,
-      "why": "KI-Denken: Planificateur de Contenu & Suivi des Performances YouTube"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Contenu & Suivi des Performances YouTube"
-    },
     {
       "t": "2026-10-16T21:13:48",
       "eur": 0,
@@ -7802,6 +7773,116 @@
       "t": "2026-10-18T04:39:12",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597831262"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.015170399999999999,
+      "why": "KI-Denken: Planificador Profesional de Viajes y Lista de Equipaje"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.001032,
+      "why": "KI-Pruefung: Planificador Profesional de Viajes y Lista de Equipaje"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.0224952,
+      "why": "KI-Denken: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar Tus Ventas"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.0041364,
+      "why": "KI-Pruefung: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar Tus Ventas"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar Tus Ventas"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.015172799999999998,
+      "why": "KI-Denken: 智能协会活动预算 & 志愿者管理追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能协会活动预算 & 志愿者管理追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-18T11:16:22",
+      "eur": -0.0019631999999999996,
+      "why": "Audit: Planificador Profesional de Viajes y Lista de Equipaje"
+    },
+    {
+      "t": "2026-10-18T11:16:22",
+      "eur": -0.0038147999999999993,
+      "why": "Audit: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar"
+    },
+    {
+      "t": "2026-10-18T11:16:22",
+      "eur": -0.0022392,
+      "why": "Audit: 智能协会活动预算 & 志愿者管理追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.0012576,
+      "why": "Blog-Artikel: Frankfurt Skyline (fr)"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.0009732,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (de)"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.00045599999999999997,
+      "why": "Video-Skript: Rothenburg ob der Tauber"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597921543"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597943192"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
+    },
+    {
+      "t": "2026-10-18T11:11:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597921569"
     }
   ],
   "alive": true,
@@ -9175,6 +9256,22 @@
       "topic": "Hamburg Speicherstadt",
       "created": "2026-10-18T04:39:12",
       "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-allemagne-visite",
+      "title": "Frankfurt Skyline : Une métropole allemande entre tradition et modernité",
+      "lang": "fr",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-18T11:11:53",
+      "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-reisetipps",
+      "title": "Romantisches Rothenburg ob der Tauber: Märchenhafte Reisetipps",
+      "lang": "de",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-18T11:11:53",
+      "img": true
     }
   ],
   "videos": [
@@ -9876,6 +9973,16 @@
       "hashtags": "#Speicherstadt #Hamburgo #UNESCO #ViajesAlemania #CiudadesConEncanto",
       "voice": "Descubre la Speicherstadt, un tesoro en el corazón de Hamburgo. Este impresionante distrito, declarado Patrimonio de la Humanidad por la UNESCO, te transporta a otra época con sus icónicos edificios de ladrillo rojo y canales serenos. Explora museos fascinantes, disfruta de cafés con encanto y déjate envolver por su atmósfera única. ¡La Speicherstadt es una parada obligatoria en tu visita a Hamburgo!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-reisetipps",
+      "title": "Romantisches Rothenburg ob der Tauber: Märchenhafte Reisetipps",
+      "lang": "de",
+      "created": "2026-10-18T11:11:53",
+      "hashtags": "#RothenburgObDerTauber #Mittelalterstadt #DeutschlandReisen #HistorischeAltstadt #Stadtmauern",
+      "voice": "Willkommen in Rothenburg ob der Tauber, einem Juwel im Herzen Deutschlands! Tauche ein in die malerische Altstadt mit ihren verwinkelten Gassen, bunten Fachwerkhäusern und der beeindruckenden Stadtmauer. Hier wird Geschichte lebendig – jeder Schritt erzählt eine neue Geschichte. Ob bei einem Spaziergang entlang der Mauern oder beim Genießen der einzigartigen Atmosphäre: Rothenburg verzaubert jeden Besucher. Entdecke das märchenhafte Flair und erlebe unvergessliche Momente!",
+      "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
