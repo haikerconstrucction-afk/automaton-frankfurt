@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 453.7678,
-  "spent_eur": 50.9024,
+  "balance_eur": 452.7641,
+  "spent_eur": 51.9061,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4265,7 +4265,10 @@
       "audit_note": "Die Excel-Vorlage ist funktional und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Beispielzahlen in den Tabs sind klar als Beispiele erkennbar und dienen der Veranschaulichung der Funktionen. Die Sprache ist durchgängig korrekt (Chinesisch mit",
       "pay_url": "https://buy.stripe.com/bJe00k3jXfFV96u3ko2kw2D",
       "payment_link_id": "plink_1UORudJ5iOXkWb9Viip9eOUz",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4597831222"
+      }
     },
     {
       "type": "ebook",
@@ -4289,7 +4292,10 @@
       "audit_note": "Grundsätzlich nützliche Tipps, jedoch einige erfundene Prozentzahlen ohne Quellenangabe, die entfernt werden sollten.",
       "pay_url": "https://buy.stripe.com/fZu28sg6J3Xd6YmcUY2kw2E",
       "payment_link_id": "plink_1UORudJ5iOXkWb9VjPU0SgHi",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4597808881"
+      }
     },
     {
       "type": "excel",
@@ -4313,7 +4319,10 @@
       "audit_note": "Keine erfundenen Statistiken, Prozentzahlen oder Studien erkennbar. Sprache ist klar und einheitlich, keine Regelverstöße wie Gesundheitsversprechen, Rechtsberatung oder Markennutzung. Beispielrechnungen sind plausibel und klar als Beispiel markiert. Verbesserungspotenzial: Berechnete Kennzahlen kön",
       "pay_url": "https://buy.stripe.com/8x2aEYaMpalB6YmdZ22kw2F",
       "payment_link_id": "plink_1UOZulJ5iOXkWb9Vz96toszj",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4597831262"
+      }
     },
     {
       "type": "ebook",
@@ -6714,149 +6723,81 @@
       "pay_url": "https://buy.stripe.com/00waEY1bP0L1fuSg7a2kx09",
       "payment_link_id": "plink_1URg3wJ5iOXkWb9VJ32bFl2J",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu weniger Stress und mehr Übersicht",
+      "slug": "effiziente-vermieter-organisation-fuer-kleine-privatvermieter",
+      "price_eur": 5,
+      "target": "Private Vermieter mit 1-5 Wohnungen, die ihre Verwaltung optimieren möchten",
+      "reason": "Viele Privatvermieter mit wenigen Wohnungen fühlen sich von der Organisation überfordert, haben aber nicht das Budget für teure Software oder Dienstleister. Dieser Leitfaden füllt genau diese Lücke mit einfachen, sofort umsetzbaren Lösungen – das ist ein klarer Mehrwert für die Zielgruppe.",
+      "language": "de",
+      "pitch": "Mit diesem praktischen Leitfaden erhalten Sie konkrete Strategien zur Optimierung Ihrer Vermieter-Routine. Weniger Chaos, mehr Freizeit dank klarer Strukturen – ohne teure Software oder juristische Komplexität.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Basis-Dokumentation – Diese Unterlagen brauchen Sie wirklich</li><li>Kapitel 2: Der einheitliche Mietordner – Digital und analog richtig organisiert</li><li>Kapitel 3: Wartungszyklen clever planen – Wann was geprüft werden sollte</li><li>Kapitel 4: Kommunikation vereinfachen – Vorlagen für häufige Anfragen</li><li>Kapitel 5: Finanz-Übersicht behalten – Einnahmen/Ausgaben im Blick</li><li>Kapitel 6: Zeitsparende Tools – Einfache (kostenlose) Lösungen für den Alltag</li><li>Kapitel 7: Notfall-Checkliste – Was bei Wasserrohrbruch & Co. zu tun ist</li></ul>",
+      "pro": false,
+      "created": "2026-10-18T04:39:12",
+      "file": "effiziente-vermieter-organisation-fuer-kleine-privatvermieter-2c1a07d686ebcf02.pdf",
+      "size": 1824,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Studien, Statistiken oder Prozentzahlen. Es werden keine unzulässigen Beratungen (rechtlich, finanziell, medizinisch) angeboten, und es gibt keine Marken- oder Figurenverletzungen. Der Text ist komplett und enthält keine Platzhalter oder unfertige",
+      "pay_url": "https://buy.stripe.com/8x25kE7AddxN3Ma4os2kx0a",
+      "payment_link_id": "plink_1URm1eJ5iOXkWb9V7LjeDN1J",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Exam Preparation Budget & Progress Tracker for Students",
+      "slug": "ultimate-exam-prep-budget-progress-tracker",
+      "price_eur": 9,
+      "target": "students preparing for university and professional certification exams",
+      "reason": "Helps students visualize and control exam preparation costs while tracking study progress - addresses the key pain points of budget management and time organization during stressful exam periods.",
+      "language": "en",
+      "pitch": "Plan your study budget effectively while tracking progress across all subjects - never miss an exam deadline again with automatic reminders and spending visualization.",
+      "content_html": "<h2>Content</h2><p>Track study materials, tutoring costs, and progress for each subject in one place. Visual dashboard shows spending breakdowns and study time allocation.</p>",
+      "pro": true,
+      "created": "2026-10-18T04:39:12",
+      "file": "ultimate-exam-prep-budget-progress-tracker-4bf0f352c8a7d904.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar und verständlich ohne erfundene Zahlen, Statistiken oder Quellen. Die Beispielrechnungen sind plausibel und als solche erkennbar. Die Sprache ist konsistent Englisch und es gibt keine unfertigen Texte oder Platzhalter. Die Tabellen und Berechnungen sind sinnvoll und entsprechen d",
+      "pay_url": "https://buy.stripe.com/8x27sM6w9ctJ5Ui6wA2kx0b",
+      "payment_link_id": "plink_1URm1fJ5iOXkWb9VBn2S26Bg",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales",
+      "slug": "the-little-restaurant-success-kit",
+      "price_eur": 5,
+      "target": "Small restaurant and cafe owners (primarily women entrepreneurs)",
+      "reason": "This fills a gap in our offerings by providing specific, practical advice for small food businesses, a niche with steady demand. Unlike generic business advice, it addresses the unique challenges of small restaurants and cafes. The price point makes it accessible while clearly providing value through concrete, immediately applicable strategies and templates.",
+      "language": "en",
+      "pitch": "A practical step-by-step guide to increase foot traffic and revenue for small eateries without a big budget. Learn simple, actionable strategies that work.",
+      "content_html": "<h2>Content</h2><ul><li>Chapter 1: Creating Irresistible First Impressions</li><li>Chapter 2: Building a Loyal Local Following</li><li>Chapter 3: Social Media Magic for Small Restaurants</li><li>Chapter 4: Simple Menu Tweaks That Boost Profits</li><li>Chapter 5: Customer Experience Hacks</li><li>Chapter 6: Low-Cost Promotions That Really Work</li><li>Chapter 7: Building Your Restaurant's Unique Story</li><li>BONUS: 5 Templates You Can Use Today</li></ul>",
+      "pro": false,
+      "created": "2026-10-18T04:39:12",
+      "file": "the-little-restaurant-success-kit-2653455da0f82b64.pdf",
+      "size": 2141,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Text ist weitgehend korrekt und erfüllt die Regeln. Die Prozentzahl '10%' könnte als erfunden interpretiert werden, da keine Quelle oder allgemein bekannte Grundlage dafür angegeben ist. Es gibt jedoch keine klaren Regelverstöße oder sachlichen Fehler.",
+      "pay_url": "https://buy.stripe.com/5kQ3cw2fT3XdbeCaMQ2kx0c",
+      "payment_link_id": "plink_1URm1gJ5iOXkWb9VjNWkdAVT",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.0034019999999999996,
-      "why": "KI-Pruefung: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sales"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sales"
-    },
-    {
-      "t": "2026-10-16T13:26:53",
-      "eur": -0.0038063999999999997,
-      "why": "Audit: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr"
-    },
-    {
-      "t": "2026-10-16T13:26:53",
-      "eur": -0.0022535999999999997,
-      "why": "Audit: Ultimate Female Business Travel Planner: Budget, Itinerary & Packing List Tracke"
-    },
-    {
-      "t": "2026-10-16T13:26:53",
-      "eur": -0.0031211999999999998,
-      "why": "Audit: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sale"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.0011844,
-      "why": "Blog-Artikel: Frankfurt Skyline (es)"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.001446,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (fr)"
-    },
-    {
-      "t": "2026-10-16T13:17:56",
-      "eur": -0.0003467999999999999,
-      "why": "Video-Skript: Rothenburg ob der Tauber"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.014074799999999998,
-      "why": "KI-Denken: Gestión y Planificación de Eventos para Asociaciones"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.0011292,
-      "why": "KI-Pruefung: Gestión y Planificación de Eventos para Asociaciones"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.0196452,
-      "why": "KI-Denken: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.0041832,
-      "why": "KI-Pruefung: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.014195999999999999,
-      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.0010668,
-      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 8 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.014120399999999998,
-      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-16T18:10:43",
-      "eur": -0.0023388,
-      "why": "Audit: Gestión y Planificación de Eventos para Asociaciones"
-    },
-    {
-      "t": "2026-10-16T18:10:43",
-      "eur": -0.0036899999999999997,
-      "why": "Audit: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuid"
-    },
-    {
-      "t": "2026-10-16T18:10:43",
-      "eur": -0.0024384,
-      "why": "Audit: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-16T18:06:01",
-      "eur": -0.001284,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (de)"
-    },
     {
       "t": "2026-10-16T18:06:01",
       "eur": -0.0011076,
@@ -7716,6 +7657,151 @@
       "t": "2026-10-17T22:22:36",
       "eur": -0.0003276,
       "why": "Video-Skript: Saechsische Schweiz"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.0227652,
+      "why": "KI-Denken: Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu weniger Stress und mehr Übersicht"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.004109999999999999,
+      "why": "KI-Pruefung: Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu weniger Stress und mehr Übersicht"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.16,
+      "why": "KI-Bilder: Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu weniger Stress und mehr Übersicht"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.015756,
+      "why": "KI-Denken: Exam Preparation Budget & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.0015504,
+      "why": "KI-Pruefung: Exam Preparation Budget & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.014974799999999998,
+      "why": "KI-Denken: Ultimate Exam Prep Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': \"Formel 'Total' in 'Budget' nicht sinnvoll (fehlende Summierung). Preis fair, Funktionen grundlegend, aber Formelfehler.\"}"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.014942399999999998,
+      "why": "KI-Denken: Ultimate Exam Preparation Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Exam Preparation Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.021359999999999997,
+      "why": "KI-Denken: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.0033804,
+      "why": "KI-Pruefung: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales"
+    },
+    {
+      "t": "2026-10-18T04:48:23",
+      "eur": -0.0038627999999999996,
+      "why": "Audit: Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu wenig"
+    },
+    {
+      "t": "2026-10-18T04:48:23",
+      "eur": -0.002238,
+      "why": "Audit: Ultimate Exam Preparation Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-18T04:48:23",
+      "eur": -0.0031511999999999994,
+      "why": "Audit: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Bo"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.0012203999999999997,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (zh)"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.0017892,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (es)"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.00042599999999999995,
+      "why": "Video-Skript: Hamburg Speicherstadt"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能考试预算与复习计划追踪器"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597831222"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597808881"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
+    },
+    {
+      "t": "2026-10-18T04:39:12",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597831262"
     }
   ],
   "alive": true,
@@ -9073,6 +9159,22 @@
       "topic": "Saechsische Schweiz",
       "created": "2026-10-17T22:22:36",
       "img": true
+    },
+    {
+      "slug": "deutschland-ruegen-kreidefelsen-reiseblog",
+      "title": "探索德国吕根岛白垩崖：自然与历史的完美结合",
+      "lang": "zh",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-18T04:39:12",
+      "img": true
+    },
+    {
+      "slug": "descubre-la-magia-de-la-speicherstadt-en-hamburgo",
+      "title": "Descubre la magia de la Speicherstadt en Hamburgo",
+      "lang": "es",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-18T04:39:12",
+      "img": true
     }
   ],
   "videos": [
@@ -9764,6 +9866,16 @@
       "hashtags": "#SaxonSwitzerland #GermanyTravel #NatureLovers #HikingAdventure #HiddenGem",
       "voice": "Discover the magical Saxon Switzerland! Just a short trip from Dresden, this national park stuns with its legendary Bastei Bridge, towering sandstone peaks, and lush forests. Adventure seekers love the epic hiking trails with panoramic Elbe River views, while photographers chase fairytale sunrises over misty cliffs. Feel the thrill of climbing legendary peaks or step back in time at medieval Königstein Fortress. Your unforgettable nature escape awaits!",
       "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-la-magia-de-la-speicherstadt-en-hamburgo",
+      "title": "Descubre la magia de la Speicherstadt en Hamburgo",
+      "lang": "es",
+      "created": "2026-10-18T04:39:12",
+      "hashtags": "#Speicherstadt #Hamburgo #UNESCO #ViajesAlemania #CiudadesConEncanto",
+      "voice": "Descubre la Speicherstadt, un tesoro en el corazón de Hamburgo. Este impresionante distrito, declarado Patrimonio de la Humanidad por la UNESCO, te transporta a otra época con sus icónicos edificios de ladrillo rojo y canales serenos. Explora museos fascinantes, disfruta de cafés con encanto y déjate envolver por su atmósfera única. ¡La Speicherstadt es una parada obligatoria en tu visita a Hamburgo!",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
