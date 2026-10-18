@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 451.9643,
-  "spent_eur": 52.7059,
+  "balance_eur": 451.5449,
+  "spent_eur": 53.1253,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -6876,119 +6876,81 @@
       "pay_url": "https://buy.stripe.com/dRm14o9Il3XdeqO3ko2kx0f",
       "payment_link_id": "plink_1URs4xJ5iOXkWb9Vx6tY5FMI",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南",
+      "slug": "7-jian-dan-bu-zhou-rang-ni-de-gou-gou-geng-kuai-le-mang-lu-zhu-ren-de-shi-yong-zhi-nan",
+      "price_eur": 5,
+      "target": "中国、台湾、新加坡的忙碌狗主人",
+      "reason": "中国市场宠物狗数量快速增长但许多城市主人缺乏实用指导，这本电子书以简洁直接的步骤填补了这一实际需求空白。",
+      "language": "zh",
+      "pitch": "这本电子书提供了7个简单实用的步骤帮助忙碌的主人改善狗狗的生活质量，无需花费大量时间或金钱。特别适合城市生活的爱犬人士。",
+      "content_html": "<h2>内容</h2><ul><li>第一章：了解你的狗狗的基本需求</li><li>第二章：5分钟玩耍时间的神奇效果</li><li>第三章：低成本自制健康狗粮</li><li>第四章：小空间中的运动创意</li><li>第五章：减压技巧与抚摸方法</li><li>第六章：社交化训练入门指南</li><li>第七章：建立信任的日常仪式</li></ul>+ 第二章完整阅读样本",
+      "pro": false,
+      "created": "2026-10-18T15:55:16",
+      "file": "7-jian-dan-bu-zhou-rang-ni-de-gou-gou-geng-kuai-le-mang-lu-zhu-ren-de-shi-yong-zhi-nan-18932273c7ff0a7e.pdf",
+      "size": 1860,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Der Text ist klar und sachlich korrekt, ohne unfertige Stellen, Platzhalter oder Wiederholungen. Es werden keine Gesundheitsversprechen, Finanz- oder Rechtsberatung gegeben. Es handelt sich um allgemein bekannte Ti",
+      "pay_url": "https://buy.stripe.com/6oU00k3jXdxN2I63ko2kx0g",
+      "payment_link_id": "plink_1URwaXJ5iOXkWb9VWLjWfU9P",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier",
+      "slug": "planificateur-demenagement-renovation-budget-calendrier",
+      "price_eur": 9,
+      "target": "Professionnels et particuliers en cours de déménagement ou rénovation",
+      "reason": "Ce modèle comble un besoin fort en période de déménagement ou rénovation où la gestion du budget et du calendrier est cruciale. Il permet de tout centraliser, éviter les oublis et garder le contrôle sur les dépenses - ce qui justifie parfaitement son prix.",
+      "language": "fr",
+      "pitch": "Gérez votre budget de déménagement et rénovation en un clin d'œil avec ce planificateur tout-en-un. Suivez les dépenses, les délais et les priorités pour un projet sans stress.",
+      "content_html": "<h2>Contenu</h2><p>Ce modèle professionnel comprend tous les outils nécessaires pour organiser et suivre votre projet de déménagement ou rénovation : budget détaillé, calendrier des tâches, liste des fournisseurs et suivi des paiements.</p>",
+      "pro": true,
+      "created": "2026-10-18T15:55:16",
+      "file": "planificateur-demenagement-renovation-budget-calendrier-fba4e1dd6bd68e3f.xlsx",
+      "size": 20,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar, professionell und ohne Verstöße gegen die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist konsistent Französisch, ohne Platzhalter oder unfertige Texte. Die Excel-Formeln sind sinnvoll und die berechneten Kennzahlen plausibel. Die allgem",
+      "pay_url": "https://buy.stripe.com/4gM3cw1bP2T91E24os2kx0h",
+      "payment_link_id": "plink_1URwaYJ5iOXkWb9VEfzttlfx",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'année",
+      "slug": "le-petit-jardin-autonome",
+      "price_eur": 5,
+      "target": "Jardiniers débutants et autosuffisants en milieu urbain ou rural",
+      "reason": "Ce guide comble un besoin pour les francophones débutants en jardinage autonome, avec des méthodes adaptées aux petits espaces et des solutions éprouvées. Le prix modeste est justifié par la valeur pratique immédiate et les économies générées.",
+      "language": "fr",
+      "pitch": "Découvrez comment créer un potager durable et productif même dans un petit espace. Des méthodes simples avec des résultats surprenants dès la première récolte.",
+      "content_html": "<h2>Contenu</h2><ul><li>Chapitre 1 : Choisir son emplacement idéal</li><li>Chapitre 2 : Préparer le sol sans effort</li><li>Chapitre 3 : Sélectionner les bons légumes pour chaque saison</li><li>Chapitre 4 : Arrosage intelligent et paillage</li><li>Chapitre 5 : Protéger naturellement ses cultures</li><li>Chapitre 6 : Récolter et conserver ses légumes</li><li>Chapitre 7 : Préparer l'hiver et planifier l'année suivante</li></ul>",
+      "pro": false,
+      "created": "2026-10-18T15:55:16",
+      "file": "le-petit-jardin-autonome-6d2be178fcd4de4a.pdf",
+      "size": 1865,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist legal, ehrlich und entspricht den Regeln. Es wurden keine erfundenen Studien, Statistiken oder Zahlen verwendet. Der Text bietet praktische Tipps zur Gartenarbeit ohne Gesundheitsversprechen, Rechts- oder Finanzberatung. Die Sprache ist korrekt und konsistent.",
+      "pay_url": "https://buy.stripe.com/3cIaEY6w93Xd6Ymg7a2kx0i",
+      "payment_link_id": "plink_1URwaZJ5iOXkWb9VmjgbCv7V",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-16T21:21:36",
-      "eur": -0.003942,
-      "why": "Audit: 智能园艺与全年收获：7步指南轻松实现自给自足"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": 0,
-      "why": "Audit: 1 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.0012504,
-      "why": "Blog-Artikel: Harz Brocken (zh)"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.0014724,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (es)"
-    },
-    {
-      "t": "2026-10-16T21:13:48",
-      "eur": -0.0004608,
-      "why": "Video-Skript: Nordsee Wattenmeer"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.014049599999999999,
-      "why": "KI-Denken: Planificateur de Contenu & Suivi des Performances YouTube"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Contenu & Suivi des Performances YouTube"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 63 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.014462399999999999,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.0011748,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.019814399999999996,
-      "why": "KI-Denken: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.0038255999999999997,
-      "why": "KI-Pruefung: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.014312399999999998,
-      "why": "KI-Denken: Senior Care & Medication Tracker"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care & Medication Tracker"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.014873999999999998,
-      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.0014927999999999999,
-      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-10-17T00:32:06",
       "eur": -0.014349599999999999,
@@ -7883,6 +7845,111 @@
       "t": "2026-10-18T11:11:53",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597921569"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): string indices must be integers, not 'str'"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.0207384,
+      "why": "KI-Denken: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.004266,
+      "why": "KI-Pruefung: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.015531599999999998,
+      "why": "KI-Denken: Planificateur de Déménagement & Rénovation : Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.0010704,
+      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation : Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.016295999999999998,
+      "why": "KI-Denken: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.001644,
+      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.022204799999999993,
+      "why": "KI-Denken: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'année"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.004068,
+      "why": "KI-Pruefung: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'année"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'année"
+    },
+    {
+      "t": "2026-10-18T16:05:15",
+      "eur": -0.004303199999999999,
+      "why": "Audit: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
+    },
+    {
+      "t": "2026-10-18T16:05:15",
+      "eur": -0.0028307999999999996,
+      "why": "Audit: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-10-18T16:05:15",
+      "eur": -0.0038291999999999996,
+      "why": "Audit: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'an"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.0013043999999999998,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (en)"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.0010164,
+      "why": "Blog-Artikel: Dresden Frauenkirche (zh)"
+    },
+    {
+      "t": "2026-10-18T15:55:16",
+      "eur": -0.00036239999999999997,
+      "why": "Video-Skript: Dresden Frauenkirche"
     }
   ],
   "alive": true,
@@ -9272,6 +9339,22 @@
       "topic": "Rothenburg ob der Tauber",
       "created": "2026-10-18T11:11:53",
       "img": true
+    },
+    {
+      "slug": "discover-brandenburg-gate-berlin",
+      "title": "Discover the Iconic Brandenburg Gate in Berlin",
+      "lang": "en",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-18T15:55:16",
+      "img": true
+    },
+    {
+      "slug": "explore-dresden-frauenkirche-germany",
+      "title": "探索德累斯顿圣母教堂：历史与现代的交汇",
+      "lang": "zh",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-18T15:55:16",
+      "img": true
     }
   ],
   "videos": [
@@ -9983,6 +10066,16 @@
       "hashtags": "#RothenburgObDerTauber #Mittelalterstadt #DeutschlandReisen #HistorischeAltstadt #Stadtmauern",
       "voice": "Willkommen in Rothenburg ob der Tauber, einem Juwel im Herzen Deutschlands! Tauche ein in die malerische Altstadt mit ihren verwinkelten Gassen, bunten Fachwerkhäusern und der beeindruckenden Stadtmauer. Hier wird Geschichte lebendig – jeder Schritt erzählt eine neue Geschichte. Ob bei einem Spaziergang entlang der Mauern oder beim Genießen der einzigartigen Atmosphäre: Rothenburg verzaubert jeden Besucher. Entdecke das märchenhafte Flair und erlebe unvergessliche Momente!",
       "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "explore-dresden-frauenkirche-germany",
+      "title": "探索德累斯顿圣母教堂：历史与现代的交汇",
+      "lang": "zh",
+      "created": "2026-10-18T15:55:16",
+      "hashtags": "#德累斯顿圣母教堂 #德国旅行 #历史建筑 #巴洛克风格 #和平象征",
+      "voice": "德累斯顿圣母教堂是德国最著名的地标之一。这座宏伟的巴洛克建筑见证了历史的变迁，曾在二战中被毁，却以惊人的毅力在2005年重获新生。如今，它不仅是建筑奇迹，更是和平与希望的象征。教堂的砂岩外墙和壮观圆顶令人叹为观止，是每个游客必访之地。来这里感受历史与建筑的交融，体验心灵的震撼！",
+      "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
