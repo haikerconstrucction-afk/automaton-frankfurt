@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 451.5449,
-  "spent_eur": 53.1253,
+  "balance_eur": 451.2471,
+  "spent_eur": 53.4231,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -6948,149 +6948,81 @@
       "pay_url": "https://buy.stripe.com/3cIaEY6w93Xd6Ymg7a2kx0i",
       "payment_link_id": "plink_1URwaZJ5iOXkWb9VmjgbCv7V",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Content ROI Tracker & Budget Planner",
+      "slug": "youtube-content-roi-tracker-budget-planner",
+      "price_eur": 9,
+      "target": "Content Creator and YouTube",
+      "reason": "This template provides YouTube creators with a professional tool to track video performance and manage their content budget effectively, maximizing ROI and ensuring long-term success.",
+      "language": "en",
+      "pitch": "Maximize your YouTube earnings with this professional Excel template that tracks video performance, calculates ROI, and manages your content budget efficiently.",
+      "content_html": "<h2>Inhalt</h2><p>Track your video performance, calculate return on investment (ROI), and plan your content budget effectively with this comprehensive Excel template. Perfect for YouTube creators who want to maximize their earnings and optimize their content strategy.</p>",
+      "pro": true,
+      "created": "2026-10-18T18:40:27",
+      "file": "youtube-content-roi-tracker-budget-planner-f4f1e2a1f2b3c562.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine offensichtlichen Regelverstöße. Das Produkt ist eine einfache Excel-Vorlage ohne erfundene Studien, Statistiken oder Gesundheitsversprechen. Alle Berechnungen und Beispieldaten sind klar als solche gekennzeichnet. Die Sprache ist konsistent und keine Platzhalter oder unfertigen Texte vorhanden",
+      "pay_url": "https://buy.stripe.com/cNicN68EhbpF0zY8EI2kx0j",
+      "payment_link_id": "plink_1URz7vJ5iOXkWb9VLpW2bb9X",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators",
+      "slug": "the-teachers-time-saver-toolkit",
+      "price_eur": 5,
+      "target": "Teachers and tutors looking for practical ways to save time and improve efficiency in their daily routines.",
+      "reason": "Teachers often struggle with balancing their workload and personal life. This eBook provides practical, actionable strategies to help them save time and reduce stress, making it a valuable resource for educators.",
+      "language": "en",
+      "pitch": "Discover 6 proven strategies to streamline your workload and focus on what truly matters: teaching.",
+      "content_html": "<h2>Inhalt</h2> <p>This eBook provides practical tips and actionable steps to help teachers manage their time effectively, reduce stress, and improve classroom outcomes. Each chapter includes real-life examples and easy-to-implement strategies.</p>",
+      "pro": false,
+      "created": "2026-10-18T18:40:27",
+      "file": "the-teachers-time-saver-toolkit-33f0baabe16a5834.pdf",
+      "size": 1840,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist ehrlich, legal und frei von kopierten Werken oder fremden Marken. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Das E-Book bietet praktische, allgemein bekannte Strategien und eigene Praxistipps für Lehrer, ohne finanzielle, rechtliche oder gesundheitsb",
+      "pay_url": "https://buy.stripe.com/aFa6oIbQt3XdeqOdZ22kx0k",
+      "payment_link_id": "plink_1URz7wJ5iOXkWb9VKaPj8LQr",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Pflegekosten-Tracker & Budgetplaner für Angehörige",
+      "slug": "pflegekosten-tracker-budgetplaner",
+      "price_eur": 14,
+      "target": "Pflegende Angehörige und Seniorenorganisationen",
+      "reason": "Dieses Tool füllt eine wichtige Lücke für pflegende Angehörige, die oft unter Zeitdruck stehen und ihre Ausgaben für Pflegeleistungen systematisch erfassen müssen. Die automatischen Berechnungen und Übersichten sparen wertvolle Zeit und helfen beim Budgetmanagement.",
+      "language": "de",
+      "pitch": "Professionelle Budgetplanung und Kostenkontrolle für die häusliche Pflege – sparen Sie Zeit und behalten Sie alle Ausgaben im Blick.",
+      "content_html": "<h2>Inhalt</h2><p>Umfassende Excel-Lösung zur Nachverfolgung aller Pflegekosten mit automatischen Berechnungen, Übersichten und Analysen. Ideal für pflegende Angehörige und kleine Pflegeorganisationen.</p>",
+      "pro": true,
+      "created": "2026-10-18T18:40:27",
+      "file": "pflegekosten-tracker-budgetplaner-217ceffc8b57ee9c.xlsx",
+      "size": 18,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Alle Berechnungen basieren auf Benutzereingaben und sind klar als Beispiel gekennzeichnet. Keine Rechts- oder Finanzberatung, keine Gesundheitsversprechen. Das Produkt entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/bJeaEYdYBfFVfuScUY2kx0l",
+      "payment_link_id": "plink_1URz7xJ5iOXkWb9VK9Tqrd8r",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.014349599999999999,
-      "why": "KI-Denken: Senior Care Expense Tracker & Medication Planner"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.0011028,
-      "why": "KI-Pruefung: Senior Care Expense Tracker & Medication Planner"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.014204399999999999,
-      "why": "KI-Denken: Senior Care Expense & Medication Tracker for Caregivers & Families"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Expense & Medication Tracker for Caregivers & Families"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-17T00:39:40",
-      "eur": -0.0024155999999999995,
-      "why": "Audit: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-17T00:39:40",
-      "eur": -0.0036107999999999995,
-      "why": "Audit: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.0011867999999999998,
-      "why": "Blog-Artikel: Muenchen Marienplatz (fr)"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.0010379999999999999,
-      "why": "Blog-Artikel: Eifel Maare (de)"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.0004116,
-      "why": "Video-Skript: Eifel Maare"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Baustellen-Material- & Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597088015"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Abenteuer im Traumland: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597088035"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-17T00:32:06",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597108542"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.0142692,
-      "why": "KI-Denken: Senior Care Expense Tracker & Medication Planner"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Expense Tracker & Medication Planner"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 6 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.014155199999999998,
-      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner for Families & Organizations"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner for Families & Organizations"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.014209199999999998,
-      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
-    },
     {
       "t": "2026-10-17T07:00:16",
       "eur": -0.020666399999999994,
@@ -7950,6 +7882,146 @@
       "t": "2026-10-18T15:55:16",
       "eur": -0.00036239999999999997,
       "why": "Video-Skript: Dresden Frauenkirche"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.015303599999999999,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.020856000000000003,
+      "why": "KI-Denken: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.0032855999999999996,
+      "why": "KI-Pruefung: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.015614399999999999,
+      "why": "KI-Denken: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.0010355999999999998,
+      "why": "KI-Pruefung: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.0155832,
+      "why": "KI-Denken: Senioren-Pflegekosten-Tracker & Budgetplaner"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senioren-Pflegekosten-Tracker & Budgetplaner"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.015941999999999998,
+      "why": "KI-Denken: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.0011748,
+      "why": "KI-Pruefung: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.0154524,
+      "why": "KI-Denken: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.0159072,
+      "why": "KI-Denken: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.0014543999999999998,
+      "why": "KI-Pruefung: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-18T18:47:38",
+      "eur": -0.0025992,
+      "why": "Audit: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-18T18:47:38",
+      "eur": -0.0031367999999999995,
+      "why": "Audit: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
+    },
+    {
+      "t": "2026-10-18T18:47:38",
+      "eur": -0.0039372,
+      "why": "Audit: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.0016331999999999998,
+      "why": "Blog-Artikel: Harz Brocken (es)"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.0014543999999999998,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (fr)"
+    },
+    {
+      "t": "2026-10-18T18:40:27",
+      "eur": -0.00041519999999999995,
+      "why": "Video-Skript: Nordsee Wattenmeer"
     }
   ],
   "alive": true,
@@ -9355,6 +9427,22 @@
       "topic": "Dresden Frauenkirche",
       "created": "2026-10-18T15:55:16",
       "img": true
+    },
+    {
+      "slug": "descubriendo-el-magico-brocken-en-las-montanas-del-harz-alem",
+      "title": "Descubriendo el mágico Brocken en las montañas del Harz, Alemania",
+      "lang": "es",
+      "topic": "Harz Brocken",
+      "created": "2026-10-18T18:40:27",
+      "img": true
+    },
+    {
+      "slug": "decouverte-mer-wadden-allemagne",
+      "title": "Découvrez la magie du parc national de la mer des Wadden en Allemagne",
+      "lang": "fr",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-18T18:40:27",
+      "img": true
     }
   ],
   "videos": [
@@ -10076,6 +10164,16 @@
       "hashtags": "#德累斯顿圣母教堂 #德国旅行 #历史建筑 #巴洛克风格 #和平象征",
       "voice": "德累斯顿圣母教堂是德国最著名的地标之一。这座宏伟的巴洛克建筑见证了历史的变迁，曾在二战中被毁，却以惊人的毅力在2005年重获新生。如今，它不仅是建筑奇迹，更是和平与希望的象征。教堂的砂岩外墙和壮观圆顶令人叹为观止，是每个游客必访之地。来这里感受历史与建筑的交融，体验心灵的震撼！",
       "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouverte-mer-wadden-allemagne",
+      "title": "Découvrez la magie du parc national de la mer des Wadden en Allemagne",
+      "lang": "fr",
+      "created": "2026-10-18T18:40:27",
+      "hashtags": "#Wattenmeer #Nature #UNESCO #Allemagne #Ecotourisme",
+      "voice": "Plongez dans l’univers fascinant du Wattenmeer de la mer du Nord en Allemagne, un écosystème d’une richesse inestimable. À marée basse, explorez les fonds marins où la vie foisonne. Participez à des randonnées guidées et découvrez un paysage hors du temps. Observez phoques et oiseaux migrateurs dans cette réserve de biosphère classée par l’UNESCO. Une aventure nature à ne pas manquer !",
+      "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
