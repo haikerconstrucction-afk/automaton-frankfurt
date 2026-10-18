@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 451.2471,
-  "spent_eur": 53.4231,
+  "balance_eur": 450.8471,
+  "spent_eur": 53.8231,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -7020,94 +7020,81 @@
       "pay_url": "https://buy.stripe.com/bJeaEYdYBfFVfuScUY2kx0l",
       "payment_link_id": "plink_1URz7xJ5iOXkWb9VK9Tqrd8r",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen mit smarten Tools",
+      "slug": "digitale-entlastung-selbststaendige-tools",
+      "price_eur": 7,
+      "target": "Selbstständige und Freelancer, die ihren Arbeitsalltag mit digitalen Tools effizienter gestalten wollen",
+      "reason": "Viele Selbstständige wissen nicht, wie einfach sie ihren Arbeitsalltag mit digitalen Tools optimieren können. Dieser Guide bietet konkrete, sofort umsetzbare Lösungen für häufigste Zeitfresser - ohne technisches Vorwissen vorauszusetzen. Der Preis ist gerechtfertigt, da bereits eine der gezeigten Methoden täglich 30+ Minuten einspart.",
+      "language": "de",
+      "pitch": "Lernen Sie 7 praxiserprobte Tools kennen, die Ihnen täglich 2+ Stunden Zeit sparen. Inklusive Schritt-für-Schritt-Anleitungen für sofortige Umsetzung.",
+      "content_html": "<h2>Inhalt</h2><ol><li>Die besten kostenlosen Tools für Zeitersparnis</li><li>E-Mail-Automatisierung in 10 Minuten einrichten</li><li>Wiederkehrende Aufgaben voll automatisieren</li><li>Terminplanung ohne lästiges Hin und Her</li><li>Dokumente blitzschnell organisieren und wiederfinden</li><li>Finanzbuchhaltung mit Smartphone erledigen</li><li>Tägliche Routinen optimieren</li></ol>",
+      "pro": false,
+      "created": "2026-10-18T22:28:09",
+      "file": "digitale-entlastung-selbststaendige-tools-cc65c369cd6d4c71.pdf",
+      "size": 1524,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich an die Regeln, enthält keine erfundenen Statistiken oder gesundheitsbezogenen Versprechen. Es werden allgemein bekannte Tools wie Trello, Google Calendar und Canva erwähnt, ohne spezifische Leistungsversprechen zu machen. Die Sprache ist konsistent und klar, ohne Platzhalter ode",
+      "pay_url": "https://buy.stripe.com/28E00k4o179paaydZ22kx0m",
+      "payment_link_id": "plink_1US2f7J5iOXkWb9VoqYm230C",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers",
+      "slug": "black-forest-travel-budget-tracker",
+      "price_eur": 9,
+      "target": "Female travelers planning a trip to the Black Forest in Germany who want to manage their travel budget professionally",
+      "reason": "This tracker solves the specific pain point of managing travel expenses for female travelers visiting the Black Forest. The currency conversion, detailed itinerary planning, and visual expense breakdown provide clear value over manual methods, justifying the premium price.",
+      "language": "en",
+      "pitch": "Take the stress out of travel budgeting with this elegant Excel tracker designed for women exploring the Black Forest. Monitor expenses in real-time and enjoy your trip without financial worries.",
+      "content_html": "<h2>Content</h2><p>Professional travel budget planner with expense tracking, itinerary overview, and insightful analytics for your Black Forest adventure.</p>",
+      "pro": true,
+      "created": "2026-10-18T22:28:09",
+      "file": "black-forest-travel-budget-tracker-690bd88ebc443b6a.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt enthält keine erfunden Zahlen, Statistiken oder falschen Behauptungen. Es ist klar strukturiert, enthält keine Platzhalter oder unfertigen Texte und bietet nützliche Funktionen wie Budgettracking und Itinerary-Planung. Die Formeln sind korrekt und sinnvoll. Lediglich für die Beispielrech",
+      "pay_url": "https://buy.stripe.com/7sYcN6dYB0L1gyWg7a2kx0n",
+      "payment_link_id": "plink_1US2f8J5iOXkWb9VCWmqeCwx",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers",
+      "slug": "saarland-mosel-hidden-gems-female-travel-guide",
+      "price_eur": 5,
+      "target": "Female travelers and digital nomads looking for authentic experiences in Saarland and Mosel region",
+      "reason": "Many travel guides overlook the Saarland-Mosel region's unique feminine charm. This fills a gap by combining practical navigation tips with culturally rich experiences women particularly appreciate, presented in an accessible format perfect for mobile reading during trips.",
+      "language": "en",
+      "pitch": "Discover off-the-beaten-path locations with safety tips and local insights. Perfect for solo travelers seeking cultural adventures without compromising comfort.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: Secret Vineyard Trails with Panoramic Views</li><li>Chapter 2: Cozy Family-Run Cafés with Local Delicacies</li><li>Chapter 3: Safe Forest Bathing Spots Away From Crowds</li><li>Chapter 4: Women-Owned Boutiques for Authentic Souvenirs</li><li>Chapter 5: Scenic River Walks with Photo Opportunities</li><li>Chapter 6: Evening Stargazing Locations with Public Transport</li><li>Bonus: Essential German Phrases for Seamless Travel</li></ul>",
+      "pro": false,
+      "created": "2026-10-18T22:28:09",
+      "file": "saarland-mosel-hidden-gems-female-travel-guide-94ff6028232a6be3.pdf",
+      "size": 1845,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Zahlen, Statistiken oder Quellen, keine falsche Sprache, keine unfertigen Texte oder Platzhalter, keine Rechts-, Steuer-, Finanz- oder Medizinberatung, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Der Text ist klar, informativ und bie",
+      "pay_url": "https://buy.stripe.com/dRm5kEg6J79p5Ui9IM2kx0o",
+      "payment_link_id": "plink_1US2f8J5iOXkWb9VHFJc5dIn",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.020666399999999994,
-      "why": "KI-Denken: The Freelancer's Guide to Stress-Free Productivity: 7 Simple Steps to More Focus & Less Overwhelm"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.0033911999999999996,
-      "why": "KI-Pruefung: The Freelancer's Guide to Stress-Free Productivity: 7 Simple Steps to More Focus & Less Overwhelm"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Freelancer's Guide to Stress-Free Productivity: 7 Simple Steps to More Focus & Less Overwhelm"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.0147216,
-      "why": "KI-Denken: Schwarzwald-Reisebudget-Tracker & Zieleplaner für internationale Gäste"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.0013043999999999998,
-      "why": "KI-Pruefung: Schwarzwald-Reisebudget-Tracker & Zieleplaner für internationale Gäste"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.014249999999999999,
-      "why": "KI-Denken: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-17T07:07:07",
-      "eur": -0.0023183999999999995,
-      "why": "Audit: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
-    },
-    {
-      "t": "2026-10-17T07:07:07",
-      "eur": -0.0031236,
-      "why": "Audit: The Freelancer's Guide to Stress-Free Productivity: 7 Simple Steps to More Focus"
-    },
-    {
-      "t": "2026-10-17T07:07:07",
-      "eur": -0.0021455999999999997,
-      "why": "Audit: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.0011028,
-      "why": "Blog-Artikel: Rheingau Weinberge (en)"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.0013452,
-      "why": "Blog-Artikel: Schwarzwald (es)"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.00038879999999999996,
-      "why": "Video-Skript: Schwarzwald"
-    },
     {
       "t": "2026-10-17T07:00:16",
       "eur": -0.19,
@@ -8022,6 +8009,91 @@
       "t": "2026-10-18T18:40:27",
       "eur": -0.00041519999999999995,
       "why": "Video-Skript: Nordsee Wattenmeer"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.021681599999999995,
+      "why": "KI-Denken: 7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen mit smarten Tools"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.0039108,
+      "why": "KI-Pruefung: 7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen mit smarten Tools"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen mit smarten Tools"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.0159996,
+      "why": "KI-Denken: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.0011531999999999998,
+      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.020809199999999996,
+      "why": "KI-Denken: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.0034056,
+      "why": "KI-Pruefung: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.16,
+      "why": "KI-Bilder: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
+    },
+    {
+      "t": "2026-10-18T22:34:25",
+      "eur": -0.0036996,
+      "why": "Audit: 7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen"
+    },
+    {
+      "t": "2026-10-18T22:34:25",
+      "eur": -0.0031859999999999996,
+      "why": "Audit: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travele"
+    },
+    {
+      "t": "2026-10-18T22:34:25",
+      "eur": -0.0032963999999999997,
+      "why": "Audit: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.001332,
+      "why": "Blog-Artikel: Muenchen Marienplatz (de)"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.0011339999999999998,
+      "why": "Blog-Artikel: Eifel Maare (en)"
+    },
+    {
+      "t": "2026-10-18T22:28:09",
+      "eur": -0.00037079999999999996,
+      "why": "Video-Skript: Eifel Maare"
     }
   ],
   "alive": true,
@@ -9442,6 +9514,22 @@
       "lang": "fr",
       "topic": "Nordsee Wattenmeer",
       "created": "2026-10-18T18:40:27",
+      "img": true
+    },
+    {
+      "slug": "muenchen-marienplatz-herz-der-bayerischen-hauptstadt",
+      "title": "München Marienplatz: Herz der bayerischen Hauptstadt",
+      "lang": "de",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-18T22:28:09",
+      "img": true
+    },
+    {
+      "slug": "exploring-eifel-maare-germanys-natural-hidden-gems",
+      "title": "Exploring the Eifel Maare: Germany's Natural Hidden Gems",
+      "lang": "en",
+      "topic": "Eifel Maare",
+      "created": "2026-10-18T22:28:09",
       "img": true
     }
   ],
