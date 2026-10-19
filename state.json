@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 449.9752,
-  "spent_eur": 54.695,
+  "balance_eur": 449.1116,
+  "spent_eur": 55.5586,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4508,7 +4508,10 @@
       "audit_note": "Der Inhalt ist größtenteils ehrlich und praktisch orientiert, enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es gibt keine Gesundheitsversprechen, keine fremden Marken/Figuren und keine Rechts-/Finanz-/Steuerberatung. Der Text ist komplett und enthält keine Platzhalter oder unfert",
       "pay_url": "https://buy.stripe.com/6oU5kE8EhdxNdmK3ko2kw2M",
       "payment_link_id": "plink_1UOmamJ5iOXkWb9VRdy3MXoP",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4598684838"
+      }
     },
     {
       "type": "excel",
@@ -4532,7 +4535,10 @@
       "audit_note": "Das Produkt erfüllt alle Anforderungen: Keine erfundenen Studien/Statistiken, klare Funktionsbeschreibung ohne falsche Versprechen, korrekte Excel-Formeln und Beispieldaten. Die Beispielberechnungen sind plausibel. Keine Regelverstöße feststellbar.",
       "pay_url": "https://buy.stripe.com/fZufZi3jXdxN5Ui6wA2kw2N",
       "payment_link_id": "plink_1UOtMNJ5iOXkWb9VEW1GGYT9",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4598661965"
+      }
     },
     {
       "type": "ebook",
@@ -4556,7 +4562,10 @@
       "audit_note": "Enthält eine spezifische Prozentzahl (30%), die möglicherweise erfunden ist, da keine allgemein bekannte Grundlage dafür erkennbar ist. Der Rest des Inhalts entspricht den Regeln und ist größtenteils frei von erfundenen Statistiken oder unzulässigen Angaben.",
       "pay_url": "https://buy.stripe.com/4gM14o2fT2T91E2bQU2kw2O",
       "payment_link_id": "plink_1UOtMOJ5iOXkWb9VzKTQun8m",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4598662003"
+      }
     },
     {
       "type": "excel",
@@ -7149,179 +7158,57 @@
       "pay_url": "https://buy.stripe.com/3cIfZi7AdctJ96u6wA2kx0q",
       "payment_link_id": "plink_1US8avJ5iOXkWb9VUVCExFNw",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能德国北海与波罗的海旅行预算追踪器 - 2026专业版",
+      "slug": "german-north-sea-baltic-sea-travel-budget-tracker-2026",
+      "price_eur": 9,
+      "target": "中国、台湾、新加坡的自助旅行爱好者",
+      "reason": "这款模板为旅行者提供了一个简单直观的方式来跟踪和管理他们的旅行预算，确保他们能够更好地控制财务状况，享受无忧的旅行体验。",
+      "language": "zh",
+      "pitch": "轻松规划和管理您的德国北海与波罗的海旅行预算，确保每一分钱都花在刀刃上。",
+      "content_html": "<h2>内容</h2><p>这款Excel模板专为计划前往德国北海和波罗的海的旅行者设计，帮助您跟踪和管理旅行预算，确保财务无忧。</p>",
+      "pro": true,
+      "created": "2026-10-19T13:23:40",
+      "file": "german-north-sea-baltic-sea-travel-budget-tracker-2026-d978297434be86a9.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Zahlen. Das Produkt ist ein funktionaler Budget-Tracker ohne falsche Behauptungen oder Regelverstöße. Alle Berechnungen basieren auf Benutzereingaben und sind plausibel.",
+      "pay_url": "https://buy.stripe.com/cNi8wQdYBctJ96u08c2kx0r",
+      "payment_link_id": "plink_1USGf2J5iOXkWb9VqlooVmeX",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南",
+      "slug": "intelligent-exploration-germany-rhine-frankfort-heidelberg",
+      "price_eur": 5,
+      "target": "计划前往德国莱茵河、法兰克福和海德堡旅行的中国、台湾和新加坡游客",
+      "reason": "这本指南为计划前往德国莱茵河、法兰克福和海德堡旅行的游客提供了全面的实用信息，帮助他们轻松规划一次难忘的旅行。内容详实、实用，物超所值。",
+      "language": "zh",
+      "pitch": "这本指南为您提供实用的旅行建议、隐藏的宝藏和安全提示，帮助您轻松规划一次难忘的德国之旅。",
+      "content_html": "<h2>内容</h2> <ul><li>莱茵河的自然美景</li><li>法兰克福的文化与历史</li><li>海德堡的浪漫风情</li><li>旅行预算规划</li><li>当地美食推荐</li><li>安全与健康建议</li></ul> <p>示例章节：莱茵河的自然美景</p>",
+      "pro": false,
+      "created": "2026-10-19T13:23:40",
+      "file": "intelligent-exploration-germany-rhine-frankfort-heidelberg-4c6dc45faf6f2ab8.pdf",
+      "size": 1603,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist gut strukturiert und bietet praktische Reisetipps ohne erfundene Zahlen, Statistiken oder Quellen. Es gibt keine Regelverstöße oder unzulässigen Behauptungen.",
+      "pay_url": "https://buy.stripe.com/8x24gAf2F8dt0zY4os2kx0s",
+      "payment_link_id": "plink_1USGf2J5iOXkWb9VZsvOtLRw",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.014543999999999998,
-      "why": "KI-Denken: 智能柏林与波茨坦旅行预算追踪器 - 专业技能向导版"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能柏林与波茨坦旅行预算追踪器 - 专业技能向导版"
-    },
-    {
-      "t": "2026-10-17T15:47:21",
-      "eur": -0.0023975999999999997,
-      "why": "Audit: Planificador Profesional de Viajes Costa Báltica y Mar del Norte para Autónomos"
-    },
-    {
-      "t": "2026-10-17T15:47:21",
-      "eur": -0.0037463999999999996,
-      "why": "Audit: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independien"
-    },
-    {
-      "t": "2026-10-17T15:47:21",
-      "eur": -0.002748,
-      "why": "Audit: 智能柏林与波茨坦旅行预算追踪器 - 专业技能向导版"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.0013716,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (en)"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.0009444,
-      "why": "Blog-Artikel: Bodensee (zh)"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.00033959999999999996,
-      "why": "Video-Skript: Bodensee"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.019227599999999997,
-      "why": "KI-Denken: 智能萨克森旅行指南：德累斯顿及周边隐藏宝藏"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.0038183999999999996,
-      "why": "KI-Pruefung: 智能萨克森旅行指南：德累斯顿及周边隐藏宝藏"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能萨克森旅行指南：德累斯顿及周边隐藏宝藏"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.015095999999999998,
-      "why": "KI-Denken: Planificateur de Chantier & Suivi Financier pour Artisans"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.0010428,
-      "why": "KI-Pruefung: Planificateur de Chantier & Suivi Financier pour Artisans"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.014807999999999998,
-      "why": "KI-Denken: Planificateur de Budget & Suivi de Chantier pour Artisans"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Budget & Suivi de Chantier pour Artisans"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.0208764,
-      "why": "KI-Denken: Histoires douces pour le dodo des petits"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.0045048,
-      "why": "KI-Pruefung: Histoires douces pour le dodo des petits"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1421 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.021668399999999997,
-      "why": "KI-Denken: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.0044843999999999995,
-      "why": "KI-Pruefung: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-10-17T18:46:46",
-      "eur": -0.0040224,
-      "why": "Audit: 智能萨克森旅行指南：德累斯顿及周边隐藏宝藏"
-    },
-    {
-      "t": "2026-10-17T18:46:46",
-      "eur": -0.0023015999999999996,
-      "why": "Audit: Planificateur de Budget & Suivi de Chantier pour Artisans"
-    },
-    {
-      "t": "2026-10-17T18:46:46",
-      "eur": -0.004069199999999999,
-      "why": "Audit: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.0013847999999999998,
-      "why": "Blog-Artikel: Mosel Cochem (es)"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.0013727999999999998,
-      "why": "Blog-Artikel: Heidelberg Altstadt (fr)"
-    },
-    {
-      "t": "2026-10-17T18:32:27",
-      "eur": -0.0004223999999999999,
-      "why": "Video-Skript: Heidelberg Altstadt"
-    },
     {
       "t": "2026-10-17T22:22:36",
       "eur": -0.014938799999999999,
@@ -8156,6 +8043,176 @@
       "t": "2026-10-19T04:45:47",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598457976"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0159036,
+      "why": "KI-Denken: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0158448,
+      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 & 路线规划器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0010332,
+      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 & 路线规划器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 9 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0162048,
+      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0011304,
+      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0158196,
+      "why": "KI-Denken: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0156636,
+      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0203268,
+      "why": "KI-Denken: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0036395999999999998,
+      "why": "KI-Pruefung: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.015940799999999998,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0010992,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T13:31:09",
+      "eur": -0.0015227999999999997,
+      "why": "Audit: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T13:31:09",
+      "eur": -0.0037799999999999995,
+      "why": "Audit: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0012816,
+      "why": "Blog-Artikel: Saarland Saarschleife (de)"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.0012203999999999997,
+      "why": "Blog-Artikel: Koeln Dom (en)"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.00036119999999999994,
+      "why": "Video-Skript: Koeln Dom"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classroom"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598684838"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Control de Gastos y Planificación para Cuidadores de Adultos Mayores"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598661965"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Autónomos"
+    },
+    {
+      "t": "2026-10-19T13:23:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598662003"
     }
   ],
   "alive": true,
@@ -9608,6 +9665,22 @@
       "lang": "fr",
       "topic": "Schwarzwald",
       "created": "2026-10-19T04:45:47",
+      "img": true
+    },
+    {
+      "slug": "saarland-saarschleife-reise-blog",
+      "title": "Die Saarschleife: Ein Naturwunder im Saarland entdecken",
+      "lang": "de",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-19T13:23:40",
+      "img": true
+    },
+    {
+      "slug": "discover-the-majestic-cologne-cathedral",
+      "title": "Discover the Majestic Cologne Cathedral: A Traveler's Guide",
+      "lang": "en",
+      "topic": "Koeln Dom",
+      "created": "2026-10-19T13:23:40",
       "img": true
     }
   ],
