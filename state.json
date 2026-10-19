@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 448.9883,
-  "spent_eur": 55.6819,
+  "balance_eur": 448.6958,
+  "spent_eur": 55.9744,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -7206,134 +7206,81 @@
       "pay_url": "https://buy.stripe.com/8x24gAf2F8dt0zY4os2kx0s",
       "payment_link_id": "plink_1USGf2J5iOXkWb9VZsvOtLRw",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage Berlin et Potsdam : Budget, Itinéraire & Checkliste",
+      "slug": "planificateur-voyage-berlin-potsdam-budget-itineraire-checkliste",
+      "price_eur": 9,
+      "target": "Voyageurs souhaitant organiser leur séjour à Berlin et Potsdam de manière professionnelle et détaillée.",
+      "reason": "Ce planificateur répond à un besoin réel en offrant une organisation complète et détaillée pour un voyage à Berlin et Potsdam, avec un suivi budgétaire et une checkliste pratique.",
+      "language": "fr",
+      "pitch": "Simplifiez votre organisation de voyage avec ce planificateur complet incluant budget, itinéraire et checkliste pour Berlin et Potsdam.",
+      "content_html": "<h2>Inhalt</h2><p>Ce planificateur comprend trois feuilles : Budget, Itinéraire et Checkliste. Il vous permet de suivre vos dépenses, de planifier vos activités et de vérifier que rien n'est oublié pour votre voyage à Berlin et Potsdam.</p>",
+      "pro": true,
+      "created": "2026-10-19T23:45:04",
+      "file": "planificateur-voyage-berlin-potsdam-budget-itineraire-checkliste-dc5c567f22f9a185.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist klar, legal und entspricht den Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder unzulässigen Behauptungen. Die Sprache ist korrekt, und die Formeln/Tabellen sind sinnvoll. Kleinere Verbesserungen wie eine vollständigere Dokumentation oder mehr Beispielinhalte könnten den Nutz",
+      "pay_url": "https://buy.stripe.com/28EfZibQtalB2I69IM2kx0t",
+      "payment_link_id": "plink_1USQOBJ5iOXkWb9VvF8sn66u",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs francophones",
+      "slug": "decouvrez-dresde-et-la-saxe-comme-un-local",
+      "price_eur": 7.99,
+      "target": "Voyageurs francophones (tous âges) visitant la Saxe pour la première fois ou souhaitant explorer des lieux insolites",
+      "reason": "Les guides existants ciblent principalement les anglophones ou se concentrent sur les attractions touristiques classiques. Ce produit comble un manque avec des conseils pratiques et localisés en français, tout en mettant en valeur des expériences authentiques qui profitent à l'économie régionale.",
+      "language": "fr",
+      "pitch": "Un guide concis avec 7 étapes clés pour explorer les trésors cachés de Dresde et ses alentours. Évitez les pièges touristiques et vivez une expérience authentique grâce aux conseils pratiques d'un expert local.",
+      "content_html": "<h2>Contenu</h2><ul><li>Introduction : Pourquoi visiter la Saxe ?</li><li>Chapitre 1 : Préparatifs et transports</li><li>Chapitre 2 : Hébergements insolites</li><li>Chapitre 3 : Itinéraires jour/nuit</li><li>Chapitre 4 : Spécialités culinaires à ne pas manquer</li><li>Chapitre 5 : Événements saisonniers</li><li>Chapitre 6 : Budget et astuces économiques</li><li>Annexe : Phrases utiles en allemand</li></ul>",
+      "pro": false,
+      "created": "2026-10-19T23:45:04",
+      "file": "decouvrez-dresde-et-la-saxe-comme-un-local-fc117cf4f1fb236d.pdf",
+      "size": 1517,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist legal, ehrlich und frei von Spam, Finanz-, Rechts- oder Gesundheitsberatung. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Die Sprache ist durchgehend Französisch, ohne Platzhalter oder unfertige Texte. Der Inhalt bietet praktische Tipps und allgemein bekanntes Wissen üb",
+      "pay_url": "https://buy.stripe.com/5kQ4gA9Il1P5ciG8EI2kx0u",
+      "payment_link_id": "plink_1USQOBJ5iOXkWb9VsSs2kKiE",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Construction Site Offer & Budget Tracker for Craft Businesses",
+      "slug": "construction-site-offer-budget-tracker",
+      "price_eur": 9,
+      "target": "Handwerksbetriebe",
+      "reason": "This tracker provides craft businesses with a comprehensive tool to manage offers, materials, and labor costs efficiently. It includes automatic calculations, dropdowns for easy categorization, and real-time KPIs to monitor budgets effectively.",
+      "language": "en",
+      "pitch": "Streamline your construction site offers and budgets with this professional Excel tracker. Perfect for craft businesses to manage materials, labor, and costs efficiently.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps craft businesses track offers, materials, labor costs, and total budgets for construction sites. It includes detailed sheets for offers, materials, and labor, with automatic calculations for sums, totals, and KPIs.</p>",
+      "pro": true,
+      "created": "2026-10-19T23:45:04",
+      "file": "construction-site-offer-budget-tracker-5205055aa8d603ed.xlsx",
+      "size": 3,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Produkt erfüllt alle Regeln: Keine erfundenen Zahlen, Statistiken oder Gesundheitsversprechen. Keine Rechts-, Steuer- oder Finanzberatung. Keine Marken oder fremden Werke. Inhalte sind klar und sinnvoll strukturiert. Lediglich die Wiederholungen der Formeln könnten optimiert werden.",
+      "pay_url": "https://buy.stripe.com/14AeVe6w9alB1E22gk2kx0v",
+      "payment_link_id": "plink_1USQOCJ5iOXkWb9VYyMy7cVO",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.021359999999999997,
-      "why": "KI-Denken: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.0033804,
-      "why": "KI-Pruefung: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales"
-    },
-    {
-      "t": "2026-10-18T04:48:23",
-      "eur": -0.0038627999999999996,
-      "why": "Audit: Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu wenig"
-    },
-    {
-      "t": "2026-10-18T04:48:23",
-      "eur": -0.002238,
-      "why": "Audit: Ultimate Exam Preparation Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-18T04:48:23",
-      "eur": -0.0031511999999999994,
-      "why": "Audit: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Bo"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.0012203999999999997,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (zh)"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.0017892,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (es)"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.00042599999999999995,
-      "why": "Video-Skript: Hamburg Speicherstadt"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能考试预算与复习计划追踪器"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597831222"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597808881"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597831262"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.015170399999999999,
-      "why": "KI-Denken: Planificador Profesional de Viajes y Lista de Equipaje"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.001032,
-      "why": "KI-Pruefung: Planificador Profesional de Viajes y Lista de Equipaje"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.0224952,
-      "why": "KI-Denken: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar Tus Ventas"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.0041364,
-      "why": "KI-Pruefung: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar Tus Ventas"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar Tus Ventas"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.015172799999999998,
-      "why": "KI-Denken: 智能协会活动预算 & 志愿者管理追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能协会活动预算 & 志愿者管理追踪器 - 2026专业版"
-    },
     {
       "t": "2026-10-18T11:16:22",
       "eur": -0.0019631999999999996,
@@ -8208,6 +8155,131 @@
       "t": "2026-10-19T19:58:41",
       "eur": -0.0003804,
       "why": "Video-Skript: Bodensee"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.015901199999999997,
+      "why": "KI-Denken: Planificateur de Voyage & Suivi des Dépenses pour Berlin et Potsdam"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Voyage & Suivi des Dépenses pour Berlin et Potsdam"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.0159528,
+      "why": "KI-Denken: Planificateur de Budget & Itinéraire pour Berlin et Potsdam"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Budget & Itinéraire pour Berlin et Potsdam"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.016266,
+      "why": "KI-Denken: Planificateur de Voyage Berlin et Potsdam : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.0011711999999999998,
+      "why": "KI-Pruefung: Planificateur de Voyage Berlin et Potsdam : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.021406799999999997,
+      "why": "KI-Denken: Découvrez Drèsden et la Saxe: Guide Pratique pour les Explorateurs Indépendants"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.004102799999999999,
+      "why": "KI-Pruefung: Découvrez Drèsden et la Saxe: Guide Pratique pour les Explorateurs Indépendants"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (1499 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.0221904,
+      "why": "KI-Denken: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs francophones"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.004219199999999999,
+      "why": "KI-Pruefung: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs francophones"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.16,
+      "why": "KI-Bilder: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs francophones"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.016058399999999997,
+      "why": "KI-Denken: Construction Site Offer & Budget Tracker for Craft Businesses"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Construction Site Offer & Budget Tracker for Craft Businesses"
+    },
+    {
+      "t": "2026-10-19T23:54:23",
+      "eur": -0.0022835999999999998,
+      "why": "Audit: Planificateur de Voyage Berlin et Potsdam : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-19T23:54:23",
+      "eur": -0.0039288,
+      "why": "Audit: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs franc"
+    },
+    {
+      "t": "2026-10-19T23:54:23",
+      "eur": -0.0030876,
+      "why": "Audit: Construction Site Offer & Budget Tracker for Craft Businesses"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.0012804,
+      "why": "Blog-Artikel: Mosel Cochem (fr)"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.0011136,
+      "why": "Blog-Artikel: Heidelberg Altstadt (de)"
+    },
+    {
+      "t": "2026-10-19T23:45:04",
+      "eur": -0.00036599999999999995,
+      "why": "Video-Skript: Heidelberg Altstadt"
     }
   ],
   "alive": true,
@@ -9693,6 +9765,22 @@
       "topic": "Bodensee",
       "created": "2026-10-19T19:58:41",
       "img": true
+    },
+    {
+      "slug": "decouvrez-cochem-perle-romantique-moselle",
+      "title": "Découvrez Cochem, la perle romantique de la Moselle",
+      "lang": "fr",
+      "topic": "Mosel Cochem",
+      "created": "2026-10-19T23:45:04",
+      "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-romantik-und-geschichte-am-neckar",
+      "title": "Heidelberg Altstadt: Romantik und Geschichte am Neckar",
+      "lang": "de",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-19T23:45:04",
+      "img": true
     }
   ],
   "videos": [
@@ -10444,6 +10532,16 @@
       "hashtags": "#Bodensee #Alemania #ParaisoNatural #Europa #Viajar",
       "voice": "Descubre el lago Bodensee, joya fronteriza de Alemania, Austria y Suiza. Navega entre pueblos medievales y disfruta viñedos con vistas a los Alpes. ¡Prueba manzanas frescas en Mainau, la 'isla de las flores'! Perfecto para ciclismo, museos y atardeceres mágicos. #EuropaEsMás",
       "credits": "Foto: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons; Foto: Julian Herzog (Website), CC BY 4.0, via Wikimedia Commons; Foto: Stefan-Xp, CC BY-SA 3.0, via Wikimedia Commons; Foto: User:Mateus2019, CC BY 3.0 de, via Wikimedia Commons; Foto: böhringer friedrich, CC BY-SA 2.5, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "heidelberg-altstadt-romantik-und-geschichte-am-neckar",
+      "title": "Heidelberg Altstadt: Romantik und Geschichte am Neckar",
+      "lang": "de",
+      "created": "2026-10-19T23:45:04",
+      "hashtags": "#Heidelberg #Altstadt #DeutschlandRomantik #HeidelbergSchloss #Neckar",
+      "voice": "Heidelberg Altstadt – ein Ort voller Magie! Hier verzaubern enge Gassen, historische Gebäude und das weltberühmte Schloss. Flaniere über die Alte Brücke, genieße den Blick auf den Neckar und tauche ein in die Atmosphäre der deutschen Romantik. Heidelberg ist nicht nur eine Stadt, sondern ein Erlebnis für die Sinne!",
+      "credits": "Foto: -wuppertaler, CC BY-SA 4.0, via Wikimedia Commons; Foto: KaiBorgeest, CC BY-SA 4.0, via Wikimedia Commons; Foto: No machine-readable author provided. Martinw2 assumed (based on copyright claims, CC BY-SA 3.0, via Wikimedia Commons; Foto: Schlurcher, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
