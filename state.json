@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 449.1116,
-  "spent_eur": 55.5586,
+  "balance_eur": 448.9883,
+  "spent_eur": 55.6819,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -7210,141 +7210,6 @@
   ],
   "log": [
     {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.014938799999999999,
-      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.0010355999999999998,
-      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.020841600000000002,
-      "why": "KI-Denken: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sacrifice"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.0034343999999999998,
-      "why": "KI-Pruefung: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sacrifice"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.16,
-      "why": "KI-Bilder: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sacrifice"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.015160799999999999,
-      "why": "KI-Denken: Smart Fitness-Erfolgstracker für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.0012851999999999998,
-      "why": "KI-Pruefung: Smart Fitness-Erfolgstracker für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-17T22:26:36",
-      "eur": -0.0029832,
-      "why": "Audit: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-17T22:26:36",
-      "eur": -0.0032531999999999995,
-      "why": "Audit: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sa"
-    },
-    {
-      "t": "2026-10-17T22:26:36",
-      "eur": -0.0035243999999999996,
-      "why": "Audit: Smart Fitness-Erfolgstracker für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.0012683999999999998,
-      "why": "Blog-Artikel: Neuschwanstein (de)"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.0013919999999999998,
-      "why": "Blog-Artikel: Saechsische Schweiz (en)"
-    },
-    {
-      "t": "2026-10-17T22:22:36",
-      "eur": -0.0003276,
-      "why": "Video-Skript: Saechsische Schweiz"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.0227652,
-      "why": "KI-Denken: Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu weniger Stress und mehr Übersicht"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.004109999999999999,
-      "why": "KI-Pruefung: Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu weniger Stress und mehr Übersicht"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.16,
-      "why": "KI-Bilder: Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu weniger Stress und mehr Übersicht"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.015756,
-      "why": "KI-Denken: Exam Preparation Budget & Study Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.0015504,
-      "why": "KI-Pruefung: Exam Preparation Budget & Study Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.014974799999999998,
-      "why": "KI-Denken: Ultimate Exam Prep Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': \"Formel 'Total' in 'Budget' nicht sinnvoll (fehlende Summierung). Preis fair, Funktionen grundlegend, aber Formelfehler.\"}"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.014942399999999998,
-      "why": "KI-Denken: Ultimate Exam Preparation Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-18T04:39:12",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Exam Preparation Budget & Progress Tracker for Students"
-    },
-    {
       "t": "2026-10-18T04:39:12",
       "eur": -0.021359999999999997,
       "why": "KI-Denken: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales"
@@ -8213,6 +8078,136 @@
       "t": "2026-10-19T13:23:40",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598662003"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0164376,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Trip Planner & Budget Tracker (2026 Edition)"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0012744,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Trip Planner & Budget Tracker (2026 Edition)"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.016105199999999997,
+      "why": "KI-Denken: Planificateur de Voyage à Berlin & Potsdam : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0010428,
+      "why": "KI-Pruefung: Planificateur de Voyage à Berlin & Potsdam : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0158844,
+      "why": "KI-Denken: Planificateur de Voyage à Berlin et Potsdam : Budget & Itinéraire"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Voyage à Berlin et Potsdam : Budget & Itinéraire"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0160248,
+      "why": "KI-Denken: Planificateur de Voyage Ultime : Berlin & Potsdam - Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Voyage Ultime : Berlin & Potsdam - Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.016150799999999996,
+      "why": "KI-Denken: Planificateur de Voyage à Berlin & Potsdam : Budget, Itinéraire & Checkliste Professionnelle"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0011136,
+      "why": "KI-Pruefung: Planificateur de Voyage à Berlin & Potsdam : Budget, Itinéraire & Checkliste Professionnelle"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.016078799999999997,
+      "why": "KI-Denken: Planificateur de Voyage à Berlin & Potsdam : Suivi des Dépenses et Itinéraire"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0011543999999999999,
+      "why": "KI-Pruefung: Planificateur de Voyage à Berlin & Potsdam : Suivi des Dépenses et Itinéraire"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 9 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.016077599999999997,
+      "why": "KI-Denken: Planificateur de Voyage Berlin & Potsdam : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0010103999999999998,
+      "why": "KI-Pruefung: Planificateur de Voyage Berlin & Potsdam : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0010128,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (zh)"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0014772,
+      "why": "Blog-Artikel: Bodensee (es)"
+    },
+    {
+      "t": "2026-10-19T19:58:41",
+      "eur": -0.0003804,
+      "why": "Video-Skript: Bodensee"
     }
   ],
   "alive": true,
@@ -9682,6 +9677,22 @@
       "topic": "Koeln Dom",
       "created": "2026-10-19T13:23:40",
       "img": true
+    },
+    {
+      "slug": "explore-ruhrgebiet-zollverein-germany",
+      "title": "探索德国鲁尔区卓伦遗址：工业遗产与文化之旅",
+      "lang": "zh",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-19T19:58:41",
+      "img": true
+    },
+    {
+      "slug": "descubriendo-el-lago-de-constanza",
+      "title": "Descubriendo el Lago de Constanza: Una joya natural en Alemania",
+      "lang": "es",
+      "topic": "Bodensee",
+      "created": "2026-10-19T19:58:41",
+      "img": true
     }
   ],
   "videos": [
@@ -10423,6 +10434,16 @@
       "hashtags": "#ForêtNoire #Allemagne #Nature #Voyage #Découverte",
       "voice": "Découvrez la magie de la Forêt-Noire ! Entre sommets boisés, lacs cristallins et villages de conte de fées, cette région allemande vous enchante. Parfaite pour des randonnées revitalisantes ou des escapades gourmandes avec ses fameuses forêts-noires. Un havre de paix où tradition et nature s'unissent harmonieusement. Prêt à vivre l'émotion ?",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubriendo-el-lago-de-constanza",
+      "title": "Descubriendo el Lago de Constanza: Una joya natural en Alemania",
+      "lang": "es",
+      "created": "2026-10-19T19:58:41",
+      "hashtags": "#Bodensee #Alemania #ParaisoNatural #Europa #Viajar",
+      "voice": "Descubre el lago Bodensee, joya fronteriza de Alemania, Austria y Suiza. Navega entre pueblos medievales y disfruta viñedos con vistas a los Alpes. ¡Prueba manzanas frescas en Mainau, la 'isla de las flores'! Perfecto para ciclismo, museos y atardeceres mágicos. #EuropaEsMás",
+      "credits": "Foto: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons; Foto: Julian Herzog (Website), CC BY 4.0, via Wikimedia Commons; Foto: Stefan-Xp, CC BY-SA 3.0, via Wikimedia Commons; Foto: User:Mateus2019, CC BY 3.0 de, via Wikimedia Commons; Foto: böhringer friedrich, CC BY-SA 2.5, via Wikimedia Commons",
       "posted": {}
     }
   ],
