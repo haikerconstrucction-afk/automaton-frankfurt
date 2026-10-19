@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 450.8471,
-  "spent_eur": 53.8231,
+  "balance_eur": 449.9752,
+  "spent_eur": 54.695,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4427,7 +4427,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Studien, Statistiken oder Prozentzahlen, keine falsche oder gemischte Sprache, keine unfertigen Texte oder Platzhalter. Die Excel-Vorlage bietet präzise und nützliche Funktionen ohne Regelverstöße.",
       "pay_url": "https://buy.stripe.com/dRmcN65s5ctJaay2gk2kw2J",
       "payment_link_id": "plink_1UOhH0J5iOXkWb9V73f0nOvy",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4598435283"
+      }
     },
     {
       "type": "ebook",
@@ -4451,7 +4454,10 @@
       "audit_note": "Der Inhalt ist allgemein gehalten und enthält keine erfunden Zahlen, Statistiken oder Gesundheitsversprechen. Die Tipps sind praktisch und für Einsteiger geeignet. Keine Regelverstöße erkennbar.",
       "pay_url": "https://buy.stripe.com/00w3cwaMpctJ3MaaMQ2kw2K",
       "payment_link_id": "plink_1UOmakJ5iOXkWb9VLG4Wfy88",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4598457962"
+      }
     },
     {
       "type": "excel",
@@ -4475,7 +4481,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Quellen. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen der Funktionsdemonstration. Das Produkt ist eine legitime Excel-Vorlage ohne falsche Behauptungen oder Regelverstöße.",
       "pay_url": "https://buy.stripe.com/00wdRa6w92T96YmdZ22kw2L",
       "payment_link_id": "plink_1UOmalJ5iOXkWb9VQhTSAYOA",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4598457976"
+      }
     },
     {
       "type": "ebook",
@@ -7092,174 +7101,57 @@
       "pay_url": "https://buy.stripe.com/dRm5kEg6J79p5Ui9IM2kx0o",
       "payment_link_id": "plink_1US2f8J5iOXkWb9VHFJc5dIn",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Viajes por NRW: Presupuesto y Ruta para Viajeros Masculinos",
+      "slug": "planificador-viajes-nrw-presupuesto-ruta",
+      "price_eur": 9,
+      "target": "Hombres autónomos y pequeños empresarios que viajan por trabajo o placer a NRW (Colonia, Düsseldorf, Ruhr)",
+      "reason": "NRW es un destino clave para viajes de negocios y turismo, pero gestionar presupuestos y rutas manualmente es ineficiente. Este planificador profesional ofrece una solución todo-en-uno.",
+      "language": "es",
+      "pitch": "Controla tu presupuesto de viaje y optimiza tus rutas por NRW con esta herramienta profesional. Ideal para viajes de negocios o escapadas.",
+      "content_html": "<h2>Incluye</h2><ul><li>Planificador de ruta y presupuesto</li><li>Tracker de gastos detallado</li><li>Dashboard con KPIs clave</li><li>Guía práctica para explorar NRW</li></ul>",
+      "pro": true,
+      "created": "2026-10-19T04:45:47",
+      "file": "planificador-viajes-nrw-presupuesto-ruta-ee14478839bc94d5.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt entspricht den Regeln. Es werden keine erfundenen Statistiken, Prozentzahlen oder Quellen verwendet. Die Excel-Tabellen und Formeln sind nachvollziehbar und plausibel. Die Angaben sind klar als Beispiele markiert und entsprechen allgemein bekanntem Wissen. Es gibt keine Rechts-, Steuer-, ",
+      "pay_url": "https://buy.stripe.com/5kQ3cwbQt2T9aay1cg2kx0p",
+      "payment_link_id": "plink_1US8avJ5iOXkWb9V6gWt5ZC8",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Viajeros",
+      "slug": "guia-esencial-baviera-alpes-viajeros",
+      "price_eur": 5,
+      "target": "Hombres de 30-60 años interesados en viajes por Alemania, especialmente en rutas por Baviera y los Alpes",
+      "reason": "Existe gran interés por viajes a Alemania desde países hispanohablantes, pero pocas guías prácticas enfocadas específicamente en Baviera y los Alpes para este público. Combina información útil con un estilo accesible y precio asequible.",
+      "language": "es",
+      "pitch": "Descubre las rutas más espectaculares de Baviera y los Alpes con esta guía práctica. Planifica tu aventura con itinerarios probados, consejos de lugareños y secretos mejor guardados.",
+      "content_html": "<h2>Contenido</h2><ul><li>Introducción: Por qué Baviera es el paraíso de los viajeros</li><li>7 rutas detalladas con mapas simplificados</li><li>Consejos para conducir en montaña</li><li>Lista de equipaje esencial</li><li>Presupuesto estimado para cada ruta</li><li>Vocabulario básico de viaje en alemán</li></ul>",
+      "pro": false,
+      "created": "2026-10-19T04:45:47",
+      "file": "guia-esencial-baviera-alpes-viajeros-7433e5111b3e882d.pdf",
+      "size": 1734,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Text enthält eine Prozentzahl (30%), die keine allgemein bekannte Grundlage hat. Ansonsten ist der Inhalt korrekt, legal und entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/3cIfZi7AdctJ96u6wA2kx0q",
+      "payment_link_id": "plink_1US8avJ5iOXkWb9VUVCExFNw",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Simple Ways to Slash Household Expenses Without Sacrificing Comfort"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597212393"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Entrenamiento y Nutrición para Entrenadores Personales"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597232648"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: El Pequeño Libro del Propietario: 7 Estrategias para Organizar y Gestionar tus 1-5 Propiedades"
-    },
-    {
-      "t": "2026-10-17T07:00:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597232664"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.020706,
-      "why": "KI-Denken: Saarland & Mosel Entdecker-Guide: 7 einzigartige Touren für Selbstständige und Freiberufler"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.004278,
-      "why": "KI-Pruefung: Saarland & Mosel Entdecker-Guide: 7 einzigartige Touren für Selbstständige und Freiberufler"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1434 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.022207199999999996,
-      "why": "KI-Denken: Entdecke Saarland & Mosel: Der ultimative Reiseführer für Selbstständige und Familien"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.0042876,
-      "why": "KI-Pruefung: Entdecke Saarland & Mosel: Der ultimative Reiseführer für Selbstständige und Familien"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.0146412,
-      "why": "KI-Denken: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Female Travelers"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.0011543999999999999,
-      "why": "KI-Pruefung: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Female Travelers"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Beschränkte Zielgruppe, einfache Funktionen, Preis könnte niedriger sein'}"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.0144876,
-      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.0010524,
-      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.019710000000000002,
-      "why": "KI-Denken: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.0034223999999999995,
-      "why": "KI-Pruefung: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.16,
-      "why": "KI-Bilder: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
-    },
-    {
-      "t": "2026-10-17T12:24:08",
-      "eur": -0.004007999999999999,
-      "why": "Audit: Entdecke Saarland & Mosel: Der ultimative Reiseführer für Selbstständige und Fam"
-    },
-    {
-      "t": "2026-10-17T12:24:08",
-      "eur": -0.0020147999999999998,
-      "why": "Audit: Ultimate NRW Family Travel Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-17T12:24:08",
-      "eur": -0.0031811999999999995,
-      "why": "Audit: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.001062,
-      "why": "Blog-Artikel: Saarland Saarschleife (fr)"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.0010475999999999999,
-      "why": "Blog-Artikel: Koeln Dom (de)"
-    },
-    {
-      "t": "2026-10-17T12:14:55",
-      "eur": -0.0003924,
-      "why": "Video-Skript: Koeln Dom"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.014602799999999999,
-      "why": "KI-Denken: Planificador Profesional de Viajes Costa Báltica y Mar del Norte para Autónomos"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador Profesional de Viajes Costa Báltica y Mar del Norte para Autónomos"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.0207432,
-      "why": "KI-Denken: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independientes"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.0041376,
-      "why": "KI-Pruefung: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independientes"
-    },
-    {
-      "t": "2026-10-17T15:43:34",
-      "eur": -0.16,
-      "why": "KI-Bilder: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independientes"
-    },
     {
       "t": "2026-10-17T15:43:34",
       "eur": -0.014543999999999998,
@@ -8094,6 +7986,176 @@
       "t": "2026-10-18T22:28:09",
       "eur": -0.00037079999999999996,
       "why": "Video-Skript: Eifel Maare"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.0162384,
+      "why": "KI-Denken: Planificador de Viajes por NRW: Presupuesto y Ruta para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.0012768,
+      "why": "KI-Pruefung: Planificador de Viajes por NRW: Presupuesto y Ruta para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.0229848,
+      "why": "KI-Denken: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Viajeros"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.0042828,
+      "why": "KI-Pruefung: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Viajeros"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Viajeros"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.016105199999999997,
+      "why": "KI-Denken: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.0011783999999999998,
+      "why": "KI-Pruefung: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.015922799999999997,
+      "why": "KI-Denken: 智能德国北海与波罗的海家庭旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能德国北海与波罗的海家庭旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.016565999999999997,
+      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.001488,
+      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.016007999999999998,
+      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.0010404,
+      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.015993599999999997,
+      "why": "KI-Denken: Ostsee- und Nordsee-Reisebudget-Tracker & Routenplaner"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.0010211999999999999,
+      "why": "KI-Pruefung: Ostsee- und Nordsee-Reisebudget-Tracker & Routenplaner"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-19T04:54:29",
+      "eur": -0.0037943999999999994,
+      "why": "Audit: Planificador de Viajes por NRW: Presupuesto y Ruta para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-19T04:54:29",
+      "eur": -0.0039096,
+      "why": "Audit: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Vi"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.0009599999999999999,
+      "why": "Blog-Artikel: Rheingau Weinberge (zh)"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.001674,
+      "why": "Blog-Artikel: Schwarzwald (fr)"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.00036239999999999997,
+      "why": "Video-Skript: Schwarzwald"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Umzugskosten-Tracker & Renovierungsplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598435283"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598457962"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: YouTube Content Monetization Tracker & Planner"
+    },
+    {
+      "t": "2026-10-19T04:45:47",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598457976"
     }
   ],
   "alive": true,
@@ -9531,6 +9593,22 @@
       "topic": "Eifel Maare",
       "created": "2026-10-18T22:28:09",
       "img": true
+    },
+    {
+      "slug": "rheingau-weinberge-deutschland",
+      "title": "德国莱茵高葡萄园：美酒与中世纪风情的完美邂逅",
+      "lang": "zh",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-19T04:45:47",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-la-magie-de-la-foret-noire-un-voyage-enchanteur-en",
+      "title": "Découvrez la magie de la Forêt-Noire : un voyage enchanteur en Allemagne",
+      "lang": "fr",
+      "topic": "Schwarzwald",
+      "created": "2026-10-19T04:45:47",
+      "img": true
     }
   ],
   "videos": [
@@ -10262,6 +10340,16 @@
       "hashtags": "#Wattenmeer #Nature #UNESCO #Allemagne #Ecotourisme",
       "voice": "Plongez dans l’univers fascinant du Wattenmeer de la mer du Nord en Allemagne, un écosystème d’une richesse inestimable. À marée basse, explorez les fonds marins où la vie foisonne. Participez à des randonnées guidées et découvrez un paysage hors du temps. Observez phoques et oiseaux migrateurs dans cette réserve de biosphère classée par l’UNESCO. Une aventure nature à ne pas manquer !",
       "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-la-magie-de-la-foret-noire-un-voyage-enchanteur-en",
+      "title": "Découvrez la magie de la Forêt-Noire : un voyage enchanteur en Allemagne",
+      "lang": "fr",
+      "created": "2026-10-19T04:45:47",
+      "hashtags": "#ForêtNoire #Allemagne #Nature #Voyage #Découverte",
+      "voice": "Découvrez la magie de la Forêt-Noire ! Entre sommets boisés, lacs cristallins et villages de conte de fées, cette région allemande vous enchante. Parfaite pour des randonnées revitalisantes ou des escapades gourmandes avec ses fameuses forêts-noires. Un havre de paix où tradition et nature s'unissent harmonieusement. Prêt à vivre l'émotion ?",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
