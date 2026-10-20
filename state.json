@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 448.6958,
-  "spent_eur": 55.9744,
+  "balance_eur": 447.7237,
+  "spent_eur": 56.9465,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4589,7 +4589,10 @@
       "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es ist klar strukturiert und bietet eine praktische Excel-Vorlage für Budget-Tracking im Schwarzwald. Die Sprache ist korrekt, und es gibt keine sachlichen Fehler oder Regelverstöße.",
       "pay_url": "https://buy.stripe.com/6oUfZi3jXalB6Ym7AE2kw2P",
       "payment_link_id": "plink_1UOtMPJ5iOXkWb9V8eNDVl0p",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4599202876"
+      }
     },
     {
       "type": "ebook",
@@ -4613,7 +4616,10 @@
       "audit_note": "Der Inhalt hält sich an die Regeln. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Der Text ist vollständig, kein Spam, keine Gesundheitsversprechen oder Fremdmarken. Die Informationen basieren auf allgemein bekanntem Wissen und eigenen Praxistipps. Kleinere Optimierun",
       "pay_url": "https://buy.stripe.com/dRm28s8EhdxN0zYf362kw2Q",
       "payment_link_id": "plink_1UOzdoJ5iOXkWb9VBthuP5XP",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4599202894"
+      }
     },
     {
       "type": "excel",
@@ -4637,7 +4643,10 @@
       "audit_note": "Das Produkt ist ein funktionaler Excel-Reiseplaner für NRW auf Französisch ohne erfundene Studien, Statistiken oder falsche Behauptungen. Die Beispielberechnungen basieren auf fiktiven aber realistischen Eingabedaten. Die Funktionalität entspricht den beschriebenen Kalkulationen. Es gibt keine Verst",
       "pay_url": "https://buy.stripe.com/5kQdRacUx3XdfuS2gk2kw2R",
       "payment_link_id": "plink_1UOzdpJ5iOXkWb9Vdd6gCdHo",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4599179133"
+      }
     },
     {
       "type": "ebook",
@@ -7278,119 +7287,81 @@
       "pay_url": "https://buy.stripe.com/14AeVe6w9alB1E22gk2kx0v",
       "payment_link_id": "plink_1USQOCJ5iOXkWb9VYyMy7cVO",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)",
+      "slug": "moonbeam-adventures-magical-bedtime-stories",
+      "price_eur": 5,
+      "target": "Parents who want to nurture their children's imagination with unique, calming bedtime stories",
+      "reason": "Addresses a clear need - parents want quality bedtime stories that are original, calming, and subtly educational. The magical theme appeals to children's imagination while providing concrete sleep routines. Each story includes elements that parents can reference in real-life situations (breathing techniques, nightmare management).",
+      "language": "en",
+      "pitch": "Help your child drift into peaceful sleep with these original magical tales. Each story teaches gentle life lessons through enchanting characters and adventures.",
+      "content_html": "<h2>Contents</h2>\n<ul>\n<li>The Whispering Willow's Secret</li>\n<li>Pip the Cloud Hopper</li>\n<li>The Moonbeam Dragon</li>\n<li>Starlight Rescue Team</li>\n<li>Grumbly the Friendly Troll</li>\n<li>The Dream Weaver's Gift</li>\n<li>Sleepy Hollow's Lullaby</li>\n</ul>\n<h3>Sample Story: The Whispering Willow</h3>\n<p>Lena discovers that the old willow tree in their garden can talk at night...</p>",
+      "pro": false,
+      "created": "2026-10-20T04:55:44",
+      "file": "moonbeam-adventures-magical-bedtime-stories-a32202c3546f7335.pdf",
+      "size": 1517,
+      "sales": 0,
+      "score": 9,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Studien oder Statistiken, keine Gesundheitsversprechen, keine Marken Dritter. Es handelt sich um originäre, kindgerechte Gutenachtgeschichten mit klar gekennzeichneten 'Key takeaways'. Preis, Sprache und Format passend.",
+      "pay_url": "https://buy.stripe.com/7sY14o6w979p82q6wA2kx0w",
+      "payment_link_id": "plink_1USVCMJ5iOXkWb9Vo3Es9nQK",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Hochzeits-Budget-Tracker & Ausgabenplaner",
+      "slug": "hochzeits-budget-tracker-ausgabenplaner",
+      "price_eur": 9,
+      "target": "Paare und Hochzeitsplaner",
+      "reason": "Diese Vorlage bietet eine klare Struktur für die Budgetplanung und Ausgabenkontrolle bei Hochzeiten. Sie ist einfach zu bedienen und bietet nützliche Funktionen zur Analyse und Überwachung des Budgets.",
+      "language": "de",
+      "pitch": "Behalten Sie alle Hochzeitsausgaben im Blick und planen Sie Ihr Budget effizient mit dieser professionellen Excel-Vorlage.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Vorlage hilft Ihnen dabei, alle Kosten für Ihre Hochzeit zu erfassen, zu kategorisieren und zu analysieren. Mit klaren Übersichten und nützlichen Funktionen behalten Sie das Budget im Griff.</p>",
+      "pro": true,
+      "created": "2026-10-20T04:55:44",
+      "file": "hochzeits-budget-tracker-ausgabenplaner-8f88cc798d53956a.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Zahlen oder Quellen, klare Funktionsbeschreibung, keine Regelverstöße. Beispielhafte Dateneinträge sind klar als solche erkennbar. Funktionalität und Berechnungen sind plausibel.",
+      "pay_url": "https://buy.stripe.com/9B6dRa5s58dt0zYbQU2kx0x",
+      "payment_link_id": "plink_1USVCNJ5iOXkWb9V0puzLxl9",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den Alltag",
+      "slug": "clever-haushalten-50-spartipps-finanzielle-freiheit",
+      "price_eur": 5,
+      "target": "Privathaushalte mit begrenztem Budget, die ihr monatliches Einkommen effizienter nutzen möchten",
+      "reason": "Haushalte suchen aktuell verstärkt nach Möglichkeiten, angesichts steigender Lebenshaltungskosten zu sparen. Dieses E-Book bietet konkret umsetzbare Tipps ohne extreme Maßnahmen, was es besonders zugänglich macht. Der Preis von 5€ ist ein 'No-Brainer' verglichen mit den möglichen Ersparnissen.",
+      "language": "de",
+      "pitch": "Praktische Sparstrategien ohne Verzicht - So schaffen Sie finanziellen Spielraum für die wichtigen Dinge im Leben. Über 50 direkt umsetzbare Tipps für Haushalt, Einkauf und Freizeit.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einführung: Warum kleine Sparhebel große Wirkung haben</li><li>Kapitel 1: Clever einkaufen und Lebensmittelverschwendung stoppen</li><li>Kapitel 2: Energiekosten senken ohne Komfortverlust</li><li>Kapitel 3: Automatische Sparsysteme einrichten</li><li>Kapitel 4: Kostenlose Freizeitalternativen nutzen</li><li>Kapitel 5: Abos und Verträge optimieren</li><li>Bonus: 10 Quick-Win-Tipps für sofortige Ersparnisse</li></ul>",
+      "pro": false,
+      "created": "2026-10-20T04:55:44",
+      "file": "clever-haushalten-50-spartipps-finanzielle-freiheit-6ee7b1f23111ef41.pdf",
+      "size": 1529,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Zwei spezifische Prozentangaben ohne Quellenangabe (LED/Heizkosten) wirken erfunden - diese sollten entfernt oder durch allgemeinere Formulierungen ersetzt werden. Ansonsten enthält der Text nützliche, praktische Spartipps ohne gravierende Regelverstöße. Die Beispielrechnungen (z.B. 1 Euro/Tag) sind",
+      "pay_url": "https://buy.stripe.com/9B6cN6cUx8dt3Ma08c2kx0y",
+      "payment_link_id": "plink_1USVCNJ5iOXkWb9VXfxyKnJu",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-18T11:16:22",
-      "eur": -0.0019631999999999996,
-      "why": "Audit: Planificador Profesional de Viajes y Lista de Equipaje"
-    },
-    {
-      "t": "2026-10-18T11:16:22",
-      "eur": -0.0038147999999999993,
-      "why": "Audit: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar"
-    },
-    {
-      "t": "2026-10-18T11:16:22",
-      "eur": -0.0022392,
-      "why": "Audit: 智能协会活动预算 & 志愿者管理追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.0012576,
-      "why": "Blog-Artikel: Frankfurt Skyline (fr)"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.0009732,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (de)"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.00045599999999999997,
-      "why": "Video-Skript: Rothenburg ob der Tauber"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Boostez vos ventes sur Etsy : 7 stratégies simples pour augmenter vos revenus"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597921543"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597943192"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Happy Paws, Happy Home: Simple Strategies for Stress-Free Dog Care"
-    },
-    {
-      "t": "2026-10-18T11:11:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4597921569"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): string indices must be integers, not 'str'"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.0207384,
-      "why": "KI-Denken: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.004266,
-      "why": "KI-Pruefung: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.015531599999999998,
-      "why": "KI-Denken: Planificateur de Déménagement & Rénovation : Suivi de Budget et Calendrier"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.0010704,
-      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation : Suivi de Budget et Calendrier"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
     {
       "t": "2026-10-18T15:55:16",
       "eur": -0.016295999999999998,
@@ -8280,6 +8251,121 @@
       "t": "2026-10-19T23:45:04",
       "eur": -0.00036599999999999995,
       "why": "Video-Skript: Heidelberg Altstadt"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.021674400000000003,
+      "why": "KI-Denken: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.0037104,
+      "why": "KI-Pruefung: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.16,
+      "why": "KI-Bilder: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.0164832,
+      "why": "KI-Denken: Hochzeits-Budget-Tracker & Ausgabenplaner"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.001212,
+      "why": "KI-Pruefung: Hochzeits-Budget-Tracker & Ausgabenplaner"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.022207199999999996,
+      "why": "KI-Denken: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den Alltag"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.0041183999999999995,
+      "why": "KI-Pruefung: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den Alltag"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.16,
+      "why": "KI-Bilder: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den Alltag"
+    },
+    {
+      "t": "2026-10-20T05:02:39",
+      "eur": -0.0034476,
+      "why": "Audit: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
+    },
+    {
+      "t": "2026-10-20T05:02:39",
+      "eur": -0.0027923999999999996,
+      "why": "Audit: Hochzeits-Budget-Tracker & Ausgabenplaner"
+    },
+    {
+      "t": "2026-10-20T05:02:39",
+      "eur": -0.003942,
+      "why": "Audit: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.0010716,
+      "why": "Blog-Artikel: Neuschwanstein (en)"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.0011891999999999998,
+      "why": "Blog-Artikel: Saechsische Schweiz (zh)"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.0003467999999999999,
+      "why": "Video-Skript: Saechsische Schweiz"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599202876"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599202894"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Voyage en NRW: Budget & Itinéraire pour Explorateurs Urbains"
+    },
+    {
+      "t": "2026-10-20T04:55:44",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599179133"
     }
   ],
   "alive": true,
@@ -9781,6 +9867,22 @@
       "topic": "Heidelberg Altstadt",
       "created": "2026-10-19T23:45:04",
       "img": true
+    },
+    {
+      "slug": "discover-neuschwanstein-castle-germanys-fairy-tale-landmark",
+      "title": "Discover Neuschwanstein Castle: Germany's Fairy Tale Landmark",
+      "lang": "en",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-20T04:55:44",
+      "img": true
+    },
+    {
+      "slug": "saxon-switzerland-germany-travel-guide",
+      "title": "萨克森小瑞士：德国易北河畔的童话奇境",
+      "lang": "zh",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-20T04:55:44",
+      "img": true
     }
   ],
   "videos": [
@@ -10542,6 +10644,16 @@
       "hashtags": "#Heidelberg #Altstadt #DeutschlandRomantik #HeidelbergSchloss #Neckar",
       "voice": "Heidelberg Altstadt – ein Ort voller Magie! Hier verzaubern enge Gassen, historische Gebäude und das weltberühmte Schloss. Flaniere über die Alte Brücke, genieße den Blick auf den Neckar und tauche ein in die Atmosphäre der deutschen Romantik. Heidelberg ist nicht nur eine Stadt, sondern ein Erlebnis für die Sinne!",
       "credits": "Foto: -wuppertaler, CC BY-SA 4.0, via Wikimedia Commons; Foto: KaiBorgeest, CC BY-SA 4.0, via Wikimedia Commons; Foto: No machine-readable author provided. Martinw2 assumed (based on copyright claims, CC BY-SA 3.0, via Wikimedia Commons; Foto: Schlurcher, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "saxon-switzerland-germany-travel-guide",
+      "title": "萨克森小瑞士：德国易北河畔的童话奇境",
+      "lang": "zh",
+      "created": "2026-10-20T04:55:44",
+      "hashtags": "#萨克森小瑞士 #德国自然 #徒步旅行 #自然奇观 #探险旅行",
+      "voice": "远离城市喧嚣，萨克森小瑞士以其壮丽的岩石景观和迷人的峡谷景色等待着你。这里是徒步旅行者和自然爱好者的天堂，每一步都能感受到大自然的神奇与美丽。无论是攀岩、徒步，还是简单地享受风景，萨克森小瑞士都为你的灵魂提供了一次独一无二的洗礼。别再等待，探索这片德国最美丽的自然奇观吧！",
+      "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
