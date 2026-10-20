@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 446.4665,
-  "spent_eur": 58.2037,
+  "balance_eur": 446.2128,
+  "spent_eur": 58.4574,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -7512,104 +7512,81 @@
       "pay_url": "https://buy.stripe.com/5kQfZidYBbpFfuS5sw2kx0E",
       "payment_link_id": "plink_1USgkLJ5iOXkWb9V6I3w6WHf",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Budget & Suivi des Dépenses pour Associations Bénévoles",
+      "slug": "planificateur-budget-depenses-associations-benevoles",
+      "price_eur": 12,
+      "target": "Associations à but non lucratif et bénévoles responsables de la gestion financière",
+      "reason": "Les associations bénévoles ont besoin d'un outil simple mais professionnel pour gérer leur budget souvent limité. Ce tracker leur fait gagner du temps tout en offrant une transparence financière.",
+      "language": "fr",
+      "pitch": "Gérez facilement les finances de votre association avec ce tracker professionnel. Visualisez les dépenses et optimisez votre budget pour vos actions bénévoles.",
+      "content_html": "<h2>Contenu</h2><p>Outil complet pour suivre les dépenses, recettes et budgets de votre association avec des rapports automatiques.</p>",
+      "pro": true,
+      "created": "2026-10-20T21:40:45",
+      "file": "planificateur-budget-depenses-associations-benevoles-e10121be81860011.xlsx",
+      "size": 15,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist ein funktionierendes Excel-Tool zur Budgetplanung für Vereine, ohne erfundene Statistiken oder fragwürdige Behauptungen. Die Beispieldaten sind plausibel und die Funktionalitäten klar beschrieben.",
+      "pay_url": "https://buy.stripe.com/9B63cw07LalBbeC08c2kx0F",
+      "payment_link_id": "plink_1USkqNJ5iOXkWb9V7A1tm3RL",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien harmonieux",
+      "slug": "guide-pratique-pour-des-chiens-heureux",
+      "price_eur": 5,
+      "target": "propriétaires de chiens occupés",
+      "reason": "Ce guide répond aux besoins des propriétaires de chiens occupés qui cherchent des solutions pratiques pour améliorer le quotidien de leur animal tout en simplifiant leur propre vie. Les conseils proposés sont faciles à mettre en œuvre et adaptés aux différents types de chiens.",
+      "language": "fr",
+      "pitch": "Découvrez des astuces pratiques pour simplifier la vie de votre chien et la vôtre. Ce guide offre des conseils accessibles pour un quotidien serein et joyeux.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Chapitre 1 : Comprendre les besoins de votre chien</li><li>Chapitre 2 : Organiser votre espace pour le bien-être de votre chien</li><li>Chapitre 3 : Des routines simples pour un chien équilibré</li><li>Chapitre 4 : Alimentation saine et facile à gérer</li><li>Chapitre 5 : Activités ludiques pour stimuler votre chien</li><li>Chapitre 6 : Gérer les situations stressantes</li><li>Chapitre 7 : Renforcer votre lien avec votre chien</li></ul>",
+      "pro": false,
+      "created": "2026-10-20T21:40:45",
+      "file": "guide-pratique-pour-des-chiens-heureux-4ab551cee1d9a006.pdf",
+      "size": 1781,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Inhalt bietet allgemein bekannte Praxistipps ohne falsche Versprechen oder Gesundheitsberatung. Sprachlich korrektes Französisch, keine Marken- oder Urheberrechtsverletzungen. Einige Wiederholungen in der Struktur, aber inhaltlich solide.",
+      "pay_url": "https://buy.stripe.com/9B6dRacUxeBRgyW3ko2kx0G",
+      "payment_link_id": "plink_1USkqOJ5iOXkWb9VNSFQz9E5",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Moving & Renovation Budget Planner for Families",
+      "slug": "ultimate-moving-renovation-budget-planner-for-families",
+      "price_eur": 9,
+      "target": "Families planning a move or home renovation who want to track all expenses in one place",
+      "reason": "Families need a simple way to track all moving and renovation expenses in one place during stressful transitions. This template provides clear visibility into spending across categories with automated calculations and visual reports.",
+      "language": "en",
+      "pitch": "Track all moving and renovation costs in one place with automated calculations and visual overviews. Perfect for families staying organized during stressful transitions.",
+      "content_html": "<h2>Contents</h2><p>Complete moving and renovation budget tracker with automated expense calculations, supplier tracking, and visual reporting.</p>",
+      "pro": true,
+      "created": "2026-10-20T21:40:45",
+      "file": "ultimate-moving-renovation-budget-planner-for-families-b4ad61d299fa1c37.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt hält sich an die Regeln: Es enthält keine erfundenen Studien, Statistiken oder Quellen, keine rechtlichen oder finanziellen Beratungen und keine Marken Dritter. Die Excel-Tabelle funktioniert ordnungsgemäß mit automatischen Berechnungen und ist klar als Budgetplaner für Familien gekennze",
+      "pay_url": "https://buy.stripe.com/dRm7sM8Eh79p82q4os2kx0H",
+      "payment_link_id": "plink_1USkqOJ5iOXkWb9V8SAcPJVL",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.16,
-      "why": "KI-Bilder: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
-    },
-    {
-      "t": "2026-10-18T22:34:25",
-      "eur": -0.0036996,
-      "why": "Audit: 7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen"
-    },
-    {
-      "t": "2026-10-18T22:34:25",
-      "eur": -0.0031859999999999996,
-      "why": "Audit: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travele"
-    },
-    {
-      "t": "2026-10-18T22:34:25",
-      "eur": -0.0032963999999999997,
-      "why": "Audit: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.001332,
-      "why": "Blog-Artikel: Muenchen Marienplatz (de)"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.0011339999999999998,
-      "why": "Blog-Artikel: Eifel Maare (en)"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.00037079999999999996,
-      "why": "Video-Skript: Eifel Maare"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.0162384,
-      "why": "KI-Denken: Planificador de Viajes por NRW: Presupuesto y Ruta para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.0012768,
-      "why": "KI-Pruefung: Planificador de Viajes por NRW: Presupuesto y Ruta para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.0229848,
-      "why": "KI-Denken: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Viajeros"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.0042828,
-      "why": "KI-Pruefung: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Viajeros"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Viajeros"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.016105199999999997,
-      "why": "KI-Denken: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.0011783999999999998,
-      "why": "KI-Pruefung: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.015922799999999997,
-      "why": "KI-Denken: 智能德国北海与波罗的海家庭旅行预算追踪器 - 2026专业版"
-    },
     {
       "t": "2026-10-19T04:45:47",
       "eur": -0.001,
@@ -8514,6 +8491,101 @@
       "t": "2026-10-20T17:12:43",
       "eur": -0.00034079999999999994,
       "why": "Video-Skript: Rothenburg ob der Tauber"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.0166752,
+      "why": "KI-Denken: Trackeur de Budget et de Bénévoles pour Associations"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Trackeur de Budget et de Bénévoles pour Associations"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.0171792,
+      "why": "KI-Denken: Planificateur de Budget & Suivi des Dépenses pour Associations Bénévoles"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.0014063999999999997,
+      "why": "KI-Pruefung: Planificateur de Budget & Suivi des Dépenses pour Associations Bénévoles"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.023181600000000004,
+      "why": "KI-Denken: Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien harmonieux"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.0041627999999999995,
+      "why": "KI-Pruefung: Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien harmonieux"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien harmonieux"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.016676399999999997,
+      "why": "KI-Denken: Ultimate Moving & Renovation Budget Planner for Families"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.0010475999999999999,
+      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Planner for Families"
+    },
+    {
+      "t": "2026-10-20T21:44:59",
+      "eur": -0.0023136,
+      "why": "Audit: Planificateur de Budget & Suivi des Dépenses pour Associations Bénévoles"
+    },
+    {
+      "t": "2026-10-20T21:44:59",
+      "eur": -0.0037955999999999992,
+      "why": "Audit: Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien "
+    },
+    {
+      "t": "2026-10-20T21:44:59",
+      "eur": -0.0032976,
+      "why": "Audit: Ultimate Moving & Renovation Budget Planner for Families"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.0011172,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (zh)"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.0014232,
+      "why": "Blog-Artikel: Dresden Frauenkirche (es)"
+    },
+    {
+      "t": "2026-10-20T21:40:45",
+      "eur": -0.0004223999999999999,
+      "why": "Video-Skript: Dresden Frauenkirche"
     }
   ],
   "alive": true,
@@ -10063,6 +10135,22 @@
       "topic": "Rothenburg ob der Tauber",
       "created": "2026-10-20T17:12:43",
       "img": true
+    },
+    {
+      "slug": "exploring-brandenburg-gate-berlin",
+      "title": "探索柏林勃兰登堡门：历史与文化的交汇点",
+      "lang": "zh",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-20T21:40:45",
+      "img": true
+    },
+    {
+      "slug": "descubre-la-majestuosa-frauenkirche-de-dresden",
+      "title": "Descubre la majestuosa Frauenkirche de Dresden",
+      "lang": "es",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-20T21:40:45",
+      "img": true
     }
   ],
   "videos": [
@@ -10854,6 +10942,16 @@
       "hashtags": "#Rothenburg #GermanyTravel #MedievalMagic #Bavaria #FairytaleTown",
       "voice": "Discover Rothenburg ob der Tauber - Germany's enchanting walled town frozen in time! Wander through picture-perfect lanes with half-timbered houses, climb ancient towers for breathtaking views, and soak up 800 years of history. Don't miss the legendary Night Watchman tour and sinful Schneeballen pastries. Pure European fairy-tale charm!",
       "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-la-majestuosa-frauenkirche-de-dresden",
+      "title": "Descubre la majestuosa Frauenkirche de Dresden",
+      "lang": "es",
+      "created": "2026-10-20T21:40:45",
+      "hashtags": "#Frauenkirche #Dresde #Alemania #Arquitectura #Historia",
+      "voice": "La Frauenkirche de Dresde, una joya arquitectónica que resurge de las cenizas. Destruida durante la Segunda Guerra Mundial, fue meticulosamente reconstruida y reabierta en 2005. Su imponente cúpula, conocida como 'la Campana de Piedra', domina el cielo de la ciudad. Hoy, es un símbolo de paz y un testimonio de la resiliencia humana. ¡No te pierdas su belleza y la vista panorámica desde su torre!",
+      "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
