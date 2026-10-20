@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 446.8881,
-  "spent_eur": 57.7821,
+  "balance_eur": 446.4665,
+  "spent_eur": 58.2037,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -7440,114 +7440,81 @@
       "pay_url": "https://buy.stripe.com/28E3cw7Ad51h6Ym4os2kx0B",
       "payment_link_id": "plink_1USbWpJ5iOXkWb9V5bDJDTw9",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería",
+      "slug": "estrategias-cliente-pequeno-restaurante-cafeteria",
+      "price_eur": 5,
+      "target": "Hombres dueños de pequeños restaurantes y cafeterías que buscan aumentar su clientela de manera efectiva y sostenible",
+      "reason": "Este ebook ofrece estrategias prácticas y específicas para dueños de pequeños restaurantes y cafeterías, ayudándoles a aumentar su clientela de manera efectiva y sostenible. Es un producto valioso que justifica su precio y proporciona un retorno de inversión claro.",
+      "language": "es",
+      "pitch": "Descubre cómo atraer más clientes y aumentar tus ventas con estrategias prácticas y probadas diseñadas especialmente para pequeños restaurantes y cafeterías.",
+      "content_html": "<h2>Inhalt</h2> <p>En este ebook encontrarás 7 estrategias clave para atraer más clientes a tu pequeño restaurante o cafetería. Cada estrategia está explicada de manera clara y práctica, con ejemplos concretos que podrás aplicar inmediatamente.</p>",
+      "pro": false,
+      "created": "2026-10-20T17:12:43",
+      "file": "estrategias-cliente-pequeno-restaurante-cafeteria-faf68d7355fb706f.pdf",
+      "size": 2010,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils in Ordnung, aber es gibt eine nicht verifizierte Prozentangabe (20%). Dieser Wert sollte als Beispiel markiert oder entfernt werden. Ansonsten enthält das Ebook praktische Tipps ohne falsche Behauptungen oder Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/28E28sbQteBR96u08c2kx0C",
+      "payment_link_id": "plink_1USgkKJ5iOXkWb9VXPSzQjUM",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能旅行打包清单与预算追踪器 - 2026专业版",
+      "slug": "intelligent-travel-packing-budget-tracker-zh-2026",
+      "price_eur": 9,
+      "target": "经常商务旅行或休闲旅行的中国自由职业者和小企业主",
+      "reason": "针对中国自由职业者的具体需求设计，结合了西方商务旅行工具的实用性和中文用户的习惯，提供多币种支持和智能打包建议功能，帮助用户在出国旅行时保持组织性和预算控制。",
+      "language": "zh",
+      "pitch": "专业设计的旅行规划工具，一站式管理打包清单和旅行预算，让每次出行都井井有条，开支清晰可控",
+      "content_html": "<h2>内容</h2><ul><li>智能打包清单分类系统</li><li>多币种预算追踪</li><li>行程日期管理</li><li>可视化数据分析</li></ul>",
+      "pro": true,
+      "created": "2026-10-20T17:12:43",
+      "file": "intelligent-travel-packing-budget-tracker-zh-2026-3c881864549eb2b9.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen; keine falsche oder gemischte Sprache; keine unfertigen oder abgebrochenen Texte; keine Rechts-, Steuer-, Finanz- oder Medizinberatung; keine Gesundheitsversprechen; keine fremden Marken oder Figuren; alle Formeln u",
+      "pay_url": "https://buy.stripe.com/9B65kE8EhctJ96u9IM2kx0D",
+      "payment_link_id": "plink_1USgkLJ5iOXkWb9VS0z7VRvY",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额",
+      "slug": "etsy-sales-master-guide-zh",
+      "price_eur": 5,
+      "target": "中国的Etsy卖家和在线小商家",
+      "reason": "中国有许多新兴的Etsy卖家需要简单实用的销售指导，这是一个巨大的未开发市场。本指南提供具体可操作的建议，而非空泛的理论，帮助卖家快速看到效果。",
+      "language": "zh",
+      "pitch": "本指南提供实用的7步策略，帮助您优化Etsy店铺，增加曝光率和销售额。无需经验，立即见效！",
+      "content_html": "<h2>内容</h2><ol><li>第一章：打造吸引人的店铺形象</li><li>第二章：关键词优化的秘密</li><li>第三章：高质量产品照片拍摄技巧</li><li>第四章：客户评价管理策略</li><li>第五章：社交媒体营销技巧</li><li>第六章：定价与促销策略</li><li>第七章：数据分析与持续优化</li></ol>",
+      "pro": false,
+      "created": "2026-10-20T17:12:43",
+      "file": "etsy-sales-master-guide-zh-6137531f6948c19c.pdf",
+      "size": 2079,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar strukturiert und folgt den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Text bietet allgemein bekannte Praxistipps und ist sprachlich korrekt in Chinesisch verfasst. Es gibt keine Hinweise auf unfertige Texte, Platzhalter oder sachliche Fehler. Es",
+      "pay_url": "https://buy.stripe.com/5kQfZidYBbpFfuS5sw2kx0E",
+      "payment_link_id": "plink_1USgkLJ5iOXkWb9V6I3w6WHf",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.0154524,
-      "why": "KI-Denken: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.0159072,
-      "why": "KI-Denken: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.0014543999999999998,
-      "why": "KI-Pruefung: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-18T18:47:38",
-      "eur": -0.0025992,
-      "why": "Audit: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-18T18:47:38",
-      "eur": -0.0031367999999999995,
-      "why": "Audit: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
-    },
-    {
-      "t": "2026-10-18T18:47:38",
-      "eur": -0.0039372,
-      "why": "Audit: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.0016331999999999998,
-      "why": "Blog-Artikel: Harz Brocken (es)"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.0014543999999999998,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (fr)"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.00041519999999999995,
-      "why": "Video-Skript: Nordsee Wattenmeer"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.021681599999999995,
-      "why": "KI-Denken: 7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen mit smarten Tools"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.0039108,
-      "why": "KI-Pruefung: 7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen mit smarten Tools"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen mit smarten Tools"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.0159996,
-      "why": "KI-Denken: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.0011531999999999998,
-      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.020809199999999996,
-      "why": "KI-Denken: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
-    },
-    {
-      "t": "2026-10-18T22:28:09",
-      "eur": -0.0034056,
-      "why": "KI-Pruefung: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
-    },
     {
       "t": "2026-10-18T22:28:09",
       "eur": -0.16,
@@ -8447,6 +8414,106 @@
       "t": "2026-10-20T11:43:39",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599358881"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.0231504,
+      "why": "KI-Denken: 7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.003908399999999999,
+      "why": "KI-Pruefung: 7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.0164652,
+      "why": "KI-Denken: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.0010128,
+      "why": "KI-Pruefung: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.0165636,
+      "why": "KI-Denken: 智能旅行打包清单与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行打包清单与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.0218124,
+      "why": "KI-Denken: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.0042239999999999995,
+      "why": "KI-Pruefung: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.16,
+      "why": "KI-Bilder: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-10-20T17:22:24",
+      "eur": -0.0036959999999999996,
+      "why": "Audit: 7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafeterí"
+    },
+    {
+      "t": "2026-10-20T17:22:24",
+      "eur": -0.0022152,
+      "why": "Audit: 智能旅行打包清单与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-20T17:22:24",
+      "eur": -0.0044268,
+      "why": "Audit: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.0014831999999999998,
+      "why": "Blog-Artikel: Frankfurt Skyline (de)"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.0013379999999999998,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (en)"
+    },
+    {
+      "t": "2026-10-20T17:12:43",
+      "eur": -0.00034079999999999994,
+      "why": "Video-Skript: Rothenburg ob der Tauber"
     }
   ],
   "alive": true,
@@ -9980,6 +10047,22 @@
       "topic": "Hamburg Speicherstadt",
       "created": "2026-10-20T11:43:39",
       "img": true
+    },
+    {
+      "slug": "frankfurts-skyline-eine-reise-in-die-hoehe",
+      "title": "Frankfurts Skyline: Eine Reise in die Höhe",
+      "lang": "de",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-20T17:12:43",
+      "img": true
+    },
+    {
+      "slug": "discover-the-timeless-charm-of-rothenburg-ob-der-tauber",
+      "title": "Discover the Timeless Charm of Rothenburg ob der Tauber",
+      "lang": "en",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-20T17:12:43",
+      "img": true
     }
   ],
   "videos": [
@@ -10761,6 +10844,16 @@
       "hashtags": "#Hamburg #Speicherstadt #UNESCO #Voyage #Allemagne",
       "voice": "Bienvenue à la Speicherstadt de Hambourg, un trésor incontournable en Allemagne ! Ce quartier historique, classé au patrimoine mondial de l'UNESCO, vous transporte dans un univers fascinant. Admirez les magnifiques bâtiments en briques rouges, les canaux pittoresques et les anciens entrepôts. Plongez dans l'atmosphère maritime et découvrez l'âme de Hambourg. Une expérience unique à ne pas manquer !",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-the-timeless-charm-of-rothenburg-ob-der-tauber",
+      "title": "Discover the Timeless Charm of Rothenburg ob der Tauber",
+      "lang": "en",
+      "created": "2026-10-20T17:12:43",
+      "hashtags": "#Rothenburg #GermanyTravel #MedievalMagic #Bavaria #FairytaleTown",
+      "voice": "Discover Rothenburg ob der Tauber - Germany's enchanting walled town frozen in time! Wander through picture-perfect lanes with half-timbered houses, climb ancient towers for breathtaking views, and soak up 800 years of history. Don't miss the legendary Night Watchman tour and sinful Schneeballen pastries. Pure European fairy-tale charm!",
+      "credits": "Foto: -wuppertaler, CC BY 4.0, via Wikimedia Commons; Foto: Theodor Alt, Public domain, via Wikimedia Commons; Foto: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
