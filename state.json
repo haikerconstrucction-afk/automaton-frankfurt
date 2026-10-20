@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 447.7237,
-  "spent_eur": 56.9465,
+  "balance_eur": 446.8881,
+  "spent_eur": 57.7821,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4670,7 +4670,10 @@
       "audit_note": "Der Inhalt ist weitgehend konform mit den Regeln. Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen festgestellt. Die Sprache ist durchgehend Französisch, und es gibt keine unfertigen Texte oder Platzhalter. Der Text enthält keine Rechts-, Steuer-, Finanz- oder Medizinberatung sowie",
       "pay_url": "https://buy.stripe.com/9B6eVe4o1dxNeqOcUY2kw2S",
       "payment_link_id": "plink_1UOzdqJ5iOXkWb9Vqd5EGeG3",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4599382660"
+      }
     },
     {
       "type": "excel",
@@ -4694,7 +4697,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Der Inhalt ist klar strukturiert und frei von Regelverstößen. Die Beispieldaten sind plausibel und entsprechen den berechneten Kennzahlen.",
       "pay_url": "https://buy.stripe.com/dRm28s7AdeBRciG6wA2kw2T",
       "payment_link_id": "plink_1UP5F9J5iOXkWb9VOhoUwsAG",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4599358861"
+      }
     },
     {
       "type": "ebook",
@@ -4718,7 +4724,10 @@
       "audit_note": "Der Inhalt ist größtenteils regelkonform. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Text enthält praktische Tipps und allgemein bekannte Informationen. Leichte Wiederholungen und eine unvollständige Stelle (abgebrochener Satz im Abschnitt 8) liegen vor, aber dies ist kein",
       "pay_url": "https://buy.stripe.com/cNi9AU1bP9hxciG7AE2kw2U",
       "payment_link_id": "plink_1UP5FAJ5iOXkWb9V8Ppe8yaN",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4599358881"
+      }
     },
     {
       "type": "excel",
@@ -7359,149 +7368,81 @@
       "pay_url": "https://buy.stripe.com/9B6cN6cUx8dt3Ma08c2kx0y",
       "payment_link_id": "plink_1USVCNJ5iOXkWb9VXfxyKnJu",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Workout Progress Tracker for Female Fitness Coaches",
+      "slug": "smart-workout-progress-tracker-female-fitness-coaches",
+      "price_eur": 9,
+      "target": "Female fitness coaches and trainers who want to track client progress efficiently",
+      "reason": "Fitness coaches need a structured way to track client progress and visualize data for better decision-making and client engagement.",
+      "language": "en",
+      "pitch": "Track and visualize client workout progress, measurements, and goals in one professional Excel tool.",
+      "content_html": "<h2>Content</h2><p>A dynamic Excel tracker designed for fitness coaches to monitor client progress, set goals, and analyze performance trends.</p>",
+      "pro": true,
+      "created": "2026-10-20T11:43:39",
+      "file": "smart-workout-progress-tracker-female-fitness-coaches-a2117d2730381fec.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien oder Statistiken, keine unzulässigen Gesundheitsversprechen oder Marken Dritter. Die Beispiel-Daten sind klar als solche gekennzeichnet. Die Prozentangaben im Body Fat sind plausible Dezimalwerte (nicht als Prozente formatiert). Verbesserungspotenzial bei der Formel für Kalo",
+      "pay_url": "https://buy.stripe.com/fZudRa1bPctJ5Ui7AE2kx0z",
+      "payment_link_id": "plink_1USbWnJ5iOXkWb9Vyfe4XoD2",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties",
+      "slug": "organized-landlord-guide",
+      "price_eur": 5,
+      "target": "small landlords (1-5 properties) who want to reduce stress and stay organized",
+      "reason": "Many landlords with small portfolios struggle with organization but can't justify professional management fees. This provides affordable, practical solutions tailored specifically to their needs.",
+      "language": "en",
+      "pitch": "Stop feeling overwhelmed by paperwork and tenant requests. This step-by-step guide shows you how to create systems that save time and keep your rentals running smoothly.",
+      "content_html": "<h2>What's Inside This Guide</h2><p>Practical strategies tested by real small landlords. Includes free downloadable checklists for tenant screening, maintenance scheduling, and budget tracking.</p><h3>Chapter Preview:</h3><p>\"How to handle emergency repair calls at 2am without panicking (page 23)\"</p>",
+      "pro": false,
+      "created": "2026-10-20T11:43:39",
+      "file": "organized-landlord-guide-d2fddc34b3669807.pdf",
+      "size": 1973,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die erwähnten Prozentzahlen (15%, 90%) sind nicht durch Quellen oder allgemein bekannte Fakten belegt und sollten entfernt werden. Ansonsten enthält der Inhalt keine erfundenen Studien, Statistiken oder unzulässige Beratung. Die Sprache ist korrekt und es gibt keine unfertigen Texte oder Platzhalter",
+      "pay_url": "https://buy.stripe.com/8x2cN6cUxfFVciGcUY2kx0A",
+      "payment_link_id": "plink_1USbWoJ5iOXkWb9VHspqZEj6",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador Inteligente de Exámenes para Estudiantes Universitarios",
+      "slug": "planificador-inteligente-examenes-universitarios",
+      "price_eur": 9,
+      "target": "Estudiantes universitarios que necesitan organizar su preparación para exámenes",
+      "reason": "Los estudiantes universitarios necesitan herramientas profesionales para organizar su tiempo de estudio entre múltiples materias. Este planificador ofrece una solución completa con seguimiento de progreso, calculadora de notas y dashboard de análisis, todo adaptado específicamente para el contexto académico universitario.",
+      "language": "es",
+      "pitch": "Organiza tus estudios, controla tu progreso y maximiza tu rendimiento académico con esta herramienta todo-en-uno diseñada específicamente para estudiantes universitarios.",
+      "content_html": "<h2>Incluye</h2><ul><li>Planificador semanal de estudio</li><li>Tracker de progreso por materia</li><li>Calculadora de notas necesarias</li><li>Dashboard visual de tu preparación</li></ul>",
+      "pro": true,
+      "created": "2026-10-20T11:43:39",
+      "file": "planificador-inteligente-examenes-universitarios-f1cfd785b86737c7.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Anforderungen und verstößt nicht gegen die Regeln. Es enthält keine erfundenen Studien, Statistiken oder falsche Behauptungen. Die Excel-Funktionen sind korrekt und sinnvoll, die Beispieldaten plausibel. Die Sprache ist durchgehend Spanisch und konsistent. Das Produkt bietet ",
+      "pay_url": "https://buy.stripe.com/28E3cw7Ad51h6Ym4os2kx0B",
+      "payment_link_id": "plink_1USbWpJ5iOXkWb9V5bDJDTw9",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.016295999999999998,
-      "why": "KI-Denken: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.001644,
-      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.022204799999999993,
-      "why": "KI-Denken: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'année"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.004068,
-      "why": "KI-Pruefung: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'année"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'année"
-    },
-    {
-      "t": "2026-10-18T16:05:15",
-      "eur": -0.004303199999999999,
-      "why": "Audit: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
-    },
-    {
-      "t": "2026-10-18T16:05:15",
-      "eur": -0.0028307999999999996,
-      "why": "Audit: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
-    },
-    {
-      "t": "2026-10-18T16:05:15",
-      "eur": -0.0038291999999999996,
-      "why": "Audit: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'an"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.0013043999999999998,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (en)"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.0010164,
-      "why": "Blog-Artikel: Dresden Frauenkirche (zh)"
-    },
-    {
-      "t": "2026-10-18T15:55:16",
-      "eur": -0.00036239999999999997,
-      "why": "Video-Skript: Dresden Frauenkirche"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.015303599999999999,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.020856000000000003,
-      "why": "KI-Denken: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.0032855999999999996,
-      "why": "KI-Pruefung: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.015614399999999999,
-      "why": "KI-Denken: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.0010355999999999998,
-      "why": "KI-Pruefung: Pflegebedürftigen-Verwaltungs-Tracker für Senioren und Pflegeorganisationen"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.0155832,
-      "why": "KI-Denken: Senioren-Pflegekosten-Tracker & Budgetplaner"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senioren-Pflegekosten-Tracker & Budgetplaner"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.015941999999999998,
-      "why": "KI-Denken: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": -0.0011748,
-      "why": "KI-Pruefung: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-18T18:40:27",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 2 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-10-18T18:40:27",
       "eur": -0.0154524,
@@ -8366,6 +8307,146 @@
       "t": "2026-10-20T04:55:44",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599179133"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.0162708,
+      "why": "KI-Denken: Smart Fitness Training Planner & Progress Tracker"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Smart Fitness Training Planner & Progress Tracker"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.0167076,
+      "why": "KI-Denken: Smart Female Fitness Coach Business Planner"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.0012347999999999999,
+      "why": "KI-Pruefung: Smart Female Fitness Coach Business Planner"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.0161484,
+      "why": "KI-Denken: Smart Workout Progress Tracker for Female Fitness Coaches"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Smart Workout Progress Tracker for Female Fitness Coaches"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.021877199999999996,
+      "why": "KI-Denken: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.0033263999999999993,
+      "why": "KI-Pruefung: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.01668,
+      "why": "KI-Denken: Planificador Inteligente de Exámenes para Estudiantes Universitarios"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.0011411999999999998,
+      "why": "KI-Pruefung: Planificador Inteligente de Exámenes para Estudiantes Universitarios"
+    },
+    {
+      "t": "2026-10-20T11:48:04",
+      "eur": -0.0021311999999999998,
+      "why": "Audit: Smart Workout Progress Tracker for Female Fitness Coaches"
+    },
+    {
+      "t": "2026-10-20T11:48:04",
+      "eur": -0.0031103999999999997,
+      "why": "Audit: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Propert"
+    },
+    {
+      "t": "2026-10-20T11:48:04",
+      "eur": -0.0024708,
+      "why": "Audit: Planificador Inteligente de Exámenes para Estudiantes Universitarios"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.001296,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (es)"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.0008711999999999999,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (fr)"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.0003924,
+      "why": "Video-Skript: Hamburg Speicherstadt"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidden Gems"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599382660"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599358861"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-10-20T11:43:39",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599358881"
     }
   ],
   "alive": true,
@@ -9883,6 +9964,22 @@
       "topic": "Saechsische Schweiz",
       "created": "2026-10-20T04:55:44",
       "img": true
+    },
+    {
+      "slug": "acantilados-ruegen-alemania",
+      "title": "Los Acantilados de Rügen: Un espectáculo natural en Alemania",
+      "lang": "es",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-20T11:43:39",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-la-speicherstadt-de-hambourg",
+      "title": "Découvrez la Speicherstadt de Hambourg, un joyau historique et culturel",
+      "lang": "fr",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-20T11:43:39",
+      "img": true
     }
   ],
   "videos": [
@@ -10654,6 +10751,16 @@
       "hashtags": "#萨克森小瑞士 #德国自然 #徒步旅行 #自然奇观 #探险旅行",
       "voice": "远离城市喧嚣，萨克森小瑞士以其壮丽的岩石景观和迷人的峡谷景色等待着你。这里是徒步旅行者和自然爱好者的天堂，每一步都能感受到大自然的神奇与美丽。无论是攀岩、徒步，还是简单地享受风景，萨克森小瑞士都为你的灵魂提供了一次独一无二的洗礼。别再等待，探索这片德国最美丽的自然奇观吧！",
       "credits": "Foto: Aviorausch, CC BY-SA 4.0, via Wikimedia Commons; Foto: J.-H. Janßen, CC BY-SA 4.0, via Wikimedia Commons; Foto: Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-la-speicherstadt-de-hambourg",
+      "title": "Découvrez la Speicherstadt de Hambourg, un joyau historique et culturel",
+      "lang": "fr",
+      "created": "2026-10-20T11:43:39",
+      "hashtags": "#Hamburg #Speicherstadt #UNESCO #Voyage #Allemagne",
+      "voice": "Bienvenue à la Speicherstadt de Hambourg, un trésor incontournable en Allemagne ! Ce quartier historique, classé au patrimoine mondial de l'UNESCO, vous transporte dans un univers fascinant. Admirez les magnifiques bâtiments en briques rouges, les canaux pittoresques et les anciens entrepôts. Plongez dans l'atmosphère maritime et découvrez l'âme de Hambourg. Une expérience unique à ne pas manquer !",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
