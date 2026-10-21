@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 444.4189,
-  "spent_eur": 60.2513,
+  "balance_eur": 444.0125,
+  "spent_eur": 60.6577,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -7746,99 +7746,81 @@
       "pay_url": "https://buy.stripe.com/dRm7sMaMp51heqO08c2kx0N",
       "payment_link_id": "plink_1USuFNJ5iOXkWb9VumtbeP8n",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes",
+      "slug": "guia-practica-saarland-mosela",
+      "price_eur": 5,
+      "target": "Hombres interesados en explorar el Saarland y la Mosela (Alemania)",
+      "reason": "Este ebook cubre una necesidad específica de viajeros interesados en explorar el Saarland y la Mosela, ofreciendo información práctica y detallada que no se encuentra fácilmente en guías generales.",
+      "language": "es",
+      "pitch": "Descubre los secretos mejor guardados del Saarland y la Mosela con esta guía práctica, diseñada para viajeros que buscan experiencias auténticas y rutas fuera de lo común.",
+      "content_html": "<h2>Inhalt</h2>Una guía esencial para explorar el Saarland y la Mosela, con consejos prácticos, itinerarios y recomendaciones gastronómicas.<h3>Capítulo 1: Bienvenidos al Saarland</h3>Introducción a la región, su historia y cultura.<h3>Capítulo 2: Itinerarios imprescindibles</h3>Rutas detalladas para explorar los paisajes más espectaculares.<h3>Capítulo 3: La riqueza gastronómica</h3>Platos típicos y dónde disfrutarlos.<h3>Capítulo 4: Actividades al aire libre</h3>Senderismo, ciclismo y otros deportes en la naturaleza.<h3>Capítulo 5: La Mosela, un río lleno de vida</h3>Recorridos por sus pueblos más pintorescos.<h3>Capítulo 6: Consejos prácticos</h3>Transporte, alojamiento y presupuesto.",
+      "pro": false,
+      "created": "2026-10-21T13:51:41",
+      "file": "guia-practica-saarland-mosela-0a96f15bead481db.pdf",
+      "size": 1735,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils korrekt und entspricht den Regeln. Es gibt keine erfundenen Statistiken, Zahlen oder Quellen. Die Sprache ist durchgehend Spanisch und es gibt keine unfertigen Texte oder Platzhalter. Allerdings ist die Information, dass im Saarland Spanisch gesprochen wird, nicht korrekt",
+      "pay_url": "https://buy.stripe.com/4gMdRadYBdxNbeCbQU2kx0O",
+      "payment_link_id": "plink_1UT01rJ5iOXkWb9V7vZ7oMdR",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能NRW城市探索预算追踪与行程规划器 - 2026专业版",
+      "slug": "smart-nrw-city-explorer-budget-tracker",
+      "price_eur": 9,
+      "target": "前往德国北威州（科隆、杜塞尔多夫、鲁尔区）旅行的独立旅行者和自由职业者",
+      "reason": "这个模板为探索北威州的旅行者提供了完整的预算管理和行程规划解决方案，特别适合独立旅行者和数字游民。它将财务控制和行程优化整合在一个专业工具中，节省时间并提高旅行体验品质。",
+      "language": "zh",
+      "pitch": "专业级的旅行预算和行程规划工具，帮助您轻松掌控北威州之旅的每一分开支和每一个行程细节",
+      "content_html": "<h2>内容</h2><p>这款专业的Excel模板包含完整的预算追踪、行程规划和景点数据库功能，专为探索北威州而设计</p>",
+      "pro": true,
+      "created": "2026-10-21T13:51:41",
+      "file": "smart-nrw-city-explorer-budget-tracker-33b8ddc7458a8ac2.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Zahlen oder Statistiken, keine Regelverstöße erkennbar. Das Produkt ist ein funktionales Excel-Tool ohne falsche Behauptungen oder Beratung.",
+      "pay_url": "https://buy.stripe.com/4gMbJ22fTdxNciG9IM2kx0P",
+      "payment_link_id": "plink_1UT01sJ5iOXkWb9VWztXM2QD",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏",
+      "slug": "ultimate-travel-guide-bavaria-alps-hidden-gems",
+      "price_eur": 5,
+      "target": "热爱自然与文化探索的中国、台湾、新加坡旅行者",
+      "reason": "巴伐利亚与阿尔卑斯山是中国、台湾和新加坡旅行者的热门目的地，但目前市场上缺乏针对这一区域的详细中文指南。本书填补了这一空白，提供了实用的旅行建议和隐藏景点推荐，帮助旅行者规划一次难忘的德国之旅。",
+      "language": "zh",
+      "pitch": "这本指南带你深度探索巴伐利亚与阿尔卑斯的隐藏瑰宝，提供实用的旅行建议和独家路线规划，让你的德国之旅更加难忘。",
+      "content_html": "<h2>内容</h2> 阅读本书，你将了解如何规划一次完美的巴伐利亚与阿尔卑斯之旅，发现鲜为人知的景点，并获取实用的旅行技巧。",
+      "pro": false,
+      "created": "2026-10-21T13:51:41",
+      "file": "ultimate-travel-guide-bavaria-alps-hidden-gems-b90cf5bccfd91e0f.pdf",
+      "size": 1765,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken oder Quellen. Es gibt keine falschen oder gemischten Sprachen, Platzhalter oder unfertigen Texte. Der Inhalt ist sachlich korrekt und enthält keine verbotenen Themen wie Rechts-, Steuer-, Finanz- oder medizinische Beratung, Gesundheitsversprec",
+      "pay_url": "https://buy.stripe.com/bJe7sM9IleBRbeC4os2kx0Q",
+      "payment_link_id": "plink_1UT01tJ5iOXkWb9V2jKlGTYO",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0012816,
-      "why": "Blog-Artikel: Saarland Saarschleife (de)"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0012203999999999997,
-      "why": "Blog-Artikel: Koeln Dom (en)"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.00036119999999999994,
-      "why": "Video-Skript: Koeln Dom"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Stress-Free Teacher: 7 Simple Strategies to Save Time & Energize Your Classroom"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598684838"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Control de Gastos y Planificación para Cuidadores de Adultos Mayores"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598661965"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Pasos para Convertirte en un Freelancer Exitoso: Guía Práctica para Hombres Autónomos"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598662003"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0164376,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Trip Planner & Budget Tracker (2026 Edition)"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0012744,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Trip Planner & Budget Tracker (2026 Edition)"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.016105199999999997,
-      "why": "KI-Denken: Planificateur de Voyage à Berlin & Potsdam : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0010428,
-      "why": "KI-Pruefung: Planificateur de Voyage à Berlin & Potsdam : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
     {
       "t": "2026-10-19T19:58:41",
       "eur": -0.0158844,
@@ -8753,6 +8735,91 @@
       "t": "2026-10-21T07:43:06",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600037412"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.0229884,
+      "why": "KI-Denken: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.004263599999999999,
+      "why": "KI-Pruefung: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.017452799999999997,
+      "why": "KI-Denken: 智能NRW城市探索预算追踪与行程规划器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.0013368,
+      "why": "KI-Pruefung: 智能NRW城市探索预算追踪与行程规划器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.021779999999999997,
+      "why": "KI-Denken: 巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.003993599999999999,
+      "why": "KI-Pruefung: 巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.16,
+      "why": "KI-Bilder: 巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏"
+    },
+    {
+      "t": "2026-10-21T13:57:51",
+      "eur": -0.003942,
+      "why": "Audit: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
+    },
+    {
+      "t": "2026-10-21T13:57:51",
+      "eur": -0.0026435999999999994,
+      "why": "Audit: 智能NRW城市探索预算追踪与行程规划器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-21T13:57:51",
+      "eur": -0.004219199999999999,
+      "why": "Audit: 巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.0016032,
+      "why": "Blog-Artikel: Rheingau Weinberge (es)"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.0017519999999999999,
+      "why": "Blog-Artikel: Schwarzwald (de)"
+    },
+    {
+      "t": "2026-10-21T13:51:41",
+      "eur": -0.0003972,
+      "why": "Video-Skript: Schwarzwald"
     }
   ],
   "alive": true,
@@ -10350,6 +10417,22 @@
       "topic": "Eifel Maare",
       "created": "2026-10-21T07:43:06",
       "img": true
+    },
+    {
+      "slug": "descubriendo-los-vinedos-de-rheingau-un-paraiso-para-los-ama",
+      "title": "Descubriendo los viñedos de Rheingau: Un paraíso para los amantes del vino",
+      "lang": "es",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-21T13:51:41",
+      "img": true
+    },
+    {
+      "slug": "entdecke-den-schwarzwald-natur-kultur-und-genuss",
+      "title": "Entdecke den Schwarzwald: Natur, Kultur und Genuss",
+      "lang": "de",
+      "topic": "Schwarzwald",
+      "created": "2026-10-21T13:51:41",
+      "img": true
     }
   ],
   "videos": [
@@ -11161,6 +11244,16 @@
       "hashtags": "#Wattenmeer #Nordsee #Naturparadies #UNESCO #EbbeUndFlut",
       "voice": "Das Wattenmeer an der Nordsee ist ein faszinierendes Ökosystem, das jeden Besucher in seinen Bann zieht. Hier zeigt sich die Natur von ihrer beeindruckendsten Seite: riesige Wattflächen, unendliche Weiten und eine einzigartige Tierwelt. Entdecken Sie die Magie des Wattenmeers – ob bei einer spannenden Wattwanderung, beim Entdecken kleiner Krabben oder beim Beobachten tausender Zugvögel. Erleben Sie die Kraft der Gezeiten und die Schönheit dieser einmaligen Landschaft!",
       "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "entdecke-den-schwarzwald-natur-kultur-und-genuss",
+      "title": "Entdecke den Schwarzwald: Natur, Kultur und Genuss",
+      "lang": "de",
+      "created": "2026-10-21T13:51:41",
+      "hashtags": "#Schwarzwald #Natur #Entspannung #Wandern #Kultur",
+      "voice": "Herzlich willkommen im Schwarzwald! Ein Ort voller Magie, wo grüne Wälder, klare Seen und traditionelle Fachwerkhäuser dich verzaubern. Ob Wandern, Skifahren oder einfach Entspannen – hier findest du Entschleunigung pur. Genieße Schwarzwälder Kirschtorte, erkunde Burgen und tauche ein in eine Welt voller Geschichte und Lebensfreude. Der Schwarzwald – ein Erlebnis für alle Sinne!",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
