@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 443.6917,
-  "spent_eur": 60.9785,
+  "balance_eur": 443.4773,
+  "spent_eur": 61.1929,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -7890,119 +7890,33 @@
       "pay_url": "https://buy.stripe.com/8x2eVe5s5ctJaay5sw2kx0T",
       "payment_link_id": "plink_1UT4ciJ5iOXkWb9VAI58OLPB",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems",
+      "slug": "discovering-dresden-with-kids-family-friendly-guide",
+      "price_eur": 5,
+      "target": "Families traveling to Dresden who want to explore the city’s culture and history in a kid-friendly way",
+      "reason": "Families traveling to Dresden often struggle to find activities that cater to both adults and children. This guide fills that gap by offering a curated selection of kid-friendly experiences, ensuring that parents can enjoy the city’s cultural offerings while keeping their children engaged and happy.",
+      "language": "en",
+      "pitch": "Make your family trip to Dresden unforgettable with this practical guide filled with kid-approved activities, historical insights, and hidden gems. Perfect for parents who want to combine fun and learning for their children.",
+      "content_html": "<h2>Content</h2> Table of Contents + Sample Chapter: 'Exploring the Zwinger Palace with Kids'",
+      "pro": false,
+      "created": "2026-10-21T23:24:00",
+      "file": "discovering-dresden-with-kids-family-friendly-guide-79e54e76c4651d5f.pdf",
+      "size": 1830,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist familienfreundlich, sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Tipps sind praktisch und allgemein bekannt. Keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/4gMeVecUxctJfuS4os2kx0U",
+      "payment_link_id": "plink_1UT8wvJ5iOXkWb9VrMtkXI2H",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.021406799999999997,
-      "why": "KI-Denken: Découvrez Drèsden et la Saxe: Guide Pratique pour les Explorateurs Indépendants"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.004102799999999999,
-      "why": "KI-Pruefung: Découvrez Drèsden et la Saxe: Guide Pratique pour les Explorateurs Indépendants"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1499 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.0221904,
-      "why": "KI-Denken: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs francophones"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.004219199999999999,
-      "why": "KI-Pruefung: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs francophones"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.16,
-      "why": "KI-Bilder: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs francophones"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.016058399999999997,
-      "why": "KI-Denken: Construction Site Offer & Budget Tracker for Craft Businesses"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Construction Site Offer & Budget Tracker for Craft Businesses"
-    },
-    {
-      "t": "2026-10-19T23:54:23",
-      "eur": -0.0022835999999999998,
-      "why": "Audit: Planificateur de Voyage Berlin et Potsdam : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-19T23:54:23",
-      "eur": -0.0039288,
-      "why": "Audit: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs franc"
-    },
-    {
-      "t": "2026-10-19T23:54:23",
-      "eur": -0.0030876,
-      "why": "Audit: Construction Site Offer & Budget Tracker for Craft Businesses"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.0012804,
-      "why": "Blog-Artikel: Mosel Cochem (fr)"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.0011136,
-      "why": "Blog-Artikel: Heidelberg Altstadt (de)"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.00036599999999999995,
-      "why": "Video-Skript: Heidelberg Altstadt"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.021674400000000003,
-      "why": "KI-Denken: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.0037104,
-      "why": "KI-Pruefung: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.16,
-      "why": "KI-Bilder: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.0164832,
-      "why": "KI-Denken: Hochzeits-Budget-Tracker & Ausgabenplaner"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.001212,
-      "why": "KI-Pruefung: Hochzeits-Budget-Tracker & Ausgabenplaner"
-    },
     {
       "t": "2026-10-20T04:55:44",
       "eur": -0.022207199999999996,
@@ -8892,6 +8806,116 @@
       "t": "2026-10-21T18:41:41",
       "eur": -0.0003852,
       "why": "Video-Skript: Koeln Dom"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): IncompleteRead(33 bytes read)"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): IncompleteRead(44 bytes read)"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.0220884,
+      "why": "KI-Denken: Dresden & Saxony Family Adventure Guide: 7 Fun-Filled Days Exploring History, Nature & Hidden Gems"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.0035064,
+      "why": "KI-Pruefung: Dresden & Saxony Family Adventure Guide: 7 Fun-Filled Days Exploring History, Nature & Hidden Gems"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1378 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.022475999999999996,
+      "why": "KI-Denken: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.0033983999999999993,
+      "why": "KI-Pruefung: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.12,
+      "why": "KI-Bilder: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): IncompleteRead(0 bytes read)"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.017589599999999997,
+      "why": "KI-Denken: Baustellen-Kosten- und Aufmaß-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.0010524,
+      "why": "KI-Pruefung: Baustellen-Kosten- und Aufmaß-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.0178872,
+      "why": "KI-Denken: Baustoff-Bestandsmanager & Kostenrechner für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.0011987999999999999,
+      "why": "KI-Pruefung: Baustoff-Bestandsmanager & Kostenrechner für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-21T23:29:32",
+      "eur": -0.0031631999999999997,
+      "why": "Audit: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hid"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Audit: 1 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.0015336,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (es)"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": 0,
+      "why": "Blog-Fehler: IncompleteRead(44 bytes read)"
+    },
+    {
+      "t": "2026-10-21T23:24:00",
+      "eur": -0.0003804,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
     }
   ],
   "alive": true,
@@ -10521,6 +10545,14 @@
       "topic": "Koeln Dom",
       "created": "2026-10-21T18:41:41",
       "img": true
+    },
+    {
+      "slug": "descubriendo-el-ruhrgebiet-zollverein-una-joya-industrial",
+      "title": "Descubriendo el Ruhrgebiet: Zollverein, una joya industrial",
+      "lang": "es",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-21T23:24:00",
+      "img": true
     }
   ],
   "videos": [
@@ -11342,6 +11374,16 @@
       "hashtags": "#Schwarzwald #Natur #Entspannung #Wandern #Kultur",
       "voice": "Herzlich willkommen im Schwarzwald! Ein Ort voller Magie, wo grüne Wälder, klare Seen und traditionelle Fachwerkhäuser dich verzaubern. Ob Wandern, Skifahren oder einfach Entspannen – hier findest du Entschleunigung pur. Genieße Schwarzwälder Kirschtorte, erkunde Burgen und tauche ein in eine Welt voller Geschichte und Lebensfreude. Der Schwarzwald – ein Erlebnis für alle Sinne!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubriendo-el-ruhrgebiet-zollverein-una-joya-industrial",
+      "title": "Descubriendo el Ruhrgebiet: Zollverein, una joya industrial",
+      "lang": "es",
+      "created": "2026-10-21T23:24:00",
+      "hashtags": "#Zollverein #Ruhrgebiet #PatrimonioMundial #Alemania #TurismoCultural",
+      "voice": "El Ruhrgebiet, hogar del emblemático Zollverein, es un tesoro histórico y cultural. Este antiguo complejo minero, ahora Patrimonio Mundial de la Unesco, combina arquitectura impresionante con espacios verdes vibrantes. Explora sus museos, galerías y eventos únicos, donde el pasado industrial cobra vida. ¡Una experiencia inolvidable en el corazón de Alemania!",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Ben, CC BY-SA 3.0, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
