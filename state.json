@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 445.2391,
-  "spent_eur": 59.4311,
+  "balance_eur": 444.4189,
+  "spent_eur": 60.2513,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4832,7 +4832,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Zahlen, keine Gesundheitsversprechen, keine fremden Marken/Figuren, keine falsche oder gemischte Sprache, keine unfertigen Texte oder Platzhalter. Die Geschichten sind kindgerecht und enthalten praktische Tipps für Eltern.",
       "pay_url": "https://buy.stripe.com/7sY3cwcUx9hxdmK6wA2kw2Y",
       "payment_link_id": "plink_1UP9t0J5iOXkWb9VD7x8HJVN",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4600013683"
+      }
     },
     {
       "type": "excel",
@@ -4856,7 +4859,10 @@
       "audit_note": "Das Produkt ist legal, ehrlich und entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist einheitlich und es gibt keine Platzhalter oder unfertigen Texte. Die Formeln und Tabellen sind sinnvoll und korrekt. Die Beispielkennzahlen sind plausibel. L",
       "pay_url": "https://buy.stripe.com/eVq3cw07L9hxfuSdZ22kw2Z",
       "payment_link_id": "plink_1UPFl7J5iOXkWb9Vlu9We02v",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4600037396"
+      }
     },
     {
       "type": "ebook",
@@ -4880,7 +4886,10 @@
       "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Studien, Statistiken oder Quellen und vermeidet Rechts-, Steuer- oder Finanzberatung. Die Tipps sind praktisch und allgemein gültig. Kleinere Wiederholungen und geringfügig unfertige Stellen beeinträchtigen die Qualität nicht wesentlich.",
       "pay_url": "https://buy.stripe.com/bJe14o5s59hxdmK4os2kw30",
       "payment_link_id": "plink_1UPFl8J5iOXkWb9V0KkzDviG",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4600037412"
+      }
     },
     {
       "type": "excel",
@@ -7665,134 +7674,81 @@
       "pay_url": "https://buy.stripe.com/aFaeVe07LctJ3Ma6wA2kx0K",
       "payment_link_id": "plink_1USnjCJ5iOXkWb9VU3IaEM3w",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Senior Care Expense Tracker & Budget Planner",
+      "slug": "senior-care-expense-tracker-budget-planner",
+      "price_eur": 9,
+      "target": "Seniors and Senior Care Organizations",
+      "reason": "This template simplifies expense tracking and budget planning for seniors and care organizations, providing a clear overview of financial status and helping to avoid overspending.",
+      "language": "en",
+      "pitch": "Effortlessly manage and track senior care expenses with this professional Excel template. Stay organized and plan your budget effectively.",
+      "content_html": "<h2>Inhalt</h2><p>Track your expenses, plan your budget, and analyze your spending with ease. This template is designed to help you manage senior care finances efficiently.</p>",
+      "pro": true,
+      "created": "2026-10-21T07:43:06",
+      "file": "senior-care-expense-tracker-budget-planner-9a836fed4283c902.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Anforderungen. Es enthält keine erfundenen Studien, Statistiken oder falschen Quellen. Die Sprache ist korrekt, es gibt keine unfertigen Texte oder Platzhalter. Die Excel-Formeln sind sinnvoll und nachvollziehbar. Es wird keine Rechts-, Steuer-, Finanz- oder Medizinberatung a",
+      "pay_url": "https://buy.stripe.com/28E00k7AdbpF1E24os2kx0L",
+      "payment_link_id": "plink_1USuFMJ5iOXkWb9VCTTHThS0",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life",
+      "slug": "stress-free-freelancer-guide",
+      "price_eur": 7,
+      "target": "Freelancers who struggle with work-life balance and want practical strategies to manage their time effectively while maintaining personal well-being.",
+      "reason": "Work-life balance remains one of the top challenges for freelancers, with existing products either too generic or focused solely on productivity. This guide fills the gap by offering practical, actionable advice specifically for freelance professionals, while respecting their unique needs.",
+      "language": "en",
+      "pitch": "Discover easy-to-implement strategies to enjoy both a successful freelance career and a fulfilling personal life. Perfect for busy women freelancers who want more control over their schedule.",
+      "content_html": "<h2>Content</h2><ol><li>Introduction: Why Work-Life Balance Matters</li><li>Chapter 1: Setting Healthy Boundaries</li><li>Chapter 2: The Power of Routine</li><li>Chapter 3: Smart Time Management</li><li>Chapter 4: Self-Care for Freelancers</li><li>Chapter 5: Saying NO With Confidence</li><li>Chapter 6: Creating Your Personal Balance Plan</li><li>Bonus: Printable Planning Templates</li></ol>",
+      "pro": false,
+      "created": "2026-10-21T07:43:06",
+      "file": "stress-free-freelancer-guide-07810a9adb4aae62.pdf",
+      "size": 1997,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist ehrlich, keine erfundenen Studien oder Statistiken enthalten, keine Rechts-/Finanz-/Steuerberatung, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Der Text ist fertig und frei von Platzhaltern oder Wiederholungen. Die Ratschläge basieren auf allgemein bekanntem Wissen und",
+      "pay_url": "https://buy.stripe.com/9B6dRa07LeBRdmKcUY2kx0M",
+      "payment_link_id": "plink_1USuFNJ5iOXkWb9VUPc7NiAb",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos",
+      "slug": "bosque-negro-presupuesto-ruta-tracker",
+      "price_eur": 9,
+      "target": "Hombres que planean viajes al Bosque Negro en Alemania",
+      "reason": "Este planificador proporciona una herramienta completa para organizar y monitorear los gastos y actividades en el Bosque Negro, asegurando un viaje eficiente y memorable.",
+      "language": "es",
+      "pitch": "Optimiza tu viaje al Bosque Negro con este planificador profesional que incluye presupuesto detallado y rutas personalizadas.",
+      "content_html": "<h2>Inhalt</h2><p>Este Excel te ayuda a organizar tu viaje al Bosque Negro con un seguimiento de gastos y rutas excelente para aprovechar tu tiempo y dinero.</p>",
+      "pro": true,
+      "created": "2026-10-21T07:43:06",
+      "file": "bosque-negro-presupuesto-ruta-tracker-063e54c243c25eb8.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein Excel-Planer für Reisebudget und Routen im Schwarzwald, ohne erfundene Statistiken, Gesundheitsversprechen oder Rechtsberatung. Die Beispielzahlen sind klar als Beispiele erkennbar, es werden keine falschen Quellen oder Zitate angegeben. Die Funktionalität ist nachvollziehbar und",
+      "pay_url": "https://buy.stripe.com/dRm7sMaMp51heqO08c2kx0N",
+      "payment_link_id": "plink_1USuFNJ5iOXkWb9VumtbeP8n",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598457962"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: YouTube Content Monetization Tracker & Planner"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598457976"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0159036,
-      "why": "KI-Denken: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0158448,
-      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 & 路线规划器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0010332,
-      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 & 路线规划器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 9 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0162048,
-      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0011304,
-      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0158196,
-      "why": "KI-Denken: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0156636,
-      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0203268,
-      "why": "KI-Denken: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0036395999999999998,
-      "why": "KI-Pruefung: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.015940799999999998,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": -0.0010992,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-19T13:23:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T13:31:09",
-      "eur": -0.0015227999999999997,
-      "why": "Audit: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T13:31:09",
-      "eur": -0.0037799999999999995,
-      "why": "Audit: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
-    },
     {
       "t": "2026-10-19T13:23:40",
       "eur": 0,
@@ -8672,6 +8628,131 @@
       "t": "2026-10-21T00:39:48",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599845793"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.0170652,
+      "why": "KI-Denken: Senior Care Medication & Expense Tracker"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.0011196,
+      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.016785599999999998,
+      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.022089599999999997,
+      "why": "KI-Denken: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.0034799999999999996,
+      "why": "KI-Pruefung: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.0169104,
+      "why": "KI-Denken: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.0010283999999999998,
+      "why": "KI-Pruefung: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-21T07:47:20",
+      "eur": -0.0028187999999999998,
+      "why": "Audit: Senior Care Expense Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-21T07:47:20",
+      "eur": -0.0032352,
+      "why": "Audit: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
+    },
+    {
+      "t": "2026-10-21T07:47:20",
+      "eur": -0.0023856,
+      "why": "Audit: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional par"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.0010896,
+      "why": "Blog-Artikel: Muenchen Marienplatz (en)"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.0008819999999999999,
+      "why": "Blog-Artikel: Eifel Maare (zh)"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.0003168,
+      "why": "Video-Skript: Eifel Maare"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600013683"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Presupuesto y Control de Gastos para Bodas"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600037396"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas Familiares"
+    },
+    {
+      "t": "2026-10-21T07:43:06",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600037412"
     }
   ],
   "alive": true,
@@ -10252,6 +10333,22 @@
       "lang": "de",
       "topic": "Nordsee Wattenmeer",
       "created": "2026-10-21T00:39:48",
+      "img": true
+    },
+    {
+      "slug": "discover-munichs-heart-the-marienplatz",
+      "title": "Discover Munich's Heart: The Marienplatz",
+      "lang": "en",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-21T07:43:06",
+      "img": true
+    },
+    {
+      "slug": "explore-eifel-maare-germany",
+      "title": "探索德国艾菲尔火山湖：自然奇观与历史遗迹",
+      "lang": "zh",
+      "topic": "Eifel Maare",
+      "created": "2026-10-21T07:43:06",
       "img": true
     }
   ],
