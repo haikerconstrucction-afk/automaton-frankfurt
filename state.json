@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 444.0125,
-  "spent_eur": 60.6577,
+  "balance_eur": 443.6917,
+  "spent_eur": 60.9785,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -7818,149 +7818,81 @@
       "pay_url": "https://buy.stripe.com/bJe7sM9IleBRbeC4os2kx0Q",
       "payment_link_id": "plink_1UT01tJ5iOXkWb9V2jKlGTYO",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord: Suivi de Budget & Itinéraire",
+      "slug": "planificateur-voyage-balitque-nord",
+      "price_eur": 9,
+      "target": "Indépendants et petites entreprises qui voyagent pour affaires ou loisirs le long des côtes allemandes de la mer Baltique et de la mer du Nord",
+      "reason": "Les freelancers et petites entreprises visitant la région ont besoin d'un outil professionnel pour gérer leur temps et budget de voyage. Ce tracker combine planification et suivi avec des recommandations locales utiles.",
+      "language": "fr",
+      "pitch": "Planifiez vos voyages d'affaires ou loisirs le long des côtes allemandes avec ce tracker complet incluant budget, itinéraire et checkliste de lieux incontournables.",
+      "content_html": "<h2>Contenu</h2><p>Ce classeur Excel vous permet de planifier et suivre vos voyages le long des magnifiques côtes allemandes de la mer Baltique et de la mer du Nord. Gérez votre budget, organisez votre itinéraire et ne manquez aucun point d'intérêt.</p>",
+      "pro": true,
+      "created": "2026-10-21T18:41:41",
+      "file": "planificateur-voyage-balitque-nord-9b1df871844248b3.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt hält sich an die Regeln. Es enthält keine erfundenen Studien, Statistiken oder Quellen. Die Sprache ist durchgängig Französisch und es gibt keine unfertigen Texte oder Platzhalter. Die berechneten Kennzahlen sind plausibel basierend auf den Beispieldaten. Es werden keine Rechts-, Steuer-",
+      "pay_url": "https://buy.stripe.com/5kQbJ2f2F79pgyW6wA2kx0R",
+      "payment_link_id": "plink_1UT4cgJ5iOXkWb9VLyiOIvkW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Essentiel du Rhin, Francfort et Heidelberg : Découvertes Insolites et Itinéraires Pratiques",
+      "slug": "guide-essentiel-rhin-francfort-heidelberg",
+      "price_eur": 5,
+      "target": "Les voyageurs en quête d’un guide pratique et complet pour explorer le Rhin, Francfort et Heidelberg.",
+      "reason": "Ce guide répond directement aux besoins des voyageurs en France et Belgique en quête d’un outil pratique pour explorer le Rhin, Francfort et Heidelberg. Il est complet et facile à suivre, ce qui justifie parfaitement le prix.",
+      "language": "fr",
+      "pitch": "Découvrez les trésors cachés du Rhin, Francfort et Heidelberg avec ce guide pratique et complet. Organisez vos voyages en toute simplicité et profitez au maximum de chaque étape.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introduction</li><li>Chapitre 1 : Le Rhin - Histoire et Budget</li><li>Chapitre 2 : Francfort - Balades et Culture</li><li>Chapitre 3 : Heidelberg - Joies Gastronomiques</li><li>Chapitre 4 : Itinéraire de 3 Jours</li><li>Chapitre 5 : Conseils Pratiques pour votre Voyage</li><li>Conclusion</li></ul>",
+      "pro": false,
+      "created": "2026-10-21T18:41:41",
+      "file": "guide-essentiel-rhin-francfort-heidelberg-50d75aa994b36a28.pdf",
+      "size": 1517,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder falschen Angaben. Die Texte sind vollständig und korrekt in französischer Sprache verfasst. Der Guide bietet praktische Reisetipps ohne unzulässige Gesundheits-, Rechts- oder Finanzberatung.",
+      "pay_url": "https://buy.stripe.com/fZu5kEdYB8dt4Qe3ko2kx0S",
+      "payment_link_id": "plink_1UT4chJ5iOXkWb9VXau7AsnW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Berlin & Potsdam Family Travel Budget Planner & Expense Tracker",
+      "slug": "berlin-potsdam-family-travel-budget-planner-expense-tracker",
+      "price_eur": 9,
+      "target": "Families traveling to Berlin and Potsdam",
+      "reason": "This template provides families with a comprehensive tool to manage their travel budget and itinerary, ensuring a smooth and enjoyable trip to Berlin and Potsdam.",
+      "language": "en",
+      "pitch": "Effortlessly manage your family travel budget and expenses with this professional Excel template, designed for stress-free planning and tracking.",
+      "content_html": "<h2>Content</h2><p>This template includes a detailed budget planner, expense tracker, and itinerary organizer to ensure your family trip to Berlin and Potsdam is perfectly planned and within budget.</p>",
+      "pro": true,
+      "created": "2026-10-21T18:41:41",
+      "file": "berlin-potsdam-family-travel-budget-planner-expense-tracker-a1bb1dc0d79e3a16.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionierender Budget-Planer und Ausgaben-Tracker für Familienreisen nach Berlin und Potsdam. Es enthält keine erfundenen Studien, Statistiken oder fragwürdige Behauptungen. Die Funktionen sind klar beschrieben und die Beispielrechnungen sind plausibel. Keine Verstöße gegen die",
+      "pay_url": "https://buy.stripe.com/8x2eVe5s5ctJaay5sw2kx0T",
+      "payment_link_id": "plink_1UT4ciJ5iOXkWb9VAI58OLPB",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0158844,
-      "why": "KI-Denken: Planificateur de Voyage à Berlin et Potsdam : Budget & Itinéraire"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Voyage à Berlin et Potsdam : Budget & Itinéraire"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0160248,
-      "why": "KI-Denken: Planificateur de Voyage Ultime : Berlin & Potsdam - Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Voyage Ultime : Berlin & Potsdam - Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.016150799999999996,
-      "why": "KI-Denken: Planificateur de Voyage à Berlin & Potsdam : Budget, Itinéraire & Checkliste Professionnelle"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0011136,
-      "why": "KI-Pruefung: Planificateur de Voyage à Berlin & Potsdam : Budget, Itinéraire & Checkliste Professionnelle"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.016078799999999997,
-      "why": "KI-Denken: Planificateur de Voyage à Berlin & Potsdam : Suivi des Dépenses et Itinéraire"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0011543999999999999,
-      "why": "KI-Pruefung: Planificateur de Voyage à Berlin & Potsdam : Suivi des Dépenses et Itinéraire"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 9 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.016077599999999997,
-      "why": "KI-Denken: Planificateur de Voyage Berlin & Potsdam : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0010103999999999998,
-      "why": "KI-Pruefung: Planificateur de Voyage Berlin & Potsdam : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0010128,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (zh)"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0014772,
-      "why": "Blog-Artikel: Bodensee (es)"
-    },
-    {
-      "t": "2026-10-19T19:58:41",
-      "eur": -0.0003804,
-      "why": "Video-Skript: Bodensee"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.015901199999999997,
-      "why": "KI-Denken: Planificateur de Voyage & Suivi des Dépenses pour Berlin et Potsdam"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Voyage & Suivi des Dépenses pour Berlin et Potsdam"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.0159528,
-      "why": "KI-Denken: Planificateur de Budget & Itinéraire pour Berlin et Potsdam"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Budget & Itinéraire pour Berlin et Potsdam"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.016266,
-      "why": "KI-Denken: Planificateur de Voyage Berlin et Potsdam : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-10-19T23:45:04",
-      "eur": -0.0011711999999999998,
-      "why": "KI-Pruefung: Planificateur de Voyage Berlin et Potsdam : Budget, Itinéraire & Checkliste"
-    },
     {
       "t": "2026-10-19T23:45:04",
       "eur": -0.021406799999999997,
@@ -8820,6 +8752,146 @@
       "t": "2026-10-21T13:51:41",
       "eur": -0.0003972,
       "why": "Video-Skript: Schwarzwald"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0177744,
+      "why": "KI-Denken: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0014148,
+      "why": "KI-Pruefung: Planificateur de Voyage Côte Baltique & Mer du Nord : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0175944,
+      "why": "KI-Denken: Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord: Suivi de Budget & Itinéraire"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0012648,
+      "why": "KI-Pruefung: Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord: Suivi de Budget & Itinéraire"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.022605600000000003,
+      "why": "KI-Denken: Le Guide Essentiel pour Explorer le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0041963999999999994,
+      "why": "KI-Pruefung: Le Guide Essentiel pour Explorer le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1438 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0229464,
+      "why": "KI-Denken: Le Guide Essentiel du Rhin, Francfort et Heidelberg : Découvertes Insolites et Itinéraires Pratiques"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0040488,
+      "why": "KI-Pruefung: Le Guide Essentiel du Rhin, Francfort et Heidelberg : Découvertes Insolites et Itinéraires Pratiques"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Essentiel du Rhin, Francfort et Heidelberg : Découvertes Insolites et Itinéraires Pratiques"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.017696399999999998,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0012192,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.017693999999999998,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0013056,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0173808,
+      "why": "KI-Denken: Berlin & Potsdam Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0010103999999999998,
+      "why": "KI-Pruefung: Berlin & Potsdam Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-21T18:52:08",
+      "eur": -0.0024996,
+      "why": "Audit: Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord: Suivi de Budget "
+    },
+    {
+      "t": "2026-10-21T18:52:08",
+      "eur": -0.0037523999999999995,
+      "why": "Audit: Le Guide Essentiel du Rhin, Francfort et Heidelberg : Découvertes Insolites et I"
+    },
+    {
+      "t": "2026-10-21T18:52:08",
+      "eur": -0.0041015999999999995,
+      "why": "Audit: Berlin & Potsdam Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0012192,
+      "why": "Blog-Artikel: Saarland Saarschleife (en)"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0006684,
+      "why": "Blog-Artikel: Koeln Dom (zh)"
+    },
+    {
+      "t": "2026-10-21T18:41:41",
+      "eur": -0.0003852,
+      "why": "Video-Skript: Koeln Dom"
     }
   ],
   "alive": true,
@@ -10432,6 +10504,22 @@
       "lang": "de",
       "topic": "Schwarzwald",
       "created": "2026-10-21T13:51:41",
+      "img": true
+    },
+    {
+      "slug": "discover-the-saarschleife-germany-saarland",
+      "title": "Discover the Saarschleife: A Gem in Germany's Saarland",
+      "lang": "en",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-21T18:41:41",
+      "img": true
+    },
+    {
+      "slug": "koeln-dom-reisefuehrer",
+      "title": "科隆大教堂：德国哥特式建筑的巅峰之作",
+      "lang": "zh",
+      "topic": "Koeln Dom",
+      "created": "2026-10-21T18:41:41",
       "img": true
     }
   ],
