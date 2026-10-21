@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 446.2128,
-  "spent_eur": 58.4574,
+  "balance_eur": 445.2391,
+  "spent_eur": 59.4311,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4751,7 +4751,10 @@
       "audit_note": "Das Produkt erfüllt die Kriterien: Keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Rechts- oder Steuerberatung, keine Gesundheitsversprechen oder fremde Marken. Die Excel-Vorlage ist funktional und für den angegebenen Zweck geeignet. Einige kleine Verbesserungen bei der Formatierung ",
       "pay_url": "https://buy.stripe.com/14A7sM9IleBRdmK9IM2kw2V",
       "payment_link_id": "plink_1UP5FBJ5iOXkWb9ViJIZk565",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4599845729"
+      }
     },
     {
       "type": "ebook",
@@ -4775,7 +4778,10 @@
       "audit_note": "Der Inhalt ist größtenteils korrekt und bietet nützliche lokale Tipps ohne erfundene Statistiken oder problematische Aussagen. Die Empfehlungen sind subjektiv und als persönliche Vorschläge erkennbar. Einige kleinere Formatierungsfehler und Abbrüche im Text, aber keine schwerwiegenden Verstöße.",
       "pay_url": "https://buy.stripe.com/eVq8wQ8Eh3Xd2I6bQU2kw2W",
       "payment_link_id": "plink_1UP9syJ5iOXkWb9VQxVB1pbE",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4599845763"
+      }
     },
     {
       "type": "excel",
@@ -4799,7 +4805,10 @@
       "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Zahlen, Studien oder Gesundheitsversprechen, keine Rechts-/Finanzberatung. Funktionale Excel-Tabelle mit automatisierten Berechnungen. Beispieldaten plausibel.",
       "pay_url": "https://buy.stripe.com/14AfZiaMpbpFaaybQU2kw2X",
       "payment_link_id": "plink_1UP9szJ5iOXkWb9ViFzHFlDU",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4599845793"
+      }
     },
     {
       "type": "ebook",
@@ -7584,119 +7593,81 @@
       "pay_url": "https://buy.stripe.com/dRm7sM8Eh79p82q4os2kx0H",
       "payment_link_id": "plink_1USkqOJ5iOXkWb9V8SAcPJVL",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food All Year Round",
+      "slug": "self-sufficient-gardeners-handbook",
+      "price_eur": 5,
+      "target": "Gardeners and self-sufficient enthusiasts",
+      "reason": "This ebook provides practical, step-by-step guidance for gardeners and self-sufficient enthusiasts, making it a valuable resource for families looking to grow their own food sustainably.",
+      "language": "en",
+      "pitch": "Learn how to grow fresh, organic food year-round with this practical guide. Perfect for families looking to embrace self-sufficiency.",
+      "content_html": "<h2>Inhalt</h2> <ul><li>Introduction: Why Grow Your Own Food?</li><li>Chapter 1: Planning Your Garden</li><li>Chapter 2: Choosing the Right Plants</li><li>Chapter 3: Preparing Your Soil</li><li>Chapter 4: Planting and Maintenance</li><li>Chapter 5: Pest Control Naturally</li><li>Chapter 6: Harvesting and Storing Your Produce</li><li>Chapter 7: Extending Your Growing Season</li></ul>",
+      "pro": false,
+      "created": "2026-10-21T00:39:48",
+      "file": "self-sufficient-gardeners-handbook-4652cb804120b319.pdf",
+      "size": 2414,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien oder Statistiken, keine unerlaubten gesundheits- oder wirtschaftsbezogenen Versprechen, allgemein bekannte Gartenpraktiken",
+      "pay_url": "https://buy.stripe.com/bJe28s2fT8dtbeCaMQ2kx0I",
+      "payment_link_id": "plink_1USnjBJ5iOXkWb9VubYgd6QG",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Content ROI Tracker & Budget Planner 2026",
+      "slug": "youtube-content-roi-tracker-budget-planner-2026",
+      "price_eur": 9,
+      "target": "Content Creator und YouTube",
+      "reason": "Diese Vorlage bietet YouTube-Creators eine klare Übersicht ihrer Einnahmen und Ausgaben sowie eine effektive ROI-Analyse, um fundierte Entscheidungen zu treffen und das Budget besser zu verwalten.",
+      "language": "de",
+      "pitch": "Maximiere deine YouTube-Einnahmen mit diesem professionellen Tracker für ROI und Budgetplanung.",
+      "content_html": "<h2>Inhalt</h2><p>Planung und Analyse von YouTube-Inhalten mit ROI-Berechnung und Budgetüberwachung in einer benutzerfreundlichen Excel-Vorlage.</p>",
+      "pro": true,
+      "created": "2026-10-21T00:39:48",
+      "file": "youtube-content-roi-tracker-budget-planner-2026-57f31fc375510871.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Kriterien, enthält keine erfundenen Statistiken oder Zahlen und bietet eine klare Funktionsbeschreibung. Die Beispielrechnungen sind als solche erkennbar und es werden keine unzulässigen Behauptungen aufgestellt.",
+      "pay_url": "https://buy.stripe.com/bJe3cw7Ad3Xd82q4os2kx0J",
+      "payment_link_id": "plink_1USnjCJ5iOXkWb9V3Xk6aJBM",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfelehrer",
+      "slug": "effektiver-unterricht-tipps-lehrer-nachhilfe",
+      "price_eur": 5,
+      "target": "Lehrer, Nachhilfelehrer und pädagogisches Personal",
+      "reason": "Lehrer und Nachhilfelehrer stehen oft unter großem Druck, ihre Schüler optimal zu fördern. Dieser Ratgeber bietet praktische Lösungen und konkrete Schritte, um den Unterricht effektiver und weniger stressig zu gestalten. Er ist eine wertvolle Ressource für pädagogisches Personal und hilft, die Qualität des Unterrichts zu verbessern.",
+      "language": "de",
+      "pitch": "Dieser Ratgeber bietet praxiserprobte Strategien, um den Unterricht effektiver und stressfreier zu gestalten. Ideal für Lehrer und Nachhilfelehrer, die ihre Unterrichtsqualität verbessern möchten.",
+      "content_html": "<h2>Inhalt</h2> <ol><li>Die richtige Vorbereitung</li><li>Aufmerksamkeit schaffen und halten</li><li>Interaktive Lehrmethoden</li><li>Effektives Zeitmanagement</li><li>Individuelle Förderung</li><li>Feedback und Bewertung</li><li>Stressmanagement und Selbstfürsorge</li></ol>",
+      "pro": false,
+      "created": "2026-10-21T00:39:48",
+      "file": "effektiver-unterricht-tipps-lehrer-nachhilfe-363f662662a8eede.pdf",
+      "size": 1518,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Der Inhalt bietet allgemein bekannte Praxistipps ohne Regelverstöße. Sprache ist korrekt und der Text ist strukturiert und sinnvoll.",
+      "pay_url": "https://buy.stripe.com/aFaeVe07LctJ3Ma6wA2kx0K",
+      "payment_link_id": "plink_1USnjCJ5iOXkWb9VU3IaEM3w",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能德国北海与波罗的海家庭旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.016565999999999997,
-      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.001488,
-      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.016007999999999998,
-      "why": "KI-Denken: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.0010404,
-      "why": "KI-Pruefung: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.015993599999999997,
-      "why": "KI-Denken: Ostsee- und Nordsee-Reisebudget-Tracker & Routenplaner"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.0010211999999999999,
-      "why": "KI-Pruefung: Ostsee- und Nordsee-Reisebudget-Tracker & Routenplaner"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-19T04:54:29",
-      "eur": -0.0037943999999999994,
-      "why": "Audit: Planificador de Viajes por NRW: Presupuesto y Ruta para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-19T04:54:29",
-      "eur": -0.0039096,
-      "why": "Audit: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Vi"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.0009599999999999999,
-      "why": "Blog-Artikel: Rheingau Weinberge (zh)"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.001674,
-      "why": "Blog-Artikel: Schwarzwald (fr)"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.00036239999999999997,
-      "why": "Video-Skript: Schwarzwald"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Umzugskosten-Tracker & Renovierungsplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4598435283"
-    },
-    {
-      "t": "2026-10-19T04:45:47",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Der Gemüsegarten für Einsteiger: 7 einfache Schritte zur eigenen Ernte"
-    },
     {
       "t": "2026-10-19T04:45:47",
       "eur": 0,
@@ -8586,6 +8557,121 @@
       "t": "2026-10-20T21:40:45",
       "eur": -0.0004223999999999999,
       "why": "Video-Skript: Dresden Frauenkirche"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.023454,
+      "why": "KI-Denken: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food All Year Round"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.0034655999999999997,
+      "why": "KI-Pruefung: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food All Year Round"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food All Year Round"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.016658399999999997,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.022316399999999997,
+      "why": "KI-Denken: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfelehrer"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.0038843999999999997,
+      "why": "KI-Pruefung: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfelehrer"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.16,
+      "why": "KI-Bilder: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfelehrer"
+    },
+    {
+      "t": "2026-10-21T00:49:45",
+      "eur": -0.0031931999999999998,
+      "why": "Audit: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food Al"
+    },
+    {
+      "t": "2026-10-21T00:49:45",
+      "eur": -0.0025608,
+      "why": "Audit: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-21T00:49:45",
+      "eur": -0.0036155999999999996,
+      "why": "Audit: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfeleh"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.0014748,
+      "why": "Blog-Artikel: Harz Brocken (fr)"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.0014831999999999998,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (de)"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.00043799999999999997,
+      "why": "Video-Skript: Nordsee Wattenmeer"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599845729"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599845763"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Construction Site Offer & Measurement Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-10-21T00:39:48",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599845793"
     }
   ],
   "alive": true,
@@ -10151,6 +10237,22 @@
       "topic": "Dresden Frauenkirche",
       "created": "2026-10-20T21:40:45",
       "img": true
+    },
+    {
+      "slug": "decouvrez-le-brocken-dans-le-harz-une-escapade-magique-en-al",
+      "title": "Découvrez le Brocken dans le Harz : Une escapade magique en Allemagne",
+      "lang": "fr",
+      "topic": "Harz Brocken",
+      "created": "2026-10-21T00:39:48",
+      "img": true
+    },
+    {
+      "slug": "nordsee-wattenmeer-entdecken-deutschland",
+      "title": "Das Nordsee Wattenmeer: Ein faszinierendes Naturparadies entdecken",
+      "lang": "de",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-21T00:39:48",
+      "img": true
     }
   ],
   "videos": [
@@ -10952,6 +11054,16 @@
       "hashtags": "#Frauenkirche #Dresde #Alemania #Arquitectura #Historia",
       "voice": "La Frauenkirche de Dresde, una joya arquitectónica que resurge de las cenizas. Destruida durante la Segunda Guerra Mundial, fue meticulosamente reconstruida y reabierta en 2005. Su imponente cúpula, conocida como 'la Campana de Piedra', domina el cielo de la ciudad. Hoy, es un símbolo de paz y un testimonio de la resiliencia humana. ¡No te pierdas su belleza y la vista panorámica desde su torre!",
       "credits": "Foto: Albert Henry Payne, Public domain, via Wikimedia Commons; Foto: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons; Foto: Hangman'sDeath, CC0, via Wikimedia Commons; Foto: J. Strauß, CC BY-SA 3.0, via Wikimedia Commons; Foto: Oliver Kloss, CC BY-SA 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "nordsee-wattenmeer-entdecken-deutschland",
+      "title": "Das Nordsee Wattenmeer: Ein faszinierendes Naturparadies entdecken",
+      "lang": "de",
+      "created": "2026-10-21T00:39:48",
+      "hashtags": "#Wattenmeer #Nordsee #Naturparadies #UNESCO #EbbeUndFlut",
+      "voice": "Das Wattenmeer an der Nordsee ist ein faszinierendes Ökosystem, das jeden Besucher in seinen Bann zieht. Hier zeigt sich die Natur von ihrer beeindruckendsten Seite: riesige Wattflächen, unendliche Weiten und eine einzigartige Tierwelt. Entdecken Sie die Magie des Wattenmeers – ob bei einer spannenden Wattwanderung, beim Entdecken kleiner Krabben oder beim Beobachten tausender Zugvögel. Erleben Sie die Kraft der Gezeiten und die Schönheit dieser einmaligen Landschaft!",
+      "credits": "Foto: Bettina Last, CC BY-SA 4.0, via Wikimedia Commons; Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
