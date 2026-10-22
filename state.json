@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 441.696,
-  "spent_eur": 62.9743,
+  "balance_eur": 441.3906,
+  "spent_eur": 63.2797,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -8028,134 +8028,81 @@
       "pay_url": "https://buy.stripe.com/6oU4gA2fT51h82qcUY2kx0Y",
       "payment_link_id": "plink_1UTKsTJ5iOXkWb9V5am3LKDB",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador Avanzado de Entrenamiento y Nutrición para Hombres",
+      "slug": "planificador-entrenamiento-nutricion-hombres",
+      "price_eur": 9,
+      "target": "Hombres que buscan optimizar su rutina de fitness y alimentación",
+      "reason": "Este planner resuelve la necesidad de organización y seguimiento que tienen muchos hombres comprometidos con su fitness, combinando entrenamiento y nutrición en una sola herramienta profesional.",
+      "language": "es",
+      "pitch": "Herramienta profesional para planificar entrenamientos semanales y seguimiento nutricional, diseñada específicamente para las necesidades masculinas.",
+      "content_html": "<h2>Incluye</h2><ul><li>Planificador semanal de entrenamientos</li><li>Tracker de progreso físico</li><li>Registro de ingesta nutricional</li><li>Dashboard de métricas clave</li></ul>",
+      "pro": true,
+      "created": "2026-10-22T18:49:57",
+      "file": "planificador-entrenamiento-nutricion-hombres-ebbc2648dbc09079.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist ein grundsolider Excel-Planer für Training und Ernährung ohne erfundene Zahlen, unzulässige Gesundheitsversprechen oder andere Regelverstöße. Die Formeln und Beispieldaten sind plausibel und entsprechen allgemeinem Wissen. Lediglich die Beispiel-Nährwertangaben sind nicht auf Plausib",
+      "pay_url": "https://buy.stripe.com/fZu14o07L51h82q5sw2kx0Z",
+      "payment_link_id": "plink_1UTRCuJ5iOXkWb9VPtmTAx9i",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1-5 Viviendas con Éxito",
+      "slug": "guia-practica-para-pequenos-propietarios",
+      "price_eur": 5,
+      "target": "Hombres que gestionan entre 1-5 propiedades de alquiler en España o Latinoamérica",
+      "reason": "Falta contenido práctico en español para pequeños propietarios, centrado en organización sin complejidades legales. Las estrategias reales de propietarios exitosos son valiosas y aplicables inmediatamente.",
+      "language": "es",
+      "pitch": "Aprende a organizar y rentabilizar tus propiedades sin estrés con métodos probados. Ideal para propietarios ocupados que quieren maximizar sus ingresos con mínimo esfuerzo.",
+      "content_html": "<h2>Contenido</h2><ul><li>Capítulo 1: El poder de la organización inicial</li><li>Capítulo 2: Sistemas de cobro eficientes</li><li>Capítulo 3: Mantenimiento preventivo</li><li>Capítulo 4: Comunicación clara con inquilinos</li><li>Capítulo 5: Digitalización de procesos</li><li>Capítulo 6: Control de gastos básico</li><li>Capítulo 7: Revalorización inteligente</li></ul><h3>Lectura de muestra:</h3><p>Crea una carpeta digital para cada propiedad con documentos escaneados: contrato, DNI del inquilino, recibos... Así todo estará accesible desde tu móvil cuando lo necesites.</p>",
+      "pro": false,
+      "created": "2026-10-22T18:49:57",
+      "file": "guia-practica-para-pequenos-propietarios-3d12d3f2c1b2eaee.pdf",
+      "size": 1882,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Dokument enthält praktische Tipps zur Verwaltung von Immobilien ohne erfundene Studien oder falsche Behauptungen. Die erwähnten Prozentzahlen (10-15%) sind zwar Faustregeln, sollten aber als solche gekennzeichnet werden. Der Inhalt ist hilfreich und frei von größeren Verstößen gegen die Regeln.",
+      "pay_url": "https://buy.stripe.com/4gM7sMdYBeBR0zYdZ22kx10",
+      "payment_link_id": "plink_1UTRCvJ5iOXkWb9VvVeHIjCV",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能考试预算与时间追踪器 - 2026专业版",
+      "slug": "smart-exam-budget-time-tracker-zh",
+      "price_eur": 9,
+      "target": "中国、台湾、新加坡的大学及研究生考生",
+      "reason": "中国学生面临激烈的考试竞争，需要专业工具系统管理有限的备考时间和资源。该产品填补了中文市场针对考生需求设计的专业预算时间综合追踪工具的空白。",
+      "language": "zh",
+      "pitch": "高效管理考试准备时间与预算，所有数据一目了然。专为压力时期设计的极简工具，让您专注学习而非组织工作。",
+      "content_html": "<h2>内容</h2><ul><li>考试科目与日期追踪</li><li>学习资源预算管理</li><li>学习时间记录</li><li>进度可视化图表</li><li>智能预算提醒</li></ul>",
+      "pro": true,
+      "created": "2026-10-22T18:49:57",
+      "file": "smart-exam-budget-time-tracker-zh-130a729b494818af.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt entspricht den Regeln. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen nur der Veranschaulichung. Keine rechtlichen, finanziellen oder medizinischen Ratschläge enthalten. Sprache ist konsistent un",
+      "pay_url": "https://buy.stripe.com/fZucN68EhfFVdmK9IM2kx11",
+      "payment_link_id": "plink_1UTRCwJ5iOXkWb9VZLQx1jb1",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.0014831999999999998,
-      "why": "Blog-Artikel: Frankfurt Skyline (de)"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.0013379999999999998,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (en)"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.00034079999999999994,
-      "why": "Video-Skript: Rothenburg ob der Tauber"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.0166752,
-      "why": "KI-Denken: Trackeur de Budget et de Bénévoles pour Associations"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Trackeur de Budget et de Bénévoles pour Associations"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.0171792,
-      "why": "KI-Denken: Planificateur de Budget & Suivi des Dépenses pour Associations Bénévoles"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.0014063999999999997,
-      "why": "KI-Pruefung: Planificateur de Budget & Suivi des Dépenses pour Associations Bénévoles"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.023181600000000004,
-      "why": "KI-Denken: Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien harmonieux"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.0041627999999999995,
-      "why": "KI-Pruefung: Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien harmonieux"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien harmonieux"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.016676399999999997,
-      "why": "KI-Denken: Ultimate Moving & Renovation Budget Planner for Families"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.0010475999999999999,
-      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Planner for Families"
-    },
-    {
-      "t": "2026-10-20T21:44:59",
-      "eur": -0.0023136,
-      "why": "Audit: Planificateur de Budget & Suivi des Dépenses pour Associations Bénévoles"
-    },
-    {
-      "t": "2026-10-20T21:44:59",
-      "eur": -0.0037955999999999992,
-      "why": "Audit: Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien "
-    },
-    {
-      "t": "2026-10-20T21:44:59",
-      "eur": -0.0032976,
-      "why": "Audit: Ultimate Moving & Renovation Budget Planner for Families"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.0011172,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (zh)"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.0014232,
-      "why": "Blog-Artikel: Dresden Frauenkirche (es)"
-    },
-    {
-      "t": "2026-10-20T21:40:45",
-      "eur": -0.0004223999999999999,
-      "why": "Video-Skript: Dresden Frauenkirche"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.023454,
-      "why": "KI-Denken: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food All Year Round"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.0034655999999999997,
-      "why": "KI-Pruefung: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food All Year Round"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food All Year Round"
-    },
     {
       "t": "2026-10-21T00:39:48",
       "eur": -0.016658399999999997,
@@ -9035,6 +8982,131 @@
       "t": "2026-10-22T12:02:01",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600934484"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.0179448,
+      "why": "KI-Denken: Planificador Inteligente de Gastos y Progreso para Entrenadores Personales"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.0010932,
+      "why": "KI-Pruefung: Planificador Inteligente de Gastos y Progreso para Entrenadores Personales"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.0182436,
+      "why": "KI-Denken: Planificador de Entrenamiento y Nutrición para Atletas Masculinos"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.0013511999999999997,
+      "why": "KI-Pruefung: Planificador de Entrenamiento y Nutrición para Atletas Masculinos"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.0180108,
+      "why": "KI-Denken: Planificador Avanzado de Entrenamiento y Nutrición para Hombres"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.0013092,
+      "why": "KI-Pruefung: Planificador Avanzado de Entrenamiento y Nutrición para Hombres"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.0233964,
+      "why": "KI-Denken: Organización para Pequeños Propietarios: 7 Pasos para Gestionar 1-5 Viviendas sin Estrés"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.0042048,
+      "why": "KI-Pruefung: Organización para Pequeños Propietarios: 7 Pasos para Gestionar 1-5 Viviendas sin Estrés"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (1370 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.024858,
+      "why": "KI-Denken: Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1-5 Viviendas con Éxito"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.004143599999999999,
+      "why": "KI-Pruefung: Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1-5 Viviendas con Éxito"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1-5 Viviendas con Éxito"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.017872799999999998,
+      "why": "KI-Denken: 智能考试预算与时间追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能考试预算与时间追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-22T18:59:04",
+      "eur": -0.0034295999999999997,
+      "why": "Audit: Planificador Avanzado de Entrenamiento y Nutrición para Hombres"
+    },
+    {
+      "t": "2026-10-22T18:59:04",
+      "eur": -0.0038627999999999996,
+      "why": "Audit: Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1"
+    },
+    {
+      "t": "2026-10-22T18:59:04",
+      "eur": -0.0021875999999999996,
+      "why": "Audit: 智能考试预算与时间追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.001374,
+      "why": "Blog-Artikel: Saechsische Schweiz (es)"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": -0.0011423999999999998,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (fr)"
+    },
+    {
+      "t": "2026-10-22T18:49:57",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 504: Gateway Timeout"
     }
   ],
   "alive": true,
@@ -10703,6 +10775,22 @@
       "lang": "zh",
       "topic": "Neuschwanstein",
       "created": "2026-10-22T12:02:01",
+      "img": true
+    },
+    {
+      "slug": "suiza-sajona-paraiso-natural-alemania",
+      "title": "Descubriendo la Suiza Sajona: Un paraíso natural en Alemania",
+      "lang": "es",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-22T18:49:57",
+      "img": true
+    },
+    {
+      "slug": "falaises-de-craie-de-ruegen-allemagne",
+      "title": "Les Majestueuses Falaises de Craie de Rügen en Allemagne",
+      "lang": "fr",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-22T18:49:57",
       "img": true
     }
   ],
