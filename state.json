@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 443.4773,
-  "spent_eur": 61.1929,
+  "balance_eur": 442.742,
+  "spent_eur": 61.9283,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4913,7 +4913,10 @@
       "audit_note": "Das Produkt ist klar strukturiert und frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Beispielrechnungen sind plausibel und nicht irreführend. Der Inhalt entspricht den Regeln und bietet nützliche Praxistipps.",
       "pay_url": "https://buy.stripe.com/5kQ4gAf2FctJgyWf362kw31",
       "payment_link_id": "plink_1UPFl8J5iOXkWb9VMJDW4iZW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4600741688"
+      }
     },
     {
       "type": "ebook",
@@ -4937,7 +4940,10 @@
       "audit_note": "Der Inhalt ist größtenteils sachlich korrekt und entspricht den festgelegten Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Text ist fertiggestellt und bietet praktische Tipps für die Verwaltung von 1-5 Immobilien. Es wird keine Rechts-, Steuer-, Finanz- oder Medizinbe",
       "pay_url": "https://buy.stripe.com/14A9AUcUx8dtfuS1cg2kw32",
       "payment_link_id": "plink_1UPMRQJ5iOXkWb9Vr0pkCUsW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4600741700"
+      }
     },
     {
       "type": "excel",
@@ -4961,7 +4967,10 @@
       "audit_note": "Das Produkt ist eine legitime Excel-Vorlage für die Prüfungsplanung ohne erfundene Statistiken oder gesundheitsbezogene Versprechen. Die Beispielzahlen dienen nur der Veranschaulichung und sind klar als solche erkennbar. Keine Regelverstöße festgestellt.",
       "pay_url": "https://buy.stripe.com/9B6dRa3jX0L1fuSf362kw33",
       "payment_link_id": "plink_1UPMRRJ5iOXkWb9VzepdYTsY",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4600741710"
+      }
     },
     {
       "type": "ebook",
@@ -7914,159 +7923,33 @@
       "pay_url": "https://buy.stripe.com/4gMeVecUxctJfuS4os2kx0U",
       "payment_link_id": "plink_1UT8wvJ5iOXkWb9VrMtkXI2H",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe",
+      "slug": "baustellen-kosten-arbeitszeit-tracker-handwerker",
+      "price_eur": 12,
+      "target": "Handwerksbetriebe mit mehreren parallel laufenden Baustellen",
+      "reason": "Handwerker verlieren viel Zeit mit manueller Aufmaßerstellung und Nachkalkulation. Diese Vorlage automatisiert den Prozess und hilft bei der Planung zukünftiger Projekte durch historische Daten.",
+      "language": "de",
+      "pitch": "Professionelle Übersicht über Materialkosten, Arbeitszeiten und Projektfortschritt aller Baustellen. Spart Zeit bei der Abrechnung und verbessert die Kalkulation zukünftiger Projekte.",
+      "content_html": "<h2>Inhalt</h2><p>Komplettlösung für die Baustellenverwaltung inkl. Echtzeit-Berechnungen, Auswertungen und automatisierten Reports.</p>",
+      "pro": true,
+      "created": "2026-10-22T04:53:50",
+      "file": "baustellen-kosten-arbeitszeit-tracker-handwerker-c803a2aa83f130ef.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein grundsätzlich funktionaler Excel-Kosten- und Arbeitszeittracker ohne erfundene Zahlen, Statistiken oder gesundheitsbezogene Versprechen. Es gibt jedoch keine klaren Hinweise auf Beispieldaten oder eine detaillierte Plausibilitätsprüfung der Kennzahlen. Die Funktionalität ist nach",
+      "pay_url": "https://buy.stripe.com/fZudRa1bP9hxaay1cg2kx0V",
+      "payment_link_id": "plink_1UTEKSJ5iOXkWb9VOIAOoRYD",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.022207199999999996,
-      "why": "KI-Denken: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den Alltag"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.0041183999999999995,
-      "why": "KI-Pruefung: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den Alltag"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.16,
-      "why": "KI-Bilder: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den Alltag"
-    },
-    {
-      "t": "2026-10-20T05:02:39",
-      "eur": -0.0034476,
-      "why": "Audit: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
-    },
-    {
-      "t": "2026-10-20T05:02:39",
-      "eur": -0.0027923999999999996,
-      "why": "Audit: Hochzeits-Budget-Tracker & Ausgabenplaner"
-    },
-    {
-      "t": "2026-10-20T05:02:39",
-      "eur": -0.003942,
-      "why": "Audit: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.0010716,
-      "why": "Blog-Artikel: Neuschwanstein (en)"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.0011891999999999998,
-      "why": "Blog-Artikel: Saechsische Schweiz (zh)"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.0003467999999999999,
-      "why": "Video-Skript: Saechsische Schweiz"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599202876"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599202894"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Voyage en NRW: Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-10-20T04:55:44",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599179133"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.0162708,
-      "why": "KI-Denken: Smart Fitness Training Planner & Progress Tracker"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Smart Fitness Training Planner & Progress Tracker"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.0167076,
-      "why": "KI-Denken: Smart Female Fitness Coach Business Planner"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.0012347999999999999,
-      "why": "KI-Pruefung: Smart Female Fitness Coach Business Planner"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.0161484,
-      "why": "KI-Denken: Smart Workout Progress Tracker for Female Fitness Coaches"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Smart Workout Progress Tracker for Female Fitness Coaches"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.021877199999999996,
-      "why": "KI-Denken: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.0033263999999999993,
-      "why": "KI-Pruefung: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.01668,
-      "why": "KI-Denken: Planificador Inteligente de Exámenes para Estudiantes Universitarios"
-    },
     {
       "t": "2026-10-20T11:43:39",
       "eur": -0.0011411999999999998,
@@ -8916,6 +8799,161 @@
       "t": "2026-10-21T23:24:00",
       "eur": -0.0003804,
       "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.0178152,
+      "why": "KI-Denken: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.0012275999999999997,
+      "why": "KI-Pruefung: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.023685599999999998,
+      "why": "KI-Denken: Magische Abenteuer: 7 fantasievolle Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.0043596,
+      "why": "KI-Pruefung: Magische Abenteuer: 7 fantasievolle Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): E-Book zu kurz (1394 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.024022800000000004,
+      "why": "KI-Denken: Magische Abenteuergeschichten: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.0045048,
+      "why": "KI-Pruefung: Magische Abenteuergeschichten: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1434 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.0230172,
+      "why": "KI-Denken: Traumland Abenteuer: 30 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.004376399999999999,
+      "why": "KI-Pruefung: Traumland Abenteuer: 30 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (1428 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.0228768,
+      "why": "KI-Denken: Entdeckungsreisen ins Traumland: 7 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.004341599999999999,
+      "why": "KI-Pruefung: Entdeckungsreisen ins Traumland: 7 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): E-Book zu kurz (1347 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Expecting ',' delimiter: line 30 column 10 (char 3240)"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.024477599999999995,
+      "why": "KI-Denken: Traumreisen ins Schlummerland: 7 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.00435,
+      "why": "KI-Pruefung: Traumreisen ins Schlummerland: 7 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): E-Book zu kurz (1471 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-22T05:14:07",
+      "eur": -0.0034968,
+      "why": "Audit: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Audit: 1 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.001212,
+      "why": "Blog-Artikel: Bodensee (fr)"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.0012384,
+      "why": "Blog-Artikel: Mosel Cochem (de)"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.00036119999999999994,
+      "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能个人健身预算与进度追踪器"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600741688"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600741700"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-22T04:53:50",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600741710"
     }
   ],
   "alive": true,
@@ -10553,6 +10591,22 @@
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-10-21T23:24:00",
       "img": true
+    },
+    {
+      "slug": "decouvrir-le-lac-de-constance-allemagne",
+      "title": "Découvrir le lac de Constance : Un joyau entre l'Allemagne, l'Autriche et la Suisse",
+      "lang": "fr",
+      "topic": "Bodensee",
+      "created": "2026-10-22T04:53:50",
+      "img": true
+    },
+    {
+      "slug": "cochem-an-der-mosel-ein-malerisches-reiseziel-entdecken",
+      "title": "Cochem an der Mosel: Ein malerisches Reiseziel entdecken",
+      "lang": "de",
+      "topic": "Mosel Cochem",
+      "created": "2026-10-22T04:53:50",
+      "img": true
     }
   ],
   "videos": [
@@ -11384,6 +11438,16 @@
       "hashtags": "#Zollverein #Ruhrgebiet #PatrimonioMundial #Alemania #TurismoCultural",
       "voice": "El Ruhrgebiet, hogar del emblemático Zollverein, es un tesoro histórico y cultural. Este antiguo complejo minero, ahora Patrimonio Mundial de la Unesco, combina arquitectura impresionante con espacios verdes vibrantes. Explora sus museos, galerías y eventos únicos, donde el pasado industrial cobra vida. ¡Una experiencia inolvidable en el corazón de Alemania!",
       "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Ben, CC BY-SA 3.0, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "cochem-an-der-mosel-ein-malerisches-reiseziel-entdecken",
+      "title": "Cochem an der Mosel: Ein malerisches Reiseziel entdecken",
+      "lang": "de",
+      "created": "2026-10-22T04:53:50",
+      "hashtags": "#MoselTraum #CochemEntdecken #WeinWanderGlück #Burgblick #Flussromantik",
+      "voice": "Cochem – wo Geschichten wahr werden! Schmiegt sich die Mosel durch grüne Hänge, thront Reichsburg majestätisch über Fachwerkhäusern. Winzer verwöhnen mit Riesling, Schiffe gleiten vor malerischer Kulisse. Euer perfektes Ferienmärchen zwischen Weinbergen und Burgzauber!",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
