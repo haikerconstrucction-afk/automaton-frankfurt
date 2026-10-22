@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 442.742,
-  "spent_eur": 61.9283,
+  "balance_eur": 441.696,
+  "spent_eur": 62.9743,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -4994,7 +4994,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Zahlen. Das E-Book bietet allgemein bekannte Praxistipps und ist klar strukturiert.",
       "pay_url": "https://buy.stripe.com/fZubJ27AddxNdmKdZ22kw34",
       "payment_link_id": "plink_1UPMRRJ5iOXkWb9VybVECXfj",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4600934454"
+      }
     },
     {
       "type": "excel",
@@ -5018,7 +5021,10 @@
       "audit_note": "Das Produkt erfüllt die meisten Anforderungen: keine erfunden Zahlen oder Statistiken, keine unzulässigen Beratungen, keine unfertigen Texte. Die Excel-Formeln sind sinnvoll und korrekt. Eine kleine Schwäche ist die gemischte Sprache (Englisch/Deutsch), was allerdings nicht direkt gegen die Regeln v",
       "pay_url": "https://buy.stripe.com/4gMaEY3jX51hfuS6wA2kw35",
       "payment_link_id": "plink_1UPS7IJ5iOXkWb9VSkBBVM43",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4600934470"
+      }
     },
     {
       "type": "ebook",
@@ -5042,7 +5048,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Inhalt ist klar, ehrlich und bietet praktische Tipps ohne Regelverstöße. Sprache und Struktur sind konsistent und professionell.",
       "pay_url": "https://buy.stripe.com/5kQ9AU2fTalBdmK5sw2kw36",
       "payment_link_id": "plink_1UPS7JJ5iOXkWb9VPlHB4qIX",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4600934484"
+      }
     },
     {
       "type": "excel",
@@ -7947,174 +7956,81 @@
       "pay_url": "https://buy.stripe.com/fZudRa1bP9hxaay1cg2kx0V",
       "payment_link_id": "plink_1UTEKSJ5iOXkWb9VOIAOoRYD",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)",
+      "slug": "zauberhafte-abenteuer-im-schlummerland-geschichten-kinder",
+      "price_eur": 5,
+      "target": "Eltern, die abwechslungsreiche und beruhigende Gute-Nacht-Geschichten für ihre Kinder suchen",
+      "reason": "Eltern suchen ständig neue, kreative Gute-Nacht-Geschichten für ihre Kinder. Mit 7 originellen, noch nicht veröffentlichten Geschichten in perfekter Einschlaf-Länge füllt dieses E-Book eine echte Marktlücke - zum fairen Preis von nur 5€.",
+      "language": "de",
+      "pitch": "7 völlig neue, liebevoll gestaltete Einschlafgeschichten mit sanften Abenteuern und positiven Botschaften. Perfekte Länge zum Vorlesen (je 5-7 Minuten) mit ruhigem Spannungsbogen für entspanntes Einschlafen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>1. Der kleine Stern, der sich verlaufen hatte</li><li>2. Lunas Reise zum Traumfluss</li><li>3. Tim und die flüsternden Bäume</li><li>4. Pia und das Schlummerkissen</li><li>5. Bennos Waldfreunde</li><li>6. Die Muschel, die Geschichten sammelte</li><li>7. Gute Reise, kleine Wolke</li></ul><h3>Leseprobe:</h3><p>\"Als Luna ihre Augen schloss, hörte sie plötzlich ein leises Plätschern...\"</p>",
+      "pro": false,
+      "created": "2026-10-22T12:02:01",
+      "file": "zauberhafte-abenteuer-im-schlummerland-geschichten-kinder-ca6f4805e0528fde.pdf",
+      "size": 1810,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das E-Book enthält sieben kindgerechte Gute-Nacht-Geschichten ohne Verstöße gegen die vorgegebenen Regeln. Es sind keine erfundenen Statistiken, Studien oder Gesundheitsversprechen enthalten, sondern nur fantasievolle Erzählungen mit sanften Botschaften und praktischen Vorlesetipps. Die Geschichten ",
+      "pay_url": "https://buy.stripe.com/eVq3cw6w951hfuSf362kx0W",
+      "payment_link_id": "plink_1UTKsRJ5iOXkWb9VU8GUraDQ",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Wedding Vendor Tracker & Budget Planner",
+      "slug": "wedding-vendor-tracker-budget-planner",
+      "price_eur": 14.99,
+      "target": "Brides planning their wedding (25-40 years old)",
+      "reason": "This provides real value by combining three essential wedding planning tools into one, with automated calculations that eliminate spreadsheet errors and keep everything organized in one place.",
+      "language": "en",
+      "pitch": "Stay organized and on budget with this all-in-one wedding planning tool. Track all vendor contracts, payments and deadlines effortlessly while maintaining full financial control.",
+      "content_html": "<h2>The Ultimate Wedding Planning Companion</h2><p>Manage contracts, deposits, payments and vendor details in one place with automatic calculations and deadline reminders.</p>",
+      "pro": true,
+      "created": "2026-10-22T12:02:01",
+      "file": "wedding-vendor-tracker-budget-planner-012f52e4325d3693.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Der Inhalt ist klar, ehrlich und frei von Rechts-, Steuer- oder Finanzberatung. Die Sprache ist korrekt, es gibt keine Platzhalter oder unfertigen Texte. Die Formeln sind plausibel und sinnvoll. Nur kleine Optimierungen möglich, aber kein klarer Reg",
+      "pay_url": "https://buy.stripe.com/aFa4gA07L51h4Qe4os2kx0X",
+      "payment_link_id": "plink_1UTKsSJ5iOXkWb9VCocZXGDn",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Smart Savings Made Simple: Effortless Strategies for Household Budgeting",
+      "slug": "smart-savings-made-simple-effortless-strategies-for-household-budgeting",
+      "price_eur": 5,
+      "target": "Women looking for practical, easy-to-implement strategies for managing household finances",
+      "reason": "This ebook provides practical, easy-to-implement strategies for managing household finances, tailored specifically for women who want to save without sacrificing comfort or convenience. The content is designed to be accessible and actionable, ensuring readers see immediate value in their investment.",
+      "language": "en",
+      "pitch": "Discover simple, effective strategies to manage your household budget effortlessly. Perfect for busy women who want to save without sacrificing comfort or convenience.",
+      "content_html": "<h2>Content</h2><ul><li>Chapter 1: Understanding Your Spending Habits</li><li>Chapter 2: Setting Realistic Budget Goals</li><li>Chapter 3: Smart Grocery Shopping Tips</li><li>Chapter 4: Reducing Utility Bills Without Compromise</li><li>Chapter 5: Cutting Down on Non-Essential Expenses</li><li>Chapter 6: Staying Motivated and Consistent</li></ul><h3>Sample Chapter</h3><p>Chapter 1: Understanding Your Spending Habits</p>",
+      "pro": false,
+      "created": "2026-10-22T12:02:01",
+      "file": "smart-savings-made-simple-effortless-strategies-for-household-budgeting-50e6ce3dc82a96d0.pdf",
+      "size": 1565,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils unbedenklich und enthält keine offensichtlich erfundenen Zahlen, Statistiken oder Quellen. Die Erwähnung der '50-30-20-Regel' ist als allgemein bekannte Faustregel akzeptabel. Die Prozentzahlen im Auffälligkeitscheck beziehen sich auf Inhalte, die nicht im eigentlichen Te",
+      "pay_url": "https://buy.stripe.com/6oU4gA2fT51h82qcUY2kx0Y",
+      "payment_link_id": "plink_1UTKsTJ5iOXkWb9V5am3LKDB",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.0011411999999999998,
-      "why": "KI-Pruefung: Planificador Inteligente de Exámenes para Estudiantes Universitarios"
-    },
-    {
-      "t": "2026-10-20T11:48:04",
-      "eur": -0.0021311999999999998,
-      "why": "Audit: Smart Workout Progress Tracker for Female Fitness Coaches"
-    },
-    {
-      "t": "2026-10-20T11:48:04",
-      "eur": -0.0031103999999999997,
-      "why": "Audit: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Propert"
-    },
-    {
-      "t": "2026-10-20T11:48:04",
-      "eur": -0.0024708,
-      "why": "Audit: Planificador Inteligente de Exámenes para Estudiantes Universitarios"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.001296,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (es)"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.0008711999999999999,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (fr)"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.0003924,
-      "why": "Video-Skript: Hamburg Speicherstadt"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Bavaria & Alps Travel Planner: 6 Smart Steps to Discover the Best Hidden Gems"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599382660"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599358861"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Discover the Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-10-20T11:43:39",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599358881"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.0231504,
-      "why": "KI-Denken: 7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.003908399999999999,
-      "why": "KI-Pruefung: 7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.0164652,
-      "why": "KI-Denken: 智能旅行预算与打包清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.0010128,
-      "why": "KI-Pruefung: 智能旅行预算与打包清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.0165636,
-      "why": "KI-Denken: 智能旅行打包清单与预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行打包清单与预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.0218124,
-      "why": "KI-Denken: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.0042239999999999995,
-      "why": "KI-Pruefung: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": -0.16,
-      "why": "KI-Bilder: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-10-20T17:22:24",
-      "eur": -0.0036959999999999996,
-      "why": "Audit: 7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafeterí"
-    },
-    {
-      "t": "2026-10-20T17:22:24",
-      "eur": -0.0022152,
-      "why": "Audit: 智能旅行打包清单与预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-20T17:22:24",
-      "eur": -0.0044268,
-      "why": "Audit: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-20T17:12:43",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-20T17:12:43",
       "eur": -0.0014831999999999998,
@@ -8954,6 +8870,171 @@
       "t": "2026-10-22T04:53:50",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600741710"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): string indices must be integers, not 'str'"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.023680800000000002,
+      "why": "KI-Denken: 10 Fantasievolle Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.004381199999999999,
+      "why": "KI-Pruefung: 10 Fantasievolle Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): E-Book zu kurz (1405 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.0255156,
+      "why": "KI-Denken: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.0044256,
+      "why": "KI-Pruefung: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.16,
+      "why": "KI-Bilder: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.017856,
+      "why": "KI-Denken: Ultimate Wedding Budget Planner & Vendor Tracker (2026 Edition)"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.0011459999999999999,
+      "why": "KI-Pruefung: Ultimate Wedding Budget Planner & Vendor Tracker (2026 Edition)"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.018252,
+      "why": "KI-Denken: Wedding Vendor Comparison & Budget Tracker"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.0014952,
+      "why": "KI-Pruefung: Wedding Vendor Comparison & Budget Tracker"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.017723999999999997,
+      "why": "KI-Denken: Wedding Vendor Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.0010727999999999998,
+      "why": "KI-Pruefung: Wedding Vendor Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.0224016,
+      "why": "KI-Denken: Smart Savings Made Simple: Effortless Strategies for Household Budgeting"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.0033864,
+      "why": "KI-Pruefung: Smart Savings Made Simple: Effortless Strategies for Household Budgeting"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.16,
+      "why": "KI-Bilder: Smart Savings Made Simple: Effortless Strategies for Household Budgeting"
+    },
+    {
+      "t": "2026-10-22T12:13:31",
+      "eur": -0.0041735999999999995,
+      "why": "Audit: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine"
+    },
+    {
+      "t": "2026-10-22T12:13:31",
+      "eur": -0.004356,
+      "why": "Audit: Wedding Vendor Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-10-22T12:13:31",
+      "eur": -0.0032519999999999997,
+      "why": "Audit: Smart Savings Made Simple: Effortless Strategies for Household Budgeting"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.0011267999999999999,
+      "why": "Blog-Artikel: Heidelberg Altstadt (en)"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.0011844,
+      "why": "Blog-Artikel: Neuschwanstein (zh)"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.00035639999999999994,
+      "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies simples pour attirer plus de clients"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600934454"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Family Vacation Budget & Packing List Tracker"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600934470"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More Customers"
+    },
+    {
+      "t": "2026-10-22T12:02:01",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600934484"
     }
   ],
   "alive": true,
@@ -10607,6 +10688,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-10-22T04:53:50",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-travel-guide",
+      "title": "Exploring Heidelberg's Old Town: A Timeless German Gem",
+      "lang": "en",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-22T12:02:01",
+      "img": true
+    },
+    {
+      "slug": "germany-neuschwanstein-travel-guide",
+      "title": "童话城堡之旅：探索德国新天鹅堡",
+      "lang": "zh",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-22T12:02:01",
+      "img": true
     }
   ],
   "videos": [
@@ -11448,6 +11545,16 @@
       "hashtags": "#MoselTraum #CochemEntdecken #WeinWanderGlück #Burgblick #Flussromantik",
       "voice": "Cochem – wo Geschichten wahr werden! Schmiegt sich die Mosel durch grüne Hänge, thront Reichsburg majestätisch über Fachwerkhäusern. Winzer verwöhnen mit Riesling, Schiffe gleiten vor malerischer Kulisse. Euer perfektes Ferienmärchen zwischen Weinbergen und Burgzauber!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "germany-neuschwanstein-travel-guide",
+      "title": "童话城堡之旅：探索德国新天鹅堡",
+      "lang": "zh",
+      "created": "2026-10-22T12:02:01",
+      "hashtags": "#新天鹅堡 #德国旅游 #阿尔卑斯山 #童话城堡 #建筑奇迹",
+      "voice": "欢迎来到德国的新天鹅堡，这座如梦似幻的城堡是童话世界的真实写照。它坐落在阿尔卑斯山麓，建筑与自然完美融合，散发着无与伦比的魅力。路德维希二世的梦幻杰作，吸引着无数游客前来一睹风采。步入城堡，仿佛穿越时空，感受历史的厚重与艺术的辉煌。新天鹅堡，一座让人心驰神往的建筑奇迹！",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
