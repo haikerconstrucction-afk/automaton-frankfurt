@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 441.3906,
-  "spent_eur": 63.2797,
+  "balance_eur": 440.9079,
+  "spent_eur": 63.7624,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -8100,159 +8100,81 @@
       "pay_url": "https://buy.stripe.com/fZucN68EhfFVdmK9IM2kx11",
       "payment_link_id": "plink_1UTRCwJ5iOXkWb9VZLQx1jb1",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客",
+      "slug": "zh-success-guide-small-restaurants-cafes",
+      "price_eur": 5,
+      "target": "小型餐厅和咖啡馆老板",
+      "reason": "小型餐厅和咖啡馆在中国市场面临激烈竞争，通过提供实用的成功策略，帮助他们吸引更多顾客并提升收入，是一个具有潜力的市场需求。",
+      "language": "zh",
+      "pitch": "通过实用且易于实施的策略，帮助小型餐厅和咖啡馆吸引更多顾客并提升收入。",
+      "content_html": "<h2>内容</h2><ul><li>第一章：了解您的目标客户</li><li>第二章：优化菜单设计</li><li>第三章：利用社交媒体吸引顾客</li><li>第四章：创建独特的顾客体验</li><li>第五章：本地推广与合作</li><li>第六章：数据分析与持续改进</li></ul><h2>试读</h2>在第一章中，您将学习如何分析您的目标客户群体，并制定针对性的营销策略。",
+      "pro": false,
+      "created": "2026-10-22T21:39:47",
+      "file": "zh-success-guide-small-restaurants-cafes-3e1bb795e5845ac0.pdf",
+      "size": 1765,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist gut strukturiert und bietet praktische Tipps für kleine Restaurants und Cafés. Es gibt keine erfunden Studien, Statistiken oder Prozentzahlen. Die Sprache ist korrekt und es gibt keine unfertigen Texte oder Platzhalter. Der Inhalt entspricht den Regeln und ist hilfreich für die Zielgr",
+      "pay_url": "https://buy.stripe.com/eVq4gA07LalB2I6bQU2kx12",
+      "payment_link_id": "plink_1UTTrFJ5iOXkWb9VwF6n7sEo",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage et Suivi de Dépenses - Modèle Professionnel",
+      "slug": "planificateur-de-voyage-et-suivi-de-depenses-professionnel",
+      "price_eur": 9,
+      "target": "Professionnels et particuliers qui planifient des voyages",
+      "reason": "Ce modèle simplifie la planification des voyages et le suivi des dépenses, ce qui est essentiel pour maintenir un budget sous contrôle tout en profitant de son séjour.",
+      "language": "fr",
+      "pitch": "Organisez votre voyage de A à Z avec ce modèle complet de suivi des dépenses et de planification d'itinéraire.",
+      "content_html": "<h2>Contenu</h2><p>Ce modèle Excel professionnel vous permet de planifier votre voyage en détail, de suivre vos dépenses et de visualiser l'itinéraire. Il comprend des fonctionnalités de calcul automatique pour faciliter la gestion de votre budget.</p>",
+      "pro": true,
+      "created": "2026-10-22T21:39:47",
+      "file": "planificateur-de-voyage-et-suivi-de-depenses-professionnel-938d28c88aeb3ca6.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist vollständig auf Französisch, es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Formeln und Tabellen sind plausibel und sinnvoll. Keine Regelverstöße wie Finanz-, Rechts- oder Steuerberatung, keine Gesundheitsversprechen oder fremde Marken. Der Inhalt ist korrekt u",
+      "pay_url": "https://buy.stripe.com/6oU5kE3jX0L1dmK3ko2kx13",
+      "payment_link_id": "plink_1UTTrFJ5iOXkWb9VQqU3lbcS",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos Ventes en 2026",
+      "slug": "guide-pratique-vendre-etsy-strategies-2026",
+      "price_eur": 5,
+      "target": "Petits vendeurs en ligne et artisans qui souhaitent améliorer leurs ventes sur Etsy",
+      "reason": "Avec la croissance continue du commerce en ligne, de nombreux artisans et petits vendeurs cherchent des conseils pratiques pour améliorer leurs ventes sur Etsy. Ce guide offre des stratégies concrètes et faciles à mettre en œuvre, directement applicables en 2026.",
+      "language": "fr",
+      "pitch": "Découvrez les stratégies indispensables pour booster vos ventes sur Etsy en 2026. Des conseils pratiques et faciles à mettre en œuvre dès aujourd'hui.",
+      "content_html": "<h2>Contenu</h2><ul><li>Introduction</li><li>Chapitre 1: Optimiser vos listes de produits</li><li>Chapitre 2: Utiliser les mots-clés comme un pro</li><li>Chapitre 3: Créer des photos qui vendent</li><li>Chapitre 4: Gérer les avis clients</li><li>Chapitre 5: Promouvoir votre boutique</li><li>Chapitre 6: Analyser vos performances</li><li>Conclusion</li></ul><p>Extrait gratuit: Chapitre 2 - Utiliser les mots-clés comme un pro</p>",
+      "pro": false,
+      "created": "2026-10-22T21:39:47",
+      "file": "guide-pratique-vendre-etsy-strategies-2026-bddbf82868b76513.pdf",
+      "size": 1550,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Einige Prozentzahlen ohne Quellenangabe, aber ansonsten nützliche, allgemeine Praxistipps ohne schwere Verstöße gegen die Regeln.",
+      "pay_url": "https://buy.stripe.com/dRmdRadYB65laaybQU2kx14",
+      "payment_link_id": "plink_1UTTrGJ5iOXkWb9VmRvshrkF",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.016658399999999997,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.022316399999999997,
-      "why": "KI-Denken: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfelehrer"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.0038843999999999997,
-      "why": "KI-Pruefung: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfelehrer"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.16,
-      "why": "KI-Bilder: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfelehrer"
-    },
-    {
-      "t": "2026-10-21T00:49:45",
-      "eur": -0.0031931999999999998,
-      "why": "Audit: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food Al"
-    },
-    {
-      "t": "2026-10-21T00:49:45",
-      "eur": -0.0025608,
-      "why": "Audit: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-21T00:49:45",
-      "eur": -0.0036155999999999996,
-      "why": "Audit: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfeleh"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.0014748,
-      "why": "Blog-Artikel: Harz Brocken (fr)"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.0014831999999999998,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (de)"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.00043799999999999997,
-      "why": "Video-Skript: Nordsee Wattenmeer"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599845729"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599845763"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Construction Site Offer & Measurement Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-10-21T00:39:48",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4599845793"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.0170652,
-      "why": "KI-Denken: Senior Care Medication & Expense Tracker"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.0011196,
-      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.016785599999999998,
-      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.022089599999999997,
-      "why": "KI-Denken: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.0034799999999999996,
-      "why": "KI-Pruefung: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.0169104,
-      "why": "KI-Denken: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.0010283999999999998,
-      "why": "KI-Pruefung: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
-    },
     {
       "t": "2026-10-21T07:47:20",
       "eur": -0.0028187999999999998,
@@ -9107,6 +9029,151 @@
       "t": "2026-10-22T18:49:57",
       "eur": 0,
       "why": "Video-Fehler: HTTP Error 504: Gateway Timeout"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.022173599999999998,
+      "why": "KI-Denken: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0037943999999999994,
+      "why": "KI-Pruefung: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.018025199999999998,
+      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0010944,
+      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0179748,
+      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Ultime"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0010559999999999999,
+      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Ultime"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0179352,
+      "why": "KI-Denken: Planificateur de Voyage Familial et Liste de Bagages Professionnel"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Voyage Familial et Liste de Bagages Professionnel"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0178224,
+      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.017878799999999997,
+      "why": "KI-Denken: Planificateur de Voyage et Suivi de Dépenses - Modèle Professionnel"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0010512,
+      "why": "KI-Pruefung: Planificateur de Voyage et Suivi de Dépenses - Modèle Professionnel"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.02424,
+      "why": "KI-Denken: Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos Ventes en 2026"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0041676,
+      "why": "KI-Pruefung: Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos Ventes en 2026"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos Ventes en 2026"
+    },
+    {
+      "t": "2026-10-22T21:48:53",
+      "eur": -0.0040116,
+      "why": "Audit: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-10-22T21:48:53",
+      "eur": -0.0022919999999999998,
+      "why": "Audit: Planificateur de Voyage et Suivi de Dépenses - Modèle Professionnel"
+    },
+    {
+      "t": "2026-10-22T21:48:53",
+      "eur": -0.0038483999999999997,
+      "why": "Audit: Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos "
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0015743999999999999,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (de)"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.0012804,
+      "why": "Blog-Artikel: Frankfurt Skyline (en)"
+    },
+    {
+      "t": "2026-10-22T21:39:47",
+      "eur": -0.00035519999999999996,
+      "why": "Video-Skript: Frankfurt Skyline"
     }
   ],
   "alive": true,
@@ -10792,6 +10859,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-10-22T18:49:57",
       "img": true
+    },
+    {
+      "slug": "hamburg-speicherstadt-ein-magisches-fleckchen-in-der-hafenci",
+      "title": "Hamburg Speicherstadt: Ein magisches Fleckchen in der HafenCity",
+      "lang": "de",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-22T21:39:47",
+      "img": true
+    },
+    {
+      "slug": "discover-frankfurt-skyline-guide-germany-financial-capital",
+      "title": "Discover the Frankfurt Skyline: A Guide to Germany's Financial Capital",
+      "lang": "en",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-22T21:39:47",
+      "img": true
     }
   ],
   "videos": [
@@ -11643,6 +11726,16 @@
       "hashtags": "#新天鹅堡 #德国旅游 #阿尔卑斯山 #童话城堡 #建筑奇迹",
       "voice": "欢迎来到德国的新天鹅堡，这座如梦似幻的城堡是童话世界的真实写照。它坐落在阿尔卑斯山麓，建筑与自然完美融合，散发着无与伦比的魅力。路德维希二世的梦幻杰作，吸引着无数游客前来一睹风采。步入城堡，仿佛穿越时空，感受历史的厚重与艺术的辉煌。新天鹅堡，一座让人心驰神往的建筑奇迹！",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-frankfurt-skyline-guide-germany-financial-capital",
+      "title": "Discover the Frankfurt Skyline: A Guide to Germany's Financial Capital",
+      "lang": "en",
+      "created": "2026-10-22T21:39:47",
+      "hashtags": "#FrankfurtSkyline #GermanyTravel #MainRiverViews #UrbanGermany #EuropesManhattan",
+      "voice": "Welcome to Frankfurt, where futuristic skyscrapers dance with medieval charm! Marvel at Germany's only true skyscraper forest, reflecting majestically in the Main River. This economic powerhouse surprises with cozy apple wine taverns and one of Europe's tallest cathedrals. Every angle offers Instagram-worthy moments - from the sleek ECB tower to the traditional Römer square. Ready to fall for this multifaceted marvel? #Frankfurt",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
