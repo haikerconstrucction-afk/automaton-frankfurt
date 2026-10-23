@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 440.9079,
-  "spent_eur": 63.7624,
+  "balance_eur": 440.0829,
+  "spent_eur": 64.5874,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5075,7 +5075,10 @@
       "audit_note": "Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Der Inhalt ist klar, ehrlich und erfüllt die Regeln. Die Beispielrechnungen sind plausibel und die Sprache ist konsistent Deutsch. Die Formeln und Tabellen machen Sinn und sind korrekt implementiert.",
       "pay_url": "https://buy.stripe.com/bJe4gA3jXeBRfuSg7a2kw37",
       "payment_link_id": "plink_1UPWTMJ5iOXkWb9VcSKslSxU",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4601365178"
+      }
     },
     {
       "type": "ebook",
@@ -5099,7 +5102,10 @@
       "audit_note": "Das E-Book enthält praktische, allgemein bekannte Tipps zur Hundepflege ohne erfundene Statistiken oder spezifische Gesundheitsversprechen. Die Sprache ist konsistent und sachlich richtig. Keine Regelverstöße festgestellt.",
       "pay_url": "https://buy.stripe.com/3cIcN6f2F65l82q4os2kw38",
       "payment_link_id": "plink_1UPWTNJ5iOXkWb9VI9Qz1EJ4",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4601339387"
+      }
     },
     {
       "type": "excel",
@@ -5123,7 +5129,10 @@
       "audit_note": "Der Inhalt ist klar, ehrlich und legal. Es gibt keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Excel-Tabellen sind sinnvoll und korrekt. Die Beispielrechnungen sind klar als solche markiert. Der Titel und die Beschreibung sind zielgruppengerecht und präzise. Es gibt keine fre",
       "pay_url": "https://buy.stripe.com/00w5kE1bP65ldmK1cg2kw39",
       "payment_link_id": "plink_1UPWTNJ5iOXkWb9V2gjYcsVg",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4601365224"
+      }
     },
     {
       "type": "ebook",
@@ -8172,129 +8181,81 @@
       "pay_url": "https://buy.stripe.com/dRmdRadYB65laaybQU2kx14",
       "payment_link_id": "plink_1UTTrGJ5iOXkWb9VmRvshrkF",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Volunteer Event Budget & Donation Tracker",
+      "slug": "volunteer-event-budget-donation-tracker",
+      "price_eur": 9,
+      "target": "Clubs, associations, and volunteer organizations",
+      "reason": "This template simplifies financial management for volunteer events, helping organizations stay within budget and transparently report on income and expenses.",
+      "language": "en",
+      "pitch": "Effortlessly track event budgets, donations, and expenses with a professional Excel template designed for volunteer organizations.",
+      "content_html": "<h2>Content</h2><p>This Excel template helps you manage event budgets, track donations, and monitor expenses efficiently. It includes detailed records for income and expenses, donation tracking, and a dashboard with key financial KPIs.</p>",
+      "pro": true,
+      "created": "2026-10-23T00:43:27",
+      "file": "volunteer-event-budget-donation-tracker-09b5bd08cea86693.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder gesundheitsbezogenen Versprechen. Die Beispielrechnungen sind plausibel und klar als solche erkennbar. Der Tracker ist funktional und für den angegebenen Zweck geeignet.",
+      "pay_url": "https://buy.stripe.com/6oUcN607L79pgyW3ko2kx15",
+      "payment_link_id": "plink_1UTWeyJ5iOXkWb9V3YWfOCbB",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Stress-Free Dog Care: 7 Simple Steps for Busy Families",
+      "slug": "stress-free-dog-care-for-busy-families",
+      "price_eur": 5,
+      "target": "Families with dogs who struggle to balance pet care with busy schedules",
+      "reason": "Addresses a clear pain point for busy families with practical, immediately applicable solutions. Combines time-saving hacks with emotional benefits for both dogs and owners, making the €5 price an easy decision compared to trial-and-error learning.",
+      "language": "en",
+      "pitch": "Discover easy routines and smart strategies to keep your dog happy while saving time. Perfect for working parents and multitasking pet owners.",
+      "content_html": "<h2>Content</h2><ul><li>Introduction: Why Simpler is Better</li><li>Chapter 1: The 10-Minute Morning Routine</li><li>Chapter 2: Smart Feeding Solutions</li><li>Chapter 3: Indoor Exercise Hacks</li><li>Chapter 4: Traveling with Dogs Made Easy</li><li>Chapter 5: Affordable Grooming Shortcuts</li><li>Chapter 6: Building Confidence in Anxious Dogs</li><li>Bonus: Printable Checklists</li></ul>",
+      "pro": false,
+      "created": "2026-10-23T00:43:27",
+      "file": "stress-free-dog-care-for-busy-families-ed196670909f0411.pdf",
+      "size": 1973,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine klar erfundenen Zahlen oder Statistiken, keine Gesundheitsversprechen, keine Rechtsberatung oder Markenverstöße. Inhalt besteht aus allgemeinen Ratschlägen und praktischen Tipps für Hundehalter.",
+      "pay_url": "https://buy.stripe.com/7sY28s1bP51hbeCf362kx16",
+      "payment_link_id": "plink_1UTWezJ5iOXkWb9VT59WMBSp",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Umzugsbudget-Tracker & Renovierungskosten-Rechner",
+      "slug": "umzugsbudget-tracker-renovierungskosten-rechner",
+      "price_eur": 9,
+      "target": "Selbstständige und KMU, die umziehen oder renovieren",
+      "reason": "Diese Vorlage bietet eine effiziente Lösung für die Planung und Verwaltung von Umzugs- und Renovierungskosten, die für Selbstständige und KMU besonders relevant ist.",
+      "language": "de",
+      "pitch": "Behalten Sie Ihre Umzugs- und Renovierungskosten im Griff – professionell organisiert in Excel.",
+      "content_html": "<h2>Inhalt</h2><p>Planen Sie Ihren Umzug und Ihre Renovierung mit Präzision. Diese Excel-Vorlage hilft Ihnen, Ausgaben zu tracken, Budgets zu verwalten und den Überblick zu behalten.</p>",
+      "pro": true,
+      "created": "2026-10-23T00:43:27",
+      "file": "umzugsbudget-tracker-renovierungskosten-rechner-1ec20b8b24b78157.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt entspricht den Vorgaben. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen und keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Die Beispieldaten und Formeln sind plausibel und klar als solche gekennzeichnet. Die Berechnungen sind nachvollziehbar und sinnvoll.",
+      "pay_url": "https://buy.stripe.com/9B67sMcUx79pbeC5sw2kx17",
+      "payment_link_id": "plink_1UTWf0J5iOXkWb9VSoBizHig",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-21T07:47:20",
-      "eur": -0.0028187999999999998,
-      "why": "Audit: Senior Care Expense Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-21T07:47:20",
-      "eur": -0.0032352,
-      "why": "Audit: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
-    },
-    {
-      "t": "2026-10-21T07:47:20",
-      "eur": -0.0023856,
-      "why": "Audit: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional par"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.0010896,
-      "why": "Blog-Artikel: Muenchen Marienplatz (en)"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.0008819999999999999,
-      "why": "Blog-Artikel: Eifel Maare (zh)"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.0003168,
-      "why": "Video-Skript: Eifel Maare"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Bedtime Magic: 7 Enchanting Stories for Children Aged 3-8"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600013683"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Presupuesto y Control de Gastos para Bodas"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600037396"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ahorro Inteligente en Casa: 7 Estrategias Prácticas para Organizar tus Finanzas Familiares"
-    },
-    {
-      "t": "2026-10-21T07:43:06",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600037412"
-    },
-    {
-      "t": "2026-10-21T13:51:41",
-      "eur": -0.0229884,
-      "why": "KI-Denken: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
-    },
-    {
-      "t": "2026-10-21T13:51:41",
-      "eur": -0.004263599999999999,
-      "why": "KI-Pruefung: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
-    },
-    {
-      "t": "2026-10-21T13:51:41",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
-    },
-    {
-      "t": "2026-10-21T13:51:41",
-      "eur": -0.017452799999999997,
-      "why": "KI-Denken: 智能NRW城市探索预算追踪与行程规划器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-21T13:51:41",
-      "eur": -0.0013368,
-      "why": "KI-Pruefung: 智能NRW城市探索预算追踪与行程规划器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-21T13:51:41",
-      "eur": -0.021779999999999997,
-      "why": "KI-Denken: 巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏"
-    },
-    {
-      "t": "2026-10-21T13:51:41",
-      "eur": -0.003993599999999999,
-      "why": "KI-Pruefung: 巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏"
-    },
-    {
-      "t": "2026-10-21T13:51:41",
-      "eur": -0.16,
-      "why": "KI-Bilder: 巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏"
-    },
-    {
-      "t": "2026-10-21T13:57:51",
-      "eur": -0.003942,
-      "why": "Audit: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
-    },
     {
       "t": "2026-10-21T13:57:51",
       "eur": -0.0026435999999999994,
@@ -9174,6 +9135,131 @@
       "t": "2026-10-22T21:39:47",
       "eur": -0.00035519999999999996,
       "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.017712,
+      "why": "KI-Denken: Volunteer Event Budget Tracker & Donation Manager"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Volunteer Event Budget Tracker & Donation Manager"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.018163199999999997,
+      "why": "KI-Denken: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.0010211999999999999,
+      "why": "KI-Pruefung: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.023032799999999996,
+      "why": "KI-Denken: Stress-Free Dog Care: 7 Simple Steps for Busy Families"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.0036155999999999996,
+      "why": "KI-Pruefung: Stress-Free Dog Care: 7 Simple Steps for Busy Families"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.16,
+      "why": "KI-Bilder: Stress-Free Dog Care: 7 Simple Steps for Busy Families"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.018093599999999998,
+      "why": "KI-Denken: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.001044,
+      "why": "KI-Pruefung: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
+    },
+    {
+      "t": "2026-10-23T00:48:25",
+      "eur": -0.002274,
+      "why": "Audit: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-23T00:48:25",
+      "eur": -0.00327,
+      "why": "Audit: Stress-Free Dog Care: 7 Simple Steps for Busy Families"
+    },
+    {
+      "t": "2026-10-23T00:48:25",
+      "eur": -0.0032147999999999994,
+      "why": "Audit: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.0010668,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (zh)"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.0011232,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (es)"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.00037919999999999995,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Vereins-Event Budget Tracker & Finanzplaner"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601365178"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601339387"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Moving & Renovation Budget Tracker for Women"
+    },
+    {
+      "t": "2026-10-23T00:43:27",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601365224"
     }
   ],
   "alive": true,
@@ -10875,6 +10961,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-10-22T21:39:47",
       "img": true
+    },
+    {
+      "slug": "luoenbao-deutschland-lvyou",
+      "title": "童话小镇罗滕堡：德国最美的中世纪古城之旅",
+      "lang": "zh",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-23T00:43:27",
+      "img": true
+    },
+    {
+      "slug": "descubre-el-iconico-brandenburger-tor-en-berlin",
+      "title": "Descubre el icónico Brandenburger Tor en Berlín",
+      "lang": "es",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-23T00:43:27",
+      "img": true
     }
   ],
   "videos": [
@@ -11736,6 +11838,16 @@
       "hashtags": "#FrankfurtSkyline #GermanyTravel #MainRiverViews #UrbanGermany #EuropesManhattan",
       "voice": "Welcome to Frankfurt, where futuristic skyscrapers dance with medieval charm! Marvel at Germany's only true skyscraper forest, reflecting majestically in the Main River. This economic powerhouse surprises with cozy apple wine taverns and one of Europe's tallest cathedrals. Every angle offers Instagram-worthy moments - from the sleek ECB tower to the traditional Römer square. Ready to fall for this multifaceted marvel? #Frankfurt",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-el-iconico-brandenburger-tor-en-berlin",
+      "title": "Descubre el icónico Brandenburger Tor en Berlín",
+      "lang": "es",
+      "created": "2026-10-23T00:43:27",
+      "hashtags": "#BrandenburgerTor #Berlín #Alemania #Historia #Viajes",
+      "voice": "El majestuoso Brandenburger Tor en Berlín es un emblema de libertad y unidad. Este monumento histórico, con su imponente arquitectura neoclásica, ha sido testigo de momentos que cambiaron el curso de la historia. Hoy, sigue siendo un punto de encuentro para celebraciones y eventos culturales, simbolizando la resistencia y esperanza de un pueblo. ¡Descubre su magia y vive la esencia de Berlín!",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
