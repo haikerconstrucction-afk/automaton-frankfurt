@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 438.9999,
-  "spent_eur": 65.6704,
+  "balance_eur": 438.7132,
+  "spent_eur": 65.9571,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -8334,124 +8334,81 @@
       "pay_url": "https://buy.stripe.com/28E9AU4o1ctJ82q8EI2kx1a",
       "payment_link_id": "plink_1UTea6J5iOXkWb9V9ebZXAB3",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Control de Gastos de Cuidados para Adultos Mayores",
+      "slug": "control-gastos-cuidados-adultos-mayores",
+      "price_eur": 9,
+      "target": "Organizaciones de cuidado y familiares que gestionan gastos de adultos mayores",
+      "reason": "Ofrece una solución profesional para el creciente mercado de cuidados a adultos mayores en España y Latinoamérica, donde las familias necesitan herramientas prácticas para gestionar estos gastos.",
+      "language": "es",
+      "pitch": "La herramienta definitiva para registrar y optimizar los gastos de cuidado de adultos mayores. Mantén el control financiero con reportes automáticos.",
+      "content_html": "<h2>Contenido</h2><p>Tablas organizadas para registrar todos los gastos médicos, de cuidado y suministros con cálculos automáticos.</p>",
+      "pro": true,
+      "created": "2026-10-23T13:29:47",
+      "file": "control-gastos-cuidados-adultos-mayores-56cab221295dad16.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt erfüllt die Kriterien: Keine erfundenen Studien, Statistiken oder Quellen, keine Gesundheitsversprechen, keine Marken Dritter. Die Excel-Tabelle ist funktional und klar strukturiert. Die Beispielberechnungen basieren auf den angegebenen Beispieldaten und sind plausibel.",
+      "pay_url": "https://buy.stripe.com/bJe6oIaMp65lbeC1cg2kx1b",
+      "payment_link_id": "plink_1UTih0J5iOXkWb9V3iOb8vjq",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer",
+      "slug": "7-estrategias-comprobadas-para-aumentar-tus-ingresos-como-freelancer",
+      "price_eur": 5,
+      "target": "Freelancers y autónomos que buscan mejorar sus ingresos de manera sostenible",
+      "reason": "Los freelancers españoles y latinoamericanos buscan constantemente formas prácticas de mejorar sus ingresos sin aumentar su carga horaria. Este ebook ofrece soluciones concretas basadas en casos reales, con pasos aplicables inmediatamente para diferenciarse en un mercado competitivo.",
+      "language": "es",
+      "pitch": "Descubre métodos prácticos para aumentar tus ganancias sin trabajar más horas. Aplicaciones inmediatas que puedes implementar hoy mismo para escalar tu negocio freelance.",
+      "content_html": "<h2>Contenido</h2><ul><li>Capítulo 1: Identifica tus servicios más rentables</li><li>Capítulo 2: Cómo aumentar tus tarifas sin perder clientes</li><li>Capítulo 3: Paquetiza tus servicios para vender más</li><li>Capítulo 4: Sistemas recurrentes de ingresos para freelancers</li><li>Capítulo 5: Automatiza procesos para ganar tiempo</li><li>Capítulo 6: Estrategias de upselling efectivas</li><li>Capítulo 7: Crea productos digitales complementarios</li></ul><p>Extracto del Capítulo 3: Agrupar tus servicios en paquetes claramente definidos permite...",
+      "pro": false,
+      "created": "2026-10-23T13:29:47",
+      "file": "7-estrategias-comprobadas-para-aumentar-tus-ingresos-como-freelancer-11349cfc7702ea37.pdf",
+      "size": 1538,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die genannten Prozentzahlen (20%, 30%) sind nicht als Beispiel oder allgemein bekannt gekennzeichnet, daher als erfunden markiert. Der Rest des Inhalts ist strukturiert, sinnvoll und hält sich an die Regeln. Keine falschen Studien oder Quellen, keine unerlaubten Themen.",
+      "pay_url": "https://buy.stripe.com/bJe28s6w965laaydZ22kx1c",
+      "payment_link_id": "plink_1UTih0J5iOXkWb9VBEnq70nv",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能黑森林旅行预算追踪与行程规划器",
+      "slug": "smart-black-forest-travel-budget-planner",
+      "price_eur": 15,
+      "target": "前往德国黑森林地区旅游的国际游客",
+      "reason": "市场上缺少专门针对黑森林地区、支持多货币的旅行规划工具，这款专业模板完美填补了这一空白",
+      "language": "zh",
+      "pitch": "专业旅行规划工具，轻松掌控您的黑森林之旅所有开支与行程，让旅行更高效无忧",
+      "content_html": "<h2>内容</h2><p>包含完整的预算追踪、行程规划、景点管理功能，专为黑森林地区旅行优化设计</p>",
+      "pro": true,
+      "created": "2026-10-23T13:29:47",
+      "file": "smart-black-forest-travel-budget-planner-890ff90ba7324abd.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt erfüllt die Anforderungen. Es enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Währungsumrechnungen und berechneten Kennzahlen sind plausibel und als Beispiel klar erkennbar. Keine Verstöße gegen die vorgegebenen Regeln festgestellt.",
+      "pay_url": "https://buy.stripe.com/8x23cwf2F8dt5Ui9IM2kx1d",
+      "payment_link_id": "plink_1UTih1J5iOXkWb9V5G5nLXoY",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-21T18:41:41",
-      "eur": -0.0003852,
-      "why": "Video-Skript: Koeln Dom"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): IncompleteRead(33 bytes read)"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): IncompleteRead(44 bytes read)"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.0220884,
-      "why": "KI-Denken: Dresden & Saxony Family Adventure Guide: 7 Fun-Filled Days Exploring History, Nature & Hidden Gems"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.0035064,
-      "why": "KI-Pruefung: Dresden & Saxony Family Adventure Guide: 7 Fun-Filled Days Exploring History, Nature & Hidden Gems"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1378 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.022475999999999996,
-      "why": "KI-Denken: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.0033983999999999993,
-      "why": "KI-Pruefung: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.12,
-      "why": "KI-Bilder: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): IncompleteRead(0 bytes read)"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.017589599999999997,
-      "why": "KI-Denken: Baustellen-Kosten- und Aufmaß-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.0010524,
-      "why": "KI-Pruefung: Baustellen-Kosten- und Aufmaß-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.0178872,
-      "why": "KI-Denken: Baustoff-Bestandsmanager & Kostenrechner für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.0011987999999999999,
-      "why": "KI-Pruefung: Baustoff-Bestandsmanager & Kostenrechner für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-21T23:29:32",
-      "eur": -0.0031631999999999997,
-      "why": "Audit: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hid"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Audit: 1 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.0015336,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (es)"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": 0,
-      "why": "Blog-Fehler: IncompleteRead(44 bytes read)"
-    },
-    {
-      "t": "2026-10-21T23:24:00",
-      "eur": -0.0003804,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
     {
       "t": "2026-10-22T04:53:50",
       "eur": -0.0178152,
@@ -9341,6 +9298,116 @@
       "t": "2026-10-23T08:58:33",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601552752"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.018401999999999998,
+      "why": "KI-Denken: Planificador de Medicamentos y Seguimiento para Cuidadores"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.0010463999999999998,
+      "why": "KI-Pruefung: Planificador de Medicamentos y Seguimiento para Cuidadores"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.018163199999999997,
+      "why": "KI-Denken: Control de Gastos de Cuidados para Adultos Mayores"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Control de Gastos de Cuidados para Adultos Mayores"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.023800799999999993,
+      "why": "KI-Denken: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer en 2026"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.0039948,
+      "why": "KI-Pruefung: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer en 2026"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1380 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.0237648,
+      "why": "KI-Denken: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.0037955999999999992,
+      "why": "KI-Pruefung: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.0182436,
+      "why": "KI-Denken: 智能黑森林旅行预算追踪与行程规划器"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能黑森林旅行预算追踪与行程规划器"
+    },
+    {
+      "t": "2026-10-23T13:39:18",
+      "eur": -0.0032256,
+      "why": "Audit: Control de Gastos de Cuidados para Adultos Mayores"
+    },
+    {
+      "t": "2026-10-23T13:39:18",
+      "eur": -0.0036516,
+      "why": "Audit: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
+    },
+    {
+      "t": "2026-10-23T13:39:18",
+      "eur": -0.0039372,
+      "why": "Audit: 智能黑森林旅行预算追踪与行程规划器"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.0009983999999999998,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (en)"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.0012923999999999998,
+      "why": "Blog-Artikel: Muenchen Marienplatz (zh)"
+    },
+    {
+      "t": "2026-10-23T13:29:47",
+      "eur": -0.00035039999999999995,
+      "why": "Video-Skript: Muenchen Marienplatz"
     }
   ],
   "alive": true,
@@ -11074,6 +11141,22 @@
       "topic": "Harz Brocken",
       "created": "2026-10-23T08:58:33",
       "img": true
+    },
+    {
+      "slug": "north-sea-wadden-sea-germany",
+      "title": "Exploring the North Sea Wadden Sea: A Unique Natural Wonder in Germany",
+      "lang": "en",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-23T13:29:47",
+      "img": true
+    },
+    {
+      "slug": "muenchen-marienplatz-reiseblog",
+      "title": "慕尼黑玛丽恩广场：历史与文化的交汇点",
+      "lang": "zh",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-23T13:29:47",
+      "img": true
     }
   ],
   "videos": [
@@ -11955,6 +12038,16 @@
       "hashtags": "#Harz #Brocken #WandernDeutschland #Naturerlebnis #HarzNationalpark",
       "voice": "Entdecke den Brocken im Harz – ein einzigartiges Naturerlebnis! Mit 1.141 Metern ist er der höchste Berg Norddeutschlands und ein Magnet für Wanderer und Naturliebhaber. Erklimme den Gipfel zu Fuß oder genieße die gemütliche Fahrt mit der historischen Brockenbahn. Das Brockenhaus erzählt spannende Geschichten, und oben angekommen, belohnt dich ein atemberaubender Panoramablick. Ideal für Tagesausflüge oder Wochenendtrips!",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "muenchen-marienplatz-reiseblog",
+      "title": "慕尼黑玛丽恩广场：历史与文化的交汇点",
+      "lang": "zh",
+      "created": "2026-10-23T13:29:47",
+      "hashtags": "#慕尼黑 #玛利亚广场 #德国旅行 #文化探索 #历史建筑",
+      "voice": "欢迎来到慕尼黑的玛利亚广场！这里不仅是城市的中心，更是历史与文化的交汇点。壮丽的新市政厅、庄严的玛丽亚柱，每一处都讲述着慕尼黑的故事。无论是冬日梦幻的圣诞市场，还是每日的钟楼表演，玛利亚广场总有无尽的惊喜等着你。快来体验这座城市的独特魅力吧！",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
