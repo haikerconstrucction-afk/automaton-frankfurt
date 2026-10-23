@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 438.3031,
-  "spent_eur": 66.3672,
+  "balance_eur": 438.0252,
+  "spent_eur": 66.6451,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -8478,119 +8478,81 @@
       "pay_url": "https://buy.stripe.com/5kQ5kEaMp9hxbeC08c2kx1g",
       "payment_link_id": "plink_1UToHIJ5iOXkWb9VccwtNLB3",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate North & Baltic Sea Family Travel Budget Planner",
+      "slug": "north-baltic-sea-family-travel-budget-planner",
+      "price_eur": 9,
+      "target": "Families planning trips to Germany's North Sea and Baltic Sea coasts (3+ people)",
+      "reason": "Unlike generic budget trackers, this planner addresses specific pain points families face when visiting coastal Germany - calculating group rates, optimizing transportation between islands/peninsulas, and finding child-friendly dining options while staying on budget.",
+      "language": "en",
+      "pitch": "Effortlessly plan your coastal family adventure with this all-in-one budget tracker and itinerary organizer. Never overspend on accommodation, food or activities again.",
+      "content_html": "<h2>What's Included</h2><ul><li>Interactive daily budget tracker</li><li>Accommodation cost calculator</li><li>Meal planning cost estimator</li><li>Activity expense organizer</li><li>Automatic savings calculator</li></ul>",
+      "pro": true,
+      "created": "2026-10-23T23:11:41",
+      "file": "north-baltic-sea-family-travel-budget-planner-5094c42b0b46eac5.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Studien. Keine Regelverstöße erkennbar. Die Excel-Datei enthält klar beschriebene Beispieldaten und Berechnungen, die plausibel sind. Keine Gesundheitsversprechen, Rechts- oder Finanzberatung. Keine Marken oder fremden Figuren. Sprache ist korrekt und einhei",
+      "pay_url": "https://buy.stripe.com/4gM6oIdYB65l5Ui08c2kx1h",
+      "payment_link_id": "plink_1UTrhgJ5iOXkWb9V6dUrybFk",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt, Heidelberg & Beyond",
+      "slug": "family-adventures-rhine-valley-frankfurt-heidelberg-guide",
+      "price_eur": 5,
+      "target": "International families planning trips to Germany with kids (ages 5-12), focusing on authentic experiences and practical logistics",
+      "reason": "Existing guides either overwhelm families or lack practical details about accessibility/food. This fills the gap with hyperlocal tips tested by real parents, focusing on experiences that actually work with children.",
+      "language": "en",
+      "pitch": "Discover hidden playgrounds, stress-free transit routes, and interactive museums along the Rhine River. Get kid-tested itineraries that balance fun and culture while avoiding tourist traps.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: Frankfurt Made Easy (Airport Hacks & City Explorations)</li><li>Chapter 2: Castle Quest in Heidelberg</li><li>Chapter 3: Riverside Picnic Spots</li><li>Chapter 4: Affordable Family Eats</li><li>Chapter 5: Rainy Day Solutions</li><li>Chapter 6: Public Transport Cheat Sheet</li><li>Bonus: Interactive Scavenger Hunt</li></ul>Sample: Our favorite 'secret' riverside playground in Mainz...",
+      "pro": false,
+      "created": "2026-10-23T23:11:41",
+      "file": "family-adventures-rhine-valley-frankfurt-heidelberg-guide-e50572cb60749ca2.pdf",
+      "size": 1833,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine offensichtlichen Regelverstöße gefunden. Inhalt besteht aus allgemein bekannten Fakten und praktischen Tipps ohne erfundene Statistiken, Gesundheitsversprechen oder rechtliche Beratung.",
+      "pay_url": "https://buy.stripe.com/fZucN64o13Xd1E27AE2kx1i",
+      "payment_link_id": "plink_1UTrhhJ5iOXkWb9Vxj3Bi12o",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimativer Berlin & Potsdam Reisekosten-Tracker für Selbstständige",
+      "slug": "berlin-potsdam-reisekosten-tracker",
+      "price_eur": 9,
+      "target": "Selbstständige und Freiberufler, die geschäftliche oder kombinierte Reisen nach Berlin/Potsdam unternehmen",
+      "reason": "Selbstständige benötigen für Dienstreisen nach Berlin/Potsdam einen professionellen Kostenüberblick für Steuererklärung und Budgetplanung. Diese Vorlage erspart Stunden händischer Berechnungen und bietet klare Auswertungen.",
+      "language": "de",
+      "pitch": "Professionelle Kostenkontrolle für Dienstreisen in die Hauptstadtregion - behalten Sie alle Ausgaben im Blick und optimieren Sie Ihr Reisebudget.",
+      "content_html": "<h2>Inhalt</h2><p>Komplettlösung zur Erfassung und Analyse aller Reisekosten mit automatischen Berechnungen und klaren Auswertungen.</p>",
+      "pro": true,
+      "created": "2026-10-23T23:11:41",
+      "file": "berlin-potsdam-reisekosten-tracker-cc37a2820513b3c8.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine einfache Excel-Tabelle zur Erfassung von Reisekosten ohne erfundene Zahlen, Studien oder gesundheitsbezogene Versprechen. Es werden nur allgemein bekannte Steuersätze (wie 19% MwSt) verwendet und klar als Beispielrechnungen dargestellt. Die Funktionalität ist nachvollziehbar und",
+      "pay_url": "https://buy.stripe.com/cNicN69IldxNbeC2gk2kx1j",
+      "payment_link_id": "plink_1UTrhhJ5iOXkWb9Vy9FxSXQV",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): E-Book zu kurz (1471 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-22T05:14:07",
-      "eur": -0.0034968,
-      "why": "Audit: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Audit: 1 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.001212,
-      "why": "Blog-Artikel: Bodensee (fr)"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.0012384,
-      "why": "Blog-Artikel: Mosel Cochem (de)"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.00036119999999999994,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能个人健身预算与进度追踪器"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600741688"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能房东管理指南：轻松管理1-5套房产的7个实用步骤"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600741700"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Révisions & Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600741710"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): string indices must be integers, not 'str'"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.023680800000000002,
-      "why": "KI-Denken: 10 Fantasievolle Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.004381199999999999,
-      "why": "KI-Pruefung: 10 Fantasievolle Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): E-Book zu kurz (1405 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.0255156,
-      "why": "KI-Denken: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.0044256,
-      "why": "KI-Pruefung: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.16,
-      "why": "KI-Bilder: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.017856,
-      "why": "KI-Denken: Ultimate Wedding Budget Planner & Vendor Tracker (2026 Edition)"
-    },
     {
       "t": "2026-10-22T12:02:01",
       "eur": -0.0011459999999999999,
@@ -9480,6 +9442,116 @@
       "t": "2026-10-23T19:27:46",
       "eur": -0.0004476,
       "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.0187116,
+      "why": "KI-Denken: Ultimate North & Baltic Sea Family Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.0010404,
+      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.0186156,
+      "why": "KI-Denken: Ultimate North & Baltic Sea Family Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.0010512,
+      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.023998799999999997,
+      "why": "KI-Denken: Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt, Heidelberg & Beyond"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.00357,
+      "why": "KI-Pruefung: Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt, Heidelberg & Beyond"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.16,
+      "why": "KI-Bilder: Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt, Heidelberg & Beyond"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.0185076,
+      "why": "KI-Denken: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.018868799999999998,
+      "why": "KI-Denken: Ultimativer Berlin & Potsdam Reisekosten-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.0010451999999999998,
+      "why": "KI-Pruefung: Ultimativer Berlin & Potsdam Reisekosten-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-10-23T23:16:38",
+      "eur": -0.0023339999999999997,
+      "why": "Audit: Ultimate North & Baltic Sea Family Travel Budget Planner"
+    },
+    {
+      "t": "2026-10-23T23:16:38",
+      "eur": -0.003204,
+      "why": "Audit: Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt"
+    },
+    {
+      "t": "2026-10-23T23:16:38",
+      "eur": -0.0030311999999999995,
+      "why": "Audit: Ultimativer Berlin & Potsdam Reisekosten-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.0014039999999999999,
+      "why": "Blog-Artikel: Schwarzwald (en)"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.0012024,
+      "why": "Blog-Artikel: Saarland Saarschleife (zh)"
+    },
+    {
+      "t": "2026-10-23T23:11:41",
+      "eur": -0.00038639999999999996,
+      "why": "Video-Skript: Saarland Saarschleife"
     }
   ],
   "alive": true,
@@ -11245,6 +11317,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-10-23T19:27:46",
       "img": true
+    },
+    {
+      "slug": "exploring-the-black-forest-travel-guide",
+      "title": "Exploring the Black Forest: A Complete Travel Guide",
+      "lang": "en",
+      "topic": "Schwarzwald",
+      "created": "2026-10-23T23:11:41",
+      "img": true
+    },
+    {
+      "slug": "saarland-saarschleife-deutschland-reiseblog",
+      "title": "德国萨尔州的自然奇观：萨尔河湾的完美之旅",
+      "lang": "zh",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-23T23:11:41",
+      "img": true
     }
   ],
   "videos": [
@@ -12136,6 +12224,16 @@
       "hashtags": "#慕尼黑 #玛利亚广场 #德国旅行 #文化探索 #历史建筑",
       "voice": "欢迎来到慕尼黑的玛利亚广场！这里不仅是城市的中心，更是历史与文化的交汇点。壮丽的新市政厅、庄严的玛丽亚柱，每一处都讲述着慕尼黑的故事。无论是冬日梦幻的圣诞市场，还是每日的钟楼表演，玛利亚广场总有无尽的惊喜等着你。快来体验这座城市的独特魅力吧！",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "saarland-saarschleife-deutschland-reiseblog",
+      "title": "德国萨尔州的自然奇观：萨尔河湾的完美之旅",
+      "lang": "zh",
+      "created": "2026-10-23T23:11:41",
+      "hashtags": "#德国旅游 #萨尔河弯 #自然奇观 #徒步旅行 #欧洲美景",
+      "voice": "在德国西南部隐藏着一颗明珠——萨尔河弯！这里被誉为德国最壮观的河流奇观,蜿蜒的萨尔河被茂密的原始森林环抱。登上克鲁姆悬岩观景台,震撼人心的全景画面将让你永生难忘。无论春夏秋冬,这里都呈现不同的魅力。徒步爱好者可以探索长达100公里的森林小径,每一个转角都能遇见令人屏息的美景。带上你的相机,来感受大自然最纯粹的馈赠吧！",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
