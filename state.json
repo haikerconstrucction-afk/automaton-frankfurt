@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 438.7132,
-  "spent_eur": 65.9571,
+  "balance_eur": 438.3031,
+  "spent_eur": 66.3672,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -8406,94 +8406,81 @@
       "pay_url": "https://buy.stripe.com/8x23cwf2F8dt5Ui9IM2kx1d",
       "payment_link_id": "plink_1UTih1J5iOXkWb9V5G5nLXoY",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝",
+      "slug": "intelligent-exploration-saarland-mosel",
+      "price_eur": 5,
+      "target": "来自中国的游客和旅行者",
+      "reason": "这本指南专门为来自中国的游客设计，提供了详细的旅行规划和建议，帮助他们更好地探索萨尔兰与摩泽尔地区的自然与文化。",
+      "language": "zh",
+      "pitch": "这本指南将带领您通过7个简单步骤，深入探索德国萨尔兰和摩泽尔地区的自然美景与文化宝藏，让您的旅行更加丰富与难忘。",
+      "content_html": "<h2>内容</h2> 探索萨尔兰和摩泽尔地区的7步指南，包括详细的地图、实用建议和独特的文化洞察。",
+      "pro": false,
+      "created": "2026-10-23T19:27:46",
+      "file": "intelligent-exploration-saarland-mosel-ad5a56e2d91195d4.pdf",
+      "size": 1647,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Zahlen, Statistiken oder Quellen, keine Gesundheitsversprechen, keine Rechts- oder Finanzberatung, keine Marken oder Figuren Dritter. Der Text ist gut strukturiert und bietet praktische Reisetipps ohne sachliche Fehler.",
+      "pay_url": "https://buy.stripe.com/4gMaEY1bPfFV4Qe2gk2kx1e",
+      "payment_link_id": "plink_1UToHHJ5iOXkWb9VD61HRIcd",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage NRW : Budget & Itinéraire pour Explorateurs Urbains",
+      "slug": "planificateur-voyage-nrw-budget-itineraire-explorateurs-urbains",
+      "price_eur": 9,
+      "target": "Voyageurs indépendants et petits groupes visitant la Rhénanie-du-Nord-Westphalie (Cologne, Düsseldorf, Ruhr)",
+      "reason": "Ce planificateur comble le besoin des voyageurs francophones cherchant à explorer la NRW de manière organisée et économique, avec une interface claire et des fonctionnalités professionnelles pour une expérience sans stress.",
+      "language": "fr",
+      "pitch": "Gérez facilement votre budget voyage et planifiez votre itinéraire en NRW avec cette feuille de calcul professionnelle. Parfait pour explorer Cologne, Düsseldorf et la Ruhr sans stress.",
+      "content_html": "<h2>Contenu</h2><p>Une solution complète pour planifier votre voyage en NRW, avec suivi des dépenses et organisation de l'itinéraire.</p>",
+      "pro": true,
+      "created": "2026-10-23T19:27:46",
+      "file": "planificateur-voyage-nrw-budget-itineraire-explorateurs-urbains-a36c0c14df75d19f.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist klar formuliert und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind plausibel und gut nachvollziehbar. Die Sprache ist durchgängig Französisch und es gibt keine unfertigen Texte oder Platzhalter. Es gibt keine Rechts-, Steuer-, Finanz- od",
+      "pay_url": "https://buy.stripe.com/6oU9AU8Eh79p82q1cg2kx1f",
+      "payment_link_id": "plink_1UToHHJ5iOXkWb9V02zkI8ak",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés",
+      "slug": "guide-essentiel-baviere-alpes-tresors-caches",
+      "price_eur": 5,
+      "target": "Voyageurs francophones (tous genres) souhaitant explorer la Bavière et les Alpes allemandes hors des sentiers battus",
+      "reason": "Ce guide comble un manque dans le marché francophone en proposant des itinéraires pratiques et peu connus pour découvrir la Bavière autrement. Son prix modeste est justifié par la valeur des conseils exclusifs et les économies qu'il permet de réaliser en évitant les pièges touristiques.",
+      "language": "fr",
+      "pitch": "Découvrez les paysages époustouflants et les villages pittoresques de Bavière avec ce guide pratique. 7 itinéraires détaillés pour éviter la foule et profiter au maximum de votre voyage.",
+      "content_html": "<h2>Contenu</h2> <ul><li>Introduction : Pourquoi visiter la Bavière ?</li><li>Chapitre 1 : Préparer son voyage</li><li>Chapitre 2 : Itinéraire des châteaux féeriques</li><li>Chapitre 3 : Route des lacs alpins secrets</li><li>Chapitre 4 : Villages médiévaux méconnus</li><li>Chapitre 5 : Randonnées faciles avec vues spectaculaires</li><li>Chapitre 6 : Spécialités culinaires à ne pas manquer</li><li>Chapitre 7 : Conseils pour voyager malin</li></ul>",
+      "pro": false,
+      "created": "2026-10-23T19:27:46",
+      "file": "guide-essentiel-baviere-alpes-tresors-caches-04786be669a1be49.pdf",
+      "size": 1804,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils konform mit den Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder Quellen. Die Informationen sind allgemein bekannt und basieren auf Praxistipps. Die Sprache ist korrekt und durchgängig Französisch. Es gibt keine sachlichen Fehler oder Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/5kQ5kEaMp9hxbeC08c2kx1g",
+      "payment_link_id": "plink_1UToHIJ5iOXkWb9VccwtNLB3",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.0178152,
-      "why": "KI-Denken: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.0012275999999999997,
-      "why": "KI-Pruefung: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.023685599999999998,
-      "why": "KI-Denken: Magische Abenteuer: 7 fantasievolle Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.0043596,
-      "why": "KI-Pruefung: Magische Abenteuer: 7 fantasievolle Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): E-Book zu kurz (1394 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.024022800000000004,
-      "why": "KI-Denken: Magische Abenteuergeschichten: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.0045048,
-      "why": "KI-Pruefung: Magische Abenteuergeschichten: 7 zauberhafte Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1434 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.0230172,
-      "why": "KI-Denken: Traumland Abenteuer: 30 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.004376399999999999,
-      "why": "KI-Pruefung: Traumland Abenteuer: 30 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1428 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.0228768,
-      "why": "KI-Denken: Entdeckungsreisen ins Traumland: 7 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.004341599999999999,
-      "why": "KI-Pruefung: Entdeckungsreisen ins Traumland: 7 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): E-Book zu kurz (1347 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Expecting ',' delimiter: line 30 column 10 (char 3240)"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.024477599999999995,
-      "why": "KI-Denken: Traumreisen ins Schlummerland: 7 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
-    {
-      "t": "2026-10-22T04:53:50",
-      "eur": -0.00435,
-      "why": "KI-Pruefung: Traumreisen ins Schlummerland: 7 magische Gute-Nacht-Geschichten für Kinder von 3-8 Jahren"
-    },
     {
       "t": "2026-10-22T04:53:50",
       "eur": 0,
@@ -9408,6 +9395,91 @@
       "t": "2026-10-23T13:29:47",
       "eur": -0.00035039999999999995,
       "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.0226584,
+      "why": "KI-Denken: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.0037692,
+      "why": "KI-Pruefung: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.018646799999999998,
+      "why": "KI-Denken: Planificateur de Voyage NRW : Budget & Itinéraire pour Explorateurs Urbains"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.0010463999999999998,
+      "why": "KI-Pruefung: Planificateur de Voyage NRW : Budget & Itinéraire pour Explorateurs Urbains"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.0265164,
+      "why": "KI-Denken: Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.0041844,
+      "why": "KI-Pruefung: Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
+    },
+    {
+      "t": "2026-10-23T19:36:54",
+      "eur": -0.0039228,
+      "why": "Audit: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-10-23T19:36:54",
+      "eur": -0.0024407999999999995,
+      "why": "Audit: Planificateur de Voyage NRW : Budget & Itinéraire pour Explorateurs Urbains"
+    },
+    {
+      "t": "2026-10-23T19:36:54",
+      "eur": -0.0039612,
+      "why": "Audit: Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incont"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.0012395999999999998,
+      "why": "Blog-Artikel: Eifel Maare (es)"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.0014279999999999998,
+      "why": "Blog-Artikel: Rheingau Weinberge (fr)"
+    },
+    {
+      "t": "2026-10-23T19:27:46",
+      "eur": -0.0004476,
+      "why": "Video-Skript: Rheingau Weinberge"
     }
   ],
   "alive": true,
@@ -11156,6 +11228,22 @@
       "lang": "zh",
       "topic": "Muenchen Marienplatz",
       "created": "2026-10-23T13:29:47",
+      "img": true
+    },
+    {
+      "slug": "eifel-maare-alemania-viaje",
+      "title": "Descubriendo las mágicas Eifel Maare en Alemania",
+      "lang": "es",
+      "topic": "Eifel Maare",
+      "created": "2026-10-23T19:27:46",
+      "img": true
+    },
+    {
+      "slug": "decouverte-vignobles-rheingau-joya-viticole-allemand",
+      "title": "Découverte des vignobles du Rheingau : Un joyau viticole allemand",
+      "lang": "fr",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-23T19:27:46",
       "img": true
     }
   ],
