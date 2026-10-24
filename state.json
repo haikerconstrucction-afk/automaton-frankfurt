@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 437.1736,
-  "spent_eur": 67.4967,
+  "balance_eur": 436.34,
+  "spent_eur": 68.3303,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5318,7 +5318,10 @@
       "audit_note": "Der Inhalt enthält keine offensichtlichen Regelverstöße. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Die Informationen sind allgemein gehalten und bieten praktische Tipps ohne spezifische Gesundheitsversprechen, Rechtsberatung oder Markenverweise. Allerdings könnte ",
       "pay_url": "https://buy.stripe.com/14A8wQbQt79p2I67AE2kw3g",
       "payment_link_id": "plink_1UPsN4J5iOXkWb9VLHYewtLL",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602232122"
+      }
     },
     {
       "type": "excel",
@@ -5342,7 +5345,10 @@
       "audit_note": "Das Produkt entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispiel-Daten sind klar als solche gekennzeichnet und dienen nur der Veranschaulichung. Die Funktionalität ist nachvollziehbar und plausibel.",
       "pay_url": "https://buy.stripe.com/8x23cw9IlalBbeC2gk2kw3h",
       "payment_link_id": "plink_1UPsN4J5iOXkWb9VL16NVtQh",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602207521"
+      }
     },
     {
       "type": "ebook",
@@ -5366,7 +5372,10 @@
       "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es werden keine Gesundheitsversprechen, Finanz- oder Rechtsberatungen gegeben. Die Sprache ist einheitlich und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Es werden keine Marken oder Figuren Dritter verwe",
       "pay_url": "https://buy.stripe.com/dRmbJ28EhctJ0zY9IM2kw3i",
       "payment_link_id": "plink_1UPzk5J5iOXkWb9VQsy1Cu3C",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602207543"
+      }
     },
     {
       "type": "excel",
@@ -8631,134 +8640,81 @@
       "pay_url": "https://buy.stripe.com/4gM7sMdYBfFVeqO5sw2kx1m",
       "payment_link_id": "plink_1UTwvLJ5iOXkWb9VzEHcgvBK",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador Profesional de Presupuesto para Bodas",
+      "slug": "planificador-presupuesto-bodas",
+      "price_eur": 9,
+      "target": "novios y organizadores de bodas",
+      "reason": "Las bodas suponen una inversión importante y este planificador ofrece transparencia y control total sobre los gastos, lo que reduce el estrés en la planificación. La exportación profesional del presupuesto permite comparar fácilmente ofertas y tomar decisiones informadas.",
+      "language": "es",
+      "pitch": "La herramienta definitiva para controlar todos los gastos de tu boda y evitar sorpresas, con seguimiento automático de proveedores y pagos pendientes.",
+      "content_html": null,
+      "pro": true,
+      "created": "2026-10-24T11:07:40",
+      "file": "planificador-presupuesto-bodas-1031906b3e3f4891.xlsx",
+      "size": 13,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt erfüllt die Kriterien: Keine erfundenen Studien, Statistiken oder Prozentzahlen. Es handelt sich um eine klare, funktionale Excel-Vorlage zur Budgetplanung für Hochzeiten ohne unzulässige Inhalte. Die Beispielrechnungen sind plausibel und klar als solche markiert. Keine Verstöße gegen di",
+      "pay_url": "https://buy.stripe.com/dRm3cwf2FdxN4Qeg7a2kx1n",
+      "payment_link_id": "plink_1UU2rzJ5iOXkWb9VUZ45ZgHJ",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre",
+      "slug": "7-estrategias-inteligentes-para-ahorrar-en-casa",
+      "price_eur": 5,
+      "target": "Hombres que desean optimizar sus finanzas domésticas sin complicaciones",
+      "reason": "Este libro llena un vacío en el mercado español con consejos prácticos adaptados específicamente para hombres que buscan mejorar sus finanzas domésticas sin complicaciones. Ofrece un enfoque realista, sin promesas milagrosas, con estrategias que pueden aplicarse inmediatamente.",
+      "language": "es",
+      "pitch": "Aprende técnicas sencillas para reducir gastos en el hogar sin sacrificar tu calidad de vida. Consejos prácticos para mejorar tus finanzas familiares.",
+      "content_html": "<h2>Contenido</h2><ul><li>1. El arte del ahorro inteligente</li><li>2. Domina tu presupuesto mensual</li><li>3. Estrategias para compras más eficientes</li><li>4. Reduce tus facturas sin esfuerzo</li><li>5. Planificación de gastos recurrentes</li><li>6. Hábitos diarios para ahorrar más</li><li>7. Mantén el control a largo plazo</li></ul>",
+      "pro": false,
+      "created": "2026-10-24T11:07:40",
+      "file": "7-estrategias-inteligentes-para-ahorrar-en-casa-9009f0a59ebd5e1a.pdf",
+      "size": 1648,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Die Prozentzahlen (10%, 20%, etc.) sind als Beispielrechnungen dargestellt und klar als Faustregeln bzw. allgemein bekannte Praxistipps markiert. Keine erfundenen Studien oder spezifische Statistiken gefunden. Inhalt bietet praktische Tipps ohne Gesundheitsversprechen, Marken oder Rechtsberatung.",
+      "pay_url": "https://buy.stripe.com/eVqeVecUxgJZaay08c2kx1o",
+      "payment_link_id": "plink_1UU2rzJ5iOXkWb9V5rZc0NHc",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能私人健身预算与训练进度追踪器",
+      "slug": "smart-fitness-budget-and-training-tracker",
+      "price_eur": 9,
+      "target": "私人教练和自主训练的健身爱好者",
+      "reason": "这个模板提供了一个专业的健身预算追踪和训练管理系统，直观的仪表盘让用户能够轻松监控训练效果和财务状况。市场上很多教练需要同时管理多个客户的预算和训练进度，这个工具能显著提高工作效率。",
+      "language": "zh",
+      "pitch": "专业级的健身预算和训练进度追踪工具，帮助您高效管理训练计划和财务支出",
+      "content_html": "<h2>内容</h2><p>这款专业的Excel模板包含完整的健身预算管理和训练进度追踪功能，适合私人教练和个人健身爱好者使用</p>",
+      "pro": true,
+      "created": "2026-10-24T11:07:40",
+      "file": "smart-fitness-budget-and-training-tracker-85b6389ab0299a47.xlsx",
+      "size": 21,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionales Excel-Tool zur Fitness- und Budgetverfolgung ohne falsche Behauptungen oder Zahlen. Alle angezeigten Werte basieren auf den eingegebenen Beispieldaten oder gültigen Excel-Formeln. Keine erfundenen Studien, Gesundheitsversprechen oder Markenverstöße vorhanden. Die Bei",
+      "pay_url": "https://buy.stripe.com/4gM8wQ6w979pdmKaMQ2kx1p",
+      "payment_link_id": "plink_1UU2s0J5iOXkWb9VYcIvcnxm",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600934484"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.0179448,
-      "why": "KI-Denken: Planificador Inteligente de Gastos y Progreso para Entrenadores Personales"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.0010932,
-      "why": "KI-Pruefung: Planificador Inteligente de Gastos y Progreso para Entrenadores Personales"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.0182436,
-      "why": "KI-Denken: Planificador de Entrenamiento y Nutrición para Atletas Masculinos"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.0013511999999999997,
-      "why": "KI-Pruefung: Planificador de Entrenamiento y Nutrición para Atletas Masculinos"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.0180108,
-      "why": "KI-Denken: Planificador Avanzado de Entrenamiento y Nutrición para Hombres"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.0013092,
-      "why": "KI-Pruefung: Planificador Avanzado de Entrenamiento y Nutrición para Hombres"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.0233964,
-      "why": "KI-Denken: Organización para Pequeños Propietarios: 7 Pasos para Gestionar 1-5 Viviendas sin Estrés"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.0042048,
-      "why": "KI-Pruefung: Organización para Pequeños Propietarios: 7 Pasos para Gestionar 1-5 Viviendas sin Estrés"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1370 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.024858,
-      "why": "KI-Denken: Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1-5 Viviendas con Éxito"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.004143599999999999,
-      "why": "KI-Pruefung: Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1-5 Viviendas con Éxito"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1-5 Viviendas con Éxito"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.017872799999999998,
-      "why": "KI-Denken: 智能考试预算与时间追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能考试预算与时间追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-22T18:59:04",
-      "eur": -0.0034295999999999997,
-      "why": "Audit: Planificador Avanzado de Entrenamiento y Nutrición para Hombres"
-    },
-    {
-      "t": "2026-10-22T18:59:04",
-      "eur": -0.0038627999999999996,
-      "why": "Audit: Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1"
-    },
-    {
-      "t": "2026-10-22T18:59:04",
-      "eur": -0.0021875999999999996,
-      "why": "Audit: 智能考试预算与时间追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.001374,
-      "why": "Blog-Artikel: Saechsische Schweiz (es)"
-    },
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": -0.0011423999999999998,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (fr)"
-    },
     {
       "t": "2026-10-22T18:49:57",
       "eur": 0,
@@ -9638,6 +9594,131 @@
       "t": "2026-10-24T04:41:26",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602085287"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.0189696,
+      "why": "KI-Denken: Planificador Profesional de Presupuesto para Bodas"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.0012527999999999999,
+      "why": "KI-Pruefung: Planificador Profesional de Presupuesto para Bodas"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.0255996,
+      "why": "KI-Denken: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.004404,
+      "why": "KI-Pruefung: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.018867599999999998,
+      "why": "KI-Denken: 智能健身会员管理系统与训练进度追踪器"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能健身会员管理系统与训练进度追踪器"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.019559999999999998,
+      "why": "KI-Denken: 智能私人健身预算与训练进度追踪器"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.0015167999999999998,
+      "why": "KI-Pruefung: 智能私人健身预算与训练进度追踪器"
+    },
+    {
+      "t": "2026-10-24T11:11:56",
+      "eur": -0.0025619999999999996,
+      "why": "Audit: Planificador Profesional de Presupuesto para Bodas"
+    },
+    {
+      "t": "2026-10-24T11:11:56",
+      "eur": -0.0040956,
+      "why": "Audit: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
+    },
+    {
+      "t": "2026-10-24T11:11:56",
+      "eur": -0.0029771999999999997,
+      "why": "Audit: 智能私人健身预算与训练进度追踪器"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.0010992,
+      "why": "Blog-Artikel: Bodensee (de)"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.00114,
+      "why": "Blog-Artikel: Mosel Cochem (en)"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.00035519999999999996,
+      "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Insolites"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602232122"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602207521"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
+    },
+    {
+      "t": "2026-10-24T11:07:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602207543"
     }
   ],
   "alive": true,
@@ -11435,6 +11516,22 @@
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-10-24T04:41:26",
       "img": true
+    },
+    {
+      "slug": "bodensee-urlaub-deutschland",
+      "title": "Bodensee: Entdecke das blaue Juwel Deutschlands",
+      "lang": "de",
+      "topic": "Bodensee",
+      "created": "2026-10-24T11:07:40",
+      "img": true
+    },
+    {
+      "slug": "exploring-mosel-cochem-fairytale-town-along-moselle-river",
+      "title": "Exploring Mosel Cochem: A Fairytale Town Along the Moselle River",
+      "lang": "en",
+      "topic": "Mosel Cochem",
+      "created": "2026-10-24T11:07:40",
+      "img": true
     }
   ],
   "videos": [
@@ -12346,6 +12443,16 @@
       "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #Allemagne #VoyageCulturel",
       "voice": "Le Zollverein, trésor du Ruhrgebiet! Cet ancien complexe minier classé à l'UNESCO combine histoire industrielle et créativité moderne. Explorez des bâtiments en briques rougeoyantes, des musées captivants et des parcs verdoyants. Une expérience unique où le passé rencontre l'art et la nature. Coup de cœur garanti!",
       "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "exploring-mosel-cochem-fairytale-town-along-moselle-river",
+      "title": "Exploring Mosel Cochem: A Fairytale Town Along the Moselle River",
+      "lang": "en",
+      "created": "2026-10-24T11:07:40",
+      "hashtags": "#TravelGermany #MoselleMagic #CochemCastle #WineLover #HiddenGems",
+      "voice": "Dreamy Cochem on the Moselle! This medieval marvel dazzles with half-timbered houses, hilltop castles, and golden vineyards. Glide past vineyards on a river cruise, explore Reichsburg Castle's towers, and toast with crisp local Riesling. Whether wandering cobbled lanes or savoring Moselle Valley views, Cochem steals your heart faster than you can say 'Prost!'",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
