@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 436.34,
-  "spent_eur": 68.3303,
+  "balance_eur": 435.9724,
+  "spent_eur": 68.6979,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -8712,69 +8712,81 @@
       "pay_url": "https://buy.stripe.com/4gM8wQ6w979pdmKaMQ2kx1p",
       "payment_link_id": "plink_1UU2s0J5iOXkWb9VYcIvcnxm",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能房东管理手册：轻松管理1-5套出租房的7个实用步骤",
+      "slug": "smart-landlord-guide-1-5-properties-zh",
+      "price_eur": 5,
+      "target": "中国、台湾、新加坡的小型房东（拥有1-5套出租房产）",
+      "reason": "针对华语市场小型房东的实用需求设计，提供可直接使用的模板和分步指导，填补了现有产品多为英文的空白，价格合理且内容实用。",
+      "language": "zh",
+      "pitch": "无需专业经验！7个简单步骤帮助您高效管理出租房产，减少压力，提升收入。包含实用模板和每月检查清单。",
+      "content_html": "<h2>内容目录</h2><ol><li>第一章：建立高效收租系统</li><li>第二章：租客筛选的黄金法则</li><li>第三章：维护请求的快捷处理流程</li><li>第四章：数字化文档管理技巧</li><li>第五章：高效沟通模板</li><li>第六章：年度成本预算规划</li><li>第七章：打造自动化管理流程</li></ol><p>试读内容：在第三章中，您将学习如何建立一个3步处理系统，将维护请求的处理时间缩短50%...</p>",
+      "pro": false,
+      "created": "2026-10-24T16:00:25",
+      "file": "smart-landlord-guide-1-5-properties-zh-ae29baa3c9a00543.pdf",
+      "size": 1973,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Zitate. Keine Regelverstöße festgestellt. Der Inhalt ist klar, nützlich und entspricht den Vorgaben.",
+      "pay_url": "https://buy.stripe.com/9B614ocUx51h1E24os2kx1q",
+      "payment_link_id": "plink_1UU7TCJ5iOXkWb9VUGxa3Gdz",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Révisions & Suivi des Examens pour Étudiants",
+      "slug": "planificateur-revisions-etudiants",
+      "price_eur": 9,
+      "target": "Étudiants préparant leurs examens universitaires",
+      "reason": "Ce planificateur permet aux étudiants de structurer leurs révisions, de suivre leur temps d'étude et de mesurer leurs progrès efficacement, ce qui est essentiel pour réussir leurs examens.",
+      "language": "fr",
+      "pitch": "Organisez efficacement vos sessions de révision et suivez vos progrès pour réussir vos examens.",
+      "content_html": "<h2>Contenu</h2><p>Cette feuille Excel vous permet de planifier vos révisions, de suivre votre temps d'étude par matière et d'évaluer votre progression grâce à des indicateurs clés.</p>",
+      "pro": true,
+      "created": "2026-10-24T16:00:25",
+      "file": "planificateur-revisions-etudiants-27ec2bc8a24967ad.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein simpler Excel-Planer für Lernende, der keine erfundenen Statistiken, Gesundheitsversprechen oder rechtlichen Probleme enthält. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen nur der Funktionsdemonstration. Die Sprache ist durchgängig Französisch und alle Angabe",
+      "pay_url": "https://buy.stripe.com/aFaaEYdYBbpF3MadZ22kx1r",
+      "payment_link_id": "plink_1UU7TCJ5iOXkWb9VF3Drp6rc",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Petit Guide du Succès pour les Petits Restaurants et Cafés",
+      "slug": "petit-guide-succes-restaurants-cafes",
+      "price_eur": 5,
+      "target": "Petits restaurateurs et propriétaires de cafés",
+      "reason": "Ce guide répond directement aux besoins des petits restaurants et cafés en offrant des conseils pratiques et faciles à mettre en œuvre. Il est conçu pour aider ces établissements à se démarquer dans un marché compétitif et à augmenter leurs revenus.",
+      "language": "fr",
+      "pitch": "Découvrez 7 stratégies simples pour attirer plus de clients et booster vos ventes. Idéal pour les petits établissements en quête de croissance.",
+      "content_html": "<h2>Contenu</h2><ul><li>Préface</li><li>Chapitre 1 : Créer une ambiance accueillante</li><li>Chapitre 2 : Optimiser son menu</li><li>Chapitre 3 : Utiliser les réseaux sociaux efficacement</li><li>Chapitre 4 : Offrir un service client exceptionnel</li><li>Chapitre 5 : Organiser des événements spéciaux</li><li>Chapitre 6 : Fidéliser sa clientèle</li><li>Conclusion</li></ul><h2>Extrait</h2><p>Découvrez des astuces pratiques pour transformer votre petit restaurant ou café en un lieu incontournable...</p>",
+      "pro": false,
+      "created": "2026-10-24T16:00:25",
+      "file": "petit-guide-succes-restaurants-cafes-56834ddfe7f7ef6c.pdf",
+      "size": 1618,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist ehrlich, legal und frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es gibt keine Rechts- oder Finanzberatung und keine Verwendung von Marken oder Personen Dritter. Die Sprache ist korrekt und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Kleine V",
+      "pay_url": "https://buy.stripe.com/8x2cN61bP1P5ciG1cg2kx1s",
+      "payment_link_id": "plink_1UU7TDJ5iOXkWb9Vp7rLpcV5",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-22T18:49:57",
-      "eur": 0,
-      "why": "Video-Fehler: HTTP Error 504: Gateway Timeout"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.022173599999999998,
-      "why": "KI-Denken: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0037943999999999994,
-      "why": "KI-Pruefung: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.018025199999999998,
-      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0010944,
-      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0179748,
-      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Ultime"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0010559999999999999,
-      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Ultime"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0179352,
-      "why": "KI-Denken: Planificateur de Voyage Familial et Liste de Bagages Professionnel"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Voyage Familial et Liste de Bagages Professionnel"
-    },
     {
       "t": "2026-10-22T21:39:47",
       "eur": 0,
@@ -9719,6 +9731,86 @@
       "t": "2026-10-24T11:07:40",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602207543"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": -0.024167999999999995,
+      "why": "KI-Denken: 智能房东管理手册：轻松管理1-5套出租房的7个实用步骤"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": -0.0041316,
+      "why": "KI-Pruefung: 智能房东管理手册：轻松管理1-5套出租房的7个实用步骤"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": -0.12,
+      "why": "KI-Bilder: 智能房东管理手册：轻松管理1-5套出租房的7个实用步骤"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": -0.018957599999999998,
+      "why": "KI-Denken: Planificateur de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": -0.025207200000000003,
+      "why": "KI-Denken: Le Petit Guide du Succès pour les Petits Restaurants et Cafés"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": -0.0040344,
+      "why": "KI-Pruefung: Le Petit Guide du Succès pour les Petits Restaurants et Cafés"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Petit Guide du Succès pour les Petits Restaurants et Cafés"
+    },
+    {
+      "t": "2026-10-24T16:06:41",
+      "eur": -0.0042168,
+      "why": "Audit: 智能房东管理手册：轻松管理1-5套出租房的7个实用步骤"
+    },
+    {
+      "t": "2026-10-24T16:06:41",
+      "eur": -0.0021647999999999997,
+      "why": "Audit: Planificateur de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-10-24T16:06:41",
+      "eur": -0.0037319999999999996,
+      "why": "Audit: Le Petit Guide du Succès pour les Petits Restaurants et Cafés"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": 0,
+      "why": "Blog-Fehler: 'choices'"
+    },
+    {
+      "t": "2026-10-24T16:00:25",
+      "eur": 0,
+      "why": "Video-Fehler: 'choices'"
     }
   ],
   "alive": true,
