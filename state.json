@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 435.9724,
-  "spent_eur": 68.6979,
+  "balance_eur": 435.6834,
+  "spent_eur": 68.9869,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -8784,144 +8784,81 @@
       "pay_url": "https://buy.stripe.com/8x2cN61bP1P5ciG1cg2kx1s",
       "payment_link_id": "plink_1UU7TDJ5iOXkWb9Vp7rLpcV5",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Vacation Budget Planner & Packing List Tracker for Families",
+      "slug": "ultimate-vacation-budget-planner-packing-list-tracker-families",
+      "price_eur": 9,
+      "target": "families planning vacations",
+      "reason": "This Excel template offers families a comprehensive and easy-to-use tool for planning their vacation budget and packing list, ensuring a stress-free preparation process.",
+      "language": "en",
+      "pitch": "Plan your family vacation with ease using this professional Excel template, combining budget tracking and a detailed packing list in one tool.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template includes a vacation budget planner, a detailed packing list, and a dashboard to track your expenses and preparation progress. Perfect for families who want to stay organized and enjoy their vacation stress-free.</p>",
+      "pro": true,
+      "created": "2026-10-24T18:49:21",
+      "file": "ultimate-vacation-budget-planner-packing-list-tracker-families-de813d471c1c45ae.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder falschen Angaben. Die Excel-Vorlage ist funktional und klar beschrieben. Die Beispielrechnungen sind plausibel und dienen der Illustration. Keine unrechtmäßigen Gesundheitsversprechen, Markenverletzungen oder Be",
+      "pay_url": "https://buy.stripe.com/aFa4gA07L0L1beC6wA2kx1t",
+      "payment_link_id": "plink_1UUA9tJ5iOXkWb9VwfndcmFv",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Ultimate Etsy Seller's Handbook: 7 Simple Steps to Boost Sales and Build Your Brand",
+      "slug": "ultimate-etsy-sellers-handbook",
+      "price_eur": 5,
+      "target": "Online sellers and Etsy merchants looking to grow their business",
+      "reason": "This ebook fills a gap in the market by providing practical, actionable advice specifically tailored for Etsy sellers. It focuses on key areas like listing optimization, photography, pricing, customer service, social media, and analytics—essential skills for boosting sales and building a successful online shop.",
+      "language": "en",
+      "pitch": "Discover proven strategies to increase your Etsy store traffic, optimize listings, and boost sales with this practical guide.",
+      "content_html": "<h2>Inhalt</h2>\n<p>Learn how to transform your Etsy shop into a thriving online business with easy-to-follow steps and actionable tips.</p>\n<h3>Introduction</h3>\n<p>Welcome to your journey toward Etsy success! This guide will walk you through the essential steps to take your shop to the next level.</p>\n<h3>Chapter 1: Crafting the Perfect Product Listing</h3>\n<p>Discover how to write compelling titles, descriptions, and use keywords that attract buyers and improve your search rankings.</p>\n<h3>Chapter 2: Stunning Photography Techniques</h3>\n<p>Learn simple photography tricks to make your products stand out and entice customers to click 'Add to Cart'.</p>\n<h3>Chapter 3: Pricing Strategies for Maximum Profit</h3>\n<p>Find out how to price your products competitively while ensuring a healthy profit margin.</p>\n<h3>Chapter 4: Mastering Customer Communication</h3>\n<p>Tips on how to communicate effectively with buyers, handle queries, and turn first-time customers into repeat buyers.</p>\n<h3>Chapter 5: Leveraging Social Media for Growth</h3>\n<p>Discover the best ways to use social media platforms to drive traffic to your Etsy store and build a loyal following.</p>\n<h3>Chapter 6: Analyzing and Improving Performance</h3>\n<p>Learn how to use Etsy's analytics tools to track your shop's performance and make data-driven decisions.</p>\n<h3>Conclusion</h3>\n<p>Wrap up your learning with a summary of key takeaways and a roadmap for continuous improvement.</p>",
+      "pro": false,
+      "created": "2026-10-24T18:49:21",
+      "file": "ultimate-etsy-sellers-handbook-c8e2366aeda5edba.pdf",
+      "size": 2869,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die Prozentzahlen '100%' und '20%' sind nicht belegt und sollten entfernt werden. Der Rest des Inhalts ist allgemein bekannt und bietet praktische Tipps ohne erfundene Studien oder Statistiken.",
+      "pay_url": "https://buy.stripe.com/7sYcN607L3XdgyW08c2kx1u",
+      "payment_link_id": "plink_1UUA9uJ5iOXkWb9VDnYcSbGp",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Mitgliederbeitrags-Tracker & Finanzplaner für Vereine",
+      "slug": "mitgliederbeitrags-tracker-fuer-vereine",
+      "price_eur": 9,
+      "target": "Vereinsvorstände und Schatzmeister von kleinen bis mittelgroßen Vereinen in Deutschland",
+      "reason": "Vereine benötigen eine einfache, aber professionelle Lösung zur Verwaltung ihrer Finanzen und Mitgliedsbeiträge. Diese Vorlage bietet alle notwendigen Funktionen, ohne komplexe Software zu benötigen.",
+      "language": "de",
+      "pitch": "Professionelle Excel-Lösung zur einfachen Verwaltung von Mitgliedsbeiträgen und Vereinsfinanzen. Spart Zeit und gibt volle Kontrolle über Einnahmen und Ausgaben.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Ihnen, alle Mitgliedsbeiträge und Vereinsfinanzen übersichtlich zu verwalten, Zahlungserinnerungen zu tracken und den Überblick über die finanzielle Situation Ihres Vereins zu behalten.</p>",
+      "pro": true,
+      "created": "2026-10-24T18:49:21",
+      "file": "mitgliederbeitrags-tracker-fuer-vereine-480e7879525d6325.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist sachlich korrekt und erfindet keine Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert und plausibel. Die Sprache ist konsistent deutsch und es gibt keine Platzhalter oder unfertigen Texte. Lediglich der Preis sollte nicht im Titel stehen, da",
+      "pay_url": "https://buy.stripe.com/3cI14og6JctJ1E2aMQ2kx1v",
+      "payment_link_id": "plink_1UUA9uJ5iOXkWb9VpvCs2K7L",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0178224,
-      "why": "KI-Denken: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Voyage & Liste de Bagages Professionnel - Modèle Excel 2026"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.017878799999999997,
-      "why": "KI-Denken: Planificateur de Voyage et Suivi de Dépenses - Modèle Professionnel"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0010512,
-      "why": "KI-Pruefung: Planificateur de Voyage et Suivi de Dépenses - Modèle Professionnel"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.02424,
-      "why": "KI-Denken: Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos Ventes en 2026"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0041676,
-      "why": "KI-Pruefung: Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos Ventes en 2026"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos Ventes en 2026"
-    },
-    {
-      "t": "2026-10-22T21:48:53",
-      "eur": -0.0040116,
-      "why": "Audit: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-10-22T21:48:53",
-      "eur": -0.0022919999999999998,
-      "why": "Audit: Planificateur de Voyage et Suivi de Dépenses - Modèle Professionnel"
-    },
-    {
-      "t": "2026-10-22T21:48:53",
-      "eur": -0.0038483999999999997,
-      "why": "Audit: Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos "
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0015743999999999999,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (de)"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.0012804,
-      "why": "Blog-Artikel: Frankfurt Skyline (en)"
-    },
-    {
-      "t": "2026-10-22T21:39:47",
-      "eur": -0.00035519999999999996,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.017712,
-      "why": "KI-Denken: Volunteer Event Budget Tracker & Donation Manager"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Volunteer Event Budget Tracker & Donation Manager"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.018163199999999997,
-      "why": "KI-Denken: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.0010211999999999999,
-      "why": "KI-Pruefung: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.023032799999999996,
-      "why": "KI-Denken: Stress-Free Dog Care: 7 Simple Steps for Busy Families"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.0036155999999999996,
-      "why": "KI-Pruefung: Stress-Free Dog Care: 7 Simple Steps for Busy Families"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.16,
-      "why": "KI-Bilder: Stress-Free Dog Care: 7 Simple Steps for Busy Families"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.018093599999999998,
-      "why": "KI-Denken: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
-    },
     {
       "t": "2026-10-23T00:43:27",
       "eur": -0.001044,
@@ -9811,6 +9748,116 @@
       "t": "2026-10-24T16:00:25",
       "eur": 0,
       "why": "Video-Fehler: 'choices'"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.019097999999999997,
+      "why": "KI-Denken: Ultimate Vacation Budget Planner & Packing List Tracker for Families"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Vacation Budget Planner & Packing List Tracker for Families"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.028611599999999994,
+      "why": "KI-Denken: The Ultimate Etsy Seller's Handbook: 7 Simple Steps to Boost Sales and Build Your Brand"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.0034056,
+      "why": "KI-Pruefung: The Ultimate Etsy Seller's Handbook: 7 Simple Steps to Boost Sales and Build Your Brand"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Ultimate Etsy Seller's Handbook: 7 Simple Steps to Boost Sales and Build Your Brand"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.019294799999999997,
+      "why": "KI-Denken: Vereinsbudget-Tracker & Spendenmanager"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Vereinsbudget-Tracker & Spendenmanager"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.019855199999999996,
+      "why": "KI-Denken: Mitgliederverwaltung & Spenden-Tracker für Vereine"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.0013272,
+      "why": "KI-Pruefung: Mitgliederverwaltung & Spenden-Tracker für Vereine"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.0200556,
+      "why": "KI-Denken: Mitgliederbeitrags-Tracker & Finanzplaner für Vereine"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.0015779999999999998,
+      "why": "KI-Pruefung: Mitgliederbeitrags-Tracker & Finanzplaner für Vereine"
+    },
+    {
+      "t": "2026-10-24T18:58:59",
+      "eur": -0.002106,
+      "why": "Audit: Ultimate Vacation Budget Planner & Packing List Tracker for Families"
+    },
+    {
+      "t": "2026-10-24T18:58:59",
+      "eur": -0.0031319999999999994,
+      "why": "Audit: The Ultimate Etsy Seller's Handbook: 7 Simple Steps to Boost Sales and Build You"
+    },
+    {
+      "t": "2026-10-24T18:58:59",
+      "eur": -0.005162399999999999,
+      "why": "Audit: Mitgliederbeitrags-Tracker & Finanzplaner für Vereine"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.0010884,
+      "why": "Blog-Artikel: Heidelberg Altstadt (zh)"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.0017687999999999998,
+      "why": "Blog-Artikel: Neuschwanstein (es)"
+    },
+    {
+      "t": "2026-10-24T18:49:21",
+      "eur": -0.0004032,
+      "why": "Video-Skript: Neuschwanstein"
     }
   ],
   "alive": true,
@@ -11624,6 +11671,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-10-24T11:07:40",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-reiseblog",
+      "title": "探索海德堡老城：德国浪漫之城的旅行指南",
+      "lang": "zh",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-24T18:49:21",
+      "img": true
+    },
+    {
+      "slug": "descubre-el-castillo-de-neuschwanstein-alemania",
+      "title": "Descubre el Castillo de Neuschwanstein: Un Cuento de Hadas en Alemania",
+      "lang": "es",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-24T18:49:21",
+      "img": true
     }
   ],
   "videos": [
@@ -12545,6 +12608,16 @@
       "hashtags": "#TravelGermany #MoselleMagic #CochemCastle #WineLover #HiddenGems",
       "voice": "Dreamy Cochem on the Moselle! This medieval marvel dazzles with half-timbered houses, hilltop castles, and golden vineyards. Glide past vineyards on a river cruise, explore Reichsburg Castle's towers, and toast with crisp local Riesling. Whether wandering cobbled lanes or savoring Moselle Valley views, Cochem steals your heart faster than you can say 'Prost!'",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-el-castillo-de-neuschwanstein-alemania",
+      "title": "Descubre el Castillo de Neuschwanstein: Un Cuento de Hadas en Alemania",
+      "lang": "es",
+      "created": "2026-10-24T18:49:21",
+      "hashtags": "#Neuschwanstein #CastillosDeAlemania #Baviera #ViajesDeEnsueño #TurismoEnAlemania",
+      "voice": "Sumérgete en la magia del Castillo de Neuschwanstein, un símbolo de ensueño en el corazón de Baviera. Este icónico castillo, inspirado en leyendas medievales, cautiva con su arquitectura espectacular y su entorno alpino impresionante. Camina por sus salones de ensueño, admira sus vistas panorámicas y déjate llevar por la fantasía. ¡Neuschwanstein te espera para vivir una experiencia inolvidable!",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
