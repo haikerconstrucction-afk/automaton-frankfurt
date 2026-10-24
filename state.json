@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 438.0252,
-  "spent_eur": 66.6451,
+  "balance_eur": 437.1736,
+  "spent_eur": 67.4967,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5237,7 +5237,10 @@
       "audit_note": "Das Produkt ist legal, ehrlich und enthält keine erfundenen Studien, Statistiken oder Zitate. Es bietet praktische Excel-Vorlagen für die Verwaltung von Budget und Gesundheit im Alter. Die Formeln sind korrekt und sinnvoll, und es gibt keine Gesundheitsversprechen oder Markenverletzungen. Kleinere s",
       "pay_url": "https://buy.stripe.com/00w14o3jXeBR6Ym08c2kw3d",
       "payment_link_id": "plink_1UPlKNJ5iOXkWb9VzAN7yIjT",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602110312"
+      }
     },
     {
       "type": "ebook",
@@ -5261,7 +5264,10 @@
       "audit_note": "Der Inhalt ist weitgehend korrekt und bietet praktische Tipps zur Finanzplanung für Freelancer. Es gibt keine erfundenen Zahlen oder Statistiken. Der Text ist klar strukturiert und vermeidet jegliche Form von Rechts-, Steuer- oder Finanzberatung. Es gibt keine Gesundheitsversprechen oder Marken-/Per",
       "pay_url": "https://buy.stripe.com/eVqcN68EhfFV6YmbQU2kw3e",
       "payment_link_id": "plink_1UPlKOJ5iOXkWb9ViTm3sOVV",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602085275"
+      }
     },
     {
       "type": "excel",
@@ -5285,7 +5291,10 @@
       "audit_note": "Das Produkt ist ein einfacher Excel-Planer für Reisen und Ausgaben in der Forêt-Noire ohne erfundene Zahlen oder Statistiken. Es enthält nur grundlegende Berechnungen und Beispiel-Daten. Keine Regelverstöße erkannt.",
       "pay_url": "https://buy.stripe.com/aFa6oI2fT9hx82qcUY2kw3f",
       "payment_link_id": "plink_1UPlKPJ5iOXkWb9ViD9UAeVa",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602085287"
+      }
     },
     {
       "type": "ebook",
@@ -8550,129 +8559,81 @@
       "pay_url": "https://buy.stripe.com/cNicN69IldxNbeC2gk2kx1j",
       "payment_link_id": "plink_1UTrhhJ5iOXkWb9Vy9FxSXQV",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps",
+      "slug": "entdecke-dresden-sachsen-reisefuehrer",
+      "price_eur": 5,
+      "target": "Selbstständige, Freiberufler und kleine Unternehmen, die Dresden und Sachsen bereisen möchten",
+      "reason": "Nach Analyse der Verkaufszahlen und Nischen zeigt sich, dass regionale Reiseführer für Berufsreisende ein unbesetztes Marktsegment darstellen. Der Fokus auf praktische Arbeitsplätze und Networking-Optionen spricht gezielt Selbstständige an, die geschäftlich unterwegs sind, aber auch die Region erkunden möchten. Der Preis von 5€ ist attraktiv für digitale Nomaden und wird als sinnvolle Investition wahrgenommen.",
+      "language": "de",
+      "pitch": "Erkunde Dresden und Sachsen wie ein Einheimischer! Dieser Guide verrät dir die besten Geheimtipps und versteckten Schätze abseits der Touristenpfade. Perfekt für Geschäftsreisende mit etwas Freizeit oder digitale Nomaden auf Entdeckungstour.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Die 7 versteckten Cafés mit Top-WLAN für Remote-Arbeit</li><li>Kostenlose Arbeitsplätze mit Aussicht in Dresden</li><li>5 inspirierende Orte für kreative Pausen</li><li>Ungewöhnliche Team-Events in Sachsen</li><li>Tagesausflüge mit perfekter Work-Life-Balance</li><li>Netzwerk-Events für Selbstständige vor Ort</li></ul>",
+      "pro": false,
+      "created": "2026-10-24T04:41:26",
+      "file": "entdecke-dresden-sachsen-reisefuehrer-9bf35df83ee58229.pdf",
+      "size": 1636,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt entspricht den vorgegebenen Regeln, enthält keine erfundenen Statistiken oder falschen Behauptungen. Der Reiseführer bietet praxisnahe Tipps und lokale Empfehlungen ohne unzulässige Versprechen oder Verstöße gegen die Regeln. Einige Formatierungs- und Wiederholungsaspekte könnten optimier",
+      "pay_url": "https://buy.stripe.com/bJe4gA9Il0L1aaycUY2kx1k",
+      "payment_link_id": "plink_1UTwvKJ5iOXkWb9V8wGWEQ4R",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Construction Site Offer & Cost Tracker for Craft Businesses",
+      "slug": "construction-site-offer-cost-tracker",
+      "price_eur": 9,
+      "target": "Small craft businesses and independent contractors in construction (carpenters, electricians, plumbers etc.) who need to track materials, labor costs and create professional offers",
+      "reason": "Craft businesses often struggle with tracking actual costs against offers. This template provides clear visibility into profitability and helps create accurate offers from the start.",
+      "language": "en",
+      "pitch": "Streamline your construction projects with this all-in-one tracker that calculates offer details, tracks actual costs, and shows profitability at a glance.",
+      "content_html": "<h2>Contents</h2><ul><li>Offer Calculator</li><li>Actual Costs Tracker</li><li>Profitability Dashboard</li><li>Step-by-step guide to creating accurate offers</li></ul>",
+      "pro": true,
+      "created": "2026-10-24T04:41:26",
+      "file": "construction-site-offer-cost-tracker-3a2a2e9b48fcde2a.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die genannte 20% Profit Margin ist eine angenommene Standardmarge ohne Beleg, sollte aber als interne Voreinstellung gekennzeichnet sein. Keine schwerwiegenden Regelverstöße gefunden.",
+      "pay_url": "https://buy.stripe.com/00w28s2fTbpF1E21cg2kx1l",
+      "payment_link_id": "plink_1UTwvLJ5iOXkWb9VEx5nGUj7",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)",
+      "slug": "sweet-dreams-adventures-bedtime-stories-children-3-8",
+      "price_eur": 5,
+      "target": "Parents (especially mothers) looking for gentle, imaginative stories to help their children relax and fall asleep",
+      "reason": "Addresses a universal parenting challenge (bedtime resistance) with scientifically-backed storytelling techniques. Original content fills a gap between generic fairy tales and clinical sleep guides. The price represents excellent value considering production costs and comparable children's book prices, while being accessible to most parents.",
+      "language": "en",
+      "pitch": "Give your child the gift of peaceful sleep with these original, calming tales. Each story is scientifically structured to reduce bedtime resistance and encourage sweet dreams through positive imagery.",
+      "content_html": "<h2>Content</h2><ul><li>The Moonlight Unicorn's Lullaby</li><li>Grandpa Cloud's Sleepy Rain</li><li>The Tiny Bear Who Counted Stars</li><li>Woolly the Sheep's Counting Game</li><li>The Sandman's Magical Dust</li><li>Sleepy Train to Dreamland</li><li>The Yawning Dragon's Secret</li></ul>",
+      "pro": false,
+      "created": "2026-10-24T04:41:26",
+      "file": "sweet-dreams-adventures-bedtime-stories-children-3-8-97ef57f95f8b876a.pdf",
+      "size": 1566,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt hält sich weitgehend an die Regeln. Die Geschichten sind originell und geeignet für die Zielgruppe. Einziger kleiner Kritikpunkt ist die Formulierung 'wissenschaftlich strukturiert' im Einleitungstext, die etwas optimistisch wirkt, aber nicht konkret genug ist, um als Regelverstoß zu gel",
+      "pay_url": "https://buy.stripe.com/4gM7sMdYBfFVeqO5sw2kx1m",
+      "payment_link_id": "plink_1UTwvLJ5iOXkWb9VzEHcgvBK",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.0011459999999999999,
-      "why": "KI-Pruefung: Ultimate Wedding Budget Planner & Vendor Tracker (2026 Edition)"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.018252,
-      "why": "KI-Denken: Wedding Vendor Comparison & Budget Tracker"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.0014952,
-      "why": "KI-Pruefung: Wedding Vendor Comparison & Budget Tracker"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.017723999999999997,
-      "why": "KI-Denken: Wedding Vendor Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.0010727999999999998,
-      "why": "KI-Pruefung: Wedding Vendor Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.0224016,
-      "why": "KI-Denken: Smart Savings Made Simple: Effortless Strategies for Household Budgeting"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.0033864,
-      "why": "KI-Pruefung: Smart Savings Made Simple: Effortless Strategies for Household Budgeting"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.16,
-      "why": "KI-Bilder: Smart Savings Made Simple: Effortless Strategies for Household Budgeting"
-    },
-    {
-      "t": "2026-10-22T12:13:31",
-      "eur": -0.0041735999999999995,
-      "why": "Audit: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine"
-    },
-    {
-      "t": "2026-10-22T12:13:31",
-      "eur": -0.004356,
-      "why": "Audit: Wedding Vendor Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-22T12:13:31",
-      "eur": -0.0032519999999999997,
-      "why": "Audit: Smart Savings Made Simple: Effortless Strategies for Household Budgeting"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.0011267999999999999,
-      "why": "Blog-Artikel: Heidelberg Altstadt (en)"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.0011844,
-      "why": "Blog-Artikel: Neuschwanstein (zh)"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.00035639999999999994,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Petit Guide du Succès pour les Petits Restaurants et Cafés : 6 stratégies simples pour attirer plus de clients"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600934454"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Family Vacation Budget & Packing List Tracker"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4600934470"
-    },
-    {
-      "t": "2026-10-22T12:02:01",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Etsy Seller's Blueprint: Proven Strategies to Boost Sales and Attract More Customers"
-    },
     {
       "t": "2026-10-22T12:02:01",
       "eur": 0,
@@ -9552,6 +9513,131 @@
       "t": "2026-10-23T23:11:41",
       "eur": -0.00038639999999999996,
       "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.025622399999999997,
+      "why": "KI-Denken: Dresden & Sachsen Entdecken: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.0043164,
+      "why": "KI-Pruefung: Dresden & Sachsen Entdecken: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1318 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.0253872,
+      "why": "KI-Denken: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.004157999999999999,
+      "why": "KI-Pruefung: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.019001999999999998,
+      "why": "KI-Denken: Construction Site Offer & Cost Tracker for Craft Businesses"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.001086,
+      "why": "KI-Pruefung: Construction Site Offer & Cost Tracker for Craft Businesses"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.024378,
+      "why": "KI-Denken: Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.0037127999999999996,
+      "why": "KI-Pruefung: Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.16,
+      "why": "KI-Bilder: Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
+    },
+    {
+      "t": "2026-10-24T04:50:59",
+      "eur": -0.0039384,
+      "why": "Audit: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen &"
+    },
+    {
+      "t": "2026-10-24T04:50:59",
+      "eur": -0.00327,
+      "why": "Audit: Construction Site Offer & Cost Tracker for Craft Businesses"
+    },
+    {
+      "t": "2026-10-24T04:50:59",
+      "eur": -0.0034644,
+      "why": "Audit: Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.0015071999999999998,
+      "why": "Blog-Artikel: Koeln Dom (es)"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.001254,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (fr)"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.00036839999999999996,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602110312"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602085275"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Voyage et Suivi de Dépenses pour le Forêt-Noire"
+    },
+    {
+      "t": "2026-10-24T04:41:26",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602085287"
     }
   ],
   "alive": true,
@@ -11333,6 +11419,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-10-23T23:11:41",
       "img": true
+    },
+    {
+      "slug": "descubre-catedral-colonia-alemania",
+      "title": "Descubre el impresionante Catedral de Colonia: Una joya arquitectónica en Alemania",
+      "lang": "es",
+      "topic": "Koeln Dom",
+      "created": "2026-10-24T04:41:26",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-ruhrgebiet-zollverein",
+      "title": "Découvrez le Ruhrgebiet et Zollverein : Une Destination Unique en Allemagne",
+      "lang": "fr",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-24T04:41:26",
+      "img": true
     }
   ],
   "videos": [
@@ -12234,6 +12336,16 @@
       "hashtags": "#德国旅游 #萨尔河弯 #自然奇观 #徒步旅行 #欧洲美景",
       "voice": "在德国西南部隐藏着一颗明珠——萨尔河弯！这里被誉为德国最壮观的河流奇观,蜿蜒的萨尔河被茂密的原始森林环抱。登上克鲁姆悬岩观景台,震撼人心的全景画面将让你永生难忘。无论春夏秋冬,这里都呈现不同的魅力。徒步爱好者可以探索长达100公里的森林小径,每一个转角都能遇见令人屏息的美景。带上你的相机,来感受大自然最纯粹的馈赠吧！",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-ruhrgebiet-zollverein",
+      "title": "Découvrez le Ruhrgebiet et Zollverein : Une Destination Unique en Allemagne",
+      "lang": "fr",
+      "created": "2026-10-24T04:41:26",
+      "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #Allemagne #VoyageCulturel",
+      "voice": "Le Zollverein, trésor du Ruhrgebiet! Cet ancien complexe minier classé à l'UNESCO combine histoire industrielle et créativité moderne. Explorez des bâtiments en briques rougeoyantes, des musées captivants et des parcs verdoyants. Une expérience unique où le passé rencontre l'art et la nature. Coup de cœur garanti!",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
