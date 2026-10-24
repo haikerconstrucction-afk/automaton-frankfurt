@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 435.6834,
-  "spent_eur": 68.9869,
+  "balance_eur": 435.2198,
+  "spent_eur": 69.4505,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -8856,124 +8856,81 @@
       "pay_url": "https://buy.stripe.com/3cI14og6JctJ1E2aMQ2kx1v",
       "payment_link_id": "plink_1UUA9uJ5iOXkWb9VpvCs2K7L",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Hundepflege leicht gemacht: 7 praktische Schritte für einen entspannten Alltag mit deinem Vierbeiner",
+      "slug": "hundepflege-leicht-gemacht",
+      "price_eur": 5,
+      "target": "Hundebesitzer, die im stressigen Alltag mehr Zeit und Gelassenheit für die Pflege ihres Hundes finden wollen",
+      "reason": "Hundebesitzer sind oft gestresst und suchen nach einfachen Lösungen, um die Pflege ihres Hundes effizienter und entspannter zu gestalten. Dieses E-Book bietet praktische Schritte und Tipps, die den Alltag erleichtern und die Beziehung zwischen Hund und Besitzer stärken. Es passt perfekt in die aktuelle Nische und bietet einen klaren Mehrwert für die Zielgruppe.",
+      "language": "de",
+      "pitch": "Entdecke einfache und effektive Wege, um die Pflege deines Hundes stressfrei zu gestalten und eine harmonische Beziehung zu deinem Vierbeiner aufzubauen.",
+      "content_html": "<h2>Inhalt</h2> <p>1. Einleitung: Warum einfache Pflege wichtig ist</p> <p>2. Schritt 1: Die richtige Routine für dich und deinen Hund</p> <p>3. Schritt 2: Effiziente Fellpflege – So geht’s schnell und gut</p> <p>4. Schritt 3: Ernährung leicht gemacht – Tipps für den stressfreien Futteralltag</p> <p>5. Schritt 4: Bewegung und Spiel – Wie du deinen Hund müde und glücklich machst</p> <p>6. Schritt 5: Gesundheit im Blick – Das musst du wissen</p> <p>7. Schritt 6: Stressfreies Training – So lernt dein Hund schnell</p> <p>8. Schritt 7: Entspannt unterwegs – Tipps für Spaziergänge und Reisen</p>",
+      "pro": false,
+      "created": "2026-10-24T22:50:07",
+      "file": "hundepflege-leicht-gemacht-7a3538f3e20605be.pdf",
+      "size": 1544,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die erwähnte 50% Angabe ist nicht belegt oder allgemein bekannt. Ansonsten enthält das E-Book hilfreiche, praktische Tipps zur Hundepflege ohne weitere Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/cNi28s9IlalBaay3ko2kx1w",
+      "payment_link_id": "plink_1UUDtgJ5iOXkWb9VPVitj8rv",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Moving & Renovation Budget Tracker for Women: Professional Expense Planner",
+      "slug": "ultimate-moving-renovation-budget-tracker-women",
+      "price_eur": 9,
+      "target": "Self-employed women and small business owners planning a move or renovation project in 2026",
+      "reason": "This fills a gap in your product line by offering a specialized tool for women professionals managing moving/renovation projects. The automatic calculations, visual dashboards, and detailed tracking make it worth the price by saving hours of manual work and preventing budget overruns.",
+      "language": "en",
+      "pitch": "Stay in control of every expense with this all-in-one tracker designed specifically for busy female professionals. From packing supplies to contractor payments - see exactly where your money goes.",
+      "content_html": "<h2>Content</h2><p>Detailed budget sheets for moving & renovation costs with automatic calculations and visual dashboards to track your project finances effortlessly.</p>",
+      "pro": true,
+      "created": "2026-10-24T22:50:07",
+      "file": "ultimate-moving-renovation-budget-tracker-women-a0a13294ac7f3ec3.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder falsche Behauptungen erkannt. Keine Rechts-, Steuer- oder Finanzberatung vorhanden. Die Formeln und Beispieldaten sind plausibel und klar als Beispiele gekennzeichnet. Titel, Sprache und Inhalt entsprechen den Anforderungen. Lediglich die Kennzahl 'Days Unti",
+      "pay_url": "https://buy.stripe.com/dRm28s2fT3Xd4Qe5sw2kx1x",
+      "payment_link_id": "plink_1UUDthJ5iOXkWb9VO7jxGetd",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient Garden",
+      "slug": "homesteaders-essential-guide",
+      "price_eur": 5,
+      "target": "Gardening enthusiasts and women interested in starting their self-sufficient journey",
+      "reason": "This fills a gap in our gardening product line by offering a practical, step-by-step guide specifically for beginners interested in self-sufficiency, with a focus on time-saving techniques that appeal to our predominantly female audience.",
+      "language": "en",
+      "pitch": "Discover how to grow your own food with minimal effort using these practical steps. Perfect for beginners who want to embrace a sustainable lifestyle with confidence.",
+      "content_html": "<h2>Contents</h2><ul><li>Step 1: Choosing the Right Location</li><li>Step 2: Preparing Your Soil Naturally</li><li>Step 3: Selecting Easy-to-Grow Crops</li><li>Step 4: Watering Techniques That Save Time</li><li>Step 5: Natural Pest Control Solutions</li><li>Step 6: Year-Round Growing Tips</li><li>Step 7: Harvesting and Storing Your Bounty</li></ul>",
+      "pro": false,
+      "created": "2026-10-24T22:50:07",
+      "file": "homesteaders-essential-guide-7fc1baf36928602f.pdf",
+      "size": 1734,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend fehlerfrei und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Text bietet praktische Tipps für den Aufbau eines Gartens ohne falsche Behauptungen oder Regelverstöße. Einige Stellen könnten etwas detaillierter sein (z. B. die Abb",
+      "pay_url": "https://buy.stripe.com/4gMaEY8EhctJbeC7AE2kx1y",
+      "payment_link_id": "plink_1UUDtiJ5iOXkWb9V3yP5cmRo",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.001044,
-      "why": "KI-Pruefung: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
-    },
-    {
-      "t": "2026-10-23T00:48:25",
-      "eur": -0.002274,
-      "why": "Audit: Volunteer Event Budget & Donation Tracker"
-    },
-    {
-      "t": "2026-10-23T00:48:25",
-      "eur": -0.00327,
-      "why": "Audit: Stress-Free Dog Care: 7 Simple Steps for Busy Families"
-    },
-    {
-      "t": "2026-10-23T00:48:25",
-      "eur": -0.0032147999999999994,
-      "why": "Audit: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.0010668,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (zh)"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.0011232,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (es)"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.00037919999999999995,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Vereins-Event Budget Tracker & Finanzplaner"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601365178"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Hundepflege leicht gemacht: Effektive Tipps für gestresste Hundebesitzer"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601339387"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Moving & Renovation Budget Tracker for Women"
-    },
-    {
-      "t": "2026-10-23T00:43:27",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601365224"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.024433199999999995,
-      "why": "KI-Denken: Der Selbstversorger-Start: 7 einfache Schritte zum eigenen Nutzgarten"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.004285199999999999,
-      "why": "KI-Pruefung: Der Selbstversorger-Start: 7 einfache Schritte zum eigenen Nutzgarten"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1460 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.0245004,
-      "why": "KI-Denken: 7 einfache Schritte zum erfolgreichen Kartoffelanbau im eigenen Garten"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.0042455999999999995,
-      "why": "KI-Pruefung: 7 einfache Schritte zum erfolgreichen Kartoffelanbau im eigenen Garten"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): E-Book zu kurz (1421 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.025315200000000003,
-      "why": "KI-Denken: 7 Schritte zum erfolgreichen Gemüsegarten für Selbstversorger: Einfache Anleitung für Anfänger"
-    },
     {
       "t": "2026-10-23T08:58:33",
       "eur": -0.004284,
@@ -9858,6 +9815,121 @@
       "t": "2026-10-24T18:49:21",
       "eur": -0.0004032,
       "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.02514,
+      "why": "KI-Denken: 7 einfache Schritte zur stressfreien Hundeerziehung für gestresste Besitzer"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.0041388,
+      "why": "KI-Pruefung: 7 einfache Schritte zur stressfreien Hundeerziehung für gestresste Besitzer"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1489 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.025887599999999993,
+      "why": "KI-Denken: Hundepflege leicht gemacht: 7 praktische Schritte für einen entspannten Alltag mit deinem Vierbeiner"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.0042492,
+      "why": "KI-Pruefung: Hundepflege leicht gemacht: 7 praktische Schritte für einen entspannten Alltag mit deinem Vierbeiner"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.16,
+      "why": "KI-Bilder: Hundepflege leicht gemacht: 7 praktische Schritte für einen entspannten Alltag mit deinem Vierbeiner"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.0194868,
+      "why": "KI-Denken: Ultimate Moving & Renovation Budget Planner for Families"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.0010367999999999998,
+      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Planner for Families"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.019899599999999996,
+      "why": "KI-Denken: Ultimate Moving & Renovation Budget Tracker for Women: Professional Expense Planner"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.0013067999999999999,
+      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Tracker for Women: Professional Expense Planner"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.024295199999999992,
+      "why": "KI-Denken: The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient Garden"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.0035195999999999995,
+      "why": "KI-Pruefung: The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient Garden"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient Garden"
+    },
+    {
+      "t": "2026-10-24T22:58:27",
+      "eur": -0.0038736,
+      "why": "Audit: Hundepflege leicht gemacht: 7 praktische Schritte für einen entspannten Alltag m"
+    },
+    {
+      "t": "2026-10-24T22:58:27",
+      "eur": -0.0043092,
+      "why": "Audit: Ultimate Moving & Renovation Budget Tracker for Women: Professional Expense Plan"
+    },
+    {
+      "t": "2026-10-24T22:58:27",
+      "eur": -0.0033587999999999995,
+      "why": "Audit: The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient "
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.0014087999999999998,
+      "why": "Blog-Artikel: Saechsische Schweiz (fr)"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.001398,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (de)"
+    },
+    {
+      "t": "2026-10-24T22:50:07",
+      "eur": -0.0004139999999999999,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
     }
   ],
   "alive": true,
@@ -11687,6 +11759,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-10-24T18:49:21",
       "img": true
+    },
+    {
+      "slug": "decouverte-de-la-suisse-saxonne-un-joyau-naturel-en-allemagn",
+      "title": "Découverte de la Suisse saxonne : Un joyau naturel en Allemagne",
+      "lang": "fr",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-24T22:50:07",
+      "img": true
+    },
+    {
+      "slug": "ruegen-kreidefelsen-entdecken",
+      "title": "Die magischen Kreidefelsen von Rügen entdecken",
+      "lang": "de",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-24T22:50:07",
+      "img": true
     }
   ],
   "videos": [
@@ -12618,6 +12706,16 @@
       "hashtags": "#Neuschwanstein #CastillosDeAlemania #Baviera #ViajesDeEnsueño #TurismoEnAlemania",
       "voice": "Sumérgete en la magia del Castillo de Neuschwanstein, un símbolo de ensueño en el corazón de Baviera. Este icónico castillo, inspirado en leyendas medievales, cautiva con su arquitectura espectacular y su entorno alpino impresionante. Camina por sus salones de ensueño, admira sus vistas panorámicas y déjate llevar por la fantasía. ¡Neuschwanstein te espera para vivir una experiencia inolvidable!",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "ruegen-kreidefelsen-entdecken",
+      "title": "Die magischen Kreidefelsen von Rügen entdecken",
+      "lang": "de",
+      "created": "2026-10-24T22:50:07",
+      "hashtags": "#Rügen #Kreidefelsen #Ostsee #Naturwunder #DeutschlandReisen",
+      "voice": "Willkommen an den Kreidefelsen von Rügen – einem einzigartigen Naturwunder! Diese majestätischen Felsen erheben sich stolz über der Ostsee und bieten atemberaubende Ausblicke. Erkunde die Wanderwege rund um den Nationalpark Jasmund und genieße die Schönheit unberührter Natur. Ein Besuch hier ist ein unvergessliches Erlebnis für Naturliebhaber und Entdecker. Lass dich von der Kraft dieser Landschaft inspirieren!",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
