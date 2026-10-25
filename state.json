@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 434.3863,
-  "spent_eur": 70.284,
+  "balance_eur": 433.4015,
+  "spent_eur": 71.2688,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5480,7 +5480,10 @@
       "audit_note": "Allgemein bekannte Fakten, keine erfundenen Studien oder Statistiken. Keine Rechts-, Finanz- oder Gesundheitsberatung. Keine Copyright-Verletzungen oder unfertigen Texte. Sprache korrekt.",
       "pay_url": "https://buy.stripe.com/8x27sM4o1fFV96u08c2kw3m",
       "payment_link_id": "plink_1UQ8M2J5iOXkWb9VEJBRmVoJ",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602805280"
+      }
     },
     {
       "type": "excel",
@@ -5504,7 +5507,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Studien, Statistiken oder Prozentzahlen, keine falsche oder gemischte Sprache, keine Platzhalter oder unfertigen Texte, keine Rechts-, Steuer-, Finanz- oder Medizinberatung, keine Gesundheitsversprechen oder fremden Marken. Die Formeln und Tabellen ",
       "pay_url": "https://buy.stripe.com/6oU6oI9Il1P5dmKbQU2kw3n",
       "payment_link_id": "plink_1UQ8M2J5iOXkWb9VqyXwd7QR",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602780281"
+      }
     },
     {
       "type": "ebook",
@@ -5528,7 +5534,10 @@
       "audit_note": "Der Inhalt des eBooks entspricht den vorgegebenen Regeln. Es gibt keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Die Sprache ist korrekt Spanisch, es gibt keine Platzhalter oder unfertigen Texte. Der Inhalt ist pädagogisch wertvoll und frei von Rechts-, Steuer-, Finanz- oder Medi",
       "pay_url": "https://buy.stripe.com/28E3cw5s52T92I6dZ22kw3o",
       "payment_link_id": "plink_1UQDEKJ5iOXkWb9VL9DXU25f",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602780295"
+      }
     },
     {
       "type": "excel",
@@ -9009,124 +9018,81 @@
       "pay_url": "https://buy.stripe.com/aFa00k7Ad2T9dmK4os2kx1B",
       "payment_link_id": "plink_1UUJPsJ5iOXkWb9VeM6BHnWI",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "自由职业者的高效工作指南：7步提升你的生产力与收入",
+      "slug": "zi-you-zhi-ye-zhe-de-gao-xiao-gong-zuo-zhi-nan",
+      "price_eur": 5,
+      "target": "Freelancer and self-employed individuals in Chinese-speaking regions",
+      "reason": "这本电子书为自由职业者提供了实用的步骤和策略，帮助他们提高工作效率和收入，适应中国、台湾和新加坡市场的需求。",
+      "language": "zh",
+      "pitch": "探索如何通过7个简单的步骤提高你的工作效率和收入，适用于所有自由职业者。",
+      "content_html": "<h2>Inhalt</h2> 本电子书将引导你通过7个实用的步骤，提升你的工作效率和收入水平。每个步骤都包含具体的行动指南和案例分析，帮助你快速实现目标。",
+      "pro": false,
+      "created": "2026-10-25T11:37:08",
+      "file": "zi-you-zhi-ye-zhe-de-gao-xiao-gong-zuo-zhi-nan-8290b07cf5a9b48d.pdf",
+      "size": 1832,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt entspricht den Regeln, keine erfunden Studien/Statistiken, keine Rechts- oder Gesundheitsberatung, klare praktische Tipps ohne Markenverstöße",
+      "pay_url": "https://buy.stripe.com/3cI4gAf2FctJbeCbQU2kx1C",
+      "payment_link_id": "plink_1UUPqMJ5iOXkWb9VPP6EZcyq",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Budget & Itinéraire pour le Voyage en Forêt-Noire",
+      "slug": "planificateur-voyage-foret-noire",
+      "price_eur": 9,
+      "target": "Touristes indépendants et guides voyageurs francophones visitant la Forêt-Noire en 2026",
+      "reason": "Ce planificateur comble un manque pour les visiteurs francophones de la Forêt-Noire qui souhaitent organiser leur voyage précisément, en combinant budgétisation et planification d'itinéraire dans un seul outil professionnel facile à utiliser.",
+      "language": "fr",
+      "pitch": "Organisez votre voyage en Forêt-Noire sans stress avec ce planificateur complet : budget, itinéraire et dépenses en un seul outil professionnel",
+      "content_html": "<h2>Contenu</h2><p>Un outil tout-en-un pour planifier chaque détail de votre voyage en Forêt-Noire, du budget aux activités quotidiennes.</p>",
+      "pro": true,
+      "created": "2026-10-25T11:37:08",
+      "file": "planificateur-voyage-foret-noire-2f0d9f59ae147dab.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die Prozentzahl '0.8' in den Formeln der Budget-Tabelle ist nicht begründet und wirkt erfunden. Sonst ist der Inhalt plausibel und regelkonform.",
+      "pay_url": "https://buy.stripe.com/7sY6oI4o151h1E2g7a2kx1D",
+      "payment_link_id": "plink_1UUPqNJ5iOXkWb9Vopdc5jUG",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs autonomes",
+      "slug": "decouvrez-le-saarland-et-la-moselle-en-7-etapes",
+      "price_eur": 5,
+      "target": "Voyageurs francophones indépendants souhaitant explorer le Saarland et la Moselle avec des conseils pratiques et des itinéraires personnalisables",
+      "reason": "Ce guide comble un manque pour les voyageurs francophones souhaitant découvrir cette région allemande peu connue. Il offre des conseils pratiques et des itinéraires flexibles adaptés à différents styles de voyage, ce qui en fait un achat utile pour planifier un séjour réussi.",
+      "language": "fr",
+      "pitch": "Un guide étape-par-étape pour découvrir les joyaux cachés et les itinéraires pittoresques du Saarland et de la Moselle. Planifiez votre voyage sans stress grâce à des conseils pratiques et des astuces locales.",
+      "content_html": "<h2>Contenu</h2><ul><li>Préparer son voyage</li><li>Les 7 étapes incontournables</li><li>Itinéraires selon vos centres d'intérêt</li><li>Astuces pour économiser</li><li>Bonnes adresses locales</li><li>Fiches pratiques à télécharger</li></ul>",
+      "pro": false,
+      "created": "2026-10-25T11:37:08",
+      "file": "decouvrez-le-saarland-et-la-moselle-en-7-etapes-9cb53ea3133e0986.pdf",
+      "size": 1660,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine klaren Regelverstöße, aber einige Preisspannen sind nicht eindeutig belegt. Der Inhalt ist ansonsten praktisch, ehrlich und frei von erfundenen Studien oder statistischen Behauptungen.",
+      "pay_url": "https://buy.stripe.com/dRm4gA5s5gJZ2I6g7a2kx1E",
+      "payment_link_id": "plink_1UUPqOJ5iOXkWb9VP1hbjp9G",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601526243"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guía Práctica para Profesores y Tutores: Estrategias Efectivas para Mejorar el Rendimiento de los Estudiantes"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601552752"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.018401999999999998,
-      "why": "KI-Denken: Planificador de Medicamentos y Seguimiento para Cuidadores"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.0010463999999999998,
-      "why": "KI-Pruefung: Planificador de Medicamentos y Seguimiento para Cuidadores"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.018163199999999997,
-      "why": "KI-Denken: Control de Gastos de Cuidados para Adultos Mayores"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Control de Gastos de Cuidados para Adultos Mayores"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.023800799999999993,
-      "why": "KI-Denken: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer en 2026"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.0039948,
-      "why": "KI-Pruefung: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer en 2026"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1380 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.0237648,
-      "why": "KI-Denken: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.0037955999999999992,
-      "why": "KI-Pruefung: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.0182436,
-      "why": "KI-Denken: 智能黑森林旅行预算追踪与行程规划器"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能黑森林旅行预算追踪与行程规划器"
-    },
-    {
-      "t": "2026-10-23T13:39:18",
-      "eur": -0.0032256,
-      "why": "Audit: Control de Gastos de Cuidados para Adultos Mayores"
-    },
-    {
-      "t": "2026-10-23T13:39:18",
-      "eur": -0.0036516,
-      "why": "Audit: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
-    },
-    {
-      "t": "2026-10-23T13:39:18",
-      "eur": -0.0039372,
-      "why": "Audit: 智能黑森林旅行预算追踪与行程规划器"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-23T13:29:47",
       "eur": -0.0009983999999999998,
@@ -10016,6 +9982,121 @@
       "t": "2026-10-25T04:46:43",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602699560"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.024399599999999997,
+      "why": "KI-Denken: 自由职业者的高效工作指南：7步提升你的生产力与收入"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.0038855999999999995,
+      "why": "KI-Pruefung: 自由职业者的高效工作指南：7步提升你的生产力与收入"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.16,
+      "why": "KI-Bilder: 自由职业者的高效工作指南：7步提升你的生产力与收入"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.0199536,
+      "why": "KI-Denken: Planificateur de Budget & Itinéraire pour le Voyage en Forêt-Noire"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.0011676,
+      "why": "KI-Pruefung: Planificateur de Budget & Itinéraire pour le Voyage en Forêt-Noire"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.026690400000000003,
+      "why": "KI-Denken: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.0043152,
+      "why": "KI-Pruefung: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.16,
+      "why": "KI-Bilder: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-10-25T11:43:47",
+      "eur": -0.0039515999999999996,
+      "why": "Audit: 自由职业者的高效工作指南：7步提升你的生产力与收入"
+    },
+    {
+      "t": "2026-10-25T11:43:47",
+      "eur": -0.0025907999999999994,
+      "why": "Audit: Planificateur de Budget & Itinéraire pour le Voyage en Forêt-Noire"
+    },
+    {
+      "t": "2026-10-25T11:43:47",
+      "eur": -0.0038891999999999998,
+      "why": "Audit: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs a"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.001872,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (es)"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.0014807999999999998,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (fr)"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.0003744,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602805280"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Control y Calculadora de Presupuestos para Talleres"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602780281"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
+    },
+    {
+      "t": "2026-10-25T11:37:08",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602780295"
     }
   ],
   "alive": true,
@@ -11877,6 +11958,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-10-25T04:46:43",
       "img": true
+    },
+    {
+      "slug": "descubre-la-magia-de-rothenburg-ob-der-tauber-la-joya-mediev",
+      "title": "Descubre la magia de Rothenburg ob der Tauber: la joya medieval de Alemania",
+      "lang": "es",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-25T11:37:08",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-la-porte-de-brandebourg-a-berlin-un-symbole-histor",
+      "title": "Découvrez la Porte de Brandebourg à Berlin : Un Symbole Historique",
+      "lang": "fr",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-25T11:37:08",
+      "img": true
     }
   ],
   "videos": [
@@ -12828,6 +12925,16 @@
       "hashtags": "#法兰克福 #德国 #天际线 #旅行 #欧洲",
       "voice": "欢迎来到法兰克福，这座位于美因河畔的国际大都市！这里是欧洲的金融中心，拥有令人印象深刻的天际线。历史与现代在这里完美融合，从古老的教堂到摩天大楼，每一处都散发着独特魅力。漫步在美因河边，感受这座城市的活力与优雅。法兰克福，不仅是商业的枢纽，更是文化与创新的交汇点。",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-la-porte-de-brandebourg-a-berlin-un-symbole-histor",
+      "title": "Découvrez la Porte de Brandebourg à Berlin : Un Symbole Historique",
+      "lang": "fr",
+      "created": "2026-10-25T11:37:08",
+      "hashtags": "#BrandenburgerTor #Berlin #MonumentIconique #VoyageEurope #PatrimoineHistorique",
+      "voice": "Découvrez le majestueux Brandenburger Tor, joyau de Berlin ! Cette porte historique, symbole de paix et d'unité, vous transporte à travers les siècles. Son architecture néoclassique et son quadrige légendaire en font un incontournable. Vibrant jour et nuit, c'est ici que bat le cœur de l'Allemagne. Une expérience magique à ne pas manquer !",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
