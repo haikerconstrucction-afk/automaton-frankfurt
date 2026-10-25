@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 433.1162,
-  "spent_eur": 71.5541,
+  "balance_eur": 432.8232,
+  "spent_eur": 71.8471,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -9162,94 +9162,81 @@
       "pay_url": "https://buy.stripe.com/8x29AUg6J8dtciG7AE2kx1H",
       "payment_link_id": "plink_1UUUMAJ5iOXkWb9VF7Qpy6Sx",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstständige und Freiberufler",
+      "slug": "rhein-frankfurt-heidelberg-reisefuehrer-selbststaendige",
+      "price_eur": 7.99,
+      "target": "Selbstständige, Freiberufler und Kleinunternehmer, die effiziente Reiseplanung mit Kulturgenuss verbinden möchten",
+      "reason": "Dieser Reiseführer füllt eine Marktlücke, indem er Geschäftsreisenden unter den Selbstständigen praktische Tipps bietet, die genau auf ihre Bedürfnisse zugeschnitten sind. Der Fokus auf Effizienz und Produktivität während der Reise sowie das Inkludieren von lokalen Geheimtipps machen das Buch zu einem wertvollen Begleiter, der den Kaufpreis mehr als rechtfertigt.",
+      "language": "de",
+      "pitch": "Praktische Tipps für Geschäftsreisen mit Kulturgenuss - entdecken Sie die Perlen am Rhein mit cleveren Planungstools und lokalen Geheimtipps speziell für Selbstständige.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Effiziente Reiseplanung für Selbstständige</li><li>Kapitel 2: 7 versteckte Arbeits-Oasen in Frankfurt</li><li>Kapitel 3: Produktive Besprechungsorte am Rhein</li><li>Kapitel 4: Kulturpausen für Selbstständige in Heidelberg</li><li>Kapitel 5: Kostenoptimierung auf Geschäftsreisen</li><li>Kapitel 6: Networking-Events für Freiberufler</li><li>BONUS: Kostenlose Excel-Vorlage für Reisekostenoptimierung</li></ul>",
+      "pro": false,
+      "created": "2026-10-25T20:55:11",
+      "file": "rhein-frankfurt-heidelberg-reisefuehrer-selbststaendige-5922451af9aa1065.pdf",
+      "size": 1533,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt enthält keine erfundenen Zahlen, Statistiken oder falsche Quellen. Es wird keine spezifische Rechts-, Steuer-, Finanz- oder Gesundheitsberatung angeboten. Der Text ist sachlich korrekt und vermeidet unerlaubte Inhalte wie Marken oder Gesundheitsversprechen. Kleinere Verbesserungen könnten",
+      "pay_url": "https://buy.stripe.com/14A5kEf2F65lgyWcUY2kx1I",
+      "payment_link_id": "plink_1UUYeqJ5iOXkWb9VWaORbUPR",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women",
+      "slug": "ultimate-berlin-potsdam-travel-budget-planner-itinerary-tracker-women",
+      "price_eur": 9,
+      "target": "Women planning a trip to Berlin & Potsdam, looking for a professional tool to manage their budget and itinerary.",
+      "reason": "This template provides a comprehensive solution for women travelers to Berlin & Potsdam, offering budget tracking, itinerary planning, and expense management in one professional Excel tool.",
+      "language": "en",
+      "pitch": "Organize your Berlin & Potsdam adventure with ease. Track expenses, plan your itinerary, and stay within budget using this professional Excel tool.",
+      "content_html": "<h2>In diesem Produkt</h2> <p>Plan your trip efficiently with a comprehensive Excel template designed for women travelers. Includes budget tracking, itinerary planning, and expense management.</p>",
+      "pro": true,
+      "created": "2026-10-25T20:55:11",
+      "file": "ultimate-berlin-potsdam-travel-budget-planner-itinerary-tracker-women-badd782f59520e80.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Statistiken oder Zahlen, keine Regelverstöße erkennbar. Inhalte sind klar als Beispiele gekennzeichnet, Formeln sind plausibel. Sprachlich korrekt und einheitlich Englisch.",
+      "pay_url": "https://buy.stripe.com/dRm00k2fT3Xd1E23ko2kx1J",
+      "payment_link_id": "plink_1UUYerJ5iOXkWb9VNdddTGxP",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers",
+      "slug": "ultimate-dresden-travel-guide-hidden-gems-local-secrets-female-explorers",
+      "price_eur": 7.99,
+      "target": "Independent women travelers aged 25-45 planning a trip to Dresden and Saxony",
+      "reason": "Existing Dresden guides neglect practical safety aspects and authentic local experiences female travelers seek. This fills that gap with vetted, women-specific recommendations while showcasing Dresden's hidden cultural gems.",
+      "language": "en",
+      "pitch": "Discover the authentic side of Dresden with this carefully curated guide to hidden cafes, safe neighborhoods, and unique cultural experiences tailored for female travelers. Get 7 days of perfectly planned itineraries with local insights you won't find in mainstream guidebooks.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: Safe Travel Essentials</li><li>Chapter 2: Best Neighborhoods to Stay</li><li>Chapter 3: Hidden Cafés & Tea Houses</li><li>Chapter 4: Art & Culture Beyond the Tour Groups</li><li>Chapter 5: Nature Escapes & Scenic Walks</li><li>Chapter 6: Local Shopping & Souvenir Tips</li><li>Sample 7-Day Itinerary</li></ul><h3>Preview</h3><p>Most visitors never find Café Neo, a 1920s-style literary café tucked behind the Frauenkirche where local artists gather. We'll show you how to enjoy these authentic spots while staying safe as a solo traveler...</p>",
+      "pro": false,
+      "created": "2026-10-25T20:55:11",
+      "file": "ultimate-dresden-travel-guide-hidden-gems-local-secrets-female-explorers-d6440d916c71a821.pdf",
+      "size": 1737,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt und entspricht den Regeln. Es werden keine erfundenen Studien, Statistiken oder gesundheitsbezogenen Versprechen gemacht. Der Guide bietet praktische Tipps und lokale Einblicke, die für weibliche Reisende nützlich sind.",
+      "pay_url": "https://buy.stripe.com/9B68wQ2fTfFV6Ymg7a2kx1K",
+      "payment_link_id": "plink_1UUYerJ5iOXkWb9VoldjoEG1",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.0186156,
-      "why": "KI-Denken: Ultimate North & Baltic Sea Family Travel Budget Planner"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.0010512,
-      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Travel Budget Planner"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.023998799999999997,
-      "why": "KI-Denken: Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt, Heidelberg & Beyond"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.00357,
-      "why": "KI-Pruefung: Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt, Heidelberg & Beyond"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.16,
-      "why": "KI-Bilder: Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt, Heidelberg & Beyond"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.0185076,
-      "why": "KI-Denken: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.018868799999999998,
-      "why": "KI-Denken: Ultimativer Berlin & Potsdam Reisekosten-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.0010451999999999998,
-      "why": "KI-Pruefung: Ultimativer Berlin & Potsdam Reisekosten-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-10-23T23:16:38",
-      "eur": -0.0023339999999999997,
-      "why": "Audit: Ultimate North & Baltic Sea Family Travel Budget Planner"
-    },
-    {
-      "t": "2026-10-23T23:16:38",
-      "eur": -0.003204,
-      "why": "Audit: Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt"
-    },
-    {
-      "t": "2026-10-23T23:16:38",
-      "eur": -0.0030311999999999995,
-      "why": "Audit: Ultimativer Berlin & Potsdam Reisekosten-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.0014039999999999999,
-      "why": "Blog-Artikel: Schwarzwald (en)"
-    },
     {
       "t": "2026-10-23T23:11:41",
       "eur": -0.0012024,
@@ -10164,6 +10151,91 @@
       "t": "2026-10-25T16:27:12",
       "eur": -0.000336,
       "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.026117999999999995,
+      "why": "KI-Denken: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.0040584,
+      "why": "KI-Pruefung: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.04,
+      "why": "KI-Bilder: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.020304,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.0012984,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.025155599999999997,
+      "why": "KI-Denken: Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.0035267999999999996,
+      "why": "KI-Pruefung: Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.16,
+      "why": "KI-Bilder: Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers"
+    },
+    {
+      "t": "2026-10-25T21:07:54",
+      "eur": -0.0037955999999999992,
+      "why": "Audit: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstst"
+    },
+    {
+      "t": "2026-10-25T21:07:54",
+      "eur": -0.0024564,
+      "why": "Audit: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-10-25T21:07:54",
+      "eur": -0.0032652,
+      "why": "Audit: Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.0009588,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (zh)"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.0014711999999999998,
+      "why": "Blog-Artikel: Muenchen Marienplatz (es)"
+    },
+    {
+      "t": "2026-10-25T20:55:11",
+      "eur": -0.00039359999999999997,
+      "why": "Video-Skript: Muenchen Marienplatz"
     }
   ],
   "alive": true,
@@ -12057,6 +12129,22 @@
       "topic": "Harz Brocken",
       "created": "2026-10-25T16:27:12",
       "img": true
+    },
+    {
+      "slug": "nordsee-wattenmeer-deutschland-reisetipps",
+      "title": "德国北海浅滩：自然奇观与度假天堂",
+      "lang": "zh",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-25T20:55:11",
+      "img": true
+    },
+    {
+      "slug": "marienplatz-en-munich-el-corazon-historico-de-la-capital-bav",
+      "title": "Marienplatz en Múnich: El corazón histórico de la capital bávara",
+      "lang": "es",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-25T20:55:11",
+      "img": true
     }
   ],
   "videos": [
@@ -13028,6 +13116,16 @@
       "hashtags": "#HarzBrocken #GermanyTravel #NatureWonders #MountainMagic #HikingParadise",
       "voice": "Rising dramatically from the mist, the legendary Brocken peak awaits! This magical mountain in Germany's Harz region offers enchanted forests, unique rock formations, and unbeatable panoramic views. Reach the summit via scenic hiking trails or ride the nostalgic steam train. A true natural wonder that inspired Goethe's fairytales!",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "marienplatz-en-munich-el-corazon-historico-de-la-capital-bav",
+      "title": "Marienplatz en Múnich: El corazón histórico de la capital bávara",
+      "lang": "es",
+      "created": "2026-10-25T20:55:11",
+      "hashtags": "#Múnich #Marienplatz #Baviera #Alemania #ViajesEuropa",
+      "voice": "¡El Marienplatz es el alma vibrante de Múnich! Maravíllate con el famoso Glockenspiel, un reloj de cuento que cobra vida con figuras danzantes. Rodea de arquitectura centenaria, disfruta una auténtica pretzel y deja que el ambiente bávaro te envuelva.  Cada rincón aquí es una postal llena de encanto europeo. ✨ #DescubrEuropa",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
