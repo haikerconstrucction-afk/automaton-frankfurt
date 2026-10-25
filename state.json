@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 433.4015,
-  "spent_eur": 71.2688,
+  "balance_eur": 433.1162,
+  "spent_eur": 71.5541,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -9090,124 +9090,81 @@
       "pay_url": "https://buy.stripe.com/dRm4gA5s5gJZ2I6g7a2kx1E",
       "payment_link_id": "plink_1UUPqOJ5iOXkWb9VP1hbjp9G",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "NRW Family City Trip Budget Planner & Itinerary Tracker",
+      "slug": "nrw-family-city-trip-budget-planner-itinerary-tracker",
+      "price_eur": 9,
+      "target": "Families planning city trips in North Rhine-Westphalia (Cologne, Düsseldorf, Ruhr area)",
+      "reason": "There are no current products specifically for family city trips in NRW with integrated budget and itinerary planning. This comprehensive template helps families optimize their travel budget while ensuring a well-planned, stress-free experience in Cologne, Düsseldorf and other NRW cities.",
+      "language": "en",
+      "pitch": "Plan your perfect family city break in NRW with this all-in-one budget and itinerary tracker - save money while creating unforgettable memories.",
+      "content_html": "<h2>Content</h2><p>Complete NRW trip planner with budget tracking, daily itinerary, attraction planner and expense log - specially designed for families with children.</p>",
+      "pro": true,
+      "created": "2026-10-25T16:27:12",
+      "file": "nrw-family-city-trip-budget-planner-itinerary-tracker-202872c48cb97bed.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist legal, ehrlich und frei von Spam. Es gibt keine erfundenen Studien, Statistiken oder Zahlen. Die Formeln und Tabellen sind sinnvoll und korrekt. Der Produkttyp und die Sprache entsprechen den Vorgaben. Es werden keine Gesundheitsversprechen, Rechtsberatungen oder fremden Marken verwen",
+      "pay_url": "https://buy.stripe.com/3cIfZi5s51P5gyWbQU2kx1F",
+      "payment_link_id": "plink_1UUUM8J5iOXkWb9VyKnjI2ao",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips",
+      "slug": "bavarian-alps-family-adventures-guide",
+      "price_eur": 7.99,
+      "target": "Families planning memorable trips to Bavaria, seeking authentic experiences beyond crowded tourist spots",
+      "reason": "Existing travel guides focus either on general information or extreme sports. This fills the gap for families wanting authentic Bavarian experiences with practical logistics. The detailed, tested advice justifies the premium price by saving readers hours of research and potential vacation frustration.",
+      "language": "en",
+      "pitch": "Discover secret trails, charming villages and stress-free logistics for your Bavarian getaway. Get insider tips from a local parent who's explored every corner with kids!",
+      "content_html": "<h2>Content</h2><ul><li>7 carefully curated day trips with difficulty ratings</li><li>Packing checklists for different seasons</li><li>Kid-friendly restaurants with playgrounds</li><li>Public transport hacks</li><li>Interactive maps</li><li>Sample itineraries</li></ul>",
+      "pro": false,
+      "created": "2026-10-25T16:27:12",
+      "file": "bavarian-alps-family-adventures-guide-1651f3f2c6549de2.pdf",
+      "size": 1852,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist familienfreundlich, praktisch und frei von erfundenen Studien oder falschen Behauptungen. Es werden keine Marken Dritter verwendet und keine gesundheitlichen Versprechen gemacht. Der Text ist durchgängig in Englisch verfasst und bietet nützliche Tipps für Familienausflüge in den bayer",
+      "pay_url": "https://buy.stripe.com/8x23cw07L0L14QecUY2kx1G",
+      "payment_link_id": "plink_1UUUM9J5iOXkWb9VA01Mifbb",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ostsee & Nordsee Reisekosten-Tracker & Budgetplaner",
+      "slug": "ostsee-nordsee-reisekosten-tracker",
+      "price_eur": 12,
+      "target": "Selbstständige und kleine Unternehmen, die Geschäftsreisen oder private Ausflüge an die deutschen Küsten planen",
+      "reason": "Diese Vorlage bietet Reisenden an die Ost- und Nordsee eine professionelle Lösung zur Budgetplanung und -kontrolle. Mit automatischen Berechnungen, nützlichen KPIs und anschaulichen Grafiken ist sie ihren Preis wert und spart Zeit bei der Reisevorbereitung.",
+      "language": "de",
+      "pitch": "Professionelle Budgetplanung für Ihre Küstenreisen - behalten Sie alle Ausgaben im Blick und optimieren Sie Ihre Reisekosten.",
+      "content_html": "<h2>Inhalt</h2><p>Planen Sie Ihre Reise an die Ost- oder Nordsee mit dieser umfassenden Excel-Vorlage. Behalten Sie Übernachtungskosten, Verpflegung, Aktivitäten und Transport im Griff.</p>",
+      "pro": true,
+      "created": "2026-10-25T16:27:12",
+      "file": "ostsee-nordsee-reisekosten-tracker-b384fb15d31f23c1.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Studien, Statistiken oder Prozentzahlen. Klare, funktionale Excel-Tabelle ohne Rechts-/Finanzberatung. Beispieldaten sind plausibel und als solche erkennbar. Keine Marken Dritter oder Gesundheitsversprechen. Lediglich kleiner Abzug für 'Tage bis Re",
+      "pay_url": "https://buy.stripe.com/8x29AUg6J8dtciG7AE2kx1H",
+      "payment_link_id": "plink_1UUUMAJ5iOXkWb9VF7Qpy6Sx",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.0009983999999999998,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (en)"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.0012923999999999998,
-      "why": "Blog-Artikel: Muenchen Marienplatz (zh)"
-    },
-    {
-      "t": "2026-10-23T13:29:47",
-      "eur": -0.00035039999999999995,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.0226584,
-      "why": "KI-Denken: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.0037692,
-      "why": "KI-Pruefung: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.018646799999999998,
-      "why": "KI-Denken: Planificateur de Voyage NRW : Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.0010463999999999998,
-      "why": "KI-Pruefung: Planificateur de Voyage NRW : Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.0265164,
-      "why": "KI-Denken: Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.0041844,
-      "why": "KI-Pruefung: Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
-    },
-    {
-      "t": "2026-10-23T19:36:54",
-      "eur": -0.0039228,
-      "why": "Audit: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-10-23T19:36:54",
-      "eur": -0.0024407999999999995,
-      "why": "Audit: Planificateur de Voyage NRW : Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-10-23T19:36:54",
-      "eur": -0.0039612,
-      "why": "Audit: Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incont"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.0012395999999999998,
-      "why": "Blog-Artikel: Eifel Maare (es)"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.0014279999999999998,
-      "why": "Blog-Artikel: Rheingau Weinberge (fr)"
-    },
-    {
-      "t": "2026-10-23T19:27:46",
-      "eur": -0.0004476,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.0187116,
-      "why": "KI-Denken: Ultimate North & Baltic Sea Family Travel Budget Planner"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.0010404,
-      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Travel Budget Planner"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-10-23T23:11:41",
       "eur": -0.0186156,
@@ -10097,6 +10054,116 @@
       "t": "2026-10-25T11:37:08",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602780295"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.019893599999999997,
+      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.001014,
+      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.019959599999999997,
+      "why": "KI-Denken: NRW Family City Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.0011388,
+      "why": "KI-Pruefung: NRW Family City Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.025542,
+      "why": "KI-Denken: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.0036287999999999997,
+      "why": "KI-Pruefung: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.16,
+      "why": "KI-Bilder: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.020016,
+      "why": "KI-Denken: Ostsee & Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.0010872,
+      "why": "KI-Pruefung: Ostsee & Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.020385599999999997,
+      "why": "KI-Denken: Ostsee & Nordsee Reisekosten-Tracker & Budgetplaner"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.0012768,
+      "why": "KI-Pruefung: Ostsee & Nordsee Reisekosten-Tracker & Budgetplaner"
+    },
+    {
+      "t": "2026-10-25T16:32:56",
+      "eur": -0.0032448,
+      "why": "Audit: NRW Family City Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-10-25T16:32:56",
+      "eur": -0.0033443999999999995,
+      "why": "Audit: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
+    },
+    {
+      "t": "2026-10-25T16:32:56",
+      "eur": -0.0018816,
+      "why": "Audit: Ostsee & Nordsee Reisekosten-Tracker & Budgetplaner"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.0014796,
+      "why": "Blog-Artikel: Dresden Frauenkirche (de)"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.0012371999999999997,
+      "why": "Blog-Artikel: Harz Brocken (en)"
+    },
+    {
+      "t": "2026-10-25T16:27:12",
+      "eur": -0.000336,
+      "why": "Video-Skript: Harz Brocken"
     }
   ],
   "alive": true,
@@ -11974,6 +12041,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-10-25T11:37:08",
       "img": true
+    },
+    {
+      "slug": "dresden-frauenkirche-reise-blogartikel",
+      "title": "Die Dresdner Frauenkirche: Ein Symbol der Hoffnung und Wiedergeburt",
+      "lang": "de",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-25T16:27:12",
+      "img": true
+    },
+    {
+      "slug": "discover-the-magic-of-harz-brocken-a-must-visit-destination-",
+      "title": "Discover the Magic of Harz Brocken: A Must-Visit Destination in Germany",
+      "lang": "en",
+      "topic": "Harz Brocken",
+      "created": "2026-10-25T16:27:12",
+      "img": true
     }
   ],
   "videos": [
@@ -12935,6 +13018,16 @@
       "hashtags": "#BrandenburgerTor #Berlin #MonumentIconique #VoyageEurope #PatrimoineHistorique",
       "voice": "Découvrez le majestueux Brandenburger Tor, joyau de Berlin ! Cette porte historique, symbole de paix et d'unité, vous transporte à travers les siècles. Son architecture néoclassique et son quadrige légendaire en font un incontournable. Vibrant jour et nuit, c'est ici que bat le cœur de l'Allemagne. Une expérience magique à ne pas manquer !",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-the-magic-of-harz-brocken-a-must-visit-destination-",
+      "title": "Discover the Magic of Harz Brocken: A Must-Visit Destination in Germany",
+      "lang": "en",
+      "created": "2026-10-25T16:27:12",
+      "hashtags": "#HarzBrocken #GermanyTravel #NatureWonders #MountainMagic #HikingParadise",
+      "voice": "Rising dramatically from the mist, the legendary Brocken peak awaits! This magical mountain in Germany's Harz region offers enchanted forests, unique rock formations, and unbeatable panoramic views. Reach the summit via scenic hiking trails or ride the nostalgic steam train. A true natural wonder that inspired Goethe's fairytales!",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
