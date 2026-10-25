@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 435.2198,
-  "spent_eur": 69.4505,
+  "balance_eur": 434.3863,
+  "spent_eur": 70.284,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5399,7 +5399,10 @@
       "audit_note": "Das Produkt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen, keine Rechts- oder Steuerberatung, keine Gesundheitsversprechen oder fremde Marken. Die enthaltenen Zahlen sind klar als Beispielwerte erkennbar und nicht als allgemeingültige Aussagen dargestellt. Die Funktionali",
       "pay_url": "https://buy.stripe.com/7sY00k4o10L10zY2gk2kw3j",
       "payment_link_id": "plink_1UPzk6J5iOXkWb9VBejPHAFC",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602673801"
+      }
     },
     {
       "type": "ebook",
@@ -5423,7 +5426,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Keine Regelverstöße, gut strukturiert und sachlich korrekt.",
       "pay_url": "https://buy.stripe.com/cNi14o1bP79peqOg7a2kw3k",
       "payment_link_id": "plink_1UPzk7J5iOXkWb9VuTtRLngC",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602699538"
+      }
     },
     {
       "type": "excel",
@@ -5447,7 +5453,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder falschen Behauptungen. Produkt erfüllt alle Regeln und ist klar als Reisekosten- und Reiseplaner gekennzeichnet.",
       "pay_url": "https://buy.stripe.com/5kQcN63jX79p0zYbQU2kw3l",
       "payment_link_id": "plink_1UQ8M1J5iOXkWb9VYRSw0P7k",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4602699560"
+      }
     },
     {
       "type": "ebook",
@@ -8928,129 +8937,81 @@
       "pay_url": "https://buy.stripe.com/4gMaEY8EhctJbeC7AE2kx1y",
       "payment_link_id": "plink_1UUDtiJ5iOXkWb9V3yP5cmRo",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Ingresos y Gastos para Creadores de Contenido",
+      "slug": "planificador-ingresos-gastos-content-creator",
+      "price_eur": 9,
+      "target": "Content Creators y YouTubers",
+      "reason": "Los creadores de contenido necesitan herramientas específicas para gestionar sus finanzas de manera profesional, esta plantilla cubre todas sus necesidades",
+      "language": "es",
+      "pitch": "Controla tus finanzas como creador de contenido con esta completa plantilla Excel para gestionar ingresos, gastos y métricas clave.",
+      "content_html": "<h2>Incluye:</h2><ul><li>Planificación mensual de ingresos y gastos</li><li>Seguimiento de métricas clave</li><li>Visualización gráfica del rendimiento financiero</li></ul>",
+      "pro": true,
+      "created": "2026-10-25T04:46:43",
+      "file": "planificador-ingresos-gastos-content-creator-83d2d0d1ca5bb587.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es bietet eine klare Struktur für die Verwaltung von Einnahmen und Ausgaben, ohne falsche oder gemischte Sprache zu verwenden. Die Formeln und Tabellen sind sinnvoll und korrekt berechnet. Es gibt keine Rechts-, Steuer-, F",
+      "pay_url": "https://buy.stripe.com/14A3cwdYB9hx4QecUY2kx1z",
+      "payment_link_id": "plink_1UUJPrJ5iOXkWb9V2MBYEdUe",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar tus clases",
+      "slug": "el-maestro-eficiente",
+      "price_eur": 5,
+      "target": "Profesores y tutores masculinos en España y Latinoamérica",
+      "reason": "Este eBook aborda una necesidad común entre los profesores de optimizar su tiempo para mejorar la calidad de sus clases. Al enfocarse en estrategias prácticas y fáciles de implementar, ofrece un valor claro y tangible para su precio.",
+      "language": "es",
+      "pitch": "Descubre cómo maximizar tu tiempo en el aula con estrategias prácticas que te permitirán enfocarte en lo que realmente importa: enseñar.",
+      "content_html": "<h2>Contenido</h2><p>Este eBook te guiará paso a paso a través de siete estrategias probadas para optimizar tu tiempo y mejorar la calidad de tus clases. Incluye ejemplos prácticos y consejos fáciles de implementar.</p>",
+      "pro": false,
+      "created": "2026-10-25T04:46:43",
+      "file": "el-maestro-eficiente-a3e5e90f43d0d0db.pdf",
+      "size": 2245,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils ehrlich und praktisch orientiert, enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es gibt keine Hinweise auf erfundene Zahlen oder spezifische Prozentangaben. Die Sprache ist konsistent Spanisch, und der Text ist vollständig ohne Platzhalter ode",
+      "pay_url": "https://buy.stripe.com/eVqaEYbQt3Xd2I608c2kx1A",
+      "payment_link_id": "plink_1UUJPsJ5iOXkWb9VQGHt4jNu",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能老年护理预算与健康追踪器",
+      "slug": "zhi-neng-lao-nian-hu-li-yu-suan-yu-jian-kang-zhui-zong-qi",
+      "price_eur": 9,
+      "target": "Senioren und Pflegeorganisationen für Angehörige",
+      "reason": "这款工具帮助用户有效管理和优化老年护理支出，同时追踪健康状况，提升护理质量。",
+      "language": "zh",
+      "pitch": "优化老年护理预算，轻松追踪医疗开支和健康数据。",
+      "content_html": "<h2>Inhalt</h2><p>1. 预算追踪与健康管理；2. 医疗开支记录与分析；3. 护理人员分配与费用管理；4. 数据可视化。</p>",
+      "pro": true,
+      "created": "2026-10-25T04:46:43",
+      "file": "zhi-neng-lao-nian-hu-li-yu-suan-yu-jian-kang-zhui-zong-qi-9e397fbde5bc6d31.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen gefunden. Das Produkt ist legal, ehrlich und enthält keine unzulässigen Gesundheitsversprechen oder Beratungen. Die Formeln und Tabellen sind sinnvoll und korrekt.",
+      "pay_url": "https://buy.stripe.com/aFa00k7Ad2T9dmK4os2kx1B",
+      "payment_link_id": "plink_1UUJPsJ5iOXkWb9VeM6BHnWI",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.004284,
-      "why": "KI-Pruefung: 7 Schritte zum erfolgreichen Gemüsegarten für Selbstversorger: Einfache Anleitung für Anfänger"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Schritte zum erfolgreichen Gemüsegarten für Selbstversorger: Einfache Anleitung für Anfänger"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.018476399999999997,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.0013967999999999997,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): day is out of range for month"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.0182436,
-      "why": "KI-Denken: YouTube Analytics & Content ROI Tracker - Creator Pro Edition"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.0010643999999999999,
-      "why": "KI-Pruefung: YouTube Analytics & Content ROI Tracker - Creator Pro Edition"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.022832399999999992,
-      "why": "KI-Denken: Smart Teaching: 6 Steps to Save Time & Engage Your Students"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.003516,
-      "why": "KI-Pruefung: Smart Teaching: 6 Steps to Save Time & Engage Your Students"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): E-Book zu kurz (1479 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.02361,
-      "why": "KI-Denken: The Busy Teacher's Survival Guide: Simple Strategies for Effective Classroom Management"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.0032208,
-      "why": "KI-Pruefung: The Busy Teacher's Survival Guide: Simple Strategies for Effective Classroom Management"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Busy Teacher's Survival Guide: Simple Strategies for Effective Classroom Management"
-    },
-    {
-      "t": "2026-10-23T09:15:53",
-      "eur": -0.0039336,
-      "why": "Audit: 7 Schritte zum erfolgreichen Gemüsegarten für Selbstversorger: Einfache Anleitun"
-    },
-    {
-      "t": "2026-10-23T09:15:53",
-      "eur": -0.0035147999999999993,
-      "why": "Audit: YouTube Analytics & Content ROI Tracker - Creator Pro Edition"
-    },
-    {
-      "t": "2026-10-23T09:15:53",
-      "eur": -0.003018,
-      "why": "Audit: The Busy Teacher's Survival Guide: Simple Strategies for Effective Classroom Man"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.0014111999999999998,
-      "why": "Blog-Artikel: Dresden Frauenkirche (fr)"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.0014639999999999998,
-      "why": "Blog-Artikel: Harz Brocken (de)"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.0004271999999999999,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Simple Gardener's Handbook: 7 Easy Steps to Grow Your Own Food Year-Round"
-    },
-    {
-      "t": "2026-10-23T08:58:33",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4601526195"
-    },
     {
       "t": "2026-10-23T08:58:33",
       "eur": -0.19,
@@ -9930,6 +9891,131 @@
       "t": "2026-10-24T22:50:07",
       "eur": -0.0004139999999999999,
       "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.019520399999999997,
+      "why": "KI-Denken: Planificador de Ingresos y Gastos para Creadores de Contenido"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.0010056,
+      "why": "KI-Pruefung: Planificador de Ingresos y Gastos para Creadores de Contenido"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.026703599999999994,
+      "why": "KI-Denken: El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar tus clases"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.0037895999999999997,
+      "why": "KI-Pruefung: El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar tus clases"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.16,
+      "why": "KI-Bilder: El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar tus clases"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.01941,
+      "why": "KI-Denken: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.0193776,
+      "why": "KI-Denken: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-10-25T04:52:02",
+      "eur": -0.0035231999999999998,
+      "why": "Audit: Planificador de Ingresos y Gastos para Creadores de Contenido"
+    },
+    {
+      "t": "2026-10-25T04:52:02",
+      "eur": -0.003642,
+      "why": "Audit: El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar"
+    },
+    {
+      "t": "2026-10-25T04:52:02",
+      "eur": -0.0021311999999999998,
+      "why": "Audit: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.0011267999999999999,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (en)"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.001086,
+      "why": "Blog-Artikel: Frankfurt Skyline (zh)"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.00034319999999999994,
+      "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Nordsee & Ostsee Reisebudget-Tracker & Routenplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602673801"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien und Solo-Reisende"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602699538"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Travel Expense Tracker & Itinerary Planner"
+    },
+    {
+      "t": "2026-10-25T04:46:43",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602699560"
     }
   ],
   "alive": true,
@@ -11775,6 +11861,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-10-24T22:50:07",
       "img": true
+    },
+    {
+      "slug": "discover-hamburg-speicherstadt-historic-warehouse-district",
+      "title": "Discover Hamburg's Speicherstadt: A Historic Warehouse District",
+      "lang": "en",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-25T04:46:43",
+      "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-deutschland",
+      "title": "德国法兰克福天际线：城市美景与实用攻略",
+      "lang": "zh",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-25T04:46:43",
+      "img": true
     }
   ],
   "videos": [
@@ -12716,6 +12818,16 @@
       "hashtags": "#Rügen #Kreidefelsen #Ostsee #Naturwunder #DeutschlandReisen",
       "voice": "Willkommen an den Kreidefelsen von Rügen – einem einzigartigen Naturwunder! Diese majestätischen Felsen erheben sich stolz über der Ostsee und bieten atemberaubende Ausblicke. Erkunde die Wanderwege rund um den Nationalpark Jasmund und genieße die Schönheit unberührter Natur. Ein Besuch hier ist ein unvergessliches Erlebnis für Naturliebhaber und Entdecker. Lass dich von der Kraft dieser Landschaft inspirieren!",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "frankfurt-skyline-deutschland",
+      "title": "德国法兰克福天际线：城市美景与实用攻略",
+      "lang": "zh",
+      "created": "2026-10-25T04:46:43",
+      "hashtags": "#法兰克福 #德国 #天际线 #旅行 #欧洲",
+      "voice": "欢迎来到法兰克福，这座位于美因河畔的国际大都市！这里是欧洲的金融中心，拥有令人印象深刻的天际线。历史与现代在这里完美融合，从古老的教堂到摩天大楼，每一处都散发着独特魅力。漫步在美因河边，感受这座城市的活力与优雅。法兰克福，不仅是商业的枢纽，更是文化与创新的交汇点。",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
