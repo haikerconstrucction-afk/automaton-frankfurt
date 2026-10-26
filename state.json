@@ -1,10 +1,10 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 430.9678,
-  "spent_eur": 73.7025,
+  "balance_eur": 430.6562,
+  "spent_eur": 74.0141,
   "revenue_eur": 4.67,
-  "phase": 0,
-  "phase_started": "2026-09-26T11:58:00",
+  "phase": 1,
+  "phase_started": "2026-10-26T15:14:29",
   "products": [
     {
       "title": "Effiziente Projektplanung Vorlage für Selbstständige",
@@ -9396,139 +9396,81 @@
       "pay_url": "https://buy.stripe.com/fZu5kE4o1bpF82q2gk2kx1Q",
       "payment_link_id": "plink_1UUimUJ5iOXkWb9VsJrTWV0B",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Exam Countdown & Study Budget Planner",
+      "slug": "exam-countdown-study-budget-planner",
+      "price_eur": 9,
+      "target": "University students preparing for exams while managing tight budgets",
+      "reason": "Comprehensive organization tool that combines exam planning with budget tracking - a unique value proposition for stressed students.",
+      "language": "en",
+      "pitch": "Track exam dates, study progress and expenses in one place - stay organized and financially aware during crunch time.",
+      "content_html": "<h2>Content</h2><p>All-in-one planning tool with countdown timers, study schedule tracker, expense log, and motivational progress dashboard.</p>",
+      "pro": true,
+      "created": "2026-10-26T15:14:29",
+      "file": "exam-countdown-study-budget-planner-f55ef81d6901ac08.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Der Inhalt ist klar strukturiert und bleibt im Rahmen der Regeln. Allerdings könnten die Beispielwerte im 'Study Log' und 'Expenses'-Blatt als zu unvollständig erscheinen, um die berechneten Kennzahlen vollständig zu plausibilisieren.",
+      "pay_url": "https://buy.stripe.com/fZu3cw8Eh2T96YmdZ22kx1R",
+      "payment_link_id": "plink_1UUpgrJ5iOXkWb9VXsV0YIst",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and Boost Your Revenue",
+      "slug": "family-friendly-restaurant-success",
+      "price_eur": 5,
+      "target": "Small restaurants and cafes",
+      "reason": "Small restaurants and cafes often struggle to attract families effectively. This guide provides practical, actionable steps to create a welcoming environment and boost revenue.",
+      "language": "en",
+      "pitch": "Learn proven strategies to make your restaurant welcoming and profitable for family diners. Increase customer satisfaction and repeat visits with simple, actionable steps.",
+      "content_html": "<h2>Content</h2><ul><li>Introduction: Why Families Matter</li><li>Step 1: Create a Family-Friendly Atmosphere</li><li>Step 2: Design a Kid-Friendly Menu</li><li>Step 3: Train Your Staff for Family Service</li><li>Step 4: Offer Family-Friendly Activities</li><li>Step 5: Promote Family-Friendly Events</li><li>Step 6: Gather and Act on Family Feedback</li><li>Conclusion: Building Long-Term Family Loyalty</li></ul>",
+      "pro": false,
+      "created": "2026-10-26T15:14:29",
+      "file": "family-friendly-restaurant-success-d447bb9db7c4d842.pdf",
+      "size": 2106,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Statistiken, Zahlen oder Quellen festgestellt. Der Inhalt ist klar, sachlich und entspricht den Regeln. Einige kleinere Wiederholungen, aber kein Regelverstoß.",
+      "pay_url": "https://buy.stripe.com/eVq00kaMp65laayf362kx1S",
+      "payment_link_id": "plink_1UUpgrJ5iOXkWb9VPm4Y5L0G",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimativer Business-Reiseplaner: Budget, Packliste & Routenoptimierung",
+      "slug": "business-reiseplaner-budget-packliste-routenoptimierung",
+      "price_eur": 12,
+      "target": "Berufsreisende, Freelancer und kleine Unternehmen im Rhein-Main-Gebiet, die geschäftliche Reisen effizient planen müssen",
+      "reason": "Berufsreisende im Rhein-Main-Gebiet benötigen eine zentrale Lösung für die komplexe Planung von Terminen, Verkehrsanbindungen und Budgets – diese Vorlage bietet genau das, speziell für Geschäftsreisende in der deutschen Wirtschaftsdrehscheibe Rhein-Main.",
+      "language": "de",
+      "pitch": "All-in-One Lösung für stressfreie Geschäftsreisen – von der Budgetplanung bis zur perfekten Packliste, speziell optimiert für Rhein-Main",
+      "content_html": "<h2>Inhalt</h2><p>Planen Sie Geschäftsreisen im Drehkreuz Rhein-Main effizient. Verwalten Sie Budgets, Packlisten und Reiserouten in einer professionellen Excel-Vorlage.</p>",
+      "pro": true,
+      "created": "2026-10-26T15:14:29",
+      "file": "business-reiseplaner-budget-packliste-routenoptimierung-c88967f9268d0ed8.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist sachlich korrekt und hält sich an die Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder unzulässigen Behauptungen. Die Excel-Funktionen sind plausibel und die Beispieldaten sind realistisch. Kleinere Schönheitsfehler wie wiederholte Formeln beeinträchtigen die Nutzbarkeit nich",
+      "pay_url": "https://buy.stripe.com/14A4gA3jX2T9ciGf362kx1T",
+      "payment_link_id": "plink_1UUpgsJ5iOXkWb9VxH4XJXtS",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Bavarian Alps Adventure Guide: 7 Must-Do Family-Friendly Trails & Hidden Gems"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602207543"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": -0.024167999999999995,
-      "why": "KI-Denken: 智能房东管理手册：轻松管理1-5套出租房的7个实用步骤"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": -0.0041316,
-      "why": "KI-Pruefung: 智能房东管理手册：轻松管理1-5套出租房的7个实用步骤"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": -0.12,
-      "why": "KI-Bilder: 智能房东管理手册：轻松管理1-5套出租房的7个实用步骤"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": -0.018957599999999998,
-      "why": "KI-Denken: Planificateur de Révisions & Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Révisions & Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": -0.025207200000000003,
-      "why": "KI-Denken: Le Petit Guide du Succès pour les Petits Restaurants et Cafés"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": -0.0040344,
-      "why": "KI-Pruefung: Le Petit Guide du Succès pour les Petits Restaurants et Cafés"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Petit Guide du Succès pour les Petits Restaurants et Cafés"
-    },
-    {
-      "t": "2026-10-24T16:06:41",
-      "eur": -0.0042168,
-      "why": "Audit: 智能房东管理手册：轻松管理1-5套出租房的7个实用步骤"
-    },
-    {
-      "t": "2026-10-24T16:06:41",
-      "eur": -0.0021647999999999997,
-      "why": "Audit: Planificateur de Révisions & Suivi des Examens pour Étudiants"
-    },
-    {
-      "t": "2026-10-24T16:06:41",
-      "eur": -0.0037319999999999996,
-      "why": "Audit: Le Petit Guide du Succès pour les Petits Restaurants et Cafés"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": 0,
-      "why": "Blog-Fehler: 'choices'"
-    },
-    {
-      "t": "2026-10-24T16:00:25",
-      "eur": 0,
-      "why": "Video-Fehler: 'choices'"
-    },
-    {
-      "t": "2026-10-24T18:49:21",
-      "eur": -0.019097999999999997,
-      "why": "KI-Denken: Ultimate Vacation Budget Planner & Packing List Tracker for Families"
-    },
-    {
-      "t": "2026-10-24T18:49:21",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Vacation Budget Planner & Packing List Tracker for Families"
-    },
-    {
-      "t": "2026-10-24T18:49:21",
-      "eur": -0.028611599999999994,
-      "why": "KI-Denken: The Ultimate Etsy Seller's Handbook: 7 Simple Steps to Boost Sales and Build Your Brand"
-    },
-    {
-      "t": "2026-10-24T18:49:21",
-      "eur": -0.0034056,
-      "why": "KI-Pruefung: The Ultimate Etsy Seller's Handbook: 7 Simple Steps to Boost Sales and Build Your Brand"
-    },
-    {
-      "t": "2026-10-24T18:49:21",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Ultimate Etsy Seller's Handbook: 7 Simple Steps to Boost Sales and Build Your Brand"
-    },
-    {
-      "t": "2026-10-24T18:49:21",
-      "eur": -0.019294799999999997,
-      "why": "KI-Denken: Vereinsbudget-Tracker & Spendenmanager"
-    },
-    {
-      "t": "2026-10-24T18:49:21",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Vereinsbudget-Tracker & Spendenmanager"
-    },
-    {
-      "t": "2026-10-24T18:49:21",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-10-24T18:49:21",
       "eur": -0.019855199999999996,
@@ -10403,6 +10345,131 @@
       "t": "2026-10-26T07:51:10",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603332626"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.020307599999999995,
+      "why": "KI-Denken: Exam Countdown & Study Budget Planner"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Exam Countdown & Study Budget Planner"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.026588399999999998,
+      "why": "KI-Denken: Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and Boost Your Revenue"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.003414,
+      "why": "KI-Pruefung: Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and Boost Your Revenue"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.16,
+      "why": "KI-Bilder: Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and Boost Your Revenue"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.020729999999999995,
+      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.0011064,
+      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 7 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.020566799999999996,
+      "why": "KI-Denken: Ultimative Reise-Packlisten-Planerin & Budget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.0010115999999999999,
+      "why": "KI-Pruefung: Ultimative Reise-Packlisten-Planerin & Budget-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.020539199999999997,
+      "why": "KI-Denken: Ultimativer Roadtrip-Kosten-Tracker & Packlisten-Planer"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimativer Roadtrip-Kosten-Tracker & Packlisten-Planer"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.020984399999999997,
+      "why": "KI-Denken: Ultimativer Business-Reiseplaner: Budget, Packliste & Routenoptimierung"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.0013571999999999998,
+      "why": "KI-Pruefung: Ultimativer Business-Reiseplaner: Budget, Packliste & Routenoptimierung"
+    },
+    {
+      "t": "2026-10-26T15:19:50",
+      "eur": -0.001944,
+      "why": "Audit: Exam Countdown & Study Budget Planner"
+    },
+    {
+      "t": "2026-10-26T15:19:50",
+      "eur": -0.0031223999999999996,
+      "why": "Audit: Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and "
+    },
+    {
+      "t": "2026-10-26T15:19:50",
+      "eur": -0.0055439999999999994,
+      "why": "Audit: Ultimativer Business-Reiseplaner: Budget, Packliste & Routenoptimierung"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.0009563999999999999,
+      "why": "Blog-Artikel: Koeln Dom (fr)"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.0011363999999999999,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (de)"
+    },
+    {
+      "t": "2026-10-26T15:14:29",
+      "eur": -0.00040679999999999997,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
     }
   ],
   "alive": true,
@@ -12344,6 +12411,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-10-26T07:51:10",
       "img": true
+    },
+    {
+      "slug": "decouvrir-la-cathedrale-de-cologne-un-joyau-architectural-en",
+      "title": "Découvrir la Cathédrale de Cologne : Un Joyau Architectural en Allemagne",
+      "lang": "fr",
+      "topic": "Koeln Dom",
+      "created": "2026-10-26T15:14:29",
+      "img": true
+    },
+    {
+      "slug": "ruhrgebiet-zollverein-entdecken",
+      "title": "Das Ruhrgebiet entdecken: Ein Besuch im UNESCO-Welterbe Zollverein",
+      "lang": "de",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-26T15:14:29",
+      "img": true
     }
   ],
   "videos": [
@@ -13335,6 +13418,16 @@
       "hashtags": "#Saarland #Saarschleife #NaturalezaAlemana #Cloef #TurismoEnAlemania",
       "voice": "¡Bienvenidos al Saarland y su maravillosa Saarschleife! Este impresionante meandro del río Saar es uno de los paisajes más icónicos de Alemania. Desde el mirador Cloef, podrás admirar vistas panorámicas que te dejarán sin aliento. Ideal para senderistas y amantes de la naturaleza, este lugar ofrece paz y belleza en cada rincón. ¡Ven y déjate sorprender por este tesoro natural!",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "ruhrgebiet-zollverein-entdecken",
+      "title": "Das Ruhrgebiet entdecken: Ein Besuch im UNESCO-Welterbe Zollverein",
+      "lang": "de",
+      "created": "2026-10-26T15:14:29",
+      "hashtags": "#Zollverein #Ruhrgebiet #Industriekultur #UNESCO #DeutschlandEntdecken",
+      "voice": "Entdecke das Ruhrgebietsjuwel Zollverein! Früher das Herz des Bergbaus, heute ein lebendiges Kulturzentrum. Beeindruckende Architektur trifft auf grüne Landschaften und innovative Kunst. Tauche ein in die Geschichte und spüre den Geist der Industriekultur. Zollverein ist ein Ort, der begeistert und inspiriert – ein Muss für jeden Besucher!",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
