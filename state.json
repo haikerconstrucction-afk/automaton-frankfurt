@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 432.8232,
-  "spent_eur": 71.8471,
+  "balance_eur": 431.9535,
+  "spent_eur": 72.7168,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5561,7 +5561,10 @@
       "audit_note": "Der Inhalt ist klar und präzise, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Die Beispielrechnungen sind plausibel und entsprechen den Beispieldaten. Es gibt keine Regelverstöße oder sachlichen Fehler.",
       "pay_url": "https://buy.stripe.com/fZu8wQ2fTeBR0zY5sw2kw3p",
       "payment_link_id": "plink_1UQDELJ5iOXkWb9VTnxrCQLv",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4603167015"
+      }
     },
     {
       "type": "ebook",
@@ -5585,7 +5588,10 @@
       "audit_note": "Das E-Book bietet praktische, allgemein gültige Ratschläge zur Haushaltsbudgetierung ohne spezifische Prozentangaben oder falsche Behauptungen. Stellen wie '每月自动节省20%家庭开支' sind zwar ambitioniert, aber als Ziel formuliert und nicht als garantierte Leistung. Keine klaren Regelverstöße.",
       "pay_url": "https://buy.stripe.com/28E3cw5s58dtbeCg7a2kw3q",
       "payment_link_id": "plink_1UQDEMJ5iOXkWb9VJlZS7xcB",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4603167025"
+      }
     },
     {
       "type": "excel",
@@ -5609,7 +5615,10 @@
       "audit_note": "Das Produkt ist eine Excel-Vorlage für Trainingsplanung und Fortschrittsverfolgung für Trainer. Es enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Formeln und berechneten Kennzahlen sind plausibel und entsprechen den Beispieldaten. Die Sprache ist durchgängig Französis",
       "pay_url": "https://buy.stripe.com/dRmdRaaMp79p82qdZ22kw3r",
       "payment_link_id": "plink_1UQGwYJ5iOXkWb9VADx6koMh",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4603189494"
+      }
     },
     {
       "type": "ebook",
@@ -9234,144 +9243,81 @@
       "pay_url": "https://buy.stripe.com/9B68wQ2fTfFV6Ymg7a2kx1K",
       "payment_link_id": "plink_1UUYerJ5iOXkWb9VoldjoEG1",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Calculadora Avanzada de Presupuestos para Talleres de Construcción",
+      "slug": "calculadora-avanzada-presupuestos-construccion",
+      "price_eur": 9,
+      "target": "Empresarios y autónomos en el sector de la construcción (fontanería, electricidad, albañilería)",
+      "reason": "Los talleres de construcción necesitan herramientas profesionales para calcular presupuestos competitivos, controlar márgenes y gestionar eficientemente materiales y mano de obra. Esta plantilla ahorra horas de trabajo manual y reduce errores en los cálculos.",
+      "language": "es",
+      "pitch": "Herramienta profesional para calcular costos, generar presupuestos competitivos y controlar márgenes en proyectos de construcción. Ahorra tiempo y aumenta tu rentabilidad.",
+      "content_html": "<h2>Contenido</h2><p>Plantilla Excel completa para gestión profesional de presupuestos en talleres de construcción. Incluye:</p><ul><li>Calculadora detallada de materiales y mano de obra</li><li>Seguimiento de márgenes por proyecto</li><li>Dashboard con KPIs clave</li></ul>",
+      "pro": true,
+      "created": "2026-10-26T00:25:43",
+      "file": "calculadora-avanzada-presupuestos-construccion-e54cc258eabfc2a4.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine funktionale Excel-Kalkulationstabelle für Baukosten ohne erfundene Statistiken oder irreführende Angaben. Die Beispielrechnungen sind plausibel und klar als solche gekennzeichnet. Keine Regelverstöße erkennbar.",
+      "pay_url": "https://buy.stripe.com/14AcN607L51haay1cg2kx1L",
+      "payment_link_id": "plink_1UUbuFJ5iOXkWb9VIfRBjTHl",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años",
+      "slug": "7-cuentos-magicos-para-dormir-historias-cortas-para-ninos",
+      "price_eur": 5,
+      "target": "padres que buscan historias relajantes para leer a sus hijos antes de dormir",
+      "reason": "Este ebook llena un nicho específico - padres hispanohablantes buscando historias originales para leer a sus hijos antes de dormir. Las historias están diseñadas con ritmos y temáticas relajantes que facilitan el sueño, ofreciendo un valor claro por el precio. Cada cuento incluye elementos que los niños pueden relacionar con sus propias rutinas nocturnas, haciendo la experiencia interactiva y significativa.",
+      "language": "es",
+      "pitch": "Una colección de 7 historias originales y relajantes, perfectas para ayudar a los niños a conciliar el sueño mientras estimulan su imaginación. Ideal para padres ocupados que quieren crear un ritual nocturno especial.",
+      "content_html": "<h2>Contenido</h2><ul><li>1. El dragón que no podía dormir</li><li>2. La estrella bailarina</li><li>3. El perezoso que quería ser rápido</li><li>4. El secreto del bosque murmullante</li><li>5. La nube de algodón</li><li>6. El gato que soñaba con la luna</li><li>7. El collar de sueños</li></ul><p>Incluye una muestra gratuita del primer cuento completo.</p>",
+      "pro": false,
+      "created": "2026-10-26T00:25:43",
+      "file": "7-cuentos-magicos-para-dormir-historias-cortas-para-ninos-c15cc5ea9459104c.pdf",
+      "size": 1657,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt erfüllt alle Kriterien: Keine erfundenen Zahlen/Statistiken, keine Regelverstöße, altersgerechte Inhalte in korrektem Spanisch. Die Geschichten sind originell und pädagogisch wertvoll.",
+      "pay_url": "https://buy.stripe.com/28E6oI8EhgJZ3Ma6wA2kx1M",
+      "payment_link_id": "plink_1UUbuGJ5iOXkWb9Vmg3v2N8X",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能婚礼预算追踪器 & 供应商管理器 - 2026专业版",
+      "slug": "intelligent-wedding-budget-tracker-supplier-manager-2026",
+      "price_eur": 12,
+      "target": "正在筹备婚礼的准新人，需要全面预算管理和供应商协调",
+      "reason": "婚礼筹备涉及大量预算管理和供应商协调工作，这个专业工具可以帮助新人系统化管理所有细节，避免超支和遗忘重要事项，让婚礼筹备更轻松高效。",
+      "language": "zh",
+      "pitch": "一站式解决方案，轻松掌控婚礼所有开支和供应商细节，让您的婚礼筹备无忧无虑",
+      "content_html": "<h2>内容</h2><p>专业设计的婚礼预算追踪表，包含供应商管理、付款提醒和费用分析功能。</p>",
+      "pro": true,
+      "created": "2026-10-26T00:25:43",
+      "file": "intelligent-wedding-budget-tracker-supplier-manager-2026-bff49ed94a2e588e.xlsx",
+      "size": 3,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt erfüllt die grundlegenden Anforderungen für einen Budget-Tracker in Excel-Format. Keine erfundenen Statistiken oder Quellen, keine Rechts- oder Gesundheitsberatung. Formeln sind sinnvoll und nachvollziehbar. Beispieldaten sind klar als solche erkennbar. Kleinere Verbesserungspotenziale bei d",
+      "pay_url": "https://buy.stripe.com/8x25kE7AdalB82qf362kx1N",
+      "payment_link_id": "plink_1UUbuGJ5iOXkWb9VA00xPZKc",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.0012024,
-      "why": "Blog-Artikel: Saarland Saarschleife (zh)"
-    },
-    {
-      "t": "2026-10-23T23:11:41",
-      "eur": -0.00038639999999999996,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.025622399999999997,
-      "why": "KI-Denken: Dresden & Sachsen Entdecken: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.0043164,
-      "why": "KI-Pruefung: Dresden & Sachsen Entdecken: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1318 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.0253872,
-      "why": "KI-Denken: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.004157999999999999,
-      "why": "KI-Pruefung: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.019001999999999998,
-      "why": "KI-Denken: Construction Site Offer & Cost Tracker for Craft Businesses"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.001086,
-      "why": "KI-Pruefung: Construction Site Offer & Cost Tracker for Craft Businesses"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.024378,
-      "why": "KI-Denken: Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.0037127999999999996,
-      "why": "KI-Pruefung: Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.16,
-      "why": "KI-Bilder: Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
-    },
-    {
-      "t": "2026-10-24T04:50:59",
-      "eur": -0.0039384,
-      "why": "Audit: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen &"
-    },
-    {
-      "t": "2026-10-24T04:50:59",
-      "eur": -0.00327,
-      "why": "Audit: Construction Site Offer & Cost Tracker for Craft Businesses"
-    },
-    {
-      "t": "2026-10-24T04:50:59",
-      "eur": -0.0034644,
-      "why": "Audit: Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.0015071999999999998,
-      "why": "Blog-Artikel: Koeln Dom (es)"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.001254,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (fr)"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.00036839999999999996,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能老年护理预算与健康追踪器"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602110312"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能自由职业者的财务管理：7步指南轻松实现财务自由"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602085275"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Voyage et Suivi de Dépenses pour le Forêt-Noire"
-    },
-    {
-      "t": "2026-10-24T04:41:26",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602085287"
-    },
     {
       "t": "2026-10-24T11:07:40",
       "eur": -0.0189696,
@@ -10236,6 +10182,146 @@
       "t": "2026-10-25T20:55:11",
       "eur": -0.00039359999999999997,
       "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.020067599999999998,
+      "why": "KI-Denken: Planificador de Presupuestos y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Presupuestos y Mediciones para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.0203688,
+      "why": "KI-Denken: Calculadora Avanzada de Presupuestos para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.00108,
+      "why": "KI-Pruefung: Calculadora Avanzada de Presupuestos para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.026055599999999998,
+      "why": "KI-Denken: 7 Aventuras Mágicas para la Hora de Dormir: Cuentos Cortos para Niños de 3 a 8 Años"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.0042239999999999995,
+      "why": "KI-Pruefung: 7 Aventuras Mágicas para la Hora de Dormir: Cuentos Cortos para Niños de 3 a 8 Años"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1324 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.027483600000000004,
+      "why": "KI-Denken: 7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.004486799999999999,
+      "why": "KI-Pruefung: 7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.020161199999999997,
+      "why": "KI-Denken: 智能婚礼预算追踪器 & 供应商管理器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能婚礼预算追踪器 & 供应商管理器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-26T00:36:17",
+      "eur": -0.0029939999999999997,
+      "why": "Audit: Calculadora Avanzada de Presupuestos para Talleres de Construcción"
+    },
+    {
+      "t": "2026-10-26T00:36:17",
+      "eur": -0.00399,
+      "why": "Audit: 7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años"
+    },
+    {
+      "t": "2026-10-26T00:36:17",
+      "eur": -0.0034728,
+      "why": "Audit: 智能婚礼预算追踪器 & 供应商管理器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.0011664,
+      "why": "Blog-Artikel: Eifel Maare (fr)"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.0015011999999999998,
+      "why": "Blog-Artikel: Rheingau Weinberge (de)"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.00036239999999999997,
+      "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能婚礼预算追踪器与供应商管理器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603167015"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603167025"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur d'Entraînement & Suivi des Progrès pour Coachs"
+    },
+    {
+      "t": "2026-10-26T00:25:43",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603189494"
     }
   ],
   "alive": true,
@@ -12144,6 +12230,22 @@
       "lang": "es",
       "topic": "Muenchen Marienplatz",
       "created": "2026-10-25T20:55:11",
+      "img": true
+    },
+    {
+      "slug": "maars-eifel-allemagne-volcaniques",
+      "title": "Les Maars de l'Eifel : joyaux volcaniques en Allemagne",
+      "lang": "fr",
+      "topic": "Eifel Maare",
+      "created": "2026-10-26T00:25:43",
+      "img": true
+    },
+    {
+      "slug": "rheingau-weinberge-deutschland",
+      "title": "Rheingau Weinberge: Wein, Kultur und Natur genießen",
+      "lang": "de",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-26T00:25:43",
       "img": true
     }
   ],
