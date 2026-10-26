@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 431.9535,
-  "spent_eur": 72.7168,
+  "balance_eur": 430.9678,
+  "spent_eur": 73.7025,
   "revenue_eur": 4.67,
   "phase": 0,
   "phase_started": "2026-09-26T11:58:00",
@@ -5642,7 +5642,10 @@
       "audit_note": "Die Angabe '80% der Probleme' ist nicht belegt und sollte entfernt werden. Der Rest des Inhalts ist praktisch und entspricht den Regeln.",
       "pay_url": "https://buy.stripe.com/7sYbJ27AdctJ2I6g7a2kw3s",
       "payment_link_id": "plink_1UQGwZJ5iOXkWb9VEyJnpWy4",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4603309767"
+      }
     },
     {
       "type": "excel",
@@ -5666,7 +5669,10 @@
       "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es werden keine Marken oder Figuren Dritter verwendet, und es gibt keine Rechts-, Steuer- oder Finanzberatung. Die Beispielrechnungen sind plausibel und klar als solche markiert. Die Sprache ist ei",
       "pay_url": "https://buy.stripe.com/aFaeVef2FdxN6Ym1cg2kw3t",
       "payment_link_id": "plink_1UQMyLJ5iOXkWb9V9hiW5Xvd",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4603309791"
+      }
     },
     {
       "type": "ebook",
@@ -5690,7 +5696,10 @@
       "audit_note": "Der Inhalt ist professionell und sachlich korrekt. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Alle Tipps basieren auf allgemeinem Wissen und praktischen Erfahrungen. Die Sprache ist einheitlich und es gibt keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Keine",
       "pay_url": "https://buy.stripe.com/5kQ4gAdYBbpFbeC9IM2kw3u",
       "payment_link_id": "plink_1UQMyMJ5iOXkWb9VI4UkjjiP",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4603332626"
+      }
     },
     {
       "type": "excel",
@@ -9315,124 +9324,81 @@
       "pay_url": "https://buy.stripe.com/8x25kE7AdalB82qf362kx1N",
       "payment_link_id": "plink_1UUbuGJ5iOXkWb9VA00xPZKc",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "聪明省钱：7个简单步骤轻松管理家庭预算",
+      "slug": "cong-ming-sheng-qian-7-ge-jian-dan-bu-zhou-qing-song-guan-li-jia-ting-yu-suan",
+      "price_eur": 5,
+      "target": "中国、台湾、新加坡的家庭，希望改善家庭财务状况并学习简单实用的省钱技巧的人群。",
+      "reason": "在快速变化的经济环境中，家庭财务管理变得越来越重要。这本电子书以简单易懂的方式，为读者提供实用的财务管理解决方案，满足了当前市场的需求。",
+      "language": "zh",
+      "pitch": "这本简洁实用的电子书将引领您通过7个简单的步骤，轻松管理家庭预算，在日常生活中省钱。",
+      "content_html": "在传统与现代交织的生活中，如何有效地管理家庭财务，成为了许多中国家庭面临的挑战。本书《聪明省钱：7个简单步骤轻松管理家庭预算》正是为解决这一问题而编写。通过简洁明了的步骤，帮助您从日常生活中的点滴做起，逐步建立起科学合理的家庭财务管理体系。\n\n<h2>第一章：了解您的财务状况</h2>\n在这一章节中，您将学习到如何全面了解自己家庭的财务状况，包括月收入、固定支出和可变支出等重要信息。通过这一步骤，您可以将复杂的财务数据转化为直观的图表，从而更好地掌握每一分钱的流动方向。\n\n<h2>第二章：制定家庭预算计划</h2>\n本章将指导您如何根据前一章收集的财务数据，制定出适合自己家庭的月度预算计划。您将了解到预算制定中的关键要素，如优先级设定和弹性调整机制。\n\n<h2>第三章：日常生活省钱技巧</h2>\n日常生活中的小小改变，可能带来巨大的财务效益。在这一章节中，我们将分享50个简单实用的省钱技巧，从购物方式到娱乐开支，全方位提升您的财务管理能力。\n\n<h2>第四章：应对突发财务状况</h2>\n生活中难免会遭遇突发事件，如何在这些情况下保持财务稳定至关重要。本章将为您提供实用的应急资金管理方案，帮助您在不确定性面前保持从容。\n\n<h2>第五章：建立长期储蓄计划</h2>\n从短期到长期，财务规划是一个循序渐进的过程。在这一章节，您将学习到如何制定并执行长期储蓄计划，为实现未来目标积累资金。\n\n<h2>第六章：家庭教育预算管理</h2>\n对于重视子女教育的家庭来说，教育支出往往是主要的财务负担。本章将为您详细解析如何合理规划家庭教育预算，在保证质量的同时控制开支。\n\n<h2>第七章：持续优化财务管理系统</h2>\n财务管理的精髓在于不断优化和调整。在这最后一章，您将学会如何建立一套长效的财务管理系统，并持续优化以实现更好的理财效果。",
+      "pro": false,
+      "created": "2026-10-26T07:51:10",
+      "file": "cong-ming-sheng-qian-7-ge-jian-dan-bu-zhou-qing-song-guan-li-jia-ting-yu-suan-0188af21350303e2.pdf",
+      "size": 1896,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist praktisch und legal, enthält aber einige nicht belegte Prozentangaben (z.B. Energieeinsparungen) und spezifische Einsparungsbeispiele, die als erfunden eingestuft werden müssen. Allgemeine Ratschläge sind jedoch nützlich und regelkonform.",
+      "pay_url": "https://buy.stripe.com/7sY4gA6w965lbeC6wA2kx1O",
+      "payment_link_id": "plink_1UUimSJ5iOXkWb9VxkXwUGYM",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur d'Entraînement et Suivi des Progrès pour Coachs Sportifs",
+      "slug": "planificateur-entrainement-suivi-progres-coachs",
+      "price_eur": 12,
+      "target": "coachs sportifs indépendants et petits studios de fitness",
+      "reason": "Les coachs sportifs indépendants ont besoin d'un outil professionnel pour gérer leurs clients efficacement sans dépenser dans des logiciels coûteux. Cette solution complète répond à ce besoin avec un excellent rapport qualité-prix.",
+      "language": "fr",
+      "pitch": "Optimisez la planification des séances et suivez les progrès de vos clients avec cet outil tout-en-un. Gagnez du temps et offrez un suivi professionnel.",
+      "content_html": "<h2>Contenu</h2><p>Cet outil comprend des feuilles pour planifier les séances, suivre les performances et analyser les progrès de vos clients.</p>",
+      "pro": true,
+      "created": "2026-10-26T07:51:10",
+      "file": "planificateur-entrainement-suivi-progres-coachs-6dd1cac200e4ea7b.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Sprache ist einheitlich Französisch, und es gibt keine Platzhalter oder unfertigen Texte. Die berechneten Kennzahlen sind plausibel und basieren auf den Beispieldaten.",
+      "pay_url": "https://buy.stripe.com/eVqeVe5s51P5fuSf362kx1P",
+      "payment_link_id": "plink_1UUimTJ5iOXkWb9VrYJYJ3kx",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Logements",
+      "slug": "petit-guide-pratique-pour-petits-proprietaires",
+      "price_eur": 5,
+      "target": "Vermieter mit 1-5 Wohnungen",
+      "reason": "Ce guide répond aux besoins des petits propriétaires qui cherchent à simplifier la gestion de leurs logements. Il propose des solutions pratiques et accessibles pour gagner du temps, réduire le stress et maximiser les revenus.",
+      "language": "fr",
+      "pitch": "Simplifiez la gestion de vos logements avec des étapes concrètes et des astuces pratiques pour gagner du temps et réduire le stress. Idéal pour les propriétaires occupés.",
+      "content_html": "<h2>Contenu</h2><ul><li>Introduction</li><li>Chapitre 1 : Organiser vos documents</li><li>Chapitre 2 : Gérer les locations</li><li>Chapitre 3 : Communiquer efficacement avec vos locataires</li><li>Chapitre 4 : Entretenir vos logements</li><li>Chapitre 5 : Optimiser vos revenus</li><li>Chapitre 6 : Réduire le stress grâce à des outils pratiques</li></ul>",
+      "pro": false,
+      "created": "2026-10-26T07:51:10",
+      "file": "petit-guide-pratique-pour-petits-proprietaires-873e17d2d682d89b.pdf",
+      "size": 1574,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist sachlich korrekt und vermeidet erfundene Studien, Statistiken oder spezifische Prozentzahlen. Es werden nur allgemein bekannte Praxistipps gegeben. Die Sprache ist durchgehend Französisch und es gibt keine Platzhalter oder unfertigen Texte. Keine Rechts- oder Finanzberatung, keine Ges",
+      "pay_url": "https://buy.stripe.com/fZu5kE4o1bpF82q2gk2kx1Q",
+      "payment_link_id": "plink_1UUimUJ5iOXkWb9VsJrTWV0B",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.0189696,
-      "why": "KI-Denken: Planificador Profesional de Presupuesto para Bodas"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.0012527999999999999,
-      "why": "KI-Pruefung: Planificador Profesional de Presupuesto para Bodas"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.0255996,
-      "why": "KI-Denken: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.004404,
-      "why": "KI-Pruefung: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.018867599999999998,
-      "why": "KI-Denken: 智能健身会员管理系统与训练进度追踪器"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能健身会员管理系统与训练进度追踪器"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.019559999999999998,
-      "why": "KI-Denken: 智能私人健身预算与训练进度追踪器"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.0015167999999999998,
-      "why": "KI-Pruefung: 智能私人健身预算与训练进度追踪器"
-    },
-    {
-      "t": "2026-10-24T11:11:56",
-      "eur": -0.0025619999999999996,
-      "why": "Audit: Planificador Profesional de Presupuesto para Bodas"
-    },
-    {
-      "t": "2026-10-24T11:11:56",
-      "eur": -0.0040956,
-      "why": "Audit: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
-    },
-    {
-      "t": "2026-10-24T11:11:56",
-      "eur": -0.0029771999999999997,
-      "why": "Audit: 智能私人健身预算与训练进度追踪器"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.0010992,
-      "why": "Blog-Artikel: Bodensee (de)"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.00114,
-      "why": "Blog-Artikel: Mosel Cochem (en)"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.00035519999999999996,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Guide Essentiel du Saarland et de la Moselle : Découvertes et Itinéraires Insolites"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602232122"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-24T11:07:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602207521"
-    },
     {
       "t": "2026-10-24T11:07:40",
       "eur": -0.19,
@@ -10322,6 +10288,121 @@
       "t": "2026-10-26T00:25:43",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603189494"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.0256224,
+      "why": "KI-Denken: 聪明省钱：7个简单步骤轻松管理家庭预算"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.0040187999999999995,
+      "why": "KI-Pruefung: 聪明省钱：7个简单步骤轻松管理家庭预算"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.16,
+      "why": "KI-Bilder: 聪明省钱：7个简单步骤轻松管理家庭预算"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.020608799999999997,
+      "why": "KI-Denken: Planificateur d'Entraînement et Suivi des Progrès pour Coachs Sportifs"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.0011699999999999998,
+      "why": "KI-Pruefung: Planificateur d'Entraînement et Suivi des Progrès pour Coachs Sportifs"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.026725199999999994,
+      "why": "KI-Denken: Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Logements"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.0041316,
+      "why": "KI-Pruefung: Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Logements"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.16,
+      "why": "KI-Bilder: Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Logements"
+    },
+    {
+      "t": "2026-10-26T07:57:04",
+      "eur": -0.0041459999999999995,
+      "why": "Audit: 聪明省钱：7个简单步骤轻松管理家庭预算"
+    },
+    {
+      "t": "2026-10-26T07:57:04",
+      "eur": -0.0025824,
+      "why": "Audit: Planificateur d'Entraînement et Suivi des Progrès pour Coachs Sportifs"
+    },
+    {
+      "t": "2026-10-26T07:57:04",
+      "eur": -0.0038087999999999998,
+      "why": "Audit: Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Lo"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.0010884,
+      "why": "Blog-Artikel: Schwarzwald (zh)"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.0014567999999999998,
+      "why": "Blog-Artikel: Saarland Saarschleife (es)"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.00042359999999999994,
+      "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Petit Guide du Vermieter Intelligent: 7 Stratégies Simples pour Gérer 1-5 Logements Sans Stress"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603309767"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Exam Prep Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603309791"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Families and Boost Your Revenue"
+    },
+    {
+      "t": "2026-10-26T07:51:10",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603332626"
     }
   ],
   "alive": true,
@@ -12247,6 +12328,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-10-26T00:25:43",
       "img": true
+    },
+    {
+      "slug": "explore-black-forest-germany",
+      "title": "探索德国黑森林：自然与文化的完美融合",
+      "lang": "zh",
+      "topic": "Schwarzwald",
+      "created": "2026-10-26T07:51:10",
+      "img": true
+    },
+    {
+      "slug": "descubre-la-saarschleife-en-el-sarre-alemania",
+      "title": "Descubre la Saarschleife en el Sarre, Alemania: un paisaje de ensueño",
+      "lang": "es",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-26T07:51:10",
+      "img": true
     }
   ],
   "videos": [
@@ -13228,6 +13325,16 @@
       "hashtags": "#Múnich #Marienplatz #Baviera #Alemania #ViajesEuropa",
       "voice": "¡El Marienplatz es el alma vibrante de Múnich! Maravíllate con el famoso Glockenspiel, un reloj de cuento que cobra vida con figuras danzantes. Rodea de arquitectura centenaria, disfruta una auténtica pretzel y deja que el ambiente bávaro te envuelva.  Cada rincón aquí es una postal llena de encanto europeo. ✨ #DescubrEuropa",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-la-saarschleife-en-el-sarre-alemania",
+      "title": "Descubre la Saarschleife en el Sarre, Alemania: un paisaje de ensueño",
+      "lang": "es",
+      "created": "2026-10-26T07:51:10",
+      "hashtags": "#Saarland #Saarschleife #NaturalezaAlemana #Cloef #TurismoEnAlemania",
+      "voice": "¡Bienvenidos al Saarland y su maravillosa Saarschleife! Este impresionante meandro del río Saar es uno de los paisajes más icónicos de Alemania. Desde el mirador Cloef, podrás admirar vistas panorámicas que te dejarán sin aliento. Ideal para senderistas y amantes de la naturaleza, este lugar ofrece paz y belleza en cada rincón. ¡Ven y déjate sorprender por este tesoro natural!",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
