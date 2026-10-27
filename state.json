@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 429.3305,
-  "spent_eur": 75.3398,
+  "balance_eur": 428.344,
+  "spent_eur": 76.3263,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -5804,7 +5804,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Studien. Keine Regelverstöße. Der Text ist klar und praxisorientiert, ohne Gesundheitsversprechen, Finanz- oder Rechtsberatung. Lediglich der Abbruch bei Kapitel 3 könnte als unfertig wirken, ist aber kein Grund für die Entfernung.",
       "pay_url": "https://buy.stripe.com/fZu28s8EhdxNciG9IM2kw3y",
       "payment_link_id": "plink_1UQSjEJ5iOXkWb9Vzu7Nzume",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4604011263"
+      }
     },
     {
       "type": "excel",
@@ -5828,7 +5831,10 @@
       "audit_note": "Der Inhalt ist konform mit den Regeln. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Das Produkt ist eine Excel-Vorlage mit klaren Funktionsbeschreibungen und Beispielrechnungen, die als solche erkennbar sind. Die Sprache ist durchgängig Spanisch. Es gibt keine sachli",
       "pay_url": "https://buy.stripe.com/aFa3cw07LdxN96u08c2kw3z",
       "payment_link_id": "plink_1UQXHkJ5iOXkWb9VuWYoEUN0",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4604011279"
+      }
     },
     {
       "type": "ebook",
@@ -5852,7 +5858,10 @@
       "audit_note": "Die Prozentzahl '60%' ist nicht belegt und wurde wahrscheinlich erfunden. Der Rest des Inhalts ist jedoch korrekt und folgt den Regeln.",
       "pay_url": "https://buy.stripe.com/fZueVe3jXalB5Ui9IM2kw3A",
       "payment_link_id": "plink_1UQbVmJ5iOXkWb9VD6NuAPeT",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4604011301"
+      }
     },
     {
       "type": "excel",
@@ -9621,124 +9630,81 @@
       "pay_url": "https://buy.stripe.com/9B63cwcUxctJfuScUY2kx1Z",
       "payment_link_id": "plink_1UUzJaJ5iOXkWb9VQKWlHnSW",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "高效课堂管理：7个简单策略提升教学效果",
+      "slug": "gao-xiao-ke-tang-guan-li-7-ge-jian-dan-ce-lue-ti-sheng-jiao-xue-xiao-guo",
+      "price_eur": 5,
+      "target": "教师和补习教师",
+      "reason": "中国和周边地区的教师面临日益增长的工作压力，急需实用有效的课堂管理工具而不是理论。这本电子书提供直接的、可操作的方法，特别适合文化背景相近的华语教师群体。价格合理且内容立即实用，能满足教师们的迫切需求。",
+      "language": "zh",
+      "pitch": "这本电子书提供了7个经过验证的课堂管理策略，帮助教师节省时间并提高学生参与度。无需繁琐理论，只有实用步骤，可立即应用。",
+      "content_html": "<h2>内容</h2><ol><li>第一章：建立清晰的课堂规则</li><li>第二章：积极奖励系统的力量</li><li>第三章：有效的非语言沟通技巧</li><li>第四章：分组活动的组织艺术</li><li>第五章：处理干扰的实用方法</li><li>第六章：个性化学习支持策略</li><li>第七章：建立持久的学习动力</li></ol>",
+      "pro": false,
+      "created": "2026-10-27T07:56:16",
+      "file": "gao-xiao-ke-tang-guan-li-7-ge-jian-dan-ce-lue-ti-sheng-jiao-xue-xiao-guo-b45f78077e31debf.pdf",
+      "size": 1784,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Statistiken, Prozentzahlen oder Quellen. Es werden nur allgemein bekannte Praxistipps und keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/9B6fZi2fTalB82q7AE2kx20",
+      "payment_link_id": "plink_1UV5LQJ5iOXkWb9VrfbVRxha",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Suivi des Dépenses de Soins & Budget pour Personnes Âgées",
+      "slug": "suivi-depenses-soins-seniors",
+      "price_eur": 11,
+      "target": "familles et organisations de soins gérant des budgets de santé pour seniors",
+      "reason": "Les familles et organisations ont besoin d'un outil simple pour gérer le budget santé croissant des seniors, avec visualisation claire des dépenses et alertes utiles pour éviter les oublis.",
+      "language": "fr",
+      "pitch": "Optimisez le budget santé de vos aînés avec un suivi précis des dépenses médicales et des rendez-vous. Gain de temps et meilleure anticipation des coûts.",
+      "content_html": "<h2>Contenu</h2><p>Un outil complet pour suivre les dépenses de santé, médicaments et soins à domicile, avec alertes pour les renouvellements et visualisation des tendances.</p>",
+      "pro": true,
+      "created": "2026-10-27T07:56:16",
+      "file": "suivi-depenses-soins-seniors-28f6d6ac96058a8c.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Kriterien: Es enthält keine erfundenen Statistiken, Prozentzahlen oder Quellen, keine Beratung oder Gesundheitsversprechen, keine Marken oder fremden Figuren. Die Sprache ist konsequent Französisch, die Texte sind vollständig und enthalten keine Platzhalter. Die Beispielrechn",
+      "pay_url": "https://buy.stripe.com/4gMfZidYB79pciG1cg2kx21",
+      "payment_link_id": "plink_1UV5LQJ5iOXkWb9VJihLtOvN",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité",
+      "slug": "guide-pratique-freelance-organisation-boost",
+      "price_eur": 7.99,
+      "target": "Freelancers et indépendants francophones cherchant à mieux organiser leur activité et augmenter leurs revenus",
+      "reason": "Les freelances francophones ont besoin de guides pratiques spécifiquement adaptés à leur marché. Ce livre comble un manque en offrant des solutions simples et immédiatement applicables, sans jargon inutile. Le format en 7 étapes permet une progression claire tout en ajoutant une valeur tangible avec les templates inclus.",
+      "language": "fr",
+      "pitch": "Découvrez 7 étapes concrètes pour structurer efficacement votre travail en freelance et attirer plus de clients sans stress. Des stratégies simples et des outils pratiques pour gagner en efficacité chaque jour !",
+      "content_html": "<h2>Contenu</h2><p>Ce guide vous propose une méthode claire pour organiser votre activité freelance, optimiser votre temps et trouver plus facilement des clients. Basé sur des techniques éprouvées, il est spécialement adapté au marché francophone.</p><h3>Extrait gratuit :</h3><p>Découvrez comment créer un système simple pour suivre vos projets et vos finances en moins de 30 minutes par jour (chapitre 3).</p>",
+      "pro": false,
+      "created": "2026-10-27T07:56:16",
+      "file": "guide-pratique-freelance-organisation-boost-436af1fa7db565a3.pdf",
+      "size": 1746,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Die Prozentzahlen '20%' und '30%' sind nicht mit einer allgemein bekannten Quelle belegt und könnten erfunden sein. Der Rest des Inhalts hält sich an die Regeln und ist größtenteils frei von sachlichen Fehlern oder Regelverstößen.",
+      "pay_url": "https://buy.stripe.com/3cI6oIf2F79pgyW4os2kx22",
+      "payment_link_id": "plink_1UV5LRJ5iOXkWb9VrGwNrPZj",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.0011267999999999999,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (en)"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.001086,
-      "why": "Blog-Artikel: Frankfurt Skyline (zh)"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.00034319999999999994,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Nordsee & Ostsee Reisebudget-Tracker & Routenplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602673801"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Entdecke Rhein, Frankfurt & Heidelberg: Der ultimative Reiseführer für Familien und Solo-Reisende"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602699538"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Travel Expense Tracker & Itinerary Planner"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602699560"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.024399599999999997,
-      "why": "KI-Denken: 自由职业者的高效工作指南：7步提升你的生产力与收入"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.0038855999999999995,
-      "why": "KI-Pruefung: 自由职业者的高效工作指南：7步提升你的生产力与收入"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.16,
-      "why": "KI-Bilder: 自由职业者的高效工作指南：7步提升你的生产力与收入"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.0199536,
-      "why": "KI-Denken: Planificateur de Budget & Itinéraire pour le Voyage en Forêt-Noire"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.0011676,
-      "why": "KI-Pruefung: Planificateur de Budget & Itinéraire pour le Voyage en Forêt-Noire"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.026690400000000003,
-      "why": "KI-Denken: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.0043152,
-      "why": "KI-Pruefung: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.16,
-      "why": "KI-Bilder: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-10-25T11:43:47",
-      "eur": -0.0039515999999999996,
-      "why": "Audit: 自由职业者的高效工作指南：7步提升你的生产力与收入"
-    },
-    {
-      "t": "2026-10-25T11:43:47",
-      "eur": -0.0025907999999999994,
-      "why": "Audit: Planificateur de Budget & Itinéraire pour le Voyage en Forêt-Noire"
-    },
-    {
-      "t": "2026-10-25T11:43:47",
-      "eur": -0.0038891999999999998,
-      "why": "Audit: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs a"
-    },
     {
       "t": "2026-10-25T11:37:08",
       "eur": 0,
@@ -10628,6 +10594,121 @@
       "t": "2026-10-27T01:30:41",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603900604"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.025583999999999992,
+      "why": "KI-Denken: 高效课堂管理：7个简单策略提升教学效果"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.0037871999999999997,
+      "why": "KI-Pruefung: 高效课堂管理：7个简单策略提升教学效果"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.16,
+      "why": "KI-Bilder: 高效课堂管理：7个简单策略提升教学效果"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.020978399999999998,
+      "why": "KI-Denken: Suivi des Dépenses de Soins & Budget pour Personnes Âgées"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.0010164,
+      "why": "KI-Pruefung: Suivi des Dépenses de Soins & Budget pour Personnes Âgées"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.027159600000000002,
+      "why": "KI-Denken: Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.003964799999999999,
+      "why": "KI-Pruefung: Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-10-27T08:02:39",
+      "eur": -0.0038459999999999996,
+      "why": "Audit: 高效课堂管理：7个简单策略提升教学效果"
+    },
+    {
+      "t": "2026-10-27T08:02:39",
+      "eur": -0.0032279999999999995,
+      "why": "Audit: Suivi des Dépenses de Soins & Budget pour Personnes Âgées"
+    },
+    {
+      "t": "2026-10-27T08:02:39",
+      "eur": -0.0037007999999999997,
+      "why": "Audit: Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.0014831999999999998,
+      "why": "Blog-Artikel: Saechsische Schweiz (de)"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.0012611999999999999,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (en)"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.00036359999999999995,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behaved Pup"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604011263"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Mudanza y Renovación Profesional: Control de Presupuesto y Tiempo"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604011279"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
+    },
+    {
+      "t": "2026-10-27T07:56:16",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604011301"
     }
   ],
   "alive": true,
@@ -12617,6 +12698,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-10-27T01:30:41",
       "img": true
+    },
+    {
+      "slug": "saechsische-schweiz-entdecken-naturwunder-wanderparadies",
+      "title": "Die Sächsische Schweiz entdecken: Naturwunder und Wanderparadies",
+      "lang": "de",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-27T07:56:16",
+      "img": true
+    },
+    {
+      "slug": "discover-the-majestic-rugen-chalk-cliffs-a-must-see-gem-in-g",
+      "title": "Discover the Majestic Rügen Chalk Cliffs: A Must-See Gem in Germany",
+      "lang": "en",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-27T07:56:16",
+      "img": true
     }
   ],
   "videos": [
@@ -13638,6 +13735,16 @@
       "hashtags": "#Neuschwanstein #Bavière #ChâteauDeRêve #RomantismeAllemand #PatrimoineMondial",
       "voice": "Découvrez Neuschwanstein, le château de rêve qui semble tout droit sorti d'un conte de fées. Perché sur une colline en Bavière, il offre des vues panoramiques à couper le souffle. Ce chef-d'œuvre architectural, inspiré par le roi Louis II de Bavière, est un symbole du romantisme allemand. Ses salles richement décorées et son ambiance magique en font une destination incontournable pour les amateurs d'histoire et de beauté. Préparez-vous à être émerveillé !",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-the-majestic-rugen-chalk-cliffs-a-must-see-gem-in-g",
+      "title": "Discover the Majestic Rügen Chalk Cliffs: A Must-See Gem in Germany",
+      "lang": "en",
+      "created": "2026-10-27T07:56:16",
+      "hashtags": "#Rügen #Kreidefelsen #BalticSea #NatureGermany #TravelGermany",
+      "voice": "Welcome to Rügen’s Kreidefelsen, Germany’s breathtaking chalk cliffs! These stunning white cliffs rise majestically over the Baltic Sea, offering dramatic views and unforgettable natural beauty. Explore the trails, stand atop the famous Königsstuhl lookout, and immerse yourself in this unique landscape. A paradise for photographers, hikers, and nature lovers alike, the Kreidefelsen are a must-see destination.",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
