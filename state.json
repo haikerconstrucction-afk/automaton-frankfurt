@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 428.0996,
-  "spent_eur": 76.5707,
+  "balance_eur": 427.796,
+  "spent_eur": 76.8743,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9774,119 +9774,81 @@
       "pay_url": "https://buy.stripe.com/5kQeVef2FeBR2I67AE2kx25",
       "payment_link_id": "plink_1UVBiqJ5iOXkWb9VDAaPmIDx",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bayerische Alpen Entdecken: Der ultimative Roadtrip-Guide für Selbstständige und Freiberufler",
+      "slug": "bayerische-alpen-roadtrip-guide-freelancer",
+      "price_eur": 7.9,
+      "target": "Selbstständige und Freiberufler, die Inspiration für Workations oder entspannte Roadtrips in den bayerischen Alpen suchen",
+      "reason": "Speziell für Selbstständige konzipiert, die die Flexibilität des Freelancer-Daseins mit inspirierenden Reiseerlebnissen verbinden wollen. Bietet praktische Tipps, die normale Reiseführer nicht enthalten (wie stabile Internetverbindungen und Arbeitsplätze in den Bergen) und spricht damit eine bisher vernachlässigte Zielgruppe an.",
+      "language": "de",
+      "pitch": "Perfekte Balance zwischen Arbeit und Natur - entdecke die schönsten Ecken der bayerischen Alpen mit diesem praktischen Guide speziell für selbstständige Reisende. Inklusive Tipps für Coworking-Spots mit Alpenblick!",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Die perfekte Vorbereitung für freelancerfreundliche Reisen</li><li>Kapitel 2: 7 einzigartige Routen abseits der Touristenströme</li><li>Kapitel 3: Coworking mit Panoramablick - die besten Spots</li><li>Kapitel 4: Budgetplanung für flexible Reisezeiten</li><li>Kapitel 5: Lokale Geheimtipps von Einheimischen</li><li>Kapitel 6: Inspiration für Work-Life-Balance in den Bergen</li></ul><p>Leseprobe: \"Als Freelancer hat man den Luxus, sich seine Arbeitszeit frei einzuteilen - warum also nicht den Laptop mit in die Berge nehmen? In diesem Guide zeigen wir Ihnen, wie Sie beides verbinden...\"</p>",
+      "pro": false,
+      "created": "2026-10-27T20:44:15",
+      "file": "bayerische-alpen-roadtrip-guide-freelancer-897b6dd80e04036c.pdf",
+      "size": 1645,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Zahlen oder Statistiken, klare Tipps und allgemein bekannte Fakten.",
+      "pay_url": "https://buy.stripe.com/9B6bJ2aMpdxNgyW1cg2kx26",
+      "payment_link_id": "plink_1UVHMsJ5iOXkWb9VuTJHCcMp",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Baltic & North Sea Travel Budget Planner for Female Explorers",
+      "slug": "baltic-north-sea-travel-budget-planner-female-explorers",
+      "price_eur": 9,
+      "target": "Women traveling solo or with friends to the Baltic and North Sea regions in Germany",
+      "reason": "This product fills a niche for female travelers seeking a comprehensive and easy-to-use tool for managing their travel budget and itinerary, especially for the Baltic and North Sea regions. It offers practical features like expense tracking, itinerary planning, and currency conversion, making it a valuable tool for stress-free travel planning.",
+      "language": "en",
+      "pitch": "Effortlessly manage your travel budget and itinerary for a stress-free trip to Germany's Baltic and North Sea coasts.",
+      "content_html": "<h2>Content</h2><p>Plan your trip with ease using this professional Excel template designed specifically for female travelers exploring the Baltic and North Sea regions. Track expenses, manage your itinerary, and visualize your budget with intuitive tools.</p>",
+      "pro": true,
+      "created": "2026-10-27T20:44:15",
+      "file": "baltic-north-sea-travel-budget-planner-female-explorers-4a8950909d620f2a.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen festgestellt. Der Inhalt ist klar, ehrlich und ohne Regelverstöße. Die Beispieldaten sind plausibel und die Formeln/Tabellen sinnvoll. Der Fokus liegt auf allgemein bekannten Fakten und eigenen Praxistipps.",
+      "pay_url": "https://buy.stripe.com/5kQ14o4o11P55Uig7a2kx27",
+      "payment_link_id": "plink_1UVHMtJ5iOXkWb9VpNF7zS5R",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rhine Valley",
+      "slug": "romantic-rhine-getaways-female-travel-guide",
+      "price_eur": 5,
+      "target": "Women aged 25-55 who enjoy safe, culturally rich solo or small group travel in Germany",
+      "reason": "Current travel guides rarely address specific concerns of female travelers. This provides practical safety tips alongside cultural insights, filling a market gap in the Rhein-Main travel niche.",
+      "language": "en",
+      "pitch": "Discover hidden gems and practical travel tips for the Rhine region. Perfect for female travelers who want authentic experiences beyond the tourist crowds.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: Perfect Itinerary for 3-5 Days</li><li>Chapter 2: Safe & Charming Accommodations</li><li>Chapter 3: Best Photo Spots & Viewpoints</li><li>Chapter 4: Local Dining Secrets</li><li>Chapter 5: Easy Public Transport Guide</li><li>Chapter 6: Seasonal Packing Tips</li><li>Bonus: Interactive Map Links</li></ul>",
+      "pro": false,
+      "created": "2026-10-27T20:44:15",
+      "file": "romantic-rhine-getaways-female-travel-guide-63d46389770d08b3.pdf",
+      "size": 1847,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist legal, ehrlich und frei von Spam oder falschen Beratungen. Es wurden keine erfundenen Studien, Statistiken oder Quellen verwendet. Der Text ist vollständig, ohne Platzhalter oder Wiederholungen. Sachliche Fehler oder Regelverstöße sind nicht erkennbar. Lediglich der Ausdruck 'according to",
+      "pay_url": "https://buy.stripe.com/00w7sM9IlctJ5Ui2gk2kx28",
+      "payment_link_id": "plink_1UVHMuJ5iOXkWb9VcYr9c5jR",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.025542,
-      "why": "KI-Denken: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.0036287999999999997,
-      "why": "KI-Pruefung: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.16,
-      "why": "KI-Bilder: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.020016,
-      "why": "KI-Denken: Ostsee & Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.0010872,
-      "why": "KI-Pruefung: Ostsee & Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.020385599999999997,
-      "why": "KI-Denken: Ostsee & Nordsee Reisekosten-Tracker & Budgetplaner"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.0012768,
-      "why": "KI-Pruefung: Ostsee & Nordsee Reisekosten-Tracker & Budgetplaner"
-    },
-    {
-      "t": "2026-10-25T16:32:56",
-      "eur": -0.0032448,
-      "why": "Audit: NRW Family City Trip Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-25T16:32:56",
-      "eur": -0.0033443999999999995,
-      "why": "Audit: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
-    },
-    {
-      "t": "2026-10-25T16:32:56",
-      "eur": -0.0018816,
-      "why": "Audit: Ostsee & Nordsee Reisekosten-Tracker & Budgetplaner"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.0014796,
-      "why": "Blog-Artikel: Dresden Frauenkirche (de)"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.0012371999999999997,
-      "why": "Blog-Artikel: Harz Brocken (en)"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.000336,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.026117999999999995,
-      "why": "KI-Denken: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstständige und Freiberufler"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.0040584,
-      "why": "KI-Pruefung: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstständige und Freiberufler"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.04,
-      "why": "KI-Bilder: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstständige und Freiberufler"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.020304,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.0012984,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
     {
       "t": "2026-10-25T20:55:11",
       "eur": -0.025155599999999997,
@@ -10776,6 +10738,116 @@
       "t": "2026-10-27T14:42:40",
       "eur": -0.00035879999999999994,
       "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.0281712,
+      "why": "KI-Denken: Bayerische Alpen Entdecken: Der ultimative Roadtrip-Guide für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.004242,
+      "why": "KI-Pruefung: Bayerische Alpen Entdecken: Der ultimative Roadtrip-Guide für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.021115199999999997,
+      "why": "KI-Denken: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.0214308,
+      "why": "KI-Denken: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.0012288,
+      "why": "KI-Pruefung: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.021313199999999997,
+      "why": "KI-Denken: Ultimate Baltic & North Sea Travel Budget Planner for Female Explorers"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.0010068,
+      "why": "KI-Pruefung: Ultimate Baltic & North Sea Travel Budget Planner for Female Explorers"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.0266484,
+      "why": "KI-Denken: Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rhine Valley"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.0033647999999999994,
+      "why": "KI-Pruefung: Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rhine Valley"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.16,
+      "why": "KI-Bilder: Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rhine Valley"
+    },
+    {
+      "t": "2026-10-27T20:52:58",
+      "eur": -0.0038832,
+      "why": "Audit: Bayerische Alpen Entdecken: Der ultimative Roadtrip-Guide für Selbstständige und"
+    },
+    {
+      "t": "2026-10-27T20:52:58",
+      "eur": -0.0039851999999999995,
+      "why": "Audit: Ultimate Baltic & North Sea Travel Budget Planner for Female Explorers"
+    },
+    {
+      "t": "2026-10-27T20:52:58",
+      "eur": -0.0032064,
+      "why": "Audit: Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rh"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.0014135999999999999,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (fr)"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.0012923999999999998,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (de)"
+    },
+    {
+      "t": "2026-10-27T20:44:15",
+      "eur": -0.0004044,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
     }
   ],
   "alive": true,
@@ -12797,6 +12869,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-10-27T14:42:40",
       "img": true
+    },
+    {
+      "slug": "decouvrez-rothenburg-ob-der-tauber-un-joyau-medieval-en-alle",
+      "title": "Découvrez Rothenburg ob der Tauber : un joyau médiéval en Allemagne",
+      "lang": "fr",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-27T20:44:15",
+      "img": true
+    },
+    {
+      "slug": "berlin-brandenburger-tor-reisetipps",
+      "title": "Berlin entdecken: Das Brandenburger Tor und seine Geheimnisse",
+      "lang": "de",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-27T20:44:15",
+      "img": true
     }
   ],
   "videos": [
@@ -13838,6 +13926,16 @@
       "hashtags": "#Frankfurt #Skyline #Alemania #Viajes #Europa",
       "voice": "¡Descubre Frankfurt, la ciudad que te deja sin aliento! Con su impresionante skyline, Frankfurt combina lo mejor de la modernidad y la tradición. Pasea por el río Meno, admira los rascacielos que desafían el cielo y disfruta de su vibrante vida urbana. ¡Frankfurt te espera para vivir una experiencia única en cada rincón!",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "berlin-brandenburger-tor-reisetipps",
+      "title": "Berlin entdecken: Das Brandenburger Tor und seine Geheimnisse",
+      "lang": "de",
+      "created": "2026-10-27T20:44:15",
+      "hashtags": "#BrandenburgerTor #Berlin #Deutschland #Wahrzeichen #Geschichte",
+      "voice": "Das Brandenburger Tor – ein monumentales Symbol deutscher Geschichte und Einheit! Majestätisch thront es im Herzen Berlins und zieht jährlich Millionen Besucher in seinen Bann. Mit seiner eindrucksvollen klassizistischen Architektur und der berühmten Quadriga ist es nicht nur ein fotogenes Highlight, sondern auch ein Ort, der Geschichten erzählt. Erlebt selbst die Magie dieses UNESCO-Weltkulturerbes und lasst euch von seiner historischen Bedeutung beeindrucken!",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
