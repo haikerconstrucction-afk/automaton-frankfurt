@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 430.19,
-  "spent_eur": 74.4803,
+  "balance_eur": 429.3305,
+  "spent_eur": 75.3398,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -5723,7 +5723,10 @@
       "audit_note": "Der Prozentuale Budgetverbrauch ist höher als 100 %, was im vorliegenden Beispiel nicht plausibel ist. Es handelt sich um eine falsche Berechnung, aber kein klarer Regelverstoß gegen die Inhaltsrichtlinien.",
       "pay_url": "https://buy.stripe.com/bJe28s1bP1P50zY7AE2kw3v",
       "payment_link_id": "plink_1UQMyNJ5iOXkWb9VsmNzke27",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4603900568"
+      }
     },
     {
       "type": "ebook",
@@ -5747,7 +5750,10 @@
       "audit_note": "Der Inhalt ist legal, ehrlich und bietet praktische Tipps ohne falsche Behauptungen oder erfundene Studien. Die Sprache ist konsistent und es gibt keine unerlaubten Inhalte. Einige Stellen könnten detaillierter sein, aber insgesamt ist das E-Book gut strukturiert und hilfreich.",
       "pay_url": "https://buy.stripe.com/bJeaEY1bP2T9eqO6wA2kw3w",
       "payment_link_id": "plink_1UQSjCJ5iOXkWb9VFaUCo1vH",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4603878793"
+      }
     },
     {
       "type": "excel",
@@ -5771,7 +5777,10 @@
       "audit_note": "Der Inhalt ist größtenteils klar und korrekt. Es gibt keine erfundenen Statistiken, Prozentzahlen oder Quellen. Die Excel-Formeln sind plausibel und die Beispielrechnungen stimmen mit den Daten überein. Es gibt keine Regelverstöße wie Rechts-, Steuer-, Finanz- oder Medizinberatung, Gesundheitsverspr",
       "pay_url": "https://buy.stripe.com/9B69AU3jXctJ82q8EI2kw3x",
       "payment_link_id": "plink_1UQSjDJ5iOXkWb9Vu6ttH5V1",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4603900604"
+      }
     },
     {
       "type": "ebook",
@@ -9540,144 +9549,81 @@
       "pay_url": "https://buy.stripe.com/4gM5kE7Ad8dtgyWg7a2kx1W",
       "payment_link_id": "plink_1UUvC5J5iOXkWb9VOgbrsHVA",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Mudanza Profesional para Autónomos: Control de Presupuesto y Tiempo",
+      "slug": "planificador-mudanza-renovacion-autonomos",
+      "price_eur": 9,
+      "target": "Hombres autónomos y pequeños empresarios que gestionan su propia mudanza o renovación",
+      "reason": "Este planificador resuelve el caos típico de las mudanzas profesionales con una herramienta estructurada para controlar todos los aspectos, desde el presupuesto hasta el cronograma, optimizando tiempo y dinero.",
+      "language": "es",
+      "pitch": "Organiza tu mudanza como un profesional: calcula costes, planifica plazos y controla gastos con esta herramienta todo-en-uno.",
+      "content_html": "<h2>Incluye</h2><ul><li>Presupuesto detallado</li><li>Calendario de tareas</li><li>Seguimiento de proveedores</li><li>Dashboard de control</li></ul>",
+      "pro": true,
+      "created": "2026-10-27T01:30:41",
+      "file": "planificador-mudanza-renovacion-autonomos-2a12d5f85902dc39.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist klar, ehrlich und frei von erfundenen Zahlen, Statistiken oder Gesundheitsversprechen. Die Beispieldaten sind plausibel und entsprechen den berechneten Kennzahlen. Es gibt keine Rechts-, Steuer- oder Finanzberatung. Die Sprache ist konsistent Spanisch und es gibt keine Platzhalter ode",
+      "pay_url": "https://buy.stripe.com/28E28sdYBalB96uaMQ2kx1X",
+      "payment_link_id": "plink_1UUzJYJ5iOXkWb9VajuQR5sM",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Pasos Clave para un Huerto Autosuficiente en Casa",
+      "slug": "7-pasos-clave-para-huerto-autosuficiente",
+      "price_eur": 5,
+      "target": "Hombres interesados en autosuficiencia y horticultura urbana, España y Latinoamérica",
+      "reason": "Muchos hombres buscan soluciones prácticas para ser más autosuficientes, especialmente en zonas urbanas. Este ebook llena un vacío al ofrecer consejos realistas, con lenguaje claro y ejemplos visuales que facilitan el inicio en la horticultura doméstica.",
+      "language": "es",
+      "pitch": "Descubre cómo cultivar tus propios alimentos todo el año, incluso en espacios pequeños. Ahorra dinero y come más sano con técnicas probadas y consejos prácticos.",
+      "content_html": "<h2>Contenido</h2><p>Guía paso a paso para crear y mantener un huerto autosuficiente en casa, con ejemplos reales y soluciones a problemas comunes.</p>",
+      "pro": false,
+      "created": "2026-10-27T01:30:41",
+      "file": "7-pasos-clave-para-huerto-autosuficiente-1adbd231960182e3.pdf",
+      "size": 1592,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die Prozentzahlen '100%' und '60%' sind nicht wissenschaftlich belegt und könnten als erfunden angesehen werden. Der Inhalt ist jedoch insgesamt informativ und frei von anderen Regelverstößen wie Spam, rechtlichen oder finanziellen Beratungen. Die Sprache ist korrekt Spanisch, und es gibt keine unfe",
+      "pay_url": "https://buy.stripe.com/28EeVe5s58dt2I69IM2kx1Y",
+      "payment_link_id": "plink_1UUzJZJ5iOXkWb9V57Kf5Agb",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube广告收入与成本追踪器",
+      "slug": "youtube-ad-revenue-expense-tracker",
+      "price_eur": 9,
+      "target": "YouTube内容创作者",
+      "reason": "YouTube内容创作者需要清晰了解哪些视频最具盈利性，以便优化内容策略。这个工具通过自动化的数据分析和可视化，帮助他们做出数据驱动的决策。",
+      "language": "zh",
+      "pitch": "专业追踪您的YouTube广告收入和视频制作成本，优化您的盈利策略。",
+      "content_html": "<h2>内容</h2><p>这款Excel模板帮助您系统化追踪每个视频的广告收入和相关支出，分析盈利能力。</p>",
+      "pro": true,
+      "created": "2026-10-27T01:30:41",
+      "file": "youtube-ad-revenue-expense-tracker-32293b523adb5c3a.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine Excel-Vorlage zur Einnahmen- und Ausgabenverfolgung für YouTube. Es enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Beispielwerte sind klar als solche gekennzeichnet. Die Formeln und Berechnungen sind plausibel und entsprechen den angegebenen Funkt",
+      "pay_url": "https://buy.stripe.com/9B63cwcUxctJfuScUY2kx1Z",
+      "payment_link_id": "plink_1UUzJaJ5iOXkWb9VQKWlHnSW",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": -0.019899599999999996,
-      "why": "KI-Denken: Ultimate Moving & Renovation Budget Tracker for Women: Professional Expense Planner"
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": -0.0013067999999999999,
-      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Tracker for Women: Professional Expense Planner"
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": -0.024295199999999992,
-      "why": "KI-Denken: The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient Garden"
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": -0.0035195999999999995,
-      "why": "KI-Pruefung: The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient Garden"
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient Garden"
-    },
-    {
-      "t": "2026-10-24T22:58:27",
-      "eur": -0.0038736,
-      "why": "Audit: Hundepflege leicht gemacht: 7 praktische Schritte für einen entspannten Alltag m"
-    },
-    {
-      "t": "2026-10-24T22:58:27",
-      "eur": -0.0043092,
-      "why": "Audit: Ultimate Moving & Renovation Budget Tracker for Women: Professional Expense Plan"
-    },
-    {
-      "t": "2026-10-24T22:58:27",
-      "eur": -0.0033587999999999995,
-      "why": "Audit: The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient "
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": -0.0014087999999999998,
-      "why": "Blog-Artikel: Saechsische Schweiz (fr)"
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": -0.001398,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (de)"
-    },
-    {
-      "t": "2026-10-24T22:50:07",
-      "eur": -0.0004139999999999999,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.019520399999999997,
-      "why": "KI-Denken: Planificador de Ingresos y Gastos para Creadores de Contenido"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.0010056,
-      "why": "KI-Pruefung: Planificador de Ingresos y Gastos para Creadores de Contenido"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.026703599999999994,
-      "why": "KI-Denken: El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar tus clases"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.0037895999999999997,
-      "why": "KI-Pruefung: El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar tus clases"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.16,
-      "why": "KI-Bilder: El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar tus clases"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.01941,
-      "why": "KI-Denken: 智能老年护理预算与健康追踪器"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能老年护理预算与健康追踪器"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.0193776,
-      "why": "KI-Denken: 智能老年护理预算与健康追踪器"
-    },
-    {
-      "t": "2026-10-25T04:46:43",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能老年护理预算与健康追踪器"
-    },
-    {
-      "t": "2026-10-25T04:52:02",
-      "eur": -0.0035231999999999998,
-      "why": "Audit: Planificador de Ingresos y Gastos para Creadores de Contenido"
-    },
-    {
-      "t": "2026-10-25T04:52:02",
-      "eur": -0.003642,
-      "why": "Audit: El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar"
-    },
-    {
-      "t": "2026-10-25T04:52:02",
-      "eur": -0.0021311999999999998,
-      "why": "Audit: 智能老年护理预算与健康追踪器"
-    },
     {
       "t": "2026-10-25T04:46:43",
       "eur": 0,
@@ -10542,6 +10488,146 @@
       "t": "2026-10-26T21:02:57",
       "eur": -0.00033839999999999993,
       "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.020713199999999998,
+      "why": "KI-Denken: Planificador de Mudanza Profesional para Autónomos: Control de Presupuesto y Tiempo"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Mudanza Profesional para Autónomos: Control de Presupuesto y Tiempo"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.026354399999999997,
+      "why": "KI-Denken: 7 Pasos Clave para un Huerto Autosuficiente en Casa"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.0043776,
+      "why": "KI-Pruefung: 7 Pasos Clave para un Huerto Autosuficiente en Casa"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Pasos Clave para un Huerto Autosuficiente en Casa"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.020465999999999998,
+      "why": "KI-Denken: 智能YouTube视频分析与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能YouTube视频分析与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.020842799999999998,
+      "why": "KI-Denken: YouTube收入与成本追踪器 - 专业版2026"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.0010248,
+      "why": "KI-Pruefung: YouTube收入与成本追踪器 - 专业版2026"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.020798399999999998,
+      "why": "KI-Denken: YouTube广告收入与成本追踪器"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube广告收入与成本追踪器"
+    },
+    {
+      "t": "2026-10-27T01:35:50",
+      "eur": -0.0023292,
+      "why": "Audit: Planificador de Mudanza Profesional para Autónomos: Control de Presupuesto y Tie"
+    },
+    {
+      "t": "2026-10-27T01:35:50",
+      "eur": -0.0039743999999999995,
+      "why": "Audit: 7 Pasos Clave para un Huerto Autosuficiente en Casa"
+    },
+    {
+      "t": "2026-10-27T01:35:50",
+      "eur": -0.0025344,
+      "why": "Audit: YouTube广告收入与成本追踪器"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.0015167999999999998,
+      "why": "Blog-Artikel: Heidelberg Altstadt (es)"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.0012047999999999998,
+      "why": "Blog-Artikel: Neuschwanstein (fr)"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.00042119999999999994,
+      "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimativer Reisebudget-Tracker & Packlisten-Planer (2026 Edition)"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603900568"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603878793"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-10-27T01:30:41",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603900604"
     }
   ],
   "alive": true,
@@ -12515,6 +12601,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-10-26T21:02:57",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-guia-para-explorar-el-corazon-historico-",
+      "title": "Heidelberg Altstadt: Guía para Explorar el Corazón Histórico de Alemania",
+      "lang": "es",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-27T01:30:41",
+      "img": true
+    },
+    {
+      "slug": "neuschwanstein-chateau-conte-fees-allemagne",
+      "title": "Neuschwanstein : Le château de conte de fées en Allemagne",
+      "lang": "fr",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-27T01:30:41",
+      "img": true
     }
   ],
   "videos": [
@@ -13526,6 +13628,16 @@
       "hashtags": "#MoselCochem #德国旅游 #摩泽尔河谷 #科赫姆城堡 #自然美景",
       "voice": "欢迎来到摩泽尔河谷的明珠——科赫姆！这里不仅有雄伟的城堡和迷人的葡萄园，还有传统德国小镇的独特风情。乘船游览摩泽尔河，感受如画的河湾美景。无论是历史爱好者还是自然爱好者，科赫姆都会让你流连忘返！",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "neuschwanstein-chateau-conte-fees-allemagne",
+      "title": "Neuschwanstein : Le château de conte de fées en Allemagne",
+      "lang": "fr",
+      "created": "2026-10-27T01:30:41",
+      "hashtags": "#Neuschwanstein #Bavière #ChâteauDeRêve #RomantismeAllemand #PatrimoineMondial",
+      "voice": "Découvrez Neuschwanstein, le château de rêve qui semble tout droit sorti d'un conte de fées. Perché sur une colline en Bavière, il offre des vues panoramiques à couper le souffle. Ce chef-d'œuvre architectural, inspiré par le roi Louis II de Bavière, est un symbole du romantisme allemand. Ses salles richement décorées et son ambiance magique en font une destination incontournable pour les amateurs d'histoire et de beauté. Préparez-vous à être émerveillé !",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
