@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 428.344,
-  "spent_eur": 76.3263,
+  "balance_eur": 428.0996,
+  "spent_eur": 76.5707,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9702,94 +9702,81 @@
       "pay_url": "https://buy.stripe.com/3cI6oIf2F79pgyW4os2kx22",
       "payment_link_id": "plink_1UV5LRJ5iOXkWb9VrGwNrPZj",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Black Forest Travel Budget & Expense Tracker for Families",
+      "slug": "black-forest-travel-budget-tracker-families",
+      "price_eur": 9,
+      "target": "Families traveling to the Black Forest looking for a professional tool to manage their travel budget and expenses.",
+      "reason": "Families traveling to the Black Forest need a clear and professional tool to manage their budgets and ensure a smooth vacation experience. This template provides an organized, interactive solution.",
+      "language": "en",
+      "pitch": "Plan your Black Forest adventure with ease. Track expenses, manage your budget, and enjoy stress-free family trips with this all-in-one travel planner.",
+      "content_html": "<h2>Content</h2><p>This Excel template helps families plan their Black Forest trip by tracking expenses, managing budgets, and visualizing spending with interactive charts. It includes pre-filled example rows and dropdowns for easy categorization.</p>",
+      "pro": true,
+      "created": "2026-10-27T14:42:40",
+      "file": "black-forest-travel-budget-tracker-families-1f5948d9058a9385.xlsx",
+      "size": 3,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar, sachlich und erfindet keine Zahlen, Statistiken oder Quellen. Die Formeln sind plausibel und sinnvoll für die Anwendung. Es gibt keine Regelverstöße oder Fehlangaben. Lediglich die wiederholte IF-Funktion im 'Expenses'-Blatt könnte optimiert werden, jedoch ist dies kein Grund fü",
+      "pay_url": "https://buy.stripe.com/14A7sMf2FdxN6YmaMQ2kx23",
+      "payment_link_id": "plink_1UVBioJ5iOXkWb9VhHVrvLgd",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Discovering Saarland & Mosel with Kids: A Family-Friendly Travel Guide",
+      "slug": "discovering-saarland-mosel-with-kids-family-friendly-travel-guide",
+      "price_eur": 5,
+      "target": "Families traveling to Saarland and Mosel",
+      "reason": "This guide fills a gap in the market by providing a detailed, family-focused travel plan for Saarland and Mosel, ensuring parents have all the information they need for a memorable trip with their children.",
+      "language": "en",
+      "pitch": "Explore the hidden gems of Saarland & Mosel with your family! This guide offers 7 fun-filled days of activities, trails, and local secrets, perfect for creating unforgettable family memories.",
+      "content_html": "<h2>Inhalt</h2> Inhaltsverzeichnis + Leseprobe",
+      "pro": false,
+      "created": "2026-10-27T14:42:40",
+      "file": "discovering-saarland-mosel-with-kids-family-friendly-travel-guide-9a2fae112c3ea58d.pdf",
+      "size": 1670,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Es gibt keine sachlichen Fehler, Rechts-, Steuer-, Finanz- oder Medizinberatung. Der Text ist vollständig und klar strukturiert, ohne Platzhalter oder Wiederholungen. Die Informationen basieren auf allgemein bekann",
+      "pay_url": "https://buy.stripe.com/eVqbJ2aMpbpF6Ym2gk2kx24",
+      "payment_link_id": "plink_1UVBipJ5iOXkWb9VCf9vqMe1",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimativer NRW-Reisebudget-Tracker & Routeplaner für Selbstständige",
+      "slug": "nrw-reisebudget-tracker-routeplaner",
+      "price_eur": 9,
+      "target": "Selbstständige, Freelancer und Geschäftsreisende, die geschäftliche Reisen innerhalb von NRW effizient planen und budgetieren möchten.",
+      "reason": "Diese Vorlage bietet eine umfassende Lösung zur Planung und Budgetierung von Geschäftsreisen innerhalb von NRW. Sie ermöglicht es, Ausgaben zu kategorisieren, Differenzen zu ermitteln und die Budgetplanung effizient anzupassen.",
+      "language": "de",
+      "pitch": "Planen, budgetieren und optimieren Sie Ihre Geschäftsreisen in NRW mit einer professionellen Excel-Vorlage.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Ihnen dabei, Ihre Reisen innerhalb von NRW effizient zu planen, das Budget zu verwalten und die Kosten zu optimieren. Perfekt für Selbstständige und Freelancer, die viel unterwegs sind.</p>",
+      "pro": true,
+      "created": "2026-10-27T14:42:40",
+      "file": "nrw-reisebudget-tracker-routeplaner-dc900e67dd1e93f7.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Studien, Statistiken oder Quellen, keine Rechts-, Steuer- oder Finanzberatung, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Die Beispieldaten sind plausibel und klar markiert. Keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/5kQeVef2FeBR2I67AE2kx25",
+      "payment_link_id": "plink_1UVBiqJ5iOXkWb9VDAaPmIDx",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.001872,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (es)"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.0014807999999999998,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (fr)"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.0003744,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Saxon Charm: A Female Traveler's Guide to Dresden & Saxony's Hidden Gems"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602805280"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Control y Calculadora de Presupuestos para Talleres"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602780281"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Historias Mágicas para Pequeños Soñadores: 7 Cuentos para Dormir"
-    },
-    {
-      "t": "2026-10-25T11:37:08",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4602780295"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.019893599999999997,
-      "why": "KI-Denken: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.001014,
-      "why": "KI-Pruefung: Ultimate NRW Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.019959599999999997,
-      "why": "KI-Denken: NRW Family City Trip Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-10-25T16:27:12",
-      "eur": -0.0011388,
-      "why": "KI-Pruefung: NRW Family City Trip Budget Planner & Itinerary Tracker"
-    },
     {
       "t": "2026-10-25T16:27:12",
       "eur": -0.025542,
@@ -10709,6 +10696,86 @@
       "t": "2026-10-27T07:56:16",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604011301"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.020841599999999995,
+      "why": "KI-Denken: Ultimate Black Forest Travel Budget & Expense Tracker for Families"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget & Expense Tracker for Families"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.0260532,
+      "why": "KI-Denken: Discovering Saarland & Mosel with Kids: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.0036095999999999997,
+      "why": "KI-Pruefung: Discovering Saarland & Mosel with Kids: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.16,
+      "why": "KI-Bilder: Discovering Saarland & Mosel with Kids: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.021226799999999997,
+      "why": "KI-Denken: Ultimativer NRW-Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.0010655999999999999,
+      "why": "KI-Pruefung: Ultimativer NRW-Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-27T14:50:59",
+      "eur": -0.0020088,
+      "why": "Audit: Ultimate Black Forest Travel Budget & Expense Tracker for Families"
+    },
+    {
+      "t": "2026-10-27T14:50:59",
+      "eur": -0.0033107999999999996,
+      "why": "Audit: Discovering Saarland & Mosel with Kids: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-10-27T14:50:59",
+      "eur": -0.002214,
+      "why": "Audit: Ultimativer NRW-Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.0010811999999999998,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (zh)"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.0016163999999999998,
+      "why": "Blog-Artikel: Frankfurt Skyline (es)"
+    },
+    {
+      "t": "2026-10-27T14:42:40",
+      "eur": -0.00035879999999999994,
+      "why": "Video-Skript: Frankfurt Skyline"
     }
   ],
   "alive": true,
@@ -12714,6 +12781,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-10-27T07:56:16",
       "img": true
+    },
+    {
+      "slug": "tan-suo-han-bao-cang-ku-cheng-li-shi-yu-xian-dai-jiao-zhi-de",
+      "title": "探索汉堡仓库城：历史与现代交织的水上迷宫",
+      "lang": "zh",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-27T14:42:40",
+      "img": true
+    },
+    {
+      "slug": "la-impresionante-skyline-de-frankfurt-guia-para-explorar-la-",
+      "title": "La impresionante Skyline de Frankfurt: Guía para explorar la capital financiera de Alemania",
+      "lang": "es",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-27T14:42:40",
+      "img": true
     }
   ],
   "videos": [
@@ -13745,6 +13828,16 @@
       "hashtags": "#Rügen #Kreidefelsen #BalticSea #NatureGermany #TravelGermany",
       "voice": "Welcome to Rügen’s Kreidefelsen, Germany’s breathtaking chalk cliffs! These stunning white cliffs rise majestically over the Baltic Sea, offering dramatic views and unforgettable natural beauty. Explore the trails, stand atop the famous Königsstuhl lookout, and immerse yourself in this unique landscape. A paradise for photographers, hikers, and nature lovers alike, the Kreidefelsen are a must-see destination.",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "la-impresionante-skyline-de-frankfurt-guia-para-explorar-la-",
+      "title": "La impresionante Skyline de Frankfurt: Guía para explorar la capital financiera de Alemania",
+      "lang": "es",
+      "created": "2026-10-27T14:42:40",
+      "hashtags": "#Frankfurt #Skyline #Alemania #Viajes #Europa",
+      "voice": "¡Descubre Frankfurt, la ciudad que te deja sin aliento! Con su impresionante skyline, Frankfurt combina lo mejor de la modernidad y la tradición. Pasea por el río Meno, admira los rascacielos que desafían el cielo y disfruta de su vibrante vida urbana. ¡Frankfurt te espera para vivir una experiencia única en cada rincón!",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
