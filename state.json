@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 425.9197,
-  "spent_eur": 78.7506,
+  "balance_eur": 425.6295,
+  "spent_eur": 79.0408,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10008,124 +10008,81 @@
       "pay_url": "https://buy.stripe.com/eVq9AU2fTbpFaay1cg2kx2e",
       "payment_link_id": "plink_1UVSXUJ5iOXkWb9Va98EdE31",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Fitness Progress Tracker for Families",
+      "slug": "ultimate-family-fitness-progress-tracker",
+      "price_eur": 9,
+      "target": "Families looking to track their fitness progress together",
+      "reason": "This tracker provides families with a simple yet effective way to monitor their fitness journey together, helping them stay motivated and achieve their health goals.",
+      "language": "en",
+      "pitch": "Effortlessly track your family's fitness journey with this comprehensive Excel tracker, designed for simplicity and effectiveness.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps families monitor their fitness goals, track progress, and stay motivated with easy-to-use features and visualizations.</p>",
+      "pro": true,
+      "created": "2026-10-28T16:41:24",
+      "file": "ultimate-family-fitness-progress-tracker-6e99d012cb02e134.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt erfüllt die Regeln, keine erfundenen Zahlen oder Statistiken, klare Beispielrechnungen, keine Gesundheitsversprechen oder Beratung. Kleinere Verbesserungspotenziale bei der Plausibilitätsprüfung der berechneten Kennzahlen (z.B. durchschnittliche Kalorienverbrennung sollte auf Basis aller Tag",
+      "pay_url": "https://buy.stripe.com/6oU00kbQt65lgyWg7a2kx2f",
+      "payment_link_id": "plink_1UVa0jJ5iOXkWb9VO04EiRLu",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress",
+      "slug": "small-landlord-big-profits",
+      "price_eur": 9.99,
+      "target": "Small-scale landlords managing 1-5 rental properties who want to streamline operations and maximize profits",
+      "reason": "Existing products focus either on technical legal aspects or broad real estate investing. This fills the gap with practical, day-to-day systems specifically for hands-on small landlords who need better organization without complexity. The family-friendly approach (without being condescending) makes it stand out in this market.",
+      "language": "en",
+      "pitch": "Turn your rental properties into a stress-free income stream with this practical, step-by-step guide. Learn organization systems that save time and keep tenants happy.",
+      "content_html": "<h2>Content</h2><p>The complete blueprint for efficient property management, from tenant screening to cost-effective maintenance strategies.</p>",
+      "pro": false,
+      "created": "2026-10-28T16:41:24",
+      "file": "small-landlord-big-profits-704c9c13862fa7d9.pdf",
+      "size": 1954,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Erfundene Prozentzahlen gefunden (30%, 4%, 1.4%, 20-30%). Keine allgemein bekannten Grundlagen für diese Zahlen. Sonst keine Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/9B68wQ07L9hx2I63ko2kx2g",
+      "payment_link_id": "plink_1UVa0kJ5iOXkWb9V5CyhX1fq",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Prüfungsvorbereitungs-Budget & Lernfortschritt Tracker",
+      "slug": "pruefungsvorbereitungs-budget-lernfortschritt-tracker",
+      "price_eur": 9,
+      "target": "Studierende",
+      "reason": "Diese Vorlage bietet Studierenden eine einfache Möglichkeit, ihre Prüfungsvorbereitung effektiv zu organisieren. Sie kombiniert Budgetplanung mit Lernzielverfolgung und bietet klare Einblicke in den Fortschritt und die Kosten.",
+      "language": "de",
+      "pitch": "Organisiere deine Prüfungsvorbereitung effizient: Verwalte Lernbudget, Fortschritt und Materialkosten in einer professionellen Excel-Vorlage.",
+      "content_html": "<h2>Inhalt</h2><p>Organisiere und verfolge alle Aspekte deiner Prüfungsvorbereitung an einem Ort. Entwickle realistische Lernziele, verteile die verfügbare Zeit effektiv und behalte deinen Entscheidungsspielraum finanziell im Blick.</p>",
+      "pro": true,
+      "created": "2026-10-28T16:41:24",
+      "file": "pruefungsvorbereitungs-budget-lernfortschritt-tracker-2cacbe1c1578df20.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist korrekt und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert und die Sprache ist durchgehend Deutsch. Es gibt keine Regelverstöße.",
+      "pay_url": "https://buy.stripe.com/7sYbJ2g6JalBgyW9IM2kx2h",
+      "payment_link_id": "plink_1UVa0kJ5iOXkWb9VuDXFXxoQ",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.0010884,
-      "why": "Blog-Artikel: Schwarzwald (zh)"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.0014567999999999998,
-      "why": "Blog-Artikel: Saarland Saarschleife (es)"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.00042359999999999994,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Petit Guide du Vermieter Intelligent: 7 Stratégies Simples pour Gérer 1-5 Logements Sans Stress"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603309767"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Exam Prep Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603309791"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Ultimate Family-Friendly Restaurant Guide: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603332626"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.020307599999999995,
-      "why": "KI-Denken: Exam Countdown & Study Budget Planner"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Exam Countdown & Study Budget Planner"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.026588399999999998,
-      "why": "KI-Denken: Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.003414,
-      "why": "KI-Pruefung: Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.16,
-      "why": "KI-Bilder: Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.020729999999999995,
-      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.0011064,
-      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Selbstständige"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 7 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.020566799999999996,
-      "why": "KI-Denken: Ultimative Reise-Packlisten-Planerin & Budget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.0010115999999999999,
-      "why": "KI-Pruefung: Ultimative Reise-Packlisten-Planerin & Budget-Tracker für Selbstständige"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.020539199999999997,
-      "why": "KI-Denken: Ultimativer Roadtrip-Kosten-Tracker & Packlisten-Planer"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimativer Roadtrip-Kosten-Tracker & Packlisten-Planer"
-    },
     {
       "t": "2026-10-26T15:14:29",
       "eur": 0,
@@ -11015,6 +10972,116 @@
       "t": "2026-10-28T08:38:03",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604769056"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.021442799999999998,
+      "why": "KI-Denken: Smart Family Fitness Planner & Progress Tracker"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Smart Family Fitness Planner & Progress Tracker"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.021407999999999996,
+      "why": "KI-Denken: Smart Family Fitness Progress Tracker & Meal Planner"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Smart Family Fitness Progress Tracker & Meal Planner"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.0215352,
+      "why": "KI-Denken: Ultimate Fitness Progress Tracker for Families"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Fitness Progress Tracker for Families"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.0270924,
+      "why": "KI-Denken: Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.0032195999999999995,
+      "why": "KI-Pruefung: Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.16,
+      "why": "KI-Bilder: Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.021655199999999996,
+      "why": "KI-Denken: Prüfungsvorbereitungs-Budget & Lernfortschritt Tracker"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Prüfungsvorbereitungs-Budget & Lernfortschritt Tracker"
+    },
+    {
+      "t": "2026-10-28T16:47:15",
+      "eur": -0.0013716,
+      "why": "Audit: Ultimate Fitness Progress Tracker for Families"
+    },
+    {
+      "t": "2026-10-28T16:47:15",
+      "eur": -0.0030816,
+      "why": "Audit: Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress"
+    },
+    {
+      "t": "2026-10-28T16:47:15",
+      "eur": -0.0022344,
+      "why": "Audit: Prüfungsvorbereitungs-Budget & Lernfortschritt Tracker"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.0014927999999999999,
+      "why": "Blog-Artikel: Eifel Maare (de)"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.0013067999999999999,
+      "why": "Blog-Artikel: Rheingau Weinberge (en)"
+    },
+    {
+      "t": "2026-10-28T16:41:24",
+      "eur": -0.00038399999999999996,
+      "why": "Video-Skript: Rheingau Weinberge"
     }
   ],
   "alive": true,
@@ -13083,6 +13150,22 @@
       "lang": "fr",
       "topic": "Muenchen Marienplatz",
       "created": "2026-10-28T08:38:03",
+      "img": true
+    },
+    {
+      "slug": "abenteuer-eifel-maare-deutschlands-faszinierende-vulkanseen",
+      "title": "Abenteuer Eifel Maare: Deutschlands faszinierende Vulkanseen",
+      "lang": "de",
+      "topic": "Eifel Maare",
+      "created": "2026-10-28T16:41:24",
+      "img": false
+    },
+    {
+      "slug": "discover-stunning-rheingau-vineyards-germanys-wine-paradise",
+      "title": "Discover the Stunning Rheingau Vineyards: A Guide to Germany’s Wine Paradise",
+      "lang": "en",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-28T16:41:24",
       "img": true
     }
   ],
