@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 427.796,
-  "spent_eur": 76.8743,
+  "balance_eur": 426.906,
+  "spent_eur": 77.7643,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -5885,7 +5885,10 @@
       "audit_note": "Das Produkt ist klar strukturiert und erfüllt alle Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind plausibel und klar als solche markiert. Es gibt keine Regelverstöße.",
       "pay_url": "https://buy.stripe.com/3cI4gAcUx51hdmK7AE2kw3B",
       "payment_link_id": "plink_1UQbVnJ5iOXkWb9VWaqHIVhM",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4604612072"
+      }
     },
     {
       "type": "ebook",
@@ -5909,7 +5912,10 @@
       "audit_note": "Der Inhalt ist weitgehend regelkonform und bietet praktische Tipps. Allerdings wurde eine spezifische Prozentzahl (80%) ohne bekannte Grundlage verwendet, die entfernt werden sollte. Keine klaren Regelverstöße.",
       "pay_url": "https://buy.stripe.com/4gMeVe7Ad8dtciG2gk2kw3C",
       "payment_link_id": "plink_1UQbVoJ5iOXkWb9VHZV0tHvn",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4604589783"
+      }
     },
     {
       "type": "excel",
@@ -5933,7 +5939,10 @@
       "audit_note": "Das Produkt ist inhaltlich korrekt, es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Es enthält auch keine Platzhalter oder unfertigen Texte. Die Excel-Formeln und Berechnungen sind plausibel und entsprechen den Beispieldaten. Es wird keine Beratung in den Bereichen Recht, Steuern, ",
       "pay_url": "https://buy.stripe.com/fZu4gA2fT79paaycUY2kw3D",
       "payment_link_id": "plink_1UQgf6J5iOXkWb9VdjPLvNkv",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4604612122"
+      }
     },
     {
       "type": "ebook",
@@ -9846,159 +9855,81 @@
       "pay_url": "https://buy.stripe.com/00w7sM9IlctJ5Ui2gk2kx28",
       "payment_link_id": "plink_1UVHMuJ5iOXkWb9VcYr9c5jR",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Viajes para Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos",
+      "slug": "planificador-viajes-berlin-potsdam-hombres",
+      "price_eur": 12,
+      "target": "Hombres que viajan por negocios o placer a Berlín y Potsdam, solos o en grupo",
+      "reason": "Este producto llena un vacío en la oferta actual de guías de viaje: una herramienta práctica específicamente diseñada para viajeros hombres en Berlín y Potsdam, con consejos realistas y un enfoque en control presupuestario sin perder experiencias auténticas.",
+      "language": "es",
+      "pitch": "Organiza tu viaje a Berlín y Potsdam como un profesional: controla gastos, planifica rutas y descubre los mejores lugares con esta guía práctica en Excel.",
+      "content_html": "<h2>Contenido</h2><p>Todo lo que necesitas para planificar un viaje perfecto a Berlín y Potsdam: desde el presupuesto inicial hasta los imprescindibles que ver.</p>",
+      "pro": true,
+      "created": "2026-10-28T01:26:11",
+      "file": "planificador-viajes-berlin-potsdam-hombres-54cca7da4a01ca5b.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Enthält nur allgemein bekannte Fakten und klare Beispielrechnungen. Die Excel-Funktionen sind korrekt und sinnvoll. Kleinere Unstimmigkeit bei 'Gasto promedio/día' aufgrund leerer Zellen in den Beispieldaten, aber kein schwerwiegender Fehler.",
+      "pay_url": "https://buy.stripe.com/bJe14odYBbpF3Ma3ko2kx29",
+      "payment_link_id": "plink_1UVLkUJ5iOXkWb9VBYMtqKQ2",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos",
+      "slug": "descubre-dresden-y-sus-alrededores-guia-practica-viajeros-masculinos",
+      "price_eur": 5,
+      "target": "Hombres interesados en viajar a Dresden y explorar su cultura e historia.",
+      "reason": "Este ebook proporciona una guía completa y práctica para hombres que desean explorar Dresden y sus alrededores, con itinerarios específicos y consejos útiles para maximizar la experiencia de viaje.",
+      "language": "es",
+      "pitch": "Descubre los rincones más fascinantes de Dresden con esta guía práctica diseñada para viajeros masculinos. Aprende a aprovechar al máximo tu viaje con itinerarios, consejos útiles y recomendaciones locales.",
+      "content_html": "<h2>Inhalt</h2> <ul> <li>Introducción a Dresden</li> <li>Itinerarios recomendados</li> <li>Consejos prácticos para viajeros</li> <li>Gastronomía local</li> <li>Actividades al aire libre</li> <li>Transporte y alojamiento</li> </ul>",
+      "pro": false,
+      "created": "2026-10-28T01:26:11",
+      "file": "descubre-dresden-y-sus-alrededores-guia-practica-viajeros-masculinos-f9c25c24c61e642e.pdf",
+      "size": 1539,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend korrekt und entspricht den Regeln. Es wurden keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen gefunden. Die Sprache ist konsistent Spanisch, und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Es gibt keine sachlichen Fehler oder unerlaubte B",
+      "pay_url": "https://buy.stripe.com/7sY3cw7AddxN0zYf362kx2a",
+      "payment_link_id": "plink_1UVLkVJ5iOXkWb9VhXHrnIB6",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能报价计算器与施工现场管理表 - 2026专业版",
+      "slug": "smart-quotation-site-management-tracker",
+      "price_eur": 9,
+      "target": "Handwerksbetriebe",
+      "reason": "这款集成报价、成本与进度管理的Excel模板，适用于手工艺企业，帮助优化项目管理流程，提升透明度与效率。",
+      "language": "zh",
+      "pitch": "优化报价流程，实时跟踪施工现场成本与进度，提升效率与透明度。",
+      "content_html": "<h2>内容</h2><p>这款专业的Excel模板专为手工艺企业设计，简化报价流程并实时跟踪施工现场的成本与进度，确保项目透明化管理。</p>",
+      "pro": true,
+      "created": "2026-10-28T01:26:11",
+      "file": "smart-quotation-site-management-tracker-7f672f7a4e4b59f5.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine Regelverstöße festgestellt. Das Produkt ist eine standardisierte Excel-Vorlage ohne erfundene Studien, Statistiken oder irreführende Angaben. Alle Berechnungen basieren auf den Nutzereingaben und sind nachvollziehbar.",
+      "pay_url": "https://buy.stripe.com/dRmeVe7Ad3Xd0zY8EI2kx2b",
+      "payment_link_id": "plink_1UVLkWJ5iOXkWb9V3UmaBH2D",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.025155599999999997,
-      "why": "KI-Denken: Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.0035267999999999996,
-      "why": "KI-Pruefung: Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.16,
-      "why": "KI-Bilder: Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers"
-    },
-    {
-      "t": "2026-10-25T21:07:54",
-      "eur": -0.0037955999999999992,
-      "why": "Audit: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstst"
-    },
-    {
-      "t": "2026-10-25T21:07:54",
-      "eur": -0.0024564,
-      "why": "Audit: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-10-25T21:07:54",
-      "eur": -0.0032652,
-      "why": "Audit: Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.0009588,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (zh)"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.0014711999999999998,
-      "why": "Blog-Artikel: Muenchen Marienplatz (es)"
-    },
-    {
-      "t": "2026-10-25T20:55:11",
-      "eur": -0.00039359999999999997,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.020067599999999998,
-      "why": "KI-Denken: Planificador de Presupuestos y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Presupuestos y Mediciones para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.0203688,
-      "why": "KI-Denken: Calculadora Avanzada de Presupuestos para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.00108,
-      "why": "KI-Pruefung: Calculadora Avanzada de Presupuestos para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.026055599999999998,
-      "why": "KI-Denken: 7 Aventuras Mágicas para la Hora de Dormir: Cuentos Cortos para Niños de 3 a 8 Años"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.0042239999999999995,
-      "why": "KI-Pruefung: 7 Aventuras Mágicas para la Hora de Dormir: Cuentos Cortos para Niños de 3 a 8 Años"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1324 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.027483600000000004,
-      "why": "KI-Denken: 7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.004486799999999999,
-      "why": "KI-Pruefung: 7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.020161199999999997,
-      "why": "KI-Denken: 智能婚礼预算追踪器 & 供应商管理器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能婚礼预算追踪器 & 供应商管理器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-26T00:36:17",
-      "eur": -0.0029939999999999997,
-      "why": "Audit: Calculadora Avanzada de Presupuestos para Talleres de Construcción"
-    },
-    {
-      "t": "2026-10-26T00:36:17",
-      "eur": -0.00399,
-      "why": "Audit: 7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años"
-    },
-    {
-      "t": "2026-10-26T00:36:17",
-      "eur": -0.0034728,
-      "why": "Audit: 智能婚礼预算追踪器 & 供应商管理器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-26T00:25:43",
       "eur": 0,
@@ -10848,6 +10779,161 @@
       "t": "2026-10-27T20:44:15",
       "eur": -0.0004044,
       "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.021852,
+      "why": "KI-Denken: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.0013847999999999998,
+      "why": "KI-Pruefung: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.021979199999999997,
+      "why": "KI-Denken: Berlin & Potsdam Trip Planner: Budget & Itinerary for Solo Male Travelers"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.0014135999999999999,
+      "why": "KI-Pruefung: Berlin & Potsdam Trip Planner: Budget & Itinerary for Solo Male Travelers"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 7 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.021693599999999997,
+      "why": "KI-Denken: Planificador de Viajes para Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.0012288,
+      "why": "KI-Pruefung: Planificador de Viajes para Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.026909999999999996,
+      "why": "KI-Denken: Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.004298399999999999,
+      "why": "KI-Pruefung: Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.16,
+      "why": "KI-Bilder: Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.021302399999999996,
+      "why": "KI-Denken: 智能施工现场报价与成本追踪器"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能施工现场报价与成本追踪器"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.021920399999999996,
+      "why": "KI-Denken: 智能报价计算器与施工现场管理表 - 2026专业版"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.0013716,
+      "why": "KI-Pruefung: 智能报价计算器与施工现场管理表 - 2026专业版"
+    },
+    {
+      "t": "2026-10-28T01:33:35",
+      "eur": -0.0026112,
+      "why": "Audit: Planificador de Viajes para Berlín y Potsdam: Presupuesto, Itinerario y Consejos"
+    },
+    {
+      "t": "2026-10-28T01:33:35",
+      "eur": -0.0039071999999999996,
+      "why": "Audit: Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-10-28T01:33:35",
+      "eur": -0.0042672,
+      "why": "Audit: 智能报价计算器与施工现场管理表 - 2026专业版"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.0013559999999999998,
+      "why": "Blog-Artikel: Dresden Frauenkirche (en)"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.0011076,
+      "why": "Blog-Artikel: Harz Brocken (zh)"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.00034319999999999994,
+      "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: YouTube广告收入与成本追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604612072"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604589783"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Soins et Budget pour Aidants Familiaux"
+    },
+    {
+      "t": "2026-10-28T01:26:11",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604612122"
     }
   ],
   "alive": true,
@@ -12885,6 +12971,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-10-27T20:44:15",
       "img": true
+    },
+    {
+      "slug": "discover-the-dresden-frauenkirche-a-symbol-of-resilience-and",
+      "title": "Discover the Dresden Frauenkirche: A Symbol of Resilience and Beauty",
+      "lang": "en",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-28T01:26:11",
+      "img": true
+    },
+    {
+      "slug": "harz-brocken-deutschland-reise",
+      "title": "德国哈尔茨山脉的布罗肯山：一次难忘的高地之旅",
+      "lang": "zh",
+      "topic": "Harz Brocken",
+      "created": "2026-10-28T01:26:11",
+      "img": true
     }
   ],
   "videos": [
@@ -13936,6 +14038,16 @@
       "hashtags": "#BrandenburgerTor #Berlin #Deutschland #Wahrzeichen #Geschichte",
       "voice": "Das Brandenburger Tor – ein monumentales Symbol deutscher Geschichte und Einheit! Majestätisch thront es im Herzen Berlins und zieht jährlich Millionen Besucher in seinen Bann. Mit seiner eindrucksvollen klassizistischen Architektur und der berühmten Quadriga ist es nicht nur ein fotogenes Highlight, sondern auch ein Ort, der Geschichten erzählt. Erlebt selbst die Magie dieses UNESCO-Weltkulturerbes und lasst euch von seiner historischen Bedeutung beeindrucken!",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "harz-brocken-deutschland-reise",
+      "title": "德国哈尔茨山脉的布罗肯山：一次难忘的高地之旅",
+      "lang": "zh",
+      "created": "2026-10-28T01:26:11",
+      "hashtags": "#布罗肯山 #德国旅行 #徒步天堂 #自然奇观 #女巫传说",
+      "voice": "欢迎来到德国的布罗肯山！这里不仅是德国最高的山峰，还充满了神秘与传奇。传说中，这里是女巫的聚集地，尤其是在每年的瓦普几斯之夜。无论你是徒步爱好者，还是自然风光的追随者，布罗肯山都能让你流连忘返。四季变幻的景色，让人仿佛置身于童话世界。快来体验这片神奇的土地吧！",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
