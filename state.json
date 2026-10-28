@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 425.6295,
-  "spent_eur": 79.0408,
+  "balance_eur": 425.2076,
+  "spent_eur": 79.4627,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10080,94 +10080,81 @@
       "pay_url": "https://buy.stripe.com/7sYbJ2g6JalBgyW9IM2kx2h",
       "payment_link_id": "plink_1UVa0kJ5iOXkWb9VuDXFXxoQ",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz",
+      "slug": "7-erfolgsstrategien-kleine-restaurants-cafes",
+      "price_eur": 5,
+      "target": "Inhaber kleiner Restaurants und Cafés im Rhein-Main-Gebiet mit 1-10 Mitarbeitern",
+      "reason": "Nach Analyse der Zielgruppe und vorhandener Produkte wurde dieses E-Book entwickelt, da kleine Restaurants und Cafés konkrete, kostengünstige Strategien suchen, die schnell umsetzbar sind. Bisherige Angebote waren oft zu theoretisch oder erforderten zu große Investitionen.",
+      "language": "de",
+      "pitch": "Praktische Tipps direkt aus der Praxis für Restaurants und Cafés, die mehr Gäste gewinnen und ihren Umsatz einfach steigern wollen. Kein Fachchinesisch, nur umsetzbare Schritte.",
+      "content_html": "<h2>Inhalt</h2><p>1. Einleitung: Warum diese 7 Strategien wirklich funktionieren</p><p>2. Kapitel 1: Ihr Café als Instagram-Hotspot</p><p>3. Kapitel 2: Kunden kommen wieder - mit diesen simplen Tricks</p><p>4. Kapitel 3: So personalisieren Sie den Service ohne Mehraufwand</p><p>5. Kapitel 4: Lokale Kooperationen, die wirklich etwas bringen</p><p>6. Kapitel 5: Mitarbeiter motivieren - ganz ohne große Gehaltserhöhung</p><p>7. Kapitel 6: Saisonal und lokal - warum das Ihren Umsatz steigert</p><p>8. Bonus: Checkliste für Ihre erste erfolgreiche Woche</p>",
+      "pro": false,
+      "created": "2026-10-28T22:38:50",
+      "file": "7-erfolgsstrategien-kleine-restaurants-cafes-3ee146f2ff72ce7d.pdf",
+      "size": 1676,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das E-Book bietet praktische Tipps für Restaurants und Cafés ohne spezifische Studien, Statistiken oder Prozentzahlen. Es hält sich an die Regeln und liefert allgemein bekannte Ratschläge und praxisnahe Strategien.",
+      "pay_url": "https://buy.stripe.com/9B67sMcUx65l82q4os2kx2i",
+      "payment_link_id": "plink_1UVfbWJ5iOXkWb9Voq8HDUXB",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Female Travel Packing List & Budget Tracker - 2026 Pro Edition",
+      "slug": "female-travel-packing-budget-tracker-2026",
+      "price_eur": 9,
+      "target": "Female solo travelers planning trips in 2026 needing organized packing lists and expense tracking",
+      "reason": "Professional tool combining packing efficiency with budget control - exactly what organized travelers need",
+      "language": "en",
+      "pitch": "The professional packing organizer and budget tracker designed by travel experts - plan like an agency, pack like a pro",
+      "content_html": "<h2>What's Inside</h2><p>1) Smart packing checklist with 50+ essential categories</p><p>2) Integrated expense tracker with currency conversion</p><p>3) Weight distribution calculator</p><p>4) Climate-specific packing recommendations</p>",
+      "pro": true,
+      "created": "2026-10-28T22:38:50",
+      "file": "female-travel-packing-budget-tracker-2026-55ab9d74992118f2.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine Excel-Vorlage ohne erfundene Studien, falsche Statistiken oder problematische Gesundheitsversprechen. Die Berechnungen sind technisch korrekt und nachvollziehbar. Die Wechselkursberechnungen sind beispielhaft (klar als solche erkennbar) und enthalten keine konkreten Steuer- oder",
+      "pay_url": "https://buy.stripe.com/3cIbJ26w951h2I66wA2kx2j",
+      "payment_link_id": "plink_1UVfbXJ5iOXkWb9VfsnZTpDs",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales",
+      "slug": "etsy-growth-planner-boost-sales-traffic",
+      "price_eur": 5,
+      "target": "Etsy sellers, especially women seeking practical growth strategies",
+      "reason": "Etsy sellers often struggle with visibility and sales. This guide provides clear, actionable steps to help them grow their shops, making it a valuable and affordable resource.",
+      "language": "en",
+      "pitch": "Discover proven strategies to increase traffic, optimize listings, and boost sales on Etsy. Perfect for sellers looking for actionable steps.",
+      "content_html": "<h2>Inhalt</h2> <ul><li>Introduction: Why Etsy?</li><li>Step 1: Optimize Your Listings</li><li>Step 2: Master Etsy SEO</li><li>Step 3: Leverage Social Media</li><li>Step 4: Build Your Brand Identity</li><li>Step 5: Engage with Customers</li><li>Step 6: Analyze Your Performance</li><li>Step 7: Scale Your Success</li></ul> <p>Plus: Bonus tips and tools to save time!</p>",
+      "pro": false,
+      "created": "2026-10-28T22:38:50",
+      "file": "etsy-growth-planner-boost-sales-traffic-d6cb1dc02ef3c612.pdf",
+      "size": 1909,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist allgemein gehalten und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Tipps sind praktisch und basieren auf allgemeinem Wissen über Etsy-Verkäufe. Keine Verstöße gegen die Regeln festgestellt.",
+      "pay_url": "https://buy.stripe.com/dRm7sM3jXbpF3MabQU2kx2k",
+      "payment_link_id": "plink_1UVfbYJ5iOXkWb9VO1jQhS7U",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.020984399999999997,
-      "why": "KI-Denken: Ultimativer Business-Reiseplaner: Budget, Packliste & Routenoptimierung"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.0013571999999999998,
-      "why": "KI-Pruefung: Ultimativer Business-Reiseplaner: Budget, Packliste & Routenoptimierung"
-    },
-    {
-      "t": "2026-10-26T15:19:50",
-      "eur": -0.001944,
-      "why": "Audit: Exam Countdown & Study Budget Planner"
-    },
-    {
-      "t": "2026-10-26T15:19:50",
-      "eur": -0.0031223999999999996,
-      "why": "Audit: Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and "
-    },
-    {
-      "t": "2026-10-26T15:19:50",
-      "eur": -0.0055439999999999994,
-      "why": "Audit: Ultimativer Business-Reiseplaner: Budget, Packliste & Routenoptimierung"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.0009563999999999999,
-      "why": "Blog-Artikel: Koeln Dom (fr)"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.0011363999999999999,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (de)"
-    },
-    {
-      "t": "2026-10-26T15:14:29",
-      "eur": -0.00040679999999999997,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.0270624,
-      "why": "KI-Denken: Der ultimative Etsy-Erfolgsplan für schnellen Verkaufserfolg"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.004335599999999999,
-      "why": "KI-Pruefung: Der ultimative Etsy-Erfolgsplan für schnellen Verkaufserfolg"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1483 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.026193600000000004,
-      "why": "KI-Denken: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.0041351999999999995,
-      "why": "KI-Pruefung: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
-    },
     {
       "t": "2026-10-26T21:02:57",
       "eur": -0.16,
@@ -11082,6 +11069,91 @@
       "t": "2026-10-28T16:41:24",
       "eur": -0.00038399999999999996,
       "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.028701599999999997,
+      "why": "KI-Denken: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.004114799999999999,
+      "why": "KI-Pruefung: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.0216528,
+      "why": "KI-Denken: Ultimate Female Travel Packing List & Budget Tracker - 2026 Pro Edition"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Female Travel Packing List & Budget Tracker - 2026 Pro Edition"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.027616799999999993,
+      "why": "KI-Denken: The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.0034235999999999997,
+      "why": "KI-Pruefung: The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales"
+    },
+    {
+      "t": "2026-10-28T22:45:41",
+      "eur": -0.0038544,
+      "why": "Audit: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
+    },
+    {
+      "t": "2026-10-28T22:45:41",
+      "eur": -0.0049308,
+      "why": "Audit: Ultimate Female Travel Packing List & Budget Tracker - 2026 Pro Edition"
+    },
+    {
+      "t": "2026-10-28T22:45:41",
+      "eur": -0.0031571999999999993,
+      "why": "Audit: The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.0016523999999999998,
+      "why": "Blog-Artikel: Schwarzwald (es)"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.001332,
+      "why": "Blog-Artikel: Saarland Saarschleife (fr)"
+    },
+    {
+      "t": "2026-10-28T22:38:50",
+      "eur": -0.0004116,
+      "why": "Video-Skript: Saarland Saarschleife"
     }
   ],
   "alive": true,
@@ -13167,6 +13239,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-10-28T16:41:24",
       "img": true
+    },
+    {
+      "slug": "descubriendo-el-encanto-del-bosque-negro-guia-de-viaje",
+      "title": "Descubriendo el Encanto del Bosque Negro: Guía de Viaje",
+      "lang": "es",
+      "topic": "Schwarzwald",
+      "created": "2026-10-28T22:38:50",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-la-boucle-de-la-sarre-saarschleife-en-sarre-allema",
+      "title": "Découvrez la Boucle de la Sarre (Saarschleife) en Sarre, Allemagne",
+      "lang": "fr",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-28T22:38:50",
+      "img": true
     }
   ],
   "videos": [
@@ -14238,6 +14326,16 @@
       "hashtags": "#Munich #Marienplatz #Bavière #Glockenspiel #VoyageEnAllemagne",
       "voice": "Bienvenue sur la Marienplatz, l'âme vibrante de Munich ! Admirez le Glockenspiel, un chef-d'œuvre musical médiéval. Explorez les ruelles pittoresques, découvrez des boutiques charmantes et dégustez une bière artisanale dans une ambiance chaleureuse. La Marienplatz, c'est l'histoire vivante et la convivialité bavaroise. Vivez l'expérience munichoise !",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-la-boucle-de-la-sarre-saarschleife-en-sarre-allema",
+      "title": "Découvrez la Boucle de la Sarre (Saarschleife) en Sarre, Allemagne",
+      "lang": "fr",
+      "created": "2026-10-28T22:38:50",
+      "hashtags": "#Saarschleife #Saarland #Nature #Allemagne #Randonnée #Détente #Paysage",
+      "voice": "Au cœur de l'Allemagne, découvrez la Saarschleife dans le Saarland. Ce méandre spectaculaire de la rivière Saar offre une vue à couper le souffle depuis le Cloef. Parfait pour les amoureux de la nature, ce site enchanteur vous invite à des randonnées mémorables ou simplement à vous détendre. Un incontournable pour s'évader et s'émerveiller devant la beauté de la nature !",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
