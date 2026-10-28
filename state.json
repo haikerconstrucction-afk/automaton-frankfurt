@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 426.906,
-  "spent_eur": 77.7643,
+  "balance_eur": 425.9197,
+  "spent_eur": 78.7506,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -5966,7 +5966,10 @@
       "audit_note": "Die Prozentzahlen '20%' und '80%' sind nicht belegt und scheinen erfunden zu sein. Der Rest des Inhalts ist jedoch in Ordnung und folgt den Regeln.",
       "pay_url": "https://buy.stripe.com/dRm4gA7AddxN3Mag7a2kw3E",
       "payment_link_id": "plink_1UQgf7J5iOXkWb9VBc2DgbSW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4604746643"
+      }
     },
     {
       "type": "excel",
@@ -5990,7 +5993,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Produkt erfüllt grundlegende Anforderungen, könnte jedoch in der Benutzerfreundlichkeit verbessert werden (z. B. Erklärung der automatischen Berechnungen, konsistenterer Dashboard-Aufbau).",
       "pay_url": "https://buy.stripe.com/8x28wQg6JgJZgyW7AE2kw3F",
       "payment_link_id": "plink_1UQn3QJ5iOXkWb9V9X1NMXKS",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4604746659"
+      }
     },
     {
       "type": "ebook",
@@ -6014,7 +6020,10 @@
       "audit_note": "Keine erfunden Zahlen, Statistiken, Quellen oder Zitate; keine Gesundheitsversprechen, Rechts-/Finanzberatung oder fremde Marken. Sprache konsistent, keine unfertigen Texte oder Platzhalter. Inhalt bietet praktische Reisetipps ohne sachliche Fehler.",
       "pay_url": "https://buy.stripe.com/7sY00k4o1fFV2I64os2kw3G",
       "payment_link_id": "plink_1UQn3QJ5iOXkWb9V103uuZLe",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4604769056"
+      }
     },
     {
       "type": "excel",
@@ -9927,124 +9936,81 @@
       "pay_url": "https://buy.stripe.com/dRmeVe7Ad3Xd0zY8EI2kx2b",
       "payment_link_id": "plink_1UVLkWJ5iOXkWb9V3UmaBH2D",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书",
+      "slug": "7-magical-bedtime-stories-for-kids-3-8",
+      "price_eur": 5,
+      "target": "父母和孩子（3-8岁）",
+      "reason": "睡前故事是帮助孩子放松和入睡的重要工具。这本E-Book提供了7个温馨的故事，内容丰富，适合3-8岁的孩子，能够帮助父母和孩子在睡前度过一段美好的时光。",
+      "language": "zh",
+      "pitch": "这本E-Book包含7个温馨的睡前故事，帮助孩子们在入睡前放松心情，培养想象力和情感表达。每个故事都经过精心设计，适合3-8岁的孩子。",
+      "content_html": "<h2>Inhalt</h2> <p>这是一个让孩子在睡前放松的完美选择，每个故事都充满了温暖和想象力，帮助孩子安心入睡。</p>",
+      "pro": false,
+      "created": "2026-10-28T08:38:03",
+      "file": "7-magical-bedtime-stories-for-kids-3-8-f5a1818eb2dc1545.pdf",
+      "size": 1877,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils konform mit den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Die Sprache ist korrekt und es gibt keine unfertigen Texte oder Platzhalter. Die Geschichten sind kreativ und geeignet für die Zielgruppe. Ein kleiner Mangel ist die unerwartete Sprachmisc",
+      "pay_url": "https://buy.stripe.com/4gMeVe8Eh3XddmKg7a2kx2c",
+      "payment_link_id": "plink_1UVSXSJ5iOXkWb9V22GLNB3p",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Budget de Mariage & Suivi des Dépenses 2026",
+      "slug": "planificateur-budget-mariage-depenses-2026",
+      "price_eur": 9,
+      "target": "Couples planning their wedding in 2026, wedding planners",
+      "reason": "Ce produit répond à un besoin clé des couples et des planificateurs de mariage : une gestion transparente et efficace du budget. Les graphiques et KPIs permettent une visualisation rapide des finances, évitant ainsi les dépassements de budget.",
+      "language": "fr",
+      "pitch": "Simplifiez la planification de votre mariage avec ce tracker professionnel : suivez vos dépenses, génez votre budget et visualisez vos coûts en un clin d'œil.",
+      "content_html": "<h2>Inhalt</h2>Créez un budget détaillé, suivez les dépenses par catégorie et visualisez vos finances avec des graphiques personnalisés. Parfait pour éviter les surprises de dernière minute.",
+      "pro": true,
+      "created": "2026-10-28T08:38:03",
+      "file": "planificateur-budget-mariage-depenses-2026-b3e153ef10d2e472.xlsx",
+      "size": 14,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist klar und strukturiert, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Sprache ist konsistent französisch, keine Rechts-, Steuer- oder Finanzberatung. Einige Wiederholungen in Formeln ('Budget'-Blatt), aber dies ist kein Fehler des Produkts. Beispielhafte Daten sind plausib",
+      "pay_url": "https://buy.stripe.com/28E6oI7AdalBaayf362kx2d",
+      "payment_link_id": "plink_1UVSXTJ5iOXkWb9Vc8Y4TynR",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles",
+      "slug": "economiser-sans-stress",
+      "price_eur": 5,
+      "target": "Private Haushaltsfinanzen und Sparen",
+      "reason": "Ce livre répond à un besoin courant de gestion des finances personnelles en offrant des solutions pratiques et faciles à mettre en œuvre. Il cible spécifiquement les ménages français et francophones en proposant des astuces adaptées à leur contexte.",
+      "language": "fr",
+      "pitch": "Découvrez des astuces pratiques pour économiser facilement au quotidien et améliorer votre budget familial sans stress.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introduction: Pourquoi économiser peut être simple</li><li>Chapitre 1: Analyser vos dépenses quotidiennes</li><li>Chapitre 2: Planifier un budget réaliste</li><li>Chapitre 3: Réduire les coûts fixes</li><li>Chapitre 4: Astuces pour économiser sur les courses</li><li>Chapitre 5: Éviter les achats impulsifs</li><li>Chapitre 6: Utiliser des apps pour suivre vos économies</li></ul>",
+      "pro": false,
+      "created": "2026-10-28T08:38:03",
+      "file": "economiser-sans-stress-3b6220999be737f2.pdf",
+      "size": 1911,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils korrekt und vermeidet erfundene Zahlen oder Quellen. Die Sprache ist konsistent Französisch, es gibt keine unfertigen Texte oder Platzhalter. Es werden allgemeine Praxistipps gegeben, ohne spezifische Finanzberatung oder Gesundheitsversprechen. Der Inhalt ist nützlich und",
+      "pay_url": "https://buy.stripe.com/eVq9AU2fTbpFaay1cg2kx2e",
+      "payment_link_id": "plink_1UVSXUJ5iOXkWb9Va98EdE31",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.0011664,
-      "why": "Blog-Artikel: Eifel Maare (fr)"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.0015011999999999998,
-      "why": "Blog-Artikel: Rheingau Weinberge (de)"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.00036239999999999997,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能婚礼预算追踪器与供应商管理器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603167015"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能家庭理财：7个简单步骤轻松实现月度节省 '智能家庭理财：7个简单步骤轻松实现月度节省'"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603167025"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur d'Entraînement & Suivi des Progrès pour Coachs"
-    },
-    {
-      "t": "2026-10-26T00:25:43",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4603189494"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.0256224,
-      "why": "KI-Denken: 聪明省钱：7个简单步骤轻松管理家庭预算"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.0040187999999999995,
-      "why": "KI-Pruefung: 聪明省钱：7个简单步骤轻松管理家庭预算"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.16,
-      "why": "KI-Bilder: 聪明省钱：7个简单步骤轻松管理家庭预算"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.020608799999999997,
-      "why": "KI-Denken: Planificateur d'Entraînement et Suivi des Progrès pour Coachs Sportifs"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.0011699999999999998,
-      "why": "KI-Pruefung: Planificateur d'Entraînement et Suivi des Progrès pour Coachs Sportifs"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.026725199999999994,
-      "why": "KI-Denken: Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Logements"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.0041316,
-      "why": "KI-Pruefung: Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Logements"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": -0.16,
-      "why": "KI-Bilder: Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Logements"
-    },
-    {
-      "t": "2026-10-26T07:57:04",
-      "eur": -0.0041459999999999995,
-      "why": "Audit: 聪明省钱：7个简单步骤轻松管理家庭预算"
-    },
-    {
-      "t": "2026-10-26T07:57:04",
-      "eur": -0.0025824,
-      "why": "Audit: Planificateur d'Entraînement et Suivi des Progrès pour Coachs Sportifs"
-    },
-    {
-      "t": "2026-10-26T07:57:04",
-      "eur": -0.0038087999999999998,
-      "why": "Audit: Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Lo"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-26T07:51:10",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-26T07:51:10",
       "eur": 0,
@@ -10934,6 +10900,121 @@
       "t": "2026-10-28T01:26:11",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604612122"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.0256068,
+      "why": "KI-Denken: 7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.0034751999999999995,
+      "why": "KI-Pruefung: 7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.0217164,
+      "why": "KI-Denken: Planificateur de Budget de Mariage & Suivi des Dépenses 2026"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.0011088,
+      "why": "KI-Pruefung: Planificateur de Budget de Mariage & Suivi des Dépenses 2026"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.0283128,
+      "why": "KI-Denken: Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.0039011999999999996,
+      "why": "KI-Pruefung: Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.16,
+      "why": "KI-Bilder: Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
+    },
+    {
+      "t": "2026-10-28T08:48:33",
+      "eur": -0.0037319999999999996,
+      "why": "Audit: 7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书"
+    },
+    {
+      "t": "2026-10-28T08:48:33",
+      "eur": -0.0023472,
+      "why": "Audit: Planificateur de Budget de Mariage & Suivi des Dépenses 2026"
+    },
+    {
+      "t": "2026-10-28T08:48:33",
+      "eur": -0.0036144,
+      "why": "Audit: Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Pers"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.0008952,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (es)"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.0013452,
+      "why": "Blog-Artikel: Muenchen Marienplatz (fr)"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.00036839999999999996,
+      "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604746643"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Black Forest Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604746659"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Culture"
+    },
+    {
+      "t": "2026-10-28T08:38:03",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604769056"
     }
   ],
   "alive": true,
@@ -12987,6 +13068,22 @@
       "topic": "Harz Brocken",
       "created": "2026-10-28T01:26:11",
       "img": true
+    },
+    {
+      "slug": "mar-wadden-nordsee-alemania",
+      "title": "El Mar de Wadden del Mar del Norte: Un tesoro natural de Alemania",
+      "lang": "es",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-28T08:38:03",
+      "img": true
+    },
+    {
+      "slug": "decouvrir-le-marienplatz-de-munich-guide-essentiel-pour-les-",
+      "title": "Découvrir le Marienplatz de Munich : Guide Essentiel pour les Voyageurs",
+      "lang": "fr",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-28T08:38:03",
+      "img": true
     }
   ],
   "videos": [
@@ -14048,6 +14145,16 @@
       "hashtags": "#布罗肯山 #德国旅行 #徒步天堂 #自然奇观 #女巫传说",
       "voice": "欢迎来到德国的布罗肯山！这里不仅是德国最高的山峰，还充满了神秘与传奇。传说中，这里是女巫的聚集地，尤其是在每年的瓦普几斯之夜。无论你是徒步爱好者，还是自然风光的追随者，布罗肯山都能让你流连忘返。四季变幻的景色，让人仿佛置身于童话世界。快来体验这片神奇的土地吧！",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrir-le-marienplatz-de-munich-guide-essentiel-pour-les-",
+      "title": "Découvrir le Marienplatz de Munich : Guide Essentiel pour les Voyageurs",
+      "lang": "fr",
+      "created": "2026-10-28T08:38:03",
+      "hashtags": "#Munich #Marienplatz #Bavière #Glockenspiel #VoyageEnAllemagne",
+      "voice": "Bienvenue sur la Marienplatz, l'âme vibrante de Munich ! Admirez le Glockenspiel, un chef-d'œuvre musical médiéval. Explorez les ruelles pittoresques, découvrez des boutiques charmantes et dégustez une bière artisanale dans une ambiance chaleureuse. La Marienplatz, c'est l'histoire vivante et la convivialité bavaroise. Vivez l'expérience munichoise !",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
