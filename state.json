@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 423.3816,
-  "spent_eur": 81.2887,
+  "balance_eur": 423.0327,
+  "spent_eur": 81.6376,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10314,154 +10314,81 @@
       "pay_url": "https://buy.stripe.com/7sY3cw9IleBR4QecUY2kx2q",
       "payment_link_id": "plink_1UVtJWJ5iOXkWb9VK5PkXHXL",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Senior Care Medication & Expense Tracker",
+      "slug": "senior-care-medication-expense-tracker",
+      "price_eur": 9,
+      "target": "Families and organizations caring for elderly relatives",
+      "reason": "Helps caregivers manage complex medication schedules and track deductible expenses in one organized system, saving hours of paperwork and reducing errors.",
+      "language": "en",
+      "pitch": "The ultimate tool to organize medications, track health expenses, and simplify caregiving for seniors with automatic calculations and visual reports",
+      "content_html": null,
+      "pro": true,
+      "created": "2026-10-29T19:40:56",
+      "file": "senior-care-medication-expense-tracker-084da510c840b70c.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Produkt erfüllt alle Kriterien: Keine erfundenen Zahlen, Studien oder falsche Behauptungen. Angaben zur Steuerabzugsfähigkeit sind allgemein gehalten und nicht als Beratung zu verstehen. Formeln funktionieren korrekt mit den Beispieldaten.",
+      "pay_url": "https://buy.stripe.com/bJebJ22fT79p1E2bQU2kx2r",
+      "payment_link_id": "plink_1UVzJ3J5iOXkWb9Vg8aNFzvK",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings",
+      "slug": "freelancer-guide-stress-free-client-communication",
+      "price_eur": 7.99,
+      "target": "Freelancers and self-employed professionals who struggle with client communication and want to reduce stress in their projects",
+      "reason": "Effective client communication is one of the top struggles for freelancers, yet there aren't many practical guides focused specifically on this challenge. This fills that gap with actionable templates and psychological insights that help freelancers reduce stress and build better client relationships, directly addressing a pain point for my target audience.",
+      "language": "en",
+      "pitch": "Discover proven techniques to communicate effectively with clients, set clear expectations, and handle difficult conversations with confidence. Perfect for solopreneurs who want to minimize misunderstandings and build long-term client relationships.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: The Foundation of Clear Communication</li><li>Chapter 2: Setting Expectations Like a Pro</li><li>Chapter 3: Email Templates That Save Time</li><li>Chapter 4: Handling Difficult Conversations</li><li>Chapter 5: Creating Foolproof Project Briefs</li><li>Chapter 6: Cultural Differences in Communication</li><li>Chapter 7: Automating Your Client Communication</li></ul>",
+      "pro": false,
+      "created": "2026-10-29T19:40:56",
+      "file": "freelancer-guide-stress-free-client-communication-c2e385345cd071ac.pdf",
+      "size": 2004,
+      "sales": 0,
+      "score": 9,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "The content adheres to the guidelines, providing general advice without specific invented statistics or percentages. The language is clear and professional, focusing on practical steps for freelancers to improve client communication.",
+      "pay_url": "https://buy.stripe.com/6oUaEY4o13XdeqO1cg2kx2s",
+      "payment_link_id": "plink_1UVzJ4J5iOXkWb9VIOoq2H8r",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Schwarzwald Reisebudget- & Aktivitäten-Tracker für internationale Gäste",
+      "slug": "schwarzwald-reisebudget-tracker",
+      "price_eur": 9,
+      "target": "Internationale Reisende, die den Schwarzwald besuchen und ihre Ausgaben im Blick behalten möchten",
+      "reason": "Dieser Tracker erfüllt einen echten Bedarf für internationale Reisende im Schwarzwald, die ihr Budget in verschiedenen Währungen verwalten und die besten Sehenswürdigkeiten planen müssen. Die automatischen Umrechnungen, Budgetwarnungen und Aktivitäten-Übersicht machen ihn zu einem wertvollen Reisebegleiter.",
+      "language": "de",
+      "pitch": "Perfekte Planung Ihrer Schwarzwald-Reise mit automatischer Budgetberechnung und Aktivitäten-Übersicht. Behalten Sie alle Ausgaben im Blick und entdecken Sie die schönsten Orte.",
+      "content_html": "<h2>Inhalt</h2><p>Planen Sie Ihre Schwarzwald-Reise optimal mit unserem umfassenden Tracker. Verwalten Sie Budget, Unterkünfte, Aktivitäten und mehr an einem Ort.</p>",
+      "pro": true,
+      "created": "2026-10-29T19:40:56",
+      "file": "schwarzwald-reisebudget-tracker-ca4d80390df2130f.xlsx",
+      "size": 19,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt enthält keine erfunden Studien, Statistiken, Prozentzahlen oder Zitate. Die Sprache ist durchgehend deutsch und klar, keine Platzhalter oder unfertigen Texte. Die Formeln und Tabellen sind sinnvoll und plausibel. Kleinere Schwächen in der Präzision der Währungsumrechnungen, aber insgesam",
+      "pay_url": "https://buy.stripe.com/eVqaEYcUx2T9fuS7AE2kx2t",
+      "payment_link_id": "plink_1UVzJ5J5iOXkWb9VJsMesl2p",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.0010164,
-      "why": "KI-Pruefung: Suivi des Dépenses de Soins & Budget pour Personnes Âgées"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.027159600000000002,
-      "why": "KI-Denken: Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.003964799999999999,
-      "why": "KI-Pruefung: Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-10-27T08:02:39",
-      "eur": -0.0038459999999999996,
-      "why": "Audit: 高效课堂管理：7个简单策略提升教学效果"
-    },
-    {
-      "t": "2026-10-27T08:02:39",
-      "eur": -0.0032279999999999995,
-      "why": "Audit: Suivi des Dépenses de Soins & Budget pour Personnes Âgées"
-    },
-    {
-      "t": "2026-10-27T08:02:39",
-      "eur": -0.0037007999999999997,
-      "why": "Audit: Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.0014831999999999998,
-      "why": "Blog-Artikel: Saechsische Schweiz (de)"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.0012611999999999999,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (en)"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.00036359999999999995,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Busy Dog Owner's Survival Guide: 7 Simple Strategies for a Happy, Well-Behaved Pup"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604011263"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Mudanza y Renovación Profesional: Control de Presupuesto y Tiempo"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604011279"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: El Huerto Autosuficiente en 7 Pasos: Guía Práctica para Hombres"
-    },
-    {
-      "t": "2026-10-27T07:56:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604011301"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.020841599999999995,
-      "why": "KI-Denken: Ultimate Black Forest Travel Budget & Expense Tracker for Families"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget & Expense Tracker for Families"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.0260532,
-      "why": "KI-Denken: Discovering Saarland & Mosel with Kids: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.0036095999999999997,
-      "why": "KI-Pruefung: Discovering Saarland & Mosel with Kids: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.16,
-      "why": "KI-Bilder: Discovering Saarland & Mosel with Kids: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.021226799999999997,
-      "why": "KI-Denken: Ultimativer NRW-Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.0010655999999999999,
-      "why": "KI-Pruefung: Ultimativer NRW-Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-27T14:50:59",
-      "eur": -0.0020088,
-      "why": "Audit: Ultimate Black Forest Travel Budget & Expense Tracker for Families"
-    },
-    {
-      "t": "2026-10-27T14:50:59",
-      "eur": -0.0033107999999999996,
-      "why": "Audit: Discovering Saarland & Mosel with Kids: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-10-27T14:50:59",
-      "eur": -0.002214,
-      "why": "Audit: Ultimativer NRW-Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
     {
       "t": "2026-10-27T14:42:40",
       "eur": 0,
@@ -11321,6 +11248,146 @@
       "t": "2026-10-29T13:07:40",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605626720"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.0221664,
+      "why": "KI-Denken: Senior Care Medication Tracker & Cost Planner"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senior Care Medication Tracker & Cost Planner"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.0225396,
+      "why": "KI-Denken: Senior Care Medication & Expense Tracker"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.0011244,
+      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel-Kennzahlen alle 0 - verworfen"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.022145999999999996,
+      "why": "KI-Denken: Senior Care Expense & Medication Tracker for Families"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senior Care Expense & Medication Tracker for Families"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.021868799999999997,
+      "why": "KI-Denken: Senior Care Medication & Expense Tracker"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.028540799999999998,
+      "why": "KI-Denken: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.0032411999999999996,
+      "why": "KI-Pruefung: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.0233388,
+      "why": "KI-Denken: Schwarzwald Reisekosten-Tracker & Budgetplaner für internationale Gäste"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.0017207999999999998,
+      "why": "KI-Pruefung: Schwarzwald Reisekosten-Tracker & Budgetplaner für internationale Gäste"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.023152799999999998,
+      "why": "KI-Denken: Ultimate Schwarzwald Reisebudget- & Aktivitäten-Tracker für internationale Gäste"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.0015803999999999998,
+      "why": "KI-Pruefung: Ultimate Schwarzwald Reisebudget- & Aktivitäten-Tracker für internationale Gäste"
+    },
+    {
+      "t": "2026-10-29T19:47:50",
+      "eur": -0.0035832,
+      "why": "Audit: Senior Care Medication & Expense Tracker"
+    },
+    {
+      "t": "2026-10-29T19:47:50",
+      "eur": -0.0030839999999999995,
+      "why": "Audit: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Bu"
+    },
+    {
+      "t": "2026-10-29T19:47:50",
+      "eur": -0.0050496,
+      "why": "Audit: Ultimate Schwarzwald Reisebudget- & Aktivitäten-Tracker für internationale Gäste"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.001434,
+      "why": "Blog-Artikel: Heidelberg Altstadt (fr)"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.0010512,
+      "why": "Blog-Artikel: Neuschwanstein (de)"
+    },
+    {
+      "t": "2026-10-29T19:40:56",
+      "eur": -0.0003984,
+      "why": "Video-Skript: Neuschwanstein"
     }
   ],
   "alive": true,
@@ -13454,6 +13521,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-10-29T13:07:40",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-joyau-medieval-allemagne",
+      "title": "Heidelberg Altstadt : Un Joyau Médiéval en Allemagne",
+      "lang": "fr",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-10-29T19:40:56",
+      "img": true
+    },
+    {
+      "slug": "neuschwanstein-entdecken",
+      "title": "Majestätsch auf Bayrisch: Neuschwanstein entdecken",
+      "lang": "de",
+      "topic": "Neuschwanstein",
+      "created": "2026-10-29T19:40:56",
+      "img": true
     }
   ],
   "videos": [
@@ -14545,6 +14628,16 @@
       "hashtags": "#Cochem #Mosela #Alemania #PueblosMágicos #ViajesEuropa",
       "voice": "Cochem, joya del río Mosela, te espera con su castillo de cuento, viñedos legendarios y calles llenas de encanto. ¡Navega por sus aguas, saborea sus vinos y déjate envolver por la magia de este rincón alemán que parece sacado de un sueño! Un destino imprescindible para los amantes de la belleza.",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "neuschwanstein-entdecken",
+      "title": "Majestätsch auf Bayrisch: Neuschwanstein entdecken",
+      "lang": "de",
+      "created": "2026-10-29T19:40:56",
+      "hashtags": "#Neuschwanstein #Märchenschloss #Bayern #DeutschlandEntdecken #Reisetipp #Alpen #SchlossTraum #KönigLudwig",
+      "voice": "Hoch über den Alpen thront Neuschwanstein – Deutschlands märchenhaftestes Schloss! König Ludwig II. erschuf diesen Traum aus Türmen und Gold. Jeder Raum ist ein Kunstwerk: Die prunkvolle Thronhalle, der singende Saal für Wagner-Opern. Der Blick von der Marienbrücke? Atemberaubend! Ein Muss für jeden Deutschland-Besuch!",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
