@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 425.2076,
-  "spent_eur": 79.4627,
+  "balance_eur": 424.3879,
+  "spent_eur": 80.2824,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6047,7 +6047,10 @@
       "audit_note": "Das Produkt erfüllt die meisten Anforderungen: Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Rechts-, Steuer- oder Finanzberatung sowie keine Gesundheitsversprechen. Es verwendet allgemein bekannte Fakten wie die 19 % MwSt und bietet klare Beispielrechnungen. Die Excel-F",
       "pay_url": "https://buy.stripe.com/5kQ6oIbQtdxNeqO2gk2kw3H",
       "payment_link_id": "plink_1UQn3RJ5iOXkWb9V7a6HYOW3",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4605427448"
+      }
     },
     {
       "type": "ebook",
@@ -6071,7 +6074,10 @@
       "audit_note": "Keine klaren Regelverstöße gefunden. Der Inhalt ist sachlich korrekt, enthält keine erfundenen Studien, Statistiken oder Quellen. Es gibt keine Rechts-, Steuer- oder Finanzberatung, keine Gesundheitsversprechen oder Markenverwendung. Der Text ist durchgängig in deutscher Sprache und frei von Platzha",
       "pay_url": "https://buy.stripe.com/6oU6oI9Il65l6YmaMQ2kw3I",
       "payment_link_id": "plink_1UQsIHJ5iOXkWb9VdkyCZC0r",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4605408085"
+      }
     },
     {
       "type": "excel",
@@ -6095,7 +6101,10 @@
       "audit_note": "Der Inhalt erfüllt alle Regeln: Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet, die Sprache ist korrekt und einheitlich, es gibt keine Platzhalter, Wiederholungen oder sachlichen Fehler. Die Formeln und Tabellen sind sinnvoll und plausibel, und es werden keine verbotene",
       "pay_url": "https://buy.stripe.com/dRm5kE7AddxNdmKf362kw3J",
       "payment_link_id": "plink_1UQsIIJ5iOXkWb9VZp1conuQ",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4605427480"
+      }
     },
     {
       "type": "ebook",
@@ -10152,114 +10161,81 @@
       "pay_url": "https://buy.stripe.com/dRm7sM3jXbpF3MabQU2kx2k",
       "payment_link_id": "plink_1UVfbYJ5iOXkWb9VO1jQhS7U",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Eventos y Finanzas para Asociaciones",
+      "slug": "planificador-eventos-finanzas-asociaciones",
+      "price_eur": 9,
+      "target": "Vereine und Ehrenamtliche, die ihre Veranstaltungen und Finanzen effizient verwalten möchten",
+      "reason": "Esta herramienta es esencial para cualquier asociación que necesite gestionar eventos y finanzas de manera profesional, ahorrando tiempo y asegurando una planificación efectiva.",
+      "language": "es",
+      "pitch": "Organiza tus eventos y gestiona las finanzas de tu asociación de forma profesional y sencilla con esta herramienta completa.",
+      "content_html": "<h2>Inhalt</h2><p>Esta plantilla te ayudará a planificar eventos, controlar gastos y gestionar ingresos de manera efectiva. Ideal para asociaciones y grupos de voluntarios.</p>",
+      "pro": true,
+      "created": "2026-10-29T05:53:07",
+      "file": "planificador-eventos-finanzas-asociaciones-d64add893849eb4f.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist eine Excel-Vorlage zur Veranstaltungs- und Finanzplanung für Vereine. Es enthält keine erfundenen Studien, Statistiken oder Quellen. Alle dargestellten Zahlen sind klar als Beispiele gekennzeichnet und nachvollziehbar berechnet. Die Sprache ist durchgehend Spanisch, es gibt keine unf",
+      "pay_url": "https://buy.stripe.com/fZu00kaMp79p6Ymf362kx2l",
+      "payment_link_id": "plink_1UVmM0J5iOXkWb9VxDKZEQz1",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canino Sin Estrés",
+      "slug": "guia-practica-duenos-perros-estrategias-cuidado-canino-sin-estres",
+      "price_eur": 5,
+      "target": "Hombres que son dueños de perros y buscan maneras prácticas de mejorar el cuidado de sus mascotas",
+      "reason": "Este eBook ofrece consejos prácticos y fáciles de implementar para hombres ocupados que desean cuidar de sus perros de manera eficiente y sin estrés. Con un enfoque en soluciones prácticas y organizadas, este producto es ideal para quienes buscan mejorar la calidad de vida de sus mascotas sin descuidar sus responsabilidades diarias.",
+      "language": "es",
+      "pitch": "Aprende a cuidar de tu perro de manera eficiente y sin estrés con estas 7 estrategias prácticas diseñadas especialmente para dueños ocupados.",
+      "content_html": "<h2>Inhalt</h2><p>Este eBook está diseñado para ayudarte a mejorar la calidad de vida de tu perro mientras reduces el estrés en tu rutina diaria. Descubre cómo organizar mejor tu tiempo, mantener a tu mascota feliz y saludable, y crear un ambiente positivo para ambos.</p><h3>Inhaltsverzeichnis</h3><ul><li>Capítulo 1: Organiza tu día para cuidar de tu perro</li><li>Capítulo 2: Alimentación saludable y práctica</li><li>Capítulo 3: Ejercicios y juegos sencillos para mantenerlo activo</li><li>Capítulo 4: Cómo mantener la higiene de tu perro fácilmente</li><li>Capítulo 5: Manejo del estrés y comportamiento</li><li>Capítulo 6: Cuidados básicos de salud</li><li>Capítulo 7: Consejos para viajes y salidas con tu perro</li></ul>",
+      "pro": false,
+      "created": "2026-10-29T05:53:07",
+      "file": "guia-practica-duenos-perros-estrategias-cuidado-canino-sin-estres-68c378a7b4832201.pdf",
+      "size": 1774,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Die genannten Prozentzahlen sind zwar nicht belegt, jedoch handelt es sich um allgemeine Empfehlungen ohne konkrete Wirkungsbehauptungen. Der Rest des Inhalts ist sachlich korrekt und frei von anderen Regelverstößen.",
+      "pay_url": "https://buy.stripe.com/28E4gA6w9dxN4Qe08c2kx2m",
+      "payment_link_id": "plink_1UVmM1J5iOXkWb9V7N4LiutO",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能搬家与装修预算跟踪器",
+      "slug": "smart-moving-renovation-budget-tracker",
+      "price_eur": 9,
+      "target": "Umzug und Renovierung",
+      "reason": "该模板提供了一种简单而专业的方式来管理搬家与装修的预算，帮助用户实时跟踪费用并优化支出。",
+      "language": "zh",
+      "pitch": "专业搬家与装修预算管理工具，实时跟踪费用并优化支出。",
+      "content_html": "<h2>Inhalt</h2><p>该Excel模板专为搬家与装修设计，帮助您轻松管理预算，跟踪费用，并优化支出。</p>",
+      "pro": true,
+      "created": "2026-10-29T05:53:07",
+      "file": "smart-moving-renovation-budget-tracker-8a09bc844561120c.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist klar beschrieben und entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen und bietet praktische Tipps. Die Beispiele sind plausibel und klar als solche gekennzeichnet.",
+      "pay_url": "https://buy.stripe.com/aFa28s9Il51hfuS8EI2kx2n",
+      "payment_link_id": "plink_1UVmM2J5iOXkWb9VahPfx0bp",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.16,
-      "why": "KI-Bilder: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.020445599999999998,
-      "why": "KI-Denken: Volunteer Event Budget & Expense Tracker"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Volunteer Event Budget & Expense Tracker"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.020778,
-      "why": "KI-Denken: Volunteer Event Budget & Expense Tracker"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.0012587999999999998,
-      "why": "KI-Pruefung: Volunteer Event Budget & Expense Tracker"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.026242799999999997,
-      "why": "KI-Denken: Pawsitive Training: 7 Simple Steps to a Well-Behaved Dog"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.0034632,
-      "why": "KI-Pruefung: Pawsitive Training: 7 Simple Steps to a Well-Behaved Dog"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.16,
-      "why": "KI-Bilder: Pawsitive Training: 7 Simple Steps to a Well-Behaved Dog"
-    },
-    {
-      "t": "2026-10-26T21:12:21",
-      "eur": -0.0038399999999999997,
-      "why": "Audit: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und "
-    },
-    {
-      "t": "2026-10-26T21:12:21",
-      "eur": -0.0016416,
-      "why": "Audit: Volunteer Event Budget & Expense Tracker"
-    },
-    {
-      "t": "2026-10-26T21:12:21",
-      "eur": -0.003138,
-      "why": "Audit: Pawsitive Training: 7 Simple Steps to a Well-Behaved Dog"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.0014076,
-      "why": "Blog-Artikel: Bodensee (en)"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.0011028,
-      "why": "Blog-Artikel: Mosel Cochem (zh)"
-    },
-    {
-      "t": "2026-10-26T21:02:57",
-      "eur": -0.00033839999999999993,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-10-27T01:30:41",
-      "eur": -0.020713199999999998,
-      "why": "KI-Denken: Planificador de Mudanza Profesional para Autónomos: Control de Presupuesto y Tiempo"
-    },
-    {
-      "t": "2026-10-27T01:30:41",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Mudanza Profesional para Autónomos: Control de Presupuesto y Tiempo"
-    },
-    {
-      "t": "2026-10-27T01:30:41",
-      "eur": -0.026354399999999997,
-      "why": "KI-Denken: 7 Pasos Clave para un Huerto Autosuficiente en Casa"
-    },
     {
       "t": "2026-10-27T01:30:41",
       "eur": -0.0043776,
@@ -11154,6 +11130,116 @@
       "t": "2026-10-28T22:38:50",
       "eur": -0.0004116,
       "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.021995999999999995,
+      "why": "KI-Denken: Planificador de Eventos y Finanzas para Asociaciones"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.0010236,
+      "why": "KI-Pruefung: Planificador de Eventos y Finanzas para Asociaciones"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.029039999999999996,
+      "why": "KI-Denken: Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.0042492,
+      "why": "KI-Pruefung: Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.0217956,
+      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-29T05:58:10",
+      "eur": -0.0019008,
+      "why": "Audit: Planificador de Eventos y Finanzas para Asociaciones"
+    },
+    {
+      "t": "2026-10-29T05:58:10",
+      "eur": -0.0038291999999999996,
+      "why": "Audit: Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canin"
+    },
+    {
+      "t": "2026-10-29T05:58:10",
+      "eur": -0.0022392,
+      "why": "Audit: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.0014543999999999998,
+      "why": "Blog-Artikel: Koeln Dom (de)"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.0009396,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (en)"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.00037679999999999994,
+      "why": "Video-Skript: Koeln Dom"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimativer NRW Reisekosten-Tracker & Städteplaner für Selbstständige"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605427448"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Bayerische Alpen Entdecken: Der ultimative Outdoor-Guide für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605408085"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Baltic & North Sea Travel Budget Planner for Women"
+    },
+    {
+      "t": "2026-10-29T05:53:07",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605427480"
     }
   ],
   "alive": true,
@@ -13254,6 +13340,22 @@
       "lang": "fr",
       "topic": "Saarland Saarschleife",
       "created": "2026-10-28T22:38:50",
+      "img": true
+    },
+    {
+      "slug": "koelner-dom-reiseblog",
+      "title": "Der Kölner Dom: Ein majestätisches Highlight in Deutschland",
+      "lang": "de",
+      "topic": "Koeln Dom",
+      "created": "2026-10-29T05:53:07",
+      "img": true
+    },
+    {
+      "slug": "discover-industrial-charm-ruhrgebiet-zollverein",
+      "title": "Discover the Industrial Charm of Ruhrgebiet Zollverein",
+      "lang": "en",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-29T05:53:07",
       "img": true
     }
   ],
