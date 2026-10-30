@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 420.4109,
-  "spent_eur": 84.2594,
+  "balance_eur": 420.1094,
+  "spent_eur": 84.5609,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10629,124 +10629,81 @@
       "pay_url": "https://buy.stripe.com/aFa6oIbQt0L1beC9IM2kx2C",
       "payment_link_id": "plink_1UWFbcJ5iOXkWb9V89c7Lg9n",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Wedding Budget Planner & Vendor Tracker",
+      "slug": "ultimate-wedding-budget-planner-vendor-tracker",
+      "price_eur": 14.99,
+      "target": "Couples planning their wedding, Professional wedding planners",
+      "reason": "Wedding planning involves tracking multiple vendors, payments, and budget categories. This comprehensive tool helps couples and planners stay organized and make informed financial decisions throughout the planning process.",
+      "language": "en",
+      "pitch": "Track all wedding expenses and vendor details in one place. Stay organized and avoid last-minute surprises with this all-in-one wedding planning tool.",
+      "content_html": "<h2>Content</h2><p>Track all wedding expenses, vendor contacts, deposits, and tasks in one comprehensive spreadsheet. Visualize your budget breakdown and stay on top of payments with automated calculations.</p>",
+      "pro": true,
+      "created": "2026-10-30T19:26:21",
+      "file": "ultimate-wedding-budget-planner-vendor-tracker-9806bbe1121d5128.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist eine gut strukturierte Excel-Vorlage zur Hochzeitsplanung ohne erfundene Statistiken oder unzulässige Behauptungen. Alle verwendeten Zahlen sind klar als Beispiele gekennzeichnet oder stammen aus den vom Nutzer eingegebenen Daten. Die Funktionen sind sinnvoll und entsprechen den Rege",
+      "pay_url": "https://buy.stripe.com/fZu28s5s51P53MadZ22kx2D",
+      "payment_link_id": "plink_1UWLWjJ5iOXkWb9VgCkWMoeW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Simple Steps to Slash Your Grocery Budget Without Sacrificing Quality",
+      "slug": "7-simple-steps-to-slash-your-grocery-budget",
+      "price_eur": 5,
+      "target": "Families looking to reduce household expenses while maintaining healthy eating habits",
+      "reason": "Grocery costs keep rising, and families need practical, realistic ways to save without feeling deprived. This guide offers immediately actionable steps anyone can implement right away to see real savings.",
+      "language": "en",
+      "pitch": "Discover proven strategies to cut your grocery bills by 30% or more while still enjoying nutritious meals. Perfect for busy families who want to save without compromise.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: The Power of Meal Planning</li><li>Chapter 2: Smart Shopping Strategies</li><li>Chapter 3: Seasonal and Local Buying</li><li>Chapter 4: Reducing Food Waste</li><li>Chapter 5: Store Loyalty Programs and Coupons</li><li>Chapter 6: Bulk Buying and Storage</li><li>Chapter 7: Healthy Alternatives to Expensive Items</li></ul><p>Sample tip: Learn how turning 'leftover night' into a creative meal can save you €200/year!</p>",
+      "pro": false,
+      "created": "2026-10-30T19:26:21",
+      "file": "7-simple-steps-to-slash-your-grocery-budget-02b553440d9c82f1.pdf",
+      "size": 2071,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Die Prozentzahl '30%' ist nicht belegt und wirkt erfunden. Der Rest des Inhalts ist jedoch informativ und entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/7sY3cw9IldxNfuS7AE2kx2E",
+      "payment_link_id": "plink_1UWLWkJ5iOXkWb9VS2CndbNN",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige",
+      "slug": "smart-fitness-kosten-tracker-trainingsplaner",
+      "price_eur": 9,
+      "target": "Fitness und Trainingsplanung",
+      "reason": "Diese Vorlage bietet Fitness-Trainern und Selbstständigen eine klare Übersicht über ihre Ausgaben und Trainingsplanung, spart Zeit und hilft, die Finanzen im Griff zu behalten.",
+      "language": "de",
+      "pitch": "2 Saetze",
+      "content_html": "<h2>Inhalt</h2><p>Professionelle Excel-Vorlage zur effizienten Verwaltung von Trainingskosten und -planung. Perfekt für Fitness-Trainer und Selbstständige, die ihre Ausgaben im Griff behalten und ihre Trainingspläne optimieren möchten.</p>",
+      "pro": true,
+      "created": "2026-10-30T19:26:21",
+      "file": "smart-fitness-kosten-tracker-trainingsplaner-5cb3c40ba42551b9.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein einfacher Excel-Kosten-Tracker und Trainingsplaner ohne erfundene Studien, Statistiken oder Gesundheitsversprechen. Die Beispielwerte sind plausibel und klar als Beispiele gekennzeichnet. Die Funktionalität beschränkt sich auf grundlegende Berechnungen und Übersichten, ohne gegen",
+      "pay_url": "https://buy.stripe.com/9B6bJ2cUxeBReqOf362kx2F",
+      "payment_link_id": "plink_1UWLWkJ5iOXkWb9V3r2k9kZZ",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Black Forest Family Travel Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604746659"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Saarland & Moselle Family Adventures: 7 Fun-Filled Days Exploring Nature & Culture"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604769056"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.021442799999999998,
-      "why": "KI-Denken: Smart Family Fitness Planner & Progress Tracker"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Smart Family Fitness Planner & Progress Tracker"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.021407999999999996,
-      "why": "KI-Denken: Smart Family Fitness Progress Tracker & Meal Planner"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Smart Family Fitness Progress Tracker & Meal Planner"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.0215352,
-      "why": "KI-Denken: Ultimate Fitness Progress Tracker for Families"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Fitness Progress Tracker for Families"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.0270924,
-      "why": "KI-Denken: Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.0032195999999999995,
-      "why": "KI-Pruefung: Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.16,
-      "why": "KI-Bilder: Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.021655199999999996,
-      "why": "KI-Denken: Prüfungsvorbereitungs-Budget & Lernfortschritt Tracker"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Prüfungsvorbereitungs-Budget & Lernfortschritt Tracker"
-    },
-    {
-      "t": "2026-10-28T16:47:15",
-      "eur": -0.0013716,
-      "why": "Audit: Ultimate Fitness Progress Tracker for Families"
-    },
-    {
-      "t": "2026-10-28T16:47:15",
-      "eur": -0.0030816,
-      "why": "Audit: Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress"
-    },
-    {
-      "t": "2026-10-28T16:47:15",
-      "eur": -0.0022344,
-      "why": "Audit: Prüfungsvorbereitungs-Budget & Lernfortschritt Tracker"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-28T16:41:24",
       "eur": -0.0014927999999999999,
@@ -11636,6 +11593,116 @@
       "t": "2026-10-30T13:00:56",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606322641"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.0225816,
+      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel-Kennzahlen alle 0 - verworfen"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.023221199999999997,
+      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker for Couples"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.0012731999999999997,
+      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker for Couples"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.023018399999999998,
+      "why": "KI-Denken: Ultimate Wedding Budget Planner & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.0011232,
+      "why": "KI-Pruefung: Ultimate Wedding Budget Planner & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.028756800000000002,
+      "why": "KI-Denken: 7 Simple Steps to Slash Your Grocery Budget Without Sacrificing Quality"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.0034248,
+      "why": "KI-Pruefung: 7 Simple Steps to Slash Your Grocery Budget Without Sacrificing Quality"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Simple Steps to Slash Your Grocery Budget Without Sacrificing Quality"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.0226056,
+      "why": "KI-Denken: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-30T19:31:34",
+      "eur": -0.0053928,
+      "why": "Audit: Ultimate Wedding Budget Planner & Vendor Tracker"
+    },
+    {
+      "t": "2026-10-30T19:31:34",
+      "eur": -0.0031823999999999997,
+      "why": "Audit: 7 Simple Steps to Slash Your Grocery Budget Without Sacrificing Quality"
+    },
+    {
+      "t": "2026-10-30T19:31:34",
+      "eur": -0.0021948,
+      "why": "Audit: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.0010596,
+      "why": "Blog-Artikel: Dresden Frauenkirche (zh)"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.0012791999999999999,
+      "why": "Blog-Artikel: Harz Brocken (es)"
+    },
+    {
+      "t": "2026-10-30T19:26:21",
+      "eur": -0.00026159999999999996,
+      "why": "Video-Skript: Harz Brocken"
     }
   ],
   "alive": true,
@@ -13833,6 +13900,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-10-30T13:00:56",
       "img": true
+    },
+    {
+      "slug": "dresden-frauenkirche-deutschland",
+      "title": "德累斯顿圣母教堂：巴洛克建筑的瑰宝",
+      "lang": "zh",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-10-30T19:26:21",
+      "img": true
+    },
+    {
+      "slug": "descubriendo-el-encanto-del-harz-brocken-en-alemania",
+      "title": "Descubriendo el encanto del Harz Brocken en Alemania",
+      "lang": "es",
+      "topic": "Harz Brocken",
+      "created": "2026-10-30T19:26:21",
+      "img": true
     }
   ],
   "videos": [
@@ -14964,6 +15047,16 @@
       "hashtags": "#BrandenburgGate #BerlinLandmarks #GermanHistory #TravelGermany #IconicMonuments",
       "voice": "Welcome to the Brandenburg Gate, a timeless symbol of Berlin and Germany! This neoclassical marvel stands proudly in the heart of the city, embodying peace, freedom, and unity. As an iconic landmark of German history, it witnessed pivotal moments, from Napoleon’s triumph to the fall of the Berlin Wall. Today, it inspires millions with its majestic presence. Visit and feel the spirit of a nation’s journey!",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubriendo-el-encanto-del-harz-brocken-en-alemania",
+      "title": "Descubriendo el encanto del Harz Brocken en Alemania",
+      "lang": "es",
+      "created": "2026-10-30T19:26:21",
+      "hashtags": "#HarzBrocken #Natur #Wandern #Deutschland #Aussicht",
+      "voice": "Entdecke den Harz Brocken, den höchsten Gipfel Norddeutschlands. Natur pur, Wanderparadies und magische Aussicht erwarten dich!",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
