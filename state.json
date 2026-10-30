@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 421.4045,
-  "spent_eur": 83.2658,
+  "balance_eur": 420.4109,
+  "spent_eur": 84.2594,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6371,7 +6371,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Zahlen erkennbar. Alle Prozentangaben und Formeln basieren auf eingegebenen Daten und sind plausibel. Der Inhalt ist klar, sachlich und entspricht den Regeln. Lediglich die Berechnung 'Abgedeckte Themen (%)' ergibt im Beispiel 0 %, was korrekt ist, da kein ",
       "pay_url": "https://buy.stripe.com/aFaaEY3jXgJZbeC7AE2kw3T",
       "payment_link_id": "plink_1UR5SxJ5iOXkWb9Vkjm8iJbY",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606322575"
+      }
     },
     {
       "type": "ebook",
@@ -6395,7 +6398,10 @@
       "audit_note": "Die Prozentzahl '10%' ist eine allgemeine Angabe und könnte als Faustregel durchgehen, es gibt keine klaren erfundenen Studien oder unerlaubten Behauptungen. Der Inhalt hält sich an die Regeln und bietet praxisnahe Tipps ohne fragwürdige Quellen oder Rechtsberatung.",
       "pay_url": "https://buy.stripe.com/5kQbJ27AdeBR3Ma3ko2kw3U",
       "payment_link_id": "plink_1URBAAJ5iOXkWb9V09hPwar3",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606322603"
+      }
     },
     {
       "type": "excel",
@@ -6419,7 +6425,10 @@
       "audit_note": "Der Inhalt hält sich an die Regeln, enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert und die Tabellenformeln sind plausibel. Der Text ist vollständig und ohne Platzhalter oder Fehler. Es gibt keine Rechts-, Steuer-, Finanz- oder M",
       "pay_url": "https://buy.stripe.com/bJedRa5s51P582q5sw2kw3V",
       "payment_link_id": "plink_1URBAAJ5iOXkWb9VEBdPf9hk",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606322641"
+      }
     },
     {
       "type": "ebook",
@@ -10548,124 +10557,81 @@
       "pay_url": "https://buy.stripe.com/28E14obQt3Xd3Ma08c2kx2z",
       "payment_link_id": "plink_1UW8qiJ5iOXkWb9Vk73IAcFW",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "德累斯顿与萨克森：7步探索隐藏的文化与自然宝藏",
+      "slug": "explore-dresden-saxony-hidden-gems",
+      "price_eur": 5,
+      "target": "喜欢探索德国文化与自然景点的旅行者，尤其是对德累斯顿及萨克森地区感兴趣的人。",
+      "reason": "德累斯顿与萨克森地区拥有丰富的文化与自然资源，但这本指南将带您探索那些容易被忽视的隐藏宝藏。通过7个简单步骤，本书不仅提供实用信息，还帮助旅行者打造独特的旅行体验，物超所值。",
+      "language": "zh",
+      "pitch": "通过7个简单步骤，带您深入德累斯顿与萨克森地区，发现隐藏的文化与自然宝藏，打造独特的旅行体验。",
+      "content_html": "<h2>Inhalt</h2><ul><li>第一章：德累斯顿的历史与文化</li><li>第二章：萨克森的自然风光与隐藏景点</li><li>第三章：德累斯顿的艺术与建筑之旅</li><li>第四章：萨克森的葡萄酒与文化体验</li><li>第五章：德累斯顿的美食与本地生活</li><li>第六章：萨克森的户外活动与探险之旅</li><li>第七章：定制您的完美德累斯顿与萨克森之旅</li></ul><p>这是一本专为喜欢探索的旅行者设计的指南，帮助您发现德累斯顿与萨克森地区的独特魅力。</p>",
+      "pro": false,
+      "created": "2026-10-30T13:00:56",
+      "file": "explore-dresden-saxony-hidden-gems-931f9ce8388e2227.pdf",
+      "size": 1886,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt ist regelkonform, enthält keine erfundenen Statistiken, falsche Angaben oder Rechtsberatung. Der Text bietet allgemein bekannte Informationen und persönliche Tipps.",
+      "pay_url": "https://buy.stripe.com/3cIaEYaMpalB0zY1cg2kx2A",
+      "payment_link_id": "plink_1UWFbaJ5iOXkWb9VwjoYuntu",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Chantier & Suivi Budgétaire pour Artisans",
+      "slug": "planificateur-chantier-budget-artisans",
+      "price_eur": 9,
+      "target": "Artisans et petites entreprises du bâtiment",
+      "reason": "Ce planificateur simplifie la gestion des chantiers en centralisant toutes les informations nécessaires, permettant aux artisans de se concentrer sur leur travail tout en gardant une vision claire des coûts et des tâches.",
+      "language": "fr",
+      "pitch": "Optimisez vos chantiers avec ce planificateur complet pour suivre les coûts, les matériaux et les tâches.",
+      "content_html": "<h2>Inhalt</h2><p>Ce fichier Excel professionnel vous permet de suivre les dépenses, les matériaux et les tâches de vos chantiers en un seul endroit. Idéal pour les artisans et les petites entreprises du bâtiment.</p>",
+      "pro": true,
+      "created": "2026-10-30T13:00:56",
+      "file": "planificateur-chantier-budget-artisans-76da9dcc8f01d2c6.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist klar strukturiert und erfüllt die vorgegebenen Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist durchgängig Französisch und es gibt keine Platzhalter oder unfertigen Texte. Die Beispielberechnungen sind plausibel und klar als solche erkennbar.",
+      "pay_url": "https://buy.stripe.com/9B6eVe1bP0L1dmKbQU2kx2B",
+      "payment_link_id": "plink_1UWFbbJ5iOXkWb9Vlfne9aF2",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Histoires Magiques pour le Dodo : 7 Contes Enchantés pour les Petits Explorateurs de 3 à 8 Ans",
+      "slug": "histoires-magiques-pour-le-dodo",
+      "price_eur": 5,
+      "target": "Parents cherchant des histoires courtes et apaisantes pour le coucher de leurs enfants.",
+      "reason": "Les parents cherchent souvent des histoires courtes et apaisantes pour le coucher de leurs enfants. Ce livre répond à ce besoin avec des histoires originales qui stimulent l'imagination et favorisent un sommeil paisible, tout en offrant un excellent rapport qualité-prix.",
+      "language": "fr",
+      "pitch": "Plongez dans un monde imaginaire avec ces 7 histoires magiques, parfaites pour calmer et inspirer vos enfants avant de dormir. Des aventures douces et captivantes qui stimulent la créativité et favorisent un sommeil paisible.",
+      "content_html": "<h2>Contenu</h2> <ul><li>Le Royaume des Étoiles</li><li>La Danse des Nuages</li><li>Le Voyage de Lulu la Luciole</li><li>Le Secret du Vieux Chêne</li><li>Le Petit Train des Rêves</li><li>L'Étoile Filante et ses Amis</li><li>Le Jardin des Papillons</li></ul>",
+      "pro": false,
+      "created": "2026-10-30T13:00:56",
+      "file": "histoires-magiques-pour-le-dodo-4377ff7ca98881cf.pdf",
+      "size": 1814,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Alle Inhalte sind kindgerechte Fantasiegeschichten ohne gesundheitliche Versprechen, Rechtsberatung oder Markenverletzungen. Die Geschichten sind vollständig und in korrektem Französisch verfasst. Kleinere Platzhalter oder Wiederholu",
+      "pay_url": "https://buy.stripe.com/aFa6oIbQt0L1beC9IM2kx2C",
+      "payment_link_id": "plink_1UWFbcJ5iOXkWb9V89c7Lg9n",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能高效教学：7个简单步骤帮助教师轻松管理课堂与提高学生表现"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604589783"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Soins et Budget pour Aidants Familiaux"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604612122"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.0256068,
-      "why": "KI-Denken: 7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.0034751999999999995,
-      "why": "KI-Pruefung: 7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.0217164,
-      "why": "KI-Denken: Planificateur de Budget de Mariage & Suivi des Dépenses 2026"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.0011088,
-      "why": "KI-Pruefung: Planificateur de Budget de Mariage & Suivi des Dépenses 2026"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.0283128,
-      "why": "KI-Denken: Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.0039011999999999996,
-      "why": "KI-Pruefung: Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.16,
-      "why": "KI-Bilder: Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
-    },
-    {
-      "t": "2026-10-28T08:48:33",
-      "eur": -0.0037319999999999996,
-      "why": "Audit: 7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书"
-    },
-    {
-      "t": "2026-10-28T08:48:33",
-      "eur": -0.0023472,
-      "why": "Audit: Planificateur de Budget de Mariage & Suivi des Dépenses 2026"
-    },
-    {
-      "t": "2026-10-28T08:48:33",
-      "eur": -0.0036144,
-      "why": "Audit: Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Pers"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.0008952,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (es)"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.0013452,
-      "why": "Blog-Artikel: Muenchen Marienplatz (fr)"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.00036839999999999996,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Guide Pratique du Freelance : 7 Étapes Simples pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-10-28T08:38:03",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604746643"
-    },
     {
       "t": "2026-10-28T08:38:03",
       "eur": -0.19,
@@ -11555,6 +11521,121 @@
       "t": "2026-10-30T05:54:03",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606153004"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.0282024,
+      "why": "KI-Denken: 德累斯顿与萨克森：7步探索隐藏的文化与自然宝藏"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.004297199999999999,
+      "why": "KI-Pruefung: 德累斯顿与萨克森：7步探索隐藏的文化与自然宝藏"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.16,
+      "why": "KI-Bilder: 德累斯顿与萨克森：7步探索隐藏的文化与自然宝藏"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.022819199999999994,
+      "why": "KI-Denken: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.0010103999999999998,
+      "why": "KI-Pruefung: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.029482799999999997,
+      "why": "KI-Denken: Histoires Magiques pour le Dodo : 7 Contes Enchantés pour les Petits Explorateurs de 3 à 8 Ans"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.0043571999999999994,
+      "why": "KI-Pruefung: Histoires Magiques pour le Dodo : 7 Contes Enchantés pour les Petits Explorateurs de 3 à 8 Ans"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.16,
+      "why": "KI-Bilder: Histoires Magiques pour le Dodo : 7 Contes Enchantés pour les Petits Explorateurs de 3 à 8 Ans"
+    },
+    {
+      "t": "2026-10-30T13:12:12",
+      "eur": -0.004369199999999999,
+      "why": "Audit: 德累斯顿与萨克森：7步探索隐藏的文化与自然宝藏"
+    },
+    {
+      "t": "2026-10-30T13:12:12",
+      "eur": -0.002244,
+      "why": "Audit: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
+    },
+    {
+      "t": "2026-10-30T13:12:12",
+      "eur": -0.0040176,
+      "why": "Audit: Histoires Magiques pour le Dodo : 7 Contes Enchantés pour les Petits Explorateur"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.001482,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (de)"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.0010308,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (en)"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.00034559999999999994,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Intelligenter Prüfungsvorbereitungs-Tracker für Studierende"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606322575"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr Umsatz und Kundenzufriedenheit"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606322603"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Female Business Travel Planner: Budget, Itinerary & Packing List Tracker"
+    },
+    {
+      "t": "2026-10-30T13:00:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606322641"
     }
   ],
   "alive": true,
@@ -13736,6 +13817,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-10-30T05:54:03",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-maerchenhaftes-mittelalter-in-bayer",
+      "title": "Rothenburg ob der Tauber: Märchenhaftes Mittelalter in Bayern",
+      "lang": "de",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-10-30T13:00:56",
+      "img": true
+    },
+    {
+      "slug": "discover-brandenburg-gate-berlin",
+      "title": "Discover the Iconic Brandenburg Gate in Berlin",
+      "lang": "en",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-10-30T13:00:56",
+      "img": true
     }
   ],
   "videos": [
@@ -14857,6 +14954,16 @@
       "hashtags": "#FrankfurtSkyline #Allemagne #Voyage #UrbanExploration #MainTower",
       "voice": "Découvrez Frankfurt, une ville où l'histoire rencontre l'innovation. La skyline époustouflante domine l'horizon, avec ses gratte-ciel impressionnants comme la Main Tower, offrant une vue panoramique à couper le souffle. Entre tradition et modernité, Frankfurt vous invite à explorer son charme unique. Une destination inoubliable en Allemagne !",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-brandenburg-gate-berlin",
+      "title": "Discover the Iconic Brandenburg Gate in Berlin",
+      "lang": "en",
+      "created": "2026-10-30T13:00:56",
+      "hashtags": "#BrandenburgGate #BerlinLandmarks #GermanHistory #TravelGermany #IconicMonuments",
+      "voice": "Welcome to the Brandenburg Gate, a timeless symbol of Berlin and Germany! This neoclassical marvel stands proudly in the heart of the city, embodying peace, freedom, and unity. As an iconic landmark of German history, it witnessed pivotal moments, from Napoleon’s triumph to the fall of the Berlin Wall. Today, it inspires millions with its majestic presence. Visit and feel the spirit of a nation’s journey!",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
