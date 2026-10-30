@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 423.0327,
-  "spent_eur": 81.6376,
+  "balance_eur": 422.1373,
+  "spent_eur": 82.533,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6209,7 +6209,10 @@
       "audit_note": "Der Inhalt ist professionell und erfüllt die Regeln. Es gibt keine erfundenen Statistiken, Prozentzahlen oder Quellen. Die Sprache ist korrekt, und es wurden keine Platzhalter oder fehlerhaften Formeln festgestellt. Die Beispielrechnungen sind plausibel und klar als Beispiel markiert.",
       "pay_url": "https://buy.stripe.com/fZu6oI07LfFV4QecUY2kw3N",
       "payment_link_id": "plink_1UQwQqJ5iOXkWb9VzmijCT9G",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606006673"
+      }
     },
     {
       "type": "ebook",
@@ -6233,7 +6236,10 @@
       "audit_note": "Keine Regelverstöße festgestellt. Der Inhalt besteht aus kreativen Geschichten ohne erfundene Studien, Statistiken oder gesundheitsbezogene Versprechen. Alle Inhalte sind kindgerecht und entsprechen den Vorgaben.",
       "pay_url": "https://buy.stripe.com/dRm14odYB1P5aaybQU2kw3O",
       "payment_link_id": "plink_1UQzDhJ5iOXkWb9Vm4oMM4L1",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606026064"
+      }
     },
     {
       "type": "excel",
@@ -6257,7 +6263,10 @@
       "audit_note": "Das Produkt ist ein grundsätzlich funktionsfähiger Hochzeitsplaner in Excel mit klaren Anweisungen und sinnvollen Berechnungen. Es enthält keine erfundenen Studien, Statistiken oder falschen Behauptungen. Die Beispiel-Daten sind plausibel und eindeutig als solche gekennzeichnet. Die Funktionen entsp",
       "pay_url": "https://buy.stripe.com/8x28wQ8Eh9hxbeCaMQ2kw3P",
       "payment_link_id": "plink_1UQzDiJ5iOXkWb9V2oLpx4m7",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606026086"
+      }
     },
     {
       "type": "ebook",
@@ -10386,134 +10395,81 @@
       "pay_url": "https://buy.stripe.com/eVqaEYcUx2T9fuS7AE2kx2t",
       "payment_link_id": "plink_1UVzJ5J5iOXkWb9VJsMesl2p",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge",
+      "slug": "saarland-mosel-reisefuehrer",
+      "price_eur": 7,
+      "target": "Reiselustige, die abseits der Touristenpfade authentische Erlebnisse im Saarland und an der Mosel suchen",
+      "reason": "Regionalführer zu versteckten Orten haben Konjunktur, da immer mehr Reisende authentische Erlebnisse abseits der Massen suchen. Der Fokus auf konkret beschriebene, leicht erreichbare Ziele macht das Buch sofort nutzbar. Preis entspricht etwa zwei Kaffees - fair für jahrelang gesammelte Insidertipps.",
+      "language": "de",
+      "pitch": "Ein praktischer Guide mit sieben einzigartigen Reisezielen, die nur Einheimische kennen. Spare Zeit bei der Planung und entdecke die wahre Schönheit dieser Region.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einleitung: Warum das Saarland & die Mosel mehr als Kohle und Wein sind</li><li>Kapitel 1: Das verwunschene Tal der Saarschleife - Geheimtipps abseits der Aussichtsplattform</li><li>Kapitel 2: Mosel-Uferpfade ohne Touristengruppen - Wo Locals wandern</li><li>Kapitel 3: Vergessene Bergwerke & Industriekultur - Ungewöhnliche Museen mit Charme</li><li>Kapitel 4: Kulinarische Schätze abseits der Weinstrassen - Gasthäuser mit Tradition</li><li>Kapitel 5: Natur pur - Versteckte Badeseen und Wanderrouten</li><li>Kapitel 6: Historische Städte ohne Menschenmassen - Tagesausflüge mit Flair</li><li>Kapitel 7: Jahreszeiten-Tipps - Wann welche Region am schönsten ist</li></ul>",
+      "pro": false,
+      "created": "2026-10-29T23:58:09",
+      "file": "saarland-mosel-reisefuehrer-1448016760ac5737.pdf",
+      "size": 1554,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine klaren Regelverstöße festgestellt. Der Inhalt besteht aus praktischen Reisetipps und allgemein bekannten Informationen ohne erfundene Studien, Statistiken oder unzulässige Behauptungen. Der Text ist inhaltlich korrekt und entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/8x2dRa7AdalB2I69IM2kx2u",
+      "payment_link_id": "plink_1UW3NTJ5iOXkWb9VXlxdGYIY",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women",
+      "slug": "nrw-city-trip-budget-planner-women",
+      "price_eur": 9,
+      "target": "Female travelers exploring NRW cities (Cologne, Düsseldorf, Ruhr area) who want to plan their trips efficiently",
+      "reason": "This planner helps solo female travelers explore NRW cities efficiently while staying within budget, with built-in recommendations for safe and interesting locations",
+      "language": "en",
+      "pitch": "Track your trip expenses and plan daily itineraries with this all-in-one planner designed for hassle-free city explorations in NRW",
+      "content_html": "<h2>Content</h2><p>1. Expense Tracking Sheet 2. Daily Itinerary Planner 3. Must-See Locations 4. Summary Dashboard</p>",
+      "pro": true,
+      "created": "2026-10-29T23:58:09",
+      "file": "nrw-city-trip-budget-planner-women-db70d92b63af2661.xlsx",
+      "size": 18,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt hält sich an die Regeln. Es enthält keine erfundenen Studien, Statistiken oder Quellen. Alle Zahlen sind beispielhaft oder basieren auf automatischen Berechnungen. Die Empfehlungen sind allgemein und nicht als Fakten dargestellt. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung erken",
+      "pay_url": "https://buy.stripe.com/3cI4gA3jX1P5fuS7AE2kx2v",
+      "payment_link_id": "plink_1UW3NUJ5iOXkWb9Vp3aR6jZs",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bavarian Alps Explorer: 7 Hidden Trails for Female Travelers",
+      "slug": "bavarian-alps-explorer-hidden-trails-female-travelers",
+      "price_eur": 5,
+      "target": "Women interested in exploring the Bavarian Alps safely and confidently",
+      "reason": "This ebook provides practical and valuable insights for female travelers interested in exploring the Bavarian Alps, ensuring safety and enriching their travel experience.",
+      "language": "en",
+      "pitch": "Discover the most enchanting and lesser-known trails in the Bavarian Alps tailored for female travelers. Learn essential tips for safe solo adventures, local insights, and stunning photography spots.",
+      "content_html": "<h2>Inhalt</h2> Introduction to the Bavarian Alps<br>Chapter 1: The Beauty of Hidden Trails<br>Chapter 2: Preparing for Your Adventure<br>Chapter 3: Essential Gear and Clothing Tips<br>Chapter 4: Navigating Safely in the Alps<br>Chapter 5: Local Culture and Etiquette<br>Chapter 6: Capturing the Perfect Alpine Photos",
+      "pro": false,
+      "created": "2026-10-29T23:58:09",
+      "file": "bavarian-alps-explorer-hidden-trails-female-travelers-fa0078ba7f3f85c6.pdf",
+      "size": 2133,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Grundsätzlich guter Inhalt mit nützlichen Tipps für weibliche Reisende, aber eine nicht belegte Prozentangabe (10%) wurde gefunden. Keine anderen klaren Regelverstöße. Die Prozentangabe sollte entfernt werden.",
+      "pay_url": "https://buy.stripe.com/9B6fZibQt65lbeCbQU2kx2w",
+      "payment_link_id": "plink_1UW3NVJ5iOXkWb9VHNejdqRG",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.0010811999999999998,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (zh)"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.0016163999999999998,
-      "why": "Blog-Artikel: Frankfurt Skyline (es)"
-    },
-    {
-      "t": "2026-10-27T14:42:40",
-      "eur": -0.00035879999999999994,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.0281712,
-      "why": "KI-Denken: Bayerische Alpen Entdecken: Der ultimative Roadtrip-Guide für Selbstständige und Freiberufler"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.004242,
-      "why": "KI-Pruefung: Bayerische Alpen Entdecken: Der ultimative Roadtrip-Guide für Selbstständige und Freiberufler"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.021115199999999997,
-      "why": "KI-Denken: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.0214308,
-      "why": "KI-Denken: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.0012288,
-      "why": "KI-Pruefung: Ultimate North & Baltic Sea Travel Budget Planner for Solo Female Travelers"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.021313199999999997,
-      "why": "KI-Denken: Ultimate Baltic & North Sea Travel Budget Planner for Female Explorers"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.0010068,
-      "why": "KI-Pruefung: Ultimate Baltic & North Sea Travel Budget Planner for Female Explorers"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.0266484,
-      "why": "KI-Denken: Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rhine Valley"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.0033647999999999994,
-      "why": "KI-Pruefung: Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rhine Valley"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.16,
-      "why": "KI-Bilder: Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rhine Valley"
-    },
-    {
-      "t": "2026-10-27T20:52:58",
-      "eur": -0.0038832,
-      "why": "Audit: Bayerische Alpen Entdecken: Der ultimative Roadtrip-Guide für Selbstständige und"
-    },
-    {
-      "t": "2026-10-27T20:52:58",
-      "eur": -0.0039851999999999995,
-      "why": "Audit: Ultimate Baltic & North Sea Travel Budget Planner for Female Explorers"
-    },
-    {
-      "t": "2026-10-27T20:52:58",
-      "eur": -0.0032064,
-      "why": "Audit: Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rh"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-27T20:44:15",
       "eur": -0.0014135999999999999,
@@ -11388,6 +11344,136 @@
       "t": "2026-10-29T19:40:56",
       "eur": -0.0003984,
       "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.029333999999999995,
+      "why": "KI-Denken: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.0042708,
+      "why": "KI-Pruefung: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.04,
+      "why": "KI-Bilder: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.022155599999999998,
+      "why": "KI-Denken: Ultimate NRW City Trip Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate NRW City Trip Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.0230004,
+      "why": "KI-Denken: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.0014268,
+      "why": "KI-Pruefung: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.028111199999999996,
+      "why": "KI-Denken: Bavarian Alps Explorer: 7 Hidden Trails for Female Travelers"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.0034547999999999996,
+      "why": "KI-Pruefung: Bavarian Alps Explorer: 7 Hidden Trails for Female Travelers"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.16,
+      "why": "KI-Bilder: Bavarian Alps Explorer: 7 Hidden Trails for Female Travelers"
+    },
+    {
+      "t": "2026-10-30T00:08:47",
+      "eur": -0.0039828,
+      "why": "Audit: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausfl"
+    },
+    {
+      "t": "2026-10-30T00:08:47",
+      "eur": -0.0026064,
+      "why": "Audit: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
+    },
+    {
+      "t": "2026-10-30T00:08:47",
+      "eur": -0.0031943999999999996,
+      "why": "Audit: Bavarian Alps Explorer: 7 Hidden Trails for Female Travelers"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.0012192,
+      "why": "Blog-Artikel: Saechsische Schweiz (en)"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.0011975999999999998,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (zh)"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.00035639999999999994,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能施工现场报价与成本跟踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606006673"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 睡前魔法：7个温馨的晚安故事（3-8岁）"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606026064"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Mariage Professionnel & Suivi des Dépenses"
+    },
+    {
+      "t": "2026-10-29T23:58:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606026086"
     }
   ],
   "alive": true,
@@ -13537,6 +13623,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-10-29T19:40:56",
       "img": true
+    },
+    {
+      "slug": "discover-the-enchanting-beauty-of-saxon-switzerland",
+      "title": "Discover the Enchanting Beauty of Saxon Switzerland",
+      "lang": "en",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-10-29T23:58:09",
+      "img": true
+    },
+    {
+      "slug": "ruegen-kreidefelsen-reise-blog",
+      "title": "探索吕根岛白垩崖：德国北部自然奇观",
+      "lang": "zh",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-10-29T23:58:09",
+      "img": true
     }
   ],
   "videos": [
@@ -14638,6 +14740,16 @@
       "hashtags": "#Neuschwanstein #Märchenschloss #Bayern #DeutschlandEntdecken #Reisetipp #Alpen #SchlossTraum #KönigLudwig",
       "voice": "Hoch über den Alpen thront Neuschwanstein – Deutschlands märchenhaftestes Schloss! König Ludwig II. erschuf diesen Traum aus Türmen und Gold. Jeder Raum ist ein Kunstwerk: Die prunkvolle Thronhalle, der singende Saal für Wagner-Opern. Der Blick von der Marienbrücke? Atemberaubend! Ein Muss für jeden Deutschland-Besuch!",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "ruegen-kreidefelsen-reise-blog",
+      "title": "探索吕根岛白垩崖：德国北部自然奇观",
+      "lang": "zh",
+      "created": "2026-10-29T23:58:09",
+      "hashtags": "#德国秘境 #自然奇观 #吕根岛旅行 #白垩悬崖 #波罗的海之美",
+      "voice": "这里是德国吕根岛的梦幻白垩悬崖！百万年形成的雪白岩壁在波罗的海阳光下闪耀，被称为'北欧的白色巨人'。漫步在维纳斯台阶，你会看到碧海与纯白悬崖的绝妙碰撞，这是大自然最壮观的杰作之一。别忘了打卡柯尼希斯图尔观景台，将整个联合国教科文组织保护的奇景尽收眼底！",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
