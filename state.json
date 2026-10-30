@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 422.1373,
-  "spent_eur": 82.533,
+  "balance_eur": 421.4045,
+  "spent_eur": 83.2658,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6290,7 +6290,10 @@
       "audit_note": "Der Inhalt ist größtenteils in Ordnung, enthält aber einige nicht allgemein bekannte Prozentangaben wie '20 à 30 % moins chers' und '7 %'. Die 50/30/20-Regel ist als Faustregel bekannt, sollte aber klar als solche gekennzeichnet werden. Keine schwerwiegenden Regelverstöße, aber Optimierungspotenzial",
       "pay_url": "https://buy.stripe.com/cNifZicUx51h6Ym6wA2kw3Q",
       "payment_link_id": "plink_1UQzDiJ5iOXkWb9VC3WYAWYp",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606152974"
+      }
     },
     {
       "type": "excel",
@@ -6314,7 +6317,10 @@
       "audit_note": "Das Produkt ist grundsätzlich regelkonform und erfindet keine Statistiken oder Studien. Die Kalorienberechnungsformel ist als einfache Beispielrechnung gestaltet und stellt keine gesundheitsbezogene Wirkungsbehauptung dar. Kleine Mängel: Die wiederholten Formeln in der ActivityTracking-Tabelle könnt",
       "pay_url": "https://buy.stripe.com/bJe3cwg6J65l4Qe5sw2kw3R",
       "payment_link_id": "plink_1UR5SwJ5iOXkWb9Vx6eSh4gT",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606134159"
+      }
     },
     {
       "type": "ebook",
@@ -6338,7 +6344,10 @@
       "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Studien oder Statistiken und hält sich an die vorgegebenen Regeln. Es werden keine falschen oder gemischten Sprachen verwendet, keine unfertigen Texte oder Platzhalter gefunden, und es gibt keine Beratung zu Rechts-, Steuer-, Finanz- oder Medizint",
       "pay_url": "https://buy.stripe.com/dRm9AUg6J2T9ciG6wA2kw3S",
       "payment_link_id": "plink_1UR5SwJ5iOXkWb9VRK13I9YF",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606153004"
+      }
     },
     {
       "type": "excel",
@@ -10467,159 +10476,81 @@
       "pay_url": "https://buy.stripe.com/9B6fZibQt65lbeCbQU2kx2w",
       "payment_link_id": "plink_1UW3NVJ5iOXkWb9VHNejdqRG",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Viajes Costa Báltica y Mar del Norte para Autónomos",
+      "slug": "planificador-viajes-costa-baltica-mar-norte-autonomos",
+      "price_eur": 9,
+      "target": "Hombre autónomos que viajan con frecuencia a la costa báltica y el mar del norte para negocios o recreación.",
+      "reason": "Esta plantilla ayuda a los autónomos a gestionar eficazmente sus viajes con un control detallado de gastos y rutas, asegurando que se mantengan dentro del presupuesto y maximicen su tiempo y recursos.",
+      "language": "es",
+      "pitch": "Optimiza tus viajes a la costa báltica y el mar del norte con este planificador profesional de gastos y rutas.",
+      "content_html": "<h2>Inhalt</h2><p>Esta plantilla te permite planificar y controlar tus gastos de viaje, rutas y actividades en la costa báltica y el mar del norte de manera efectiva.</p>",
+      "pro": true,
+      "created": "2026-10-30T05:54:03",
+      "file": "planificador-viajes-costa-baltica-mar-norte-autonomos-10fcb850c393ae6e.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt hält sich an die Regeln und bietet eine nützliche Excel-Datei für Reiseplanung ohne falsche Behauptungen, Statistiken oder andere Verstöße. Die enthaltenen Zahlen sind klar als Beispieldaten gekennzeichnet und erfordern keine besondere Quellenangabe.",
+      "pay_url": "https://buy.stripe.com/6oU7sMcUx3Xd6Ym8EI2kx2x",
+      "payment_link_id": "plink_1UW8qgJ5iOXkWb9V6BICYASO",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos",
+      "slug": "rin-frankfurt-heidelberg-guia-viajeros",
+      "price_eur": 5,
+      "target": "Reisefuehrer Deutschland: Rhein, Frankfurt und Heidelberg",
+      "reason": "Esta guía ofrece un enfoque práctico y realista para viajeros masculinos que desean explorar estas regiones alemanas con autonomía, evitando lugares turísticos masificados y descubriendo auténticas experiencias locales.",
+      "language": "es",
+      "pitch": "Descubre los rincones más fascinantes del Rin, Frankfurt y Heidelberg con esta guía práctica diseñada especialmente para viajeros masculinos. Encuentra rutas, consejos y secretos locales para aprovechar al máximo tu aventura.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introducción al Rin, Frankfurt y Heidelberg</li><li>Las mejores rutas para explorar</li><li>Consejos prácticos para viajeros</li><li>Secretos locales y joyas escondidas</li><li>Dónde comer y beber como un local</li><li>Transporte y movilidad</li><li>Presupuesto y ahorro durante el viaje</li></ul>",
+      "pro": false,
+      "created": "2026-10-30T05:54:03",
+      "file": "rin-frankfurt-heidelberg-guia-viajeros-a5db7e76098ef3f9.pdf",
+      "size": 1613,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt entspricht den Regeln. Enthält keine erfundenen Studien, Statistiken oder falsche Angaben. Keine Rechts- oder Finanzberatung, keine Gesundheitsversprechen oder fremde Marken. Die Tipps sind praktisch und allgemein bekannt.",
+      "pay_url": "https://buy.stripe.com/dRm5kE1bP0L1gyW9IM2kx2y",
+      "payment_link_id": "plink_1UW8qhJ5iOXkWb9VCR19IqUG",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能柏林与波茨坦旅行预算追踪器 - 专业规划表格",
+      "slug": "berlin-potsdam-travel-budget-tracker-zh",
+      "price_eur": 9,
+      "target": "计划前往柏林和波茨坦的中国/新加坡/台湾旅行者",
+      "reason": "柏林是中国游客最欢迎的德国目的地之一，但缺乏中文的专业预算工具。这个模板解决了语言障碍，提供文化适应性的分类，并帮助控制旅行开支。",
+      "language": "zh",
+      "pitch": "专业Excel模板，轻松规划德国首都地区旅行预算，实时追踪开支，优化旅行体验",
+      "content_html": "<h2>内容</h2><p>包含交通、住宿、餐饮、景点门票等完整预算分类，自动计算每日消费和总支出</p>",
+      "pro": true,
+      "created": "2026-10-30T05:54:03",
+      "file": "berlin-potsdam-travel-budget-tracker-zh-0d1019fb81d41e13.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionales Excel-Tool zur Budgetplanung ohne falsche Behauptungen oder Markenverletzungen. Die Beispielzahlen sind plausible Demo-Daten, keine gefälschten Statistiken. Die Funktionalität (automatische Berechnungen, PDF-Export) ist nachvollziehbar. Kleinere Kritikpunkte: '日均消费'-",
+      "pay_url": "https://buy.stripe.com/28E14obQt3Xd3Ma08c2kx2z",
+      "payment_link_id": "plink_1UW8qiJ5iOXkWb9Vk73IAcFW",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.0014135999999999999,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (fr)"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.0012923999999999998,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (de)"
-    },
-    {
-      "t": "2026-10-27T20:44:15",
-      "eur": -0.0004044,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.021852,
-      "why": "KI-Denken: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.0013847999999999998,
-      "why": "KI-Pruefung: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.021979199999999997,
-      "why": "KI-Denken: Berlin & Potsdam Trip Planner: Budget & Itinerary for Solo Male Travelers"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.0014135999999999999,
-      "why": "KI-Pruefung: Berlin & Potsdam Trip Planner: Budget & Itinerary for Solo Male Travelers"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 7 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.021693599999999997,
-      "why": "KI-Denken: Planificador de Viajes para Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.0012288,
-      "why": "KI-Pruefung: Planificador de Viajes para Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.026909999999999996,
-      "why": "KI-Denken: Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.004298399999999999,
-      "why": "KI-Pruefung: Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.16,
-      "why": "KI-Bilder: Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.021302399999999996,
-      "why": "KI-Denken: 智能施工现场报价与成本追踪器"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能施工现场报价与成本追踪器"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.021920399999999996,
-      "why": "KI-Denken: 智能报价计算器与施工现场管理表 - 2026专业版"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.0013716,
-      "why": "KI-Pruefung: 智能报价计算器与施工现场管理表 - 2026专业版"
-    },
-    {
-      "t": "2026-10-28T01:33:35",
-      "eur": -0.0026112,
-      "why": "Audit: Planificador de Viajes para Berlín y Potsdam: Presupuesto, Itinerario y Consejos"
-    },
-    {
-      "t": "2026-10-28T01:33:35",
-      "eur": -0.0039071999999999996,
-      "why": "Audit: Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos"
-    },
-    {
-      "t": "2026-10-28T01:33:35",
-      "eur": -0.0042672,
-      "why": "Audit: 智能报价计算器与施工现场管理表 - 2026专业版"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.0013559999999999998,
-      "why": "Blog-Artikel: Dresden Frauenkirche (en)"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.0011076,
-      "why": "Blog-Artikel: Harz Brocken (zh)"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.00034319999999999994,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: YouTube广告收入与成本追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-28T01:26:11",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4604612072"
-    },
     {
       "t": "2026-10-28T01:26:11",
       "eur": -0.19,
@@ -11474,6 +11405,156 @@
       "t": "2026-10-29T23:58:09",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606026086"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.022754399999999998,
+      "why": "KI-Denken: Planificador de Viajes Costa del Mar Báltico y del Norte para Autónomos"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.0010572,
+      "why": "KI-Pruefung: Planificador de Viajes Costa del Mar Báltico y del Norte para Autónomos"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.022683599999999995,
+      "why": "KI-Denken: Planificador de Viajes Costera del Mar Báltico y del Norte para Viajeros Independientes"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.0010308,
+      "why": "KI-Pruefung: Planificador de Viajes Costera del Mar Báltico y del Norte para Viajeros Independientes"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 6 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.022536,
+      "why": "KI-Denken: Planificador de Viajes Costa Báltica y Mar del Norte para Autónomos"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Viajes Costa Báltica y Mar del Norte para Autónomos"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.0287556,
+      "why": "KI-Denken: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.0042011999999999996,
+      "why": "KI-Pruefung: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.022334399999999997,
+      "why": "KI-Denken: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.022476,
+      "why": "KI-Denken: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-30T05:59:16",
+      "eur": -0.0022895999999999997,
+      "why": "Audit: Planificador de Viajes Costa Báltica y Mar del Norte para Autónomos"
+    },
+    {
+      "t": "2026-10-30T05:59:16",
+      "eur": -0.0038051999999999995,
+      "why": "Audit: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-10-30T05:59:16",
+      "eur": -0.0022884,
+      "why": "Audit: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.0012659999999999998,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (es)"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.0017556,
+      "why": "Blog-Artikel: Frankfurt Skyline (fr)"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.00037319999999999996,
+      "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gérer vos Finances Personnelles"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606152974"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Family Fitness Progress Tracker"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606134159"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Small Landlord's Simplified Guide: 7 Stress-Free Strategies to Manage 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-10-30T05:54:03",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606153004"
     }
   ],
   "alive": true,
@@ -13639,6 +13720,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-10-29T23:58:09",
       "img": true
+    },
+    {
+      "slug": "explorando-la-speicherstadt-de-hamburgo",
+      "title": "Explorando la Speicherstadt de Hamburgo: Un Tesoro Histórico",
+      "lang": "es",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-10-30T05:54:03",
+      "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-explorer-la-metropole-allemande",
+      "title": "Frankfurt Skyline : Explorer la Métropole Allemande entre Modernité et Tradition",
+      "lang": "fr",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-10-30T05:54:03",
+      "img": true
     }
   ],
   "videos": [
@@ -14750,6 +14847,16 @@
       "hashtags": "#德国秘境 #自然奇观 #吕根岛旅行 #白垩悬崖 #波罗的海之美",
       "voice": "这里是德国吕根岛的梦幻白垩悬崖！百万年形成的雪白岩壁在波罗的海阳光下闪耀，被称为'北欧的白色巨人'。漫步在维纳斯台阶，你会看到碧海与纯白悬崖的绝妙碰撞，这是大自然最壮观的杰作之一。别忘了打卡柯尼希斯图尔观景台，将整个联合国教科文组织保护的奇景尽收眼底！",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "frankfurt-skyline-explorer-la-metropole-allemande",
+      "title": "Frankfurt Skyline : Explorer la Métropole Allemande entre Modernité et Tradition",
+      "lang": "fr",
+      "created": "2026-10-30T05:54:03",
+      "hashtags": "#FrankfurtSkyline #Allemagne #Voyage #UrbanExploration #MainTower",
+      "voice": "Découvrez Frankfurt, une ville où l'histoire rencontre l'innovation. La skyline époustouflante domine l'horizon, avec ses gratte-ciel impressionnants comme la Main Tower, offrant une vue panoramique à couper le souffle. Entre tradition et modernité, Frankfurt vous invite à explorer son charme unique. Une destination inoubliable en Allemagne !",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
