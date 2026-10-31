@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 418.2441,
-  "spent_eur": 86.4261,
+  "balance_eur": 417.202,
+  "spent_eur": 87.4682,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6614,7 +6614,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Studien. Der Inhalt ist klar und praktisch orientiert, ohne Regelverstöße wie Gesundheitsversprechen, Beratung oder Markennennung. Die Sprache ist einheitlich und der Text vollständig. Einige Wiederholungen im Stil, aber kein Grund zur Entfernung.",
       "pay_url": "https://buy.stripe.com/fZu4gA5s5bpF1E2bQU2kw42",
       "payment_link_id": "plink_1URLfDJ5iOXkWb9Vo1aGW4N5",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606981908"
+      }
     },
     {
       "type": "excel",
@@ -6638,7 +6641,10 @@
       "audit_note": "Keine Verstöße gegen die Regeln festgestellt. Das Produkt beschreibt eine funktionale Excel-Vorlage ohne erfundene Studien, Statistiken oder Gesundheitsversprechen. Alle Berechnungen sind plausibel und es gibt keine unerlaubten Angaben.",
       "pay_url": "https://buy.stripe.com/cNi14o9Il51h82qcUY2kw43",
       "payment_link_id": "plink_1URRiGJ5iOXkWb9V9UrxXkNC",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606981934"
+      }
     },
     {
       "type": "ebook",
@@ -6662,7 +6668,10 @@
       "audit_note": "Das E-Book enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Tipps basieren auf allgemein bekanntem Wissens und praktischen Ratschlägen. Keine Regelverstöße festgestellt.",
       "pay_url": "https://buy.stripe.com/3cI5kEg6J3XdciGf362kw44",
       "payment_link_id": "plink_1URRiGJ5iOXkWb9VIjGfnoI2",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606981956"
+      }
     },
     {
       "type": "excel",
@@ -10863,159 +10872,81 @@
       "pay_url": "https://buy.stripe.com/5kQ00kg6J65l0zYdZ22kx2L",
       "payment_link_id": "plink_1UWVF0J5iOXkWb9V2I53LYWl",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "聪明养狗：7个简单步骤让你的狗狗更快乐",
+      "slug": "cong-ming-yang-gou-7-ge-jian-dan-bu-zhou-rang-ni-de-gou-gou-geng-kuai-le",
+      "price_eur": 5,
+      "target": "忙碌的狗主人，尤其是上班族和新手养狗者",
+      "reason": "中国城市中的狗主人数量快速增长，但很多人因工作繁忙而缺乏养狗知识的系统指导。这本手册专注于实用的低成本解决方案，解决了忙碌都市人的实际需求，为新手和经验不足的狗主人提供清晰、易执行的步骤。",
+      "language": "zh",
+      "pitch": "这本实用指南提供了简单易行的步骤，帮助你在忙碌的生活中更好地照顾你的狗狗，同时减少压力，增进你们的关系。",
+      "content_html": "<h2>内容</h2><p>这本电子书将教你如何在忙碌的日常生活中轻松管理狗狗的需求，从基本护理到行为训练，以及如何与你的狗狗建立更强的情感联系。</p><h3>目录</h3><ol><li>建立日常护理习惯</li><li>简单的家庭训练方法</li><li>低成本自制狗粮</li><li>基础服从训练</li><li>室内游戏和运动</li><li>狗狗健康监测</li><li>与工作平衡的养狗技巧</li></ol>",
+      "pro": false,
+      "created": "2026-10-31T12:38:53",
+      "file": "cong-ming-yang-gou-7-ge-jian-dan-bu-zhou-rang-ni-de-gou-gou-geng-kuai-le-6e3fbdaefcb80ff0.pdf",
+      "size": 2489,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Enthält spezifische Prozentangaben ohne nachweisbare Quelle. Sprachmix in Abschnitten (Deutsch/Chinesisch). Ansonsten brauchbarer Praxisratgeber ohne gravierende Verstöße.",
+      "pay_url": "https://buy.stripe.com/28E14odYBdxN82qf362kx2M",
+      "payment_link_id": "plink_1UWcDdJ5iOXkWb9V33Dhk0SX",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Budget de Déménagement & Rénovation 2026",
+      "slug": "budget-demenagement-renovation",
+      "price_eur": 9,
+      "target": "Particuliers et professionnels organisant un déménagement ou des travaux",
+      "reason": "Outil professionnel immédiatement utilisable avec calculs automatiques et suivi visuel",
+      "language": "fr",
+      "pitch": "Suivez vos dépenses et optimisez votre budget en temps réel comme une agence professionnelle",
+      "content_html": "<h2>Contenu</h2><p>Outil tout-en-un pour planifier et contrôler l'ensemble des coûts liés à votre déménagement et rénovation</p>",
+      "pro": true,
+      "created": "2026-10-31T12:38:53",
+      "file": "budget-demenagement-renovation-0659cceff16b74e2.xlsx",
+      "size": 3,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "keine klaren Regelverstöße, allgemein bekanntes Wissen und eigene Praxistipps",
+      "pay_url": "https://buy.stripe.com/4gM3cw5s5bpF1E27AE2kx2N",
+      "payment_link_id": "plink_1UWcDeJ5iOXkWb9V2NhhVhmO",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Petit Guide du Jardinier Autosuffisant: 7 Étapes Simples pour Cultiver Vos Légumes Toute l'Année",
+      "slug": "petit-guide-jardinier-autosuffisant",
+      "price_eur": 5,
+      "target": "Jardiniers amateurs et aspirants à l'autosuffisance alimentaire",
+      "reason": "Ce guide comble un besoin réel des jardiniers francophones débutants qui cherchent des conseils pratiques pour devenir autonomes. Le format en 7 étapes simples avec des exemples concrets le rend accessible et immédiatement utile.",
+      "language": "fr",
+      "pitch": "Découvrez comment transformer votre jardin en source abondante de nourriture fraîche toute l'année avec des méthodes simples et efficaces. Parfait pour les débutants !",
+      "content_html": "<h2>Contenu</h2><p>Un guide pratique avec des techniques éprouvées pour réussir votre potager mois après mois. Inclut des conseils d'organisation, de plantation et d'entretien.</p>",
+      "pro": false,
+      "created": "2026-10-31T12:38:53",
+      "file": "petit-guide-jardinier-autosuffisant-b4537749b6808742.pdf",
+      "size": 1695,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt hält sich weitgehend an die Regeln und enthält praktische, allgemein bekannte Gartentipps. Die erwähnte Zahl '10%' ist zwar spezifisch, aber nicht unrealistisch oder unplausibel im Kontext eines empfohlenen Experimentierraums. Es gibt keine offensichtlichen Verstöße gegen die Regeln, kein",
+      "pay_url": "https://buy.stripe.com/8x214o6w9dxN0zY3ko2kx2O",
+      "payment_link_id": "plink_1UWcDfJ5iOXkWb9VD7iVX6Rz",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): day is out of range for month"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.022321199999999996,
-      "why": "KI-Denken: Planificateur de Contenu YouTube & Suivi des Performances"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.0011832,
-      "why": "KI-Pruefung: Planificateur de Contenu YouTube & Suivi des Performances"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.030135600000000002,
-      "why": "KI-Denken: Guide Pratique pour Enseignants: 7 Stratégies Simples pour Gagner du Temps et Améliorer Vos Cours"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.0038736,
-      "why": "KI-Pruefung: Guide Pratique pour Enseignants: 7 Stratégies Simples pour Gagner du Temps et Améliorer Vos Cours"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guide Pratique pour Enseignants: 7 Stratégies Simples pour Gagner du Temps et Améliorer Vos Cours"
-    },
-    {
-      "t": "2026-10-29T13:23:49",
-      "eur": -0.0038459999999999996,
-      "why": "Audit: 自给自足的魔法指南：7个简单步骤打造你的家庭菜园"
-    },
-    {
-      "t": "2026-10-29T13:23:49",
-      "eur": -0.0029963999999999998,
-      "why": "Audit: Planificateur de Contenu YouTube & Suivi des Performances"
-    },
-    {
-      "t": "2026-10-29T13:23:49",
-      "eur": -0.0036756,
-      "why": "Audit: Guide Pratique pour Enseignants: 7 Stratégies Simples pour Gagner du Temps et Am"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.0010355999999999998,
-      "why": "Blog-Artikel: Bodensee (zh)"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.0011028,
-      "why": "Blog-Artikel: Mosel Cochem (es)"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.00039119999999999997,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Discovering Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to History, Culture & Hidden Gems"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605607309"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605626686"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Descubre Dresden y Sajonia: Guía Práctica para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605626720"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.0221664,
-      "why": "KI-Denken: Senior Care Medication Tracker & Cost Planner"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Medication Tracker & Cost Planner"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.0225396,
-      "why": "KI-Denken: Senior Care Medication & Expense Tracker"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.0011244,
-      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel-Kennzahlen alle 0 - verworfen"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.022145999999999996,
-      "why": "KI-Denken: Senior Care Expense & Medication Tracker for Families"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Expense & Medication Tracker for Families"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
     {
       "t": "2026-10-29T19:40:56",
       "eur": -0.021868799999999997,
@@ -11870,6 +11801,156 @@
       "t": "2026-10-31T05:48:17",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606819318"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.028497599999999998,
+      "why": "KI-Denken: 聪明养狗：7个简单步骤让你的狗狗更快乐"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.004116,
+      "why": "KI-Pruefung: 聪明养狗：7个简单步骤让你的狗狗更快乐"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: 聪明养狗：7个简单步骤让你的狗狗更快乐"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.023444399999999997,
+      "why": "KI-Denken: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.0010056,
+      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.023276399999999996,
+      "why": "KI-Denken: Planificateur de Déménagement & Rénovation : Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Déménagement & Rénovation : Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.023029199999999996,
+      "why": "KI-Denken: Planificateur de Budget de Déménagement & Rénovation 2026"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Budget de Déménagement & Rénovation 2026"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Expecting value: line 321 column 1 (char 1760)"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.029739599999999995,
+      "why": "KI-Denken: Le Petit Guide du Jardinier Autosuffisant: 7 Étapes Simples pour Cultiver Vos Légumes Toute l'Année"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.0043044,
+      "why": "KI-Pruefung: Le Petit Guide du Jardinier Autosuffisant: 7 Étapes Simples pour Cultiver Vos Légumes Toute l'Année"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Petit Guide du Jardinier Autosuffisant: 7 Étapes Simples pour Cultiver Vos Légumes Toute l'Année"
+    },
+    {
+      "t": "2026-10-31T13:20:58",
+      "eur": -0.0042612,
+      "why": "Audit: 聪明养狗：7个简单步骤让你的狗狗更快乐"
+    },
+    {
+      "t": "2026-10-31T13:20:58",
+      "eur": -0.0018215999999999998,
+      "why": "Audit: Planificateur de Budget de Déménagement & Rénovation 2026"
+    },
+    {
+      "t": "2026-10-31T13:20:58",
+      "eur": -0.0039816,
+      "why": "Audit: Le Petit Guide du Jardinier Autosuffisant: 7 Étapes Simples pour Cultiver Vos Lé"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.0012299999999999998,
+      "why": "Blog-Artikel: Schwarzwald (fr)"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.0011435999999999998,
+      "why": "Blog-Artikel: Saarland Saarschleife (de)"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.00039359999999999997,
+      "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606981908"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606981934"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Freelancer's Guide to Stress-Free Productivity: 7 Simple Steps to More Focus & Less Overwhelm"
+    },
+    {
+      "t": "2026-10-31T12:38:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606981956"
     }
   ],
   "alive": true,
@@ -14115,6 +14196,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-10-31T05:48:17",
       "img": true
+    },
+    {
+      "slug": "charme-authentique-foret-noire",
+      "title": "Le charme authentique de la Forêt-Noire",
+      "lang": "fr",
+      "topic": "Schwarzwald",
+      "created": "2026-10-31T12:38:53",
+      "img": true
+    },
+    {
+      "slug": "entdeckungsreise-zur-saarschleife-im-saarland",
+      "title": "Entdeckungsreise zur Saarschleife im Saarland",
+      "lang": "de",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-10-31T12:38:53",
+      "img": true
     }
   ],
   "videos": [
@@ -15266,6 +15363,16 @@
       "hashtags": "#München #Marienplatz #Deutschland #Reisetipp #Stadtleben",
       "voice": "Mitten im Herzen Münchens liegt der Marienplatz – ein Ort voller Geschichte und Leben! Bestaune das beeindruckende Rathaus und das berühmte Glockenspiel, das täglich Tausende begeistert. Egal ob Shopping, Café-Besuch oder einfach nur das Flair genießen – hier pulsiert die Stadt! Abends verwandelt sich der Platz in ein magisches Lichtermeer. Ein Muss für jeden München-Besuch!",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "entdeckungsreise-zur-saarschleife-im-saarland",
+      "title": "Entdeckungsreise zur Saarschleife im Saarland",
+      "lang": "de",
+      "created": "2026-10-31T12:38:53",
+      "hashtags": "#Saarland #Saarschleife #Naturwunder #Wanderparadies #DeutschlandReisen",
+      "voice": "Die Saarschleife – ein atemberaubendes Naturjuwel! Hier schlängelt sich die Saar durch grüne Wälder und formt eine spektakuläre Flussschleife. Bestaune das Panorama vom Cloef-Aussichtspunkt oder erkunde die Traumblicke auf Wanderwegen. Ein magisches Erlebnis für Naturfans und Fotografen! Absolute Entschleunigung garantiert.",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
