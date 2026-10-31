@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 420.1094,
-  "spent_eur": 84.5609,
+  "balance_eur": 419.1174,
+  "spent_eur": 85.5529,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6452,7 +6452,10 @@
       "audit_note": "Der Inhalt hält sich an die Regeln, enthält keine erfundenen Zahlen oder Studien und bietet nützliche Praxistipps ohne rechtliche oder finanzielle Beratung.",
       "pay_url": "https://buy.stripe.com/cNi9AUbQt2T9dmK5sw2kw3W",
       "payment_link_id": "plink_1URBABJ5iOXkWb9VtU4ffO7V",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606683633"
+      }
     },
     {
       "type": "excel",
@@ -6476,7 +6479,10 @@
       "audit_note": "Der Inhalt ist größtenteils korrekt und folgt den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert und entsprechen den Beispieldaten. Die Sprache ist konsistent spanisch und es gibt keine Platzhalter oder unfertigen Texte.",
       "pay_url": "https://buy.stripe.com/7sYfZiaMp0L15Ui1cg2kw3X",
       "payment_link_id": "plink_1URFaoJ5iOXkWb9VTlIXX09f",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606704176"
+      }
     },
     {
       "type": "ebook",
@@ -6500,7 +6506,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen festgestellt. Der Inhalt ist klar, praxisnah und entspricht den Regeln. Kleinere sprachliche Ungenauigkeiten, aber kein Regelverstoß.",
       "pay_url": "https://buy.stripe.com/00wbJ2f2FeBRciGf362kw3Y",
       "payment_link_id": "plink_1URFapJ5iOXkWb9Vg5k3dIug",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606704224"
+      }
     },
     {
       "type": "excel",
@@ -10701,119 +10710,81 @@
       "pay_url": "https://buy.stripe.com/9B6bJ2cUxeBReqOf362kx2F",
       "payment_link_id": "plink_1UWLWkJ5iOXkWb9V3r2k9kZZ",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Der Stressfreie Vermieter: 7 Schritte zur einfachen Verwaltung von 1-5 Wohnungen",
+      "slug": "der-stressfreie-vermieter",
+      "price_eur": 5,
+      "target": "Vermieter mit 1-5 Wohnungen",
+      "reason": "Vermieter mit 1-5 Wohnungen stehen oft vor Herausforderungen in der Verwaltung. Dieses E-Book bietet praktische Lösungen und einfache Schritte, um den Alltag stressfreier zu gestalten.",
+      "language": "de",
+      "pitch": "Entdecken Sie einfache Strategien, um Ihre Mietwohnungen effizient zu verwalten, ohne Zeit zu verschwenden oder gestresst zu sein.",
+      "content_html": "<h2>Inhalt</h2> <ul><li>Einführung in die stressfreie Verwaltung</li><li>Schritt 1: Organisation von Dokumenten</li><li>Schritt 2: Effiziente Kommunikation mit Mietern</li><li>Schritt 3: Budgetplanung und Kostenkontrolle</li><li>Schritt 4: Zeitmanagement für Eigentümer</li><li>Schritt 5: Die richtige Software finden</li><li>Schritt 6: Bewerbungen prüfen</li><li>Schritt 7: Stress reduzieren</li></ul>",
+      "pro": false,
+      "created": "2026-10-30T23:51:17",
+      "file": "der-stressfreie-vermieter-bcbb4f1773467f8c.pdf",
+      "size": 1955,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Ebook enthält keine erfundenen Studien, Statistiken oder Prozentzahlen, keine unfertigen Texte oder Platzhalter, und bietet allgemein bekannte Praxistipps zur Verwaltung von Mietwohnungen. Es ist legal, ehrlich und entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/6oU6oI07LctJ3Ma3ko2kx2G",
+      "payment_link_id": "plink_1UWPgNJ5iOXkWb9VIivThv0q",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Exam Prep Budget & Progress Tracker for Students",
+      "slug": "ultimate-exam-prep-budget-progress-tracker",
+      "price_eur": 9,
+      "target": "Students preparing for exams",
+      "reason": "This template provides a comprehensive solution for students to manage their study budget and track their progress, ensuring they stay on top of their exam preparation without unnecessary stress.",
+      "language": "en",
+      "pitch": "Stay organized and focused while preparing for exams with this all-in-one budget and progress tracker.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps you track your study budget, monitor progress, and stay on top of deadlines. Perfect for students aiming for success without stress.</p>",
+      "pro": true,
+      "created": "2026-10-30T23:51:17",
+      "file": "ultimate-exam-prep-budget-progress-tracker-2d3e8f2b4b92557f.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien oder Statistiken, keine Regelverstöße erkennbar. Das Produkt ist ein funktionaler Excel-Tracker für Lernbudget und -fortschritt ohne problematische Inhalte.",
+      "pay_url": "https://buy.stripe.com/3cI3cw8Eh0L15Ui8EI2kx2H",
+      "payment_link_id": "plink_1UWPgOJ5iOXkWb9VnHy3qla6",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Little Restaurant Success Kit: Simple Strategies to Attract Families & Boost Your Sales",
+      "slug": "the-little-restaurant-success-kit",
+      "price_eur": 5,
+      "target": "small restaurants and cafes",
+      "reason": "The focus on small restaurants and cafes aligns with the target audience, and the actionable strategies provide clear value, making it worth the price.",
+      "language": "en",
+      "pitch": "Discover easy-to-implement strategies to make your restaurant more family-friendly and increase your revenue with practical tips and real-life examples.",
+      "content_html": "<h2>Contents</h2><ul><li>Introduction</li><li>Chapter 1: Creating a Family-Friendly Atmosphere</li><li>Chapter 2: Kid-Friendly Menu Ideas</li><li>Chapter 3: Engaging Activities for Children</li><li>Chapter 4: Effective Marketing to Families</li><li>Chapter 5: Building Loyalty with Regular Customers</li><li>Conclusion: Next Steps for Your Business</li></ul>",
+      "pro": false,
+      "created": "2026-10-30T23:51:17",
+      "file": "the-little-restaurant-success-kit-352f0ea10a6969bf.pdf",
+      "size": 1796,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Buch enthält keine offensichtlichen Verstöße gegen die Regeln. Der Inhalt besteht aus allgemein bekannten Ratschlägen für familienfreundliche Restaurants ohne erfundene Statistiken oder problematische Gesundheits-/Rechtsaussagen. Kleinere stilistische Ungenauigkeiten, aber fachlich korrekt.",
+      "pay_url": "https://buy.stripe.com/eVq8wQg6J79pdmKdZ22kx2I",
+      "payment_link_id": "plink_1UWPgPJ5iOXkWb9VgHJlBUv3",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.0014927999999999999,
-      "why": "Blog-Artikel: Eifel Maare (de)"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.0013067999999999999,
-      "why": "Blog-Artikel: Rheingau Weinberge (en)"
-    },
-    {
-      "t": "2026-10-28T16:41:24",
-      "eur": -0.00038399999999999996,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.028701599999999997,
-      "why": "KI-Denken: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.004114799999999999,
-      "why": "KI-Pruefung: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.0216528,
-      "why": "KI-Denken: Ultimate Female Travel Packing List & Budget Tracker - 2026 Pro Edition"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Female Travel Packing List & Budget Tracker - 2026 Pro Edition"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.027616799999999993,
-      "why": "KI-Denken: The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.0034235999999999997,
-      "why": "KI-Pruefung: The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales"
-    },
-    {
-      "t": "2026-10-28T22:45:41",
-      "eur": -0.0038544,
-      "why": "Audit: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
-    },
-    {
-      "t": "2026-10-28T22:45:41",
-      "eur": -0.0049308,
-      "why": "Audit: Ultimate Female Travel Packing List & Budget Tracker - 2026 Pro Edition"
-    },
-    {
-      "t": "2026-10-28T22:45:41",
-      "eur": -0.0031571999999999993,
-      "why": "Audit: The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.0016523999999999998,
-      "why": "Blog-Artikel: Schwarzwald (es)"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.001332,
-      "why": "Blog-Artikel: Saarland Saarschleife (fr)"
-    },
-    {
-      "t": "2026-10-28T22:38:50",
-      "eur": -0.0004116,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.021995999999999995,
-      "why": "KI-Denken: Planificador de Eventos y Finanzas para Asociaciones"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.0010236,
-      "why": "KI-Pruefung: Planificador de Eventos y Finanzas para Asociaciones"
-    },
     {
       "t": "2026-10-29T05:53:07",
       "eur": -0.029039999999999996,
@@ -11703,6 +11674,121 @@
       "t": "2026-10-30T19:26:21",
       "eur": -0.00026159999999999996,
       "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.030512399999999995,
+      "why": "KI-Denken: Der Stressfreie Vermieter: 7 Schritte zur einfachen Verwaltung von 1-5 Wohnungen"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.0040656,
+      "why": "KI-Pruefung: Der Stressfreie Vermieter: 7 Schritte zur einfachen Verwaltung von 1-5 Wohnungen"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.16,
+      "why": "KI-Bilder: Der Stressfreie Vermieter: 7 Schritte zur einfachen Verwaltung von 1-5 Wohnungen"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.022805999999999996,
+      "why": "KI-Denken: Ultimate Exam Prep Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.028176,
+      "why": "KI-Denken: The Little Restaurant Success Kit: Simple Strategies to Attract Families & Boost Your Sales"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.0033672,
+      "why": "KI-Pruefung: The Little Restaurant Success Kit: Simple Strategies to Attract Families & Boost Your Sales"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Little Restaurant Success Kit: Simple Strategies to Attract Families & Boost Your Sales"
+    },
+    {
+      "t": "2026-10-30T23:57:49",
+      "eur": -0.0037559999999999994,
+      "why": "Audit: Der Stressfreie Vermieter: 7 Schritte zur einfachen Verwaltung von 1-5 Wohnungen"
+    },
+    {
+      "t": "2026-10-30T23:57:49",
+      "eur": -0.0020183999999999996,
+      "why": "Audit: Ultimate Exam Prep Budget & Progress Tracker for Students"
+    },
+    {
+      "t": "2026-10-30T23:57:49",
+      "eur": -0.0030647999999999995,
+      "why": "Audit: The Little Restaurant Success Kit: Simple Strategies to Attract Families & Boost"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.0013488,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (fr)"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.0013559999999999998,
+      "why": "Blog-Artikel: Muenchen Marienplatz (de)"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.0003972,
+      "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sales"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606683633"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Gestión y Planificación de Eventos para Asociaciones"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606704176"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-10-30T23:51:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606704224"
     }
   ],
   "alive": true,
@@ -13916,6 +14002,22 @@
       "topic": "Harz Brocken",
       "created": "2026-10-30T19:26:21",
       "img": true
+    },
+    {
+      "slug": "wattenmeer-mer-du-nord-allemagne",
+      "title": "Le Wattenmeer de la mer du Nord : un joyau naturel allemand à découvrir",
+      "lang": "fr",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-10-30T23:51:17",
+      "img": true
+    },
+    {
+      "slug": "muenchens-herzstueck-der-marienplatz-ein-reisefuehrer",
+      "title": "Münchens Herzstück: Der Marienplatz – Ein Reiseführer",
+      "lang": "de",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-10-30T23:51:17",
+      "img": true
     }
   ],
   "videos": [
@@ -15057,6 +15159,16 @@
       "hashtags": "#HarzBrocken #Natur #Wandern #Deutschland #Aussicht",
       "voice": "Entdecke den Harz Brocken, den höchsten Gipfel Norddeutschlands. Natur pur, Wanderparadies und magische Aussicht erwarten dich!",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "muenchens-herzstueck-der-marienplatz-ein-reisefuehrer",
+      "title": "Münchens Herzstück: Der Marienplatz – Ein Reiseführer",
+      "lang": "de",
+      "created": "2026-10-30T23:51:17",
+      "hashtags": "#München #Marienplatz #Deutschland #Reisetipp #Stadtleben",
+      "voice": "Mitten im Herzen Münchens liegt der Marienplatz – ein Ort voller Geschichte und Leben! Bestaune das beeindruckende Rathaus und das berühmte Glockenspiel, das täglich Tausende begeistert. Egal ob Shopping, Café-Besuch oder einfach nur das Flair genießen – hier pulsiert die Stadt! Abends verwandelt sich der Platz in ein magisches Lichtermeer. Ein Muss für jeden München-Besuch!",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
