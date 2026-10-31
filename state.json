@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 417.202,
-  "spent_eur": 87.4682,
+  "balance_eur": 416.9518,
+  "spent_eur": 87.7184,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10944,94 +10944,81 @@
       "pay_url": "https://buy.stripe.com/8x214o6w9dxN0zY3ko2kx2O",
       "payment_link_id": "plink_1UWcDfJ5iOXkWb9VD7iVX6Rz",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Content ROI Tracker & Budget Planner 2026",
+      "slug": "youtube-roi-budget-planner",
+      "price_eur": 9,
+      "target": "YouTube Creators & Small Business Owners",
+      "reason": "YouTube creators need an all-in-one solution to track performance and plan content strategically. This template provides clear ROI calculations and budget tracking missing from YouTube Studio.",
+      "language": "en|de|es|fr|zh",
+      "pitch": "Track your video performance, ad revenue, and expenses in one place. Optimize your content strategy with data-driven insights.",
+      "content_html": "<h2>What's Inside</h2><p>This professional Excel template helps you monitor your YouTube channel's performance, calculate ROI per video, and plan your content budget effectively.</p><h3>Key Features</h3><ul><li>Video performance dashboard</li><li>Ad revenue calculator</li><li>Expense tracker</li><li>ROI analysis</li><li>Content planning calendar</li></ul>",
+      "pro": true,
+      "created": "2026-10-31T18:36:11",
+      "file": "youtube-roi-budget-planner-646ae97beb1e3819.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Quellen. Enthält nur Beispielrechnungen und klare Berechnungen. Keine unerlaubten Gesundheitsversprechen, Finanz- oder Rechtsberatungen. Die Formeln sind korrekt und nachvollziehbar.",
+      "pay_url": "https://buy.stripe.com/aFa9AUaMpgJZaayf362kx2P",
+      "payment_link_id": "plink_1UWhQOJ5iOXkWb9Vdvxa3Q6A",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Stress-Free Teacher's Guide: 7 Simple Steps to Engage Students & Save Time",
+      "slug": "stress-free-teachers-guide-7-steps-engage-students-save-time",
+      "price_eur": 5,
+      "target": "Teachers and tutors looking for practical classroom strategies",
+      "reason": "This fills a gap for practical, non-theoretical teaching guides that focus on sustainable practices rather than adding more work. The 7-step format makes it easy to implement, and the price point is accessible for educators.",
+      "language": "en",
+      "pitch": "Discover proven techniques to reduce stress while improving student engagement. Perfect for busy educators who want to maximize their impact without burning out.",
+      "content_html": "<h2>Contents</h2><ol><li>Introduction: Why Teaching Shouldn't Be Stressful</li><li>Step 1: The 5-Minute Prep That Saves Hours</li><li>Step 2: How to Make Any Lesson Interactive</li><li>Step 3: The Feedback Shortcut That Actually Works</li><li>Step 4: Turning Classroom Chaos Into Productive Energy</li><li>Step 5: Simple Tech Tools to Automate Grading</li><li>Step 6: Building Student Independence in 10 Minutes/Day</li><li>Step 7: Creating Sustainable Routines That Last All Year</li></ol>",
+      "pro": false,
+      "created": "2026-10-31T18:36:11",
+      "file": "stress-free-teachers-guide-7-steps-engage-students-save-time-11e4676d0a0f8b04.pdf",
+      "size": 1766,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt ist legal, ehrlich und frei von Spam oder Beratung. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Gesundheitsversprechen oder Marken von Dritten. Der Leitfaden bietet praktische Tipps für Lehrer ohne gegen die Regeln zu verstoßen. Einzelne Prozentzahl ('One teacher saved 1.5",
+      "pay_url": "https://buy.stripe.com/8x26oI1bPbpF96u6wA2kx2Q",
+      "payment_link_id": "plink_1UWhQOJ5iOXkWb9VkzCoWRrS",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Pflegekosten-Tracker & Budgetplaner für Angehörige",
+      "slug": "senior-care-expense-tracker-budget-planner",
+      "price_eur": 9,
+      "target": "Senioren und Pflegeorganisationen für Angehörige",
+      "reason": "Diese professionelle Vorlage hilft pflegenden Angehörigen, alle Kosten im Blick zu behalten und das Budget zu planen - wie von einer Buchhaltungsagentur erstellt.",
+      "language": "de",
+      "pitch": "2 Saetze",
+      "content_html": "<h2>Inhalt</h2><p>Professionelle Excel-Vorlage zur einfachen Erfassung und Planung aller Pflegekosten für Angehörige. Mit automatischer Summenberechnung, Kategorienanalyse und Budgetüberwachung.</p>",
+      "pro": true,
+      "created": "2026-10-31T18:36:11",
+      "file": "senior-care-expense-tracker-budget-planner-9303e2433035984a.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine Regelverstöße festgestellt. Der Inhalt ist klar, ehrlich und ohne erfundene Statistiken, Zahlen oder Zitate. Die Excel-Formeln sind sinnvoll und nachvollziehbar. Beispieldaten sind korrekt als solche gekennzeichnet. Keine Fehler in Sprache oder Rechtschreibung.",
+      "pay_url": "https://buy.stripe.com/28E00k4o1eBRfuS1cg2kx2R",
+      "payment_link_id": "plink_1UWhQPJ5iOXkWb9VxduHM5g2",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.021868799999999997,
-      "why": "KI-Denken: Senior Care Medication & Expense Tracker"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.028540799999999998,
-      "why": "KI-Denken: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.0032411999999999996,
-      "why": "KI-Pruefung: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.0233388,
-      "why": "KI-Denken: Schwarzwald Reisekosten-Tracker & Budgetplaner für internationale Gäste"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.0017207999999999998,
-      "why": "KI-Pruefung: Schwarzwald Reisekosten-Tracker & Budgetplaner für internationale Gäste"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.023152799999999998,
-      "why": "KI-Denken: Ultimate Schwarzwald Reisebudget- & Aktivitäten-Tracker für internationale Gäste"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.0015803999999999998,
-      "why": "KI-Pruefung: Ultimate Schwarzwald Reisebudget- & Aktivitäten-Tracker für internationale Gäste"
-    },
-    {
-      "t": "2026-10-29T19:47:50",
-      "eur": -0.0035832,
-      "why": "Audit: Senior Care Medication & Expense Tracker"
-    },
-    {
-      "t": "2026-10-29T19:47:50",
-      "eur": -0.0030839999999999995,
-      "why": "Audit: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Bu"
-    },
-    {
-      "t": "2026-10-29T19:47:50",
-      "eur": -0.0050496,
-      "why": "Audit: Ultimate Schwarzwald Reisebudget- & Aktivitäten-Tracker für internationale Gäste"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.001434,
-      "why": "Blog-Artikel: Heidelberg Altstadt (fr)"
-    },
     {
       "t": "2026-10-29T19:40:56",
       "eur": -0.0010512,
@@ -11951,6 +11938,86 @@
       "t": "2026-10-31T12:38:53",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606981956"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.023052,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.0292764,
+      "why": "KI-Denken: The Stress-Free Teacher's Guide: 7 Simple Steps to Engage Students & Save Time"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.0033887999999999995,
+      "why": "KI-Pruefung: The Stress-Free Teacher's Guide: 7 Simple Steps to Engage Students & Save Time"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Stress-Free Teacher's Guide: 7 Simple Steps to Engage Students & Save Time"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.023067599999999997,
+      "why": "KI-Denken: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-31T18:53:57",
+      "eur": -0.0023124,
+      "why": "Audit: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-31T18:53:57",
+      "eur": -0.0032735999999999998,
+      "why": "Audit: The Stress-Free Teacher's Guide: 7 Simple Steps to Engage Students & Save Time"
+    },
+    {
+      "t": "2026-10-31T18:53:57",
+      "eur": -0.0013344,
+      "why": "Audit: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.0009851999999999999,
+      "why": "Blog-Artikel: Koeln Dom (en)"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.0009923999999999998,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (zh)"
+    },
+    {
+      "t": "2026-10-31T18:36:11",
+      "eur": -0.00038159999999999995,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
     }
   ],
   "alive": true,
@@ -14212,6 +14279,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-10-31T12:38:53",
       "img": true
+    },
+    {
+      "slug": "explore-cologne-cathedral-must-see-landmark-germany",
+      "title": "Explore the Majestic Cologne Cathedral: A Must-See Landmark in Germany",
+      "lang": "en",
+      "topic": "Koeln Dom",
+      "created": "2026-10-31T18:36:11",
+      "img": true
+    },
+    {
+      "slug": "exploring-zollverein-ruhrgebiet-germany",
+      "title": "探索德国鲁尔区工业遗产：埃森关税同盟煤矿工业区",
+      "lang": "zh",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-10-31T18:36:11",
+      "img": true
     }
   ],
   "videos": [
@@ -15373,6 +15456,16 @@
       "hashtags": "#Saarland #Saarschleife #Naturwunder #Wanderparadies #DeutschlandReisen",
       "voice": "Die Saarschleife – ein atemberaubendes Naturjuwel! Hier schlängelt sich die Saar durch grüne Wälder und formt eine spektakuläre Flussschleife. Bestaune das Panorama vom Cloef-Aussichtspunkt oder erkunde die Traumblicke auf Wanderwegen. Ein magisches Erlebnis für Naturfans und Fotografen! Absolute Entschleunigung garantiert.",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "exploring-zollverein-ruhrgebiet-germany",
+      "title": "探索德国鲁尔区工业遗产：埃森关税同盟煤矿工业区",
+      "lang": "zh",
+      "created": "2026-10-31T18:36:11",
+      "hashtags": "#德國旅遊 #世界遺產 #工業文化 #魯爾區 #煤礦遺址",
+      "voice": "這裡是德國魯爾區的傳奇地標——關稅同盟煤礦工業區！曾見證歐洲工業革命的紅磚建築群，如今華麗變身為世界文化遺產。高聳的焦化廠與鋼鐵廊道間，現代藝術與工業遺跡完美交融。白天漫步空中步道俯瞰礦區全景，入夜後燈光秀將歷史建築變成巨型藝術品。快來感受這座露天工業博物館的獨特魅力！",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Ben, CC BY-SA 3.0, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
