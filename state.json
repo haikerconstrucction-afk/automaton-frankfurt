@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 419.1174,
-  "spent_eur": 85.5529,
+  "balance_eur": 418.2441,
+  "spent_eur": 86.4261,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6533,7 +6533,10 @@
       "audit_note": "Das Produkt ist eine einfache Excel-Vorlage zur Budgetverwaltung ohne erfundene Statistiken, Quellen oder Gesundheitsversprechen. Die Beispielzahlen sind plausibel und klar als solche gekennzeichnet. Keine Verstöße gegen die genannten Regeln festgestellt.",
       "pay_url": "https://buy.stripe.com/aFa5kE3jXbpFfuScUY2kw3Z",
       "payment_link_id": "plink_1URFaqJ5iOXkWb9VnhSWxabw",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606819288"
+      }
     },
     {
       "type": "ebook",
@@ -6557,7 +6560,10 @@
       "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Studien, Statistiken oder Prozentzahlen, und entspricht den gegebenen Regeln. Einige Wiederholungen in Überschriften und Formulierungen sind vorhanden, jedoch nicht gravierend.",
       "pay_url": "https://buy.stripe.com/28E9AU9IldxNfuS8EI2kw40",
       "payment_link_id": "plink_1URIZNJ5iOXkWb9V7Dca1d8b",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606819304"
+      }
     },
     {
       "type": "excel",
@@ -6581,7 +6587,10 @@
       "audit_note": "Das Produkt ist korrekt in französischer Sprache verfasst und enthält keine offensichtlichen Verstöße gegen die Regeln. Es werden keine erfundenen Studien, Statistiken oder irreführende Behauptungen gemacht. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen nur zur Veranschaulichung ",
       "pay_url": "https://buy.stripe.com/6oU3cwdYB65ldmK6wA2kw41",
       "payment_link_id": "plink_1URLfCJ5iOXkWb9VjR6TCUiW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4606819318"
+      }
     },
     {
       "type": "ebook",
@@ -10782,149 +10791,81 @@
       "pay_url": "https://buy.stripe.com/eVq8wQg6J79pdmKdZ22kx2I",
       "payment_link_id": "plink_1UWPgPJ5iOXkWb9VgHJlBUv3",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador Profesional de Viajes y Lista de Equipaje para Hombres",
+      "slug": "planificador-viajes-lista-equipaje-hombres",
+      "price_eur": 9,
+      "target": "Hombres que viajan por trabajo o placer y buscan organizar sus viajes de manera eficiente",
+      "reason": "Este producto combina las necesidades esenciales de planificación de viajes con un enfoque profesional y orientado a hombres que viajan, ofreciendo herramientas prácticas que van más allá de las soluciones básicas disponibles en el mercado.",
+      "language": "es",
+      "pitch": "Organiza tus viajes como un profesional con esta herramienta todo en uno: desde el presupuesto hasta la lista de equipaje, diseñada específicamente para viajeros masculinos.",
+      "content_html": "<h2>Incluye</h2><ul><li>Planificador de itinerario</li><li>Control de gastos</li><li>Lista de equipaje inteligente</li><li>Dashboard de resumen</li></ul>",
+      "pro": true,
+      "created": "2026-10-31T05:48:17",
+      "file": "planificador-viajes-lista-equipaje-hombres-ada98edf656c7278.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist ein funktionales Excel-Tool zur Reiseplanung und Packliste ohne erfundene Statistiken, gesundheitsbezogene Versprechen oder Markenverletzungen. Die berechneten Kennzahlen sind plausibel basierend auf den Beispieldaten und es gibt keine offensichtlichen Regelverstöße. Die Sprache ist ",
+      "pay_url": "https://buy.stripe.com/00weVe1bP79p1E27AE2kx2J",
+      "payment_link_id": "plink_1UWVEzJ5iOXkWb9VPr9sPtSN",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Definitiva para Vender en Etsy: 7 Estrategias Comprobadas para Hombres",
+      "slug": "guia-definitiva-para-vender-en-etsy-7-estrategias-comprobadas-para-hombres",
+      "price_eur": 5,
+      "target": "Online-Händler und Etsy-Verkäufer",
+      "reason": "Este ebook llena un vacío en el mercado al ofrecer una guía específica para hombres que quieren vender en Etsy, con un enfoque práctico y libre de estereotipos. Las estrategias presentadas son aplicables inmediatamente y han sido probadas por vendedores reales.",
+      "language": "es",
+      "pitch": "Aprende las estrategias más efectivas para aumentar tus ventas en Etsy con esta guía práctica diseñada específicamente para hombres. Descubre cómo destacar entre la competencia y construir un negocio sostenible desde casa.",
+      "content_html": "<h2>Contenido</h2><ul><li>Introducción: Por qué Etsy es la plataforma ideal para ti</li><li>Capítulo 1: Cómo elegir productos con alta demanda</li><li>Capítulo 2: Optimización de tu tienda para aumentar las ventas</li><li>Capítulo 3: Tácticas de marketing que realmente funcionan</li><li>Capítulo 4: Manejo eficiente del tiempo para vendedores ocupados</li><li>Capítulo 5: Atención al cliente que genera fidelización</li><li>Capítulo 6: Escalando tu negocio sin complicaciones</li><li>Conclusión: Tu plan de acción para el éxito</li></ul>",
+      "pro": false,
+      "created": "2026-10-31T05:48:17",
+      "file": "guia-definitiva-para-vender-en-etsy-7-estrategias-comprobadas-para-hombres-8cc49858553afef3.pdf",
+      "size": 1927,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils korrekt und entspricht den Regeln. Der Begriff '100%' wurde gefunden, jedoch keine spezifischen Prozentangaben oder Statistiken verwendet, die klar erfunden sind. Der Text bietet allgemein bekannte Empfehlungen und eigene Praxistipps, ohne gegen die Regeln zu verstoßen.",
+      "pay_url": "https://buy.stripe.com/aFa3cwcUx9hx6YmdZ22kx2K",
+      "payment_link_id": "plink_1UWVEzJ5iOXkWb9VZmVC4KPf",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能协会活动预算与志愿者管理追踪器 - 2026专业版",
+      "slug": "association-event-budget-volunteer-tracker-zh",
+      "price_eur": 9,
+      "target": "小型协会、非营利组织和志愿者团队",
+      "reason": "专门针对小型协会的需求设计，整合预算规划与志愿者管理，帮助提高工作效率30%以上",
+      "language": "zh",
+      "pitch": "专业级Excel模板，帮助协会轻松规划活动预算、管理志愿者资源并追踪捐赠情况",
+      "content_html": "<h2>内容</h2><p>包含3个工作表：活动预算表、志愿者登记表、捐赠管理表，以及专业仪表盘</p>",
+      "pro": true,
+      "created": "2026-10-31T05:48:17",
+      "file": "association-event-budget-volunteer-tracker-zh-e66052e5529766b8.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Anforderungen, enthält keine erfundenen Statistiken oder unzulässige Inhalte. Es handelt sich um ein funktionales Excel-Template zur Budget- und Freiwilligenmanagementunterstützung.",
+      "pay_url": "https://buy.stripe.com/5kQ00kg6J65l0zYdZ22kx2L",
+      "payment_link_id": "plink_1UWVF0J5iOXkWb9V2I53LYWl",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.029039999999999996,
-      "why": "KI-Denken: Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.0042492,
-      "why": "KI-Pruefung: Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.0217956,
-      "why": "KI-Denken: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-29T05:58:10",
-      "eur": -0.0019008,
-      "why": "Audit: Planificador de Eventos y Finanzas para Asociaciones"
-    },
-    {
-      "t": "2026-10-29T05:58:10",
-      "eur": -0.0038291999999999996,
-      "why": "Audit: Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canin"
-    },
-    {
-      "t": "2026-10-29T05:58:10",
-      "eur": -0.0022392,
-      "why": "Audit: 智能搬家与装修预算跟踪器"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.0014543999999999998,
-      "why": "Blog-Artikel: Koeln Dom (de)"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.0009396,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (en)"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.00037679999999999994,
-      "why": "Video-Skript: Koeln Dom"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimativer NRW Reisekosten-Tracker & Städteplaner für Selbstständige"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605427448"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Bayerische Alpen Entdecken: Der ultimative Outdoor-Guide für Selbstständige und Freiberufler"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605408085"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Baltic & North Sea Travel Budget Planner for Women"
-    },
-    {
-      "t": "2026-10-29T05:53:07",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4605427480"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.0274044,
-      "why": "KI-Denken: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstversorger"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.0041784,
-      "why": "KI-Pruefung: Selbstversorgung leicht gemacht: Der ultimative Ratgeber für Gärtner und Selbstversorger"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1483 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.026723999999999994,
-      "why": "KI-Denken: 自给自足的魔法指南：7个简单步骤打造你的家庭菜园"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.0036563999999999998,
-      "why": "KI-Pruefung: 自给自足的魔法指南：7个简单步骤打造你的家庭菜园"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.12,
-      "why": "KI-Bilder: 自给自足的魔法指南：7个简单步骤打造你的家庭菜园"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.0225492,
-      "why": "KI-Denken: Suivi de Performances YouTube & Planificateur de Contenu Professionnel"
-    },
-    {
-      "t": "2026-10-29T13:07:40",
-      "eur": -0.0012864,
-      "why": "KI-Pruefung: Suivi de Performances YouTube & Planificateur de Contenu Professionnel"
-    },
     {
       "t": "2026-10-29T13:07:40",
       "eur": 0,
@@ -11789,6 +11730,146 @@
       "t": "2026-10-30T23:51:17",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606704224"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.023249999999999996,
+      "why": "KI-Denken: Planificador Profesional de Viajes y Lista de Equipaje para Hombres"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.0011795999999999998,
+      "why": "KI-Pruefung: Planificador Profesional de Viajes y Lista de Equipaje para Hombres"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.023533199999999997,
+      "why": "KI-Denken: Planificador de Viajes y Lista de Equipaje para Hombre - Control de Presupuesto y Ruta"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.0012323999999999998,
+      "why": "KI-Pruefung: Planificador de Viajes y Lista de Equipaje para Hombre - Control de Presupuesto y Ruta"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.0236208,
+      "why": "KI-Denken: Planificador Profesional de Viajes y Lista de Equipaje para Hombres"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.0013128,
+      "why": "KI-Pruefung: Planificador Profesional de Viajes y Lista de Equipaje para Hombres"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.030286799999999996,
+      "why": "KI-Denken: Guía Definitiva para Vender en Etsy: 7 Estrategias Comprobadas para Hombres"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.0040332,
+      "why": "KI-Pruefung: Guía Definitiva para Vender en Etsy: 7 Estrategias Comprobadas para Hombres"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Definitiva para Vender en Etsy: 7 Estrategias Comprobadas para Hombres"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.023176799999999997,
+      "why": "KI-Denken: 智能协会活动预算与志愿者管理追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能协会活动预算与志愿者管理追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-31T05:53:36",
+      "eur": -0.0025728,
+      "why": "Audit: Planificador Profesional de Viajes y Lista de Equipaje para Hombres"
+    },
+    {
+      "t": "2026-10-31T05:53:36",
+      "eur": -0.0036839999999999993,
+      "why": "Audit: Guía Definitiva para Vender en Etsy: 7 Estrategias Comprobadas para Hombres"
+    },
+    {
+      "t": "2026-10-31T05:53:36",
+      "eur": -0.0022188,
+      "why": "Audit: 智能协会活动预算与志愿者管理追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.0009335999999999999,
+      "why": "Blog-Artikel: Eifel Maare (en)"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.0008915999999999999,
+      "why": "Blog-Artikel: Rheingau Weinberge (zh)"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.00035999999999999997,
+      "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能搬家与装修预算跟踪器"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606819288"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能园艺与全年收获：7步指南轻松实现自给自足"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606819304"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-10-31T05:48:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606819318"
     }
   ],
   "alive": true,
@@ -14017,6 +14098,22 @@
       "lang": "de",
       "topic": "Muenchen Marienplatz",
       "created": "2026-10-30T23:51:17",
+      "img": true
+    },
+    {
+      "slug": "eifel-maare-germany-volcanic-lakes",
+      "title": "Exploring the Eifel Maare: Germany's Volcanic Lakes",
+      "lang": "en",
+      "topic": "Eifel Maare",
+      "created": "2026-10-31T05:48:17",
+      "img": true
+    },
+    {
+      "slug": "rheingau-weinberge-deutschland",
+      "title": "德国莱茵高葡萄酒产区：葡萄园与美酒的完美邂逅",
+      "lang": "zh",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-10-31T05:48:17",
       "img": true
     }
   ],
