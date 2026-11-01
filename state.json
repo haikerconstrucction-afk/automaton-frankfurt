@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 415.1613,
-  "spent_eur": 89.5089,
+  "balance_eur": 414.2054,
+  "spent_eur": 90.4648,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6857,7 +6857,10 @@
       "audit_note": "Das Produkt ist ein funktionaler Excel-Budget-Tracker ohne erfundene Statistiken oder fragwürdige Behauptungen. Es enthält keine Rechts-/Finanz-/Medizinberatung und keine fremden Marken. Die Beispielpreise für Tickets und Mahlzeiten sind plausibel und nicht als allgemeingültige Werte dargestellt. Di",
       "pay_url": "https://buy.stripe.com/5kQ9AU3jXctJ0zYbQU2kx03",
       "payment_link_id": "plink_1URZpgJ5iOXkWb9V2jbvXWNy",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607542748"
+      }
     },
     {
       "type": "ebook",
@@ -6881,7 +6884,10 @@
       "audit_note": "Der Inhalt ist größtenteils ehrlich und frei von erfundenen Statistiken oder Zahlangaben. Es gibt keine klaren Regelverstöße, lediglich einige Details könnten als spekulativ oder übertrieben angesehen werden (z. B. die Beschreibung der neuen Gebäude und Technologien in Dresden).",
       "pay_url": "https://buy.stripe.com/bJefZi6w979pgyWf362kx04",
       "payment_link_id": "plink_1URcdNJ5iOXkWb9V9AJSk9Q4",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607542780"
+      }
     },
     {
       "type": "excel",
@@ -6905,7 +6911,10 @@
       "audit_note": "Das Produkt ist legal, ehrlich und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es bietet klare Anweisungen und sinnvolle Excel-Formeln. Die Sprache ist konsistent französisch, es gibt keine unfertigen Texte oder Platzhalter. Die berechneten Kennzahlen sind plausibel basierend a",
       "pay_url": "https://buy.stripe.com/28E8wQbQt2T996ubQU2kx05",
       "payment_link_id": "plink_1URcdNJ5iOXkWb9VSWb54E8t",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607542796"
+      }
     },
     {
       "type": "ebook",
@@ -11130,124 +11139,81 @@
       "pay_url": "https://buy.stripe.com/9B66oIcUxdxNaay8EI2kx2V",
       "payment_link_id": "plink_1UWsATJ5iOXkWb9VLJxg2XbV",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Descubre Baviera y los Alpes: 7 Rutas Esenciales para Viajeros Masculinos",
+      "slug": "baviera-alpes-rutas-hombres",
+      "price_eur": 5,
+      "target": "Viajeros masculinos que desean explorar Baviera y los Alpes con rutas prácticas y consejos locales",
+      "reason": "Resuelve necesidades específicas de viajeros masculinos en Baviera con datos concretos y verificables, evitando clichés y ofreciendo información práctica que realmente usan los locales",
+      "language": "es",
+      "pitch": "Guía práctica con 7 rutas cuidadosamente seleccionadas para descubrir los paisajes más impresionantes de Baviera y los Alpes, adaptadas especialmente para viajeros masculinos",
+      "content_html": "<h2>Contenido</h2> Índice + Muestra de lectura con detalles de rutas, consejos de transporte y puntos clave",
+      "pro": false,
+      "created": "2026-11-01T13:32:33",
+      "file": "baviera-alpes-rutas-hombres-124f098e24489f53.pdf",
+      "size": 1669,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist sachlich korrekt und enthält keine erfundenen Statistiken oder unzulässigen Angaben. Die Tipps sind praktisch und allgemein bekannt. Keine Regelverstöße erkennbar.",
+      "pay_url": "https://buy.stripe.com/bJefZig6J1P596u2gk2kx2W",
+      "payment_link_id": "plink_1UWz2HJ5iOXkWb9V502i4V5v",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ostsee & Nordsee Reisebudget-Tracker & Planer für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)",
+      "slug": "nordsee-ostsee-reisebudget-tracker",
+      "price_eur": 9,
+      "target": "Selbstständige, die Reisen an die Ostsee oder Nordsee planen und ihre Ausgaben im Blick behalten möchten",
+      "reason": "Diese Vorlage bietet Selbstständigen einen klaren Überblick über Reisekosten, hilft das Budget einzuhalten und spart Zeit durch Automatisierung - ideal für häufige Dienstreisen an die Küste.",
+      "language": "de",
+      "pitch": "2 Saetze",
+      "content_html": "<h2>Inhalt</h2><p>Diese professionelle Excel-Vorlage hilft dir, deine Reisekosten für Ostsee- und Nordsee-Trips zu planen und zu tracken. Automatische Berechnungen, Kategorisierung und Übersichten sparen dir Zeit und geben dir Kontrolle über dein Budget.</p>",
+      "pro": true,
+      "created": "2026-11-01T13:32:33",
+      "file": "nordsee-ostsee-reisebudget-tracker-6734780aa51b3c14.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Excel-Funktionen und Beispielrechnungen sind plausibel und klar als solche erkennbar. Keine Regelverstöße erkennbar.",
+      "pay_url": "https://buy.stripe.com/5kQ8wQbQtbpFaaydZ22kx2X",
+      "payment_link_id": "plink_1UWz2IJ5iOXkWb9VD9oLd10i",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "莱茵河浪漫之旅：法兰克福与海德堡的7个隐藏瑰宝",
+      "slug": "rhine-frankfurt-heidelberg-hidden-gems-zh",
+      "price_eur": 5,
+      "target": "计划游览德国莱茵河地区的华语旅行者，喜欢小众路线与文化深度体验",
+      "reason": "针对华语游客对深度旅行指南的需求，市面上现有产品多集中于大众景点，缺少本地生活视角的中文实用信息",
+      "language": "zh",
+      "pitch": "避开游客人群，像当地人一样探索莱茵河谷的隐秘角落——7个简单步骤带您发现法兰克福与海德堡最真实的魅力",
+      "content_html": "<h2>内容目录</h2><ol><li>第一章：老城区的秘密巷道</li><li>第二章：本地人才知道的河畔咖啡馆</li><li>第三章：绝美日落观赏点</li><li>第四章：平价美味餐厅指南</li><li>第五章：历史文化冷知识</li><li>第六章：一日完美行程规划</li><li>第七章：特色纪念品选购攻略</li></ol><h3>试读片段</h3><p>在海德堡城堡后方的哲学家小径尽头，藏着一个被紫藤覆盖的隐秘观景台...</p>",
+      "pro": false,
+      "created": "2026-11-01T13:32:33",
+      "file": "rhine-frankfurt-heidelberg-hidden-gems-zh-afac688967ccba1d.pdf",
+      "size": 1892,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt bietet nützliche lokale Insider-Tipps ohne erfundene Statistiken oder unzulässige Versprechen. Kleinere sprachliche Unebenheiten, aber keine schwerwiegenden Verstöße gegen die Regeln.",
+      "pay_url": "https://buy.stripe.com/14AbJ26w9gJZfuS4os2kx2Y",
+      "payment_link_id": "plink_1UWz2JJ5iOXkWb9VTFLfEJd4",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.004297199999999999,
-      "why": "KI-Pruefung: 德累斯顿与萨克森：7步探索隐藏的文化与自然宝藏"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: 德累斯顿与萨克森：7步探索隐藏的文化与自然宝藏"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.022819199999999994,
-      "why": "KI-Denken: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.0010103999999999998,
-      "why": "KI-Pruefung: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.029482799999999997,
-      "why": "KI-Denken: Histoires Magiques pour le Dodo : 7 Contes Enchantés pour les Petits Explorateurs de 3 à 8 Ans"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.0043571999999999994,
-      "why": "KI-Pruefung: Histoires Magiques pour le Dodo : 7 Contes Enchantés pour les Petits Explorateurs de 3 à 8 Ans"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.16,
-      "why": "KI-Bilder: Histoires Magiques pour le Dodo : 7 Contes Enchantés pour les Petits Explorateurs de 3 à 8 Ans"
-    },
-    {
-      "t": "2026-10-30T13:12:12",
-      "eur": -0.004369199999999999,
-      "why": "Audit: 德累斯顿与萨克森：7步探索隐藏的文化与自然宝藏"
-    },
-    {
-      "t": "2026-10-30T13:12:12",
-      "eur": -0.002244,
-      "why": "Audit: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
-    },
-    {
-      "t": "2026-10-30T13:12:12",
-      "eur": -0.0040176,
-      "why": "Audit: Histoires Magiques pour le Dodo : 7 Contes Enchantés pour les Petits Explorateur"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.001482,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (de)"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.0010308,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (en)"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.00034559999999999994,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Intelligenter Prüfungsvorbereitungs-Tracker für Studierende"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606322575"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Der Erfolgsplan für kleine Restaurants und Cafés: 7 bewährte Strategien für mehr Umsatz und Kundenzufriedenheit"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606322603"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Female Business Travel Planner: Budget, Itinerary & Packing List Tracker"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606322641"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.0225816,
-      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker"
-    },
     {
       "t": "2026-10-30T19:26:21",
       "eur": -0.001,
@@ -12137,6 +12103,121 @@
       "t": "2026-11-01T06:11:53",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607390473"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.030093599999999995,
+      "why": "KI-Denken: Descubre Baviera y los Alpes: 7 Rutas Esenciales para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.0043104,
+      "why": "KI-Pruefung: Descubre Baviera y los Alpes: 7 Rutas Esenciales para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.12,
+      "why": "KI-Bilder: Descubre Baviera y los Alpes: 7 Rutas Esenciales para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.023594399999999998,
+      "why": "KI-Denken: Ostsee & Nordsee Reisebudget-Tracker & Planer für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ostsee & Nordsee Reisebudget-Tracker & Planer für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.029587199999999998,
+      "why": "KI-Denken: 莱茵河浪漫之旅：法兰克福与海德堡的7个隐藏瑰宝"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.0044328,
+      "why": "KI-Pruefung: 莱茵河浪漫之旅：法兰克福与海德堡的7个隐藏瑰宝"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.16,
+      "why": "KI-Bilder: 莱茵河浪漫之旅：法兰克福与海德堡的7个隐藏瑰宝"
+    },
+    {
+      "t": "2026-11-01T13:42:48",
+      "eur": -0.0039372,
+      "why": "Audit: Descubre Baviera y los Alpes: 7 Rutas Esenciales para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-11-01T13:42:48",
+      "eur": -0.0014724,
+      "why": "Audit: Ostsee & Nordsee Reisebudget-Tracker & Planer für Selbstständige: Professionelle"
+    },
+    {
+      "t": "2026-11-01T13:42:48",
+      "eur": -0.004502399999999999,
+      "why": "Audit: 莱茵河浪漫之旅：法兰克福与海德堡的7个隐藏瑰宝"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.0011891999999999998,
+      "why": "Blog-Artikel: Saechsische Schweiz (zh)"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.0014279999999999998,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (es)"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.0004271999999999999,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能柏林与波茨坦旅行预算追踪器 - 专业技能向导版"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607542748"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能萨克森旅行指南：德累斯顿及周边隐藏宝藏"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607542780"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Budget & Suivi de Chantier pour Artisans"
+    },
+    {
+      "t": "2026-11-01T13:32:33",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607542796"
     }
   ],
   "alive": true,
@@ -14445,6 +14526,22 @@
       "lang": "en",
       "topic": "Neuschwanstein",
       "created": "2026-11-01T06:11:53",
+      "img": true
+    },
+    {
+      "slug": "saechsische-schweiz-deutschland-reise",
+      "title": "萨克森小瑞士：德国最壮丽的自然奇观",
+      "lang": "zh",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-11-01T13:32:33",
+      "img": true
+    },
+    {
+      "slug": "descubriendo-los-acantilados-de-creta-de-ruegen-en-alemania",
+      "title": "Descubriendo los Acantilados de Creta de Rügen en Alemania",
+      "lang": "es",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-11-01T13:32:33",
       "img": true
     }
   ],
