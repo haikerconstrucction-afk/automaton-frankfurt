@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 416.9518,
-  "spent_eur": 87.7184,
+  "balance_eur": 415.9219,
+  "spent_eur": 88.7483,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6695,7 +6695,10 @@
       "audit_note": "Das Produkt ist ein einfacher und funktionaler Budget-Tracker ohne erfundene Statistiken oder fragwürdige Behauptungen. Es enthält keine unzulässigen Inhalte wie Gesundheitsversprechen, Finanzberatung oder Verwendung von Marken Dritter. Die Beispielzahlen sind klar als Beispiele gekennzeichnet und n",
       "pay_url": "https://buy.stripe.com/14A8wQg6JfFV3Ma2gk2kw45",
       "payment_link_id": "plink_1URRiHJ5iOXkWb9V3VU1cKF1",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607313798"
+      }
     },
     {
       "type": "ebook",
@@ -6719,7 +6722,10 @@
       "audit_note": "Der Inhalt ist größtenteils in Ordnung, ohne erfundene Studien oder Statistiken. Es werden allgemeine Tipps und lokale Empfehlungen gegeben, die plausibel erscheinen. Einige kleinere sprachliche Schwächen und unvollständige Sätze sind vorhanden, aber keine gravierenden Regelverstöße.",
       "pay_url": "https://buy.stripe.com/9B614odYB79pfuS8EI2kw46",
       "payment_link_id": "plink_1URWevJ5iOXkWb9VbcyRNcOD",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607313818"
+      }
     },
     {
       "type": "excel",
@@ -6743,7 +6749,10 @@
       "audit_note": "Keine erfunden Studien, Statistiken oder Prozentzahlen. Keine sachlichen Fehler oder Regelverstöße. Der Inhalt ist klar, präzise und entspricht den Vorgaben. Einzig kleine Optimierungen in der Benutzerführung sind denkbar.",
       "pay_url": "https://buy.stripe.com/cNieVe9Il0L1eqObQU2kw47",
       "payment_link_id": "plink_1URWewJ5iOXkWb9VodsnRNmT",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607291755"
+      }
     },
     {
       "type": "ebook",
@@ -11016,139 +11025,81 @@
       "pay_url": "https://buy.stripe.com/28E00k4o1eBRfuS1cg2kx2R",
       "payment_link_id": "plink_1UWhQPJ5iOXkWb9VxduHM5g2",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Effiziente Selbstorganisation für Freelancer: 7 Schritte zu mehr Produktivität und weniger Stress",
+      "slug": "effiziente-selbstorganisation-fuer-freelancer",
+      "price_eur": 5,
+      "target": "Selbstständige und Freelancer",
+      "reason": "Dieses E-Book bietet Freelancern konkrete, praxiserprobte Schritte zu besserer Selbstorganisation. Die klare Struktur und einfache Sprache machen es leicht verständlich und sofort anwendbar.",
+      "language": "de",
+      "pitch": "Praktische Strategien für eine bessere Work-Life-Balance und gesteigerte Effizienz im Arbeitsalltag",
+      "content_html": "<h2>Inhalt</h2>Inhaltsverzeichnis + Leseprobe",
+      "pro": false,
+      "created": "2026-10-31T23:31:51",
+      "file": "effiziente-selbstorganisation-fuer-freelancer-97b896a814d0ff39.pdf",
+      "size": 1857,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt hält sich strikt an die Regeln. Es gibt keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Die Sprache ist klar, die Texte sind vollständig und frei von Platzhaltern oder Wiederholungen. Es werden keine sachlichen Fehler oder unzulässigen Beratungen angeboten. Gesundheitsv",
+      "pay_url": "https://buy.stripe.com/4gMfZi7Ad51h82qdZ22kx2S",
+      "payment_link_id": "plink_1UWmRmJ5iOXkWb9VK3SaNmaA",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Schwarzwald Reisebudget Tracker & Planer für internationale Gäste",
+      "slug": "schwarzwald-reisebudget-tracker-planer",
+      "price_eur": 9,
+      "target": "Reiseführer Deutschland für internationale Gäste: Schwarzwald",
+      "reason": "Diese professionelle Vorlage bietet internationalen Reisenden einen klaren Überblick über alle Ausgaben im Schwarzwald mit automatischen Berechnungen und visuellen Darstellungen - genau wie von einer Reiseagentur.",
+      "language": "de|en|es|fr|zh",
+      "pitch": "2 Sätze",
+      "content_html": "<h2>Inhalt</h2><p>Professionelle Excel-Vorlage zur Planung und Nachverfolgung aller Reisekosten im Schwarzwald - wie von einer Agentur erstellt. Enthält automatische Berechnungen, Übersichten und Diagramme für volle Kostenkontrolle.</p>",
+      "pro": true,
+      "created": "2026-10-31T23:31:51",
+      "file": "schwarzwald-reisebudget-tracker-planer-3b7ecbb34e210d32.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionaler Excel-Budget-Tracker ohne erfundene Statistiken, Gesundheitsversprechen oder Rechtsberatung. Die Beispielzahlen sind klar als solche gekennzeichnet. Die gemischte Sprache (Deutsch/Englisch) ist bei einem Produkt für internationale Gäste akzeptabel. Die Formeln sind k",
+      "pay_url": "https://buy.stripe.com/dRmaEYg6J51heqO2gk2kx2T",
+      "payment_link_id": "plink_1UWmRnJ5iOXkWb9VoCwdTlSw",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets",
+      "slug": "saarland-moselle-hidden-gems-female-travel-guide",
+      "price_eur": 5,
+      "target": "Female travelers exploring Saarland and Moselle region, looking for insider tips and safe, scenic routes",
+      "reason": "Fills a gap in practical female-focused travel guides for this region, combining route planning with local knowledge and safety considerations that solo travelers need. The structured scenic routes with insider recommendations provide clear value.",
+      "language": "en",
+      "pitch": "Discover 7 breathtaking hidden gems in Saarland & Moselle with this practical guide featuring safe routes, local insights, and female-friendly tips for solo travelers.",
+      "content_html": "<h2>Content</h2><p>Introduction to Saarland & Moselle's charm</p><p>7 detailed scenic routes with maps</p><p>Local foodie spots loved by residents</p><p>Safety tips for solo female travelers</p><p>Photography spots with perfect timing</p><p>Seasonal packing essentials</p><p>Bonus: Sample 3-day itinerary</p>",
+      "pro": false,
+      "created": "2026-10-31T23:31:51",
+      "file": "saarland-moselle-hidden-gems-female-travel-guide-d327fe361c618964.pdf",
+      "size": 1764,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "The content is original, well-structured, and provides valuable travel insights without violating any specified rules. It adheres to the guidelines by avoiding spam, financial/legal/medical advice, and fabricated statistics. The language is clear and appropriate for the intended audience.",
+      "pay_url": "https://buy.stripe.com/28EdRa6w99hx82q2gk2kx2U",
+      "payment_link_id": "plink_1UWmRoJ5iOXkWb9VmIUVQnYO",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.0010512,
-      "why": "Blog-Artikel: Neuschwanstein (de)"
-    },
-    {
-      "t": "2026-10-29T19:40:56",
-      "eur": -0.0003984,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.029333999999999995,
-      "why": "KI-Denken: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.0042708,
-      "why": "KI-Pruefung: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.04,
-      "why": "KI-Bilder: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.022155599999999998,
-      "why": "KI-Denken: Ultimate NRW City Trip Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate NRW City Trip Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.0230004,
-      "why": "KI-Denken: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.0014268,
-      "why": "KI-Pruefung: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.028111199999999996,
-      "why": "KI-Denken: Bavarian Alps Explorer: 7 Hidden Trails for Female Travelers"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.0034547999999999996,
-      "why": "KI-Pruefung: Bavarian Alps Explorer: 7 Hidden Trails for Female Travelers"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.16,
-      "why": "KI-Bilder: Bavarian Alps Explorer: 7 Hidden Trails for Female Travelers"
-    },
-    {
-      "t": "2026-10-30T00:08:47",
-      "eur": -0.0039828,
-      "why": "Audit: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausfl"
-    },
-    {
-      "t": "2026-10-30T00:08:47",
-      "eur": -0.0026064,
-      "why": "Audit: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
-    },
-    {
-      "t": "2026-10-30T00:08:47",
-      "eur": -0.0031943999999999996,
-      "why": "Audit: Bavarian Alps Explorer: 7 Hidden Trails for Female Travelers"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.0012192,
-      "why": "Blog-Artikel: Saechsische Schweiz (en)"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.0011975999999999998,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (zh)"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.00035639999999999994,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能施工现场报价与成本跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606006673"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 睡前魔法：7个温馨的晚安故事（3-8岁）"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606026064"
-    },
     {
       "t": "2026-10-29T23:58:09",
       "eur": -0.19,
@@ -12018,6 +11969,141 @@
       "t": "2026-10-31T18:36:11",
       "eur": -0.00038159999999999995,
       "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.029143199999999998,
+      "why": "KI-Denken: 7 Schritte zum produktiven Arbeitsalltag: Effizienztipps für Selbstständige und Freelancer"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.0041496,
+      "why": "KI-Pruefung: 7 Schritte zum produktiven Arbeitsalltag: Effizienztipps für Selbstständige und Freelancer"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1376 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): 'NoneType' object has no attribute 'group'"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.030783599999999998,
+      "why": "KI-Denken: Effiziente Selbstorganisation für Freelancer: 7 Schritte zu mehr Produktivität und weniger Stress"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.004176,
+      "why": "KI-Pruefung: Effiziente Selbstorganisation für Freelancer: 7 Schritte zu mehr Produktivität und weniger Stress"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.16,
+      "why": "KI-Bilder: Effiziente Selbstorganisation für Freelancer: 7 Schritte zu mehr Produktivität und weniger Stress"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.023499599999999995,
+      "why": "KI-Denken: Schwarzwald Reisebudget Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Schwarzwald Reisebudget Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.029336399999999995,
+      "why": "KI-Denken: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.0037332,
+      "why": "KI-Pruefung: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.16,
+      "why": "KI-Bilder: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
+    },
+    {
+      "t": "2026-11-01T00:14:44",
+      "eur": -0.0038723999999999994,
+      "why": "Audit: Effiziente Selbstorganisation für Freelancer: 7 Schritte zu mehr Produktivität u"
+    },
+    {
+      "t": "2026-11-01T00:14:44",
+      "eur": -0.0038291999999999996,
+      "why": "Audit: Schwarzwald Reisebudget Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-11-01T00:14:44",
+      "eur": -0.003366,
+      "why": "Audit: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Loc"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.001344,
+      "why": "Blog-Artikel: Bodensee (es)"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.0014292,
+      "why": "Blog-Artikel: Mosel Cochem (fr)"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.0003828,
+      "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607313798"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Entdecke Saarland & Mosel: Der ultimative Reiseführer für Selbstständige und Familien"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607313818"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate NRW Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-10-31T23:31:51",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607291755"
     }
   ],
   "alive": true,
@@ -14295,6 +14381,22 @@
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-10-31T18:36:11",
       "img": true
+    },
+    {
+      "slug": "explorando-el-lago-de-constanza-guia-de-viaje",
+      "title": "Explorando el Lago de Constanza: Guía de Viaje",
+      "lang": "es",
+      "topic": "Bodensee",
+      "created": "2026-10-31T23:31:51",
+      "img": true
+    },
+    {
+      "slug": "decouvrir-cochem-perle-romantique-moselle",
+      "title": "Découvrir Cochem, la perle romantique de la Moselle",
+      "lang": "fr",
+      "topic": "Mosel Cochem",
+      "created": "2026-10-31T23:31:51",
+      "img": true
     }
   ],
   "videos": [
@@ -15466,6 +15568,16 @@
       "hashtags": "#德國旅遊 #世界遺產 #工業文化 #魯爾區 #煤礦遺址",
       "voice": "這裡是德國魯爾區的傳奇地標——關稅同盟煤礦工業區！曾見證歐洲工業革命的紅磚建築群，如今華麗變身為世界文化遺產。高聳的焦化廠與鋼鐵廊道間，現代藝術與工業遺跡完美交融。白天漫步空中步道俯瞰礦區全景，入夜後燈光秀將歷史建築變成巨型藝術品。快來感受這座露天工業博物館的獨特魅力！",
       "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Ben, CC BY-SA 3.0, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrir-cochem-perle-romantique-moselle",
+      "title": "Découvrir Cochem, la perle romantique de la Moselle",
+      "lang": "fr",
+      "created": "2026-10-31T23:31:51",
+      "hashtags": "#Cochem #Moselle #Allemagne #Voyage #Chateau #Vignoble #PetitCoinDeParadis",
+      "voice": "Découvrez Cochem, joyau de la Moselle allemande ! Son château féerique domine des paysages de vignes en terrasses. Naviguez sur le fleuve, dégustez des vins fruités et perdez-vous dans la vieille ville colorée. Une escapade romantique où nature, histoire et gastronomie s'unissent pour un dépaysement total. Un coup de cœur garant !",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
