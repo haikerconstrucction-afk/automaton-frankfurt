@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 414.2054,
-  "spent_eur": 90.4648,
+  "balance_eur": 413.8859,
+  "spent_eur": 90.7843,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -11211,154 +11211,81 @@
       "pay_url": "https://buy.stripe.com/14AbJ26w9gJZfuS4os2kx2Y",
       "payment_link_id": "plink_1UWz2JJ5iOXkWb9VTFLfEJd4",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Berlin & Potsdam Tourisme Budget Tracker & Itinéraire - Modèle Professionnel 2026",
+      "slug": "berlin-potsdam-tourisme-budget-tracker",
+      "price_eur": 14.9,
+      "target": "Guides touristiques indépendants, agences locales et professionnels du secteur touristique ciblant Berlin et Potsdam",
+      "reason": "Les guides touristiques professionnels ont besoin d'un outil spécifique pour gérer la complexité de leurs circuits à Berlin et Potsdam. Ce tracker répond à ce besoin en offrant une solution complète qui combine gestion financière et optimisation d'itinéraires, tout en étant adapté aux particularités du secteur touristique (réservations groupées, horaires variables, etc.). Son prix se justifie par les gains de temps et la meilleure visibilité financière qu'il apporte.",
+      "language": "fr",
+      "pitch": "Planifiez vos circuits touristiques avec précision et optimisez vos dépenses grâce à ce tracker complet pour guides professionnels. Gardez le contrôle de votre rentabilité tout en offrant une expérience exceptionnelle à vos clients.",
+      "content_html": "<h2>Contenu</h2><p>Un outil tout-en-un pour gérer l'ensemble de vos activités de guide touristique à Berlin et Potsdam : budget, itinéraires, réservations et analyse de performance.</p>",
+      "pro": true,
+      "created": "2026-11-01T18:58:09",
+      "file": "berlin-potsdam-tourisme-budget-tracker-41df048612bdee8e.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist legal, ehrlich und entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder Quellen. Die Beispielrechnungen sind plausibel und es gibt keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Die Sprache ist korrekt und es gibt keine Platzhalter oder unfertigen Texte",
+      "pay_url": "https://buy.stripe.com/00w28s7AdeBR5Uig7a2kx2Z",
+      "payment_link_id": "plink_1UX472J5iOXkWb9VZzTLW3IS",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Découvrir Dresde et la Saxe en 7 étapes : Le guide pratique pour voyageurs autonomes",
+      "slug": "decouvrir-dresde-et-la-saxe-en-7-etapes",
+      "price_eur": 5,
+      "target": "Voyageurs francophones souhaitant explorer Dresde et la Saxe de manière autonome",
+      "reason": "Ce guide répond à un besoin clair des voyageurs francophones souhaitant découvrir Dresde et la Saxe de manière autonome, avec des conseils pratiques et des itinéraires faciles à suivre.",
+      "language": "fr",
+      "pitch": "Un guide étape par étape pour découvrir les trésors cachés de Dresde et la Saxe, avec des conseils pratiques et des itinéraires faciles à suivre.",
+      "content_html": "<h2>Inhalt</h2>\n<ul>\n<li>Introduction</li>\n<li>Étape 1 : Préparer votre voyage</li>\n<li>Étape 2 : Explorer le centre-ville de Dresde</li>\n<li>Étape 3 : Découvrir les trésors culturels de la Saxe</li>\n<li>Étape 4 : Profiter de la nature et des paysages</li>\n<li>Étape 5 : Goûter à la cuisine locale</li>\n<li>Étape 6 : Sortir des sentiers battus</li>\n<li>Étape 7 : Conseils pratiques pour prolonger votre séjour</li>\n</ul>",
+      "pro": false,
+      "created": "2026-11-01T18:58:09",
+      "file": "decouvrir-dresde-et-la-saxe-en-7-etapes-d5fa65e8cdf42b88.pdf",
+      "size": 1850,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist regelkonform, enthält keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Gesundheitsversprechen, keine Finanz-, Rechts- oder Steuerberatung, keine fremden Marken/Figuren und keine unfertigen Texte oder Plazhalter. Der Text ist klar, informativ und bietet praktische Reiset",
+      "pay_url": "https://buy.stripe.com/14A7sM7Ad65l5UiaMQ2kx30",
+      "payment_link_id": "plink_1UX473J5iOXkWb9VConZqbbi",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe",
+      "slug": "construction-cost-time-tracker",
+      "price_eur": 14,
+      "target": "Handwerksbetriebe (Kleinunternehmer, Selbstständige im Baugewerbe)",
+      "reason": "Diese professionelle Vorlage erspart Handwerkern stundenlange manuelle Berechnungen und gibt klaren Überblick über alle Baustellenkosten - entwickelt nach Praxisstandards von Buchhaltungsexperten.",
+      "language": "de|en|es|fr",
+      "pitch": "Professionelle Excel-Vorlage zur präzisen Erfassung von Materialkosten, Arbeitsstunden und Gesamtausgaben auf der Baustelle - wie von einer Buchhaltungsagentur entwickelt.",
+      "content_html": "<h2>Inhalt</h2><p>Diese umfassende Excel-Vorlage ermöglicht Handwerkern die detaillierte Planung und Nachverfolgung aller Baustellenkosten und Arbeitszeiten. Enthält automatische Berechnungen, Übersichtsdashboards und KPI-Analysen.</p>",
+      "pro": true,
+      "created": "2026-11-01T18:58:09",
+      "file": "construction-cost-time-tracker-caa08006d84688af.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend regelkonform und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es gibt keine gesundheitsbezogenen Versprechen, keine Rechts- oder Finanzberatung und keine fremden Marken oder Figuren. Die Formeln und Tabellen sind sinnvoll und korrekt. Die einzige kleine",
+      "pay_url": "https://buy.stripe.com/9B69AU5s59hxdmKf362kx31",
+      "payment_link_id": "plink_1UX474J5iOXkWb9VInrw6xgy",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel-Kennzahlen alle 0 - verworfen"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.023221199999999997,
-      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker for Couples"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.0012731999999999997,
-      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker for Couples"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.023018399999999998,
-      "why": "KI-Denken: Ultimate Wedding Budget Planner & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.0011232,
-      "why": "KI-Pruefung: Ultimate Wedding Budget Planner & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.028756800000000002,
-      "why": "KI-Denken: 7 Simple Steps to Slash Your Grocery Budget Without Sacrificing Quality"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.0034248,
-      "why": "KI-Pruefung: 7 Simple Steps to Slash Your Grocery Budget Without Sacrificing Quality"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Simple Steps to Slash Your Grocery Budget Without Sacrificing Quality"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.0226056,
-      "why": "KI-Denken: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-30T19:31:34",
-      "eur": -0.0053928,
-      "why": "Audit: Ultimate Wedding Budget Planner & Vendor Tracker"
-    },
-    {
-      "t": "2026-10-30T19:31:34",
-      "eur": -0.0031823999999999997,
-      "why": "Audit: 7 Simple Steps to Slash Your Grocery Budget Without Sacrificing Quality"
-    },
-    {
-      "t": "2026-10-30T19:31:34",
-      "eur": -0.0021948,
-      "why": "Audit: Smart Fitness-Kosten-Tracker & Trainingsplaner für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.0010596,
-      "why": "Blog-Artikel: Dresden Frauenkirche (zh)"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.0012791999999999999,
-      "why": "Blog-Artikel: Harz Brocken (es)"
-    },
-    {
-      "t": "2026-10-30T19:26:21",
-      "eur": -0.00026159999999999996,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.030512399999999995,
-      "why": "KI-Denken: Der Stressfreie Vermieter: 7 Schritte zur einfachen Verwaltung von 1-5 Wohnungen"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.0040656,
-      "why": "KI-Pruefung: Der Stressfreie Vermieter: 7 Schritte zur einfachen Verwaltung von 1-5 Wohnungen"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.16,
-      "why": "KI-Bilder: Der Stressfreie Vermieter: 7 Schritte zur einfachen Verwaltung von 1-5 Wohnungen"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.022805999999999996,
-      "why": "KI-Denken: Ultimate Exam Prep Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.028176,
-      "why": "KI-Denken: The Little Restaurant Success Kit: Simple Strategies to Attract Families & Boost Your Sales"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.0033672,
-      "why": "KI-Pruefung: The Little Restaurant Success Kit: Simple Strategies to Attract Families & Boost Your Sales"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Little Restaurant Success Kit: Simple Strategies to Attract Families & Boost Your Sales"
-    },
     {
       "t": "2026-10-30T23:57:49",
       "eur": -0.0037559999999999994,
@@ -12218,6 +12145,146 @@
       "t": "2026-11-01T13:32:33",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607542796"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.024459599999999998,
+      "why": "KI-Denken: Planificateur de Voyage Berlin & Potsdam: Budget, Itinéraire & Conseils Pratiques"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.0011867999999999998,
+      "why": "KI-Pruefung: Planificateur de Voyage Berlin & Potsdam: Budget, Itinéraire & Conseils Pratiques"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.0237012,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.024487199999999997,
+      "why": "KI-Denken: Berlin & Potsdam Tourisme Budget Tracker & Itinéraire - Modèle Professionnel 2026"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.0011928,
+      "why": "KI-Pruefung: Berlin & Potsdam Tourisme Budget Tracker & Itinéraire - Modèle Professionnel 2026"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.031619999999999995,
+      "why": "KI-Denken: Découvrir Dresde et la Saxe en 7 étapes : Le guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.0041676,
+      "why": "KI-Pruefung: Découvrir Dresde et la Saxe en 7 étapes : Le guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.12,
+      "why": "KI-Bilder: Découvrir Dresde et la Saxe en 7 étapes : Le guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.024274799999999996,
+      "why": "KI-Denken: Smart Construction Site Estimate & Quote Tracker"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Smart Construction Site Estimate & Quote Tracker"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.0241248,
+      "why": "KI-Denken: Construction Site Material & Labor Cost Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Construction Site Material & Labor Cost Tracker for Craftsmen"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.024243599999999997,
+      "why": "KI-Denken: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-11-01T19:07:51",
+      "eur": -0.0025188,
+      "why": "Audit: Berlin & Potsdam Tourisme Budget Tracker & Itinéraire - Modèle Professionnel 202"
+    },
+    {
+      "t": "2026-11-01T19:07:51",
+      "eur": -0.0038327999999999995,
+      "why": "Audit: Découvrir Dresde et la Saxe en 7 étapes : Le guide pratique pour voyageurs auton"
+    },
+    {
+      "t": "2026-11-01T19:07:51",
+      "eur": -0.0032327999999999996,
+      "why": "Audit: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.0013812,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (fr)"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.0007031999999999999,
+      "why": "Blog-Artikel: Frankfurt Skyline (de)"
+    },
+    {
+      "t": "2026-11-01T18:58:09",
+      "eur": -0.00037679999999999994,
+      "why": "Video-Skript: Frankfurt Skyline"
     }
   ],
   "alive": true,
@@ -14543,6 +14610,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-11-01T13:32:33",
       "img": true
+    },
+    {
+      "slug": "exploration-speicherstadt-hambourg-allemagne",
+      "title": "Explorez la Speicherstadt de Hambourg : un voyage historique et pittoresque",
+      "lang": "fr",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-11-01T18:58:09",
+      "img": true
+    },
+    {
+      "slug": "frankfurt-am-main-reise",
+      "title": "Frankfurt am Main: Eine Reise durch die Finanzmetropole",
+      "lang": "de",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-11-01T18:58:09",
+      "img": true
     }
   ],
   "videos": [
@@ -15734,6 +15817,16 @@
       "hashtags": "#Neuschwanstein #FairytaleCastle #Bavaria #TravelGermany #BucketList",
       "voice": "Discover Neuschwanstein Castle, a breathtaking masterpiece nestled in the Bavarian Alps. This iconic fairytale castle, commissioned by King Ludwig II, is a symbol of romance and fantasy. With its picturesque towers and stunning surroundings, Neuschwanstein captivates visitors from around the world. Its design even inspired Disney’s Sleeping Beauty Castle. Step into a magical journey through history and marvel at its enchanting architecture. A must-see destination for dreamers and adventurers alike!",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "frankfurt-am-main-reise",
+      "title": "Frankfurt am Main: Eine Reise durch die Finanzmetropole",
+      "lang": "de",
+      "created": "2026-11-01T18:58:09",
+      "hashtags": "#FrankfurtSkyline #Mainhattan #Wolkenkratzer #DeutschlandReisen #CityLights",
+      "voice": "Entdecke die faszinierende Skyline Frankfurts, wo Geschichte und Moderne verschmelzen. Am Ufer des Mains thront eine beeindruckende Kulisse aus Wolkenkratzern, die die Stadt zur Finanzmetropole Europas machen. Tagsüber ein Symbol der Dynamik, nachts ein Lichtermeer, das in den Schatten des alten Römers taucht. Ein Anblick, der bleibt!",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
