@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 415.9219,
-  "spent_eur": 88.7483,
+  "balance_eur": 415.1613,
+  "spent_eur": 89.5089,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6776,7 +6776,10 @@
       "audit_note": "Der Inhalt ist gut strukturiert, praxisorientiert und frei von erfundenen Statistiken oder Prozentzahlen. Es gibt keine Rechts-, Finanz- oder Gesundheitsberatung. Die Sprache ist konsistent Englisch, und es gibt keine unfertigen Texte oder Platzhalter. Die Tipps sind hilfreich und basieren auf allge",
       "pay_url": "https://buy.stripe.com/3cI8wQf2FdxN4QecUY2kx00",
       "payment_link_id": "plink_1URWexJ5iOXkWb9VNq578CEY",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607390453"
+      }
     },
     {
       "type": "excel",
@@ -6800,7 +6803,10 @@
       "audit_note": "Der Inhalt ist klar, sachlich und frei von erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist korrekt und einheitlich. Die Excel-Formeln sind sinnvoll und plausibel. Es gibt keine Rechts-, Steuer-, Finanz- oder Gesundheitsberatung. Die Beispieldaten sind realistisch und die berechne",
       "pay_url": "https://buy.stripe.com/7sYeVe8Eh1P5aayg7a2kx01",
       "payment_link_id": "plink_1URZpfJ5iOXkWb9VV03yyQ2P",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607390469"
+      }
     },
     {
       "type": "ebook",
@@ -6824,7 +6830,10 @@
       "audit_note": "Keine Regelverstöße festgestellt. Der Text ist sachlich korrekt, enthält keine erfundenen Zahlen, Statistiken oder Zitate und erfüllt alle Vorgaben.",
       "pay_url": "https://buy.stripe.com/fZudRaaMp9hxgyW8EI2kx02",
       "payment_link_id": "plink_1URZpfJ5iOXkWb9Vi1hblMCC",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607390473"
+      }
     },
     {
       "type": "excel",
@@ -11097,174 +11106,33 @@
       "pay_url": "https://buy.stripe.com/28EdRa6w99hx82q2gk2kx2U",
       "payment_link_id": "plink_1UWmRoJ5iOXkWb9VmIUVQnYO",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Guía de Viaje y Presupuesto para NRW: Planificador de Ruta, Gastos y Actividades",
+      "slug": "guia-viaje-nrw-planificador-ruta-gastos-actividades",
+      "price_eur": 9,
+      "target": "Hombres que viajan a NRW (Colonia, Düsseldorf, Ruhr) por negocios o placer",
+      "reason": "Viajeros frecuentes a NRW necesitan planificar eficientemente sus viajes combinando negocios y turismo, controlando presupuestos sin perder experiencias clave.",
+      "language": "es",
+      "pitch": "Planifica tu viaje a NRW con facilidad: gestiona rutas, presupuestos y actividades clave en una sola herramienta profesional.",
+      "content_html": "<h2>Incluye</h2><ul><li>Planificador de rutas diarias</li><li>Tracker de gastos detallado</li><li>Lista de actividades imprescindibles</li><li>Dashboard de resumen</li></ul>",
+      "pro": true,
+      "created": "2026-11-01T06:11:53",
+      "file": "guia-viaje-nrw-planificador-ruta-gastos-actividades-5a36043e62cf1b8e.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist ein nützliches Excel-Tool ohne erfundene Statistiken, Quellen oder gesetzwidrige Inhalte. Es enthält lediglich Beispieldaten und klare Anweisungen. Die berechneten Kennzahlen sind plausibel und basieren auf den gegebenen Beispielen.",
+      "pay_url": "https://buy.stripe.com/9B66oIcUxdxNaay8EI2kx2V",
+      "payment_link_id": "plink_1UWsATJ5iOXkWb9VLJxg2XbV",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Mariage Professionnel & Suivi des Dépenses"
-    },
-    {
-      "t": "2026-10-29T23:58:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606026086"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.022754399999999998,
-      "why": "KI-Denken: Planificador de Viajes Costa del Mar Báltico y del Norte para Autónomos"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.0010572,
-      "why": "KI-Pruefung: Planificador de Viajes Costa del Mar Báltico y del Norte para Autónomos"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.022683599999999995,
-      "why": "KI-Denken: Planificador de Viajes Costera del Mar Báltico y del Norte para Viajeros Independientes"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.0010308,
-      "why": "KI-Pruefung: Planificador de Viajes Costera del Mar Báltico y del Norte para Viajeros Independientes"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 6 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.022536,
-      "why": "KI-Denken: Planificador de Viajes Costa Báltica y Mar del Norte para Autónomos"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Viajes Costa Báltica y Mar del Norte para Autónomos"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.0287556,
-      "why": "KI-Denken: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.0042011999999999996,
-      "why": "KI-Pruefung: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.022334399999999997,
-      "why": "KI-Denken: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.022476,
-      "why": "KI-Denken: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-30T05:59:16",
-      "eur": -0.0022895999999999997,
-      "why": "Audit: Planificador de Viajes Costa Báltica y Mar del Norte para Autónomos"
-    },
-    {
-      "t": "2026-10-30T05:59:16",
-      "eur": -0.0038051999999999995,
-      "why": "Audit: Descubre el Rin, Frankfurt y Heidelberg: Guía Práctica para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-10-30T05:59:16",
-      "eur": -0.0022884,
-      "why": "Audit: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.0012659999999999998,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (es)"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.0017556,
-      "why": "Blog-Artikel: Frankfurt Skyline (fr)"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.00037319999999999996,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guide Pratique pour Économiser au Quotidien : 7 Stratégies Simples pour Mieux Gérer vos Finances Personnelles"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606152974"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Smart Family Fitness Progress Tracker"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606134159"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Small Landlord's Simplified Guide: 7 Stress-Free Strategies to Manage 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-10-30T05:54:03",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606153004"
-    },
-    {
-      "t": "2026-10-30T13:00:56",
-      "eur": -0.0282024,
-      "why": "KI-Denken: 德累斯顿与萨克森：7步探索隐藏的文化与自然宝藏"
-    },
     {
       "t": "2026-10-30T13:00:56",
       "eur": -0.004297199999999999,
@@ -12104,6 +11972,171 @@
       "t": "2026-10-31T23:31:51",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607291755"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.0240252,
+      "why": "KI-Denken: Guía de Viaje NRW para Hombres: Planificador de Presupuesto y Ruta para Colonia, Düsseldorf y Ruhrgebiet"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.001122,
+      "why": "KI-Pruefung: Guía de Viaje NRW para Hombres: Planificador de Presupuesto y Ruta para Colonia, Düsseldorf y Ruhrgebiet"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.023862,
+      "why": "KI-Denken: Planificador de Viajes para NRW: Presupuesto y Ruta para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.0010463999999999998,
+      "why": "KI-Pruefung: Planificador de Viajes para NRW: Presupuesto y Ruta para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.024399599999999997,
+      "why": "KI-Denken: Planificador de Viajes NRW: Presupuesto y Ruta para Exploradores Urbanos"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.0014592,
+      "why": "KI-Pruefung: Planificador de Viajes NRW: Presupuesto y Ruta para Exploradores Urbanos"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.023798399999999997,
+      "why": "KI-Denken: Planificador de Viajes NRW: Presupuesto, Ruta y Gastos para Exploradores Masculinos"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Viajes NRW: Presupuesto, Ruta y Gastos para Exploradores Masculinos"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.024199199999999997,
+      "why": "KI-Denken: Explorador de Viajes NRW: Presupuesto, Itinerario y Gastos para Hombres"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.0014232,
+      "why": "KI-Pruefung: Explorador de Viajes NRW: Presupuesto, Itinerario y Gastos para Hombres"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Qualitaetspruefung nicht bestanden: {'score': 7, 'rule_violation': True, 'issues': \"Formula typo 'Noces' in 'Alojamiento' sheet (should be 'Noches'), otherwise acceptable for price if formulas work.\"}"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.0237216,
+      "why": "KI-Denken: Guía de Viaje y Presupuesto para NRW: Planificador de Ruta, Gastos y Actividades"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.0011388,
+      "why": "KI-Pruefung: Guía de Viaje y Presupuesto para NRW: Planificador de Ruta, Gastos y Actividades"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.029774399999999996,
+      "why": "KI-Denken: Guía definitiva para viajeros: Descubre los secretos de Baviera y los Alpes"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.0044928,
+      "why": "KI-Pruefung: Guía definitiva para viajeros: Descubre los secretos de Baviera y los Alpes"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): E-Book zu kurz (1498 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-01T06:22:55",
+      "eur": -0.0024551999999999994,
+      "why": "Audit: Guía de Viaje y Presupuesto para NRW: Planificador de Ruta, Gastos y Actividades"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Audit: 1 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.0012071999999999999,
+      "why": "Blog-Artikel: Heidelberg Altstadt (de)"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.0010932,
+      "why": "Blog-Artikel: Neuschwanstein (en)"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.00036239999999999997,
+      "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607390453"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador Profesional de Viajes Costa Báltica y Mar del Norte para Autónomos"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607390469"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independientes"
+    },
+    {
+      "t": "2026-11-01T06:11:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607390473"
     }
   ],
   "alive": true,
@@ -14397,6 +14430,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-10-31T23:31:51",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-romantik-geschichte-neckar",
+      "title": "Heidelberg Altstadt: Romantik und Geschichte am Neckar",
+      "lang": "de",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-11-01T06:11:53",
+      "img": true
+    },
+    {
+      "slug": "neuschwanstein-castle-fairytale-escape-bavarian-alps",
+      "title": "Neuschwanstein Castle: A Fairytale Escape in the Bavarian Alps",
+      "lang": "en",
+      "topic": "Neuschwanstein",
+      "created": "2026-11-01T06:11:53",
+      "img": true
     }
   ],
   "videos": [
@@ -15578,6 +15627,16 @@
       "hashtags": "#Cochem #Moselle #Allemagne #Voyage #Chateau #Vignoble #PetitCoinDeParadis",
       "voice": "Découvrez Cochem, joyau de la Moselle allemande ! Son château féerique domine des paysages de vignes en terrasses. Naviguez sur le fleuve, dégustez des vins fruités et perdez-vous dans la vieille ville colorée. Une escapade romantique où nature, histoire et gastronomie s'unissent pour un dépaysement total. Un coup de cœur garant !",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "neuschwanstein-castle-fairytale-escape-bavarian-alps",
+      "title": "Neuschwanstein Castle: A Fairytale Escape in the Bavarian Alps",
+      "lang": "en",
+      "created": "2026-11-01T06:11:53",
+      "hashtags": "#Neuschwanstein #FairytaleCastle #Bavaria #TravelGermany #BucketList",
+      "voice": "Discover Neuschwanstein Castle, a breathtaking masterpiece nestled in the Bavarian Alps. This iconic fairytale castle, commissioned by King Ludwig II, is a symbol of romance and fantasy. With its picturesque towers and stunning surroundings, Neuschwanstein captivates visitors from around the world. Its design even inspired Disney’s Sleeping Beauty Castle. Step into a magical journey through history and marvel at its enchanting architecture. A must-see destination for dreamers and adventurers alike!",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
