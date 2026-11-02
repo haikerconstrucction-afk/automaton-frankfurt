@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 413.8859,
-  "spent_eur": 90.7843,
+  "balance_eur": 412.8634,
+  "spent_eur": 91.8068,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -6938,7 +6938,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Zahlen. Der Inhalt ist komplett in Französisch und enthält keine Platzhalter oder unfertigen Texte. Es gibt keine Gesundheitsversprechen, Finanzberatung oder Marken/Figuren Dritter. Die Geschichten sind kindgerecht und apaisant, ohne Regelverstöße.",
       "pay_url": "https://buy.stripe.com/4gM9AUdYBdxN4QecUY2kx06",
       "payment_link_id": "plink_1URcdOJ5iOXkWb9VUtOPZWm7",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607878254"
+      }
     },
     {
       "type": "excel",
@@ -6962,7 +6965,10 @@
       "audit_note": "Produkt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Zahlen, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Funktionale Excel-Vorlage ohne sachliche Fehler.",
       "pay_url": "https://buy.stripe.com/aFa8wQ8EhgJZdmK9IM2kx07",
       "payment_link_id": "plink_1URg3vJ5iOXkWb9VYdroKjIo",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607857671"
+      }
     },
     {
       "type": "ebook",
@@ -6986,7 +6992,10 @@
       "audit_note": "Der Inhalt hält die Regeln ein. Es wurden keine erfundenen Zahlen, Statistiken, Quellen oder Zitate verwendet. Der Text ist klar strukturiert, bietet praktische Tipps und enthält keine Beratung, Gesundheitsversprechen oder Marken Dritter. Die Beispiele sind als solche gekennzeichnet und basieren auf",
       "pay_url": "https://buy.stripe.com/eVqaEY7Ad3XdgyWdZ22kx08",
       "payment_link_id": "plink_1URg3wJ5iOXkWb9VTtBav8SI",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4607878300"
+      }
     },
     {
       "type": "excel",
@@ -11283,144 +11292,80 @@
       "pay_url": "https://buy.stripe.com/9B69AU5s59hxdmKf362kx31",
       "payment_link_id": "plink_1UX474J5iOXkWb9VInrw6xgy",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Dreamland Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)",
+      "slug": "dreamland-adventures-bedtime-stories-for-kids",
+      "price_eur": 5,
+      "target": "Parents looking for engaging and imaginative bedtime stories to help their children drift off to sleep",
+      "reason": "Parents worldwide seek calming bedtime stories to help their children sleep. This ebook offers original tales that both engage and soothe, providing lasting value at an accessible price.",
+      "language": "en",
+      "pitch": "Transform bedtime into a magical journey with these enchanting stories that spark imagination and soothe little ones to sleep.",
+      "content_html": "<h2>Inhalt</h2> <p>Discover a world of wonder with these 7 original bedtime stories designed to captivate young minds and create peaceful nights.</p>",
+      "pro": false,
+      "created": "2026-11-01T23:39:15",
+      "file": "dreamland-adventures-bedtime-stories-for-kids-06a47d4224dba2fb.pdf",
+      "size": 1855,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Statistiken, Zitate oder Quellen, keine Gesundheitsversprechen, keine Marken/Figuren Dritter und keine sachlichen Fehler. Die Geschichten sind fantasievoll und geeignet für die Zielgruppe.",
+      "pay_url": "https://buy.stripe.com/9B6dRaf2F2T996u6wA2kx32",
+      "payment_link_id": "plink_1UX8k5J5iOXkWb9Vk908tWCy",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Hochzeitsbudget-Tracker & Planer für perfekte Planung",
+      "slug": "hochzeitsbudget-tracker-planer-2026",
+      "price_eur": 9,
+      "target": "Paare, die ihre Hochzeit planen",
+      "reason": "Hochzeiten werden schnell teuer - mit diesem Tool behalten Sie den Überblick und vermeiden Budgetüberschreitungen. Professionelle Planung für den schönsten Tag Ihres Lebens.",
+      "language": "de",
+      "pitch": "Professionelle Budgetplanung für Ihre Traumhochzeit - alles im Blick, nichts vergessen",
+      "content_html": "<h2>Inhalt</h2><p>Planen Sie Ihre Hochzeit stressfrei mit diesem umfassenden Budget-Tracker. Behalten Sie alle Ausgaben im Überblick, kalkulieren Sie Gesamtkosten und vermeiden Sie unangenehme Überraschungen.</p>",
+      "pro": true,
+      "created": "2026-11-01T23:39:15",
+      "file": "hochzeitsbudget-tracker-planer-2026-d261932e02cbcbfb.xlsx",
+      "size": 2,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die meisten Kriterien, jedoch könnten die Excel-Formeln und Beispieldaten besser dokumentiert werden, um Transparenz zu gewährleisten. Es gibt keine erfundenen Zahlen, Statistiken oder Quellen. Die Sprache ist klar und es gibt keine rechtlichen oder finanziellen Beratungselemente",
+      "pay_url": "https://buy.stripe.com/14A3cw1bP79p1E22gk2kx33",
+      "payment_link_id": "plink_1UX8k6J5iOXkWb9VBBYSKSpv",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im Alltag",
+      "slug": "sparen-ohne-verzicht-7-einfache-strategien",
+      "price_eur": 5,
+      "target": "Privathaushalte, die ihr Sparpotenzial ausschöpfen möchten ohne auf Lebensqualität zu verzichten",
+      "reason": "Dieses E-Book füllt eine Lücke im Bereich privater Haushaltsfinanzen, indem es praktische, sofort umsetzbare Sparstrategien ohne Komfortverlust bietet. Die bisherigen Produkte zum Thema sind entweder zu theoretisch oder beinhalten unrealistische Einschränkungen. Die 7-Schritte-Struktur macht es leicht verständlich und handhabbar.",
+      "language": "de",
+      "pitch": "Lernen Sie, wie Sie mit cleveren Alltagsstrategien bares Geld sparen – ohne sich einschränken zu müssen. Praktische Beispiele und sofort umsetzbare Tipps für jeden Haushalt.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Vorwort: Warum Sparen kein Verzicht sein muss</li><li>Kapitel 1: Die Grundlagen des cleveren Sparens</li><li>Kapitel 2: Lebensmittel clever einkaufen</li><li>Kapitel 3: Energiekosten intelligent senken</li><li>Kapitel 4: Abos und Verträge optimieren</li><li>Kapitel 5: Secondhand statt neu - Qualität zum kleinen Preis</li><li>Kapitel 6: DIY statt teure Dienstleistungen</li><li>Kapitel 7: Die 30-Tage-Regel für große Anschaffungen</li><li>Bonus: Monatliche Spar-Checkliste als praktische PDF</li></ul>",
+      "pro": false,
+      "created": "2026-11-01T23:39:15",
+      "file": "sparen-ohne-verzicht-7-einfache-strategien-782ffd6789e51def.pdf",
+      "size": 1573,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 5,
+      "audit_note": "Erfundene Prozentzahlen (6%, 90%) ohne allgemein bekannte Grundlage, unvollständige Texte, fehlende Belege für Behauptungen.",
+      "retired": true,
+      "retired_why": "Erfundene Prozentzahlen (6%, 90%) ohne allgemein bekannte Grundlage, unvollständige Texte, fehlende Belege für Behauptungen. Erfundene Zahlen: 6%, 90%"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-30T23:57:49",
-      "eur": -0.0037559999999999994,
-      "why": "Audit: Der Stressfreie Vermieter: 7 Schritte zur einfachen Verwaltung von 1-5 Wohnungen"
-    },
-    {
-      "t": "2026-10-30T23:57:49",
-      "eur": -0.0020183999999999996,
-      "why": "Audit: Ultimate Exam Prep Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-10-30T23:57:49",
-      "eur": -0.0030647999999999995,
-      "why": "Audit: The Little Restaurant Success Kit: Simple Strategies to Attract Families & Boost"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.0013488,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (fr)"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.0013559999999999998,
-      "why": "Blog-Artikel: Muenchen Marienplatz (de)"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.0003972,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Boost Your First 100 Sales"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606683633"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Gestión y Planificación de Eventos para Asociaciones"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606704176"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
-    },
-    {
-      "t": "2026-10-30T23:51:17",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606704224"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.023249999999999996,
-      "why": "KI-Denken: Planificador Profesional de Viajes y Lista de Equipaje para Hombres"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.0011795999999999998,
-      "why": "KI-Pruefung: Planificador Profesional de Viajes y Lista de Equipaje para Hombres"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.023533199999999997,
-      "why": "KI-Denken: Planificador de Viajes y Lista de Equipaje para Hombre - Control de Presupuesto y Ruta"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.0012323999999999998,
-      "why": "KI-Pruefung: Planificador de Viajes y Lista de Equipaje para Hombre - Control de Presupuesto y Ruta"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.0236208,
-      "why": "KI-Denken: Planificador Profesional de Viajes y Lista de Equipaje para Hombres"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.0013128,
-      "why": "KI-Pruefung: Planificador Profesional de Viajes y Lista de Equipaje para Hombres"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.030286799999999996,
-      "why": "KI-Denken: Guía Definitiva para Vender en Etsy: 7 Estrategias Comprobadas para Hombres"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.0040332,
-      "why": "KI-Pruefung: Guía Definitiva para Vender en Etsy: 7 Estrategias Comprobadas para Hombres"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Definitiva para Vender en Etsy: 7 Estrategias Comprobadas para Hombres"
-    },
-    {
-      "t": "2026-10-31T05:48:17",
-      "eur": -0.023176799999999997,
-      "why": "KI-Denken: 智能协会活动预算与志愿者管理追踪器 - 2026专业版"
-    },
     {
       "t": "2026-10-31T05:48:17",
       "eur": -0.001,
@@ -12285,6 +12230,146 @@
       "t": "2026-11-01T18:58:09",
       "eur": -0.00037679999999999994,
       "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Expecting ',' delimiter: line 34 column 6 (char 2498)"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.029437199999999997,
+      "why": "KI-Denken: Dreamland Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.0035123999999999997,
+      "why": "KI-Pruefung: Dreamland Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.16,
+      "why": "KI-Bilder: Dreamland Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.0242628,
+      "why": "KI-Denken: Hochzeitsbudget-Tracker & Planer für perfekte Planung"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Hochzeitsbudget-Tracker & Planer für perfekte Planung"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.025475999999999995,
+      "why": "KI-Denken: 50 einfache Spar-Tricks für den Alltag: Clever Haushalten ohne Verzicht"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.001872,
+      "why": "KI-Pruefung: 50 einfache Spar-Tricks für den Alltag: Clever Haushalten ohne Verzicht"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (502 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.030550799999999996,
+      "why": "KI-Denken: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im Alltag"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.004226399999999999,
+      "why": "KI-Pruefung: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im Alltag"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.16,
+      "why": "KI-Bilder: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im Alltag"
+    },
+    {
+      "t": "2026-11-02T00:04:32",
+      "eur": -0.0032807999999999995,
+      "why": "Audit: Dreamland Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
+    },
+    {
+      "t": "2026-11-02T00:04:32",
+      "eur": -0.0021048,
+      "why": "Audit: Hochzeitsbudget-Tracker & Planer für perfekte Planung"
+    },
+    {
+      "t": "2026-11-02T00:04:32",
+      "eur": -0.0038531999999999993,
+      "why": "Audit: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im All"
+    },
+    {
+      "t": "2026-11-02T00:04:32",
+      "eur": 0,
+      "why": "Audit entfernt: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im All – Erfundene Prozentzahlen (6%, 90%) ohne allgemein bekannte Grundlage, unvollständige Texte, fehlende Belege für Behauptungen. Erfundene Zahlen: 6%, 90%"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 1 entfernt"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.0013716,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (en)"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.0010643999999999999,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (zh)"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.0003276,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607878254"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607857671"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sacrifice"
+    },
+    {
+      "t": "2026-11-01T23:39:15",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607878300"
     }
   ],
   "alive": true,
@@ -14626,6 +14711,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-11-01T18:58:09",
       "img": true
+    },
+    {
+      "slug": "discover-the-magic-of-rothenburg-ob-der-tauber",
+      "title": "Discover the Magic of Rothenburg ob der Tauber",
+      "lang": "en",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-11-01T23:39:15",
+      "img": true
+    },
+    {
+      "slug": "berlin-brandenburger-tor-deutschland-reise-tipps",
+      "title": "探索柏林勃兰登堡门：历史与现代的交汇点",
+      "lang": "zh",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-11-01T23:39:15",
+      "img": true
     }
   ],
   "videos": [
@@ -15827,6 +15928,16 @@
       "hashtags": "#FrankfurtSkyline #Mainhattan #Wolkenkratzer #DeutschlandReisen #CityLights",
       "voice": "Entdecke die faszinierende Skyline Frankfurts, wo Geschichte und Moderne verschmelzen. Am Ufer des Mains thront eine beeindruckende Kulisse aus Wolkenkratzern, die die Stadt zur Finanzmetropole Europas machen. Tagsüber ein Symbol der Dynamik, nachts ein Lichtermeer, das in den Schatten des alten Römers taucht. Ein Anblick, der bleibt!",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "berlin-brandenburger-tor-deutschland-reise-tipps",
+      "title": "探索柏林勃兰登堡门：历史与现代的交汇点",
+      "lang": "zh",
+      "created": "2026-11-01T23:39:15",
+      "hashtags": "#柏林 #勃兰登堡门 #德国旅游 #柏林地标 #历史建筑",
+      "voice": "欢迎来到柏林勃兰登堡门！这座雄伟的新古典主义建筑不仅是德国的历史象征，也是柏林的标志性地标。建于18世纪，它见证了无数重大历史事件。今天，勃兰登堡门象征着和平与自由，吸引着来自世界各地的游客。站在这里，感受历史的厚重与现代的活力，体验柏林的独特魅力！",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
