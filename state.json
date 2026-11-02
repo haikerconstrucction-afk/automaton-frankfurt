@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 410.9059,
-  "spent_eur": 93.7643,
+  "balance_eur": 410.6206,
+  "spent_eur": 94.0496,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -11525,109 +11525,81 @@
       "pay_url": "https://buy.stripe.com/7sY4gA6w99hxdmKf362kx39",
       "payment_link_id": "plink_1UXO1QJ5iOXkWb9VTzvfSr6O",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Budget et de Suivi des Événements pour Associations",
+      "slug": "planificateur-budget-suivi-evenements-associations",
+      "price_eur": 9,
+      "target": "Associations et bénévoles",
+      "reason": "Cet outil permet aux associations de mieux gérer leurs événements et de suivre leurs dépenses de manière précise, ce qui est essentiel pour une gestion efficace et transparente.",
+      "language": "fr",
+      "pitch": "Optimisez la gestion de vos événements et suivez vos dépenses avec précision grâce à cet outil complet.",
+      "content_html": "<h2>Inhalt</h2><p>Cette feuille de calcul Excel vous permet de planifier vos événements, de suivre vos dépenses et d'analyser vos résultats financiers en temps réel. Parfait pour les associations et les bénévoles qui cherchent à optimiser leur gestion.</p>",
+      "pro": true,
+      "created": "2026-11-02T23:34:54",
+      "file": "planificateur-budget-suivi-evenements-associations-b1ade088a94831cd.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Produkt erfüllt grundsätzlich die Anforderungen: Keine erfundenen Zahlen/Statistiken, keine unzulässigen Versprechen oder Beratungsfunktionen. Excel-Tool zeigt klar strukturierte Budgetplanung für Vereine ohne Regelverstöße. Verbesserungspotenzial: Formeln im Budget-Blatt wirken redundant (könnten o",
+      "pay_url": "https://buy.stripe.com/7sY28s5s5eBRdmK3ko2kx3a",
+      "payment_link_id": "plink_1UXUsAJ5iOXkWb9VHMeRmuph",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guide Pratique pour Des Chiens Heureux : 7 Stratégies Simples pour un Quotidien Harmonieux",
+      "slug": "guide-pratique-pour-des-chiens-heureux",
+      "price_eur": 5,
+      "target": "Hundebesitzer",
+      "reason": "Ce guide répond à un besoin réel des propriétaires de chiens en offrant des solutions simples et pratiques pour améliorer leur quotidien et celui de leur animal de compagnie. Il propose des conseils facilement applicables qui justifient son prix.",
+      "language": "fr",
+      "pitch": "Découvrez des astuces simples et efficaces pour améliorer le quotidien de votre chien et le vôtre, sans stress et avec plaisir.",
+      "content_html": "<h2>Contenu</h2> <ul><li>Introduction</li><li>Chapitre 1 : Comprendre les besoins de votre chien</li><li>Chapitre 2 : Créer un environnement sécurisé</li><li>Chapitre 3 : Promenades et exercices</li><li>Chapitre 4 : Alimentation équilibrée</li><li>Chapitre 5 : Éducation positive</li><li>Chapitre 6 : Soins de santé</li><li>Chapitre 7 : Moments de détente et de complicité</li></ul>",
+      "pro": false,
+      "created": "2026-11-02T23:34:54",
+      "file": "guide-pratique-pour-des-chiens-heureux-441516e9334ce7ed.pdf",
+      "size": 2132,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt entspricht den Regeln: keine erfundenen Studien oder Statistiken, keine Gesundheitsversprechen, korrekte Sprache, klare Struktur ohne Platzhalter oder Fehler. Allgemeine Ratschläge zur Hundehaltung ohne spezifische Prozentzahlen oder zweifelhafte Behauptungen.",
+      "pay_url": "https://buy.stripe.com/6oUdRa9Il3Xd5Ui1cg2kx3b",
+      "payment_link_id": "plink_1UXUsBJ5iOXkWb9VWCmQ4JLg",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Moving & Renovation Budget Planner for Families",
+      "slug": "ultimate-moving-renovation-budget-planner-families",
+      "price_eur": 9,
+      "target": "Families planning a move or renovation",
+      "reason": "This template helps families manage their moving and renovation budgets effectively, ensuring they avoid unexpected expenses and stay on track.",
+      "language": "en",
+      "pitch": "Effortlessly track and manage your moving and renovation expenses with this professional Excel template, designed to keep your budget on track.",
+      "content_html": "<h2>Inhalt</h2><p>Plan your moving and renovation budget with ease. Track expenses, monitor project costs, and ensure you stay within your financial limits.</p>",
+      "pro": true,
+      "created": "2026-11-02T23:34:54",
+      "file": "ultimate-moving-renovation-budget-planner-families-e4ae56be938a8a0f.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es werden nur allgemein bekannte Fakten und Beispielrechnungen verwendet, die klar als solche markiert sind. Die Funktionen und Formeln machen sinn und sind plausibel. Die Sprache ist durchgehend Englisch und es gibt keine",
+      "pay_url": "https://buy.stripe.com/aFaaEY2fTfFV2I69IM2kx3c",
+      "payment_link_id": "plink_1UXUsCJ5iOXkWb9VuuRIDo0n",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.0009923999999999998,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (zh)"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.00038159999999999995,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.029143199999999998,
-      "why": "KI-Denken: 7 Schritte zum produktiven Arbeitsalltag: Effizienztipps für Selbstständige und Freelancer"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.0041496,
-      "why": "KI-Pruefung: 7 Schritte zum produktiven Arbeitsalltag: Effizienztipps für Selbstständige und Freelancer"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): E-Book zu kurz (1376 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): 'NoneType' object has no attribute 'group'"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.030783599999999998,
-      "why": "KI-Denken: Effiziente Selbstorganisation für Freelancer: 7 Schritte zu mehr Produktivität und weniger Stress"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.004176,
-      "why": "KI-Pruefung: Effiziente Selbstorganisation für Freelancer: 7 Schritte zu mehr Produktivität und weniger Stress"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.16,
-      "why": "KI-Bilder: Effiziente Selbstorganisation für Freelancer: 7 Schritte zu mehr Produktivität und weniger Stress"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.023499599999999995,
-      "why": "KI-Denken: Schwarzwald Reisebudget Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Schwarzwald Reisebudget Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.029336399999999995,
-      "why": "KI-Denken: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.0037332,
-      "why": "KI-Pruefung: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.16,
-      "why": "KI-Bilder: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Local Secrets"
-    },
-    {
-      "t": "2026-11-01T00:14:44",
-      "eur": -0.0038723999999999994,
-      "why": "Audit: Effiziente Selbstorganisation für Freelancer: 7 Schritte zu mehr Produktivität u"
-    },
-    {
-      "t": "2026-11-01T00:14:44",
-      "eur": -0.0038291999999999996,
-      "why": "Audit: Schwarzwald Reisebudget Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-11-01T00:14:44",
-      "eur": -0.003366,
-      "why": "Audit: Saarland & Moselle Hidden Gems: A Female Traveler's Guide to Scenic Routes & Loc"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-10-31T23:31:51",
       "eur": -0.001344,
@@ -12532,6 +12504,101 @@
       "t": "2026-11-02T16:07:16",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608314454"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.024545999999999995,
+      "why": "KI-Denken: Planificateur de Budget et de Suivi des Événements pour Associations"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Budget et de Suivi des Événements pour Associations"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.0324516,
+      "why": "KI-Denken: Guide Pratique pour Des Chiens Heureux : 7 Stratégies Simples pour un Quotidien Harmonieux"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.0040596,
+      "why": "KI-Pruefung: Guide Pratique pour Des Chiens Heureux : 7 Stratégies Simples pour un Quotidien Harmonieux"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guide Pratique pour Des Chiens Heureux : 7 Stratégies Simples pour un Quotidien Harmonieux"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.0247584,
+      "why": "KI-Denken: Ultimate Moving & Renovation Budget Tracker for Families"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Tracker for Families"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.024686399999999997,
+      "why": "KI-Denken: Ultimate Moving & Renovation Budget Planner for Families"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Planner for Families"
+    },
+    {
+      "t": "2026-11-02T23:42:29",
+      "eur": -0.0017676,
+      "why": "Audit: Planificateur de Budget et de Suivi des Événements pour Associations"
+    },
+    {
+      "t": "2026-11-02T23:42:29",
+      "eur": -0.0037655999999999996,
+      "why": "Audit: Guide Pratique pour Des Chiens Heureux : 7 Stratégies Simples pour un Quotidien "
+    },
+    {
+      "t": "2026-11-02T23:42:29",
+      "eur": -0.0031295999999999997,
+      "why": "Audit: Ultimate Moving & Renovation Budget Planner for Families"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.0010224,
+      "why": "Blog-Artikel: Eifel Maare (zh)"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.0016403999999999998,
+      "why": "Blog-Artikel: Rheingau Weinberge (es)"
+    },
+    {
+      "t": "2026-11-02T23:34:54",
+      "eur": -0.0004116,
+      "why": "Video-Skript: Rheingau Weinberge"
     }
   ],
   "alive": true,
@@ -14920,6 +14987,22 @@
       "lang": "en",
       "topic": "Muenchen Marienplatz",
       "created": "2026-11-02T16:07:16",
+      "img": true
+    },
+    {
+      "slug": "eifel-maare-deutschland-reise",
+      "title": "探索埃菲尔玛尔湖：德国自然的瑰宝",
+      "lang": "zh",
+      "topic": "Eifel Maare",
+      "created": "2026-11-02T23:34:54",
+      "img": true
+    },
+    {
+      "slug": "descubre-los-vinedos-del-rheingau-en-alemania",
+      "title": "Descubre los Viñedos del Rheingau en Alemania",
+      "lang": "es",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-11-02T23:34:54",
       "img": true
     }
   ],
