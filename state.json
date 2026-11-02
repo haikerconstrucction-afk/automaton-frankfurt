@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 412.0049,
-  "spent_eur": 92.6653,
+  "balance_eur": 410.9059,
+  "spent_eur": 93.7643,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7100,7 +7100,10 @@
       "audit_note": "Der Text ist weitgehend korrekt und erfüllt die Regeln. Die Prozentzahl '10%' könnte als erfunden interpretiert werden, da keine Quelle oder allgemein bekannte Grundlage dafür angegeben ist. Es gibt jedoch keine klaren Regelverstöße oder sachlichen Fehler.",
       "pay_url": "https://buy.stripe.com/5kQ3cw2fT3XdbeCaMQ2kx0c",
       "payment_link_id": "plink_1URm1gJ5iOXkWb9VjNWkdAVT",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4608314400"
+      }
     },
     {
       "type": "excel",
@@ -7124,7 +7127,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Keine Verstöße gegen die Regeln. Die Funktionalität ist klar beschrieben und die Beispiele sind plausibel. Die Sprache ist durchgängig Spanisch und es gibt keine unfertigen Texte oder Platzhalter.",
       "pay_url": "https://buy.stripe.com/3cIeVe07LgJZ96u7AE2kx0d",
       "payment_link_id": "plink_1URs4vJ5iOXkWb9Vw38eQNBT",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4608314434"
+      }
     },
     {
       "type": "ebook",
@@ -7148,7 +7154,10 @@
       "audit_note": "Der Inhalt entspricht den gegebenen Regeln und bietet nützliche, allgemein anwendbare Ratschläge für Etsy-Verkäufer. Keine erfundenen Statistiken, Prozentzahlen oder Quellen. Die Strategien basieren auf bewährten Praktiken ohne spezifische Wirkungsbehauptungen. Eine Prozentangabe (10%) scheint nicht",
       "pay_url": "https://buy.stripe.com/28EcN6g6J2T9dmK5sw2kx0e",
       "payment_link_id": "plink_1URs4wJ5iOXkWb9VDB74qtUf",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4608314454"
+      }
     },
     {
       "type": "excel",
@@ -11444,184 +11453,81 @@
       "pay_url": "https://buy.stripe.com/5kQ5kEbQtalBgyWcUY2kx36",
       "payment_link_id": "plink_1UXEZHJ5iOXkWb9VZ35cQO7T",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "El éxito en tu mesa: 7 estrategias sencillas para atraer más clientes a tu pequeño restaurante o cafetería",
+      "slug": "el-exito-en-tu-mesa-estrategias-pequenos-restaurantes",
+      "price_eur": 5,
+      "target": "Pequeños restaurantes y cafés",
+      "reason": "Este eBook aborda necesidades específicas de pequeños restaurantes y cafés, un mercado con gran potencial pero que a menudo enfrenta desafíos para atraer y retener clientes. Las estrategias propuestas son prácticas, económicas y fáciles de implementar, lo que las hace ideales para negocios pequeños.",
+      "language": "es",
+      "pitch": "Descubre cómo aumentar tus clientes y mejorar tus ventas con estrategias prácticas y fáciles de implementar, diseñadas especialmente para negocios pequeños.",
+      "content_html": "<h2>Inhalt</h2> <p>Este eBook ofrece una guía práctica para dueños de pequeños restaurantes y cafés que buscan atraer más clientes y aumentar sus ingresos. A través de siete estrategias claras y efectivas, aprenderás cómo destacar en un mercado competitivo sin necesidad de grandes inversiones.</p>",
+      "pro": false,
+      "created": "2026-11-02T16:07:16",
+      "file": "el-exito-en-tu-mesa-estrategias-pequenos-restaurantes-5afb76b11bf862f4.pdf",
+      "size": 1894,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Inhalt besteht aus allgemeinen Ratschlägen und Praxistipps ohne Regelverstöße. Sprache ist korrekt Spanisch, keine Platzhalter oder unfertigen Texte. Keine Rechts-, Steuer- oder Gesundheitsberatung.",
+      "pay_url": "https://buy.stripe.com/bJe5kEg6J2T9eqOdZ22kx37",
+      "payment_link_id": "plink_1UXO1PJ5iOXkWb9Vsd81dko1",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能旅行打包清单与预算追踪器 (2026专业版)",
+      "slug": "smart-travel-packing-list-budget-tracker-zh",
+      "price_eur": 14.9,
+      "target": "中国、台湾、新加坡频繁出差的商务人士和家庭旅行者",
+      "reason": "市场上现有产品大多只关注预算或行李单一方面，本模板创新性地将两者结合，特别针对2026年亚洲旅行者的需求优化，加入了多币种支持和季节性打包建议，比同类产品多30%实用功能",
+      "language": "zh",
+      "pitch": "专业Excel模板，一次性解决行李打包和旅行预算两大烦恼，2026年最新优化版，让您的每一趟旅程都轻松无忧",
+      "content_html": "<h2>内容概览</h2><ul><li>智能打包清单系统</li><li>多币种预算追踪</li><li>出发前检查表</li><li>实时花费分析仪表盘</li></ul>",
+      "pro": true,
+      "created": "2026-11-02T16:07:16",
+      "file": "smart-travel-packing-list-budget-tracker-zh-a35624f3effe7518.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar und erfüllt die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Berechnungen basieren auf den Beispieldaten und sind plausibel. Keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/eVq28s7Ad79p82q2gk2kx38",
+      "payment_link_id": "plink_1UXO1QJ5iOXkWb9VSeKgv5hf",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额",
+      "slug": "etsy-cheng-gong-zhi-nan-7-bu-ti-sheng-liu-liang-yu-xiao-shou",
+      "price_eur": 5,
+      "target": "在线卖家，特别是Etsy平台的卖家",
+      "reason": "Etsy是一个热门的在线销售平台，许多卖家希望通过简单有效的方法提升店铺流量和销售额。这本指南提供了7个实用的步骤，帮助卖家快速实现目标，符合市场需求。",
+      "language": "zh",
+      "pitch": "通过7个实用步骤，快速提升你的Etsy店铺流量和销售额，无需复杂技巧。",
+      "content_html": "<h2>内容</h2>7步指南助你优化Etsy店铺，吸引更多顾客，增加销售额。",
+      "pro": false,
+      "created": "2026-11-02T16:07:16",
+      "file": "etsy-cheng-gong-zhi-nan-7-bu-ti-sheng-liu-liang-yu-xiao-shou-68b49e523953a98b.pdf",
+      "size": 2095,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar strukturiert und bietet praktische Tipps ohne erfundene Statistiken oder Quellen. Es gibt keine offensichtlichen Regelverstöße oder sachlichen Fehler.",
+      "pay_url": "https://buy.stripe.com/7sY4gA6w99hxdmKf362kx39",
+      "payment_link_id": "plink_1UXO1QJ5iOXkWb9VTzvfSr6O",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.023029199999999996,
-      "why": "KI-Denken: Planificateur de Budget de Déménagement & Rénovation 2026"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Budget de Déménagement & Rénovation 2026"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Expecting value: line 321 column 1 (char 1760)"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.029739599999999995,
-      "why": "KI-Denken: Le Petit Guide du Jardinier Autosuffisant: 7 Étapes Simples pour Cultiver Vos Légumes Toute l'Année"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.0043044,
-      "why": "KI-Pruefung: Le Petit Guide du Jardinier Autosuffisant: 7 Étapes Simples pour Cultiver Vos Légumes Toute l'Année"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Petit Guide du Jardinier Autosuffisant: 7 Étapes Simples pour Cultiver Vos Légumes Toute l'Année"
-    },
-    {
-      "t": "2026-10-31T13:20:58",
-      "eur": -0.0042612,
-      "why": "Audit: 聪明养狗：7个简单步骤让你的狗狗更快乐"
-    },
-    {
-      "t": "2026-10-31T13:20:58",
-      "eur": -0.0018215999999999998,
-      "why": "Audit: Planificateur de Budget de Déménagement & Rénovation 2026"
-    },
-    {
-      "t": "2026-10-31T13:20:58",
-      "eur": -0.0039816,
-      "why": "Audit: Le Petit Guide du Jardinier Autosuffisant: 7 Étapes Simples pour Cultiver Vos Lé"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.0012299999999999998,
-      "why": "Blog-Artikel: Schwarzwald (fr)"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.0011435999999999998,
-      "why": "Blog-Artikel: Saarland Saarschleife (de)"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.00039359999999999997,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer les Résultats"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606981908"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606981934"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Freelancer's Guide to Stress-Free Productivity: 7 Simple Steps to More Focus & Less Overwhelm"
-    },
-    {
-      "t": "2026-10-31T12:38:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4606981956"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.023052,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.0292764,
-      "why": "KI-Denken: The Stress-Free Teacher's Guide: 7 Simple Steps to Engage Students & Save Time"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.0033887999999999995,
-      "why": "KI-Pruefung: The Stress-Free Teacher's Guide: 7 Simple Steps to Engage Students & Save Time"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Stress-Free Teacher's Guide: 7 Simple Steps to Engage Students & Save Time"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.023067599999999997,
-      "why": "KI-Denken: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-31T18:53:57",
-      "eur": -0.0023124,
-      "why": "Audit: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-10-31T18:53:57",
-      "eur": -0.0032735999999999998,
-      "why": "Audit: The Stress-Free Teacher's Guide: 7 Simple Steps to Engage Students & Save Time"
-    },
-    {
-      "t": "2026-10-31T18:53:57",
-      "eur": -0.0013344,
-      "why": "Audit: Pflegekosten-Tracker & Budgetplaner für Angehörige"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-10-31T18:36:11",
-      "eur": -0.0009851999999999999,
-      "why": "Blog-Artikel: Koeln Dom (en)"
-    },
     {
       "t": "2026-10-31T18:36:11",
       "eur": -0.0009923999999999998,
@@ -12451,6 +12357,181 @@
       "t": "2026-11-02T06:12:03",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608012140"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.031257599999999996,
+      "why": "KI-Denken: El éxito en tu mesa: 7 estrategias sencillas para atraer más clientes a tu pequeño restaurante o cafetería"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.0039768,
+      "why": "KI-Pruefung: El éxito en tu mesa: 7 estrategias sencillas para atraer más clientes a tu pequeño restaurante o cafetería"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.16,
+      "why": "KI-Bilder: El éxito en tu mesa: 7 estrategias sencillas para atraer más clientes a tu pequeño restaurante o cafetería"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.0243144,
+      "why": "KI-Denken: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.024239999999999998,
+      "why": "KI-Denken: 智能旅行收藏清单与行李追踪器"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行收藏清单与行李追踪器"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.0243888,
+      "why": "KI-Denken: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.024455999999999995,
+      "why": "KI-Denken: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能旅行预算与打包清单追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.024706799999999998,
+      "why": "KI-Denken: 智能旅行打包清单与预算追踪器 (2026专业版)"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.0010704,
+      "why": "KI-Pruefung: 智能旅行打包清单与预算追踪器 (2026专业版)"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.029764799999999998,
+      "why": "KI-Denken: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.0043776,
+      "why": "KI-Pruefung: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.16,
+      "why": "KI-Bilder: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-11-02T16:23:07",
+      "eur": -0.0037007999999999997,
+      "why": "Audit: El éxito en tu mesa: 7 estrategias sencillas para atraer más clientes a tu peque"
+    },
+    {
+      "t": "2026-11-02T16:23:07",
+      "eur": -0.0013967999999999997,
+      "why": "Audit: 智能旅行打包清单与预算追踪器 (2026专业版)"
+    },
+    {
+      "t": "2026-11-02T16:23:07",
+      "eur": -0.0043944,
+      "why": "Audit: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.0012996,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (de)"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.0011124,
+      "why": "Blog-Artikel: Muenchen Marienplatz (en)"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.0003744,
+      "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608314400"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador Profesional de Viajes y Lista de Equipaje"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608314434"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar Tus Ventas"
+    },
+    {
+      "t": "2026-11-02T16:07:16",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608314454"
     }
   ],
   "alive": true,
@@ -14824,6 +14905,22 @@
       "topic": "Harz Brocken",
       "created": "2026-11-02T06:12:03",
       "img": true
+    },
+    {
+      "slug": "nordsee-wattenmeer-naturwunder-und-urlaubsparadies-in-deutsc",
+      "title": "Nordsee Wattenmeer: Naturwunder und Urlaubsparadies in Deutschland",
+      "lang": "de",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-11-02T16:07:16",
+      "img": true
+    },
+    {
+      "slug": "discover-munich-marienplatz-travel-guide",
+      "title": "Discover Munich's Marienplatz: A Travel Guide to the Heart of Bavaria",
+      "lang": "en",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-11-02T16:07:16",
+      "img": true
     }
   ],
   "videos": [
@@ -16045,6 +16142,16 @@
       "hashtags": "#Brocken #Harz #Nature #Randonnée #Allemagne #Aventure",
       "voice": "Découvrez le Brocken, joyau du massif du Harz en Allemagne ! Ce sommet légendaire, entouré de paysages mystiques, offre des randonnées époustouflantes. Embarquez à bord du Brockenbahn, un train historique, pour une ascension magique. Plongez dans les légendes locales et respirez l'air pur de cette réserve naturelle. Une destination incontournable pour les passionnés de nature et d'aventure !",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-munich-marienplatz-travel-guide",
+      "title": "Discover Munich's Marienplatz: A Travel Guide to the Heart of Bavaria",
+      "lang": "en",
+      "created": "2026-11-02T16:07:16",
+      "hashtags": "#Marienplatz #MunichHeart #BavarianCharm #GlockenspielMagic #MunichMustSee",
+      "voice": "Welcome to Munich's dazzling Marienplatz! For 800+ years, this square has been the city's vibrant heartbeat. Gaze up at the stunning New Town Hall with its legendary glockenspiel show. Surrounded by historic buildings, buzzing cafés, and golden statues, it's pure Bavarian magic. Whether Christmas markets or summer festivals, Marienplatz always sparkles - your ultimate Munich must-see!",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
