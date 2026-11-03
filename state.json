@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 408.8372,
-  "spent_eur": 95.833,
+  "balance_eur": 408.3825,
+  "spent_eur": 96.2877,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -11711,119 +11711,81 @@
       "pay_url": "https://buy.stripe.com/28E4gA6w951hdmKg7a2kx3g",
       "payment_link_id": "plink_1UXkcjJ5iOXkWb9VAEAggs5N",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings",
+      "slug": "the-freelancers-guide-to-stress-free-client-communication",
+      "price_eur": 5,
+      "target": "Freelancers and self-employed individuals who want to improve client relationships and communication",
+      "reason": "Freelancers often struggle with client communication, leading to misunderstandings and lost opportunities. This guide provides actionable steps to improve communication, build trust, and foster long-term client relationships. It’s a practical resource that offers clear value for its price.",
+      "language": "en",
+      "pitch": "Learn how to communicate effectively with clients, build trust, and avoid misunderstandings with this practical guide.",
+      "content_html": "<h2>Contents</h2><ul><li>Introduction: Why Client Communication Matters</li><li>Chapter 1: Understanding Client Needs</li><li>Chapter 2: Setting Clear Expectations</li><li>Chapter 3: Active Listening Techniques</li><li>Chapter 4: Handling Difficult Conversations</li><li>Chapter 5: Writing Professional Emails</li><li>Chapter 6: Managing Feedback and Revisions</li><li>Chapter 7: Building Long-Term Client Relationships</li><li>Conclusion: Recap and Next Steps</li></ul>",
+      "pro": false,
+      "created": "2026-11-03T23:27:53",
+      "file": "the-freelancers-guide-to-stress-free-client-communication-9f595e7be121ded6.pdf",
+      "size": 2306,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "keine erfundenen Zahlen oder Statistiken, keine Regelverstöße, klare und nützliche praktische Tipps, professionell und vollständig",
+      "pay_url": "https://buy.stripe.com/8x29AU6w9ctJbeC4os2kx3h",
+      "payment_link_id": "plink_1UXrH3J5iOXkWb9VFrBiLKMG",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Viaje al Bosque Negro: Seguimiento de Presupuesto & Itinerario para Hombres",
+      "slug": "planificador-viaje-bosque-negro-presupuesto-itinerario",
+      "price_eur": 9,
+      "target": "Hombres internacionales que planean un viaje al Bosque Negro, Alemania",
+      "reason": "Este planificador ofrece una solución completa para viajeros que buscan explorar el Bosque Negro de manera organizada y eficiente, permitiendo un control detallado del presupuesto y del itinerario.",
+      "language": "es",
+      "pitch": "Organiza tu viaje al Bosque Negro con facilidad: calcula tu presupuesto, planifica tu itinerario y controla tus gastos en una sola herramienta profesional.",
+      "content_html": "<h2>Incluye</h2><ul><li>Planificador de días y actividades</li><li>Calculadora de gastos por categoría</li><li>Seguimiento de reservas y fechas clave</li><li>Gráficos para visualizar tu presupuesto</li></ul>",
+      "pro": true,
+      "created": "2026-11-03T23:27:53",
+      "file": "planificador-viaje-bosque-negro-presupuesto-itinerario-a2933e42710fd649.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionaler Excel-Planer für Reisen in den Schwarzwald ohne erfundene Statistiken oder Gesundheitsversprechen. Die Beispielzahlen sind klar als solche gekennzeichnet. Die Sprache ist durchgängig Spanisch und es gibt keine unfertigen Platzhalter. Die Formeln sind sinnvoll und nac",
+      "pay_url": "https://buy.stripe.com/aFa14o8Eh3XdfuScUY2kx3i",
+      "payment_link_id": "plink_1UXrH4J5iOXkWb9Vy2PhUntE",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Descubre el Saarland y la Mosela: Guía Esencial para Viajeros",
+      "slug": "descubre-el-saarland-y-la-mosela-guia-esencial-para-viajeros",
+      "price_eur": 5,
+      "target": "Hombres que viajan por placer y buscan descubrir destinos únicos en Alemania.",
+      "reason": "Este ebook ofrece una guía completa y práctica para viajeros hombres que buscan explorar el Saarland y la Mosela, con información detallada y consejos útiles que justifican su precio.",
+      "language": "es",
+      "pitch": "Explora los encantos ocultos del Saarland y la Mosela con esta guía práctica, diseñada para viajeros que buscan experiencias auténticas y consejos útiles para su aventura.",
+      "content_html": "<h2>Inhalt</h2><ol><li>Introducción al Saarland y la Mosela</li><li>Las mejores rutas para explorar</li><li>Gastronomía local: qué probar y dónde</li><li>Actividades al aire libre y senderismo</li><li>Consejos prácticos para viajar</li><li>Historias locales y curiosidades</li></ol>",
+      "pro": false,
+      "created": "2026-11-03T23:27:53",
+      "file": "descubre-el-saarland-y-la-mosela-guia-esencial-para-viajeros-6f2ec5214ba4d468.pdf",
+      "size": 1612,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist sachlich korrekt und enthält keine erfundenen Statistiken oder gesundheitsbezogene Versprechen. Die Reiseführerinhalte sind praktisch und basieren auf allgemein bekannten Fakten über die Regionen Saarland und Mosel.",
+      "pay_url": "https://buy.stripe.com/14AdRa07L65lfuS5sw2kx3j",
+      "payment_link_id": "plink_1UXrH5J5iOXkWb9VNXrkwkaK",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607542748"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能萨克森旅行指南：德累斯顿及周边隐藏宝藏"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607542780"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Budget & Suivi de Chantier pour Artisans"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607542796"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.024459599999999998,
-      "why": "KI-Denken: Planificateur de Voyage Berlin & Potsdam: Budget, Itinéraire & Conseils Pratiques"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.0011867999999999998,
-      "why": "KI-Pruefung: Planificateur de Voyage Berlin & Potsdam: Budget, Itinéraire & Conseils Pratiques"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.0237012,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.024487199999999997,
-      "why": "KI-Denken: Berlin & Potsdam Tourisme Budget Tracker & Itinéraire - Modèle Professionnel 2026"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.0011928,
-      "why": "KI-Pruefung: Berlin & Potsdam Tourisme Budget Tracker & Itinéraire - Modèle Professionnel 2026"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.031619999999999995,
-      "why": "KI-Denken: Découvrir Dresde et la Saxe en 7 étapes : Le guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.0041676,
-      "why": "KI-Pruefung: Découvrir Dresde et la Saxe en 7 étapes : Le guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.12,
-      "why": "KI-Bilder: Découvrir Dresde et la Saxe en 7 étapes : Le guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.024274799999999996,
-      "why": "KI-Denken: Smart Construction Site Estimate & Quote Tracker"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Smart Construction Site Estimate & Quote Tracker"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.0241248,
-      "why": "KI-Denken: Construction Site Material & Labor Cost Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Construction Site Material & Labor Cost Tracker for Craftsmen"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 3 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-11-01T18:58:09",
       "eur": -0.024243599999999997,
@@ -12718,6 +12680,116 @@
       "t": "2026-11-03T16:17:15",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609061475"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.03182159999999999,
+      "why": "KI-Denken: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.0034476,
+      "why": "KI-Pruefung: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.024994799999999998,
+      "why": "KI-Denken: Planificador de Viajes al Bosque Negro: Presupuesto, Ruta y Actividades"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Viajes al Bosque Negro: Presupuesto, Ruta y Actividades"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Basic but functional for trip planning. Lacks advanced automation or visual elements.'}"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.025087199999999997,
+      "why": "KI-Denken: Planificador de Viaje al Bosque Negro: Seguimiento de Presupuesto & Itinerario para Hombres"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Viaje al Bosque Negro: Seguimiento de Presupuesto & Itinerario para Hombres"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): 'choices'"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): 'choices'"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.03128639999999999,
+      "why": "KI-Denken: Descubre el Saarland y la Mosela: Guía Esencial para Viajeros"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.0044291999999999995,
+      "why": "KI-Pruefung: Descubre el Saarland y la Mosela: Guía Esencial para Viajeros"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: Descubre el Saarland y la Mosela: Guía Esencial para Viajeros"
+    },
+    {
+      "t": "2026-11-03T23:37:31",
+      "eur": -0.0030887999999999996,
+      "why": "Audit: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Bu"
+    },
+    {
+      "t": "2026-11-03T23:37:31",
+      "eur": -0.002316,
+      "why": "Audit: Planificador de Viaje al Bosque Negro: Seguimiento de Presupuesto & Itinerario p"
+    },
+    {
+      "t": "2026-11-03T23:37:31",
+      "eur": -0.0040019999999999995,
+      "why": "Audit: Descubre el Saarland y la Mosela: Guía Esencial para Viajeros"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.0011891999999999998,
+      "why": "Blog-Artikel: Bodensee (fr)"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": -0.0011447999999999999,
+      "why": "Blog-Artikel: Mosel Cochem (de)"
+    },
+    {
+      "t": "2026-11-03T23:27:53",
+      "eur": 0,
+      "why": "Video-Fehler: 'choices'"
     }
   ],
   "alive": true,
@@ -15154,6 +15226,22 @@
       "lang": "es",
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-11-03T16:17:15",
+      "img": true
+    },
+    {
+      "slug": "decouvrir-le-lac-de-constance-allemagne",
+      "title": "Découvrir le lac de Constance : un joyau entre Allemagne, Autriche et Suisse",
+      "lang": "fr",
+      "topic": "Bodensee",
+      "created": "2026-11-03T23:27:53",
+      "img": true
+    },
+    {
+      "slug": "cochem-an-der-mosel-reiseziel-deutschland",
+      "title": "Cochem an der Mosel: Ein märchenhaftes Reiseziel in Deutschland",
+      "lang": "de",
+      "topic": "Mosel Cochem",
+      "created": "2026-11-03T23:27:53",
       "img": true
     }
   ],
