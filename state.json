@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 409.6928,
-  "spent_eur": 94.9774,
+  "balance_eur": 408.8372,
+  "spent_eur": 95.833,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7262,7 +7262,10 @@
       "audit_note": "Der Inhalt ist legal, ehrlich und entspricht den Regeln. Es wurden keine erfundenen Studien, Statistiken oder Zahlen verwendet. Der Text bietet praktische Tipps zur Gartenarbeit ohne Gesundheitsversprechen, Rechts- oder Finanzberatung. Die Sprache ist korrekt und konsistent.",
       "pay_url": "https://buy.stripe.com/3cIaEY6w93Xd6Ymg7a2kx0i",
       "payment_link_id": "plink_1URwaZJ5iOXkWb9VmjgbCv7V",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4609082202"
+      }
     },
     {
       "type": "excel",
@@ -7286,7 +7289,10 @@
       "audit_note": "Keine offensichtlichen Regelverstöße. Das Produkt ist eine einfache Excel-Vorlage ohne erfundene Studien, Statistiken oder Gesundheitsversprechen. Alle Berechnungen und Beispieldaten sind klar als solche gekennzeichnet. Die Sprache ist konsistent und keine Platzhalter oder unfertigen Texte vorhanden",
       "pay_url": "https://buy.stripe.com/cNicN68EhbpF0zY8EI2kx0j",
       "payment_link_id": "plink_1URz7vJ5iOXkWb9VLpW2bb9X",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4609082234"
+      }
     },
     {
       "type": "ebook",
@@ -7310,7 +7316,10 @@
       "audit_note": "Der Inhalt ist ehrlich, legal und frei von kopierten Werken oder fremden Marken. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Das E-Book bietet praktische, allgemein bekannte Strategien und eigene Praxistipps für Lehrer, ohne finanzielle, rechtliche oder gesundheitsb",
       "pay_url": "https://buy.stripe.com/aFa6oIbQt3XdeqOdZ22kx0k",
       "payment_link_id": "plink_1URz7wJ5iOXkWb9VKaPj8LQr",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4609061475"
+      }
     },
     {
       "type": "excel",
@@ -11630,144 +11639,81 @@
       "pay_url": "https://buy.stripe.com/eVq14odYBdxN3Ma1cg2kx3d",
       "payment_link_id": "plink_1UXblmJ5iOXkWb9V3nJ2sxOQ",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Content Budget & ROI Tracker",
+      "slug": "youtube-content-budget-roi-tracker",
+      "price_eur": 9,
+      "target": "Content Creator und YouTube",
+      "reason": "YouTube-Creator benötigen eine einfache Möglichkeit, ihre Ausgaben und Einnahmen zu verfolgen und den ROI ihrer Videos zu analysieren. Diese Vorlage bietet eine professionelle Lösung für diese Anforderungen.",
+      "language": "de",
+      "pitch": "Planen Sie Ihr YouTube-Budget effizient und analysieren Sie den ROI Ihrer Videos mit dieser professionellen Excel-Vorlage.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Vorlage hilft Ihnen, Ihr YouTube-Budget zu planen und den ROI Ihrer Videos zu analysieren. Sie können Ausgaben, Einnahmen und Performance-Daten verfolgen und visuell darstellen.</p>",
+      "pro": true,
+      "created": "2026-11-03T16:17:15",
+      "file": "youtube-content-budget-roi-tracker-e5779eb28eb423fd.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine funktionale Excel-Vorlage ohne erfundene Statistiken oder falsche Behauptungen. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen nur der Veranschaulichung der Funktionalität. Keine Verstöße gegen die Regeln festgestellt.",
+      "pay_url": "https://buy.stripe.com/fZu6oI3jX1P596u2gk2kx3e",
+      "payment_link_id": "plink_1UXkchJ5iOXkWb9VI577qSa4",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Effektive Unterrichtsmethoden für Lehrer und Nachhilfelehrer: 7 bewährte Strategien für mehr Erfolg im Klassenzimmer",
+      "slug": "effektive-unterrichtsmethoden-fuer-lehrer-und-nachhilfelehrer",
+      "price_eur": 7.99,
+      "target": "Lehrer, Nachhilfelehrer und pädagogische Fachkräfte, die ihre Unterrichtsqualität verbessern möchten",
+      "reason": "Lehrer sind ständig auf der Suche nach neuen Methoden, um ihren Unterricht effektiver zu gestalten. Besonders im Nachhilfebereich gibt es wenig strukturierte Hilfen. Dieses E-Book füllt diese Lücke mit konkreten, sofort umsetzbaren Strategien für verschiedene Lehrsituationen.",
+      "language": "de",
+      "pitch": "Praktische Tipps für mehr Struktur und Lernerfolg – so gestalten Sie lebendige und effektive Unterrichtsstunden. Ideal für alle, die Schülern Wissen nachhaltig vermitteln wollen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Vorbereitung ist alles: So planen Sie Ihren Unterricht effizient</li><li>Schüler aktiv einbinden: Interaktive Methoden für mehr Beteiligung</li><li>Umgang mit Störungen: Klassenmanagement leicht gemacht</li><li>Lernfortschritte sichtbar machen: Feedback-Methoden, die wirken</li><li>Digitale Tools sinnvoll nutzen: Technik für besseren Unterricht</li><li>Individuelle Förderung: Unterschiedliche Lernbedürfnisse berücksichtigen</li><li>Nachhaltiges Lernen: Wissen langfristig verankern</li></ul>",
+      "pro": false,
+      "created": "2026-11-03T16:17:15",
+      "file": "effektive-unterrichtsmethoden-fuer-lehrer-und-nachhilfelehrer-ce93f4e3e811e991.pdf",
+      "size": 1604,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt bietet allgemein bekannte Unterrichtsmethoden ohne erfundene Statistiken oder Quellen. Kleinere formale Fehler (abgebrochene Wörter), aber sachlich korrekt und regelkonform.",
+      "pay_url": "https://buy.stripe.com/8x23cwf2FeBR0zYdZ22kx3f",
+      "payment_link_id": "plink_1UXkciJ5iOXkWb9VT0pDwqE7",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Senior Care Expense Tracker & Budget Planner for Families and Organizations",
+      "slug": "senior-care-expense-budget-tracker",
+      "price_eur": 9,
+      "target": "seniors-care-families-organizations",
+      "reason": "This template provides a comprehensive solution for managing senior care expenses, helping families and organizations stay organized and financially prepared. Its professional design and practical features make it worth the price.",
+      "language": "en",
+      "pitch": "Effortlessly manage senior care expenses and budgets with this professional Excel template, designed for families and care organizations to track costs and plan effectively.",
+      "content_html": "<h2>Content</h2><p>Track all senior care-related expenses, from medical costs to daily care supplies, and visualize your budget with clear charts and KPIs.</p>",
+      "pro": true,
+      "created": "2026-11-03T16:17:15",
+      "file": "senior-care-expense-budget-tracker-3caf1499758aa5f8.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Die Excel-Formeln sind plausibel und sinnvoll. Keine Regelverstöße festgestellt. Sprache korrekt und vollständig. Beispielrechnungen klar als solche gekennzeichnet.",
+      "pay_url": "https://buy.stripe.com/28E4gA6w951hdmKg7a2kx3g",
+      "payment_link_id": "plink_1UXkcjJ5iOXkWb9VAEAggs5N",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.0012071999999999999,
-      "why": "Blog-Artikel: Heidelberg Altstadt (de)"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.0010932,
-      "why": "Blog-Artikel: Neuschwanstein (en)"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.00036239999999999997,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607390453"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador Profesional de Viajes Costa Báltica y Mar del Norte para Autónomos"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607390469"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Descubre el Rin, Frankfurt y Heidelberg: Guía esencial para viajeros independientes"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607390473"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.030093599999999995,
-      "why": "KI-Denken: Descubre Baviera y los Alpes: 7 Rutas Esenciales para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.0043104,
-      "why": "KI-Pruefung: Descubre Baviera y los Alpes: 7 Rutas Esenciales para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.12,
-      "why": "KI-Bilder: Descubre Baviera y los Alpes: 7 Rutas Esenciales para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.023594399999999998,
-      "why": "KI-Denken: Ostsee & Nordsee Reisebudget-Tracker & Planer für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ostsee & Nordsee Reisebudget-Tracker & Planer für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.029587199999999998,
-      "why": "KI-Denken: 莱茵河浪漫之旅：法兰克福与海德堡的7个隐藏瑰宝"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.0044328,
-      "why": "KI-Pruefung: 莱茵河浪漫之旅：法兰克福与海德堡的7个隐藏瑰宝"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.16,
-      "why": "KI-Bilder: 莱茵河浪漫之旅：法兰克福与海德堡的7个隐藏瑰宝"
-    },
-    {
-      "t": "2026-11-01T13:42:48",
-      "eur": -0.0039372,
-      "why": "Audit: Descubre Baviera y los Alpes: 7 Rutas Esenciales para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-11-01T13:42:48",
-      "eur": -0.0014724,
-      "why": "Audit: Ostsee & Nordsee Reisebudget-Tracker & Planer für Selbstständige: Professionelle"
-    },
-    {
-      "t": "2026-11-01T13:42:48",
-      "eur": -0.004502399999999999,
-      "why": "Audit: 莱茵河浪漫之旅：法兰克福与海德堡的7个隐藏瑰宝"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.0011891999999999998,
-      "why": "Blog-Artikel: Saechsische Schweiz (zh)"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.0014279999999999998,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (es)"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.0004271999999999999,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-11-01T13:32:33",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能柏林与波茨坦旅行预算追踪器 - 专业技能向导版"
-    },
     {
       "t": "2026-11-01T13:32:33",
       "eur": 0,
@@ -12637,6 +12583,141 @@
       "t": "2026-11-03T06:53:14",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608757471"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.024779999999999996,
+      "why": "KI-Denken: YouTube Content & Einnahmen-Tracker für Creator"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube Content & Einnahmen-Tracker für Creator"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.024835199999999998,
+      "why": "KI-Denken: YouTube Content Budget & ROI Tracker"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube Content Budget & ROI Tracker"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): 'choices'"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): 'choices'"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.03195959999999999,
+      "why": "KI-Denken: Effektive Unterrichtsmethoden für Lehrer und Nachhilfelehrer: 7 bewährte Strategien für mehr Erfolg im Klassenzimmer"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.0039743999999999995,
+      "why": "KI-Pruefung: Effektive Unterrichtsmethoden für Lehrer und Nachhilfelehrer: 7 bewährte Strategien für mehr Erfolg im Klassenzimmer"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.16,
+      "why": "KI-Bilder: Effektive Unterrichtsmethoden für Lehrer und Nachhilfelehrer: 7 bewährte Strategien für mehr Erfolg im Klassenzimmer"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.024834,
+      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
+    },
+    {
+      "t": "2026-11-03T16:31:09",
+      "eur": -0.0036539999999999997,
+      "why": "Audit: YouTube Content Budget & ROI Tracker"
+    },
+    {
+      "t": "2026-11-03T16:31:09",
+      "eur": -0.0037463999999999996,
+      "why": "Audit: Effektive Unterrichtsmethoden für Lehrer und Nachhilfelehrer: 7 bewährte Strateg"
+    },
+    {
+      "t": "2026-11-03T16:31:09",
+      "eur": -0.0020556,
+      "why": "Audit: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.0010823999999999999,
+      "why": "Blog-Artikel: Koeln Dom (zh)"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.0012347999999999999,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (es)"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.0004247999999999999,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'année"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609082202"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609082234"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
+    },
+    {
+      "t": "2026-11-03T16:17:15",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609061475"
     }
   ],
   "alive": true,
@@ -15058,6 +15139,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-11-03T06:53:14",
       "img": true
+    },
+    {
+      "slug": "ke-lun-da-jiao-tang-de-guo-ge-te-shi-jian-zhu-de-zhen-han-ji",
+      "title": "科隆大教堂：德国哥特式建筑的震撼杰作",
+      "lang": "zh",
+      "topic": "Koeln Dom",
+      "created": "2026-11-03T16:17:15",
+      "img": true
+    },
+    {
+      "slug": "descubre-ruhrgebiet-zollverein",
+      "title": "Descubre el Ruhrgebiet Zollverein: Un viaje al corazón industrial de Alemania",
+      "lang": "es",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-11-03T16:17:15",
+      "img": true
     }
   ],
   "videos": [
@@ -16299,6 +16396,16 @@
       "hashtags": "#Saarschleife #Saarland #GermanyTravel #NaturalWonders #ExploreEurope",
       "voice": "Behold the breathtaking Saarschleife, where the Saar river carves a spectacular horseshoe bend through lush forests. This natural wonder in Germany’s Saarland region offers jaw-dropping viewpoints from treetop walks and historic castles. Whether you hike the scenic trails or cruise the river, every angle reveals picture-perfect beauty. A dream for nature lovers and photographers alike!",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-ruhrgebiet-zollverein",
+      "title": "Descubre el Ruhrgebiet Zollverein: Un viaje al corazón industrial de Alemania",
+      "lang": "es",
+      "created": "2026-11-03T16:17:15",
+      "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #Alemania #TurismoCultural #PatrimonioMundial",
+      "voice": "En el corazón de Renania del Norte-Westfalia, se encuentra el maravilloso Zollverein, símbolo del legado industrial del Ruhrgebiet. Declarado Patrimonio Mundial por la UNESCO, este complejo minero combina arquitectura imponente con espacios culturales vibrantes. Aquí, el pasado industrial se mezcla con exposiciones de arte y eventos fascinantes. ¡Explora Zollverein y sumérgete en la esencia de una región que transformó la historia de Alemania!",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Ben, CC BY-SA 3.0, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
