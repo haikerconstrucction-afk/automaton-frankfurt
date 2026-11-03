@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 410.6206,
-  "spent_eur": 94.0496,
+  "balance_eur": 409.6928,
+  "spent_eur": 94.9774,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7181,7 +7181,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Quellen gefunden. Inhalt beschränkt sich auf allgemein bekannte Funktionalitäten einer Excel-Tabelle und ist sachlich korrekt. Keine Regelverstöße.",
       "pay_url": "https://buy.stripe.com/dRm14o9Il3XdeqO3ko2kx0f",
       "payment_link_id": "plink_1URs4xJ5iOXkWb9Vx6tY5FMI",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4608778024"
+      }
     },
     {
       "type": "ebook",
@@ -7205,7 +7208,10 @@
       "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Der Text ist klar und sachlich korrekt, ohne unfertige Stellen, Platzhalter oder Wiederholungen. Es werden keine Gesundheitsversprechen, Finanz- oder Rechtsberatung gegeben. Es handelt sich um allgemein bekannte Ti",
       "pay_url": "https://buy.stripe.com/6oU00k3jXdxN2I63ko2kx0g",
       "payment_link_id": "plink_1URwaXJ5iOXkWb9VWLjWfU9P",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4608778048"
+      }
     },
     {
       "type": "excel",
@@ -7229,7 +7235,10 @@
       "audit_note": "Der Inhalt ist klar, professionell und ohne Verstöße gegen die Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist konsistent Französisch, ohne Platzhalter oder unfertige Texte. Die Excel-Formeln sind sinnvoll und die berechneten Kennzahlen plausibel. Die allgem",
       "pay_url": "https://buy.stripe.com/4gM3cw1bP2T91E24os2kx0h",
       "payment_link_id": "plink_1URwaYJ5iOXkWb9VEfzttlfx",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4608757471"
+      }
     },
     {
       "type": "ebook",
@@ -11597,174 +11606,33 @@
       "pay_url": "https://buy.stripe.com/aFaaEY2fTfFV2I69IM2kx3c",
       "payment_link_id": "plink_1UXUsCJ5iOXkWb9VuuRIDo0n",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Organic Vegetables Year-Round",
+      "slug": "self-sufficient-gardeners-handbook",
+      "price_eur": 7,
+      "target": "gardeners and homesteaders looking to achieve food independence with simple, proven methods",
+      "reason": "Gardeners increasingly want food independence but often struggle with implementation. This guide provides concrete, beginner-friendly steps for year-round success without overwhelming readers with complexity.",
+      "language": "en",
+      "pitch": "Transform your backyard into a bountiful vegetable paradise with this easy-to-follow guide. Learn time-tested techniques for planning, planting, and maintaining your garden through all seasons.",
+      "content_html": "<h2>Inhalt</h2><p>1. Getting Started: Why Self-Sufficiency Matters</p><p>2. Planning Your Perfect Garden Layout</p><p>3. Building Healthy Soil Naturally</p><p>4. Choosing the Right Vegetables for Your Climate</p><p>5. Seasonal Planting Guide</p><p>6. Natural Pest Control Methods</p><p>7. Preserving Your Harvest</p>",
+      "pro": false,
+      "created": "2026-11-03T06:53:14",
+      "file": "self-sufficient-gardeners-handbook-40f371fcb50c44f1.pdf",
+      "size": 2070,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken oder Quellen. Es werden keine falschen oder gemischten Sprachen, Platzhalter oder sachlichen Fehler verwendet. Es gibt keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Der Text enthält keine Gesundheitsversprechen oder fremde Marken/Figure",
+      "pay_url": "https://buy.stripe.com/eVq14odYBdxN3Ma1cg2kx3d",
+      "payment_link_id": "plink_1UXblmJ5iOXkWb9V3nJ2sxOQ",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.001344,
-      "why": "Blog-Artikel: Bodensee (es)"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.0014292,
-      "why": "Blog-Artikel: Mosel Cochem (fr)"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.0003828,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Schwarzwald Reisebudget-Tracker & Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607313798"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Entdecke Saarland & Mosel: Der ultimative Reiseführer für Selbstständige und Familien"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607313818"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate NRW Family Travel Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-10-31T23:31:51",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607291755"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.0240252,
-      "why": "KI-Denken: Guía de Viaje NRW para Hombres: Planificador de Presupuesto y Ruta para Colonia, Düsseldorf y Ruhrgebiet"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.001122,
-      "why": "KI-Pruefung: Guía de Viaje NRW para Hombres: Planificador de Presupuesto y Ruta para Colonia, Düsseldorf y Ruhrgebiet"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.023862,
-      "why": "KI-Denken: Planificador de Viajes para NRW: Presupuesto y Ruta para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.0010463999999999998,
-      "why": "KI-Pruefung: Planificador de Viajes para NRW: Presupuesto y Ruta para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.024399599999999997,
-      "why": "KI-Denken: Planificador de Viajes NRW: Presupuesto y Ruta para Exploradores Urbanos"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.0014592,
-      "why": "KI-Pruefung: Planificador de Viajes NRW: Presupuesto y Ruta para Exploradores Urbanos"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.023798399999999997,
-      "why": "KI-Denken: Planificador de Viajes NRW: Presupuesto, Ruta y Gastos para Exploradores Masculinos"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Viajes NRW: Presupuesto, Ruta y Gastos para Exploradores Masculinos"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.024199199999999997,
-      "why": "KI-Denken: Explorador de Viajes NRW: Presupuesto, Itinerario y Gastos para Hombres"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.0014232,
-      "why": "KI-Pruefung: Explorador de Viajes NRW: Presupuesto, Itinerario y Gastos para Hombres"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Qualitaetspruefung nicht bestanden: {'score': 7, 'rule_violation': True, 'issues': \"Formula typo 'Noces' in 'Alojamiento' sheet (should be 'Noches'), otherwise acceptable for price if formulas work.\"}"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.0237216,
-      "why": "KI-Denken: Guía de Viaje y Presupuesto para NRW: Planificador de Ruta, Gastos y Actividades"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.0011388,
-      "why": "KI-Pruefung: Guía de Viaje y Presupuesto para NRW: Planificador de Ruta, Gastos y Actividades"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.029774399999999996,
-      "why": "KI-Denken: Guía definitiva para viajeros: Descubre los secretos de Baviera y los Alpes"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": -0.0044928,
-      "why": "KI-Pruefung: Guía definitiva para viajeros: Descubre los secretos de Baviera y los Alpes"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): E-Book zu kurz (1498 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-11-01T06:22:55",
-      "eur": -0.0024551999999999994,
-      "why": "Audit: Guía de Viaje y Presupuesto para NRW: Planificador de Ruta, Gastos y Actividades"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Audit: 1 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-01T06:11:53",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-11-01T06:11:53",
       "eur": -0.0012071999999999999,
@@ -12599,6 +12467,176 @@
       "t": "2026-11-02T23:34:54",
       "eur": -0.0004116,
       "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.030956399999999995,
+      "why": "KI-Denken: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Organic Vegetables Year-Round"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0035339999999999994,
+      "why": "KI-Pruefung: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Organic Vegetables Year-Round"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Organic Vegetables Year-Round"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.025024799999999996,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planer 2026 - Pro Edition"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0010404,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planer 2026 - Pro Edition"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.024825599999999996,
+      "why": "KI-Denken: YouTube Performance Dashboard & Content Planner"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube Performance Dashboard & Content Planner"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0254304,
+      "why": "KI-Denken: YouTube-Content-Planer & Leistungs-Tracker für Creator"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0012912,
+      "why": "KI-Pruefung: YouTube-Content-Planer & Leistungs-Tracker für Creator"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0250236,
+      "why": "KI-Denken: YouTube-Kanal-Analyse-Tracker & Content-Strategieplaner"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0010463999999999998,
+      "why": "KI-Pruefung: YouTube-Kanal-Analyse-Tracker & Content-Strategieplaner"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.024947999999999998,
+      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0010019999999999999,
+      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.025268399999999996,
+      "why": "KI-Denken: YouTube Analytics & Content ROI Tracker Pro"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0012047999999999998,
+      "why": "KI-Pruefung: YouTube Analytics & Content ROI Tracker Pro"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-03T07:04:24",
+      "eur": -0.0033012,
+      "why": "Audit: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Organic"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Audit: 1 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0015155999999999998,
+      "why": "Blog-Artikel: Schwarzwald (de)"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0013296,
+      "why": "Blog-Artikel: Saarland Saarschleife (en)"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.0003491999999999999,
+      "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能协会活动预算 & 志愿者管理追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608778024"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608778048"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
+    },
+    {
+      "t": "2026-11-03T06:53:14",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608757471"
     }
   ],
   "alive": true,
@@ -15004,6 +15042,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-11-02T23:34:54",
       "img": true
+    },
+    {
+      "slug": "schwarzwald-naturparadies-herzen-deutschlands",
+      "title": "Der Schwarzwald: Naturparadies im Herzen Deutschlands",
+      "lang": "de",
+      "topic": "Schwarzwald",
+      "created": "2026-11-03T06:53:14",
+      "img": true
+    },
+    {
+      "slug": "exploring-the-saarschleife-germanys-hidden-gem",
+      "title": "Exploring the Saarschleife: Germany’s Hidden Gem",
+      "lang": "en",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-11-03T06:53:14",
+      "img": true
     }
   ],
   "videos": [
@@ -16235,6 +16289,16 @@
       "hashtags": "#Marienplatz #MunichHeart #BavarianCharm #GlockenspielMagic #MunichMustSee",
       "voice": "Welcome to Munich's dazzling Marienplatz! For 800+ years, this square has been the city's vibrant heartbeat. Gaze up at the stunning New Town Hall with its legendary glockenspiel show. Surrounded by historic buildings, buzzing cafés, and golden statues, it's pure Bavarian magic. Whether Christmas markets or summer festivals, Marienplatz always sparkles - your ultimate Munich must-see!",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "exploring-the-saarschleife-germanys-hidden-gem",
+      "title": "Exploring the Saarschleife: Germany’s Hidden Gem",
+      "lang": "en",
+      "created": "2026-11-03T06:53:14",
+      "hashtags": "#Saarschleife #Saarland #GermanyTravel #NaturalWonders #ExploreEurope",
+      "voice": "Behold the breathtaking Saarschleife, where the Saar river carves a spectacular horseshoe bend through lush forests. This natural wonder in Germany’s Saarland region offers jaw-dropping viewpoints from treetop walks and historic castles. Whether you hike the scenic trails or cruise the river, every angle reveals picture-perfect beauty. A dream for nature lovers and photographers alike!",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
