@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 408.3825,
-  "spent_eur": 96.2877,
+  "balance_eur": 407.5367,
+  "spent_eur": 97.1335,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7343,7 +7343,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Alle Berechnungen basieren auf Benutzereingaben und sind klar als Beispiel gekennzeichnet. Keine Rechts- oder Finanzberatung, keine Gesundheitsversprechen. Das Produkt entspricht den Regeln.",
       "pay_url": "https://buy.stripe.com/bJeaEYdYBfFVfuScUY2kx0l",
       "payment_link_id": "plink_1URz7xJ5iOXkWb9VK9Tqrd8r",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4609531020"
+      }
     },
     {
       "type": "ebook",
@@ -7367,7 +7370,10 @@
       "audit_note": "Der Inhalt hält sich an die Regeln, enthält keine erfundenen Statistiken oder gesundheitsbezogenen Versprechen. Es werden allgemein bekannte Tools wie Trello, Google Calendar und Canva erwähnt, ohne spezifische Leistungsversprechen zu machen. Die Sprache ist konsistent und klar, ohne Platzhalter ode",
       "pay_url": "https://buy.stripe.com/28E00k4o179paaydZ22kx0m",
       "payment_link_id": "plink_1US2f7J5iOXkWb9VoqYm230C",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4609531032"
+      }
     },
     {
       "type": "excel",
@@ -7391,7 +7397,10 @@
       "audit_note": "Das Produkt enthält keine erfunden Zahlen, Statistiken oder falschen Behauptungen. Es ist klar strukturiert, enthält keine Platzhalter oder unfertigen Texte und bietet nützliche Funktionen wie Budgettracking und Itinerary-Planung. Die Formeln sind korrekt und sinnvoll. Lediglich für die Beispielrech",
       "pay_url": "https://buy.stripe.com/7sYcN6dYB0L1gyWg7a2kx0n",
       "payment_link_id": "plink_1US2f8J5iOXkWb9VCWmqeCwx",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4609531044"
+      }
     },
     {
       "type": "ebook",
@@ -11783,119 +11792,72 @@
       "pay_url": "https://buy.stripe.com/14AdRa07L65lfuS5sw2kx3j",
       "payment_link_id": "plink_1UXrH5J5iOXkWb9VNXrkwkaK",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "NRW City Trip Budget Planner & Itinerary Tracker",
+      "slug": "nrw-city-trip-budget-planner-itinerary-tracker",
+      "price_eur": 9,
+      "target": "Travelers exploring NRW cities like Cologne, Düsseldorf, and the Ruhr area",
+      "reason": "This Excel template helps travelers efficiently plan and track their NRW city trip budget and itinerary, ensuring a stress-free and organized travel experience.",
+      "language": "de",
+      "pitch": "Plan your NRW city trip effortlessly with this professional Excel tracker, keeping your budget and itinerary organized.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Budget Tracker</li><li>Itinerary Planner</li><li>Expense Breakdown</li></ul>",
+      "pro": true,
+      "created": "2026-11-04T06:31:14",
+      "file": "nrw-city-trip-budget-planner-itinerary-tracker-452d64324b7a1ff2.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/8x23cw6w9fFV1E2bQU2kx3k",
+      "payment_link_id": "plink_1UXxraJ5iOXkWb9VQ4B43QHE",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能巴伐利亚与阿尔卑斯山旅行指南：7步探索隐藏的自然与文化瑰宝",
+      "slug": "intelligent-bavaria-alps-travel-guide",
+      "price_eur": 5,
+      "target": "旅行爱好者、家庭、自由职业者",
+      "reason": "巴伐利亚与阿尔卑斯山是德国最受欢迎的旅游目的地之一，许多游客希望在有限的时间和预算内探索这些地区的隐藏宝藏。本指南提供了实用的步骤和工具，帮助读者规划完美的旅程，节省时间和预算，同时深入体验当地的自然与文化。",
+      "language": "zh",
+      "pitch": "探索巴伐利亚与阿尔卑斯山的秘密宝藏，规划完美旅程，节省时间与预算。",
+      "content_html": "<h2>内容</h2>第一章：巴伐利亚与阿尔卑斯山的独特魅力<br>第二章：7步规划你的完美旅程<br>第三章：隐藏的自然景点与徒步路线<br>第四章：文化瑰宝与历史古迹<br>第五章：当地美食与特色体验<br>第六章：智能预算与行程优化工具",
+      "pro": false,
+      "created": "2026-11-04T06:31:14",
+      "file": "intelligent-bavaria-alps-travel-guide-b399534a85a2620f.pdf",
+      "size": 2375,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/8x228s1bPalB3Ma3ko2kx3l",
+      "payment_link_id": "plink_1UXxrbJ5iOXkWb9VqBbV55Vl",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord : Budget, Itinéraire & Checkliste",
+      "slug": "planificateur-voyage-mer-baltique-nord",
+      "price_eur": 9,
+      "target": "Touristes et voyageurs autonomes explorant les régions de la mer Baltique et de la mer du Nord en Allemagne",
+      "reason": "Ce planificateur est essentiel pour les voyageurs souhaitant explorer les régions côtières de la mer Baltique et de la mer Nord en Allemagne. Il offre une organisation claire et une gestion financière simplifiée pour un voyage sans stress.",
+      "language": "fr",
+      "pitch": "Organisez votre voyage côtier avec précision grâce à ce planificateur complet pour suivre votre budget, votre itinéraire et votre équipement.",
+      "content_html": "<h2>Inhalt</h2>Ce planificateur vous aide à organiser votre voyage le long des côtes de la mer Baltique et de la mer du Nord en Allemagne. Suivez vos dépenses, planifiez votre itinéraire et vérifiez votre équipement pour un voyage réussi.",
+      "pro": true,
+      "created": "2026-11-04T06:31:14",
+      "file": "planificateur-voyage-mer-baltique-nord-975f16a82e688f4b.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "pay_url": "https://buy.stripe.com/dRm8wQ9IlalBgyW3ko2kx3m",
+      "payment_link_id": "plink_1UXxrcJ5iOXkWb9VLwkpmW8h",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.024243599999999997,
-      "why": "KI-Denken: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-11-01T19:07:51",
-      "eur": -0.0025188,
-      "why": "Audit: Berlin & Potsdam Tourisme Budget Tracker & Itinéraire - Modèle Professionnel 202"
-    },
-    {
-      "t": "2026-11-01T19:07:51",
-      "eur": -0.0038327999999999995,
-      "why": "Audit: Découvrir Dresde et la Saxe en 7 étapes : Le guide pratique pour voyageurs auton"
-    },
-    {
-      "t": "2026-11-01T19:07:51",
-      "eur": -0.0032327999999999996,
-      "why": "Audit: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.0013812,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (fr)"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.0007031999999999999,
-      "why": "Blog-Artikel: Frankfurt Skyline (de)"
-    },
-    {
-      "t": "2026-11-01T18:58:09",
-      "eur": -0.00037679999999999994,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Expecting ',' delimiter: line 34 column 6 (char 2498)"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.029437199999999997,
-      "why": "KI-Denken: Dreamland Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.0035123999999999997,
-      "why": "KI-Pruefung: Dreamland Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.16,
-      "why": "KI-Bilder: Dreamland Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.0242628,
-      "why": "KI-Denken: Hochzeitsbudget-Tracker & Planer für perfekte Planung"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Hochzeitsbudget-Tracker & Planer für perfekte Planung"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.025475999999999995,
-      "why": "KI-Denken: 50 einfache Spar-Tricks für den Alltag: Clever Haushalten ohne Verzicht"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.001872,
-      "why": "KI-Pruefung: 50 einfache Spar-Tricks für den Alltag: Clever Haushalten ohne Verzicht"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (502 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.030550799999999996,
-      "why": "KI-Denken: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im Alltag"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.004226399999999999,
-      "why": "KI-Pruefung: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im Alltag"
-    },
     {
       "t": "2026-11-01T23:39:15",
       "eur": -0.16,
@@ -12790,6 +12752,116 @@
       "t": "2026-11-03T23:27:53",
       "eur": 0,
       "why": "Video-Fehler: 'choices'"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.025114799999999996,
+      "why": "KI-Denken: NRW City Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.001,
+      "why": "KI-Pruefung: NRW City Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.029887199999999992,
+      "why": "KI-Denken: 智能巴伐利亚与阿尔卑斯山旅行指南：7步探索隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.0038832,
+      "why": "KI-Pruefung: 智能巴伐利亚与阿尔卑斯山旅行指南：7步探索隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能巴伐利亚与阿尔卑斯山旅行指南：7步探索隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.0255204,
+      "why": "KI-Denken: Planificateur de Voyage Ostsee & Nordsee : Budgétisation et Suivi des Dépenses pour Voyageurs Autonomes (2026 Edition)"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.0010788,
+      "why": "KI-Pruefung: Planificateur de Voyage Ostsee & Nordsee : Budgétisation et Suivi des Dépenses pour Voyageurs Autonomes (2026 Edition)"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.025652399999999995,
+      "why": "KI-Denken: Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.0011952,
+      "why": "KI-Pruefung: Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": 0,
+      "why": "Audit-Fehler: 'choices'"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.0010164,
+      "why": "Blog-Artikel: Heidelberg Altstadt (en)"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.0010248,
+      "why": "Blog-Artikel: Neuschwanstein (zh)"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.00035279999999999996,
+      "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Pflegekosten-Tracker & Budgetplaner für Angehörige"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609531020"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7-Schritte-Guide zur digitalen Entlastung für Selbstständige: Mehr Zeit gewinnen mit smarten Tools"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609531032"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Black Forest Travel Budget Planner & Expense Tracker for Female Travelers"
+    },
+    {
+      "t": "2026-11-04T06:31:14",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609531044"
     }
   ],
   "alive": true,
@@ -15243,6 +15315,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-11-03T23:27:53",
       "img": true
+    },
+    {
+      "slug": "exploring-heidelberg-old-town-germany",
+      "title": "Exploring Heidelberg's Old Town: A Timeless German Gem",
+      "lang": "en",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-11-04T06:31:14",
+      "img": true
+    },
+    {
+      "slug": "tan-fang-tong-hua-cheng-bao-de-guo-xin-tian-e-bao-lu-xing-zh",
+      "title": "探访童话城堡：德国新天鹅堡旅行指南",
+      "lang": "zh",
+      "topic": "Neuschwanstein",
+      "created": "2026-11-04T06:31:14",
+      "img": true
     }
   ],
   "videos": [
@@ -16494,6 +16582,16 @@
       "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #Alemania #TurismoCultural #PatrimonioMundial",
       "voice": "En el corazón de Renania del Norte-Westfalia, se encuentra el maravilloso Zollverein, símbolo del legado industrial del Ruhrgebiet. Declarado Patrimonio Mundial por la UNESCO, este complejo minero combina arquitectura imponente con espacios culturales vibrantes. Aquí, el pasado industrial se mezcla con exposiciones de arte y eventos fascinantes. ¡Explora Zollverein y sumérgete en la esencia de una región que transformó la historia de Alemania!",
       "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Ben, CC BY-SA 3.0, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "tan-fang-tong-hua-cheng-bao-de-guo-xin-tian-e-bao-lu-xing-zh",
+      "title": "探访童话城堡：德国新天鹅堡旅行指南",
+      "lang": "zh",
+      "created": "2026-11-04T06:31:14",
+      "hashtags": "#新天鹅堡 #德国旅游 #童话城堡 #巴伐利亚 #阿尔卑斯山",
+      "voice": "欢迎来到德国的梦幻之地——新天鹅堡！这座童话般的城堡是巴伐利亚国王路德维希二世的杰作，坐落在壮丽的阿尔卑斯山间。它的尖塔和白色外墙仿佛是童话故事中的场景，每年吸引着无数游客前来探访。新天鹅堡不仅是一座建筑奇迹，更是浪漫与梦想的象征。走进这里，仿佛穿越到了一个迷人的童话世界！",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
