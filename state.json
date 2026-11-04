@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 407.5367,
-  "spent_eur": 97.1335,
+  "balance_eur": 406.8496,
+  "spent_eur": 97.8206,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7424,7 +7424,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Zahlen, Statistiken oder Quellen, keine falsche Sprache, keine unfertigen Texte oder Platzhalter, keine Rechts-, Steuer-, Finanz- oder Medizinberatung, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Der Text ist klar, informativ und bie",
       "pay_url": "https://buy.stripe.com/dRm5kEg6J79p5Ui9IM2kx0o",
       "payment_link_id": "plink_1US2f8J5iOXkWb9VHFJc5dIn",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4609854240"
+      }
     },
     {
       "type": "excel",
@@ -7448,7 +7451,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln. Es werden keine erfundenen Statistiken, Prozentzahlen oder Quellen verwendet. Die Excel-Tabellen und Formeln sind nachvollziehbar und plausibel. Die Angaben sind klar als Beispiele markiert und entsprechen allgemein bekanntem Wissen. Es gibt keine Rechts-, Steuer-, ",
       "pay_url": "https://buy.stripe.com/5kQ3cwbQt2T9aay1cg2kx0p",
       "payment_link_id": "plink_1US8avJ5iOXkWb9V6gWt5ZC8",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4609854276"
+      }
     },
     {
       "type": "ebook",
@@ -7472,7 +7478,10 @@
       "audit_note": "Der Text enthält eine Prozentzahl (30%), die keine allgemein bekannte Grundlage hat. Ansonsten ist der Inhalt korrekt, legal und entspricht den Regeln.",
       "pay_url": "https://buy.stripe.com/3cIfZi7AdctJ96u6wA2kx0q",
       "payment_link_id": "plink_1US8avJ5iOXkWb9VUVCExFNw",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4609833541"
+      }
     },
     {
       "type": "excel",
@@ -11812,7 +11821,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/8x23cw6w9fFV1E2bQU2kx3k",
       "payment_link_id": "plink_1UXxraJ5iOXkWb9VQ4B43QHE",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt erfüllt alle Richtlinien. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Gesundheitsversprechen oder fremde Marken. Die Excel-Funktionen sind sinnvoll und die Beispiel-Daten plausibel. Die Sprache ist korrekt und einheitlich."
     },
     {
       "type": "ebook",
@@ -11833,7 +11845,10 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/8x228s1bPalB3Ma3ko2kx3l",
       "payment_link_id": "plink_1UXxrbJ5iOXkWb9VqBbV55Vl",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist sachlich korrekt und enthält keine erfundenen Statistiken oder unzulässigen Gesundheits-/Rechtsaussagen. Die Reiseempfehlungen basieren auf allgemein bekannten Fakten über Bayern und die Alpen. Einzelne Abschnitte wechseln unbegründet ins Deutsche, was aber kein Ausschlusskriterium darste"
     },
     {
       "type": "excel",
@@ -11854,150 +11869,13 @@
       "quality": 2,
       "pay_url": "https://buy.stripe.com/dRm8wQ9IlalBgyW3ko2kx3m",
       "payment_link_id": "plink_1UXxrcJ5iOXkWb9VLwkpmW8h",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt entspricht den Anforderungen: klare Struktur, keine erfundenen Statistiken/Quellen, keine unzulässigen Beratungsinhalte. Die Beispielrechnungen sind plausibel. Lediglich die Rückführbarkeit der Kennzahlen auf die Beispieldaten könnte durch explizitere Verlinkung/Annotation noch verbesser"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.16,
-      "why": "KI-Bilder: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im Alltag"
-    },
-    {
-      "t": "2026-11-02T00:04:32",
-      "eur": -0.0032807999999999995,
-      "why": "Audit: Dreamland Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
-    },
-    {
-      "t": "2026-11-02T00:04:32",
-      "eur": -0.0021048,
-      "why": "Audit: Hochzeitsbudget-Tracker & Planer für perfekte Planung"
-    },
-    {
-      "t": "2026-11-02T00:04:32",
-      "eur": -0.0038531999999999993,
-      "why": "Audit: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im All"
-    },
-    {
-      "t": "2026-11-02T00:04:32",
-      "eur": 0,
-      "why": "Audit entfernt: Sparen ohne Verzicht: 7 einfache Strategien für mehr finanzielle Freiheit im All – Erfundene Prozentzahlen (6%, 90%) ohne allgemein bekannte Grundlage, unvollständige Texte, fehlende Belege für Behauptungen. Erfundene Zahlen: 6%, 90%"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 1 entfernt"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.0013716,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (en)"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.0010643999999999999,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (zh)"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.0003276,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Histoires Enchantées pour Endormir Vos Petits Lutins"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607878254"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607857671"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Smart Family Savings: 7 Simple Steps to Stretch Your Household Budget Without Sacrifice"
-    },
-    {
-      "t": "2026-11-01T23:39:15",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4607878300"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.024244799999999997,
-      "why": "KI-Denken: Smart Personal Training Budget & Progress Tracker"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Smart Personal Training Budget & Progress Tracker"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.030492,
-      "why": "KI-Denken: Smart Landlord Simplified: 7 Stress-Free Strategies for Managing 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.0031823999999999997,
-      "why": "KI-Pruefung: Smart Landlord Simplified: 7 Stress-Free Strategies for Managing 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Fehlende praktische Tools wie Excel-Tabellen oder Formeln. Preis für 5 EUR kann fair sein, aber Nutzen könnte durch konkrete Hilfsmittel erhöht werden.'}"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.0303024,
-      "why": "KI-Denken: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.003276,
-      "why": "KI-Pruefung: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.024560399999999996,
-      "why": "KI-Denken: Planificador de Exámenes y Seguimiento de Progreso para Estudiantes Universitarios"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.001086,
-      "why": "KI-Pruefung: Planificador de Exámenes y Seguimiento de Progreso para Estudiantes Universitarios"
-    },
-    {
-      "t": "2026-11-02T06:17:52",
-      "eur": -0.0013679999999999999,
-      "why": "Audit: Smart Personal Training Budget & Progress Tracker"
-    },
     {
       "t": "2026-11-02T06:17:52",
       "eur": -0.0030587999999999995,
@@ -12862,6 +12740,146 @@
       "t": "2026-11-04T06:31:14",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609531044"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.030141599999999998,
+      "why": "KI-Denken: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.0042096,
+      "why": "KI-Pruefung: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): E-Book zu kurz (1279 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.030279599999999993,
+      "why": "KI-Denken: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.004212,
+      "why": "KI-Pruefung: Die ultimative Reisefibel: Rhein, Frankfurt & Heidelberg entdecken"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): E-Book zu kurz (1362 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): 'choices'"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): 'choices'"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): 'choices'"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): 'choices'"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.0314016,
+      "why": "KI-Denken: Guide Essentiel du Voyageur Indépendant: Découvrir le Rhin, Francfort et Heidelberg en 7 Étapes"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.004212,
+      "why": "KI-Pruefung: Guide Essentiel du Voyageur Indépendant: Découvrir le Rhin, Francfort et Heidelberg en 7 Étapes"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): E-Book zu kurz (1399 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-04T16:42:19",
+      "eur": -0.0021203999999999997,
+      "why": "Audit: NRW City Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-11-04T16:42:19",
+      "eur": -0.004108799999999999,
+      "why": "Audit: 智能巴伐利亚与阿尔卑斯山旅行指南：7步探索隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-11-04T16:42:19",
+      "eur": -0.0032556,
+      "why": "Audit: Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord : Budget, Itinéra"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.0014579999999999999,
+      "why": "Blog-Artikel: Saechsische Schweiz (es)"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.0013164,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (fr)"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.000402,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609854240"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Viajes por NRW: Presupuesto y Ruta para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609854276"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Viajeros"
+    },
+    {
+      "t": "2026-11-04T16:21:54",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609833541"
     }
   ],
   "alive": true,
@@ -15331,6 +15349,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-11-04T06:31:14",
       "img": true
+    },
+    {
+      "slug": "sajonia-suiza-paraiso-natural-alemania",
+      "title": "Sajonia Suiza: Un paraíso natural en Alemania",
+      "lang": "es",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-11-04T16:21:54",
+      "img": true
+    },
+    {
+      "slug": "falaises-craie-ruegen-allemagne",
+      "title": "Les majestueuses falaises de craie de Rügen en Allemagne",
+      "lang": "fr",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-11-04T16:21:54",
+      "img": true
     }
   ],
   "videos": [
@@ -16592,6 +16626,16 @@
       "hashtags": "#新天鹅堡 #德国旅游 #童话城堡 #巴伐利亚 #阿尔卑斯山",
       "voice": "欢迎来到德国的梦幻之地——新天鹅堡！这座童话般的城堡是巴伐利亚国王路德维希二世的杰作，坐落在壮丽的阿尔卑斯山间。它的尖塔和白色外墙仿佛是童话故事中的场景，每年吸引着无数游客前来探访。新天鹅堡不仅是一座建筑奇迹，更是浪漫与梦想的象征。走进这里，仿佛穿越到了一个迷人的童话世界！",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "falaises-craie-ruegen-allemagne",
+      "title": "Les majestueuses falaises de craie de Rügen en Allemagne",
+      "lang": "fr",
+      "created": "2026-11-04T16:21:54",
+      "hashtags": "#Rügen #Kreidefelsen #Allemagne #Nature #Baltique #Voyage #Paysage",
+      "voice": "Plongez dans l’univers enchanteur des falaises de craie de Rügen, en Allemagne. Ces formations naturelles spectaculaire bordent la mer Baltique et offrent une vue à couper le souffle. Parfait pour une balade en plein air, ce site emblématique vous invite à découvrir la beauté brute de la nature. Une destination incontournable pour les amoureux de paysages uniques !",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
