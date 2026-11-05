@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 405.8256,
-  "spent_eur": 98.8446,
+  "balance_eur": 405.1148,
+  "spent_eur": 99.5554,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7586,7 +7586,10 @@
       "audit_note": "Der Inhalt ist legal, ehrlich und frei von Spam, Finanz-, Rechts- oder Gesundheitsberatung. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Die Sprache ist durchgehend Französisch, ohne Platzhalter oder unfertige Texte. Der Inhalt bietet praktische Tipps und allgemein bekanntes Wissen üb",
       "pay_url": "https://buy.stripe.com/5kQ4gA9Il1P5ciG8EI2kx0u",
       "payment_link_id": "plink_1USQOBJ5iOXkWb9VsSs2kKiE",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4610610286"
+      }
     },
     {
       "type": "excel",
@@ -7610,7 +7613,10 @@
       "audit_note": "Produkt erfüllt alle Regeln: Keine erfundenen Zahlen, Statistiken oder Gesundheitsversprechen. Keine Rechts-, Steuer- oder Finanzberatung. Keine Marken oder fremden Werke. Inhalte sind klar und sinnvoll strukturiert. Lediglich die Wiederholungen der Formeln könnten optimiert werden.",
       "pay_url": "https://buy.stripe.com/14AeVe6w9alB1E22gk2kx0v",
       "payment_link_id": "plink_1USQOCJ5iOXkWb9VYyMy7cVO",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4610588883"
+      }
     },
     {
       "type": "ebook",
@@ -7634,7 +7640,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Studien oder Statistiken, keine Gesundheitsversprechen, keine Marken Dritter. Es handelt sich um originäre, kindgerechte Gutenachtgeschichten mit klar gekennzeichneten 'Key takeaways'. Preis, Sprache und Format passend.",
       "pay_url": "https://buy.stripe.com/7sY14o6w979p82q6wA2kx0w",
       "payment_link_id": "plink_1USVCMJ5iOXkWb9Vo3Es9nQK",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4610610368"
+      }
     },
     {
       "type": "excel",
@@ -11954,129 +11963,81 @@
       "pay_url": "https://buy.stripe.com/aFa7sM4o1fFVeqO7AE2kx3p",
       "payment_link_id": "plink_1UYE3NJ5iOXkWb9VMZgP2lZb",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Baustellenkosten-Tracker & Angebotskalkulator für Handwerksbetriebe",
+      "slug": "baustellenkosten-tracker-angebotskalkulator-handwerksbetriebe",
+      "price_eur": 9,
+      "target": "Handwerksbetriebe im Rhein-Main-Gebiet",
+      "reason": "Handwerksbetriebe benötigen eine einfache und effiziente Möglichkeit, ihre Baustellenkosten zu verwalten und professionelle Angebote zu erstellen. Diese Vorlage bietet genau das – mit automatischen Berechnungen und übersichtlichen Analysen.",
+      "language": "de",
+      "pitch": "Effiziente Verwaltung von Baustellenkosten und präzise Angebotskalkulation in einer professionellen Excel-Vorlage.",
+      "content_html": "<h2>Inhalt</h2>Verwalten Sie Material-, Arbeits- und Sonstkosten Ihrer Baustellen und erstellen Sie präzise Angebote mit dieser professionellen Excel-Vorlage.",
+      "pro": true,
+      "created": "2026-11-05T16:30:16",
+      "file": "baustellenkosten-tracker-angebotskalkulator-handwerksbetriebe-655ab4ea3b707709.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Keine unerlaubten Beratungen oder Gesundheitsversprechen. Die Excel-Vorlage ist klar strukturiert und funktional. Die Beispielrechnungen sind plausibel und als solche erkennbar. Kleine Abweichungen in der Formatierung sind tolerierbar.",
+      "pay_url": "https://buy.stripe.com/eVqcN6dYBfFV96ucUY2kx3t",
+      "payment_link_id": "plink_1UYTh5J5iOXkWb9ValkwMnUp",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Gute-Nacht-Geschichten für kleine Abenteurer: 6 magische Reisen ins Traumland",
+      "slug": "gute-nacht-geschichten-fuer-kleine-abenteurer-magische-reisen-ins-traumland",
+      "price_eur": 5,
+      "target": "Eltern von Kindern im Alter von 3-8 Jahren",
+      "reason": "Eltern suchen oft nach Geschichten, die ihre Kinder sanft ins Land der Träume führen. Dieses E-Book bietet sechs originelle und magische Geschichten, die genau das bewirken.",
+      "language": "de",
+      "pitch": "Entdecken Sie sechs bezaubernde Geschichten, die Ihre Kinder in zauberhafte Welten entführen und ihnen helfen, sanft einzuschlafen. Perfekt für eine entspannte Nachtruhe.",
+      "content_html": "<h2>Inhalt</h2><ol><li>Das Schloss der Sternenkinder</li><li>Die Reise zum Regenbogenland</li><li>Der kleine Mondforscher</li><li>Das Geheimnis der Traumfee</li><li>Die Abenteuer im Zauberwald</li><li>Die Freunde der Nachteule</li></ol>",
+      "pro": false,
+      "created": "2026-11-05T16:30:16",
+      "file": "gute-nacht-geschichten-fuer-kleine-abenteurer-magische-reisen-ins-traumland-37c7671c145f9c05.pdf",
+      "size": 1763,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es handelt sich um kreative Geschichten ohne Rechts-, Steuer-, Finanz- oder Medizinberatung. Die Geschichten sind vollständig und gut strukturiert. Der Hinweis auf die Verwendung von KI-Unterstützung ist klar angegeben.",
+      "pay_url": "https://buy.stripe.com/dRm4gA9IlgJZ82q3ko2kx3u",
+      "payment_link_id": "plink_1UYTh6J5iOXkWb9V1eCaHNYP",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Wedding Budget Planner & Vendor Tracker",
+      "slug": "ultimate-wedding-budget-planner-vendor-tracker",
+      "price_eur": 15,
+      "target": "Women planning their wedding",
+      "reason": "Wedding planning can be overwhelming, and keeping track of all expenses and vendor details is crucial. This comprehensive Excel template simplifies the process, ensuring everything is organized and easily accessible.",
+      "language": "en",
+      "pitch": "Plan your dream wedding without stress. Track every expense, manage vendors, and stay on budget with ease.",
+      "content_html": "<h2>Content</h2><p>This Excel template includes everything you need to plan your wedding efficiently. Track your budget, manage vendor payments, and ensure nothing is overlooked.</p>",
+      "pro": true,
+      "created": "2026-11-05T16:30:16",
+      "file": "ultimate-wedding-budget-planner-vendor-tracker-acd0a4405f46d030.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielzahlen sind klar als Beispiel gekennzeichnet und die Berechnungen sind plausibel. Keine Regelverstöße oder sachlichen Fehler.",
+      "pay_url": "https://buy.stripe.com/7sY14ocUx2T9beCcUY2kx3v",
+      "payment_link_id": "plink_1UYTh7J5iOXkWb9VZi2XxviX",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.024455999999999995,
-      "why": "KI-Denken: 智能旅行预算与打包清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行预算与打包清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.024706799999999998,
-      "why": "KI-Denken: 智能旅行打包清单与预算追踪器 (2026专业版)"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.0010704,
-      "why": "KI-Pruefung: 智能旅行打包清单与预算追踪器 (2026专业版)"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.029764799999999998,
-      "why": "KI-Denken: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.0043776,
-      "why": "KI-Pruefung: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.16,
-      "why": "KI-Bilder: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-11-02T16:23:07",
-      "eur": -0.0037007999999999997,
-      "why": "Audit: El éxito en tu mesa: 7 estrategias sencillas para atraer más clientes a tu peque"
-    },
-    {
-      "t": "2026-11-02T16:23:07",
-      "eur": -0.0013967999999999997,
-      "why": "Audit: 智能旅行打包清单与预算追踪器 (2026专业版)"
-    },
-    {
-      "t": "2026-11-02T16:23:07",
-      "eur": -0.0043944,
-      "why": "Audit: Etsy成功指南：7个简单步骤提升你的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.0012996,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (de)"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.0011124,
-      "why": "Blog-Artikel: Muenchen Marienplatz (en)"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.0003744,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Little Restaurant Success Kit: 7 Simple Steps to Attract More Customers & Boost Your Sales"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608314400"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador Profesional de Viajes y Lista de Equipaje"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608314434"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guía Definitiva para Vendedores de Etsy: 7 Estrategias Comprobadas para Aumentar Tus Ventas"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608314454"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.024545999999999995,
-      "why": "KI-Denken: Planificateur de Budget et de Suivi des Événements pour Associations"
-    },
     {
       "t": "2026-11-02T23:34:54",
       "eur": -0.001,
@@ -12961,6 +12922,126 @@
       "t": "2026-11-04T23:45:19",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610128344"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.0255564,
+      "why": "KI-Denken: Baustellenkosten-Tracker & Angebotskalkulator für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Baustellenkosten-Tracker & Angebotskalkulator für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.0327648,
+      "why": "KI-Denken: 7 Magische Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.0044364,
+      "why": "KI-Pruefung: 7 Magische Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): E-Book zu kurz (1485 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.032095200000000004,
+      "why": "KI-Denken: Gute-Nacht-Geschichten für kleine Abenteurer: 6 magische Reisen ins Traumland"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.0043679999999999995,
+      "why": "KI-Pruefung: Gute-Nacht-Geschichten für kleine Abenteurer: 6 magische Reisen ins Traumland"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.026085599999999997,
+      "why": "KI-Denken: Ultimate Wedding Budget Planner & Vendor Tracker"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.0012707999999999999,
+      "why": "KI-Pruefung: Ultimate Wedding Budget Planner & Vendor Tracker"
+    },
+    {
+      "t": "2026-11-05T16:39:05",
+      "eur": -0.0026039999999999995,
+      "why": "Audit: Baustellenkosten-Tracker & Angebotskalkulator für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-11-05T16:39:05",
+      "eur": -0.0040187999999999995,
+      "why": "Audit: Gute-Nacht-Geschichten für kleine Abenteurer: 6 magische Reisen ins Traumland"
+    },
+    {
+      "t": "2026-11-05T16:39:05",
+      "eur": -0.0036599999999999996,
+      "why": "Audit: Ultimate Wedding Budget Planner & Vendor Tracker"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.0009743999999999999,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (zh)"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.0013548,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (es)"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.0003648,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs francophones"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610610286"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Construction Site Offer & Budget Tracker for Craft Businesses"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610588883"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
+    },
+    {
+      "t": "2026-11-05T16:30:16",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610610368"
     }
   ],
   "alive": true,
@@ -15462,6 +15543,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-11-04T23:45:19",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-germany-travel-guide",
+      "title": "罗腾堡：德国童话小镇的完美一日游",
+      "lang": "zh",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-11-05T16:30:16",
+      "img": true
+    },
+    {
+      "slug": "brandenburger-tor-berlin-viaje-guia",
+      "title": "Descubre el majestuoso Brandenburger Tor en Berlín",
+      "lang": "es",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-11-05T16:30:16",
+      "img": true
     }
   ],
   "videos": [
@@ -16743,6 +16840,16 @@
       "hashtags": "#Frankfurt #GermanyTravel #SkylineViews #EuropeanCities #TravelGermany",
       "voice": "Welcome to Frankfurt, where modern skyscrapers meet historic charm! Marvel at Germany's stunning financial capital, with its impressive skyline reflecting in the Main River. Explore unique architecture, from medieval old town to cutting-edge high-rises. A perfect blend of business and culture awaits you in this vibrant European metropolis!",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "brandenburger-tor-berlin-viaje-guia",
+      "title": "Descubre el majestuoso Brandenburger Tor en Berlín",
+      "lang": "es",
+      "created": "2026-11-05T16:30:16",
+      "hashtags": "#BrandenburgerTor #Berlín #Alemania #Historia #Viajes",
+      "voice": "El majestuoso Brandenburger Tor es más que un monumento. Es un ícono eterno de la historia alemana y un símbolo de libertad que inspira al mundo. Su arquitectura neoclásica te dejará sin palabras mientras caminas por su imponente estructura. ¡Descubre este lugar emblemático en el corazón de Berlín y vive la emoción de estar frente a un testigo de la historia mundial!",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
