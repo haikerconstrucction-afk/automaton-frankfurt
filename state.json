@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 406.8496,
-  "spent_eur": 97.8206,
+  "balance_eur": 405.8256,
+  "spent_eur": 98.8446,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7505,7 +7505,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Zahlen. Das Produkt ist ein funktionaler Budget-Tracker ohne falsche Behauptungen oder Regelverstöße. Alle Berechnungen basieren auf Benutzereingaben und sind plausibel.",
       "pay_url": "https://buy.stripe.com/cNi8wQdYBctJ96u08c2kx0r",
       "payment_link_id": "plink_1USGf2J5iOXkWb9VqlooVmeX",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4610107321"
+      }
     },
     {
       "type": "ebook",
@@ -7529,7 +7532,10 @@
       "audit_note": "Der Inhalt ist gut strukturiert und bietet praktische Reisetipps ohne erfundene Zahlen, Statistiken oder Quellen. Es gibt keine Regelverstöße oder unzulässigen Behauptungen.",
       "pay_url": "https://buy.stripe.com/8x24gAf2F8dt0zY4os2kx0s",
       "payment_link_id": "plink_1USGf2J5iOXkWb9VZsvOtLRw",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4610128330"
+      }
     },
     {
       "type": "excel",
@@ -7553,7 +7559,10 @@
       "audit_note": "Der Inhalt ist klar, legal und entspricht den Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder unzulässigen Behauptungen. Die Sprache ist korrekt, und die Formeln/Tabellen sind sinnvoll. Kleinere Verbesserungen wie eine vollständigere Dokumentation oder mehr Beispielinhalte könnten den Nutz",
       "pay_url": "https://buy.stripe.com/28EfZibQtalB2I69IM2kx0t",
       "payment_link_id": "plink_1USQOBJ5iOXkWb9VvF8sn66u",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4610128344"
+      }
     },
     {
       "type": "ebook",
@@ -11873,139 +11882,81 @@
       "audit_v": 3,
       "audit_score": 9,
       "audit_note": "Das Produkt entspricht den Anforderungen: klare Struktur, keine erfundenen Statistiken/Quellen, keine unzulässigen Beratungsinhalte. Die Beispielrechnungen sind plausibel. Lediglich die Rückführbarkeit der Kennzahlen auf die Beispieldaten könnte durch explizitere Verlinkung/Annotation noch verbesser"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Pratique du Voyageur Autonome : Découvrez le Rhin, Francfort et Heidelberg",
+      "slug": "guide-du-voyageur-autonome-rhin-francfort-heidelberg",
+      "price_eur": 5,
+      "target": "Les voyageurs autonomes souhaitant explorer la région du Rhin, Francfort et Heidelberg de manière économique et efficace",
+      "reason": "Ce guide répond à un besoin clair des voyageurs autonomes cherchant des conseils pratiques pour explorer la région du Rhin, Francfort et Heidelberg. Il offre des informations détaillées et des astuces pour économiser sans sacrifier la qualité du voyage.",
+      "language": "fr",
+      "pitch": "Découvrez les meilleures astuces pour organiser votre voyage en toute autonomie. Ce guide pratique vous offre des conseils concrets et des itinéraires optimisés pour profiter au maximum de votre séjour.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Chapitre 1 : Préparation du voyage</li><li>Chapitre 2 : Itinéraires optimisés</li><li>Chapitre 3 : Hébergements économiques</li><li>Chapitre 4 : Activités incontournables</li><li>Chapitre 5 : Conseils pour voyager léger</li><li>Chapitre 6 : Budget et économies</li></ul>",
+      "pro": false,
+      "created": "2026-11-04T23:45:19",
+      "file": "guide-du-voyageur-autonome-rhin-francfort-heidelberg-289ae1fa6599202b.pdf",
+      "size": 1602,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist überwiegend konform mit den Regeln. Es gibt keine erfundenen Statistiken, Prozentzahlen oder Quellen. Die Sprache ist durchgängig Französisch und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Es werden keine Gesundheitsversprechen, Beratungen oder fremde Marken verwen",
+      "pay_url": "https://buy.stripe.com/9B67sMaMpfFV5Ui8EI2kx3n",
+      "payment_link_id": "plink_1UYE3LJ5iOXkWb9V5zC25eBu",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Family Trip Planner Berlin & Potsdam: Budget Tracker & Itinerary Organizer",
+      "slug": "ultimate-family-trip-planner-berlin-potsdam",
+      "price_eur": 9,
+      "target": "Familien, die Berlin und Potsdam besuchen möchten",
+      "reason": "Families need a comprehensive tool to plan and track their trips efficiently, ensuring they stay within budget and make the most of their time in Berlin and Potsdam.",
+      "language": "en",
+      "pitch": "Plan your family trip to Berlin & Potsdam with ease. Track your budget & create a detailed itinerary.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps families plan their trip to Berlin and Potsdam efficiently. It includes budget tracking, itinerary planning, and a summary dashboard to keep everything organized.</p>",
+      "pro": true,
+      "created": "2026-11-04T23:45:19",
+      "file": "ultimate-family-trip-planner-berlin-potsdam-44f6a311e357c4d5.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionaler Budget- und Reiseplaner ohne erfundene Statistiken oder problematische Inhalte. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen nur der Veranschaulichung. Keine Verstöße gegen die Regeln festgestellt.",
+      "pay_url": "https://buy.stripe.com/28E9AU5s50L14Qe1cg2kx3o",
+      "payment_link_id": "plink_1UYE3MJ5iOXkWb9VXIblReyx",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Discover Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems",
+      "slug": "discover-dresden-with-kids-family-friendly-guide",
+      "price_eur": 5,
+      "target": "Families traveling to Dresden who want to explore the city in a fun and educational way.",
+      "reason": "This guide fills a niche by offering families a comprehensive resource to explore Dresden with their children, combining cultural education with fun activities.",
+      "language": "en",
+      "pitch": "Explore Dresden’s rich history and hidden gems with your kids through this engaging guide, packed with practical tips, interactive activities, and family-friendly itineraries.",
+      "content_html": "<h2>Inhalt</h2>This guide provides families with everything they need to make the most of their trip to Dresden, from historical insights to kid-friendly activities and practical tips.<ol><li>Chapter 1: Why Dresden?</li><li>Chapter 2: Kid-Friendly Museums</li><li>Chapter 3: Outdoor Adventures</li><li>Chapter 4: Interactive History Lessons</li><li>Chapter 5: Family-Friendly Dining</li><li>Chapter 6: Hidden Gems</li></ol>",
+      "pro": false,
+      "created": "2026-11-04T23:45:19",
+      "file": "discover-dresden-with-kids-family-friendly-guide-8c6415b2c5e745ca.pdf",
+      "size": 1941,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist weitgehend korrekt und hält sich an die Regeln. Es gibt keine erfundenen Statistiken, Prozentzahlen oder Gesundheitsversprechen. Die Sprache ist einheitlich, und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Kleinere Fehler wie der unvollständige Satz in Kapitel 3 (Se",
+      "pay_url": "https://buy.stripe.com/aFa7sM4o1fFVeqO7AE2kx3p",
+      "payment_link_id": "plink_1UYE3NJ5iOXkWb9VMZgP2lZb",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-02T06:17:52",
-      "eur": -0.0030587999999999995,
-      "why": "Audit: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Propert"
-    },
-    {
-      "t": "2026-11-02T06:17:52",
-      "eur": -0.0022488,
-      "why": "Audit: Planificador de Exámenes y Seguimiento de Progreso para Estudiantes Universitari"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.0016451999999999999,
-      "why": "Blog-Artikel: Dresden Frauenkirche (es)"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.0016248,
-      "why": "Blog-Artikel: Harz Brocken (fr)"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.000396,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Smart Fitness-Erfolgstracker für Trainer und Selbstständige"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608012118"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Effiziente Vermietung für kleine Privatvermieter: 7 praktische Schritte zu weniger Stress und mehr Übersicht"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608012134"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Exam Preparation Budget & Progress Tracker for Students"
-    },
-    {
-      "t": "2026-11-02T06:12:03",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608012140"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.031257599999999996,
-      "why": "KI-Denken: El éxito en tu mesa: 7 estrategias sencillas para atraer más clientes a tu pequeño restaurante o cafetería"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.0039768,
-      "why": "KI-Pruefung: El éxito en tu mesa: 7 estrategias sencillas para atraer más clientes a tu pequeño restaurante o cafetería"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.16,
-      "why": "KI-Bilder: El éxito en tu mesa: 7 estrategias sencillas para atraer más clientes a tu pequeño restaurante o cafetería"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.0243144,
-      "why": "KI-Denken: 智能旅行预算与打包清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行预算与打包清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.024239999999999998,
-      "why": "KI-Denken: 智能旅行收藏清单与行李追踪器"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行收藏清单与行李追踪器"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.0243888,
-      "why": "KI-Denken: 智能旅行预算与打包清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能旅行预算与打包清单追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-02T16:07:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 2 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-11-02T16:07:16",
       "eur": -0.024455999999999995,
@@ -12880,6 +12831,136 @@
       "t": "2026-11-04T16:21:54",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609833541"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.031155600000000002,
+      "why": "KI-Denken: Le Guide Pratique du Voyageur Autonome : Découvrez le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.0038891999999999998,
+      "why": "KI-Pruefung: Le Guide Pratique du Voyageur Autonome : Découvrez le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Pratique du Voyageur Autonome : Découvrez le Rhin, Francfort et Heidelberg"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.025275599999999995,
+      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': True, 'issues': \"Formula in 'Sum' column is incorrect (EUR multiplied by text).\"}"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.025381199999999996,
+      "why": "KI-Denken: Ultimate Family Trip Planner Berlin & Potsdam: Budget Tracker & Itinerary Organizer"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Family Trip Planner Berlin & Potsdam: Budget Tracker & Itinerary Organizer"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.030541199999999998,
+      "why": "KI-Denken: Discover Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.0033756,
+      "why": "KI-Pruefung: Discover Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.16,
+      "why": "KI-Bilder: Discover Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-11-04T23:56:52",
+      "eur": -0.0036948,
+      "why": "Audit: Le Guide Pratique du Voyageur Autonome : Découvrez le Rhin, Francfort et Heidelb"
+    },
+    {
+      "t": "2026-11-04T23:56:52",
+      "eur": -0.00216,
+      "why": "Audit: Ultimate Family Trip Planner Berlin & Potsdam: Budget Tracker & Itinerary Organi"
+    },
+    {
+      "t": "2026-11-04T23:56:52",
+      "eur": -0.0031968,
+      "why": "Audit: Discover Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.0014784,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (de)"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.0014375999999999998,
+      "why": "Blog-Artikel: Frankfurt Skyline (en)"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.0003144,
+      "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610107321"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610128330"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Voyage Berlin et Potsdam : Budget, Itinéraire & Checkliste"
+    },
+    {
+      "t": "2026-11-04T23:45:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610128344"
     }
   ],
   "alive": true,
@@ -15365,6 +15446,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-11-04T16:21:54",
       "img": true
+    },
+    {
+      "slug": "hamburg-speicherstadt",
+      "title": "Die Hamburger Speicherstadt: Ein historisches Juwel in der HafenCity",
+      "lang": "de",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-11-04T23:45:19",
+      "img": true
+    },
+    {
+      "slug": "discover-the-frankfurt-skyline",
+      "title": "Discover the Frankfurt Skyline: A Guide to Germany's Urban Gem",
+      "lang": "en",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-11-04T23:45:19",
+      "img": true
     }
   ],
   "videos": [
@@ -16636,6 +16733,16 @@
       "hashtags": "#Rügen #Kreidefelsen #Allemagne #Nature #Baltique #Voyage #Paysage",
       "voice": "Plongez dans l’univers enchanteur des falaises de craie de Rügen, en Allemagne. Ces formations naturelles spectaculaire bordent la mer Baltique et offrent une vue à couper le souffle. Parfait pour une balade en plein air, ce site emblématique vous invite à découvrir la beauté brute de la nature. Une destination incontournable pour les amoureux de paysages uniques !",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discover-the-frankfurt-skyline",
+      "title": "Discover the Frankfurt Skyline: A Guide to Germany's Urban Gem",
+      "lang": "en",
+      "created": "2026-11-04T23:45:19",
+      "hashtags": "#Frankfurt #GermanyTravel #SkylineViews #EuropeanCities #TravelGermany",
+      "voice": "Welcome to Frankfurt, where modern skyscrapers meet historic charm! Marvel at Germany's stunning financial capital, with its impressive skyline reflecting in the Main River. Explore unique architecture, from medieval old town to cutting-edge high-rises. A perfect blend of business and culture awaits you in this vibrant European metropolis!",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
