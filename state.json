@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 404.0768,
-  "spent_eur": 100.5935,
+  "balance_eur": 403.2179,
+  "spent_eur": 101.4524,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7748,7 +7748,10 @@
       "audit_note": "Die erwähnten Prozentzahlen (15%, 90%) sind nicht durch Quellen oder allgemein bekannte Fakten belegt und sollten entfernt werden. Ansonsten enthält der Inhalt keine erfundenen Studien, Statistiken oder unzulässige Beratung. Die Sprache ist korrekt und es gibt keine unfertigen Texte oder Platzhalter",
       "pay_url": "https://buy.stripe.com/8x2cN6cUxfFVciGcUY2kx0A",
       "payment_link_id": "plink_1USbWoJ5iOXkWb9VHspqZEj6",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4611026311"
+      }
     },
     {
       "type": "excel",
@@ -7772,7 +7775,10 @@
       "audit_note": "Das Produkt erfüllt die Anforderungen und verstößt nicht gegen die Regeln. Es enthält keine erfundenen Studien, Statistiken oder falsche Behauptungen. Die Excel-Funktionen sind korrekt und sinnvoll, die Beispieldaten plausibel. Die Sprache ist durchgehend Spanisch und konsistent. Das Produkt bietet ",
       "pay_url": "https://buy.stripe.com/28E3cw7Ad51h6Ym4os2kx0B",
       "payment_link_id": "plink_1USbWpJ5iOXkWb9V5bDJDTw9",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4611045150"
+      }
     },
     {
       "type": "ebook",
@@ -7796,7 +7802,10 @@
       "audit_note": "Der Inhalt ist größtenteils in Ordnung, aber es gibt eine nicht verifizierte Prozentangabe (20%). Dieser Wert sollte als Beispiel markiert oder entfernt werden. Ansonsten enthält das Ebook praktische Tipps ohne falsche Behauptungen oder Regelverstöße.",
       "pay_url": "https://buy.stripe.com/28E28sbQteBR96u08c2kx0C",
       "payment_link_id": "plink_1USgkKJ5iOXkWb9VXPSzQjUM",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4611026347"
+      }
     },
     {
       "type": "excel",
@@ -12116,134 +12125,81 @@
       "pay_url": "https://buy.stripe.com/eVq00k3jXgJZaay4os2kx3y",
       "payment_link_id": "plink_1UYbn9J5iOXkWb9V34tjWZSZ",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能考试预算与进度追踪器 - 2026专业版",
+      "slug": "intelligent-exam-budget-progress-tracker-2026",
+      "price_eur": 9,
+      "target": "Studierende und Prüfungsvorbereitung",
+      "reason": "Diese Vorlage hilft Studierenden, ihre Ausgaben und Lernfortschritte effektiv zu verwalten und zu analysieren, was eine erfolgreiche Prüfungsvorbereitung unterstützt.",
+      "language": "zh",
+      "pitch": "Eine professionelle Excel-Vorlage zur effektiven Planung und Kontrolle Ihrer Prüfungsvorbereitungsausgaben und Lernfortschritte.",
+      "content_html": "<h2>Inhalt</h2><p>Verfolgen Sie Ihre Ausgaben für Lernmaterialien, Kurse, Prüfungsgebühren und mehr. Analysieren Sie Ihre Lernfortschritte und erstellen Sie einen persönlichen Zeitplan für Ihre Prüfungen.</p>",
+      "pro": true,
+      "created": "2026-11-06T06:52:39",
+      "file": "intelligent-exam-budget-progress-tracker-2026-b6558cadaf310666.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist sachgemäß und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Es werden keine Gesundheitsversprechen, Rechts- oder Finanzberatungen gegeben. Die Formeln und Tabellen sind sinnvoll und entsprechen den beschriebenen Funktionen. Es gibt keine fremden Marken oder Figuren",
+      "pay_url": "https://buy.stripe.com/bJefZi2fT8dt2I608c2kx3z",
+      "payment_link_id": "plink_1UYh6RJ5iOXkWb9Vruhktf0G",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能餐厅成功指南：7个简单策略吸引更多顾客",
+      "slug": "smart-restaurant-success-guide",
+      "price_eur": 5,
+      "target": "小型餐厅和咖啡馆老板",
+      "reason": "这本指南提供了实用的策略和具体步骤，帮助小型餐厅和咖啡馆老板提升业务，确保每一分钱都物有所值。",
+      "language": "zh",
+      "pitch": "这本指南将帮助您通过简单的策略吸引更多顾客，提升销售额和客户满意度。",
+      "content_html": "<h2>内容</h2> 本指南包含七个简单但有效的策略，帮助您提升餐厅或咖啡馆的吸引力和盈利能力。",
+      "pro": false,
+      "created": "2026-11-06T06:52:39",
+      "file": "smart-restaurant-success-guide-12f301a99363cf65.pdf",
+      "size": 1999,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist überwiegend sachlich korrekt und enthält keine erfundenen Statistiken, Studien oder Prozentzahlen. Es werden allgemein bekannte Praxistipps gegeben, die keine Rechts-, Steuer- oder Finanzberatung darstellen. Einige Stellen könnten jedoch etwas konkreter sein, um den Nutzen weiter zu e",
+      "pay_url": "https://buy.stripe.com/3cI14o9Il65l96u7AE2kx3A",
+      "payment_link_id": "plink_1UYh6SJ5iOXkWb9VZ5D2fz7U",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage en Famille : Budget, Itinéraire & Liste de Bagages",
+      "slug": "planificateur-voyage-famille-budget-itineraire-liste-bagages",
+      "price_eur": 9,
+      "target": "Familles voyageant en France, Belgique ou Canada",
+      "reason": "Ce planificateur est idéal pour les familles qui veulent organiser leurs voyages sans stress. Il offre une vue complète du budget, facilite la planification de l'itinéraire et garantit que rien n'est oublié dans les bagages.",
+      "language": "fr",
+      "pitch": "Simplifiez vos voyages en famille avec cette feuille Excel tout-en-un : suivi du budget, organisation de l'itinéraire et vérification des bagages.",
+      "content_html": "<h2>Contenu</h2><p>Ce planificateur de voyage en famille vous permet de gérer facilement votre budget, de planifier votre itinéraire et de vérifier vos bagages avec une seule feuille Excel professionnelle.</p>",
+      "pro": true,
+      "created": "2026-11-06T06:52:39",
+      "file": "planificateur-voyage-famille-budget-itineraire-liste-bagages-255a2c1dbf2bb0e3.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen, keine falsche Sprache, keine unfertigen Texte, keine Gesundheitsversprechen oder Marken Dritter. Die Excel-Tabellenfunktionen sind sinnvoll und plausibel. Lediglich der Preis und die Beispielzahl 300 in den Formeln",
+      "pay_url": "https://buy.stripe.com/fZubJ207L9hxdmK4os2kx3B",
+      "payment_link_id": "plink_1UYh6TJ5iOXkWb9Vh8bu2ga9",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0254304,
-      "why": "KI-Denken: YouTube-Content-Planer & Leistungs-Tracker für Creator"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0012912,
-      "why": "KI-Pruefung: YouTube-Content-Planer & Leistungs-Tracker für Creator"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0250236,
-      "why": "KI-Denken: YouTube-Kanal-Analyse-Tracker & Content-Strategieplaner"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0010463999999999998,
-      "why": "KI-Pruefung: YouTube-Kanal-Analyse-Tracker & Content-Strategieplaner"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.024947999999999998,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0010019999999999999,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.025268399999999996,
-      "why": "KI-Denken: YouTube Analytics & Content ROI Tracker Pro"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0012047999999999998,
-      "why": "KI-Pruefung: YouTube Analytics & Content ROI Tracker Pro"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-03T07:04:24",
-      "eur": -0.0033012,
-      "why": "Audit: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Organic"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Audit: 1 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0015155999999999998,
-      "why": "Blog-Artikel: Schwarzwald (de)"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0013296,
-      "why": "Blog-Artikel: Saarland Saarschleife (en)"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0003491999999999999,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能协会活动预算 & 志愿者管理追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608778024"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7个简单步骤让你的狗狗更快乐：忙碌主人的实用指南"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608778048"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Déménagement & Rénovation: Suivi de Budget et Calendrier"
-    },
     {
       "t": "2026-11-03T06:53:14",
       "eur": 0,
@@ -13123,6 +13079,131 @@
       "t": "2026-11-06T01:03:42",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610915724"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.0258504,
+      "why": "KI-Denken: 智能考试预算与进度追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能考试预算与进度追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.0307668,
+      "why": "KI-Denken: 智能餐厅成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.004085999999999999,
+      "why": "KI-Pruefung: 智能餐厅成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能餐厅成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.025747199999999998,
+      "why": "KI-Denken: Planificateur Ultime de Voyage & Liste de Bagage - Modèle Professionnel"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur Ultime de Voyage & Liste de Bagage - Modèle Professionnel"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.026199599999999997,
+      "why": "KI-Denken: Planificateur de Voyage en Famille : Budget, Itinéraire & Liste de Bagages"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.0011124,
+      "why": "KI-Pruefung: Planificateur de Voyage en Famille : Budget, Itinéraire & Liste de Bagages"
+    },
+    {
+      "t": "2026-11-06T06:58:02",
+      "eur": -0.0038291999999999996,
+      "why": "Audit: 智能考试预算与进度追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-06T06:58:02",
+      "eur": -0.004269599999999999,
+      "why": "Audit: 智能餐厅成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-11-06T06:58:02",
+      "eur": -0.0024228,
+      "why": "Audit: Planificateur de Voyage en Famille : Budget, Itinéraire & Liste de Bagages"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.001272,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (en)"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.000972,
+      "why": "Blog-Artikel: Muenchen Marienplatz (zh)"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.0003372,
+      "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Organized Landlord: 7 Simple Steps to Effortlessly Manage 1-5 Rental Properties"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611026311"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador Inteligente de Exámenes para Estudiantes Universitarios"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611045150"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7 Estrategias Clave para Atraer Más Clientes a Tu Pequeño Restaurante o Cafetería"
+    },
+    {
+      "t": "2026-11-06T06:52:39",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611026347"
     }
   ],
   "alive": true,
@@ -15656,6 +15737,22 @@
       "topic": "Harz Brocken",
       "created": "2026-11-06T01:03:42",
       "img": true
+    },
+    {
+      "slug": "north-sea-wadden-sea-germany",
+      "title": "Discover the Wonders of the North Sea Wadden Sea in Germany",
+      "lang": "en",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-11-06T06:52:39",
+      "img": true
+    },
+    {
+      "slug": "muenchen-marienplatz-deutschland-reisetipps",
+      "title": "慕尼黑玛丽亚广场：德国历史与文化的交汇点",
+      "lang": "zh",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-11-06T06:52:39",
+      "img": true
     }
   ],
   "videos": [
@@ -16957,6 +17054,16 @@
       "hashtags": "#Harz #Brocken #Wanderlust #Naturwunder #DeutschlandErleben",
       "voice": "Der Brocken - magischer Mittelpunkt des Harzes! Mit 1.141 Metern Norddeutschlands höchster Berg, umweht von Sagen. Die historische Dampfbahn erklimmt steile Steigungen bis zum Gipfel. Wandern durch mystische Wälder, im Winter Ski-Vergnügen. Das Brockenplateau belohnt mit atemberaubenden Aussichten bis ins Flachland!",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "muenchen-marienplatz-deutschland-reisetipps",
+      "title": "慕尼黑玛丽亚广场：德国历史与文化的交汇点",
+      "lang": "zh",
+      "created": "2026-11-06T06:52:39",
+      "hashtags": "#慕尼黑 #玛利亚广场 #巴伐利亚 #德国旅行 #文化体验",
+      "voice": "欢迎来到慕尼黑的玛利亚广场！这里是城市的中心，充满了历史与活力。新市政厅的钟楼令人叹为观止，每天吸引着无数游客。您可以在这里享受购物和美食，沉浸在巴伐利亚的文化中。无论白天还是夜晚，玛利亚广场都散发着迷人的魅力，等待您的探索。",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
