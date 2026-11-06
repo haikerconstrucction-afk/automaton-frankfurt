@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 405.1148,
-  "spent_eur": 99.5554,
+  "balance_eur": 404.0768,
+  "spent_eur": 100.5935,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7667,7 +7667,10 @@
       "audit_note": "Keine erfundenen Zahlen oder Quellen, klare Funktionsbeschreibung, keine Regelverstöße. Beispielhafte Dateneinträge sind klar als solche erkennbar. Funktionalität und Berechnungen sind plausibel.",
       "pay_url": "https://buy.stripe.com/9B6dRa5s58dt0zYbQU2kx0x",
       "payment_link_id": "plink_1USVCNJ5iOXkWb9V0puzLxl9",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4610897011"
+      }
     },
     {
       "type": "ebook",
@@ -7691,7 +7694,10 @@
       "audit_note": "Zwei spezifische Prozentangaben ohne Quellenangabe (LED/Heizkosten) wirken erfunden - diese sollten entfernt oder durch allgemeinere Formulierungen ersetzt werden. Ansonsten enthält der Text nützliche, praktische Spartipps ohne gravierende Regelverstöße. Die Beispielrechnungen (z.B. 1 Euro/Tag) sind",
       "pay_url": "https://buy.stripe.com/9B6cN6cUx8dt3Ma08c2kx0y",
       "payment_link_id": "plink_1USVCNJ5iOXkWb9VXfxyKnJu",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4610915696"
+      }
     },
     {
       "type": "excel",
@@ -7715,7 +7721,10 @@
       "audit_note": "Keine erfundenen Studien oder Statistiken, keine unzulässigen Gesundheitsversprechen oder Marken Dritter. Die Beispiel-Daten sind klar als solche gekennzeichnet. Die Prozentangaben im Body Fat sind plausible Dezimalwerte (nicht als Prozente formatiert). Verbesserungspotenzial bei der Formel für Kalo",
       "pay_url": "https://buy.stripe.com/fZudRa1bPctJ5Ui7AE2kx0z",
       "payment_link_id": "plink_1USbWnJ5iOXkWb9Vyfe4XoD2",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4610915724"
+      }
     },
     {
       "type": "ebook",
@@ -12035,139 +12044,81 @@
       "pay_url": "https://buy.stripe.com/7sY14ocUx2T9beCcUY2kx3v",
       "payment_link_id": "plink_1UYTh7J5iOXkWb9VZi2XxviX",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Budget",
+      "slug": "smart-savings-for-busy-families",
+      "price_eur": 5,
+      "target": "Women managing household finances",
+      "reason": "This ebook addresses a common pain point for busy families—managing household finances—with practical, actionable steps. It offers clear value for the price and is tailored to resonate with women who want to save money without sacrificing their lifestyle.",
+      "language": "en",
+      "pitch": "Discover practical, stress-free strategies to save money and organize your household budget effortlessly, even with a busy schedule.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introduction: Why Saving Doesn’t Have to Be Hard</li><li>Chapter 1: Track Your Spending Habits</li><li>Chapter 2: Easy Meal Planning on a Budget</li><li>Chapter 3: Smart Shopping Hacks</li><li>Chapter 4: Reduce Utility Costs Without Sacrifice</li><li>Chapter 5: DIY Home Maintenance Tips</li><li>Chapter 6: Fun, Low-Cost Family Activities</li></ul>",
+      "pro": false,
+      "created": "2026-11-06T01:03:42",
+      "file": "smart-savings-for-busy-families-0d29359a82202144.pdf",
+      "size": 1755,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 6,
+      "audit_note": "Einige Prozentzahlen (z.B. '3%', '30%', '1-3%') sind nicht allgemein bekannt und wirken erfunden. Der Rest des Inhalts ist grundsätzlich in Ordnung, enthält jedoch keine besonders herausragenden oder innovativen Praxistipps.",
+      "pay_url": "https://buy.stripe.com/00w4gA5s53Xd6Ym7AE2kx3w",
+      "payment_link_id": "plink_1UYbn7J5iOXkWb9Vi204KNQV",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Entrenamiento y Nutrición para Hombres",
+      "slug": "planificador-entrenamiento-nutricion-hombres",
+      "price_eur": 9,
+      "target": "Hombres interesados en mejorar su estado físico y nutrición",
+      "reason": "Este planificador ofrece una solución integral para hombres que buscan mejorar su estado físico y nutricional. Con seguimiento detallado y análisis visual, es una herramienta esencial para alcanzar tus objetivos de manera eficiente.",
+      "language": "es",
+      "pitch": "Optimiza tu entrenamiento y nutrición con esta herramienta profesional. Sigue tu progreso y mantén tu dieta bajo control.",
+      "content_html": "<h2>Inhalt</h2><p>Este Planificador de Entrenamiento y Nutrición está diseñado para ayudarte a organizar tus rutinas de ejercicio y planificar tus comidas de manera eficiente. Con seguimiento de progreso y análisis de macronutrientes, será tu compañero perfecto para alcanzar tus metas físicas.</p>",
+      "pro": true,
+      "created": "2026-11-06T01:03:42",
+      "file": "planificador-entrenamiento-nutricion-hombres-babe23ae6651f86b.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die meisten Kriterien. Keine erfundenen Studien oder Statistiken, keine Gesundheitsversprechen oder Markenverletzungen. Die Beispielrechnungen sind klar als solche gekennzeichnet und basieren auf allgemein bekannten Fakten. Ein paar kleine Wiederholungen in den Formeln, aber kein",
+      "pay_url": "https://buy.stripe.com/7sY4gAdYBalB82qf362kx3x",
+      "payment_link_id": "plink_1UYbn8J5iOXkWb9VDyLfBB4g",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "El Pequeño Libro del Propietario: 7 Estrategias Simples para Organizar y Gestionar tus 1-5 Viviendas",
+      "slug": "pequeno-libro-propietario-organizacion-gestion-viviendas",
+      "price_eur": 5,
+      "target": "Vermieter mit 1-5 Wohnungen, die ihre Organisation und Verwaltung optimieren möchten",
+      "reason": "Este producto está diseñado para satisfacer las necesidades específicas de propietarios con pocas viviendas, ofreciendo estrategias prácticas y herramientas para simplificar la gestión y mejorar la eficiencia. Es relevante para el mercado español y latinoamericano y proporciona un valor claro por su precio.",
+      "language": "es",
+      "pitch": "Organiza y gestiona tus propiedades de manera eficiente sin estrés. Este libro te guiará con estrategias prácticas específicas para propietarios con pocas viviendas.",
+      "content_html": "<h2>Inhalt</h2>\n<ul>\n<li>Introducción: Por qué este libro es para ti</li>\n<li>Capítulo 1: Organiza tus documentos de manera digital</li>\n<li>Capítulo 2: Simplifica la comunicación con tus inquilinos</li>\n<li>Capítulo 3: Mantenimiento preventivo para evitar sorpresas</li>\n<li>Capítulo 4: Cómo establecer y mantener un presupuesto claro</li>\n<li>Capítulo 5: Herramientas tecnológicas para simplificar la gestión</li>\n<li>Capítulo 6: Estrategias para aumentar el valor de tus propiedades</li>\n<li>Capítulo 7: Mantén el equilibrio entre tu vida personal y profesional</li>\n</ul>\n<h2>Introducción: Por qué este libro es para ti</h2>\n\nEstás en el lugar correcto si tienes entre 1 y 5 propiedades y buscas maneras de simplificar su gestión. Este libro está diseñado para ayudarte a organizar y gestionar tus propiedades de manera efectiva, reduciendo el estrés y aumentando tu eficiencia.\n\n<h2>Capítulo 1: Organiza tus documentos de manera digital</h2>\n\nEn este capítulo aprenderás cómo digitalizar tus documentos de manera segura y eficiente. Desde contratos de alquiler hasta facturas de servicios, te guiaré paso a paso para que puedas acceder a toda la información necesaria en cualquier momento y desde cualquier lugar.\n\n<h2>Capítulo 2: Simplifica la comunicación con tus inquilinos</h2>\n\nLa comunicación efectiva es clave para mantener una relación saludable con tus inquilinos. Aquí descubrirás herramientas y técnicas para comunicarte de manera clara y oportuna, evitando malentendidos y problemas innecesarios.\n\n<h2>Capítulo 3: Mantenimiento preventivo para evitar sorpresas</h2>\n\nEl mantenimiento preventivo es esencial para evitar costosas reparaciones en el futuro. Este capítulo te enseñará cómo establecer un plan de mantenimiento que mantenga tus propiedades en óptimas condiciones.\n\n<h2>Capítulo 4: Cómo establecer y mantener un presupuesto claro</h2>\n\nLa gestión financiera es una parte fundamental de ser propietario. Aquí aprenderás a establecer un presupuesto claro y realista, además de técnicas para mantener el control de tus finanzas.\n\n<h2>Capítulo 5: Herramientas tecnológicas para simplificar la gestión</h2>\n\nExisten muchas herramientas tecnológicas que pueden facilitarte la vida. Este capítulo te presentará las mejores aplicaciones y software para la gestión de propiedades, haciendo tu trabajo más eficiente y menos estresante.\n\n<h2>Capítulo 6: Estrategias para aumentar el valor de tus propiedades</h2>\n\nAumentar el valor de tus propiedades no solo mejora tu inversión, sino que también puede atraer inquilinos de mayor calidad. Descubre estrategias prácticas para mejorar tus propiedades sin gastar una fortuna.\n\n<h2>Capítulo 7: Mantén el equilibrio entre tu vida personal y profesional</h2>\n\nSer propietario no tiene que consumir todo tu tiempo. Este capítulo te enseñará técnicas para mantener un equilibrio saludable entre tu vida personal y profesional, evitando el agotamiento y disfrutando de tus propiedades.\n",
+      "pro": false,
+      "created": "2026-11-06T01:03:42",
+      "file": "pequeno-libro-propietario-organizacion-gestion-viviendas-45c72430c3542d5a.pdf",
+      "size": 1763,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, gut strukturiert und ohne erfundene Studien, Statistiken oder Prozentzahlen. Die empfohlenen Strategien sind praxisnah und allgemein verständlich. Die Sprache ist klar und konsistent spanisch, ohne Platzhalter oder unfertige Texte. Es gibt keine Rechts-, Steuer- oder",
+      "pay_url": "https://buy.stripe.com/eVq00k3jXgJZaay4os2kx3y",
+      "payment_link_id": "plink_1UYbn9J5iOXkWb9V34tjWZSZ",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Budget et de Suivi des Événements pour Associations"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.0324516,
-      "why": "KI-Denken: Guide Pratique pour Des Chiens Heureux : 7 Stratégies Simples pour un Quotidien Harmonieux"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.0040596,
-      "why": "KI-Pruefung: Guide Pratique pour Des Chiens Heureux : 7 Stratégies Simples pour un Quotidien Harmonieux"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guide Pratique pour Des Chiens Heureux : 7 Stratégies Simples pour un Quotidien Harmonieux"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.0247584,
-      "why": "KI-Denken: Ultimate Moving & Renovation Budget Tracker for Families"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Tracker for Families"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.024686399999999997,
-      "why": "KI-Denken: Ultimate Moving & Renovation Budget Planner for Families"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Moving & Renovation Budget Planner for Families"
-    },
-    {
-      "t": "2026-11-02T23:42:29",
-      "eur": -0.0017676,
-      "why": "Audit: Planificateur de Budget et de Suivi des Événements pour Associations"
-    },
-    {
-      "t": "2026-11-02T23:42:29",
-      "eur": -0.0037655999999999996,
-      "why": "Audit: Guide Pratique pour Des Chiens Heureux : 7 Stratégies Simples pour un Quotidien "
-    },
-    {
-      "t": "2026-11-02T23:42:29",
-      "eur": -0.0031295999999999997,
-      "why": "Audit: Ultimate Moving & Renovation Budget Planner for Families"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.0010224,
-      "why": "Blog-Artikel: Eifel Maare (zh)"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.0016403999999999998,
-      "why": "Blog-Artikel: Rheingau Weinberge (es)"
-    },
-    {
-      "t": "2026-11-02T23:34:54",
-      "eur": -0.0004116,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.030956399999999995,
-      "why": "KI-Denken: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Organic Vegetables Year-Round"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0035339999999999994,
-      "why": "KI-Pruefung: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Organic Vegetables Year-Round"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Organic Vegetables Year-Round"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.025024799999999996,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planer 2026 - Pro Edition"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.0010404,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planer 2026 - Pro Edition"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.024825599999999996,
-      "why": "KI-Denken: YouTube Performance Dashboard & Content Planner"
-    },
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Performance Dashboard & Content Planner"
-    },
     {
       "t": "2026-11-03T06:53:14",
       "eur": 0,
@@ -13042,6 +12993,136 @@
       "t": "2026-11-05T16:30:16",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610610368"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.0304416,
+      "why": "KI-Denken: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Budget"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.0034691999999999995,
+      "why": "KI-Pruefung: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Budget"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Budget"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.0260088,
+      "why": "KI-Denken: Planificador de Entrenamiento y Nutrición para Hombres"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.0010932,
+      "why": "KI-Pruefung: Planificador de Entrenamiento y Nutrición para Hombres"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.03133559999999999,
+      "why": "KI-Denken: El Pequeño Libro del Vermieter: Organización Sin Estrés para Propietarios de 1 a 5 Viviendas"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.00405,
+      "why": "KI-Pruefung: El Pequeño Libro del Vermieter: Organización Sin Estrés para Propietarios de 1 a 5 Viviendas"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1422 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.03314759999999999,
+      "why": "KI-Denken: El Pequeño Libro del Propietario: 7 Estrategias Simples para Organizar y Gestionar tus 1-5 Viviendas"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.003969599999999999,
+      "why": "KI-Pruefung: El Pequeño Libro del Propietario: 7 Estrategias Simples para Organizar y Gestionar tus 1-5 Viviendas"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: El Pequeño Libro del Propietario: 7 Estrategias Simples para Organizar y Gestionar tus 1-5 Viviendas"
+    },
+    {
+      "t": "2026-11-06T01:17:32",
+      "eur": -0.0033095999999999998,
+      "why": "Audit: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Budget"
+    },
+    {
+      "t": "2026-11-06T01:17:32",
+      "eur": -0.0043596,
+      "why": "Audit: Planificador de Entrenamiento y Nutrición para Hombres"
+    },
+    {
+      "t": "2026-11-06T01:17:32",
+      "eur": -0.0037392,
+      "why": "Audit: El Pequeño Libro del Propietario: 7 Estrategias Simples para Organizar y Gestion"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.0012071999999999999,
+      "why": "Blog-Artikel: Dresden Frauenkirche (fr)"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.0015851999999999997,
+      "why": "Blog-Artikel: Harz Brocken (de)"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.00037679999999999994,
+      "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Hochzeits-Budget-Tracker & Ausgabenplaner"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610897011"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den Alltag"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610915696"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Workout Progress Tracker for Female Fitness Coaches"
+    },
+    {
+      "t": "2026-11-06T01:03:42",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610915724"
     }
   ],
   "alive": true,
@@ -15559,6 +15640,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-11-05T16:30:16",
       "img": true
+    },
+    {
+      "slug": "dresde-frauenkirche-joyau-baroque",
+      "title": "Dresde et sa Frauenkirche : joyau baroque à ne pas manquer",
+      "lang": "fr",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-11-06T01:03:42",
+      "img": true
+    },
+    {
+      "slug": "harz-brocken-deutschland",
+      "title": "Der Harz Brocken: Ein mystischer Berg im Herzen Deutschlands",
+      "lang": "de",
+      "topic": "Harz Brocken",
+      "created": "2026-11-06T01:03:42",
+      "img": true
     }
   ],
   "videos": [
@@ -16850,6 +16947,16 @@
       "hashtags": "#BrandenburgerTor #Berlín #Alemania #Historia #Viajes",
       "voice": "El majestuoso Brandenburger Tor es más que un monumento. Es un ícono eterno de la historia alemana y un símbolo de libertad que inspira al mundo. Su arquitectura neoclásica te dejará sin palabras mientras caminas por su imponente estructura. ¡Descubre este lugar emblemático en el corazón de Berlín y vive la emoción de estar frente a un testigo de la historia mundial!",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "harz-brocken-deutschland",
+      "title": "Der Harz Brocken: Ein mystischer Berg im Herzen Deutschlands",
+      "lang": "de",
+      "created": "2026-11-06T01:03:42",
+      "hashtags": "#Harz #Brocken #Wanderlust #Naturwunder #DeutschlandErleben",
+      "voice": "Der Brocken - magischer Mittelpunkt des Harzes! Mit 1.141 Metern Norddeutschlands höchster Berg, umweht von Sagen. Die historische Dampfbahn erklimmt steile Steigungen bis zum Gipfel. Wandern durch mystische Wälder, im Winter Ski-Vergnügen. Das Brockenplateau belohnt mit atemberaubenden Aussichten bis ins Flachland!",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
