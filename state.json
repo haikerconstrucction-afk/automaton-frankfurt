@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 403.2179,
-  "spent_eur": 101.4524,
+  "balance_eur": 402.7875,
+  "spent_eur": 101.8828,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -12197,99 +12197,81 @@
       "pay_url": "https://buy.stripe.com/fZubJ207L9hxdmK4os2kx3B",
       "payment_link_id": "plink_1UYh6TJ5iOXkWb9Vh8bu2ga9",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Boostez Vos Ventes sur Etsy : 7 Étapes Simples pour Augmenter Votre Visibilité et Votre Chiffre d'Affaires",
+      "slug": "boostez-vos-ventes-sur-etsy",
+      "price_eur": 5,
+      "target": "Etsy-Verkäufer, insbesondere jene, die ihre Verkäufe steigern und ihre Sichtbarkeit erhöhen möchten",
+      "reason": "Ce produit répond aux besoins des vendeurs Etsy qui cherchent à augmenter leurs ventes et leur visibilité sur la plateforme. Il offre des conseils pratiques et des étapes simples pour améliorer leur stratégie de vente.",
+      "language": "fr",
+      "pitch": "Découvrez des stratégies éprouvées pour augmenter vos ventes sur Etsy. Ce guide pratique vous aidera à attirer plus de clients et à maximiser vos profits.",
+      "content_html": "<h2>Inhalt</h2><ol><li>Introduction : Pourquoi Etsy ?</li><li>Optimiser vos fiches produits</li><li>Améliorer vos visuels et photos</li><li>Utiliser les mots-clés efficacement</li><li>Gérer les avis clients</li><li>Promouvoir votre boutique</li><li>Analyser et ajuster votre stratégie</li></ol>",
+      "pro": false,
+      "created": "2026-11-06T15:57:42",
+      "file": "boostez-vos-ventes-sur-etsy-5e012d0f62cdd72b.pdf",
+      "size": 1950,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar, ehrlich und frei von erfundenen Studien, Statistiken oder Prozentzahlen. Es gibt keine Regelverstöße, insbesondere keine finanzielle, rechtliche oder medizinische Beratung. Die Sprache ist konsistent Französisch, und es gibt keine Platzhalter oder unfertigen Texte. Der Text biet",
+      "pay_url": "https://buy.stripe.com/6oU5kE8Eh9hxdmK4os2kx3C",
+      "payment_link_id": "plink_1UYpeCJ5iOXkWb9Vpt7FpRli",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Volunteer Event Budget Planner & Donation Tracker",
+      "slug": "volunteer-event-budget-planner-donation-tracker",
+      "price_eur": 9,
+      "target": "Clubs, associations & volunteers organizing events",
+      "reason": "Clubs & volunteers need a simple, professional tool to track event budgets & donations without complex software. This Excel solution provides real-time insights & ease of use.",
+      "language": "en",
+      "pitch": "Effortlessly plan your events & track donations in real-time with this professional Excel tool for clubs & associations.",
+      "content_html": "<h2>Contents</h2><p>Master plan your events with precise budget tracking, donation management & expense control. Perfect for volunteers & non-profits.</p>",
+      "pro": true,
+      "created": "2026-11-06T15:57:42",
+      "file": "volunteer-event-budget-planner-donation-tracker-3e61b58356c24909.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt erfüllt alle Regeln: Keine erfundenen Studien, Statistiken oder Prozentzahlen, keine Rechts-, Steuer-, Finanz- oder Medizinberatung, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Formeln und Tabellen sind plausibel und sinnvoll. Inhalte sind klar, vollständig und korrekt.",
+      "pay_url": "https://buy.stripe.com/00w9AUcUxfFVdmKdZ22kx3D",
+      "payment_link_id": "plink_1UYpeDJ5iOXkWb9VnpjPqFu2",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Busy Dog Parent's Guide: 7 Simple Steps to a Calmer Canine Companion",
+      "slug": "busy-dog-parent-guide",
+      "price_eur": 7,
+      "target": "Busy dog owners who want to enjoy a stress-free relationship with their pets",
+      "reason": "This ebook addresses a common pain point for busy dog owners: finding time to care for their pets effectively. By offering practical, easy-to-implement tips, it provides real value and helps strengthen the bond between owners and their dogs.",
+      "language": "en",
+      "pitch": "Transform your hectic schedule into quality time with your furry friend. Learn easy, actionable steps to create a balanced and joyful life for both you and your dog.",
+      "content_html": "<h2>Contents</h2><ul><li>Introduction: Why Every Dog Parent Needs This Guide</li><li>Chapter 1: Understanding Your Dog's Needs</li><li>Chapter 2: Quick Walks That Build Strong Bonds</li><li>Chapter 3: Daily Exercises for Happy Dogs</li><li>Chapter 4: Playtime Made Simple</li><li>Chapter 5: Stress-Free Feeding Routines</li><li>Chapter 6: Easy Grooming Tips</li><li>Chapter 7: Creating a Calm Home Environment</li></ul>",
+      "pro": false,
+      "created": "2026-11-06T15:57:42",
+      "file": "busy-dog-parent-guide-db04179ef5af229e.pdf",
+      "size": 1732,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist frei von erfunden Studien, Statistiken, Prozentzahlen, Quellen oder Zitaten. Es werden keine Gesundheitsversprechen gemacht, keine Finanz-/Rechts-/Steuerberatung angeboten und keine Marken/Figuren Dritter verwendet. Der Text ist klar, sachlich und ohne Platzhalter oder Wiederholungen.",
+      "pay_url": "https://buy.stripe.com/5kQbJ25s53Xd5Ui3ko2kx3E",
+      "payment_link_id": "plink_1UYpeDJ5iOXkWb9VeddTCgn9",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-03T06:53:14",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4608757471"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.024779999999999996,
-      "why": "KI-Denken: YouTube Content & Einnahmen-Tracker für Creator"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Content & Einnahmen-Tracker für Creator"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.024835199999999998,
-      "why": "KI-Denken: YouTube Content Budget & ROI Tracker"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Content Budget & ROI Tracker"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): 'choices'"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): 'choices'"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.03195959999999999,
-      "why": "KI-Denken: Effektive Unterrichtsmethoden für Lehrer und Nachhilfelehrer: 7 bewährte Strategien für mehr Erfolg im Klassenzimmer"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.0039743999999999995,
-      "why": "KI-Pruefung: Effektive Unterrichtsmethoden für Lehrer und Nachhilfelehrer: 7 bewährte Strategien für mehr Erfolg im Klassenzimmer"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.16,
-      "why": "KI-Bilder: Effektive Unterrichtsmethoden für Lehrer und Nachhilfelehrer: 7 bewährte Strategien für mehr Erfolg im Klassenzimmer"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.024834,
-      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
-    },
-    {
-      "t": "2026-11-03T16:31:09",
-      "eur": -0.0036539999999999997,
-      "why": "Audit: YouTube Content Budget & ROI Tracker"
-    },
-    {
-      "t": "2026-11-03T16:31:09",
-      "eur": -0.0037463999999999996,
-      "why": "Audit: Effektive Unterrichtsmethoden für Lehrer und Nachhilfelehrer: 7 bewährte Strateg"
-    },
-    {
-      "t": "2026-11-03T16:31:09",
-      "eur": -0.0020556,
-      "why": "Audit: Senior Care Expense Tracker & Budget Planner for Families and Organizations"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-11-03T16:17:15",
       "eur": 0,
@@ -13204,6 +13186,91 @@
       "t": "2026-11-06T06:52:39",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611026347"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.03292199999999999,
+      "why": "KI-Denken: Boostez Vos Ventes sur Etsy : 7 Étapes Simples pour Augmenter Votre Visibilité et Votre Chiffre d'Affaires"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.0038903999999999996,
+      "why": "KI-Pruefung: Boostez Vos Ventes sur Etsy : 7 Étapes Simples pour Augmenter Votre Visibilité et Votre Chiffre d'Affaires"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: Boostez Vos Ventes sur Etsy : 7 Étapes Simples pour Augmenter Votre Visibilité et Votre Chiffre d'Affaires"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.026158799999999996,
+      "why": "KI-Denken: Volunteer Event Budget Planner & Donation Tracker"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.0010271999999999998,
+      "why": "KI-Pruefung: Volunteer Event Budget Planner & Donation Tracker"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.0309888,
+      "why": "KI-Denken: The Busy Dog Parent's Guide: 7 Simple Steps to a Calmer Canine Companion"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.0034895999999999994,
+      "why": "KI-Pruefung: The Busy Dog Parent's Guide: 7 Simple Steps to a Calmer Canine Companion"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.16,
+      "why": "KI-Bilder: The Busy Dog Parent's Guide: 7 Simple Steps to a Calmer Canine Companion"
+    },
+    {
+      "t": "2026-11-06T16:05:30",
+      "eur": -0.0036491999999999996,
+      "why": "Audit: Boostez Vos Ventes sur Etsy : 7 Étapes Simples pour Augmenter Votre Visibilité e"
+    },
+    {
+      "t": "2026-11-06T16:05:30",
+      "eur": -0.0016355999999999999,
+      "why": "Audit: Volunteer Event Budget Planner & Donation Tracker"
+    },
+    {
+      "t": "2026-11-06T16:05:30",
+      "eur": -0.0032867999999999994,
+      "why": "Audit: The Busy Dog Parent's Guide: 7 Simple Steps to a Calmer Canine Companion"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.0014759999999999999,
+      "why": "Blog-Artikel: Eifel Maare (es)"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.0015179999999999998,
+      "why": "Blog-Artikel: Rheingau Weinberge (fr)"
+    },
+    {
+      "t": "2026-11-06T15:57:42",
+      "eur": -0.00043319999999999996,
+      "why": "Video-Skript: Rheingau Weinberge"
     }
   ],
   "alive": true,
@@ -15752,6 +15819,22 @@
       "lang": "zh",
       "topic": "Muenchen Marienplatz",
       "created": "2026-11-06T06:52:39",
+      "img": true
+    },
+    {
+      "slug": "las-eifel-maare-tesoro-natural-alemania",
+      "title": "Descubriendo las Eifel Maare: Un tesoro natural en Alemania",
+      "lang": "es",
+      "topic": "Eifel Maare",
+      "created": "2026-11-06T15:57:42",
+      "img": true
+    },
+    {
+      "slug": "vignobles-rheingau-tresor-viticole",
+      "title": "Les Vignobles du Rheingau : Un Trésor Viticole Allemand",
+      "lang": "fr",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-11-06T15:57:42",
       "img": true
     }
   ],
