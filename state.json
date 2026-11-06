@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 402.7875,
-  "spent_eur": 101.8828,
+  "balance_eur": 402.5244,
+  "spent_eur": 102.1459,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -12269,89 +12269,81 @@
       "pay_url": "https://buy.stripe.com/5kQbJ25s53Xd5Ui3ko2kx3E",
       "payment_link_id": "plink_1UYpeDJ5iOXkWb9VeddTCgn9",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Umzugsbudget-Tracker & Renovierungskosten-Rechner",
+      "slug": "umzugsbudget-renovierungskosten-rechner",
+      "price_eur": 9,
+      "target": "Selbstständige, die einen Umzug planen oder eine Renovierung durchführen",
+      "reason": "Diese Vorlage bietet eine klare Struktur zur Erfassung und Analyse von Umzugs- und Renovierungskosten, die für Selbstständige essentiell ist.",
+      "language": "de",
+      "pitch": "Planen Sie Ihren Umzug und Ihre Renovierungskosten effizient mit dieser professionellen Excel-Vorlage.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Ihnen, alle Kosten im Zusammenhang mit Ihrem Umzug und Ihrer Renovierung zu verfolgen und zu planen. Sie bietet klare Übersichten und automatisierte Berechnungen, um Ihren finanziellen Überblick zu behalten.</p>",
+      "pro": true,
+      "created": "2026-11-06T21:31:49",
+      "file": "umzugsbudget-renovierungskosten-rechner-bfbb2c809a571e2f.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist legal, ehrlich und frei von Spam oder Gesundheitsversprechen. Es gibt keine erfundenen Studien, Statistiken oder Zitate. Die Excel-Vorlage ist sinnvoll strukturiert und enthält keine sachlichen Fehler oder Regelverstöße. Die Kennzahlen sind plausibel und basieren auf den Beispieldaten",
+      "pay_url": "https://buy.stripe.com/aFa4gA3jXbpFaayaMQ2kx3F",
+      "payment_link_id": "plink_1UYurdJ5iOXkWb9VojEQZGQz",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Der kleine Gartenretter: 7 einfache Schritte zur erfolgreichen Selbstversorgung",
+      "slug": "der-kleine-gartenretter-selbstversorgung",
+      "price_eur": 5,
+      "target": "Gärtner und Selbstversorger",
+      "reason": "Dieses E-Book bietet praktische, leicht verständliche Schritte zur Selbstversorgung, die auch für Anfänger geeignet sind. Es ist speziell auf die Bedürfnisse von Gärtnern und Selbstversorgern zugeschnitten und bietet konkrete Tipps für eine erfolgreiche Ernte.",
+      "language": "de",
+      "pitch": "Mit einfachen Schritten zum eigenen Gemüsegarten – auch für Anfänger geeignet.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Schritt 1: Die richtige Planung</li><li>Schritt 2: Boden vorbereiten</li><li>Schritt 3: Die besten Gemüsesorten für Anfänger</li><li>Schritt 4: Aussaat und Pflege</li><li>Schritt 5: Schädlinge natürlich bekämpfen</li><li>Schritt 6: Ernte und Lagerung</li><li>Schritt 7: Langfristige Gartenpflege</li></ul>",
+      "pro": false,
+      "created": "2026-11-06T21:31:49",
+      "file": "der-kleine-gartenretter-selbstversorgung-f6c55dbb2e1cb44d.pdf",
+      "size": 1676,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist klar, präzise und frei von erfundenen Studien, Statistiken oder Prozentzahlen. Es bietet allgemein bekannte Praxis-Tipps zur Selbstversorgung im Garten, ohne gegen die Regeln zu verstoßen. Lediglich der Text ist teilweise unvollständig (Aussaat und Pflege), was jedoch nicht gegen die ",
+      "pay_url": "https://buy.stripe.com/eVqfZig6J8dtaay4os2kx3G",
+      "payment_link_id": "plink_1UYureJ5iOXkWb9VvrLuwZQ7",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube Ad Revenue & Expense Tracker for Content Creators",
+      "slug": "youtube-ad-revenue-expense-tracker",
+      "price_eur": 9,
+      "target": "Content Creators and YouTube creators, especially women managing multiple channels",
+      "reason": "Content creators need a simple yet powerful tool to manage their YouTube ad revenue and expenses effectively.",
+      "language": "en",
+      "pitch": "Track your YouTube ad revenue and expenses effortlessly with this professional Excel template designed for content creators.",
+      "content_html": "<h2>Content</h2>Manage your YouTube ad revenue, expenses, and net profit with ease. Includes detailed tracking sheets, KPIs, and a dashboard for quick insights.",
+      "pro": true,
+      "created": "2026-11-06T21:31:49",
+      "file": "youtube-ad-revenue-expense-tracker-6374b213e8293f98.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils korrekt und erfüllt die Regeln. Es wurden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Die Beispielrechnungen sind klar als solche markiert und die Excel-Formeln sind plausibel. Die Sprache ist konsistent und es gibt keine Platzhalter oder unfertige",
+      "pay_url": "https://buy.stripe.com/8x2fZi7Ad8dtaay3ko2kx3H",
+      "payment_link_id": "plink_1UYureJ5iOXkWb9VL1f9phk7",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.0010823999999999999,
-      "why": "Blog-Artikel: Koeln Dom (zh)"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.0012347999999999999,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (es)"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.0004247999999999999,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Petit Jardin Autonome : 7 étapes simples pour cultiver vos légumes toute l'année"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609082202"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: YouTube Content ROI Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609082234"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Teacher's Time-Saver Toolkit: Simple Strategies for Busy Educators"
-    },
-    {
-      "t": "2026-11-03T16:17:15",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609061475"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.03182159999999999,
-      "why": "KI-Denken: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.0034476,
-      "why": "KI-Pruefung: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.024994799999999998,
-      "why": "KI-Denken: Planificador de Viajes al Bosque Negro: Presupuesto, Ruta y Actividades"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Viajes al Bosque Negro: Presupuesto, Ruta y Actividades"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': 'Basic but functional for trip planning. Lacks advanced automation or visual elements.'}"
-    },
     {
       "t": "2026-11-03T23:27:53",
       "eur": -0.025087199999999997,
@@ -13271,6 +13263,86 @@
       "t": "2026-11-06T15:57:42",
       "eur": -0.00043319999999999996,
       "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.026306399999999997,
+      "why": "KI-Denken: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.0010547999999999998,
+      "why": "KI-Pruefung: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.0325836,
+      "why": "KI-Denken: Der kleine Gartenretter: 7 einfache Schritte zur erfolgreichen Selbstversorgung"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.004298399999999999,
+      "why": "KI-Pruefung: Der kleine Gartenretter: 7 einfache Schritte zur erfolgreichen Selbstversorgung"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.16,
+      "why": "KI-Bilder: Der kleine Gartenretter: 7 einfache Schritte zur erfolgreichen Selbstversorgung"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.026012399999999998,
+      "why": "KI-Denken: YouTube Ad Revenue & Expense Tracker for Content Creators"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.001,
+      "why": "KI-Pruefung: YouTube Ad Revenue & Expense Tracker for Content Creators"
+    },
+    {
+      "t": "2026-11-06T21:39:34",
+      "eur": -0.0030096,
+      "why": "Audit: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
+    },
+    {
+      "t": "2026-11-06T21:39:34",
+      "eur": -0.003908399999999999,
+      "why": "Audit: Der kleine Gartenretter: 7 einfache Schritte zur erfolgreichen Selbstversorgung"
+    },
+    {
+      "t": "2026-11-06T21:39:34",
+      "eur": -0.0022692,
+      "why": "Audit: YouTube Ad Revenue & Expense Tracker for Content Creators"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.0010463999999999998,
+      "why": "Blog-Artikel: Schwarzwald (en)"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.0012059999999999998,
+      "why": "Blog-Artikel: Saarland Saarschleife (zh)"
+    },
+    {
+      "t": "2026-11-06T21:31:49",
+      "eur": -0.00035639999999999994,
+      "why": "Video-Skript: Saarland Saarschleife"
     }
   ],
   "alive": true,
@@ -15836,6 +15908,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-11-06T15:57:42",
       "img": true
+    },
+    {
+      "slug": "discover-the-enchanting-black-forest-a-travel-guide",
+      "title": "Discover the Enchanting Black Forest: A Travel Guide",
+      "lang": "en",
+      "topic": "Schwarzwald",
+      "created": "2026-11-06T21:31:49",
+      "img": true
+    },
+    {
+      "slug": "saarland-saarschleife-reise-tipps",
+      "title": "探索德国萨尔州的自然奇观——萨尔河环流",
+      "lang": "zh",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-11-06T21:31:49",
+      "img": true
     }
   ],
   "videos": [
@@ -17147,6 +17235,16 @@
       "hashtags": "#慕尼黑 #玛利亚广场 #巴伐利亚 #德国旅行 #文化体验",
       "voice": "欢迎来到慕尼黑的玛利亚广场！这里是城市的中心，充满了历史与活力。新市政厅的钟楼令人叹为观止，每天吸引着无数游客。您可以在这里享受购物和美食，沉浸在巴伐利亚的文化中。无论白天还是夜晚，玛利亚广场都散发着迷人的魅力，等待您的探索。",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "saarland-saarschleife-reise-tipps",
+      "title": "探索德国萨尔州的自然奇观——萨尔河环流",
+      "lang": "zh",
+      "created": "2026-11-06T21:31:49",
+      "hashtags": "#德国旅行 #萨尔兰 #自然奇观 #徒步天堂 #萨尔河弯",
+      "voice": "欢迎来到德国的萨尔兰萨尔河弯！这里是德国最壮观的自然奇观之一。蜿蜒的萨尔河环绕着茂密的森林，仿佛大自然在这里画出了一幅绝美画卷。这里是徒步爱好者的天堂，沿着小径漫步，感受宁静与自然的交融。登高俯瞰，萨尔河弯的全景令人心旷神怡。这里不仅是自然的杰作，更是历史与文化的见证。快来体验这片迷人土地的魅力吧！",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
