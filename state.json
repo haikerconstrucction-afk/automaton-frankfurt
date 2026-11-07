@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 400.7901,
-  "spent_eur": 103.8802,
+  "balance_eur": 400.3267,
+  "spent_eur": 104.3436,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -12499,124 +12499,81 @@
       "pay_url": "https://buy.stripe.com/00w6oI4o1ctJ5Ui8EI2kx3L",
       "payment_link_id": "plink_1UZ5ShJ5iOXkWb9VnqblRX7n",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Essentiel des Alpes Bavaroises : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés",
+      "slug": "guide-essentiel-alpes-bavaroises",
+      "price_eur": 5,
+      "target": "Voyageurs autonomes et familles cherchant à explorer les Alpes bavaroises avec des conseils pratiques et des itinéraires détaillés.",
+      "reason": "Les Alpes bavaroises sont une destination prisée, mais les voyageurs manquent souvent de conseils pratiques pour les explorer pleinement. Ce guide comble cette lacune en offrant des itinéraires détaillés et des conseils utiles.",
+      "language": "fr",
+      "pitch": "Découvrez les meilleures routes, les villages pittoresques et les activités incontournables des Alpes bavaroises avec ce guide pratique et détaillé.",
+      "content_html": "<h2>Inhalt</h2>\n<ul>\n<li>Introduction : Pourquoi explorer les Alpes Bavaroises ?</li>\n<li>Itinéraire 1 : Le sentier panoramique de Garmisch-Partenkirchen</li>\n<li>Itinéraire 2 : La route romantique de Füssen à Neuschwanstein</li>\n<li>Itinéraire 3 : Les lacs cachés de la région de Berchtesgaden</li>\n<li>Itinéraire 4 : Les villages traditionnels du Tyrol bavarois</li>\n<li>Itinéraire 5 : Les montagnes majestueuses autour de Mittenwald</li>\n<li>Itinéraire 6 : La découverte de la culture alpine</li>\n<li>Conseils pratiques : Hébergement, transports et activités pour toute la famille</li>\n</ul>",
+      "pro": false,
+      "created": "2026-11-07T16:28:53",
+      "file": "guide-essentiel-alpes-bavaroises-51de0d5d1e8f8c2b.pdf",
+      "size": 1770,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist gut strukturiert, informativ und hält sich an die Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder Quellen. Der Text ist vollständig und enthält keine Platzhalter oder wiederholte Inhalte. Die Sprache ist korrekt und einheitlich.",
+      "pay_url": "https://buy.stripe.com/9B6dRa6w91P50zY9IM2kx3M",
+      "payment_link_id": "plink_1UZCgsJ5iOXkWb9V1NbpGnkx",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer",
+      "slug": "north-baltic-sea-family-travel-budget-planner",
+      "price_eur": 9,
+      "target": "Families planning trips to Germany's North and Baltic Sea coasts",
+      "reason": "This comprehensive planner helps families organize their coastal vacation while staying on budget, with built-in recommendations for child-friendly activities along Germany's North and Baltic Sea coasts.",
+      "language": "en",
+      "pitch": "Plan your perfect coastal family vacation with this all-in-one budget tracker and itinerary organizer. Manage expenses, plan routes, and discover hidden gems along Germany's northern shores.",
+      "content_html": "<h2>Content</h2><p>Complete solution for planning your family trip to Germany's beautiful northern coasts. Includes budget tracking, expense categorization, route planning, and activity organizer.</p>",
+      "pro": true,
+      "created": "2026-11-07T16:28:53",
+      "file": "north-baltic-sea-family-travel-budget-planner-41c49286e872dc7b.xlsx",
+      "size": 23,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt hält sich an die Regeln: Keine erfundenen Zahlen, Statistiken oder Quellen, keine Rechts-, Steuer- oder Finanzberatung, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Die Beispielrechnungen sind klar als solche gekennzeichnet und die Formeln/Tabellen sind sinnvoll. Kleinere K",
+      "pay_url": "https://buy.stripe.com/14AfZig6JdxNciGbQU2kx3N",
+      "payment_link_id": "plink_1UZCgtJ5iOXkWb9Vle8NU8uz",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Discover Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide",
+      "slug": "discover-rhine-frankfurt-heidelberg-family-travel-guide",
+      "price_eur": 5,
+      "target": "Families planning a trip to the Rhine, Frankfurt, and Heidelberg regions",
+      "reason": "This guide fills a gap in the market by offering a comprehensive, family-focused travel resource for the Rhine, Frankfurt, and Heidelberg regions.",
+      "language": "en",
+      "pitch": "Explore the best family-friendly activities, hidden gems, and practical tips for a memorable trip to the Rhine, Frankfurt, and Heidelberg.",
+      "content_html": "<h2>Inhalt</h2>This guide provides a detailed itinerary, must-see attractions, and insider tips to make your family trip unforgettable.<h3>Content</h3>Introduction<br>Chapter 1: Planning Your Trip<br>Chapter 2: Top Family-Friendly Attractions<br>Chapter 3: Hidden Gems<br>Chapter 4: Practical Travel Tips<br>Chapter 5: Dining with Kids<br>Chapter 6: Accommodation Recommendations",
+      "pro": false,
+      "created": "2026-11-07T16:28:53",
+      "file": "discover-rhine-frankfurt-heidelberg-family-travel-guide-afdb7f5d4f3a6f3d.pdf",
+      "size": 2093,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt hält sich an die Regeln, enthält keine erfundenen Zahlen, Statistiken oder Gesundheitstipps. Die Sprache ist korrekt und der Text ist vollständig. Es gibt keine Markenverletzungen oder unzulässige Beratungen. Die Tipps basieren auf allgemein bekanntem Wissen und eigenen Praxistipps.",
+      "pay_url": "https://buy.stripe.com/00wdRa4o179p1E24os2kx3O",
+      "payment_link_id": "plink_1UZCgtJ5iOXkWb9VfmDnXFUV",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-04T16:42:19",
-      "eur": -0.0021203999999999997,
-      "why": "Audit: NRW City Trip Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-11-04T16:42:19",
-      "eur": -0.004108799999999999,
-      "why": "Audit: 智能巴伐利亚与阿尔卑斯山旅行指南：7步探索隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-11-04T16:42:19",
-      "eur": -0.0032556,
-      "why": "Audit: Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord : Budget, Itinéra"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": -0.0014579999999999999,
-      "why": "Blog-Artikel: Saechsische Schweiz (es)"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": -0.0013164,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (fr)"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": -0.000402,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Saarland & Mosel Magic: 7 Hidden Gems for Female Explorers"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609854240"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Viajes por NRW: Presupuesto y Ruta para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609854276"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guía Esencial para Explorar Baviera y los Alpes: 7 Rutas Imprescindibles para Viajeros"
-    },
-    {
-      "t": "2026-11-04T16:21:54",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4609833541"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.031155600000000002,
-      "why": "KI-Denken: Le Guide Pratique du Voyageur Autonome : Découvrez le Rhin, Francfort et Heidelberg"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.0038891999999999998,
-      "why": "KI-Pruefung: Le Guide Pratique du Voyageur Autonome : Découvrez le Rhin, Francfort et Heidelberg"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Pratique du Voyageur Autonome : Découvrez le Rhin, Francfort et Heidelberg"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.025275599999999995,
-      "why": "KI-Denken: Ultimate Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Berlin & Potsdam Family Travel Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': True, 'issues': \"Formula in 'Sum' column is incorrect (EUR multiplied by text).\"}"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.025381199999999996,
-      "why": "KI-Denken: Ultimate Family Trip Planner Berlin & Potsdam: Budget Tracker & Itinerary Organizer"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Family Trip Planner Berlin & Potsdam: Budget Tracker & Itinerary Organizer"
-    },
     {
       "t": "2026-11-04T23:45:19",
       "eur": -0.030541199999999998,
@@ -13506,6 +13463,116 @@
       "t": "2026-11-07T08:50:58",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611787861"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): 'choices'"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.0341172,
+      "why": "KI-Denken: Le Guide Essentiel des Alpes Bavaroises : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.0041664,
+      "why": "KI-Pruefung: Le Guide Essentiel des Alpes Bavaroises : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: Le Guide Essentiel des Alpes Bavaroises : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.026743199999999998,
+      "why": "KI-Denken: Ultimate North & Baltic Sea Family Trip Budget Planner"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Trip Budget Planner"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.027403199999999996,
+      "why": "KI-Denken: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.0015083999999999998,
+      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.0325272,
+      "why": "KI-Denken: Discover Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.0034476,
+      "why": "KI-Pruefung: Discover Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: Discover Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-11-07T16:41:33",
+      "eur": -0.0038352,
+      "why": "Audit: Le Guide Essentiel des Alpes Bavaroises : 7 Itinéraires Incontournables pour Déc"
+    },
+    {
+      "t": "2026-11-07T16:41:33",
+      "eur": -0.0027624,
+      "why": "Audit: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
+    },
+    {
+      "t": "2026-11-07T16:41:33",
+      "eur": -0.0031188,
+      "why": "Audit: Discover Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.0011447999999999999,
+      "why": "Blog-Artikel: Heidelberg Altstadt (zh)"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.0013691999999999999,
+      "why": "Blog-Artikel: Neuschwanstein (es)"
+    },
+    {
+      "t": "2026-11-07T16:28:53",
+      "eur": -0.00042119999999999994,
+      "why": "Video-Skript: Neuschwanstein"
     }
   ],
   "alive": true,
@@ -16119,6 +16186,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-11-07T08:50:58",
       "img": true
+    },
+    {
+      "slug": "exploring-heidelberg-altstadt",
+      "title": "探索海德堡老城：德国浪漫之城的魅力",
+      "lang": "zh",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-11-07T16:28:53",
+      "img": true
+    },
+    {
+      "slug": "descubre-el-castillo-de-neuschwanstein",
+      "title": "Descubre el Castillo de Neuschwanstein: Un Cuento de Hadas en la Vida Real",
+      "lang": "es",
+      "topic": "Neuschwanstein",
+      "created": "2026-11-07T16:28:53",
+      "img": true
     }
   ],
   "videos": [
@@ -17460,6 +17543,16 @@
       "hashtags": "#MoselCochem #GermanyTravel #CastleViews #MoselWine #ExploreGermany",
       "voice": "Nestled in the heart of Germany, Mosel Cochem is a gem waiting to be explored. Cruise along the serene Mosel River, marvel at the medieval Cochem Castle perched above the town, and wander through charming cobblestone streets. Indulge in exquisite Mosel wines and embrace the breathtaking landscapes. Whether you seek history, culture, or nature, Cochem offers an unforgettable adventure. Start your journey today!",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-el-castillo-de-neuschwanstein",
+      "title": "Descubre el Castillo de Neuschwanstein: Un Cuento de Hadas en la Vida Real",
+      "lang": "es",
+      "created": "2026-11-07T16:28:53",
+      "hashtags": "#Neuschwanstein #Alemania #Baviera #Castillos #Viajes",
+      "voice": "En el corazón de los Alpes bávaros, se alza el majestuoso castillo de Neuschwanstein, una obra maestra de ensueño. Construido por el rey Luis II, este monumento combina arquitectura gótica y romántica, rodeado de paisajes impresionantes. Con sus torres altivas y detalles fascinantes, es un símbolo indiscutible de fantasía y un destino imprescindible en tu viaje a Alemania. ¡Deja volar tu imaginación!",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
