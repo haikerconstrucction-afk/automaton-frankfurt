@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 400.3267,
-  "spent_eur": 104.3436,
+  "balance_eur": 400.1847,
+  "spent_eur": 104.4856,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -12571,104 +12571,81 @@
       "pay_url": "https://buy.stripe.com/00wdRa4o179p1E24os2kx3O",
       "payment_link_id": "plink_1UZCgtJ5iOXkWb9VfmDnXFUV",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer",
+      "slug": "berlin-potsdam-reisebudget-tracker-itinerary-planer",
+      "price_eur": 9,
+      "target": "Reisende, die Berlin und Potsdam erkunden möchten und ihr Budget und ihre Aktivitäten im Blick behalten wollen.",
+      "reason": "Diese Excel-Vorlage bietet eine klare Übersicht über Ihre Reiseplanung und hilft Ihnen, Ihr Budget effizient zu verwalten. Mit detaillierten Ausgabenkategorien und Aktivitätsplänen können Sie Ihre Reise optimal organisieren.",
+      "language": "de",
+      "pitch": "Planen Sie Ihre Reise nach Berlin und Potsdam effizient mit dieser Excel-Vorlage, die Ihr Budget, Ihre Aktivitäten und Ihre täglichen Ausgaben im Blick behält.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Ihnen, Ihre Reise nach Berlin und Potsdam optimal zu planen. Sie können Ihr Budget im Blick behalten, Ihre täglichen Aktivitäten organisieren und Ihre Ausgaben nach Kategorien analysieren.</p>",
+      "pro": true,
+      "created": "2026-11-07T21:54:54",
+      "file": "berlin-potsdam-reisebudget-tracker-itinerary-planer-938a05d83209b274.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist korrekt, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Die Sprachwahl ist einheitlich und es gibt keine sachlichen Fehler oder Regelverstöße. Die berechneten Kennzahlen sind plausibel.",
+      "pay_url": "https://buy.stripe.com/14A4gAf2FdxN96uf362kx3P",
+      "payment_link_id": "plink_1UZHjMJ5iOXkWb9VyaDl6UW6",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Entdecke Sachsens Schätze: Der ultimative Reiseführer für Dresden und Umgebung",
+      "slug": "entdecke-sachsens-schaetze-reisefuehrer-dresden",
+      "price_eur": 5,
+      "target": "Reiselustige, Familien, Kulturinteressierte, die Sachsen und Dresden erkunden möchten",
+      "reason": "Dresden und Sachsen sind beliebte Reiseziele in Deutschland, aber viele Besucher kennen die besten Tipps nicht. Dieses E-Book bietet praktische, leicht verständliche und umsetzbare Informationen für jede Art von Reisenden. Es ist der perfekte Begleiter, um die Region stressfrei und authentisch zu erkunden.",
+      "language": "de",
+      "pitch": "Entdecke die verborgenen Schätze Dresdens und Sachsens mit diesem praktischen Reiseführer. Perfekt für Tagestrips, Familienausflüge und Kulturfans!",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Dresden kurz erklärt</li><li>Kapitel 2: Die besten Sehenswürdigkeiten in Dresden</li><li>Kapitel 3: Kulinarische Highlights in Sachsen</li><li>Kapitel 4: Tagesausflüge in die Umgebung</li><li>Kapitel 5: Familienfreundliche Aktivitäten</li><li>Kapitel 6: Praktische Tipps und Insiderwissen</li></ul><h3>Leseprobe:</h3><p>Dresden ist nicht nur die Landeshauptstadt Sachsens, sondern auch ein kulturelles Juwel. Ob Sie die berühmte Frauenkirche bestaunen oder durch das historische Altstadtviertel schlendern – hier gibt es viel zu entdecken. Speziell für Familien gibt es zahlreiche Aktivitäten, die Groß und Klein begeistern...</p>",
+      "pro": false,
+      "created": "2026-11-07T21:54:54",
+      "file": "entdecke-sachsens-schaetze-reisefuehrer-dresden-e42de0b5cbef8f80.pdf",
+      "size": 1631,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Es werden allgemein bekannte Fakten und praxisnahe Tipps verwendet. Die Sprache ist korrekt und konsistent, es gibt keine unfertigen Texte oder Platzhalter. Es gibt jedoch keine expliziten Gesundheitsversprechen, M",
+      "pay_url": "https://buy.stripe.com/bJe8wQ5s59hx6Ym5sw2kx3Q",
+      "payment_link_id": "plink_1UZHjNJ5iOXkWb9VLvfPeCIL",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Construction Site Offer & Measurement Tracker",
+      "slug": "ultimate-construction-site-offer-measurement-tracker",
+      "price_eur": 17,
+      "target": "Small construction businesses and craftsmen",
+      "reason": "This tracker provides a comprehensive solution for construction businesses to manage offers, measurements, and expenses efficiently, helping them stay organized and make informed decisions.",
+      "language": "en",
+      "pitch": "Streamline your construction site offers, measurements, and expenses with this all-in-one professional Excel tracker.",
+      "content_html": "<h2>Content</h2><p>This Excel tracker includes sheets for managing construction site offers, tracking measurements, and monitoring expenses. It also features a dashboard with key performance indicators (KPIs) to help you stay on top of your projects.</p>",
+      "pro": true,
+      "created": "2026-11-07T21:54:54",
+      "file": "ultimate-construction-site-offer-measurement-tracker-091d4ca7bc03e4a3.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Zahlen oder Quellen erkennbar. Klare Beschreibung ohne Gesundheitsversprechen, Markenverletzungen oder Beratung. Formeln sinnvoll und plausibel. Einige Wiederholungen in der Measurements-Tabelle könnten optimiert werden.",
+      "pay_url": "https://buy.stripe.com/00w00k3jXbpF6Ym8EI2kx3R",
+      "payment_link_id": "plink_1UZHjNJ5iOXkWb9VseKTjOll",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.030541199999999998,
-      "why": "KI-Denken: Discover Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.0033756,
-      "why": "KI-Pruefung: Discover Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.16,
-      "why": "KI-Bilder: Discover Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-11-04T23:56:52",
-      "eur": -0.0036948,
-      "why": "Audit: Le Guide Pratique du Voyageur Autonome : Découvrez le Rhin, Francfort et Heidelb"
-    },
-    {
-      "t": "2026-11-04T23:56:52",
-      "eur": -0.00216,
-      "why": "Audit: Ultimate Family Trip Planner Berlin & Potsdam: Budget Tracker & Itinerary Organi"
-    },
-    {
-      "t": "2026-11-04T23:56:52",
-      "eur": -0.0031968,
-      "why": "Audit: Discover Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.0014784,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (de)"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.0014375999999999998,
-      "why": "Blog-Artikel: Frankfurt Skyline (en)"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.0003144,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能德国北海与波罗的海旅行预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610107321"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能探索德国莱茵河、法兰克福和海德堡：实用旅行指南"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610128330"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Voyage Berlin et Potsdam : Budget, Itinéraire & Checkliste"
-    },
-    {
-      "t": "2026-11-04T23:45:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610128344"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.0255564,
-      "why": "KI-Denken: Baustellenkosten-Tracker & Angebotskalkulator für Handwerksbetriebe"
-    },
     {
       "t": "2026-11-05T16:30:16",
       "eur": -0.001,
@@ -13573,6 +13550,101 @@
       "t": "2026-11-07T16:28:53",
       "eur": -0.00042119999999999994,
       "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.027105599999999997,
+      "why": "KI-Denken: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.0011639999999999999,
+      "why": "KI-Pruefung: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.033108,
+      "why": "KI-Denken: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.0041963999999999994,
+      "why": "KI-Pruefung: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): E-Book zu kurz (1465 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.0330648,
+      "why": "KI-Denken: Entdecke Sachsens Schätze: Der ultimative Reiseführer für Dresden und Umgebung"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.004068,
+      "why": "KI-Pruefung: Entdecke Sachsens Schätze: Der ultimative Reiseführer für Dresden und Umgebung"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.026929199999999997,
+      "why": "KI-Denken: Ultimate Construction Site Offer & Measurement Tracker"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Construction Site Offer & Measurement Tracker"
+    },
+    {
+      "t": "2026-11-07T22:04:43",
+      "eur": -0.0018443999999999997,
+      "why": "Audit: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
+    },
+    {
+      "t": "2026-11-07T22:04:43",
+      "eur": -0.0038723999999999994,
+      "why": "Audit: Entdecke Sachsens Schätze: Der ultimative Reiseführer für Dresden und Umgebung"
+    },
+    {
+      "t": "2026-11-07T22:04:43",
+      "eur": -0.0021792,
+      "why": "Audit: Ultimate Construction Site Offer & Measurement Tracker"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.0013583999999999998,
+      "why": "Blog-Artikel: Saechsische Schweiz (fr)"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.0015587999999999997,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (de)"
+    },
+    {
+      "t": "2026-11-07T21:54:54",
+      "eur": -0.00041639999999999993,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
     }
   ],
   "alive": true,
@@ -16202,6 +16274,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-11-07T16:28:53",
       "img": true
+    },
+    {
+      "slug": "decouverte-de-la-suisse-saxonne-un-joyau-naturel-en-allemagn",
+      "title": "Découverte de la Suisse Saxonne : Un Joyau Naturel en Allemagne",
+      "lang": "fr",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-11-07T21:54:54",
+      "img": true
+    },
+    {
+      "slug": "ruegen-kreidefelsen-deutschland",
+      "title": "Die Kreidefelsen von Rügen: Ein beeindruckendes Naturwunder",
+      "lang": "de",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-11-07T21:54:54",
+      "img": true
     }
   ],
   "videos": [
@@ -17553,6 +17641,16 @@
       "hashtags": "#Neuschwanstein #Alemania #Baviera #Castillos #Viajes",
       "voice": "En el corazón de los Alpes bávaros, se alza el majestuoso castillo de Neuschwanstein, una obra maestra de ensueño. Construido por el rey Luis II, este monumento combina arquitectura gótica y romántica, rodeado de paisajes impresionantes. Con sus torres altivas y detalles fascinantes, es un símbolo indiscutible de fantasía y un destino imprescindible en tu viaje a Alemania. ¡Deja volar tu imaginación!",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "ruegen-kreidefelsen-deutschland",
+      "title": "Die Kreidefelsen von Rügen: Ein beeindruckendes Naturwunder",
+      "lang": "de",
+      "created": "2026-11-07T21:54:54",
+      "hashtags": "#RügenKreidefelsen #JasmundNationalpark #UNESCOWeltnaturerbe #OstseeNatur #EntdecktDeutschland",
+      "voice": "Entdecken Sie die beeindruckenden Kreidefelsen von Rügen! Diese atemberaubenden Naturwunder im Jasmund Nationalpark gehören zum UNESCO Weltnaturerbe und faszinieren Besucher aus aller Welt. Wandern Sie entlang der Steilküste und genießen Sie den Ausblick auf die Ostsee. Tauchen Sie ein in die Schönheit dieser einzigartigen Landschaft!",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
