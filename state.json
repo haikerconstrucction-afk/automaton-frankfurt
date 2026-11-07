@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 402.5244,
-  "spent_eur": 102.1459,
+  "balance_eur": 401.521,
+  "spent_eur": 103.1493,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7829,7 +7829,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen; keine falsche oder gemischte Sprache; keine unfertigen oder abgebrochenen Texte; keine Rechts-, Steuer-, Finanz- oder Medizinberatung; keine Gesundheitsversprechen; keine fremden Marken oder Figuren; alle Formeln u",
       "pay_url": "https://buy.stripe.com/9B65kE8EhctJ96u9IM2kx0D",
       "payment_link_id": "plink_1USgkLJ5iOXkWb9VS0z7VRvY",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4611645617"
+      }
     },
     {
       "type": "ebook",
@@ -7853,7 +7856,10 @@
       "audit_note": "Der Inhalt ist klar strukturiert und folgt den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Der Text bietet allgemein bekannte Praxistipps und ist sprachlich korrekt in Chinesisch verfasst. Es gibt keine Hinweise auf unfertige Texte, Platzhalter oder sachliche Fehler. Es",
       "pay_url": "https://buy.stripe.com/5kQfZidYBbpFfuS5sw2kx0E",
       "payment_link_id": "plink_1USgkLJ5iOXkWb9V6I3w6WHf",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4611645633"
+      }
     },
     {
       "type": "excel",
@@ -7877,7 +7883,10 @@
       "audit_note": "Das Produkt ist ein funktionierendes Excel-Tool zur Budgetplanung für Vereine, ohne erfundene Statistiken oder fragwürdige Behauptungen. Die Beispieldaten sind plausibel und die Funktionalitäten klar beschrieben.",
       "pay_url": "https://buy.stripe.com/9B63cw07LalBbeC08c2kx0F",
       "payment_link_id": "plink_1USkqNJ5iOXkWb9V7A1tm3RL",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4611645663"
+      }
     },
     {
       "type": "ebook",
@@ -12341,124 +12350,80 @@
       "pay_url": "https://buy.stripe.com/8x2fZi7Ad8dtaay3ko2kx3H",
       "payment_link_id": "plink_1UYureJ5iOXkWb9VL1f9phk7",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "From Stress to Success: 7 Simple Strategies for Teachers & Tutors to Save Time and Energize Their Classrooms",
+      "slug": "simple-strategies-for-teachers-and-tutors",
+      "price_eur": 5,
+      "target": "Teachers and tutors looking for efficient ways to manage their time and improve student engagement.",
+      "reason": "This ebook addresses the pressing need for teachers and tutors to manage their time effectively and reduce stress. By offering practical, actionable strategies, it provides clear value and helps educators create a more positive and productive classroom environment.",
+      "language": "en",
+      "pitch": "Discover practical strategies to transform your teaching experience from stressful to successful with these easy-to-follow steps.",
+      "content_html": "<h2>Inhalt</h2><p>Transform your teaching experience with these proven strategies. Learn how to save time, reduce stress, and create a positive classroom environment.</p><h3>Introduction</h3><p>Teaching can be overwhelming, but with the right approach, you can turn stress into success. This guide provides practical tips and actionable steps to help you thrive in your classroom.</p><h3>Chapter 1: Prioritize Your Tasks</h3><p>Learn how to identify and focus on the most important tasks to maximize your productivity.</p><h3>Chapter 2: Streamline Lesson Planning</h3><p>Discover techniques for creating effective lesson plans quickly and efficiently.</p><h3>Chapter 3: Effective Classroom Management</h3><p>Explore methods to maintain a positive and organized classroom environment.</p><h3>Chapter 4: Utilize Technology</h3><p>Find out how to integrate technology into your teaching to save time and enhance learning.</p><h3>Chapter 5: Engage Your Students</h3><p>Learn strategies to keep your students motivated and actively participating in lessons.</p><h3>Chapter 6: Self-Care for Educators</h3><p>Understand the importance of self-care and how to incorporate it into your busy schedule.</p><h3>Conclusion</h3><p>Recap the key points and encouragement to implement these strategies for a more successful teaching experience.</p>",
+      "pro": false,
+      "created": "2026-11-07T01:58:17",
+      "file": "simple-strategies-for-teachers-and-tutors-f06b6b0eb84756e2.pdf",
+      "size": 2092,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das eBook ist klar strukturiert und bietet praktische Tipps ohne erfundene Studien, Statistiken oder Gesundheitsversprechen. Es hält sich an die Regeln und ist gut geeignet für Lehrer und Tutoren.",
+      "pay_url": "https://buy.stripe.com/aFaaEY9IldxN0zYaMQ2kx3I",
+      "payment_link_id": "plink_1UYz4dJ5iOXkWb9VeHaoisVj",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Control de Gastos y Presupuesto para Cuidadores de Ancianos",
+      "slug": "control-gastos-presupuesto-cuidadores-ancianos",
+      "price_eur": 9,
+      "target": "Cuidadores de ancianos y organizaciones de cuidado",
+      "reason": "Esta plantilla proporciona una herramienta eficiente para que los cuidadores de ancianos gestionen sus gastos y presupuestos de manera clara y organizada, ayudándoles a mantener un control preciso y a tomar decisiones informadas.",
+      "language": "es",
+      "pitch": "Simplifica la gestión de gastos y presupuestos para el cuidado de ancianos con esta plantilla profesional de Excel.",
+      "content_html": "<h2>Inhalt</h2><p>Esta plantilla ayuda a los cuidadores a mantener un control preciso de los gastos relacionados con el cuidado de ancianos y a gestionar el presupuesto de manera eficiente.</p>",
+      "pro": true,
+      "created": "2026-11-07T01:58:17",
+      "file": "control-gastos-presupuesto-cuidadores-ancianos-e81ca5cc75dc316d.xlsx",
+      "size": 22,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine Excel-Vorlage für die Verwaltung von Ausgaben und Budgets für Pflegekräfte älterer Menschen. Es gibt keine erfundenen Statistiken, Prozentzahlen oder Quellen. Die Sprache ist korrekt und einheitlich, es gibt keine Platzhalter oder unfertigen Texte. Die Formeln und Tabellen sind ",
+      "pay_url": "https://buy.stripe.com/00weVef2FfFVfuSaMQ2kx3J",
+      "payment_link_id": "plink_1UYz4eJ5iOXkWb9V8UoYqLAo",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio",
+      "slug": "guia-definitiva-freelancers-organizar-optimizar-negocio",
+      "price_eur": 5,
+      "target": "Freelancers y autónomos que buscan optimizar su negocio",
+      "reason": "Este ebook aborda las necesidades más comunes de freelancers y autónomos, proporcionando soluciones prácticas y fáciles de implementar. Está diseñado para ayudarles a organizar su negocio, aumentar su eficiencia y mejorar sus resultados financieros.",
+      "language": "es",
+      "pitch": "Descubre cómo organizar tu trabajo, ahorrar tiempo y aumentar tus ingresos con estrategias prácticas y fáciles de implementar.",
+      "content_html": "<h2>Contenido</h2><ul><li>Capítulo 1: Cómo establecer objetivos claros</li><li>Capítulo 2: Herramientas digitales esenciales</li><li>Capítulo 3: Gestión eficaz del tiempo</li><li>Capítulo 4: Estrategias para atraer más clientes</li><li>Capítulo 5: Cómo fijar precios justos</li><li>Capítulo 6: Mejores prácticas para la comunicación con clientes</li><li>Capítulo 7: Optimización de flujos de trabajo</li></ul>",
+      "pro": false,
+      "created": "2026-11-07T01:58:17",
+      "file": "guia-definitiva-freelancers-organizar-optimizar-negocio-b851870f1a961ea8.pdf",
+      "size": 1843,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 5,
+      "audit_note": "Enthält konkrete Prozentzahl ohne allgemein bekannte Grundlage (erfunden), Verstoß gegen die Regeln.",
+      "retired": true,
+      "retired_why": "Enthält konkrete Prozentzahl ohne allgemein bekannte Grundlage (erfunden), Verstoß gegen die Regeln. Erfundene Zahlen: 20%"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.025087199999999997,
-      "why": "KI-Denken: Planificador de Viaje al Bosque Negro: Seguimiento de Presupuesto & Itinerario para Hombres"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Viaje al Bosque Negro: Seguimiento de Presupuesto & Itinerario para Hombres"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): 'choices'"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): 'choices'"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.03128639999999999,
-      "why": "KI-Denken: Descubre el Saarland y la Mosela: Guía Esencial para Viajeros"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.0044291999999999995,
-      "why": "KI-Pruefung: Descubre el Saarland y la Mosela: Guía Esencial para Viajeros"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.16,
-      "why": "KI-Bilder: Descubre el Saarland y la Mosela: Guía Esencial para Viajeros"
-    },
-    {
-      "t": "2026-11-03T23:37:31",
-      "eur": -0.0030887999999999996,
-      "why": "Audit: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Bu"
-    },
-    {
-      "t": "2026-11-03T23:37:31",
-      "eur": -0.002316,
-      "why": "Audit: Planificador de Viaje al Bosque Negro: Seguimiento de Presupuesto & Itinerario p"
-    },
-    {
-      "t": "2026-11-03T23:37:31",
-      "eur": -0.0040019999999999995,
-      "why": "Audit: Descubre el Saarland y la Mosela: Guía Esencial para Viajeros"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.0011891999999999998,
-      "why": "Blog-Artikel: Bodensee (fr)"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": -0.0011447999999999999,
-      "why": "Blog-Artikel: Mosel Cochem (de)"
-    },
-    {
-      "t": "2026-11-03T23:27:53",
-      "eur": 0,
-      "why": "Video-Fehler: 'choices'"
-    },
-    {
-      "t": "2026-11-04T06:31:14",
-      "eur": -0.025114799999999996,
-      "why": "KI-Denken: NRW City Trip Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-11-04T06:31:14",
-      "eur": -0.001,
-      "why": "KI-Pruefung: NRW City Trip Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-11-04T06:31:14",
-      "eur": -0.029887199999999992,
-      "why": "KI-Denken: 智能巴伐利亚与阿尔卑斯山旅行指南：7步探索隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-11-04T06:31:14",
-      "eur": -0.0038832,
-      "why": "KI-Pruefung: 智能巴伐利亚与阿尔卑斯山旅行指南：7步探索隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-11-04T06:31:14",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能巴伐利亚与阿尔卑斯山旅行指南：7步探索隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-11-04T06:31:14",
-      "eur": -0.0255204,
-      "why": "KI-Denken: Planificateur de Voyage Ostsee & Nordsee : Budgétisation et Suivi des Dépenses pour Voyageurs Autonomes (2026 Edition)"
-    },
-    {
-      "t": "2026-11-04T06:31:14",
-      "eur": -0.0010788,
-      "why": "KI-Pruefung: Planificateur de Voyage Ostsee & Nordsee : Budgétisation et Suivi des Dépenses pour Voyageurs Autonomes (2026 Edition)"
-    },
     {
       "t": "2026-11-04T06:31:14",
       "eur": 0,
@@ -13343,6 +13308,126 @@
       "t": "2026-11-06T21:31:49",
       "eur": -0.00035639999999999994,
       "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.0323292,
+      "why": "KI-Denken: From Stress to Success: 7 Simple Strategies for Teachers & Tutors to Save Time and Energize Their Classrooms"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.0031319999999999994,
+      "why": "KI-Pruefung: From Stress to Success: 7 Simple Strategies for Teachers & Tutors to Save Time and Energize Their Classrooms"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.16,
+      "why": "KI-Bilder: From Stress to Success: 7 Simple Strategies for Teachers & Tutors to Save Time and Energize Their Classrooms"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.026794799999999997,
+      "why": "KI-Denken: Control de Gastos y Presupuesto para Cuidadores de Ancianos"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.0013008,
+      "why": "KI-Pruefung: Control de Gastos y Presupuesto para Cuidadores de Ancianos"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.033002399999999994,
+      "why": "KI-Denken: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.0037283999999999998,
+      "why": "KI-Pruefung: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio"
+    },
+    {
+      "t": "2026-11-07T02:09:20",
+      "eur": -0.0030263999999999994,
+      "why": "Audit: From Stress to Success: 7 Simple Strategies for Teachers & Tutors to Save Time a"
+    },
+    {
+      "t": "2026-11-07T02:09:20",
+      "eur": -0.0034931999999999997,
+      "why": "Audit: Control de Gastos y Presupuesto para Cuidadores de Ancianos"
+    },
+    {
+      "t": "2026-11-07T02:09:20",
+      "eur": -0.0035291999999999997,
+      "why": "Audit: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio"
+    },
+    {
+      "t": "2026-11-07T02:09:20",
+      "eur": 0,
+      "why": "Audit entfernt: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio – Enthält konkrete Prozentzahl ohne allgemein bekannte Grundlage (erfunden), Verstoß gegen die Regeln. Erfundene Zahlen: 20%"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 1 entfernt"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.001602,
+      "why": "Blog-Artikel: Koeln Dom (es)"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.0011879999999999998,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (fr)"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.00043199999999999993,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能旅行打包清单与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611645617"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611645633"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Budget & Suivi des Dépenses pour Associations Bénévoles"
+    },
+    {
+      "t": "2026-11-07T01:58:17",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611645663"
     }
   ],
   "alive": true,
@@ -15924,6 +16009,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-11-06T21:31:49",
       "img": true
+    },
+    {
+      "slug": "descubre-el-majestuoso-catedral-de-colonia-una-joya-gotica-e",
+      "title": "Descubre el majestuoso Catedral de Colonia: una joya gótica en Alemania",
+      "lang": "es",
+      "topic": "Koeln Dom",
+      "created": "2026-11-07T01:58:17",
+      "img": true
+    },
+    {
+      "slug": "zollverein-ruhrgebiet-allemagne-guide-voyage",
+      "title": "Découvrez le Zollverein dans le Ruhrgebiet : Un Joyau Industriel",
+      "lang": "fr",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-11-07T01:58:17",
+      "img": true
     }
   ],
   "videos": [
@@ -17245,6 +17346,16 @@
       "hashtags": "#德国旅行 #萨尔兰 #自然奇观 #徒步天堂 #萨尔河弯",
       "voice": "欢迎来到德国的萨尔兰萨尔河弯！这里是德国最壮观的自然奇观之一。蜿蜒的萨尔河环绕着茂密的森林，仿佛大自然在这里画出了一幅绝美画卷。这里是徒步爱好者的天堂，沿着小径漫步，感受宁静与自然的交融。登高俯瞰，萨尔河弯的全景令人心旷神怡。这里不仅是自然的杰作，更是历史与文化的见证。快来体验这片迷人土地的魅力吧！",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "zollverein-ruhrgebiet-allemagne-guide-voyage",
+      "title": "Découvrez le Zollverein dans le Ruhrgebiet : Un Joyau Industriel",
+      "lang": "fr",
+      "created": "2026-11-07T01:58:17",
+      "hashtags": "#Zollverein #Ruhrgebiet #PatrimoineMondial #Allemagne #CultureIndustrielle",
+      "voice": "Plongez dans l'ère industrielle au Zollverein, un site iconique du Ruhrgebiet en Allemagne. Inscrit au patrimoine mondial de l'UNESCO, cet ancien complexe minier est aujourd'hui un symbole de renaissance culturelle et architecturale. Explorez ses vastes espaces, imprégnez-vous de son histoire fascinante et découvrez comment le Zollverein est devenu une destination incontournable pour les amateurs d'art et d'histoire. Une expérience inoubliable vous attend!",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
