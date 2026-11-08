@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 400.1847,
-  "spent_eur": 104.4856,
+  "balance_eur": 399.1264,
+  "spent_eur": 105.5439,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -7991,7 +7991,10 @@
       "audit_note": "Das Produkt erfüllt die Kriterien, enthält keine erfundenen Statistiken oder Zahlen und bietet eine klare Funktionsbeschreibung. Die Beispielrechnungen sind als solche erkennbar und es werden keine unzulässigen Behauptungen aufgestellt.",
       "pay_url": "https://buy.stripe.com/bJe3cw7Ad3Xd82q4os2kx0J",
       "payment_link_id": "plink_1USnjCJ5iOXkWb9V3Xk6aJBM",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4612295479"
+      }
     },
     {
       "type": "ebook",
@@ -8015,7 +8018,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Der Inhalt bietet allgemein bekannte Praxistipps ohne Regelverstöße. Sprache ist korrekt und der Text ist strukturiert und sinnvoll.",
       "pay_url": "https://buy.stripe.com/aFaeVe07LctJ3Ma6wA2kx0K",
       "payment_link_id": "plink_1USnjCJ5iOXkWb9VU3IaEM3w",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4612311238"
+      }
     },
     {
       "type": "excel",
@@ -8039,7 +8045,10 @@
       "audit_note": "Das Produkt erfüllt die Anforderungen. Es enthält keine erfundenen Studien, Statistiken oder falschen Quellen. Die Sprache ist korrekt, es gibt keine unfertigen Texte oder Platzhalter. Die Excel-Formeln sind sinnvoll und nachvollziehbar. Es wird keine Rechts-, Steuer-, Finanz- oder Medizinberatung a",
       "pay_url": "https://buy.stripe.com/28E00k7AdbpF1E24os2kx0L",
       "payment_link_id": "plink_1USuFMJ5iOXkWb9VCTTHThS0",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4612295531"
+      }
     },
     {
       "type": "ebook",
@@ -12643,159 +12652,81 @@
       "pay_url": "https://buy.stripe.com/00w00k3jXbpF6Ym8EI2kx3R",
       "payment_link_id": "plink_1UZHjNJ5iOXkWb9VseKTjOll",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Sweet Dreams: 6 Magical Bedtime Stories to Help Your Child Sleep Better",
+      "slug": "sweet-dreams-magical-bedtime-stories-for-kids",
+      "price_eur": 5,
+      "target": "Parents of children aged 3-8 who want to establish a calming bedtime routine with engaging and imaginative stories.",
+      "reason": "Parents often struggle with bedtime routines, and engaging stories can make the process enjoyable and effective. These original tales are crafted to calm, inspire, and help children sleep peacefully, offering parents a practical and magical solution.",
+      "language": "en",
+      "pitch": "Transform bedtime struggles into peaceful moments with enchanting tales designed to soothe, inspire, and help your child drift off to sleep easily.",
+      "content_html": "<h2>Content</h2>\n<ul>\n<li>The Moonlit Forest Adventure</li>\n<li>The Brave Little Star</li>\n<li>The Whispering Treetops</li>\n<li>The Friendly Dragon’s Secret</li>\n<li>The Sleepytime Garden</li>\n<li>The Ocean’s Lullaby</li>\n</ul>\n<h3>Preview: The Moonlit Forest Adventure</h3>\n<p>Once upon a time, in a forest bathed in silver moonlight...</p>",
+      "pro": false,
+      "created": "2026-11-08T01:28:14",
+      "file": "sweet-dreams-magical-bedtime-stories-for-kids-c43575a6136a245c.pdf",
+      "size": 1729,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt entspricht den Regeln: Keine erfundenen Studien, Statistiken oder Quellen, keine Gesundheitsversprechen, keine fremden Marken/Figuren, keine Rechts- oder Finanzberatung. Die Geschichten sind kreativ und kindgerecht, ohne sachliche Fehler oder Wiederholungen.",
+      "pay_url": "https://buy.stripe.com/8x26oIcUxctJaay1cg2kx3S",
+      "payment_link_id": "plink_1UZL4dJ5iOXkWb9VJWx1FesO",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Presupuesto y Seguimiento de Gastos para Bodas",
+      "slug": "planificador-bodas-gastos",
+      "price_eur": 9,
+      "target": "Hombres que organizan sus propias bodas y quieren mantener un control preciso de los gastos.",
+      "reason": "Esta herramienta permite a los novios y organizadores de bodas mantener un control preciso de los gastos, evitando sorpresas financieras y asegurando que el presupuesto se mantenga dentro de lo planeado.",
+      "language": "es",
+      "pitch": "Mantén el control total de tu presupuesto de boda con esta herramienta profesional que te permite rastrear gastos, categorizar costos y visualizar el progreso en tiempo real.",
+      "content_html": "<h2>Incluye:</h2><ul><li>Un seguimiento detallado de los gastos por categoría</li><li>Un dashboard con KPIs clave para supervisar el presupuesto</li><li>Gráficos visuales para entender mejor la distribución de los costos</li></ul>",
+      "pro": true,
+      "created": "2026-11-08T01:28:14",
+      "file": "planificador-bodas-gastos-d0eb27e711c6515a.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist überwiegend korrekt und erfüllt die Regeln. Keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert und die Formeln sind plausibel. Kleinere Verbesserungen wären möglich, z.B. die Klarstellung, dass die Beispielwerte frei wählbar ",
+      "pay_url": "https://buy.stripe.com/eVqdRa7Ad1P5fuSbQU2kx3T",
+      "payment_link_id": "plink_1UZL4eJ5iOXkWb9V5Sz3zTiD",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre",
+      "slug": "7-estrategias-inteligentes-para-ahorrar-en-casa-guia-practica-para-hombre",
+      "price_eur": 5,
+      "target": "Hombres interesados en mejorar sus finanzas personales y ahorrar en el hogar",
+      "reason": "Este producto ofrece un enfoque práctico y efectivo para mejorar las finanzas personales de los hombres, con estrategias claras y ejemplos reales que pueden aplicarse fácilmente en la vida cotidiana.",
+      "language": "es",
+      "pitch": "Descubre cómo reducir gastos y optimizar tu presupuesto familiar con estrategias sencillas y efectivas.",
+      "content_html": "<h2>Inhalt</h2><p>Descubre cómo reducir gastos y optimizar tu presupuesto familiar con estrategias sencillas y efectivas. Este libro te ofrece consejos prácticos y ejemplos reales para aplicar en tu vida diaria.</p><ul><li><a href='#capitulo-1'>Capítulo 1: ¿Por qué es importante ahorrar en el hogar?</a></li><li><a href='#capitulo-2'>Capítulo 2: 7 estrategias básicas para reducir gastos</a></li><li><a href='#capitulo-3'>Capítulo 3: Cómo evitar compras innecesarias</a></li><li><a href='#capitulo-4'>Capítulo 4: Planificación mensual del presupuesto familiar</a></li><li><a href='#capitulo-5'>Capítulo 5: Pequeños cambios que hacen la diferencia</a></li><li><a href='#capitulo-6'>Capítulo 6: Mantenerse motivado y seguir adelante</a></li></ul>",
+      "pro": false,
+      "created": "2026-11-08T01:28:14",
+      "file": "7-estrategias-inteligentes-para-ahorrar-en-casa-guia-practica-para-hombre-db522ac82b57502f.pdf",
+      "size": 1675,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar, praktisch und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist korrekt und es gibt keine Rechts-, Steuer- oder Finanzberatung. Der Text ist vollständig und bietet nützliche Praxistipps zur Haushaltsersparnis.",
+      "pay_url": "https://buy.stripe.com/5kQ28s3jXbpF2I65sw2kx3U",
+      "payment_link_id": "plink_1UZL4fJ5iOXkWb9Ve7AfUMLk",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Baustellenkosten-Tracker & Angebotskalkulator für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.0327648,
-      "why": "KI-Denken: 7 Magische Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.0044364,
-      "why": "KI-Pruefung: 7 Magische Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): E-Book zu kurz (1485 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.032095200000000004,
-      "why": "KI-Denken: Gute-Nacht-Geschichten für kleine Abenteurer: 6 magische Reisen ins Traumland"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.0043679999999999995,
-      "why": "KI-Pruefung: Gute-Nacht-Geschichten für kleine Abenteurer: 6 magische Reisen ins Traumland"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.026085599999999997,
-      "why": "KI-Denken: Ultimate Wedding Budget Planner & Vendor Tracker"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.0012707999999999999,
-      "why": "KI-Pruefung: Ultimate Wedding Budget Planner & Vendor Tracker"
-    },
-    {
-      "t": "2026-11-05T16:39:05",
-      "eur": -0.0026039999999999995,
-      "why": "Audit: Baustellenkosten-Tracker & Angebotskalkulator für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-11-05T16:39:05",
-      "eur": -0.0040187999999999995,
-      "why": "Audit: Gute-Nacht-Geschichten für kleine Abenteurer: 6 magische Reisen ins Traumland"
-    },
-    {
-      "t": "2026-11-05T16:39:05",
-      "eur": -0.0036599999999999996,
-      "why": "Audit: Ultimate Wedding Budget Planner & Vendor Tracker"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.0009743999999999999,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (zh)"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.0013548,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (es)"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.0003648,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Découvrez Dresde et la Saxe comme un local : Guide pratique pour voyageurs francophones"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610610286"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Construction Site Offer & Budget Tracker for Craft Businesses"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610588883"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Moonbeam Adventures: 7 Magical Bedtime Stories for Curious Kids (3-8 Years)"
-    },
-    {
-      "t": "2026-11-05T16:30:16",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610610368"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.0304416,
-      "why": "KI-Denken: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Budget"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.0034691999999999995,
-      "why": "KI-Pruefung: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Budget"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.16,
-      "why": "KI-Bilder: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Budget"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.0260088,
-      "why": "KI-Denken: Planificador de Entrenamiento y Nutrición para Hombres"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.0010932,
-      "why": "KI-Pruefung: Planificador de Entrenamiento y Nutrición para Hombres"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.03133559999999999,
-      "why": "KI-Denken: El Pequeño Libro del Vermieter: Organización Sin Estrés para Propietarios de 1 a 5 Viviendas"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.00405,
-      "why": "KI-Pruefung: El Pequeño Libro del Vermieter: Organización Sin Estrés para Propietarios de 1 a 5 Viviendas"
-    },
     {
       "t": "2026-11-06T01:03:42",
       "eur": 0,
@@ -13645,6 +13576,161 @@
       "t": "2026-11-07T21:54:54",
       "eur": -0.00041639999999999993,
       "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.031849199999999994,
+      "why": "KI-Denken: Sweet Dreams: 6 Magical Bedtime Stories to Help Your Child Sleep Better"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.0036132,
+      "why": "KI-Pruefung: Sweet Dreams: 6 Magical Bedtime Stories to Help Your Child Sleep Better"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.16,
+      "why": "KI-Bilder: Sweet Dreams: 6 Magical Bedtime Stories to Help Your Child Sleep Better"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.02697,
+      "why": "KI-Denken: Planificador Profesional de Gastos de Boda"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador Profesional de Gastos de Boda"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.026758799999999996,
+      "why": "KI-Denken: Planificador de Bodas: Control de Presupuesto y Gastos"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Bodas: Control de Presupuesto y Gastos"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.0271188,
+      "why": "KI-Denken: Planificador de Presupuesto y Seguimiento de Gastos para Bodas"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.0010044,
+      "why": "KI-Pruefung: Planificador de Presupuesto y Seguimiento de Gastos para Bodas"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.032905199999999996,
+      "why": "KI-Denken: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.0040836,
+      "why": "KI-Pruefung: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
+    },
+    {
+      "t": "2026-11-08T01:38:56",
+      "eur": -0.0033155999999999997,
+      "why": "Audit: Sweet Dreams: 6 Magical Bedtime Stories to Help Your Child Sleep Better"
+    },
+    {
+      "t": "2026-11-08T01:38:56",
+      "eur": -0.0024359999999999994,
+      "why": "Audit: Planificador de Presupuesto y Seguimiento de Gastos para Bodas"
+    },
+    {
+      "t": "2026-11-08T01:38:56",
+      "eur": -0.0037428,
+      "why": "Audit: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.0012599999999999998,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (en)"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.0009792,
+      "why": "Blog-Artikel: Frankfurt Skyline (zh)"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.00034319999999999994,
+      "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Video-Fehler: No audio was received. Please verify that your parameters are correct."
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: YouTube Content ROI Tracker & Budget Planner 2026"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612295479"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfelehrer"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612311238"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Senior Care Expense Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-11-08T01:28:14",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612295531"
     }
   ],
   "alive": true,
@@ -16289,6 +16375,22 @@
       "lang": "de",
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-11-07T21:54:54",
+      "img": true
+    },
+    {
+      "slug": "discovering-hamburgs-speicherstadt-historic-germany",
+      "title": "Discovering Hamburg’s Speicherstadt: A Historic Gem in Germany",
+      "lang": "en",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-11-08T01:28:14",
+      "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-reiseblog",
+      "title": "探索法兰克福天际线：现代与古典交织的德国都市",
+      "lang": "zh",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-11-08T01:28:14",
       "img": true
     }
   ],
