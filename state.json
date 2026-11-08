@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 399.1264,
-  "spent_eur": 105.5439,
+  "balance_eur": 398.2656,
+  "spent_eur": 106.4047,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8072,7 +8072,10 @@
       "audit_note": "Der Inhalt ist ehrlich, keine erfundenen Studien oder Statistiken enthalten, keine Rechts-/Finanz-/Steuerberatung, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Der Text ist fertig und frei von Platzhaltern oder Wiederholungen. Die Ratschläge basieren auf allgemein bekanntem Wissen und",
       "pay_url": "https://buy.stripe.com/9B6dRa07LeBRdmKcUY2kx0M",
       "payment_link_id": "plink_1USuFNJ5iOXkWb9VUPc7NiAb",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4612441080"
+      }
     },
     {
       "type": "excel",
@@ -8096,7 +8099,10 @@
       "audit_note": "Das Produkt ist ein Excel-Planer für Reisebudget und Routen im Schwarzwald, ohne erfundene Statistiken, Gesundheitsversprechen oder Rechtsberatung. Die Beispielzahlen sind klar als Beispiele erkennbar, es werden keine falschen Quellen oder Zitate angegeben. Die Funktionalität ist nachvollziehbar und",
       "pay_url": "https://buy.stripe.com/dRm7sMaMp51heqO08c2kx0N",
       "payment_link_id": "plink_1USuFNJ5iOXkWb9VumtbeP8n",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4612441092"
+      }
     },
     {
       "type": "ebook",
@@ -8120,7 +8126,10 @@
       "audit_note": "Der Inhalt ist größtenteils korrekt und entspricht den Regeln. Es gibt keine erfundenen Statistiken, Zahlen oder Quellen. Die Sprache ist durchgehend Spanisch und es gibt keine unfertigen Texte oder Platzhalter. Allerdings ist die Information, dass im Saarland Spanisch gesprochen wird, nicht korrekt",
       "pay_url": "https://buy.stripe.com/4gMdRadYBdxNbeCbQU2kx0O",
       "payment_link_id": "plink_1UT01rJ5iOXkWb9V7vZ7oMdR",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4612425181"
+      }
     },
     {
       "type": "excel",
@@ -12724,139 +12733,81 @@
       "pay_url": "https://buy.stripe.com/5kQ28s3jXbpF2I65sw2kx3U",
       "payment_link_id": "plink_1UZL4fJ5iOXkWb9Ve7AfUMLk",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能个人健身预算与训练进度追踪器",
+      "slug": "smart-fitness-budget-progress-tracker",
+      "price_eur": 9,
+      "target": "Fitness enthusiasts, personal trainers, and individuals managing their fitness budgets and progress",
+      "reason": "这款模板为健身爱好者和教练提供了一个简单而强大的工具，帮助他们在日常健身活动中更好地管理预算和跟踪训练进度，从而更高效地实现健身目标。",
+      "language": "zh",
+      "pitch": "这款专业Excel模板帮助您轻松管理健身预算和跟踪训练进度，适合个人和健身教练使用。",
+      "content_html": "<h2>内容</h2><p>这款模板包含两个工作表：一个用于预算管理，另一个用于训练进度跟踪。通过自动计算和图表展示，帮助您更好地规划和控制健身支出与训练目标。</p>",
+      "pro": true,
+      "created": "2026-11-08T09:02:53",
+      "file": "smart-fitness-budget-progress-tracker-3aeccc8ca8e565ee.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die meisten Regeln, enthält keine erfundenen Zahlen oder Statistiken, und bietet klare, nützliche Funktionen für den Benutzer. Es gibt jedoch einige Wiederholungen in den Excel-Formeln, die optimiert werden könnten.",
+      "pay_url": "https://buy.stripe.com/14A4gA6w9fFVfuS8EI2kx3V",
+      "payment_link_id": "plink_1UZS46J5iOXkWb9V9WYSz3hu",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能房东简化指南：7个简单步骤轻松管理1-5套出租房",
+      "slug": "smart-landlord-management-guide",
+      "price_eur": 5,
+      "target": "Vermieter mit 1-5 Wohnungen",
+      "reason": "本指南针对拥有1-5套出租房的小房东，提供了详细的步骤和实用的建议，帮助他们简化管理过程，减少压力，提高效率。通过清晰的步骤和实用的例子，本指南物超所值，能够为房东带来实际的帮助和改善。",
+      "language": "zh",
+      "pitch": "无需压力，轻松管理您的出租房产。本指南提供了7个简单步骤，帮助您高效组织和管理1-5套出租房，节省时间，减少烦恼。",
+      "content_html": "<h2>内容</h2> 在本指南中，您将学习如何简化出租房管理，减少压力，并提高效率。以下是本指南的详细内容：\n\n<h3>第一章：准备工作</h3>\n\n<h3>第二章：租客筛选</h3>\n\n<h3>第三章：租金管理</h3>\n\n<h3>第四章：维护与维修</h3>\n\n<h3>第五章：沟通与反馈</h3>\n\n<h3>第六章：法律与合规</h3>\n\n<h3>第七章：长期策略</h3>",
+      "pro": false,
+      "created": "2026-11-08T09:02:53",
+      "file": "smart-landlord-management-guide-e9e1c1723d128e98.pdf",
+      "size": 1663,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Studien, Statistiken oder Prozentzahlen und entspricht den Regeln. Es gibt keine Rechts-, Steuer- oder Finanzberatung sowie keine Gesundheitsversprechen oder fremden Marken. Der Text ist vollständig und frei von Platzhaltern oder unfertigen S",
+      "pay_url": "https://buy.stripe.com/8x23cw7Ad9hx2I63ko2kx3W",
+      "payment_link_id": "plink_1UZS47J5iOXkWb9VAlmpuETs",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Révisions & Suivi des Progrès pour Étudiants",
+      "slug": "planificateur-de-revisions-et-suivi-des-progres-pour-etudiants",
+      "price_eur": 9,
+      "target": "étudiants préparant des examens",
+      "reason": "Ce produit répond aux besoins des étudiants en leur offrant un outil simple et efficace pour organiser leurs révisions et suivre leurs progrès, augmentant ainsi leurs chances de réussite.",
+      "language": "fr",
+      "pitch": "Organisez vos révisions et suivez vos progrès avec cette feuille de calcul professionnelle, conçue pour maximiser votre efficacité et votre réussite.",
+      "content_html": "<h2>Inhalt</h2><p>Cette feuille de calcul vous permet de planifier vos révisions, de suivre vos progrès et d'analyser vos performances pour chaque sujet.</p>",
+      "pro": true,
+      "created": "2026-11-08T09:02:53",
+      "file": "planificateur-de-revisions-et-suivi-des-progres-pour-etudiants-0f5a639d41efc4e5.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist klar strukturiert und erfüllt die Regeln. Es enthält keine erfundenen Studien, Statistiken oder Quellen. Die berechneten Kennzahlen sind plausibel und basieren auf den Beispieldaten. Es gibt keine falsche oder gemischte Sprache, unfertige Texte oder Platzhalter. Die Formeln und Tabel",
+      "pay_url": "https://buy.stripe.com/9B64gAaMpgJZ3Ma4os2kx3X",
+      "payment_link_id": "plink_1UZS48J5iOXkWb9VFaHm107D",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1422 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.03314759999999999,
-      "why": "KI-Denken: El Pequeño Libro del Propietario: 7 Estrategias Simples para Organizar y Gestionar tus 1-5 Viviendas"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.003969599999999999,
-      "why": "KI-Pruefung: El Pequeño Libro del Propietario: 7 Estrategias Simples para Organizar y Gestionar tus 1-5 Viviendas"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.16,
-      "why": "KI-Bilder: El Pequeño Libro del Propietario: 7 Estrategias Simples para Organizar y Gestionar tus 1-5 Viviendas"
-    },
-    {
-      "t": "2026-11-06T01:17:32",
-      "eur": -0.0033095999999999998,
-      "why": "Audit: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Budget"
-    },
-    {
-      "t": "2026-11-06T01:17:32",
-      "eur": -0.0043596,
-      "why": "Audit: Planificador de Entrenamiento y Nutrición para Hombres"
-    },
-    {
-      "t": "2026-11-06T01:17:32",
-      "eur": -0.0037392,
-      "why": "Audit: El Pequeño Libro del Propietario: 7 Estrategias Simples para Organizar y Gestion"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.0012071999999999999,
-      "why": "Blog-Artikel: Dresden Frauenkirche (fr)"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.0015851999999999997,
-      "why": "Blog-Artikel: Harz Brocken (de)"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.00037679999999999994,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Hochzeits-Budget-Tracker & Ausgabenplaner"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610897011"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Clever haushalten für mehr finanziellen Spielraum: 50 einfache Spartipps für den Alltag"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610915696"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Smart Workout Progress Tracker for Female Fitness Coaches"
-    },
-    {
-      "t": "2026-11-06T01:03:42",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4610915724"
-    },
-    {
-      "t": "2026-11-06T06:52:39",
-      "eur": -0.0258504,
-      "why": "KI-Denken: 智能考试预算与进度追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-06T06:52:39",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能考试预算与进度追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-06T06:52:39",
-      "eur": -0.0307668,
-      "why": "KI-Denken: 智能餐厅成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-11-06T06:52:39",
-      "eur": -0.004085999999999999,
-      "why": "KI-Pruefung: 智能餐厅成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-11-06T06:52:39",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能餐厅成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-11-06T06:52:39",
-      "eur": -0.025747199999999998,
-      "why": "KI-Denken: Planificateur Ultime de Voyage & Liste de Bagage - Modèle Professionnel"
-    },
-    {
-      "t": "2026-11-06T06:52:39",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur Ultime de Voyage & Liste de Bagage - Modèle Professionnel"
-    },
     {
       "t": "2026-11-06T06:52:39",
       "eur": 0,
@@ -13731,6 +13682,136 @@
       "t": "2026-11-08T01:28:14",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612295531"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.0268896,
+      "why": "KI-Denken: 智能健身计划与进度追踪器"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能健身计划与进度追踪器"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.026924399999999998,
+      "why": "KI-Denken: 智能个人健身预算与训练进度追踪器"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能个人健身预算与训练进度追踪器"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.0320508,
+      "why": "KI-Denken: 智能房东简化指南：7个简单步骤轻松管理1-5套出租房"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.0036443999999999995,
+      "why": "KI-Pruefung: 智能房东简化指南：7个简单步骤轻松管理1-5套出租房"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.16,
+      "why": "KI-Bilder: 智能房东简化指南：7个简单步骤轻松管理1-5套出租房"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.026990399999999998,
+      "why": "KI-Denken: Planificateur de Révisions & Suivi des Progrès pour Étudiants"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificateur de Révisions & Suivi des Progrès pour Étudiants"
+    },
+    {
+      "t": "2026-11-08T09:06:51",
+      "eur": -0.002136,
+      "why": "Audit: 智能个人健身预算与训练进度追踪器"
+    },
+    {
+      "t": "2026-11-08T09:06:51",
+      "eur": -0.003792,
+      "why": "Audit: 智能房东简化指南：7个简单步骤轻松管理1-5套出租房"
+    },
+    {
+      "t": "2026-11-08T09:06:51",
+      "eur": -0.0021923999999999997,
+      "why": "Audit: Planificateur de Révisions & Suivi des Progrès pour Étudiants"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.0016187999999999999,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (es)"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.0012024,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (fr)"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.00038879999999999996,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612441080"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612441092"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
+    },
+    {
+      "t": "2026-11-08T09:02:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612425181"
     }
   ],
   "alive": true,
@@ -16392,6 +16473,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-11-08T01:28:14",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-viaje-medieval-alemania",
+      "title": "Rothenburg ob der Tauber: Un viaje al corazón medieval de Alemania",
+      "lang": "es",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-11-08T09:02:53",
+      "img": true
+    },
+    {
+      "slug": "decouvrir-le-brandenburger-tor-a-berlin",
+      "title": "Découvrir le Brandenburger Tor à Berlin : Un Symbole Historique",
+      "lang": "fr",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-11-08T09:02:53",
+      "img": true
     }
   ],
   "videos": [
@@ -17753,6 +17850,16 @@
       "hashtags": "#RügenKreidefelsen #JasmundNationalpark #UNESCOWeltnaturerbe #OstseeNatur #EntdecktDeutschland",
       "voice": "Entdecken Sie die beeindruckenden Kreidefelsen von Rügen! Diese atemberaubenden Naturwunder im Jasmund Nationalpark gehören zum UNESCO Weltnaturerbe und faszinieren Besucher aus aller Welt. Wandern Sie entlang der Steilküste und genießen Sie den Ausblick auf die Ostsee. Tauchen Sie ein in die Schönheit dieser einzigartigen Landschaft!",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrir-le-brandenburger-tor-a-berlin",
+      "title": "Découvrir le Brandenburger Tor à Berlin : Un Symbole Historique",
+      "lang": "fr",
+      "created": "2026-11-08T09:02:53",
+      "hashtags": "#BrandenburgerTor #Berlin #Allemagne #Monument #Voyage",
+      "voice": "Majestueux et chargé d'histoire, le Brandeburger Tor se dresse fièrement au cœur de Berlin. Ce monument emblématique, témoin des bouleversements de l'histoire allemande, est aujourd'hui un symbole puissant de liberté et de réconciliation. Ses colonnes imposantes et son quadrige triomphal captivent les visiteurs du monde entier. Véritable icône architecturale, la Porte de Brandebourg vous invite à plonger dans l'âme vibrante de la capitale allemande.",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
