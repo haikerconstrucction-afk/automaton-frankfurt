@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 397.802,
-  "spent_eur": 106.8683,
+  "balance_eur": 397.5063,
+  "spent_eur": 107.164,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -12877,109 +12877,81 @@
       "pay_url": "https://buy.stripe.com/aFa7sMg6J51h2I6cUY2kx40",
       "payment_link_id": "plink_1UZZNAJ5iOXkWb9VaZv6YYcO",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Vereinsfinanzplaner & Event-Tracker für eine transparente Verwaltung",
+      "slug": "vereinsfinanzplaner-event-tracker",
+      "price_eur": 9,
+      "target": "Vereine und ehrenamtliche Organisationen",
+      "reason": "Diese Vorlage hilft Vereinen, ihre Finanzen und Events effizient zu verwalten und bietet eine klare, übersichtliche Struktur für mehr Transparenz.",
+      "language": "de",
+      "pitch": "Mit dieser Excel-Vorlage behalten Sie Ihre Vereinsfinanzen im Griff und planen Events effizient.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage unterstützt Vereine und ehrenamtliche Organisationen bei der Finanzplanung und Eventorganisation. Sie bietet klare Übersichten, automatische Berechnungen und praktische Tools für eine transparente Verwaltung.</p>",
+      "pro": true,
+      "created": "2026-11-08T22:10:25",
+      "file": "vereinsfinanzplaner-event-tracker-57a894a5ce2e2e4b.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt orientiert sich klar an den Regeln: Es gibt keine erfundenen Studien, Statistiken oder Quellen, keine Beratung, keine Gesundheitsversprechen und keine fremden Marken. Die Excel-Formeln sind plausibel und die Beispielrechnungen sind klar als solche erkennbar. Einige Stellen könnten jedoch",
+      "pay_url": "https://buy.stripe.com/7sY6oI7Ad3Xd6Ym6wA2kx41",
+      "payment_link_id": "plink_1UZeR8J5iOXkWb9Vw8owSxD2",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Hundepflege leicht gemacht: Effektive Tipps für einen entspannten Alltag",
+      "slug": "hundepflege-effektive-tipps-fuer-entspannten-alltag",
+      "price_eur": 5,
+      "target": "Hundebesitzer, die ihren Alltag mit ihrem Vierbeiner stressfreier gestalten möchten",
+      "reason": "Hundebesitzer sind oft gestresst und suchen nach einfachen Lösungen, um ihren Alltag mit ihrem Hund zu vereinfachen. Dieses eBook bietet praktische Tipps, die leicht umsetzbar sind und sowohl dem Hund als auch dem Besitzer helfen, entspannter durch den Tag zu kommen.",
+      "language": "de",
+      "pitch": "Mit einfachen Tipps und Tricks den Alltag mit Ihrem Hund entspannter gestalten. Praxisnah und leicht umsetzbar.",
+      "content_html": "<h2>Inhalt</h2> <ul><li>Einleitung</li><li>Kapitel 1: Die richtige Ernährung</li><li>Kapitel 2: Effektives Gassigehen</li><li>Kapitel 3: Pflege und Hygiene</li><li>Kapitel 4: Training und Erziehung</li><li>Kapitel 5: Entspannung für Hund und Besitzer</li><li>Kapitel 6: Gesundheit und Vorsorge</li></ul>",
+      "pro": false,
+      "created": "2026-11-08T22:10:25",
+      "file": "hundepflege-effektive-tipps-fuer-entspannten-alltag-b73649746c46674a.pdf",
+      "size": 1996,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Text enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Sprache ist korrekt und sachlich, keine offensichtlichen Regelverstöße. Einige Abschnitte sind unvollständig (z.B. 's und Spiel geben Ihrem Hund Sicherheit'), was jedoch nicht gravierend ist.",
+      "pay_url": "https://buy.stripe.com/6oU8wQ6w951h1E26wA2kx42",
+      "payment_link_id": "plink_1UZeR9J5iOXkWb9VVzxbOThf",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Moving & Renovation Expense Tracker for Women",
+      "slug": "ultimate-moving-renovation-expense-tracker-women",
+      "price_eur": 9,
+      "target": "Women planning a move or renovation who want to track expenses and stay organized.",
+      "reason": "Moving and renovating can quickly become overwhelming. This tracker provides a clear overview of expenses, helping users stay organized and within budget.",
+      "language": "en",
+      "pitch": "Streamline your moving and renovation budget with this professional Excel tracker, designed to keep every expense and detail in one place.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps you track all moving and renovation-related expenses, categorize them, and visualize your spending with charts and KPIs.</p>",
+      "pro": true,
+      "created": "2026-11-08T22:10:25",
+      "file": "ultimate-moving-renovation-expense-tracker-women-65e7203058bfdb86.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Studien, Statistiken oder Zahlen, keine falsche oder gemischte Sprache, keine unfertigen Texte oder Platzhalter, keine Rechts-, Steuer-, Finanz- oder Medizinberatung, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Die Formeln und Tabell",
+      "pay_url": "https://buy.stripe.com/00w14o9IlctJdmK3ko2kx43",
+      "payment_link_id": "plink_1UZeRAJ5iOXkWb9VafbiGTaT",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": -0.026158799999999996,
-      "why": "KI-Denken: Volunteer Event Budget Planner & Donation Tracker"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": -0.0010271999999999998,
-      "why": "KI-Pruefung: Volunteer Event Budget Planner & Donation Tracker"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": -0.0309888,
-      "why": "KI-Denken: The Busy Dog Parent's Guide: 7 Simple Steps to a Calmer Canine Companion"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": -0.0034895999999999994,
-      "why": "KI-Pruefung: The Busy Dog Parent's Guide: 7 Simple Steps to a Calmer Canine Companion"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Busy Dog Parent's Guide: 7 Simple Steps to a Calmer Canine Companion"
-    },
-    {
-      "t": "2026-11-06T16:05:30",
-      "eur": -0.0036491999999999996,
-      "why": "Audit: Boostez Vos Ventes sur Etsy : 7 Étapes Simples pour Augmenter Votre Visibilité e"
-    },
-    {
-      "t": "2026-11-06T16:05:30",
-      "eur": -0.0016355999999999999,
-      "why": "Audit: Volunteer Event Budget Planner & Donation Tracker"
-    },
-    {
-      "t": "2026-11-06T16:05:30",
-      "eur": -0.0032867999999999994,
-      "why": "Audit: The Busy Dog Parent's Guide: 7 Simple Steps to a Calmer Canine Companion"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": -0.0014759999999999999,
-      "why": "Blog-Artikel: Eifel Maare (es)"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": -0.0015179999999999998,
-      "why": "Blog-Artikel: Rheingau Weinberge (fr)"
-    },
-    {
-      "t": "2026-11-06T15:57:42",
-      "eur": -0.00043319999999999996,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.026306399999999997,
-      "why": "KI-Denken: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.0010547999999999998,
-      "why": "KI-Pruefung: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.0325836,
-      "why": "KI-Denken: Der kleine Gartenretter: 7 einfache Schritte zur erfolgreichen Selbstversorgung"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.004298399999999999,
-      "why": "KI-Pruefung: Der kleine Gartenretter: 7 einfache Schritte zur erfolgreichen Selbstversorgung"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.16,
-      "why": "KI-Bilder: Der kleine Gartenretter: 7 einfache Schritte zur erfolgreichen Selbstversorgung"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.026012399999999998,
-      "why": "KI-Denken: YouTube Ad Revenue & Expense Tracker for Content Creators"
-    },
     {
       "t": "2026-11-06T21:31:49",
       "eur": -0.001,
@@ -13879,6 +13851,106 @@
       "t": "2026-11-08T16:42:40",
       "eur": -0.0003288,
       "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.027455999999999998,
+      "why": "KI-Denken: Vereinsfinanzplaner & Spendentracker 2026"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Vereinsfinanzplaner & Spendentracker 2026"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.027344399999999998,
+      "why": "KI-Denken: Vereinsfinanzplaner & Event-Tracker für eine transparente Verwaltung"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Vereinsfinanzplaner & Event-Tracker für eine transparente Verwaltung"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.03501719999999999,
+      "why": "KI-Denken: Hundepflege leicht gemacht: Effektive Tipps für einen entspannten Alltag"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.004134,
+      "why": "KI-Pruefung: Hundepflege leicht gemacht: Effektive Tipps für einen entspannten Alltag"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.16,
+      "why": "KI-Bilder: Hundepflege leicht gemacht: Effektive Tipps für einen entspannten Alltag"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.0272352,
+      "why": "KI-Denken: Ultimate Moving & Renovation Expense Tracker for Women"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Moving & Renovation Expense Tracker for Women"
+    },
+    {
+      "t": "2026-11-08T22:19:17",
+      "eur": -0.0025223999999999997,
+      "why": "Audit: Vereinsfinanzplaner & Event-Tracker für eine transparente Verwaltung"
+    },
+    {
+      "t": "2026-11-08T22:19:17",
+      "eur": -0.0037632,
+      "why": "Audit: Hundepflege leicht gemacht: Effektive Tipps für einen entspannten Alltag"
+    },
+    {
+      "t": "2026-11-08T22:19:17",
+      "eur": -0.0024324,
+      "why": "Audit: Ultimate Moving & Renovation Expense Tracker for Women"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.0009132,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (zh)"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.0015936,
+      "why": "Blog-Artikel: Muenchen Marienplatz (es)"
+    },
+    {
+      "t": "2026-11-08T22:10:25",
+      "eur": -0.000396,
+      "why": "Video-Skript: Muenchen Marienplatz"
     }
   ],
   "alive": true,
@@ -16572,6 +16644,22 @@
       "topic": "Harz Brocken",
       "created": "2026-11-08T16:42:40",
       "img": true
+    },
+    {
+      "slug": "nordsee-wattenmeer-deutschland",
+      "title": "探索德国北海瓦登海：自然与文化的完美融合",
+      "lang": "zh",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-11-08T22:10:25",
+      "img": true
+    },
+    {
+      "slug": "descubre-el-encanto-del-marienplatz-en-munich",
+      "title": "Descubre el encanto del Marienplatz en Múnich",
+      "lang": "es",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-11-08T22:10:25",
+      "img": true
     }
   ],
   "videos": [
@@ -17953,6 +18041,16 @@
       "hashtags": "#HarzBrocken #GermanyTravel #NatureEscape #MountainAdventure #ExploreGermany",
       "voice": "Nestled in the heart of Germany, the Harz Brocken is a breathtaking destination. As the highest peak in Northern Germany, it offers stunning panoramic views and a rich tapestry of history and myth. Wander through enchanting forests, follow scenic trails, and immerse yourself in the mystical charm of this legendary mountain. Whether hiking in summer or skiing in winter, the Harz Brocken promises year-round adventure and unforgettable experiences.",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-el-encanto-del-marienplatz-en-munich",
+      "title": "Descubre el encanto del Marienplatz en Múnich",
+      "lang": "es",
+      "created": "2026-11-08T22:10:25",
+      "hashtags": "#Marienplatz #Munich #Alemania #Baviera #Viajes",
+      "voice": "Bienvenidos al Marienplatz de Múnich, el corazón vibrante de la capital bávara. Aquí, la historia cobra vida con su gloriosa arquitectura que combina estilos góticos y barrocos. No te pierdas el famoso Glockenspiel, un reloj animado que encanta a todos. Rodeado de cafés, tiendas y un ambiente lleno de tradición, este lugar es un ícono imperdible de Alemania.",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
