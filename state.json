@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 395.7179,
-  "spent_eur": 108.9524,
+  "balance_eur": 395.2773,
+  "spent_eur": 109.393,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -13110,104 +13110,81 @@
       "pay_url": "https://buy.stripe.com/eVq6oIdYBbpF82q8EI2ky00",
       "payment_link_id": "plink_1UZpLYJ5iOXkWb9VbEukILZa",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Découvrez le Saarland et la Moselle en 7 étapes : Guide pratique pour voyageurs autonomes",
+      "slug": "decouvrez-le-saarland-et-la-moselle-en-7-etapes",
+      "price_eur": 5,
+      "target": "Voyageurs francophones curieux de découvrir le Saarland et la Moselle",
+      "reason": "Le Saarland et la Moselle sont des destinations sous-estimées offrant une combinaison unique de culture, d'histoire et de nature. Ce guide pratique répond au besoin des voyageurs francophones qui cherchent à explorer ces régions de manière autonome et enrichissante.",
+      "language": "fr",
+      "pitch": "Un guide concis et pratique pour explorer les trésors cachés du Saarland et de la Moselle, avec des itinéraires, des astuces et des conseils pratiques pour des aventures inoubliables.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introduction</li><li>Étape 1 : Planifier votre voyage</li><li>Étape 2 : Les incontournables du Saarland</li><li>Étape 3 : Les secrets de la Moselle</li><li>Étape 4 : Conseils pratiques pour les voyages autonomes</li><li>Étape 5 : Expériences culinaires locales</li><li>Étape 6 : Découvertes culturelles et historiques</li><li>Étape 7 : Conseils pour économiser et maximiser votre voyage</li></ul>",
+      "pro": false,
+      "created": "2026-11-09T20:56:04",
+      "file": "decouvrez-le-saarland-et-la-moselle-en-7-etapes-d92adfe003d06f0b.pdf",
+      "size": 2193,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken, Prozentzahlen, Quellen oder Zitate. Die Sprache ist korrekt und einheitlich Französisch. Es gibt keine unfertigen Texte, Platzhalter oder sinnlosen Formeln/Tabellen. Der Text ist sachlich korrekt und vermeidet Rechts-, Steuer-, Finanz- oder M",
+      "pay_url": "https://buy.stripe.com/eVq8wQ7AdctJbeC3ko2ky01",
+      "payment_link_id": "plink_1UZzoRJ5iOXkWb9VKitPipAr",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "NRW Family Trip Budget Planner & Expense Tracker",
+      "slug": "nrw-family-trip-budget-planner-expense-tracker",
+      "price_eur": 9,
+      "target": "Families planning trips in NRW (Cologne, Düsseldorf, Ruhr area), who want to keep track of their travel expenses efficiently.",
+      "reason": "Families traveling to NRW often struggle to keep track of their expenses and manage their budget effectively. This template provides a structured way to plan, track, and analyze trip expenses, ensuring families can focus on enjoying their trip without financial stress.",
+      "language": "en",
+      "pitch": "Plan your family trip to NRW with ease. Track expenses, manage budgets, and stay organized with this professional Excel template.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps families plan and track their trips to NRW, ensuring they stay within budget and enjoy their travels stress-free. It includes detailed expense tracking, categorized budgeting, and visual summaries to help you manage your trip finances effectively.</p>",
+      "pro": true,
+      "created": "2026-11-09T20:56:04",
+      "file": "nrw-family-trip-budget-planner-expense-tracker-c8b0d8fe89cd01bb.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist klar, rechtlich, sachlich und frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Beispielrechnungen sind plausibel und markiert. Keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/14A6oI4o12T982q1cg2ky02",
+      "payment_link_id": "plink_1UZzoSJ5iOXkWb9VYW27qHtR",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bavarian Alps Family Adventures: 7 Unique Day Trips for Kids & Parents",
+      "slug": "bavarian-alps-family-adventures-day-trips",
+      "price_eur": 5,
+      "target": "families traveling to Bavaria and the Alps",
+      "reason": "Families traveling to Bavaria often struggle to find kid-friendly activities. This guide fills that gap by offering practical, stress-free day trips tailored to families, ensuring both parents and kids have a memorable experience.",
+      "language": "en",
+      "pitch": "Discover Bavaria’s hidden gems with your kids! This guide offers 7 easy, family-friendly day trips packed with fun, nature, and local culture. Perfect for stress-free travel planning!",
+      "content_html": "<h2>Contents</h2><ul><li>Introduction: Why Bavaria is Perfect for Families</li><li>Day Trip 1: Explore Neuschwanstein Castle & Surroundings</li><li>Day Trip 2: Hike the Partnach Gorge with Kids</li><li>Day Trip 3: Family Fun at Lake Tegernsee</li><li>Day Trip 4: Discover Berchtesgaden Salt Mine</li><li>Day Trip 5: Adventure in the Zugspitze Region</li><li>Day Trip 6: Visit the Toy Museum in Nuremberg</li><li>Day Trip 7: Relax in Garmisch-Partenkirchen</li><li>Tips & Tricks: Packing, Transportation, & Local Foods</li></ul>",
+      "pro": false,
+      "created": "2026-11-09T20:56:04",
+      "file": "bavarian-alps-family-adventures-day-trips-8cf30d034c6e2db4.pdf",
+      "size": 2619,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist sachlich korrekt, frei von erfundenen Statistiken oder Prozentzahlen. Es werden nur allgemein bekannte Fakten und praktische Tipps verwendet. Keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/9B64gAaMp65l2I6dZ22ky03",
+      "payment_link_id": "plink_1UZzoSJ5iOXkWb9Vwf6iKNOY",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.0014196,
-      "why": "Blog-Artikel: Bodensee (de)"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.0013859999999999999,
-      "why": "Blog-Artikel: Mosel Cochem (en)"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.00035519999999999996,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guide pratique pour des chiens heureux : 7 stratégies simples pour un quotidien harmonieux"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611787833"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Moving & Renovation Budget Planner for Families"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611805142"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Self-Sufficient Gardener's Handbook: 7 Simple Steps to Grow Your Own Food All Year Round"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611787861"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): 'choices'"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.0341172,
-      "why": "KI-Denken: Le Guide Essentiel des Alpes Bavaroises : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.0041664,
-      "why": "KI-Pruefung: Le Guide Essentiel des Alpes Bavaroises : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Essentiel des Alpes Bavaroises : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.026743199999999998,
-      "why": "KI-Denken: Ultimate North & Baltic Sea Family Trip Budget Planner"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Trip Budget Planner"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
     {
       "t": "2026-11-07T16:28:53",
       "eur": -0.027403199999999996,
@@ -14117,6 +14094,96 @@
       "t": "2026-11-09T09:51:59",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613122617"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.0362976,
+      "why": "KI-Denken: Découvrez le Saarland et la Moselle en 7 étapes : Guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.004056,
+      "why": "KI-Pruefung: Découvrez le Saarland et la Moselle en 7 étapes : Guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.16,
+      "why": "KI-Bilder: Découvrez le Saarland et la Moselle en 7 étapes : Guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.0277752,
+      "why": "KI-Denken: NRW Family Trip Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.001,
+      "why": "KI-Pruefung: NRW Family Trip Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.035756399999999994,
+      "why": "KI-Denken: Bavarian Alps Family Adventures: 7 Unique Day Trips for Kids & Parents"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.0034943999999999995,
+      "why": "KI-Pruefung: Bavarian Alps Family Adventures: 7 Unique Day Trips for Kids & Parents"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.16,
+      "why": "KI-Bilder: Bavarian Alps Family Adventures: 7 Unique Day Trips for Kids & Parents"
+    },
+    {
+      "t": "2026-11-09T21:08:53",
+      "eur": -0.0038147999999999993,
+      "why": "Audit: Découvrez le Saarland et la Moselle en 7 étapes : Guide pratique pour voyageurs "
+    },
+    {
+      "t": "2026-11-09T21:08:53",
+      "eur": -0.002196,
+      "why": "Audit: NRW Family Trip Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-11-09T21:08:53",
+      "eur": -0.0032627999999999997,
+      "why": "Audit: Bavarian Alps Family Adventures: 7 Unique Day Trips for Kids & Parents"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.0011748,
+      "why": "Blog-Artikel: Koeln Dom (fr)"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.0012371999999999997,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (de)"
+    },
+    {
+      "t": "2026-11-09T20:56:04",
+      "eur": -0.00041639999999999993,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
     }
   ],
   "alive": true,
@@ -16858,6 +16925,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-11-09T09:51:59",
       "img": true
+    },
+    {
+      "slug": "une-exploration-du-cologne-dom-chef-doeuvre-gothique-au-coeu",
+      "title": "Une Exploration du Cologne Dom : Chef-d'Œuvre Gothique au Cœur de l'Allemagne",
+      "lang": "fr",
+      "topic": "Koeln Dom",
+      "created": "2026-11-09T20:56:04",
+      "img": true
+    },
+    {
+      "slug": "entdeckungsreise-ins-ruhrgebiet-das-unesco-welterbe-zollvere",
+      "title": "Entdeckungsreise ins Ruhrgebiet: Das UNESCO-Welterbe Zollverein",
+      "lang": "de",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-11-09T20:56:04",
+      "img": true
     }
   ],
   "videos": [
@@ -18259,6 +18342,16 @@
       "hashtags": "#Saarschleife #Saarland #NaturalezaAlemana #Senderismo #PaisajesIncreíbles",
       "voice": "En el corazón del Saarland, la Saarschleife te espera. Este espectáculo natural es algo que no te puedes perder. Con su curva única del río Saar, rodeada de bosques frondosos, es un paraíso para los amantes de la naturaleza. Ideal para caminar, relajarse y dejarse llevar por la belleza del paisaje. ¡Descubre este rincón mágico de Alemania y déjate inspirar por su encanto!",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "entdeckungsreise-ins-ruhrgebiet-das-unesco-welterbe-zollvere",
+      "title": "Entdeckungsreise ins Ruhrgebiet: Das UNESCO-Welterbe Zollverein",
+      "lang": "de",
+      "created": "2026-11-09T20:56:04",
+      "hashtags": "#Zollverein #Ruhrgebiet #Industriekultur #UNESCO #DeutschlandErleben",
+      "voice": "Willkommen im Herzen des Ruhrgebiets – der Zeche Zollverein! Dieses UNESCO-Weltkulturerbe steht für eine bewegte Geschichte und einen beeindruckenden Wandel. Wo einst Kohle gefördert wurde, erwarten euch heute Kunstausstellungen, faszinierende Architektur und grüne Oasen. Ein Ort, der Industriekultur lebendig macht und zeigt, wie aus Vergangenheit Zukunft wird. Lasst euch von diesem einzigartigen Erlebnis begeistern!",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
