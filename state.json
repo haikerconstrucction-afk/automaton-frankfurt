@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 397.5063,
-  "spent_eur": 107.164,
+  "balance_eur": 396.5396,
+  "spent_eur": 108.1307,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8153,7 +8153,10 @@
       "audit_note": "Keine erfundenen Zahlen oder Statistiken, keine Regelverstöße erkennbar. Das Produkt ist ein funktionales Excel-Tool ohne falsche Behauptungen oder Beratung.",
       "pay_url": "https://buy.stripe.com/4gMbJ22fTdxNciG9IM2kx0P",
       "payment_link_id": "plink_1UT01sJ5iOXkWb9VWztXM2QD",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4612936095"
+      }
     },
     {
       "type": "ebook",
@@ -8177,7 +8180,10 @@
       "audit_note": "Der Inhalt enthält keine erfundenen Studien, Statistiken oder Quellen. Es gibt keine falschen oder gemischten Sprachen, Platzhalter oder unfertigen Texte. Der Inhalt ist sachlich korrekt und enthält keine verbotenen Themen wie Rechts-, Steuer-, Finanz- oder medizinische Beratung, Gesundheitsversprec",
       "pay_url": "https://buy.stripe.com/bJe7sM9IleBRbeC4os2kx0Q",
       "payment_link_id": "plink_1UT01tJ5iOXkWb9V2jKlGTYO",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4612951790"
+      }
     },
     {
       "type": "excel",
@@ -8201,7 +8207,10 @@
       "audit_note": "Das Produkt hält sich an die Regeln. Es enthält keine erfundenen Studien, Statistiken oder Quellen. Die Sprache ist durchgängig Französisch und es gibt keine unfertigen Texte oder Platzhalter. Die berechneten Kennzahlen sind plausibel basierend auf den Beispieldaten. Es werden keine Rechts-, Steuer-",
       "pay_url": "https://buy.stripe.com/5kQbJ2f2F79pgyW6wA2kx0R",
       "payment_link_id": "plink_1UT4cgJ5iOXkWb9VLyiOIvkW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4612936133"
+      }
     },
     {
       "type": "ebook",
@@ -12949,129 +12958,80 @@
       "pay_url": "https://buy.stripe.com/00w14o9IlctJdmK3ko2kx43",
       "payment_link_id": "plink_1UZeRAJ5iOXkWb9VafbiGTaT",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Urban Gardener's Guide: 7 Simple Steps to Grow Your Own Food in Small Spaces",
+      "slug": "urban-gardeners-guide-small-spaces",
+      "price_eur": 5,
+      "target": "Urban gardeners and self-sufficient enthusiasts, primarily women",
+      "reason": "Urban gardening is gaining popularity, especially among women looking for sustainable, healthy living solutions. This guide provides practical, easy-to-follow steps for growing food in small spaces, offering clear value for its price.",
+      "language": "en",
+      "pitch": "Turn your balcony, rooftop, or tiny backyard into a thriving garden with this practical guide. Learn how to grow fresh, organic produce even in the smallest spaces.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: Planning Your Urban Garden</li><li>Chapter 2: Choosing the Right Plants for Small Spaces</li><li>Chapter 3: Creative Container Gardening Ideas</li><li>Chapter 4: Maximizing Space with Vertical Gardening</li><li>Chapter 5: Watering and Fertilizing Tips for Urban Gardens</li><li>Chapter 6: Pest Control in Small Spaces</li><li>Chapter 7: Harvesting and Enjoying Your Homegrown Produce</li></ul>",
+      "pro": false,
+      "created": "2026-11-09T01:45:35",
+      "file": "urban-gardeners-guide-small-spaces-e2bc790d6b9323ce.pdf",
+      "size": 2139,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken oder Zahlen. Es gibt keine Gesundheitsversprechen, Rechtsberatung oder fremde Marken. Der Text ist vollständig und klar strukturiert, ohne Platzhalter oder Wiederholungen. Alles entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/28E8wQdYB1P50zYdZ22kx44",
+      "payment_link_id": "plink_1UZhnSJ5iOXkWb9VoFcz1F0T",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Contenido y ROI para YouTube",
+      "slug": "planificador-contenido-youtube",
+      "price_eur": 9,
+      "target": "Content Creators y YouTubers",
+      "reason": "Esta herramienta ofrece una solución profesional para creadores de contenido que buscan mejorar su estrategia en YouTube, permitiéndoles planificar, analizar y maximizar el ROI de sus videos de manera eficiente.",
+      "language": "es",
+      "pitch": "Maximiza el rendimiento de tu canal de YouTube con esta herramienta profesional que te permite planificar contenido y calcular el ROI de tus videos.",
+      "content_html": "<h2>Inhalt</h2><p>Herramienta completa para la planificación de contenido, análisis de rendimiento y cálculo del retorno de inversión (ROI) para creadores de contenido en YouTube.</p>",
+      "pro": true,
+      "created": "2026-11-09T01:45:35",
+      "file": "planificador-contenido-youtube-8433411dddf24517.xlsx",
+      "size": 4,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine Excel-Vorlage zur Planung und ROI-Berechnung für YouTube-Inhalte. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen der Veranschaulichung der Funktionsweise. Die Sprache ist durchgängig Spanisch",
+      "pay_url": "https://buy.stripe.com/9B67sMg6J65l5Ui3ko2kx45",
+      "payment_link_id": "plink_1UZhnTJ5iOXkWb9V5RJX4wwE",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases",
+      "slug": "guia-practica-profesores-estrategias-clases",
+      "price_eur": 5,
+      "target": "Profesores y tutores masculinos",
+      "reason": "Este eBook responde a la necesidad de los profesores de optimizar su tiempo y mejorar la efectividad de sus clases. Con estrategias prácticas y ejemplos claros, ofrece un valor claro por su precio.",
+      "language": "es",
+      "pitch": "Descubre 7 estrategias sencillas para optimizar tu tiempo y mejorar el rendimiento de tus alumnos. Simplifica tu día a día con técnicas prácticas y efectivas.",
+      "content_html": "<h2>Inhalt</h2><ol><li>Organización eficiente del tiempo</li><li>Creación de lecciones interactivas</li><li>Evaluación continua sin estrés</li><li>Técnicas de motivación para alumnos</li><li>Herramientas digitales esenciales</li><li>Gestión del aula sin conflictos</li><li>Mejora continua y feedback</li></ol>",
+      "pro": false,
+      "created": "2026-11-09T01:45:35",
+      "file": "guia-practica-profesores-estrategias-clases-e049f8224fa1e7d7.pdf",
+      "size": 1765,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 5,
+      "audit_note": "Erfundene Prozentzahl ('30%') ohne allgemein bekannte Grundlage. Regelverstoß: Keine erfundenen Zahlen oder Statistiken.",
+      "retired": true,
+      "retired_why": "Erfundene Prozentzahl ('30%') ohne allgemein bekannte Grundlage. Regelverstoß: Keine erfundenen Zahlen oder Statistiken. Erfundene Zahlen: 30%"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Ad Revenue & Expense Tracker for Content Creators"
-    },
-    {
-      "t": "2026-11-06T21:39:34",
-      "eur": -0.0030096,
-      "why": "Audit: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
-    },
-    {
-      "t": "2026-11-06T21:39:34",
-      "eur": -0.003908399999999999,
-      "why": "Audit: Der kleine Gartenretter: 7 einfache Schritte zur erfolgreichen Selbstversorgung"
-    },
-    {
-      "t": "2026-11-06T21:39:34",
-      "eur": -0.0022692,
-      "why": "Audit: YouTube Ad Revenue & Expense Tracker for Content Creators"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.0010463999999999998,
-      "why": "Blog-Artikel: Schwarzwald (en)"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.0012059999999999998,
-      "why": "Blog-Artikel: Saarland Saarschleife (zh)"
-    },
-    {
-      "t": "2026-11-06T21:31:49",
-      "eur": -0.00035639999999999994,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.0323292,
-      "why": "KI-Denken: From Stress to Success: 7 Simple Strategies for Teachers & Tutors to Save Time and Energize Their Classrooms"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.0031319999999999994,
-      "why": "KI-Pruefung: From Stress to Success: 7 Simple Strategies for Teachers & Tutors to Save Time and Energize Their Classrooms"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.16,
-      "why": "KI-Bilder: From Stress to Success: 7 Simple Strategies for Teachers & Tutors to Save Time and Energize Their Classrooms"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.026794799999999997,
-      "why": "KI-Denken: Control de Gastos y Presupuesto para Cuidadores de Ancianos"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.0013008,
-      "why": "KI-Pruefung: Control de Gastos y Presupuesto para Cuidadores de Ancianos"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.033002399999999994,
-      "why": "KI-Denken: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.0037283999999999998,
-      "why": "KI-Pruefung: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio"
-    },
-    {
-      "t": "2026-11-07T02:09:20",
-      "eur": -0.0030263999999999994,
-      "why": "Audit: From Stress to Success: 7 Simple Strategies for Teachers & Tutors to Save Time a"
-    },
-    {
-      "t": "2026-11-07T02:09:20",
-      "eur": -0.0034931999999999997,
-      "why": "Audit: Control de Gastos y Presupuesto para Cuidadores de Ancianos"
-    },
-    {
-      "t": "2026-11-07T02:09:20",
-      "eur": -0.0035291999999999997,
-      "why": "Audit: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio"
-    },
-    {
-      "t": "2026-11-07T02:09:20",
-      "eur": 0,
-      "why": "Audit entfernt: Guía definitiva para freelancers: 7 pasos para organizar y optimizar tu negocio – Enthält konkrete Prozentzahl ohne allgemein bekannte Grundlage (erfunden), Verstoß gegen die Regeln. Erfundene Zahlen: 20%"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 1 entfernt"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-11-07T01:58:17",
       "eur": 0,
@@ -13951,6 +13911,131 @@
       "t": "2026-11-08T22:10:25",
       "eur": -0.000396,
       "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.0337236,
+      "why": "KI-Denken: The Urban Gardener's Guide: 7 Simple Steps to Grow Your Own Food in Small Spaces"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.0035099999999999997,
+      "why": "KI-Pruefung: The Urban Gardener's Guide: 7 Simple Steps to Grow Your Own Food in Small Spaces"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.12,
+      "why": "KI-Bilder: The Urban Gardener's Guide: 7 Simple Steps to Grow Your Own Food in Small Spaces"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.027576,
+      "why": "KI-Denken: Planificador de Contenido y ROI para YouTube"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Planificador de Contenido y ROI para YouTube"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.0335856,
+      "why": "KI-Denken: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.0036623999999999997,
+      "why": "KI-Pruefung: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.16,
+      "why": "KI-Bilder: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases"
+    },
+    {
+      "t": "2026-11-09T01:54:21",
+      "eur": -0.0032508,
+      "why": "Audit: The Urban Gardener's Guide: 7 Simple Steps to Grow Your Own Food in Small Spaces"
+    },
+    {
+      "t": "2026-11-09T01:54:21",
+      "eur": -0.0035832,
+      "why": "Audit: Planificador de Contenido y ROI para YouTube"
+    },
+    {
+      "t": "2026-11-09T01:54:21",
+      "eur": -0.0034739999999999997,
+      "why": "Audit: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases"
+    },
+    {
+      "t": "2026-11-09T01:54:21",
+      "eur": 0,
+      "why": "Audit entfernt: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases – Erfundene Prozentzahl ('30%') ohne allgemein bekannte Grundlage. Regelverstoß: Keine erfundenen Zahlen oder Statistiken. Erfundene Zahlen: 30%"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 1 entfernt"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.0012347999999999999,
+      "why": "Blog-Artikel: Eifel Maare (fr)"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.001638,
+      "why": "Blog-Artikel: Rheingau Weinberge (de)"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.00037799999999999997,
+      "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能NRW城市探索预算追踪与行程规划器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612936095"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612951790"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord: Suivi de Budget & Itinéraire"
+    },
+    {
+      "t": "2026-11-09T01:45:35",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612936133"
     }
   ],
   "alive": true,
@@ -16659,6 +16744,22 @@
       "lang": "es",
       "topic": "Muenchen Marienplatz",
       "created": "2026-11-08T22:10:25",
+      "img": true
+    },
+    {
+      "slug": "les-maars-de-l-eifel-joyaux-volcaniques-allemagne",
+      "title": "Les Maars de l'Eifel : Découvrez ces joyaux volcaniques en Allemagne",
+      "lang": "fr",
+      "topic": "Eifel Maare",
+      "created": "2026-11-09T01:45:35",
+      "img": true
+    },
+    {
+      "slug": "rheingau-weinberge-weingenuss-mit-flussblick",
+      "title": "Rheingau Weinberge: Weingenuss mit Flussblick",
+      "lang": "de",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-11-09T01:45:35",
       "img": true
     }
   ],
