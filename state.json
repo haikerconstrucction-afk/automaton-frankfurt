@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 396.5396,
-  "spent_eur": 108.1307,
+  "balance_eur": 395.7179,
+  "spent_eur": 108.9524,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8234,7 +8234,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder falschen Angaben. Die Texte sind vollständig und korrekt in französischer Sprache verfasst. Der Guide bietet praktische Reisetipps ohne unzulässige Gesundheits-, Rechts- oder Finanzberatung.",
       "pay_url": "https://buy.stripe.com/fZu5kEdYB8dt4Qe3ko2kx0S",
       "payment_link_id": "plink_1UT4chJ5iOXkWb9VXau7AsnW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4613122581"
+      }
     },
     {
       "type": "excel",
@@ -8258,7 +8261,10 @@
       "audit_note": "Das Produkt ist ein funktionierender Budget-Planer und Ausgaben-Tracker für Familienreisen nach Berlin und Potsdam. Es enthält keine erfundenen Studien, Statistiken oder fragwürdige Behauptungen. Die Funktionen sind klar beschrieben und die Beispielrechnungen sind plausibel. Keine Verstöße gegen die",
       "pay_url": "https://buy.stripe.com/8x2eVe5s5ctJaay5sw2kx0T",
       "payment_link_id": "plink_1UT4ciJ5iOXkWb9VAI58OLPB",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4613138206"
+      }
     },
     {
       "type": "ebook",
@@ -8282,7 +8288,10 @@
       "audit_note": "Der Inhalt ist familienfreundlich, sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Tipps sind praktisch und allgemein bekannt. Keine Regelverstöße festgestellt.",
       "pay_url": "https://buy.stripe.com/4gMeVecUxctJfuS4os2kx0U",
       "payment_link_id": "plink_1UT8wvJ5iOXkWb9VrMtkXI2H",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4613122617"
+      }
     },
     {
       "type": "excel",
@@ -13029,139 +13038,81 @@
       "audit_note": "Erfundene Prozentzahl ('30%') ohne allgemein bekannte Grundlage. Regelverstoß: Keine erfundenen Zahlen oder Statistiken.",
       "retired": true,
       "retired_why": "Erfundene Prozentzahl ('30%') ohne allgemein bekannte Grundlage. Regelverstoß: Keine erfundenen Zahlen oder Statistiken. Erfundene Zahlen: 30%"
+    },
+    {
+      "type": "excel",
+      "title": "智能老年护理费用追踪与预算规划器",
+      "slug": "smart-elderly-care-expense-tracker-budget-planner",
+      "price_eur": 9,
+      "target": "Senioren und Pflegeorganisationen für Angehörige",
+      "reason": "这款模板简化了老年护理费用的记录与分析，帮助用户优化预算规划，提升财务管理效率。",
+      "language": "zh",
+      "pitch": "轻松记录护理费用，优化预算规划，提升财务管理效率。",
+      "content_html": "<h2>Inhalt</h2>这款专业的Excel模板帮助您记录护理费用，分析支出，制定合理的预算计划。",
+      "pro": true,
+      "created": "2026-11-09T09:51:59",
+      "file": "smart-elderly-care-expense-tracker-budget-planner-ea7fe562c70b90b0.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist sachlich korrekt, verwendet keine erfundenen Zahlen oder Statistiken, enthält keine Rechts-, Steuer- oder Finanzberatung und entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/14A4gAg6J79p5UiaMQ2kx46",
+      "payment_link_id": "plink_1UZpLWJ5iOXkWb9Vwkrf80qq",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能自由职业者的时间管理：7步实现高效工作与生活平衡",
+      "slug": "smart-time-management-for-freelancers",
+      "price_eur": 5,
+      "target": "自我提升需求强的自由职业者和微型企业家",
+      "reason": "自由职业者在面对多任务和自主工作时，常常感到时间不够用，本书旨在提供实用的解决方案，帮助他们高效管理时间，提升工作与生活的质量。",
+      "language": "zh",
+      "pitch": "通过7个简单步骤，轻松管理时间，提高工作效率，同时享受生活的美好。",
+      "content_html": "<h2>内容</h2> <p>在这个快节奏的数字时代，有效的时间管理不仅是成功的关键，更是保持身心健康的重要因素。本书将为你提供实用的策略和工具，帮助你在工作和生活之间找到完美的平衡。</p>",
+      "pro": false,
+      "created": "2026-11-09T09:51:59",
+      "file": "smart-time-management-for-freelancers-3ded5ebdec70f04c.pdf",
+      "size": 1783,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist sachlich korrekt und frei von erfundenen Studien, Statistiken oder konkreten Prozentzahlen. Es gibt keine eindeutigen Regelverstöße wie Gesundheitsversprechen, Finanz- oder Rechtsberatung. Der Text ist klar strukturiert und bietet praktische Tipps zur Zeitmanagement für Freiberufler.",
+      "pay_url": "https://buy.stripe.com/cNi7sM6w979pciG8EI2kx47",
+      "payment_link_id": "plink_1UZpLXJ5iOXkWb9VSjoXwepZ",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Voyage en Forêt-Noire : Budget & Activités pour Internationaux",
+      "slug": "planificateur-voyage-foret-noire",
+      "price_eur": 9,
+      "target": "Voyageurs internationaux visitant la Forêt-Noire en Allemagne",
+      "reason": "Ce planificateur offre une vue détaillée et organisée d'un voyage dans la Forêt-Noire, permettant aux voyageurs de suivre leurs dépenses et activités facilement.",
+      "language": "fr",
+      "pitch": "Organisez votre voyage dans la Forêt-Noire avec un budget précis et un suivi des activités.",
+      "content_html": "<h2>Inhalt</h2>Ce planificateur vous aide à suivre votre budget et à organiser vos activités pour un voyage inoubliable en Forêt-Noire.",
+      "pro": true,
+      "created": "2026-11-09T09:51:59",
+      "file": "planificateur-voyage-foret-noire-38399abee1eca586.xlsx",
+      "size": 14,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt enthält keine erfundenen Studien, Statistiken oder konkreten Prozentzahlen. Es bietet nützliche Funktionen zur Budgetplanung und Aktivitätsverfolgung ohne jegliche Regelverstöße. Die Beispielrechnungen sind plausibel und klar als solche gekennzeichnet.",
+      "pay_url": "https://buy.stripe.com/eVq6oIdYBbpF82q8EI2ky00",
+      "payment_link_id": "plink_1UZpLYJ5iOXkWb9VbEukILZa",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.001602,
-      "why": "Blog-Artikel: Koeln Dom (es)"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.0011879999999999998,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (fr)"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.00043199999999999993,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能旅行打包清单与预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611645617"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Etsy销售高手速成指南：7个简单步骤提升您的在线店铺流量与销售额"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611645633"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Budget & Suivi des Dépenses pour Associations Bénévoles"
-    },
-    {
-      "t": "2026-11-07T01:58:17",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4611645663"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.026489999999999996,
-      "why": "KI-Denken: Ultimate Black Forest Travel Budget & Activity Tracker for International Guests - Professional Excel Template"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget & Activity Tracker for International Guests - Professional Excel Template"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.026360399999999996,
-      "why": "KI-Denken: Schwarzwald Reisebudget-Tracker & Aktivitätsplaner für internationale Gäste"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Schwarzwald Reisebudget-Tracker & Aktivitätsplaner für internationale Gäste"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.026015999999999997,
-      "why": "KI-Denken: Schwarzwald-Reisebudget-Tracker & Aktivitäten-Planer"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Schwarzwald-Reisebudget-Tracker & Aktivitäten-Planer"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.032811599999999996,
-      "why": "KI-Denken: Das Saarland und die Mosel entdecken: 6 einzigartige Abenteuer für Reisende"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.0041928,
-      "why": "KI-Pruefung: Das Saarland und die Mosel entdecken: 6 einzigartige Abenteuer für Reisende"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.026972399999999997,
-      "why": "KI-Denken: Planificateur de Voyage en NRW : Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": -0.0012731999999999997,
-      "why": "KI-Pruefung: Planificateur de Voyage en NRW : Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-11-07T08:58:33",
-      "eur": -0.0026435999999999994,
-      "why": "Audit: Schwarzwald-Reisebudget-Tracker & Aktivitäten-Planer"
-    },
-    {
-      "t": "2026-11-07T08:58:33",
-      "eur": -0.0039564,
-      "why": "Audit: Das Saarland und die Mosel entdecken: 6 einzigartige Abenteuer für Reisende"
-    },
-    {
-      "t": "2026-11-07T08:58:33",
-      "eur": -0.0038796,
-      "why": "Audit: Planificateur de Voyage en NRW : Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-11-07T08:50:58",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
     {
       "t": "2026-11-07T08:50:58",
       "eur": 0,
@@ -14036,6 +13987,136 @@
       "t": "2026-11-09T01:45:35",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612936133"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.027431999999999998,
+      "why": "KI-Denken: 智能老年护理预算与健康追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能老年护理预算与健康追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.027494399999999995,
+      "why": "KI-Denken: 智能老年护理费用追踪与预算规划器"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能老年护理费用追踪与预算规划器"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.03176759999999999,
+      "why": "KI-Denken: 智能自由职业者的时间管理：7步实现高效工作与生活平衡"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.0035903999999999997,
+      "why": "KI-Pruefung: 智能自由职业者的时间管理：7步实现高效工作与生活平衡"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.12,
+      "why": "KI-Bilder: 智能自由职业者的时间管理：7步实现高效工作与生活平衡"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.027933599999999996,
+      "why": "KI-Denken: Planificateur de Voyage en Forêt-Noire : Budget & Activités pour Internationaux"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.0011003999999999999,
+      "why": "KI-Pruefung: Planificateur de Voyage en Forêt-Noire : Budget & Activités pour Internationaux"
+    },
+    {
+      "t": "2026-11-09T09:58:18",
+      "eur": -0.0016967999999999998,
+      "why": "Audit: 智能老年护理费用追踪与预算规划器"
+    },
+    {
+      "t": "2026-11-09T09:58:18",
+      "eur": -0.0037643999999999998,
+      "why": "Audit: 智能自由职业者的时间管理：7步实现高效工作与生活平衡"
+    },
+    {
+      "t": "2026-11-09T09:58:18",
+      "eur": -0.0018803999999999997,
+      "why": "Audit: Planificateur de Voyage en Forêt-Noire : Budget & Activités pour Internationaux"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.0012491999999999998,
+      "why": "Blog-Artikel: Schwarzwald (zh)"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.0014111999999999998,
+      "why": "Blog-Artikel: Saarland Saarschleife (es)"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.0004139999999999999,
+      "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Guide Essentiel du Rhin, Francfort et Heidelberg : Découvertes Insolites et Itinéraires Pratiques"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613122581"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Family Travel Budget Planner & Expense Tracker"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613138206"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
+    },
+    {
+      "t": "2026-11-09T09:51:59",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613122617"
     }
   ],
   "alive": true,
@@ -16761,6 +16842,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-11-09T01:45:35",
       "img": true
+    },
+    {
+      "slug": "tan-mi-de-guo-hei-sen-lin-zi-ran-yu-wen-hua-de-wan-mei-rong-",
+      "title": "探秘德国黑森林：自然与文化的完美融合",
+      "lang": "zh",
+      "topic": "Schwarzwald",
+      "created": "2026-11-09T09:51:59",
+      "img": true
+    },
+    {
+      "slug": "descubre-la-belleza-de-la-saarschleife-saarland-alemania",
+      "title": "Descubre la belleza natural de la Saarschleife en el Saarland, Alemania",
+      "lang": "es",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-11-09T09:51:59",
+      "img": true
     }
   ],
   "videos": [
@@ -18152,6 +18249,16 @@
       "hashtags": "#Marienplatz #Munich #Alemania #Baviera #Viajes",
       "voice": "Bienvenidos al Marienplatz de Múnich, el corazón vibrante de la capital bávara. Aquí, la historia cobra vida con su gloriosa arquitectura que combina estilos góticos y barrocos. No te pierdas el famoso Glockenspiel, un reloj animado que encanta a todos. Rodeado de cafés, tiendas y un ambiente lleno de tradición, este lugar es un ícono imperdible de Alemania.",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubre-la-belleza-de-la-saarschleife-saarland-alemania",
+      "title": "Descubre la belleza natural de la Saarschleife en el Saarland, Alemania",
+      "lang": "es",
+      "created": "2026-11-09T09:51:59",
+      "hashtags": "#Saarschleife #Saarland #NaturalezaAlemana #Senderismo #PaisajesIncreíbles",
+      "voice": "En el corazón del Saarland, la Saarschleife te espera. Este espectáculo natural es algo que no te puedes perder. Con su curva única del río Saar, rodeada de bosques frondosos, es un paraíso para los amantes de la naturaleza. Ideal para caminar, relajarse y dejarse llevar por la belleza del paisaje. ¡Descubre este rincón mágico de Alemania y déjate inspirar por su encanto!",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
