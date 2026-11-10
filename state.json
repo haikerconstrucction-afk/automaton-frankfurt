@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 394.5295,
-  "spent_eur": 110.1408,
+  "balance_eur": 393.5194,
+  "spent_eur": 111.1509,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8396,7 +8396,10 @@
       "audit_note": "Der Inhalt ist größtenteils unbedenklich und enthält keine offensichtlich erfundenen Zahlen, Statistiken oder Quellen. Die Erwähnung der '50-30-20-Regel' ist als allgemein bekannte Faustregel akzeptabel. Die Prozentzahlen im Auffälligkeitscheck beziehen sich auf Inhalte, die nicht im eigentlichen Te",
       "pay_url": "https://buy.stripe.com/6oU4gA2fT51h82qcUY2kx0Y",
       "payment_link_id": "plink_1UTKsTJ5iOXkWb9V5am3LKDB",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4613995339"
+      }
     },
     {
       "type": "excel",
@@ -8420,7 +8423,10 @@
       "audit_note": "Das Produkt ist ein grundsolider Excel-Planer für Training und Ernährung ohne erfundene Zahlen, unzulässige Gesundheitsversprechen oder andere Regelverstöße. Die Formeln und Beispieldaten sind plausibel und entsprechen allgemeinem Wissen. Lediglich die Beispiel-Nährwertangaben sind nicht auf Plausib",
       "pay_url": "https://buy.stripe.com/fZu14o07L51h82q5sw2kx0Z",
       "payment_link_id": "plink_1UTRCuJ5iOXkWb9VPtmTAx9i",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4614009918"
+      }
     },
     {
       "type": "ebook",
@@ -8444,7 +8450,10 @@
       "audit_note": "Das Dokument enthält praktische Tipps zur Verwaltung von Immobilien ohne erfundene Studien oder falsche Behauptungen. Die erwähnten Prozentzahlen (10-15%) sind zwar Faustregeln, sollten aber als solche gekennzeichnet werden. Der Inhalt ist hilfreich und frei von größeren Verstößen gegen die Regeln.",
       "pay_url": "https://buy.stripe.com/4gM7sMdYBeBR0zYdZ22kx10",
       "payment_link_id": "plink_1UTRCvJ5iOXkWb9VvVeHIjCV",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4613995401"
+      }
     },
     {
       "type": "excel",
@@ -13263,129 +13272,81 @@
       "pay_url": "https://buy.stripe.com/7sY14o2fTdxNeqO8EI2ky06",
       "payment_link_id": "plink_1Ua6orJ5iOXkWb9V4G8eMJiR",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Discover Dresden Like a Local: Hidden Gems & Practical Tips for Female Travelers",
+      "slug": "discover-dresden-like-a-local-hidden-gems-practical-tips-female-travelers",
+      "price_eur": 5,
+      "target": "Female travelers interested in exploring Dresden and Saxony with a focus on hidden gems and practical tips.",
+      "reason": "This product meets the needs of female travelers looking for practical, safe, and enriching travel experiences in Dresden. It provides unique insights and practical advice that are not readily available in standard travel guides.",
+      "language": "en",
+      "pitch": "This ebook offers a curated guide to Dresden’s lesser-known spots and practical advice tailored for female travelers.",
+      "content_html": "<h2>Contents</h2><ul><li>Introduction: Why Dresden?</li><li>Chapter 1: Dresden Beyond the Tourists</li><li>Chapter 2: Essential Travel Tips for Women</li><li>Chapter 3: Unique Experiences in Dresden</li><li>Chapter 4: Practical Advice for City Exploration</li><li>Chapter 5: Safety and Comfort</li><li>Chapter 6: Making the Most of Your Trip</li></ul>",
+      "pro": false,
+      "created": "2026-11-10T12:43:55",
+      "file": "discover-dresden-like-a-local-hidden-gems-practical-tips-female-travelers-003bd3d7e6395e38.pdf",
+      "size": 1554,
+      "sales": 0,
+      "score": 9,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich weitgehend an die Regeln, enthält keine erfundenen Zahlen, Statistiken oder Gesundheitsversprechen. Es gibt keine Rechts- oder Steuerberatung. Die Sprache ist durchgehend Englisch und der Text ist fertiggestellt ohne Platzhalter oder Wiederholungen. Kleinere Verbesserungen wären",
+      "pay_url": "https://buy.stripe.com/9B68wQ2fT3Xd82q7AE2ky07",
+      "payment_link_id": "plink_1UaEWEJ5iOXkWb9VYlDymiI8",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Calculadora Profesional de Presupuestos y Mediciones para Talleres",
+      "slug": "calculadora-presupuestos-mediciones-talleres",
+      "price_eur": 9,
+      "target": "Talleres de construcción y reformas",
+      "reason": "Los talleres necesitan herramientas profesionales para calcular presupuestos precisos y controlar costes en tiempo real, evitando pérdidas por cálculos manuales erróneos.",
+      "language": "es",
+      "pitch": "Herramienta todo-en-uno para calcular presupuestos, registrar mediciones y controlar costes de obra de forma profesional",
+      "content_html": "<h2>Incluye</h2><ul><li>Plantilla de presupuesto detallado</li><li>Registro de mediciones de obra</li><li>Seguimiento de costes materiales/mano de obra</li><li>Dashboard con KPIs clave</li></ul>",
+      "pro": true,
+      "created": "2026-11-10T12:43:55",
+      "file": "calculadora-presupuestos-mediciones-talleres-41946def1f84dcb7.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine funktionale Excel-Vorlage für Budgetberechnungen und Messungen in Werkstätten. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche gekennzeichnet und die Funktionalität ist plausibel. Die Sprache ist durchgängig Spanis",
+      "pay_url": "https://buy.stripe.com/eVqeVe1bPfFVbeC4os2ky08",
+      "payment_link_id": "plink_1UaEWFJ5iOXkWb9VsyTaACON",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Cuentos Mágicos para Dormir a Tus Pequeños: Aventuras Cortas para Niños de 3 a 8 Años",
+      "slug": "7-cuentos-magicos-para-dormir-ninos-3-8-anos",
+      "price_eur": 5,
+      "target": "Padres ocupados que buscan historias cortas y mágicas para contar a sus hijos antes de dormir",
+      "reason": "Este producto llena un vacío en el mercado hispanohablante ofreciendo historias originales diseñadas específicamente para el ritual nocturno, con personajes diversos que fomentan valores positivos. A diferencia de otras colecciones, estos cuentos son breves pero ricos en imaginación, perfectos para padres cansados que quieren una rutina de sueño rápida pero significativa.",
+      "language": "es",
+      "pitch": "7 historias originales y breves, diseñadas para calmar y divertir a los niños mientras fomentan su imaginación. Perfectas para crear un ritual relajante antes de dormir.",
+      "content_html": "<h2>Contenido</h2><ul><li>1. La Estrella Bailarina</li><li>2. El Dragón que Perdió su Fuego</li><li>3. El Secreto del Bosque Susurrante</li><li>4. La Nube Viajera</li><li>5. El Osito de Luna</li><li>6. La Carrera de las Tortugas Brillantes</li><li>7. El Murciélago que Quería Cantar</li></ul><p>Lea un fragmento de \"La Estrella Bailarina\": Había una vez una pequeña estrella que soñaba con bailar en lugar de solo brillar... cada noche practicaba en secreto hasta que...",
+      "pro": false,
+      "created": "2026-11-10T12:43:55",
+      "file": "7-cuentos-magicos-para-dormir-ninos-3-8-anos-2541a9ca1454fb7e.pdf",
+      "size": 1754,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Das E-Book enthält keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Die Sprache ist konsistent Spanisch und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Es gibt keine sachlichen Fehler, keine finanzielle, rechtliche oder medizinische Beratung, keine Gesundheitsver",
+      "pay_url": "https://buy.stripe.com/fZu3cwdYB51h96u5sw2ky09",
+      "payment_link_id": "plink_1UaEWGJ5iOXkWb9VgKLQS2iV",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-07T22:04:43",
-      "eur": -0.0038723999999999994,
-      "why": "Audit: Entdecke Sachsens Schätze: Der ultimative Reiseführer für Dresden und Umgebung"
-    },
-    {
-      "t": "2026-11-07T22:04:43",
-      "eur": -0.0021792,
-      "why": "Audit: Ultimate Construction Site Offer & Measurement Tracker"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.0013583999999999998,
-      "why": "Blog-Artikel: Saechsische Schweiz (fr)"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.0015587999999999997,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (de)"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.00041639999999999993,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.031849199999999994,
-      "why": "KI-Denken: Sweet Dreams: 6 Magical Bedtime Stories to Help Your Child Sleep Better"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.0036132,
-      "why": "KI-Pruefung: Sweet Dreams: 6 Magical Bedtime Stories to Help Your Child Sleep Better"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.16,
-      "why": "KI-Bilder: Sweet Dreams: 6 Magical Bedtime Stories to Help Your Child Sleep Better"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.02697,
-      "why": "KI-Denken: Planificador Profesional de Gastos de Boda"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador Profesional de Gastos de Boda"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.026758799999999996,
-      "why": "KI-Denken: Planificador de Bodas: Control de Presupuesto y Gastos"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Bodas: Control de Presupuesto y Gastos"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.0271188,
-      "why": "KI-Denken: Planificador de Presupuesto y Seguimiento de Gastos para Bodas"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.0010044,
-      "why": "KI-Pruefung: Planificador de Presupuesto y Seguimiento de Gastos para Bodas"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.032905199999999996,
-      "why": "KI-Denken: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.0040836,
-      "why": "KI-Pruefung: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.16,
-      "why": "KI-Bilder: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
-    },
-    {
-      "t": "2026-11-08T01:38:56",
-      "eur": -0.0033155999999999997,
-      "why": "Audit: Sweet Dreams: 6 Magical Bedtime Stories to Help Your Child Sleep Better"
-    },
     {
       "t": "2026-11-08T01:38:56",
       "eur": -0.0024359999999999994,
@@ -14270,6 +14231,126 @@
       "t": "2026-11-10T04:33:31",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613792690"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.0328644,
+      "why": "KI-Denken: Discover Dresden Like a Local: Hidden Gems & Practical Tips for Female Travelers"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.0034859999999999995,
+      "why": "KI-Pruefung: Discover Dresden Like a Local: Hidden Gems & Practical Tips for Female Travelers"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.16,
+      "why": "KI-Bilder: Discover Dresden Like a Local: Hidden Gems & Practical Tips for Female Travelers"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.028407599999999995,
+      "why": "KI-Denken: Calculadora Profesional de Presupuestos y Mediciones para Talleres"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.0011568,
+      "why": "KI-Pruefung: Calculadora Profesional de Presupuestos y Mediciones para Talleres"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.0361656,
+      "why": "KI-Denken: 7 Cuentos Mágicos para Dormir a Tus Pequeños: Aventuras Cortas para Niños de 3 a 8 Años"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.0042492,
+      "why": "KI-Pruefung: 7 Cuentos Mágicos para Dormir a Tus Pequeños: Aventuras Cortas para Niños de 3 a 8 Años"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.16,
+      "why": "KI-Bilder: 7 Cuentos Mágicos para Dormir a Tus Pequeños: Aventuras Cortas para Niños de 3 a 8 Años"
+    },
+    {
+      "t": "2026-11-10T12:50:58",
+      "eur": -0.0033107999999999996,
+      "why": "Audit: Discover Dresden Like a Local: Hidden Gems & Practical Tips for Female Travelers"
+    },
+    {
+      "t": "2026-11-10T12:50:58",
+      "eur": -0.0033179999999999998,
+      "why": "Audit: Calculadora Profesional de Presupuestos y Mediciones para Talleres"
+    },
+    {
+      "t": "2026-11-10T12:50:58",
+      "eur": -0.0040463999999999995,
+      "why": "Audit: 7 Cuentos Mágicos para Dormir a Tus Pequeños: Aventuras Cortas para Niños de 3 a"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.0014916,
+      "why": "Blog-Artikel: Heidelberg Altstadt (es)"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.0012288,
+      "why": "Blog-Artikel: Neuschwanstein (fr)"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.0003852,
+      "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Smart Savings Made Simple: Effortless Strategies for Household Budgeting"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613995339"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador Avanzado de Entrenamiento y Nutrición para Hombres"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614009918"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guía Práctica para Pequeños Propietarios: 7 Estrategias Simples para Gestionar 1-5 Viviendas con Éxito"
+    },
+    {
+      "t": "2026-11-10T12:43:55",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613995401"
     }
   ],
   "alive": true,
@@ -17043,6 +17124,22 @@
       "topic": "Mosel Cochem",
       "created": "2026-11-10T04:33:31",
       "img": true
+    },
+    {
+      "slug": "heidelberg-altstadt-un-rincon-encantador-en-alemania",
+      "title": "Heidelberg Altstadt: Un Rincón Encantador en Alemania",
+      "lang": "es",
+      "topic": "Heidelberg Altstadt",
+      "created": "2026-11-10T12:43:55",
+      "img": true
+    },
+    {
+      "slug": "decouverte-du-chateau-de-neuschwanstein-un-joyau-bavarois",
+      "title": "Découverte du Château de Neuschwanstein : Un Joyau Bavarois",
+      "lang": "fr",
+      "topic": "Neuschwanstein",
+      "created": "2026-11-10T12:43:55",
+      "img": true
     }
   ],
   "videos": [
@@ -18464,6 +18561,16 @@
       "hashtags": "#德国旅游 #摩泽尔河 #科赫姆城堡 #葡萄酒之路 #欧洲小镇",
       "voice": "欢迎来到德国摩泽尔河畔的明珠——科赫姆！这座童话般的小镇以巍峨的帝国城堡和蜿蜒的葡萄园闻名。漫步老城彩色房屋之间，品尝当地雷司令美酒，乘船欣赏摩泽尔河S形湾道。无论是登城堡俯瞰全景，还是在河边咖啡馆小憩，科赫姆都能让你体验最纯正的德国浪漫！",
       "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouverte-du-chateau-de-neuschwanstein-un-joyau-bavarois",
+      "title": "Découverte du Château de Neuschwanstein : Un Joyau Bavarois",
+      "lang": "fr",
+      "created": "2026-11-10T12:43:55",
+      "hashtags": "#Neuschwanstein #Bavière #ChâteauDeRêve #Allemagneromantique #VoyageEnEurope",
+      "voice": "Découvrez Neuschwanstein, le château de conte de fées perché dans les Alpes bavaroises ! Chef-d'œuvre du roi Louis II, ce joyau architectural vous transporte dans un monde magique. Admirez ses tours majestueuses, ses salles richement décorées et son cadre naturel époustouflant. Un incontournable qui semble tout droit sorti d'un livre d'histoires !",
+      "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
