@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 395.2773,
-  "spent_eur": 109.393,
+  "balance_eur": 394.5295,
+  "spent_eur": 110.1408,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8315,7 +8315,10 @@
       "audit_note": "Das Produkt ist ein grundsätzlich funktionaler Excel-Kosten- und Arbeitszeittracker ohne erfundene Zahlen, Statistiken oder gesundheitsbezogene Versprechen. Es gibt jedoch keine klaren Hinweise auf Beispieldaten oder eine detaillierte Plausibilitätsprüfung der Kennzahlen. Die Funktionalität ist nach",
       "pay_url": "https://buy.stripe.com/fZudRa1bP9hxaay1cg2kx0V",
       "payment_link_id": "plink_1UTEKSJ5iOXkWb9VOIAOoRYD",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4613792648"
+      }
     },
     {
       "type": "ebook",
@@ -8339,7 +8342,10 @@
       "audit_note": "Das E-Book enthält sieben kindgerechte Gute-Nacht-Geschichten ohne Verstöße gegen die vorgegebenen Regeln. Es sind keine erfundenen Statistiken, Studien oder Gesundheitsversprechen enthalten, sondern nur fantasievolle Erzählungen mit sanften Botschaften und praktischen Vorlesetipps. Die Geschichten ",
       "pay_url": "https://buy.stripe.com/eVq3cw6w951hfuSf362kx0W",
       "payment_link_id": "plink_1UTKsRJ5iOXkWb9VU8GUraDQ",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4613792672"
+      }
     },
     {
       "type": "excel",
@@ -8363,7 +8369,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen. Der Inhalt ist klar, ehrlich und frei von Rechts-, Steuer- oder Finanzberatung. Die Sprache ist korrekt, es gibt keine Platzhalter oder unfertigen Texte. Die Formeln sind plausibel und sinnvoll. Nur kleine Optimierungen möglich, aber kein klarer Reg",
       "pay_url": "https://buy.stripe.com/aFa4gA07L51h4Qe4os2kx0X",
       "payment_link_id": "plink_1UTKsSJ5iOXkWb9VCocZXGDn",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4613792690"
+      }
     },
     {
       "type": "ebook",
@@ -13182,134 +13191,81 @@
       "pay_url": "https://buy.stripe.com/9B64gAaMp65l2I6dZ22ky03",
       "payment_link_id": "plink_1UZzoSJ5iOXkWb9Vwf6iKNOY",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ostsee & Nordsee Reisebudget-Tracker & Routenplaner für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)",
+      "slug": "ostsee-nordsee-reisebudget-tracker-routenplaner-selbststaendige-2026",
+      "price_eur": 9,
+      "target": "Selbstständige und Freelancer, die geschäftliche Reisen an die Ostsee und Nordsee planen",
+      "reason": "Diese Vorlage bietet Selbstständigen und Freelancern eine professionelle Möglichkeit, ihre Geschäftsreisen an die Ostsee und Nordsee zu planen und zu verwalten, mit klarer Budgetkontrolle und Routenoptimierung.",
+      "language": "de",
+      "pitch": "Planen Sie Ihre Geschäftsreisen an die Ostsee und Nordsee effizient mit dieser professionellen Excel-Vorlage, die automatisch Budget und Route optimiert.",
+      "content_html": "<h2>Inhalt</h2><p>Diese Excel-Vorlage hilft Ihnen, Ihr Reisebudget zu verwalten, Ausgaben zu kategorisieren und Ihre Route zu planen. Sie erhalten klare Einblicke in Ihre Ausgaben und können Ihre Reiseeffizienz maximieren.</p>",
+      "pro": true,
+      "created": "2026-11-10T04:33:31",
+      "file": "ostsee-nordsee-reisebudget-tracker-routenplaner-selbststaendige-2026-c16196eedb2b53dc.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produktbeschreibung ist korrekt und erfindet keine Statistiken oder Zitate. Funktionen der Excel-Vorlage sind klar beschrieben und nachvollziehbar. Beispieldaten sind plausibel und als Beispiele erkennbar. Keine Regelverstöße erkennbar.",
+      "pay_url": "https://buy.stripe.com/bJe28s9Il65l4Qe3ko2ky04",
+      "payment_link_id": "plink_1Ua6opJ5iOXkWb9VbzW1xtTE",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Entdecke Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für alle",
+      "slug": "entdecke-rhein-frankfurt-heidelberg-reisefuehrer",
+      "price_eur": 5,
+      "target": "Reisende, die Rhein, Frankfurt und Heidelberg erkunden möchten – für Familien, Solo-Reisende und Gruppen.",
+      "reason": "Reiseführer zu Rhein, Frankfurt und Heidelberg sind gefragt, aber viele sind zu allgemein oder unübersichtlich. Dieser Guide bietet praktische Schritte und Insider-Tipps für eine unvergessliche Reise.",
+      "language": "de",
+      "pitch": "Ein praktischer Guide mit Insider-Tipps, leicht verständlichen Routen und konkreten Empfehlungen für eine unvergessliche Reise.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einleitung: Warum Rhein, Frankfurt und Heidelberg?</li><li>Die besten Sehenswürdigkeiten entlang des Rheins</li><li>Frankfurt entdecken: Moderne Stadt mit historischem Kern</li><li>Heidelberg: Romantik und Geschichte</li><li>Praktische Tipps für die Planung</li><li>Kulinarische Highlights der Region</li></ul>",
+      "pro": false,
+      "created": "2026-11-10T04:33:31",
+      "file": "entdecke-rhein-frankfurt-heidelberg-reisefuehrer-c1d15ea859474924.pdf",
+      "size": 1678,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Zitate gefunden. Keine Regelverstöße. Der Inhalt ist klar, informativ und entspricht den Vorgaben.",
+      "pay_url": "https://buy.stripe.com/00wdRa1bPfFV5UibQU2ky05",
+      "payment_link_id": "plink_1Ua6oqJ5iOXkWb9VldzLlbdO",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women",
+      "slug": "berlin-potsdam-travel-budget-planner-itinerary-tracker-women",
+      "price_eur": 9,
+      "target": "Female travelers planning a trip to Berlin and Potsdam who want to track their itinerary and manage expenses",
+      "reason": "Many women travelers seek tools to help them safely and comfortably explore new cities while maintaining financial control. This planner addresses specific needs like tracking spending by category, organizing daily activities with time slots, and noting important safety information - all in a professional format.",
+      "language": "en",
+      "pitch": "Professional budget and itinerary tracker to organize your Berlin & Potsdam trip with ease - designed for women travelers to maximize their experience while staying on budget",
+      "content_html": "<h2>Contents</h2><p>1. Budget tracker by category (accommodation, food, activities)</p><p>2. Daily itinerary planner</p><p>3. Sightseeing checklist</p><p>4. Expense dashboard with KPIs</p>",
+      "pro": true,
+      "created": "2026-11-10T04:33:31",
+      "file": "berlin-potsdam-travel-budget-planner-itinerary-tracker-women-c4089ba7129bd5ef.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt enthält keine erfunden Studien, Statistiken oder Prozentzahlen. Alle Inhalte sind klar und sachlich, keine Gesundheitsversprechen, Rechts- oder Finanzberatung. Die Beispieldaten sind plausibel und markiert. Lediglich die Sprachmischung im Dashboard-Titel (teilweise deutsch) ist ein klein",
+      "pay_url": "https://buy.stripe.com/7sY14o2fTdxNeqO8EI2ky06",
+      "payment_link_id": "plink_1Ua6orJ5iOXkWb9V4G8eMJiR",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.027403199999999996,
-      "why": "KI-Denken: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.0015083999999999998,
-      "why": "KI-Pruefung: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.0325272,
-      "why": "KI-Denken: Discover Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.0034476,
-      "why": "KI-Pruefung: Discover Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.16,
-      "why": "KI-Bilder: Discover Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-11-07T16:41:33",
-      "eur": -0.0038352,
-      "why": "Audit: Le Guide Essentiel des Alpes Bavaroises : 7 Itinéraires Incontournables pour Déc"
-    },
-    {
-      "t": "2026-11-07T16:41:33",
-      "eur": -0.0027624,
-      "why": "Audit: Ultimate North & Baltic Sea Family Travel Budget Planner & Route Organizer"
-    },
-    {
-      "t": "2026-11-07T16:41:33",
-      "eur": -0.0031188,
-      "why": "Audit: Discover Rhine, Frankfurt & Heidelberg: A Family-Friendly Travel Guide"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.0011447999999999999,
-      "why": "Blog-Artikel: Heidelberg Altstadt (zh)"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.0013691999999999999,
-      "why": "Blog-Artikel: Neuschwanstein (es)"
-    },
-    {
-      "t": "2026-11-07T16:28:53",
-      "eur": -0.00042119999999999994,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.027105599999999997,
-      "why": "KI-Denken: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.0011639999999999999,
-      "why": "KI-Pruefung: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.033108,
-      "why": "KI-Denken: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.0041963999999999994,
-      "why": "KI-Pruefung: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): E-Book zu kurz (1465 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.0330648,
-      "why": "KI-Denken: Entdecke Sachsens Schätze: Der ultimative Reiseführer für Dresden und Umgebung"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.004068,
-      "why": "KI-Pruefung: Entdecke Sachsens Schätze: Der ultimative Reiseführer für Dresden und Umgebung"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.026929199999999997,
-      "why": "KI-Denken: Ultimate Construction Site Offer & Measurement Tracker"
-    },
-    {
-      "t": "2026-11-07T21:54:54",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Construction Site Offer & Measurement Tracker"
-    },
-    {
-      "t": "2026-11-07T22:04:43",
-      "eur": -0.0018443999999999997,
-      "why": "Audit: Berlin & Potsdam Reisebudget-Tracker & Itinerary-Planer"
-    },
     {
       "t": "2026-11-07T22:04:43",
       "eur": -0.0038723999999999994,
@@ -14184,6 +14140,136 @@
       "t": "2026-11-09T20:56:04",
       "eur": -0.00041639999999999993,
       "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.0283092,
+      "why": "KI-Denken: Ostsee & Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.0012143999999999998,
+      "why": "KI-Pruefung: Ostsee & Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.028376399999999996,
+      "why": "KI-Denken: Ostsee & Nordsee Reisebudget-Tracker & Routenplaner für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.0013716,
+      "why": "KI-Pruefung: Ostsee & Nordsee Reisebudget-Tracker & Routenplaner für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.034378799999999994,
+      "why": "KI-Denken: Entdecke Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für alle"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.0040571999999999995,
+      "why": "KI-Pruefung: Entdecke Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für alle"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.04,
+      "why": "KI-Bilder: Entdecke Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für alle"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.028069199999999996,
+      "why": "KI-Denken: Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-11-10T04:37:44",
+      "eur": -0.0030816,
+      "why": "Audit: Ostsee & Nordsee Reisebudget-Tracker & Routenplaner für Selbstständige: Professi"
+    },
+    {
+      "t": "2026-11-10T04:37:44",
+      "eur": -0.0038183999999999996,
+      "why": "Audit: Entdecke Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für alle"
+    },
+    {
+      "t": "2026-11-10T04:37:44",
+      "eur": -0.0013331999999999999,
+      "why": "Audit: Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.0011531999999999998,
+      "why": "Blog-Artikel: Bodensee (en)"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.0011124,
+      "why": "Blog-Artikel: Mosel Cochem (zh)"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.00035279999999999996,
+      "why": "Video-Skript: Mosel Cochem"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613792648"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613792672"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Wedding Vendor Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-11-10T04:33:31",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613792690"
     }
   ],
   "alive": true,
@@ -16941,6 +17027,22 @@
       "topic": "Ruhrgebiet Zollverein",
       "created": "2026-11-09T20:56:04",
       "img": true
+    },
+    {
+      "slug": "discover-the-beauty-of-lake-constance-travel-guide",
+      "title": "Discover the Beauty of Lake Constance: A Travel Guide",
+      "lang": "en",
+      "topic": "Bodensee",
+      "created": "2026-11-10T04:33:31",
+      "img": true
+    },
+    {
+      "slug": "mosel-cochem-deutschland-reiseblog",
+      "title": "探索德国摩泽尔河谷的明珠：科赫姆",
+      "lang": "zh",
+      "topic": "Mosel Cochem",
+      "created": "2026-11-10T04:33:31",
+      "img": true
     }
   ],
   "videos": [
@@ -18352,6 +18454,16 @@
       "hashtags": "#Zollverein #Ruhrgebiet #Industriekultur #UNESCO #DeutschlandErleben",
       "voice": "Willkommen im Herzen des Ruhrgebiets – der Zeche Zollverein! Dieses UNESCO-Weltkulturerbe steht für eine bewegte Geschichte und einen beeindruckenden Wandel. Wo einst Kohle gefördert wurde, erwarten euch heute Kunstausstellungen, faszinierende Architektur und grüne Oasen. Ein Ort, der Industriekultur lebendig macht und zeigt, wie aus Vergangenheit Zukunft wird. Lasst euch von diesem einzigartigen Erlebnis begeistern!",
       "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "mosel-cochem-deutschland-reiseblog",
+      "title": "探索德国摩泽尔河谷的明珠：科赫姆",
+      "lang": "zh",
+      "created": "2026-11-10T04:33:31",
+      "hashtags": "#德国旅游 #摩泽尔河 #科赫姆城堡 #葡萄酒之路 #欧洲小镇",
+      "voice": "欢迎来到德国摩泽尔河畔的明珠——科赫姆！这座童话般的小镇以巍峨的帝国城堡和蜿蜒的葡萄园闻名。漫步老城彩色房屋之间，品尝当地雷司令美酒，乘船欣赏摩泽尔河S形湾道。无论是登城堡俯瞰全景，还是在河边咖啡馆小憩，科赫姆都能让你体验最纯正的德国浪漫！",
+      "credits": "Foto: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons; Foto: Rolf Kranz, CC BY-SA 4.0, via Wikimedia Commons; Foto: photographer: Sgt. Charles E. Mace, U.S. Army, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
