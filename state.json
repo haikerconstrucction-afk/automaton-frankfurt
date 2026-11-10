@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 393.5194,
-  "spent_eur": 111.1509,
+  "balance_eur": 393.2184,
+  "spent_eur": 111.4519,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -13344,114 +13344,81 @@
       "pay_url": "https://buy.stripe.com/fZu3cwdYB51h96u5sw2ky09",
       "payment_link_id": "plink_1UaEWGJ5iOXkWb9VgKLQS2iV",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能婚礼全面预算规划器 - 2026专业版",
+      "slug": "smart-wedding-budget-planner-2026",
+      "price_eur": 15,
+      "target": "正在筹备婚礼的新人",
+      "reason": "当前市场上缺乏专门针对中文用户的专业婚礼预算规划工具，这款Excel模板提供了全面的预算跟踪、供应商管理、任务倒计时等功能，能有效帮助新人规划婚礼预算，避免超支，确保婚礼顺利筹备。",
+      "language": "zh",
+      "pitch": "专业级的婚礼预算规划工具，帮助您掌控每一项支出，避免超支，完美规划您的2026婚礼",
+      "content_html": "<h2>内容</h2><p>这款专业的婚礼预算规划器包含所有必要的预算跟踪功能，从场地预订到花艺设计，确保您在筹备过程中不会遗漏任何细节。</p>",
+      "pro": true,
+      "created": "2026-11-10T20:51:24",
+      "file": "smart-wedding-budget-planner-2026-f0af9b3eb03bda20.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt ist klar strukturiert, enthält keine erfundenen Zahlen oder Statistiken und bietet praktische Hilfestellungen ohne gegen die Regeln zu verstoßen.",
+      "pay_url": "https://buy.stripe.com/7sY00k9Il79p6YmdZ22ky0a",
+      "payment_link_id": "plink_1UaM4NJ5iOXkWb9VjtW8NIt1",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "轻松省钱：7个实用技巧帮你日常省钱",
+      "slug": "qingsong-shengqian-7-ge-shiyong-jiqiao-bang-ni-richang-shengqian",
+      "price_eur": 5,
+      "target": "希望节省开支但不知从何开始的普通家庭",
+      "reason": "这个主题针对华语市场普通家庭的省钱需求，提供实用易行的建议而没有复杂的投资建议，符合目标市场定位。内容完全以中文呈现，符合语言要求，且都是常见的生活智慧而非原创研究数据。",
+      "language": "zh",
+      "pitch": "无需牺牲生活质量，轻松实现每月节省20%家庭开支。7个实用技巧带你掌握简单有效的省錢方法。",
+      "content_html": "<h2>内容</h2><ol><li>了解你的金钱流向</li><li>聪明购物8法则</li><li>水电煤气节省小妙招</li><li>健康饮食不昂贵</li><li>娱乐休闲省钱方案</li><li>交通工具优化选择</li><li>建立自动储蓄系统</li><li>（附赠）家庭月预算表模板</li></ol>",
+      "pro": false,
+      "created": "2026-11-10T20:51:24",
+      "file": "qingsong-shengqian-7-ge-shiyong-jiqiao-bang-ni-richang-shengqian-d0dadfdd9362e134.pdf",
+      "size": 1580,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist allgemein gehalten und enthält keine spezifischen Prozentzahlen oder erfundenen Statistiken. Die Tipps sind praktisch und nachvollziehbar, ohne gegen die Regeln zu verstoßen.",
+      "pay_url": "https://buy.stripe.com/5kQbJ2aMp0L1fuS9IM2ky0b",
+      "payment_link_id": "plink_1UaM4NJ5iOXkWb9VY65zQirF",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur d'Entraînement & Suivi des Progrès pour Coachs Sportifs",
+      "slug": "planificateur-entrainement-suivi-progres-coachs",
+      "price_eur": 12,
+      "target": "Coachs sportifs indépendants et entraîneurs personnels",
+      "reason": "Les coachs sportifs indépendants ont besoin d'un outil professionnel pour organiser leur activité et démontrer la valeur ajoutée à leurs clients. Cette solution complète leur fait gagner du temps tout en améliorant leur crédibilité.",
+      "language": "fr",
+      "pitch": "Optimisez la planification des séances et suivez les progrès de vos clients avec cet outil professionnel. Gagnez du temps et améliorez vos résultats.",
+      "content_html": "<h2>Contenu</h2><p>Un outil complet pour organiser les séances d'entraînement, suivre les performances et analyser les progrès de vos clients.</p>",
+      "pro": true,
+      "created": "2026-11-10T20:51:24",
+      "file": "planificateur-entrainement-suivi-progres-coachs-6a714dfb6b9e8d28.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt erfüllt die Kriterien: Keine erfundenen Zahlen oder Statistiken, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Die Excel-Kalkulationen sind nachvollziehbar und klar als Beispiele gekennzeichnet. Der Fokus liegt auf nachvollziehbaren Trainingsplanung und Fortschrittskontroll",
+      "pay_url": "https://buy.stripe.com/cNi3cwaMpfFV0zYaMQ2ky0c",
+      "payment_link_id": "plink_1UaM4OJ5iOXkWb9VjDSACMpm",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-08T01:38:56",
-      "eur": -0.0024359999999999994,
-      "why": "Audit: Planificador de Presupuesto y Seguimiento de Gastos para Bodas"
-    },
-    {
-      "t": "2026-11-08T01:38:56",
-      "eur": -0.0037428,
-      "why": "Audit: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.0012599999999999998,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (en)"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.0009792,
-      "why": "Blog-Artikel: Frankfurt Skyline (zh)"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.00034319999999999994,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Video-Fehler: No audio was received. Please verify that your parameters are correct."
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612295479"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Effektiver Unterricht in 7 Schritten: Praktische Tipps für Lehrer & Nachhilfelehrer"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612311238"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Senior Care Expense Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-11-08T01:28:14",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612295531"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.0268896,
-      "why": "KI-Denken: 智能健身计划与进度追踪器"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能健身计划与进度追踪器"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 3 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.026924399999999998,
-      "why": "KI-Denken: 智能个人健身预算与训练进度追踪器"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能个人健身预算与训练进度追踪器"
-    },
     {
       "t": "2026-11-08T09:02:53",
       "eur": -0.0320508,
@@ -14351,6 +14318,106 @@
       "t": "2026-11-10T12:43:55",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613995401"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.028931999999999996,
+      "why": "KI-Denken: 智能婚礼全面预算规划器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.0014244,
+      "why": "KI-Pruefung: 智能婚礼全面预算规划器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.0327792,
+      "why": "KI-Denken: 轻松省钱：7个实用技巧帮你日常省钱"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.0036324,
+      "why": "KI-Pruefung: 轻松省钱：7个实用技巧帮你日常省钱"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.16,
+      "why": "KI-Bilder: 轻松省钱：7个实用技巧帮你日常省钱"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.028512,
+      "why": "KI-Denken: Planificateur intelligent d'entraînement et de nutrition pour coachs sportifs"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.0010308,
+      "why": "KI-Pruefung: Planificateur intelligent d'entraînement et de nutrition pour coachs sportifs"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.028687199999999996,
+      "why": "KI-Denken: Planificateur d'Entraînement & Suivi des Progrès pour Coachs Sportifs"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.0011687999999999998,
+      "why": "KI-Pruefung: Planificateur d'Entraînement & Suivi des Progrès pour Coachs Sportifs"
+    },
+    {
+      "t": "2026-11-10T20:54:55",
+      "eur": -0.005484,
+      "why": "Audit: 智能婚礼全面预算规划器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-10T20:54:55",
+      "eur": -0.0037883999999999995,
+      "why": "Audit: 轻松省钱：7个实用技巧帮你日常省钱"
+    },
+    {
+      "t": "2026-11-10T20:54:55",
+      "eur": -0.0029112,
+      "why": "Audit: Planificateur d'Entraînement & Suivi des Progrès pour Coachs Sportifs"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.0014964,
+      "why": "Blog-Artikel: Saechsische Schweiz (de)"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.0009419999999999999,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (en)"
+    },
+    {
+      "t": "2026-11-10T20:51:24",
+      "eur": -0.0003216,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
     }
   ],
   "alive": true,
@@ -17140,6 +17207,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-11-10T12:43:55",
       "img": true
+    },
+    {
+      "slug": "saechsische-schweiz-naturwunder-wanderparadies",
+      "title": "Sächsische Schweiz: Naturwunder und Wanderparadies vor den Toren Dresdens",
+      "lang": "de",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-11-10T20:51:24",
+      "img": true
+    },
+    {
+      "slug": "ruegen-chalk-cliffs-travel-guide",
+      "title": "Discover the Stunning Chalk Cliffs of Rügen – A Complete Travel Guide",
+      "lang": "en",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-11-10T20:51:24",
+      "img": true
     }
   ],
   "videos": [
@@ -18571,6 +18654,16 @@
       "hashtags": "#Neuschwanstein #Bavière #ChâteauDeRêve #Allemagneromantique #VoyageEnEurope",
       "voice": "Découvrez Neuschwanstein, le château de conte de fées perché dans les Alpes bavaroises ! Chef-d'œuvre du roi Louis II, ce joyau architectural vous transporte dans un monde magique. Admirez ses tours majestueuses, ses salles richement décorées et son cadre naturel époustouflant. Un incontournable qui semble tout droit sorti d'un livre d'histoires !",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "ruegen-chalk-cliffs-travel-guide",
+      "title": "Discover the Stunning Chalk Cliffs of Rügen – A Complete Travel Guide",
+      "lang": "en",
+      "created": "2026-11-10T20:51:24",
+      "hashtags": "#Rügen #Kreidefelsen #BalticSea #GermanyTravel #NatureWonders",
+      "voice": "Witness the magic of Rügen's Kreidefelsen! These dazzling white chalk cliffs tower over the Baltic Sea, creating a breathtaking natural spectacle. Walk along scenic trails, feel the sea breeze, and marvel at these ancient geological wonders - a true bucket-list experience in Germany's stunning island paradise!",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
