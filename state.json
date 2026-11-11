@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 393.2184,
-  "spent_eur": 111.4519,
+  "balance_eur": 392.4391,
+  "spent_eur": 112.2312,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8477,7 +8477,10 @@
       "audit_note": "Produkt entspricht den Regeln. Es werden keine erfundenen Studien, Statistiken oder Prozentzahlen verwendet. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen nur der Veranschaulichung. Keine rechtlichen, finanziellen oder medizinischen Ratschläge enthalten. Sprache ist konsistent un",
       "pay_url": "https://buy.stripe.com/fZucN68EhfFVdmK9IM2kx11",
       "payment_link_id": "plink_1UTRCwJ5iOXkWb9VZLQx1jb1",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4614512592"
+      }
     },
     {
       "type": "ebook",
@@ -8501,7 +8504,10 @@
       "audit_note": "Der Inhalt ist gut strukturiert und bietet praktische Tipps für kleine Restaurants und Cafés. Es gibt keine erfunden Studien, Statistiken oder Prozentzahlen. Die Sprache ist korrekt und es gibt keine unfertigen Texte oder Platzhalter. Der Inhalt entspricht den Regeln und ist hilfreich für die Zielgr",
       "pay_url": "https://buy.stripe.com/eVq4gA07LalB2I6bQU2kx12",
       "payment_link_id": "plink_1UTTrFJ5iOXkWb9VwF6n7sEo",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4614512626"
+      }
     },
     {
       "type": "excel",
@@ -8525,7 +8531,10 @@
       "audit_note": "Das Produkt ist vollständig auf Französisch, es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Formeln und Tabellen sind plausibel und sinnvoll. Keine Regelverstöße wie Finanz-, Rechts- oder Steuerberatung, keine Gesundheitsversprechen oder fremde Marken. Der Inhalt ist korrekt u",
       "pay_url": "https://buy.stripe.com/6oU5kE3jX0L1dmK3ko2kx13",
       "payment_link_id": "plink_1UTTrFJ5iOXkWb9VQqU3lbcS",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4614512664"
+      }
     },
     {
       "type": "ebook",
@@ -13416,159 +13425,81 @@
       "pay_url": "https://buy.stripe.com/cNi3cwaMpfFV0zYaMQ2ky0c",
       "payment_link_id": "plink_1UaM4OJ5iOXkWb9VjDSACMpm",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Organisation Simplifiée pour Petits Propriétaires: 7 Étapes pour Gérer 1 à 5 Logements sans Stress",
+      "slug": "organisation-simplifiee-pour-petits-proprietaires",
+      "price_eur": 5,
+      "target": "Petits propriétaires avec 1 à 5 logements à louer",
+      "reason": "Ce livre répond à un besoin clair des petits propriétaires qui cherchent à simplifier leur gestion quotidienne. Les conseils pratiques et les outils proposés offrent une valeur tangible pour un prix accessible.",
+      "language": "fr",
+      "pitch": "Découvrez une méthode simple et efficace pour organiser et gérer vos logements en location. Gagnez du temps et réduisez le stress grâce à des conseils pratiques et des outils faciles à utiliser.",
+      "content_html": "<h2>Contenu</h2>Ce livre vous guide étape par étape pour optimiser la gestion de vos logements. Vous apprendrez à organiser vos documents, à gérer vos locataires et à maximiser vos revenus sans vous sentir dépassé.",
+      "pro": false,
+      "created": "2026-11-11T01:58:10",
+      "file": "organisation-simplifiee-pour-petits-proprietaires-2b821e85cf465f12.pdf",
+      "size": 1717,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Einige Prozentzahlen wirken erfunden oder nicht belegt, aber der Großteil des Inhalts ist nützlich und regelkonform. Die genannten Zahlen sollten entfernt oder durch allgemein bekannte Faustregeln ersetzt werden.",
+      "pay_url": "https://buy.stripe.com/fZu4gA1bP3Xd5UidZ22ky0d",
+      "payment_link_id": "plink_1UaQxsJ5iOXkWb9VBvlt3Tps",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Exam Prep Budget & Study Time Tracker",
+      "slug": "ultimate-exam-prep-budget-study-time-tracker",
+      "price_eur": 9,
+      "target": "University students preparing for exams who need to track study time and expenses",
+      "reason": "Students need a comprehensive tool to track both time and money invested in exam preparation, with insights to optimize their study strategy.",
+      "language": "en",
+      "pitch": "Track study hours, materials costs, and progress in one place. Optimize your exam preparation with smart budgeting and time management.",
+      "content_html": "<h2>Content</h2><p>Comprehensive exam preparation tracker with study schedule, material costs, and progress monitoring</p>",
+      "pro": true,
+      "created": "2026-11-11T01:58:10",
+      "file": "ultimate-exam-prep-budget-study-time-tracker-a10f97a3df2c274a.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Produkt entspricht den Regeln. Enthält keine erfundenen Studien, Statistiken oder Quellen, keine Rechts-/Finanzberatung und keine Gesundheitsversprechen. Formeln sind funktional und nachvollziehbar. Beispieldaten sind klar als solche erkennbar.",
+      "pay_url": "https://buy.stripe.com/8x2dRa07LbpF5Ui8EI2ky0e",
+      "payment_link_id": "plink_1UaQxtJ5iOXkWb9VJSiSgVOf",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Family-Friendly Restaurant Playbook: 7 Simple Steps to Attract More Families and Boost Your Revenue",
+      "slug": "family-friendly-restaurant-playbook",
+      "price_eur": 5,
+      "target": "Small restaurant and cafe owners looking to attract more family customers",
+      "reason": "Most small restaurants overlook the family market, yet it offers reliable repeat business. This guide provides actionable, low-cost strategies specifically for independent eateries to attract this valuable demographic without compromising their existing ambiance or menu integrity.",
+      "language": "en",
+      "pitch": "Discover proven strategies to create a welcoming environment for families while increasing your profits. Practical tips you can implement immediately without big investments.",
+      "content_html": "<h2>Content</h2><ul><li>Chapter 1: Why Families Are Your Best Customers</li><li>Chapter 2: Creating a Kid-Friendly Space (Without Losing Your Style)</li><li>Chapter 3: Menu Magic for All Ages</li><li>Chapter 4: Entertainment That Keeps Kids Happy (And Parents Relaxed)</li><li>Chapter 5: Smart Pricing Strategies for Family Meals</li><li>Chapter 6: Marketing That Reaches Busy Parents</li><li>Chapter 7: Turning First-Time Visitors Into Regulars</li></ul><p>Sample: See how simple changes to your high chairs can make parents 3x more likely to return...</p>",
+      "pro": false,
+      "created": "2026-11-11T01:58:10",
+      "file": "family-friendly-restaurant-playbook-52b7780ef2e47c61.pdf",
+      "size": 1975,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist im Allgemeinen solide und bietet praktische Ratschläge ohne klare Regelverstöße. Die Prozentzahl '10%' ist auffällig und könnte als erfunden angesehen werden, da keine Quelle angegeben ist. Ansonsten gibt es keine erfundenen Statistiken oder Studien, keine Rechts-/Finanzberatung und k",
+      "pay_url": "https://buy.stripe.com/6oUcN6aMpfFV3Ma4os2ky0f",
+      "payment_link_id": "plink_1UaQxtJ5iOXkWb9VVfJjPHgp",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.0320508,
-      "why": "KI-Denken: 智能房东简化指南：7个简单步骤轻松管理1-5套出租房"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.0036443999999999995,
-      "why": "KI-Pruefung: 智能房东简化指南：7个简单步骤轻松管理1-5套出租房"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.16,
-      "why": "KI-Bilder: 智能房东简化指南：7个简单步骤轻松管理1-5套出租房"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.026990399999999998,
-      "why": "KI-Denken: Planificateur de Révisions & Suivi des Progrès pour Étudiants"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Révisions & Suivi des Progrès pour Étudiants"
-    },
-    {
-      "t": "2026-11-08T09:06:51",
-      "eur": -0.002136,
-      "why": "Audit: 智能个人健身预算与训练进度追踪器"
-    },
-    {
-      "t": "2026-11-08T09:06:51",
-      "eur": -0.003792,
-      "why": "Audit: 智能房东简化指南：7个简单步骤轻松管理1-5套出租房"
-    },
-    {
-      "t": "2026-11-08T09:06:51",
-      "eur": -0.0021923999999999997,
-      "why": "Audit: Planificateur de Révisions & Suivi des Progrès pour Étudiants"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.0016187999999999999,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (es)"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.0012024,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (fr)"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.00038879999999999996,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Stress-Free Freelancer's Guide: 7 Simple Steps to Balance Work & Life"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612441080"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Presupuesto y Ruta para el Bosque Negro: Tracker Profesional para Viajeros Masculinos"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612441092"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guía Práctica para Descubrir el Saarland y la Mosela: Ritmos y Sabores Alemanes"
-    },
-    {
-      "t": "2026-11-08T09:02:53",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612425181"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.0324264,
-      "why": "KI-Denken: Le Guide Pratique pour Petits Restaurants et Cafés : 7 Stratégies Simples pour Attirer Plus de Clients"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.0039228,
-      "why": "KI-Pruefung: Le Guide Pratique pour Petits Restaurants et Cafés : 7 Stratégies Simples pour Attirer Plus de Clients"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.16,
-      "why": "KI-Bilder: Le Guide Pratique pour Petits Restaurants et Cafés : 7 Stratégies Simples pour Attirer Plus de Clients"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.027056399999999998,
-      "why": "KI-Denken: Ultimate Family Travel Expense Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): 'choices'"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.027464399999999996,
-      "why": "KI-Denken: Ultimate Family Travel Budget & Packing List Tracker"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.0010896,
-      "why": "KI-Pruefung: Ultimate Family Travel Budget & Packing List Tracker"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.03443759999999999,
-      "why": "KI-Denken: The Etsy Seller's Quick-Win Guide: 7 Simple Steps to Boost Visibility & Sales"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.0034487999999999997,
-      "why": "KI-Pruefung: The Etsy Seller's Quick-Win Guide: 7 Simple Steps to Boost Visibility & Sales"
-    },
     {
       "t": "2026-11-08T16:42:40",
       "eur": -0.16,
@@ -14418,6 +14349,161 @@
       "t": "2026-11-10T20:51:24",
       "eur": -0.0003216,
       "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.0350388,
+      "why": "KI-Denken: Organisation Simplifiée pour Petits Propriétaires: 7 Étapes pour Gérer 1 à 5 Logements sans Stress"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.004164,
+      "why": "KI-Pruefung: Organisation Simplifiée pour Petits Propriétaires: 7 Étapes pour Gérer 1 à 5 Logements sans Stress"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.028743599999999998,
+      "why": "KI-Denken: Exam Revision Tracker & Progress Planner"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.0010463999999999998,
+      "why": "KI-Pruefung: Exam Revision Tracker & Progress Planner"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 24 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.028651199999999998,
+      "why": "KI-Denken: Ultimate Exam Countdown & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Exam Countdown & Study Progress Tracker for Students"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.028232399999999998,
+      "why": "KI-Denken: Ultimate Exam Prep Budget & Progress Tracker"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Progress Tracker"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.0286824,
+      "why": "KI-Denken: Ultimate Exam Prep Budget & Study Time Tracker"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.0010391999999999999,
+      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Study Time Tracker"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.034603199999999994,
+      "why": "KI-Denken: The Family-Friendly Restaurant Playbook: 7 Simple Steps to Attract More Families and Boost Your Revenue"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.0034031999999999995,
+      "why": "KI-Pruefung: The Family-Friendly Restaurant Playbook: 7 Simple Steps to Attract More Families and Boost Your Revenue"
+    },
+    {
+      "t": "2026-11-11T02:08:27",
+      "eur": -0.0037907999999999996,
+      "why": "Audit: Organisation Simplifiée pour Petits Propriétaires: 7 Étapes pour Gérer 1 à 5 Log"
+    },
+    {
+      "t": "2026-11-11T02:08:27",
+      "eur": -0.0040476,
+      "why": "Audit: Ultimate Exam Prep Budget & Study Time Tracker"
+    },
+    {
+      "t": "2026-11-11T02:08:27",
+      "eur": -0.0032352,
+      "why": "Audit: The Family-Friendly Restaurant Playbook: 7 Simple Steps to Attract More Families"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.001248,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (zh)"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.0011879999999999998,
+      "why": "Blog-Artikel: Frankfurt Skyline (es)"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.0004139999999999999,
+      "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能考试预算与时间追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614512592"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614512626"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Voyage et Suivi de Dépenses - Modèle Professionnel"
+    },
+    {
+      "t": "2026-11-11T01:58:10",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614512664"
     }
   ],
   "alive": true,
@@ -17223,6 +17309,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-11-10T20:51:24",
       "img": true
+    },
+    {
+      "slug": "hamburg-speicherstadt",
+      "title": "汉堡仓库城：德国红砖建筑的浪漫与历史",
+      "lang": "zh",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-11-11T01:58:10",
+      "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-el-rascacielos-de-alemania",
+      "title": "Frankfurt Skyline: El Rascacielos de Alemania",
+      "lang": "es",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-11-11T01:58:10",
+      "img": true
     }
   ],
   "videos": [
@@ -18664,6 +18766,16 @@
       "hashtags": "#Rügen #Kreidefelsen #BalticSea #GermanyTravel #NatureWonders",
       "voice": "Witness the magic of Rügen's Kreidefelsen! These dazzling white chalk cliffs tower over the Baltic Sea, creating a breathtaking natural spectacle. Walk along scenic trails, feel the sea breeze, and marvel at these ancient geological wonders - a true bucket-list experience in Germany's stunning island paradise!",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "frankfurt-skyline-el-rascacielos-de-alemania",
+      "title": "Frankfurt Skyline: El Rascacielos de Alemania",
+      "lang": "es",
+      "created": "2026-11-11T01:58:10",
+      "hashtags": "#Frankfurt #Alemania #Skyline #Europa #Viajes",
+      "voice": "Bienvenidos a Frankfurt, una metrópolis vibrante que combina lo mejor de ambos mundos: rascacielos imponentes y encanto histórico. Cruzada por el río Main, esta ciudad es el epicentro financiero de Europa, pero también un paraíso cultural. Desde sus museos icónicos hasta su moderna arquitectura, Frankfurt te cautivará. ¡Ven y descubre esta joya alemana donde el pasado y el futuro se fusionan en perfecta armonía!",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
