@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 391.7265,
-  "spent_eur": 112.9438,
+  "balance_eur": 391.6046,
+  "spent_eur": 113.0657,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -13578,94 +13578,81 @@
       "pay_url": "https://buy.stripe.com/aFa5kE8Eh8dtaay08c2ky0i",
       "payment_link_id": "plink_1UaXubJ5iOXkWb9V5LBsHUls",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Busy Dog Owner's Survival Guide: 7 Simple Steps to a Happy, Well-Behaved Pup",
+      "slug": "busy-dog-owner-survival-guide",
+      "price_eur": 5,
+      "target": "Busy female dog owners who want to raise a happy, well-behaved dog without spending hours on training",
+      "reason": "This fills a gap for time-strapped dog owners who want practical, efficient solutions. Unlike lengthy training manuals, it offers realistic strategies that fit into busy schedules. The focus on small, consistent actions provides noticeable results without overwhelming the owner.",
+      "language": "en",
+      "pitch": "Struggling to balance work and dog care? This guide gives you 7 simple, time-saving strategies to raise a well-behaved pup while managing your busy schedule. Perfect for working women who want the joy of dog ownership without the stress.",
+      "content_html": "<h2>Contents</h2><ul><li>Chapter 1: The 5-Minute Morning Routine</li><li>Chapter 2: Smart Feeding Solutions</li><li>Chapter 3: Quick & Effective Training Tricks</li><li>Chapter 4: Stress-Free Grooming Hacks</li><li>Chapter 5: Keeping Your Dog Happy When You're Away</li><li>Chapter 6: The 10-Minute Evening Bonding Ritual</li><li>Chapter 7: Weekend Activities That Make Up for Weekday Absences</li></ul><h3>Sample from Chapter 3:</h3><p>Teach 'sit' while making coffee - use the waiting time to practice commands. Reward with a piece of your breakfast (dog-safe foods only). Three short 1-minute sessions work better than one long training...</p>",
+      "pro": false,
+      "created": "2026-11-11T17:55:33",
+      "file": "busy-dog-owner-survival-guide-7ed34689cd03b7fa.pdf",
+      "size": 2230,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken, Prozentzahlen oder Quellen. Es handelt sich um allgemein bekannte Praxistipps für Hundebesitzer. Die Sprache ist korrekt und konsistent, es gibt keine Platzhalter oder unfertigen Texte. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung sowi",
+      "pay_url": "https://buy.stripe.com/fZufZibQt9hx96u9IM2ky0j",
+      "payment_link_id": "plink_1Uafr4J5iOXkWb9VT5ZBmUjj",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador Profesional de Mudanza y Renovación: Presupuesto y Cronograma",
+      "slug": "planificador-mudanza-renovacion",
+      "price_eur": 12,
+      "target": "Hombres autónomos y familias que planean mudanza y reformas",
+      "reason": "Profesionales y particulares necesitan herramientas confiables para planificar mudanzas y reformas. Esta plantilla cubre todas las necesidades con un diseño profesional y fácil de usar.",
+      "language": "es",
+      "pitch": "Controla todos los gastos y plazos de tu mudanza o reforma con esta plantilla profesional. Optimiza tu presupuesto y evita sorpresas.",
+      "content_html": "<h2>Contenido</h2><p>Todo lo que necesitas para gestionar eficientemente tu mudanza o proyecto de renovación: presupuesto detallado, cronograma de tareas, checklist y análisis de costos.</p>",
+      "pro": true,
+      "created": "2026-11-11T17:55:33",
+      "file": "planificador-mudanza-renovacion-64d1fd180e60281c.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist eine Excel-Vorlage für Umzugs- und Renovierungsplanung, die keine erfundenen Studien, Statistiken oder Prozentzahlen enthält. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen nur zur Veranschaulichung der Funktionalität. Es gibt keine Rechts-, Steuer- oder Finanzbera",
+      "pay_url": "https://buy.stripe.com/4gMdRa5s565lciG08c2ky0k",
+      "payment_link_id": "plink_1Uafr4J5iOXkWb9V7Y9tDec6",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Pasos Clave para un Huerto Autosuficiente en Casa",
+      "slug": "7-pasos-huerto-autosuficiente-casa",
+      "price_eur": 7,
+      "target": "Hombres interesados en horticultura y autosuficiencia",
+      "reason": "Responde a la creciente demanda de autosuficiencia alimentaria en zonas urbanas, ofreciendo métodos prácticos adaptados al contexto latinoamericano. Combina conocimientos técnicos con soluciones low-cost que realmente funcionan.",
+      "language": "es",
+      "pitch": "Descubre cómo cultivar tus propios alimentos todo el año con métodos simples y eficaces. Este guía práctico te lleva paso a paso desde la planificación hasta la cosecha, incluso en espacios reducidos.",
+      "content_html": "<h2>Contenido</h2><ol><li>Planificación inteligente de tu huerto</li><li>Selección de cultivos ideales para principiantes</li><li>Técnicas de suelo y abono natural</li><li>Riego eficiente con bajo consumo de agua</li><li>Control de plagas con métodos orgánicos</li><li>Cosecha y preservación de tus alimentos</li><li>Rotación de cultivos para producción continua</li></ol>",
+      "pro": false,
+      "created": "2026-11-11T17:55:33",
+      "file": "7-pasos-huerto-autosuficiente-casa-651e49063c2b039c.pdf",
+      "size": 1676,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils in Ordnung, aber es gibt eine auffällige Prozentzahl (50%), die nicht belegt ist. Der Rest des Inhalts enthält allgemein bekannte Ratschläge und praktische Tipps für den Anbau eines autarken Gartens, ohne erfundene Studien oder Statistiken.",
+      "pay_url": "https://buy.stripe.com/5kQ00kg6J3Xdaayf362ky0l",
+      "payment_link_id": "plink_1Uafr5J5iOXkWb9V8cEsRNFu",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.0009132,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (zh)"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.0015936,
-      "why": "Blog-Artikel: Muenchen Marienplatz (es)"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.000396,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.0337236,
-      "why": "KI-Denken: The Urban Gardener's Guide: 7 Simple Steps to Grow Your Own Food in Small Spaces"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.0035099999999999997,
-      "why": "KI-Pruefung: The Urban Gardener's Guide: 7 Simple Steps to Grow Your Own Food in Small Spaces"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.12,
-      "why": "KI-Bilder: The Urban Gardener's Guide: 7 Simple Steps to Grow Your Own Food in Small Spaces"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.027576,
-      "why": "KI-Denken: Planificador de Contenido y ROI para YouTube"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificador de Contenido y ROI para YouTube"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.0335856,
-      "why": "KI-Denken: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.0036623999999999997,
-      "why": "KI-Pruefung: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.16,
-      "why": "KI-Bilder: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases"
-    },
-    {
-      "t": "2026-11-09T01:54:21",
-      "eur": -0.0032508,
-      "why": "Audit: The Urban Gardener's Guide: 7 Simple Steps to Grow Your Own Food in Small Spaces"
-    },
-    {
-      "t": "2026-11-09T01:54:21",
-      "eur": -0.0035832,
-      "why": "Audit: Planificador de Contenido y ROI para YouTube"
-    },
-    {
-      "t": "2026-11-09T01:54:21",
-      "eur": -0.0034739999999999997,
-      "why": "Audit: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases"
-    },
     {
       "t": "2026-11-09T01:54:21",
       "eur": 0,
@@ -14585,6 +14572,86 @@
       "t": "2026-11-11T09:29:41",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614692805"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": -0.035364,
+      "why": "KI-Denken: The Busy Dog Owner's Survival Guide: 7 Simple Steps to a Happy, Well-Behaved Pup"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": -0.0036035999999999998,
+      "why": "KI-Pruefung: The Busy Dog Owner's Survival Guide: 7 Simple Steps to a Happy, Well-Behaved Pup"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": -0.029251199999999998,
+      "why": "KI-Denken: Planificador Profesional de Mudanza y Renovación: Presupuesto y Cronograma"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": -0.0012456,
+      "why": "KI-Pruefung: Planificador Profesional de Mudanza y Renovación: Presupuesto y Cronograma"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": -0.034969200000000006,
+      "why": "KI-Denken: 7 Pasos Clave para un Huerto Autosuficiente en Casa"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": -0.004258799999999999,
+      "why": "KI-Pruefung: 7 Pasos Clave para un Huerto Autosuficiente en Casa"
+    },
+    {
+      "t": "2026-11-11T18:02:18",
+      "eur": -0.0033539999999999998,
+      "why": "Audit: The Busy Dog Owner's Survival Guide: 7 Simple Steps to a Happy, Well-Behaved Pup"
+    },
+    {
+      "t": "2026-11-11T18:02:18",
+      "eur": -0.0036228,
+      "why": "Audit: Planificador Profesional de Mudanza y Renovación: Presupuesto y Cronograma"
+    },
+    {
+      "t": "2026-11-11T18:02:18",
+      "eur": -0.0037451999999999997,
+      "why": "Audit: 7 Pasos Clave para un Huerto Autosuficiente en Casa"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": -0.0010175999999999998,
+      "why": "Blog-Artikel: Dresden Frauenkirche (en)"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": -0.0011472,
+      "why": "Blog-Artikel: Harz Brocken (zh)"
+    },
+    {
+      "t": "2026-11-11T17:55:33",
+      "eur": -0.0003372,
+      "why": "Video-Skript: Harz Brocken"
     }
   ],
   "alive": true,
@@ -17422,6 +17489,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-11-11T09:29:41",
       "img": true
+    },
+    {
+      "slug": "dresden-frauenkirche-guide",
+      "title": "Discover Dresden's Frauenkirche: A Symbol of Hope and Beauty",
+      "lang": "en",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-11-11T17:55:33",
+      "img": true
+    },
+    {
+      "slug": "harz-brocken-germany-travel-guide",
+      "title": "探秘德国哈尔茨山最高峰：布罗肯山徒步与自然奇观",
+      "lang": "zh",
+      "topic": "Harz Brocken",
+      "created": "2026-11-11T17:55:33",
+      "img": true
     }
   ],
   "videos": [
@@ -18883,6 +18966,16 @@
       "hashtags": "#BrandenburgerTor #Berlin #DeutscheGeschichte #Reiseziel #Klassizismus",
       "voice": "Das Brandenburger Tor – mehr als nur ein Bauwerk, es ist das Herz Berlins! Seit über 200 Jahren steht es als Zeichen von Frieden und Freiheit. Hier feiern Menschen, hier wird Geschichte geschrieben. Besuche diesen ikonischen Ort und spüre die Energie der Stadt. Berlin ohne das Brandenburger Tor? Unvorstellbar!",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "harz-brocken-germany-travel-guide",
+      "title": "探秘德国哈尔茨山最高峰：布罗肯山徒步与自然奇观",
+      "lang": "zh",
+      "created": "2026-11-11T17:55:33",
+      "hashtags": "#哈尔茨山 #布罗肯 #德国旅行 #徒步天堂 #自然奇观",
+      "voice": "欢迎来到德国的哈尔茨山布罗肯！这里是北德地区的最高峰，海拔1141米，以其壮丽的云海和迷人的自然景观而闻名。无论是夏季的绿意盎然，还是冬季的雪白世界，布罗肯都为游客提供了无尽的惊喜。徒步爱好者可以在这里探索多样的步道，感受大自然的魅力。此外，这里还充满了神秘的历史传说，令人心驰神往。快来体验布罗肯的独特之美吧！",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
