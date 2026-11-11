@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 392.4391,
-  "spent_eur": 112.2312,
+  "balance_eur": 391.7265,
+  "spent_eur": 112.9438,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8558,7 +8558,10 @@
       "audit_note": "Einige Prozentzahlen ohne Quellenangabe, aber ansonsten nützliche, allgemeine Praxistipps ohne schwere Verstöße gegen die Regeln.",
       "pay_url": "https://buy.stripe.com/dRmdRadYB65laaybQU2kx14",
       "payment_link_id": "plink_1UTTrGJ5iOXkWb9VmRvshrkF",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4614692773"
+      }
     },
     {
       "type": "excel",
@@ -8582,7 +8585,10 @@
       "audit_note": "Das Produkt entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder gesundheitsbezogenen Versprechen. Die Beispielrechnungen sind plausibel und klar als solche erkennbar. Der Tracker ist funktional und für den angegebenen Zweck geeignet.",
       "pay_url": "https://buy.stripe.com/6oUcN607L79pgyW3ko2kx15",
       "payment_link_id": "plink_1UTWeyJ5iOXkWb9V3YWfOCbB",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4614705702"
+      }
     },
     {
       "type": "ebook",
@@ -8606,7 +8612,10 @@
       "audit_note": "Keine klar erfundenen Zahlen oder Statistiken, keine Gesundheitsversprechen, keine Rechtsberatung oder Markenverstöße. Inhalt besteht aus allgemeinen Ratschlägen und praktischen Tipps für Hundehalter.",
       "pay_url": "https://buy.stripe.com/7sY28s1bP51hbeCf362kx16",
       "payment_link_id": "plink_1UTWezJ5iOXkWb9VT59WMBSp",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4614692805"
+      }
     },
     {
       "type": "excel",
@@ -13497,134 +13506,81 @@
       "pay_url": "https://buy.stripe.com/6oUcN6aMpfFV3Ma4os2ky0f",
       "payment_link_id": "plink_1UaQxtJ5iOXkWb9VVfJjPHgp",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimativer Reisekosten-Tracker & Packlisten-Planer für Geschäftsreisende",
+      "slug": "reisekosten-tracker-packlisten-planer-geschaeftsreisen",
+      "price_eur": 12,
+      "target": "Selbstständige und Freiberufler, die häufig Geschäftsreisen unternehmen",
+      "reason": "Geschäftsreisende benötigen eine klare Übersicht über ihre Ausgaben für die Steuererklärung und wollen nichts Wichtiges vergessen. Diese professionelle Vorlage spart Zeit und erhöht die Organisation.",
+      "language": "de",
+      "pitch": "Professionelle Excel-Vorlage zur einfachen Erfassung aller Reisekosten und Erstellung smarter Packlisten - inklusive automatischer Summenberechnung und Auswertungen.",
+      "content_html": null,
+      "pro": true,
+      "created": "2026-11-11T09:29:41",
+      "file": "reisekosten-tracker-packlisten-planer-geschaeftsreisen-c1997c421380b52f.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Statistiken oder Prozentzahlen, keine Gesundheitsversprechen, keine fremden Marken, keine Beratung. Beispieldaten sind plausibel, Formeln sinnvoll. Kleine Unstimmigkeit bei täglichen Kosten, aber nicht gravierend.",
+      "pay_url": "https://buy.stripe.com/14A14og6JeBR6Ym2gk2ky0g",
+      "payment_link_id": "plink_1UaXuZJ5iOXkWb9VPe5CA0X9",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Etsy-Erfolg in 7 Schritten: Der einfache Guide für mehr Sichtbarkeit und Verkäufe",
+      "slug": "etsy-erfolg-in-7-schritten",
+      "price_eur": 5,
+      "target": "Etsy-Verkäufer und Kleinunternehmer, die ihre Online-Shops optimieren möchten",
+      "reason": "Etsy ist eine wichtige Plattform für kleine Händler, aber viele kämpfen mit Sichtbarkeit. Dieses E-Book füllt eine Lücke im Angebot, indem es konkrete, sofort umsetzbare Tipps für den deutschen Markt bietet - ohne überwältigende Informationsflut.",
+      "language": "de",
+      "pitch": "Praktische Strategien für mehr Sichtbarkeit und Umsatz auf Etsy - ohne teure Werbung. Bewährte Methoden aus der Praxis für Einsteiger und Fortgeschrittene.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Dein Shop als Marke</li><li>Kapitel 2: Fotos, die verkaufen</li><li>Kapitel 3: Keywords, die gefunden werden</li><li>Kapitel 4: Beschreibungen, die überzeugen</li><li>Kapitel 5: Kundenbindung leicht gemacht</li><li>Kapitel 6: Social Media für Etsy-Shops</li><li>Kapitel 7: Analyse und Optimierung</li></ul><p>Leseprobe: 'Der erste Eindruck zählt - schon dein Shop-Banner sollte klar kommunizieren, was dich einzigartig macht. Nutze einfache, klare Schrift und hochwertige Bilder deiner Produkte im Kontext.'</p>",
+      "pro": false,
+      "created": "2026-11-11T09:29:41",
+      "file": "etsy-erfolg-in-7-schritten-2aba9a9953f467a2.pdf",
+      "size": 1652,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist frei von erfundenen Zahlen, Statistiken oder Prozentangaben. Es werden allgemein bekannte Praxistipps und keine spezifischen Gesundheits-, Rechts-, Finanz- oder Steuerberatungen gegeben. Der Text ist vollständig und enthält keine unfertigen Stellen oder Platzhalter. Die Sprache ist du",
+      "pay_url": "https://buy.stripe.com/00weVe9IldxN0zY1cg2ky0h",
+      "payment_link_id": "plink_1UaXuaJ5iOXkWb9VShfwv3fU",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Smart Event Budget & Volunteer Management Tracker for Clubs & Associations",
+      "slug": "event-budget-volunteer-management-tracker-associations",
+      "price_eur": 9,
+      "target": "Non-profit organizations, clubs and associations managing events with volunteers",
+      "reason": "Volunteer-based organizations lack professional tools to manage their events efficiently. This template solves the problem by combining financial tracking with volunteer management in one intuitive system, saving time and reducing organizational stress.",
+      "language": "en",
+      "pitch": "Professional all-in-one tool to plan events, track expenses and manage volunteers efficiently. Save hours of paperwork with automated calculations and clear dashboards.",
+      "content_html": "<h2>Content</h2><p>Complete solution for event planning with budget tracking, volunteer coordination and progress monitoring. Includes automatic calculations, visual reports and ready-to-print overviews.</p>",
+      "pro": true,
+      "created": "2026-11-11T09:29:41",
+      "file": "event-budget-volunteer-management-tracker-associations-b6d13418dc747de4.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Das Produkt ist ein funktionierendes Excel-Tool für Event- und Freiwilligenmanagement ohne erfundene Statistiken oder Prozentzahlen. Die Berechnungen basieren auf eingegebenen Daten und sind plausibel. Keine Verstöße gegen die Regeln erkennbar.",
+      "pay_url": "https://buy.stripe.com/aFa5kE8Eh8dtaay08c2ky0i",
+      "payment_link_id": "plink_1UaXubJ5iOXkWb9V5LBsHUls",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.16,
-      "why": "KI-Bilder: The Etsy Seller's Quick-Win Guide: 7 Simple Steps to Boost Visibility & Sales"
-    },
-    {
-      "t": "2026-11-08T16:54:52",
-      "eur": -0.0036804,
-      "why": "Audit: Le Guide Pratique pour Petits Restaurants et Cafés : 7 Stratégies Simples pour A"
-    },
-    {
-      "t": "2026-11-08T16:54:52",
-      "eur": -0.0038579999999999995,
-      "why": "Audit: Ultimate Family Travel Budget & Packing List Tracker"
-    },
-    {
-      "t": "2026-11-08T16:54:52",
-      "eur": -0.0031895999999999995,
-      "why": "Audit: The Etsy Seller's Quick-Win Guide: 7 Simple Steps to Boost Visibility & Sales"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.001308,
-      "why": "Blog-Artikel: Dresden Frauenkirche (de)"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.0014436,
-      "why": "Blog-Artikel: Harz Brocken (en)"
-    },
-    {
-      "t": "2026-11-08T16:42:40",
-      "eur": -0.0003288,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.027455999999999998,
-      "why": "KI-Denken: Vereinsfinanzplaner & Spendentracker 2026"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Vereinsfinanzplaner & Spendentracker 2026"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.027344399999999998,
-      "why": "KI-Denken: Vereinsfinanzplaner & Event-Tracker für eine transparente Verwaltung"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Vereinsfinanzplaner & Event-Tracker für eine transparente Verwaltung"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.03501719999999999,
-      "why": "KI-Denken: Hundepflege leicht gemacht: Effektive Tipps für einen entspannten Alltag"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.004134,
-      "why": "KI-Pruefung: Hundepflege leicht gemacht: Effektive Tipps für einen entspannten Alltag"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.16,
-      "why": "KI-Bilder: Hundepflege leicht gemacht: Effektive Tipps für einen entspannten Alltag"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.0272352,
-      "why": "KI-Denken: Ultimate Moving & Renovation Expense Tracker for Women"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Moving & Renovation Expense Tracker for Women"
-    },
-    {
-      "t": "2026-11-08T22:19:17",
-      "eur": -0.0025223999999999997,
-      "why": "Audit: Vereinsfinanzplaner & Event-Tracker für eine transparente Verwaltung"
-    },
-    {
-      "t": "2026-11-08T22:19:17",
-      "eur": -0.0037632,
-      "why": "Audit: Hundepflege leicht gemacht: Effektive Tipps für einen entspannten Alltag"
-    },
-    {
-      "t": "2026-11-08T22:19:17",
-      "eur": -0.0024324,
-      "why": "Audit: Ultimate Moving & Renovation Expense Tracker for Women"
-    },
-    {
-      "t": "2026-11-08T22:10:25",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
     {
       "t": "2026-11-08T22:10:25",
       "eur": 0,
@@ -14504,6 +14460,131 @@
       "t": "2026-11-11T01:58:10",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614512664"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.028463999999999996,
+      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Familien"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Familien"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.0284904,
+      "why": "KI-Denken: Ultimativer Reisekosten-Tracker & Packlisten-Planer für Geschäftsreisende"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.0010716,
+      "why": "KI-Pruefung: Ultimativer Reisekosten-Tracker & Packlisten-Planer für Geschäftsreisende"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.0362028,
+      "why": "KI-Denken: Etsy-Erfolg in 7 Schritten: Der einfache Guide für mehr Sichtbarkeit und Verkäufe"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.0042683999999999995,
+      "why": "KI-Pruefung: Etsy-Erfolg in 7 Schritten: Der einfache Guide für mehr Sichtbarkeit und Verkäufe"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.028897199999999998,
+      "why": "KI-Denken: Smart Event Budget & Volunteer Management Tracker for Clubs & Associations"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.0010164,
+      "why": "KI-Pruefung: Smart Event Budget & Volunteer Management Tracker for Clubs & Associations"
+    },
+    {
+      "t": "2026-11-11T09:33:33",
+      "eur": -0.0025476,
+      "why": "Audit: Ultimativer Reisekosten-Tracker & Packlisten-Planer für Geschäftsreisende"
+    },
+    {
+      "t": "2026-11-11T09:33:33",
+      "eur": -0.0038951999999999997,
+      "why": "Audit: Etsy-Erfolg in 7 Schritten: Der einfache Guide für mehr Sichtbarkeit und Verkäuf"
+    },
+    {
+      "t": "2026-11-11T09:33:33",
+      "eur": -0.0030791999999999994,
+      "why": "Audit: Smart Event Budget & Volunteer Management Tracker for Clubs & Associations"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.0018347999999999997,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (fr)"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.0014255999999999997,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (de)"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.00035279999999999996,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Guide Pratique pour Vendre sur Etsy: 7 Stratégies Simples pour Augmenter vos Ventes en 2026"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614692773"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Volunteer Event Budget & Donation Tracker"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614705702"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Stress-Free Dog Care: 7 Simple Steps for Busy Families"
+    },
+    {
+      "t": "2026-11-11T09:29:41",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614692805"
     }
   ],
   "alive": true,
@@ -17325,6 +17406,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-11-11T01:58:10",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-un-joyau-medieval-en-allemagne",
+      "title": "Rothenburg ob der Tauber: Un Joyau Médiéval en Allemagne",
+      "lang": "fr",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-11-11T09:29:41",
+      "img": true
+    },
+    {
+      "slug": "berlin-brandenburger-tor-ein-wahrzeichen",
+      "title": "Berlin Brandenburger Tor: Ein Wahrzeichen der Geschichte und Kultur",
+      "lang": "de",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-11-11T09:29:41",
+      "img": true
     }
   ],
   "videos": [
@@ -18776,6 +18873,16 @@
       "hashtags": "#Frankfurt #Alemania #Skyline #Europa #Viajes",
       "voice": "Bienvenidos a Frankfurt, una metrópolis vibrante que combina lo mejor de ambos mundos: rascacielos imponentes y encanto histórico. Cruzada por el río Main, esta ciudad es el epicentro financiero de Europa, pero también un paraíso cultural. Desde sus museos icónicos hasta su moderna arquitectura, Frankfurt te cautivará. ¡Ven y descubre esta joya alemana donde el pasado y el futuro se fusionan en perfecta armonía!",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "berlin-brandenburger-tor-ein-wahrzeichen",
+      "title": "Berlin Brandenburger Tor: Ein Wahrzeichen der Geschichte und Kultur",
+      "lang": "de",
+      "created": "2026-11-11T09:29:41",
+      "hashtags": "#BrandenburgerTor #Berlin #DeutscheGeschichte #Reiseziel #Klassizismus",
+      "voice": "Das Brandenburger Tor – mehr als nur ein Bauwerk, es ist das Herz Berlins! Seit über 200 Jahren steht es als Zeichen von Frieden und Freiheit. Hier feiern Menschen, hier wird Geschichte geschrieben. Besuche diesen ikonischen Ort und spüre die Energie der Stadt. Berlin ohne das Brandenburger Tor? Unvorstellbar!",
+      "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
