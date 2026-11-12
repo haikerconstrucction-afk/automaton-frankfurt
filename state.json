@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 391.6046,
-  "spent_eur": 113.0657,
+  "balance_eur": 390.8914,
+  "spent_eur": 113.7789,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8639,7 +8639,10 @@
       "audit_note": "Das Produkt entspricht den Vorgaben. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen und keine Rechts-, Steuer-, Finanz- oder Medizinberatung. Die Beispieldaten und Formeln sind plausibel und klar als solche gekennzeichnet. Die Berechnungen sind nachvollziehbar und sinnvoll.",
       "pay_url": "https://buy.stripe.com/9B67sMcUx79pbeC5sw2kx17",
       "payment_link_id": "plink_1UTWf0J5iOXkWb9VSoBizHig",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4615260709"
+      }
     },
     {
       "type": "ebook",
@@ -8663,7 +8666,10 @@
       "audit_note": "Das E-Book enthält keine erfundenen Studien, Statistiken oder falschen Behauptungen. Alle Angaben basieren auf allgemein bekannten Gartentipps und praktischen Erfahrungen. Die Inhalte sind sachlich korrekt, gut strukturiert und für Anfänger verständlich aufbereitet. Keine Regelverstöße festgestellt.",
       "pay_url": "https://buy.stripe.com/6oU5kEcUxfFV0zYbQU2kx18",
       "payment_link_id": "plink_1UTea4J5iOXkWb9Vbs7dE1i5",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4615273698"
+      }
     },
     {
       "type": "excel",
@@ -8687,7 +8693,10 @@
       "audit_note": "Das Excel-Tool ist professionell aufgebaut und erfüllt alle Kriterien. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche gekennzeichnet und funktionieren korrekt mit den vorhandenen Daten. Alle Berechnungen sind plausibel und nachvollzie",
       "pay_url": "https://buy.stripe.com/bJe4gA8EheBR3Ma6wA2kx19",
       "payment_link_id": "plink_1UTea5J5iOXkWb9V2wlEmHxL",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4615273746"
+      }
     },
     {
       "type": "ebook",
@@ -13650,129 +13659,81 @@
       "pay_url": "https://buy.stripe.com/5kQ00kg6J3Xdaayf362ky0l",
       "payment_link_id": "plink_1Uafr5J5iOXkWb9V8cEsRNFu",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "YouTube广告收入分析与预算追踪器 - 2026专业版",
+      "slug": "youtube-ad-revenue-analysis-budget-tracker-2026",
+      "price_eur": 12,
+      "target": "YouTube创作者、视频博主、内容创作者",
+      "reason": "YouTube创作者需要专业工具追踪广告收入与支出的细节，以便优化内容策略。此模板提供自动化计算和直观可视化，帮助他们做出数据驱动决策。",
+      "language": "zh",
+      "pitch": "专业级的YouTube广告收入追踪与预算规划工具，帮助您清晰了解视频表现并优化广告策略。立即掌握您的频道盈利情况！",
+      "content_html": "<h2>内容</h2><p>完整追踪广告收入、支出和分析关键指标的Excel模板，包含自动计算公式和直观图表。</p>",
+      "pro": true,
+      "created": "2026-11-12T00:47:19",
+      "file": "youtube-ad-revenue-analysis-budget-tracker-2026-49d4d1eb283da51c.xlsx",
+      "size": 12,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen festgestellt. Der Inhalt ist klar und entspricht den Regeln. Beispielrechnungen sind als solche erkennbar und allgemein bekannte Fakten werden verwendet.",
+      "pay_url": "https://buy.stripe.com/3cIbJ2aMpbpFciGf362ky0m",
+      "payment_link_id": "plink_1UamEEJ5iOXkWb9VgmwRMMXc",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "智能教学助手：7步轻松提升课堂管理效率",
+      "slug": "intelligent-teaching-assistant-7-steps-to-improve-classroom-management",
+      "price_eur": 5,
+      "target": "Teacher und Nachhilfelehrer in China, Taiwan und Singapur",
+      "reason": "Der Fokus liegt auf konkreten, praxisnahen Tipps für Lehrer und Nachhilfelehrer, die ihre Unterrichtsqualität verbessern wollen. Die klare Struktur und einfache Sprache machen das E-Book für die Zielgruppe leicht zugänglich und wertvoll.",
+      "language": "zh",
+      "pitch": "Dieser Ratgeber bietet praktische Schritte für Lehrer und Nachhilfelehrer, um ihre Unterrichtsqualität zu verbessern und den Alltag zu vereinfachen.",
+      "content_html": "<h2>Inhalt</h2> <ol><li>第一章：高效课堂管理的基础</li><li>第二章：学生参与度提升技巧</li><li>第三章：时间管理与课程规划</li><li>第四章：个性化教学策略</li><li>第五章：数字化工具的应用</li><li>第六章：学生反馈的有效利用</li><li>第七章：持续自我提升的路径</li></ol>",
+      "pro": false,
+      "created": "2026-11-12T00:47:19",
+      "file": "intelligent-teaching-assistant-7-steps-to-improve-classroom-management-0326163fccf5103f.pdf",
+      "size": 1779,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist allgemein gehalten und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Tipps sind praxisorientiert und entsprechen den Regeln.",
+      "pay_url": "https://buy.stripe.com/28E5kEcUxgJZ4Qef362ky0n",
+      "payment_link_id": "plink_1UamEFJ5iOXkWb9VkM8YTp5t",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Suivi des Dépenses de Soins & Planificateur de Budget pour Seniors",
+      "slug": "suivi-depenses-soins-seniors",
+      "price_eur": 12,
+      "target": "Organisations de soins et aidants familiaux",
+      "reason": "Les aidants familiaux et petites structures de soins ont besoin d'un outil simple mais complet pour gérer le suivi médical des seniors. Ce template professionnel répond à ce besoin croissant avec une approche visuelle et organisée.",
+      "language": "fr",
+      "pitch": "Outil professionnel pour suivre les dépenses médicales, les rendez-vous et le budget mensuel des personnes âgées. Optimisez l'organisation des soins en un clin d'œil.",
+      "content_html": "<h2>Contenu</h2><p>Suivi complet des dépenses de santé, planification des rendez-vous médicaux, gestion du budget mensuel et tableau de bord visuel pour une meilleure gestion des soins aux seniors.</p>",
+      "pro": true,
+      "created": "2026-11-12T00:47:19",
+      "file": "suivi-depenses-soins-seniors-a2507cf6d5f62b38.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionales Excel-Tool zur Budgetplanung für Senioren ohne erfundene Statistiken oder Gesundheitsversprechen. Die Beispiel-Daten sind plausibel und klar als solche gekennzeichnet. Keine Regelverstöße erkennbar.",
+      "pay_url": "https://buy.stripe.com/7sY14o9Il8dtbeCcUY2ky0o",
+      "payment_link_id": "plink_1UamEFJ5iOXkWb9V7m2KFULZ",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-09T01:54:21",
-      "eur": 0,
-      "why": "Audit entfernt: Guía Práctica para Profesores: Estrategias Efectivas para Mejorar tus Clases – Erfundene Prozentzahl ('30%') ohne allgemein bekannte Grundlage. Regelverstoß: Keine erfundenen Zahlen oder Statistiken. Erfundene Zahlen: 30%"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 1 entfernt"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.0012347999999999999,
-      "why": "Blog-Artikel: Eifel Maare (fr)"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.001638,
-      "why": "Blog-Artikel: Rheingau Weinberge (de)"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.00037799999999999997,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能NRW城市探索预算追踪与行程规划器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612936095"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 巴伐利亚与阿尔卑斯山：终极旅行指南与隐藏宝藏"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612951790"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Voyage Côte de la Mer Baltique et Mer du Nord: Suivi de Budget & Itinéraire"
-    },
-    {
-      "t": "2026-11-09T01:45:35",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4612936133"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.027431999999999998,
-      "why": "KI-Denken: 智能老年护理预算与健康追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能老年护理预算与健康追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.027494399999999995,
-      "why": "KI-Denken: 智能老年护理费用追踪与预算规划器"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能老年护理费用追踪与预算规划器"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.03176759999999999,
-      "why": "KI-Denken: 智能自由职业者的时间管理：7步实现高效工作与生活平衡"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.0035903999999999997,
-      "why": "KI-Pruefung: 智能自由职业者的时间管理：7步实现高效工作与生活平衡"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.12,
-      "why": "KI-Bilder: 智能自由职业者的时间管理：7步实现高效工作与生活平衡"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.027933599999999996,
-      "why": "KI-Denken: Planificateur de Voyage en Forêt-Noire : Budget & Activités pour Internationaux"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.0011003999999999999,
-      "why": "KI-Pruefung: Planificateur de Voyage en Forêt-Noire : Budget & Activités pour Internationaux"
-    },
     {
       "t": "2026-11-09T09:58:18",
       "eur": -0.0016967999999999998,
@@ -14652,6 +14613,131 @@
       "t": "2026-11-11T17:55:33",
       "eur": -0.0003372,
       "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.029186399999999998,
+      "why": "KI-Denken: YouTube广告收入分析与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.0012527999999999999,
+      "why": "KI-Pruefung: YouTube广告收入分析与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.0338472,
+      "why": "KI-Denken: 智能教学助手：7步轻松提升课堂管理效率"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.0038832,
+      "why": "KI-Pruefung: 智能教学助手：7步轻松提升课堂管理效率"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.029824799999999995,
+      "why": "KI-Denken: Traceur de Soins et Budget pour Aidants Familiaux"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.0014556,
+      "why": "KI-Pruefung: Traceur de Soins et Budget pour Aidants Familiaux"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.029423999999999995,
+      "why": "KI-Denken: Suivi des Dépenses de Soins & Planificateur de Budget pour Seniors"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.0011963999999999998,
+      "why": "KI-Pruefung: Suivi des Dépenses de Soins & Planificateur de Budget pour Seniors"
+    },
+    {
+      "t": "2026-11-12T00:50:47",
+      "eur": -0.0032735999999999998,
+      "why": "Audit: YouTube广告收入分析与预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-12T00:50:47",
+      "eur": -0.0039732,
+      "why": "Audit: 智能教学助手：7步轻松提升课堂管理效率"
+    },
+    {
+      "t": "2026-11-12T00:50:47",
+      "eur": -0.002544,
+      "why": "Audit: Suivi des Dépenses de Soins & Planificateur de Budget pour Seniors"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.0012731999999999997,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (es)"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.0016248,
+      "why": "Blog-Artikel: Muenchen Marienplatz (fr)"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.00038159999999999995,
+      "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615260709"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7 Schritte zum erfolgreichen Gemüsegarten für Selbstversorger: Einfache Anleitung für Anfänger"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615273698"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: YouTube Analytics & Content ROI Tracker - Creator Pro Edition"
+    },
+    {
+      "t": "2026-11-12T00:47:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615273746"
     }
   ],
   "alive": true,
@@ -17505,6 +17591,22 @@
       "topic": "Harz Brocken",
       "created": "2026-11-11T17:55:33",
       "img": true
+    },
+    {
+      "slug": "descubre-el-mar-de-wadden-del-mar-del-norte",
+      "title": "Descubre el Mar de Wadden del Mar del Norte: Un Paraíso Natural en Alemania",
+      "lang": "es",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-11-12T00:47:19",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-le-marienplatz-de-munich-coeur-historique-de-la-ba",
+      "title": "Découvrez le Marienplatz de Munich : Coeur Historique de la Bavière",
+      "lang": "fr",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-11-12T00:47:19",
+      "img": true
     }
   ],
   "videos": [
@@ -18976,6 +19078,16 @@
       "hashtags": "#哈尔茨山 #布罗肯 #德国旅行 #徒步天堂 #自然奇观",
       "voice": "欢迎来到德国的哈尔茨山布罗肯！这里是北德地区的最高峰，海拔1141米，以其壮丽的云海和迷人的自然景观而闻名。无论是夏季的绿意盎然，还是冬季的雪白世界，布罗肯都为游客提供了无尽的惊喜。徒步爱好者可以在这里探索多样的步道，感受大自然的魅力。此外，这里还充满了神秘的历史传说，令人心驰神往。快来体验布罗肯的独特之美吧！",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-le-marienplatz-de-munich-coeur-historique-de-la-ba",
+      "title": "Découvrez le Marienplatz de Munich : Coeur Historique de la Bavière",
+      "lang": "fr",
+      "created": "2026-11-12T00:47:19",
+      "hashtags": "#Munich #Marienplatz #Bavière #Allemagne #Voyage",
+      "voice": "Découvrez le Marienplatz, le cœur battant de Munich ! Cette place historique, fondée en 1158, est un must pour tout visiteur. Admirez la magnifique Nouvelle Mairie, avec son architecture gothique époustouflante et son célèbre carillon. Plongez dans l'ambiance vibrante, entre marchés traditionnels et spectacles de rue. Une expérience inoubliable en plein cœur de la Bavière !",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
