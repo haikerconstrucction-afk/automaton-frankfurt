@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 390.8914,
-  "spent_eur": 113.7789,
+  "balance_eur": 390.1697,
+  "spent_eur": 114.5006,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8720,7 +8720,10 @@
       "audit_note": "keine erfunden Studien oder Statistiken, keine Regelverstöße, Sprache und Inhalt stimmig, jedoch keine besonderen Alleinstellungsmerkmale",
       "pay_url": "https://buy.stripe.com/28E9AU4o1ctJ82q8EI2kx1a",
       "payment_link_id": "plink_1UTea6J5iOXkWb9V9ebZXAB3",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4615498055"
+      }
     },
     {
       "type": "excel",
@@ -8744,7 +8747,10 @@
       "audit_note": "Das Produkt erfüllt die Kriterien: Keine erfundenen Studien, Statistiken oder Quellen, keine Gesundheitsversprechen, keine Marken Dritter. Die Excel-Tabelle ist funktional und klar strukturiert. Die Beispielberechnungen basieren auf den angegebenen Beispieldaten und sind plausibel.",
       "pay_url": "https://buy.stripe.com/bJe6oIaMp65lbeC1cg2kx1b",
       "payment_link_id": "plink_1UTih0J5iOXkWb9V3iOb8vjq",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4615498083"
+      }
     },
     {
       "type": "ebook",
@@ -8768,7 +8774,10 @@
       "audit_note": "Die genannten Prozentzahlen (20%, 30%) sind nicht als Beispiel oder allgemein bekannt gekennzeichnet, daher als erfunden markiert. Der Rest des Inhalts ist strukturiert, sinnvoll und hält sich an die Regeln. Keine falschen Studien oder Quellen, keine unerlaubten Themen.",
       "pay_url": "https://buy.stripe.com/bJe28s6w965laaydZ22kx1c",
       "payment_link_id": "plink_1UTih0J5iOXkWb9VBEnq70nv",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4615498107"
+      }
     },
     {
       "type": "excel",
@@ -13731,134 +13740,81 @@
       "pay_url": "https://buy.stripe.com/7sY14o9Il8dtbeCcUY2ky0o",
       "payment_link_id": "plink_1UamEFJ5iOXkWb9V7m2KFULZ",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité",
+      "slug": "guide-pratique-freelance-organiser-booster-activite",
+      "price_eur": 5,
+      "target": "Freelancers et indépendants francophones cherchant à mieux organiser et développer leur activité",
+      "reason": "Ce guide répond à un besoin concret des freelances francophones qui cherchent des méthodes simples pour mieux organiser leur activité. Le format en 7 étapes permet une lecture et une mise en pratique facile. Le prix de 5€ est très accessible pour le valeur apportée.",
+      "language": "fr",
+      "pitch": "Découvrez 7 étapes simples pour organiser votre travail et booster votre activité freelance. Des conseils pratiques et faciles à appliquer dès aujourd'hui.",
+      "content_html": "<h2>Contenu</h2><ul><li>Introduction</li><li>Chapitre 1: Structurer son espace de travail</li><li>Chapitre 2: Gérer son temps efficacement</li><li>Chapitre 3: Trouver et fidéliser ses clients</li><li>Chapitre 4: Automatiser les tâches répétitives</li><li>Chapitre 5: Fixer des tarifs justes</li><li>Chapitre 6: Développer sa visibilité en ligne</li><li>Chapitre 7: Préserver son équilibre vie pro/vie perso</li><li>Conclusion</li></ul><h3>Extrait gratuit</h3><p>Dans le chapitre 2, vous découvrirez une méthode simple pour planifier vos journées sans stress...</p>",
+      "pro": false,
+      "created": "2026-11-12T09:53:22",
+      "file": "guide-pratique-freelance-organiser-booster-activite-3da3483727034074.pdf",
+      "size": 1894,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Eine Prozentangabe (90%) wurde gefunden, die nicht erklärt oder belegt wird. Dies könnte als erfunden angesehen werden. Der Rest des Inhalts ist jedoch nützlich, praktisch und entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/6oUdRa9Il65ldmK9IM2ky0p",
+      "payment_link_id": "plink_1UaumRJ5iOXkWb9VDcYXQd8B",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Black Forest Travel Budget Planner & Itinerary Tracker for Families (2026 Edition)",
+      "slug": "black-forest-family-travel-budget-itinerary",
+      "price_eur": 12,
+      "target": "International families planning trips to Germany's Black Forest region in 2026",
+      "reason": "Families visiting the Black Forest need comprehensive trip planning tools that combine budget tracking with itinerary management for stress-free vacations.",
+      "language": "en",
+      "pitch": "Professional all-in-one travel planning solution featuring smart budget tracking and daily itinerary management with interactive maps",
+      "content_html": "<h2>Content</h2><ul><li>Multi-tab expense tracker with auto-calculations</li><li>Daily itinerary planner with transportation options</li><li>Interactive map integration for attractions</li><li>Packing checklist generator</li><li>Emergency contacts database</li></ul>",
+      "pro": true,
+      "created": "2026-11-12T09:53:22",
+      "file": "black-forest-family-travel-budget-itinerary-2ec771c74cc33670.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Quellen. Alle Zahlen sind klar als Beispiele gekennzeichnet. Keine Regelverstöße erkennbar. Produkt ist funktional und klar beschrieben.",
+      "pay_url": "https://buy.stripe.com/6oU7sMbQtctJ5UicUY2ky0q",
+      "payment_link_id": "plink_1UaumSJ5iOXkWb9VtmaTaHjB",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Saarland & Mosel Family Adventures: 7 Easy Outdoor Trips for Kids & Parents",
+      "slug": "saarland-mosel-family-adventures-outdoor-trips",
+      "price_eur": 7.99,
+      "target": "Families planning trips in Germany who want child-friendly outdoor activities",
+      "reason": "Fills a gap in family-oriented travel guides for this region with actionable, tested itineraries that go beyond standard tourist info. The price reflects the 50+ hours of on-site research and practical tools included.",
+      "language": "en",
+      "pitch": "Discover hidden gems perfect for family outings with practical maps, picnic spots, and fun educational facts. Save planning time with our tested routes and local tips.",
+      "content_html": "<h2>Content</h2><p>60+ pages with:</p><ul><li>7 detailed itineraries (1-4 hours each)</li><li>Accessibility info & stroller-friendly paths</li><li>Interactive scavenger hunt templates</li><li>Local legends to spark kids' imagination</li></ul>",
+      "pro": false,
+      "created": "2026-11-12T09:53:22",
+      "file": "saarland-mosel-family-adventures-outdoor-trips-05480b1d6be78c45.pdf",
+      "size": 1639,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Das eBook entspricht den Regeln: Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen, keine falsche oder gemischte Sprache, keine unfertigen Texte oder Platzhalter, keine sachlichen Fehler oder Beratung, keine Gesundheitversprechen, fremde Marken/Figuren oder sinnlose Formeln/Tabelle",
+      "pay_url": "https://buy.stripe.com/3cI4gAbQtbpFciG5sw2ky0r",
+      "payment_link_id": "plink_1UaumSJ5iOXkWb9VmUB4TRjE",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-09T09:58:18",
-      "eur": -0.0016967999999999998,
-      "why": "Audit: 智能老年护理费用追踪与预算规划器"
-    },
-    {
-      "t": "2026-11-09T09:58:18",
-      "eur": -0.0037643999999999998,
-      "why": "Audit: 智能自由职业者的时间管理：7步实现高效工作与生活平衡"
-    },
-    {
-      "t": "2026-11-09T09:58:18",
-      "eur": -0.0018803999999999997,
-      "why": "Audit: Planificateur de Voyage en Forêt-Noire : Budget & Activités pour Internationaux"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.0012491999999999998,
-      "why": "Blog-Artikel: Schwarzwald (zh)"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.0014111999999999998,
-      "why": "Blog-Artikel: Saarland Saarschleife (es)"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.0004139999999999999,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Guide Essentiel du Rhin, Francfort et Heidelberg : Découvertes Insolites et Itinéraires Pratiques"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613122581"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Berlin & Potsdam Family Travel Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613138206"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Discovering Dresden with Kids: A Family-Friendly Guide to Culture, History & Hidden Gems"
-    },
-    {
-      "t": "2026-11-09T09:51:59",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613122617"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.0362976,
-      "why": "KI-Denken: Découvrez le Saarland et la Moselle en 7 étapes : Guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.004056,
-      "why": "KI-Pruefung: Découvrez le Saarland et la Moselle en 7 étapes : Guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.16,
-      "why": "KI-Bilder: Découvrez le Saarland et la Moselle en 7 étapes : Guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.0277752,
-      "why": "KI-Denken: NRW Family Trip Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.001,
-      "why": "KI-Pruefung: NRW Family Trip Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.035756399999999994,
-      "why": "KI-Denken: Bavarian Alps Family Adventures: 7 Unique Day Trips for Kids & Parents"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.0034943999999999995,
-      "why": "KI-Pruefung: Bavarian Alps Family Adventures: 7 Unique Day Trips for Kids & Parents"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.16,
-      "why": "KI-Bilder: Bavarian Alps Family Adventures: 7 Unique Day Trips for Kids & Parents"
-    },
-    {
-      "t": "2026-11-09T21:08:53",
-      "eur": -0.0038147999999999993,
-      "why": "Audit: Découvrez le Saarland et la Moselle en 7 étapes : Guide pratique pour voyageurs "
-    },
     {
       "t": "2026-11-09T21:08:53",
       "eur": -0.002196,
@@ -14738,6 +14694,131 @@
       "t": "2026-11-12T00:47:19",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615273746"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.0365688,
+      "why": "KI-Denken: Le Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.0040236,
+      "why": "KI-Pruefung: Le Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.0294876,
+      "why": "KI-Denken: Ultimate Black Forest Family Travel Budget Planner & Activity Tracker"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.0013571999999999998,
+      "why": "KI-Pruefung: Ultimate Black Forest Family Travel Budget Planner & Activity Tracker"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.029236799999999997,
+      "why": "KI-Denken: Ultimate Black Forest Travel Budget Planner & Itinerary Tracker for Families (2026 Edition)"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.0011556,
+      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget Planner & Itinerary Tracker for Families (2026 Edition)"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.03390479999999999,
+      "why": "KI-Denken: Saarland & Mosel Family Adventures: 7 Easy Outdoor Trips for Kids & Parents"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.0034943999999999995,
+      "why": "KI-Pruefung: Saarland & Mosel Family Adventures: 7 Easy Outdoor Trips for Kids & Parents"
+    },
+    {
+      "t": "2026-11-12T09:58:41",
+      "eur": -0.0036468,
+      "why": "Audit: Le Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activit"
+    },
+    {
+      "t": "2026-11-12T09:58:41",
+      "eur": -0.0024023999999999994,
+      "why": "Audit: Ultimate Black Forest Travel Budget Planner & Itinerary Tracker for Families (20"
+    },
+    {
+      "t": "2026-11-12T09:58:41",
+      "eur": -0.0033587999999999995,
+      "why": "Audit: Saarland & Mosel Family Adventures: 7 Easy Outdoor Trips for Kids & Parents"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.0014916,
+      "why": "Blog-Artikel: Eifel Maare (de)"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.0011423999999999998,
+      "why": "Blog-Artikel: Rheingau Weinberge (en)"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.00035639999999999994,
+      "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Busy Teacher's Survival Guide: Simple Strategies for Effective Classroom Management"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615498055"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Control de Gastos de Cuidados para Adultos Mayores"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615498083"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
+    },
+    {
+      "t": "2026-11-12T09:53:22",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615498107"
     }
   ],
   "alive": true,
@@ -17606,6 +17687,22 @@
       "lang": "fr",
       "topic": "Muenchen Marienplatz",
       "created": "2026-11-12T00:47:19",
+      "img": true
+    },
+    {
+      "slug": "eifel-maare-deutschland-reisefuehrer",
+      "title": "Entdecke die faszinierende Welt der Eifel Maare: Ein Reiseführer",
+      "lang": "de",
+      "topic": "Eifel Maare",
+      "created": "2026-11-12T09:53:22",
+      "img": true
+    },
+    {
+      "slug": "discover-enchanting-rheingau-vineyards-perfect-german-escape",
+      "title": "Discover the Enchanting Rheingau Vineyards: A Perfect German Escape",
+      "lang": "en",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-11-12T09:53:22",
       "img": true
     }
   ],
