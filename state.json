@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 390.1697,
-  "spent_eur": 114.5006,
+  "balance_eur": 390.0568,
+  "spent_eur": 114.6135,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -13812,94 +13812,81 @@
       "pay_url": "https://buy.stripe.com/3cI4gAbQtbpFciG5sw2ky0r",
       "payment_link_id": "plink_1UaumSJ5iOXkWb9VmUB4TRjE",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "NRW Städtereise-Budget-Tracker & Tagesplaner 2026",
+      "slug": "nrw-staedtereise-budget-tracker-tagesplaner-2026",
+      "price_eur": 12.99,
+      "target": "Selbstständige, Freiberufler und kleine Unternehmen im Rhein-Main-Gebiet, die Geschäftsreisen nach NRW planen",
+      "reason": "Speziell für NRW-Reisen optimiert spart dieser Planer Selbstständigen wertvolle Zeit bei der Reiseplanung und Kostenkontrolle. Die automatischen Berechnungen vermeiden manuelle Fehler und geben Sicherheit bei der Budgetplanung.",
+      "language": "de",
+      "pitch": "Planen Sie Ihre NRW-Städtereise mühelos mit diesem professionellen Budget-Tracker und Itinerary-Planer – inklusive automatischer Berechnungen und praktischer Kategorisierung aller Ausgaben.",
+      "content_html": "<h2>Inhalt</h2><p>Dieses Excel-Tool hilft Ihnen, Ihre Reisekosten für Städtereisen nach NRW (Köln, Düsseldorf, Ruhrgebiet) komplett im Blick zu behalten. Automatische Berechnungen, visuelle Auswertungen und praktische Vorlagen sparen Ihnen Zeit und Geld.</p>",
+      "pro": true,
+      "created": "2026-11-12T18:22:04",
+      "file": "nrw-staedtereise-budget-tracker-tagesplaner-2026-2bc67a283d1a6e1b.xlsx",
+      "size": 7,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Der Inhalt ist klar als Beispiel gekennzeichnet und enthält keine unzulässigen Gesundheitsversprechen, Rechtsberatungen oder Marken Dritter. Die Excel-Funktionen sind sinnvoll und nachvollziehbar.",
+      "pay_url": "https://buy.stripe.com/14AcN607LgJZfuS7AE2ky0s",
+      "payment_link_id": "plink_1Ub2iyJ5iOXkWb9Vkov7C7Je",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bayerische Alpen Entdecken: 7 Einfache Schritte zu den schönsten Wanderungen und Geheimtipps",
+      "slug": "bayerische-alpen-entdecken-wanderungen-geheimtipps",
+      "price_eur": 5,
+      "target": "Reiselustige und Wanderbegeisterte, die die bayerischen Alpen abseits der Touristenströme erkunden möchten",
+      "reason": "Dieses Ebook füllt eine Lücke im Markt, da es praktische, leicht umsetzbare Tipps für Wanderungen in den bayerischen Alpen bietet - abseits der überlaufenen Hotspots. Die klare Struktur in 7 Schritten macht die Planung einfach und der Fokus auf Nachhaltigkeit und Sicherheit spricht moderne Reisende an.",
+      "language": "de",
+      "pitch": "Praktischer Reiseführer mit handverlesenen Routen und lokalen Insidertipps für unvergessliche Bergerlebnisse in Bayern. Sparen Sie Zeit bei der Planung und entdecken Sie die schönsten Ecken abseits der Massen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Kapitel 1: Die beste Reisezeit und Ausrüstung</li><li>Kapitel 2: Leichte Wanderungen mit Panoramablick</li><li>Kapitel 3: Versteckte Bergseen und Almhütten</li><li>Kapitel 4: Familienfreundliche Touren mit Kindern</li><li>Kapitel 5: Kulinarische Highlights der Region</li><li>Kapitel 6: Sicherheitstipps und Notfallplan</li><li>Kapitel 7: Nachhaltiges Wandern in den Alpen</li></ul>",
+      "pro": false,
+      "created": "2026-11-12T18:22:04",
+      "file": "bayerische-alpen-entdecken-wanderungen-geheimtipps-1355a2155dab6617.pdf",
+      "size": 1778,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist sachlich korrekt und enthält keine erfundenen Statistiken oder falschen Behauptungen. Alle Angaben basieren auf allgemein bekannten Fakten und persönlichen Erfahrungstipps. Keine Verstöße gegen die Regeln festgestellt.",
+      "pay_url": "https://buy.stripe.com/7sY8wQ5s5gJZdmK5sw2ky0t",
+      "payment_link_id": "plink_1Ub2izJ5iOXkWb9Vc6skMC5j",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate North & Baltic Sea Travel Budget Planner for Female Explorers",
+      "slug": "ultimate-north-baltic-sea-travel-budget-planner-female-explorers",
+      "price_eur": 9,
+      "target": "Female travelers exploring the North and Baltic Sea regions in Germany",
+      "reason": "This template provides a structured and easy-to-use solution for female travelers to manage their travel budget and itinerary effectively, ensuring a stress-free exploration of the North and Baltic Sea regions.",
+      "language": "en",
+      "pitch": "Effortlessly manage your travel budget and itinerary with this comprehensive planner designed specifically for female explorers.",
+      "content_html": "<h2>Inhalt</h2><p>Plan your trip with ease using this professional Excel template. Track expenses, manage itineraries, and stay organized with detailed sheets and KPIs.</p>",
+      "pro": true,
+      "created": "2026-11-12T18:22:04",
+      "file": "ultimate-north-baltic-sea-travel-budget-planner-female-explorers-28e4483340d21aaf.xlsx",
+      "size": 5,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine klaren Regelverstöße. Enthält keine erfundenen Studien, Statistiken oder Prozentzahlen und bietet sinnvolle, automatisch berechnete Tabellen zur Budgetplanung. Alle Inhalte sind klar, praktisch und ohne irreführende Angaben.",
+      "pay_url": "https://buy.stripe.com/eVq6oI6w9gJZ3Ma5sw2ky0u",
+      "payment_link_id": "plink_1Ub2j0J5iOXkWb9V8CkpbtIL",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-09T21:08:53",
-      "eur": -0.002196,
-      "why": "Audit: NRW Family Trip Budget Planner & Expense Tracker"
-    },
-    {
-      "t": "2026-11-09T21:08:53",
-      "eur": -0.0032627999999999997,
-      "why": "Audit: Bavarian Alps Family Adventures: 7 Unique Day Trips for Kids & Parents"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.0011748,
-      "why": "Blog-Artikel: Koeln Dom (fr)"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.0012371999999999997,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (de)"
-    },
-    {
-      "t": "2026-11-09T20:56:04",
-      "eur": -0.00041639999999999993,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.0283092,
-      "why": "KI-Denken: Ostsee & Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.0012143999999999998,
-      "why": "KI-Pruefung: Ostsee & Nordsee Reisebudget-Tracker & Routeplaner für Selbstständige"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.028376399999999996,
-      "why": "KI-Denken: Ostsee & Nordsee Reisebudget-Tracker & Routenplaner für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.0013716,
-      "why": "KI-Pruefung: Ostsee & Nordsee Reisebudget-Tracker & Routenplaner für Selbstständige: Professionelle Excel-Vorlage mit automatischer Summenberechnung & Ausgabenkategorisierung (2026 Edition)"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.034378799999999994,
-      "why": "KI-Denken: Entdecke Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für alle"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.0040571999999999995,
-      "why": "KI-Pruefung: Entdecke Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für alle"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.04,
-      "why": "KI-Bilder: Entdecke Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für alle"
-    },
     {
       "t": "2026-11-10T04:33:31",
       "eur": -0.028069199999999996,
@@ -14819,6 +14806,86 @@
       "t": "2026-11-12T09:53:22",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615498107"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": -0.0294924,
+      "why": "KI-Denken: NRW Städtereise-Budget-Tracker & Tagesplaner 2026"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": -0.0010896,
+      "why": "KI-Pruefung: NRW Städtereise-Budget-Tracker & Tagesplaner 2026"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": -0.0371436,
+      "why": "KI-Denken: Bayerische Alpen Entdecken: 7 Einfache Schritte zu den schönsten Wanderungen und Geheimtipps"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": -0.0043212,
+      "why": "KI-Pruefung: Bayerische Alpen Entdecken: 7 Einfache Schritte zu den schönsten Wanderungen und Geheimtipps"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": -0.0292272,
+      "why": "KI-Denken: Ultimate North & Baltic Sea Travel Budget Planner for Female Explorers"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate North & Baltic Sea Travel Budget Planner for Female Explorers"
+    },
+    {
+      "t": "2026-11-12T18:27:30",
+      "eur": -0.0025548,
+      "why": "Audit: NRW Städtereise-Budget-Tracker & Tagesplaner 2026"
+    },
+    {
+      "t": "2026-11-12T18:27:30",
+      "eur": -0.0039372,
+      "why": "Audit: Bayerische Alpen Entdecken: 7 Einfache Schritte zu den schönsten Wanderungen und"
+    },
+    {
+      "t": "2026-11-12T18:27:30",
+      "eur": -0.0012299999999999998,
+      "why": "Audit: Ultimate North & Baltic Sea Travel Budget Planner for Female Explorers"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": -0.0013571999999999998,
+      "why": "Blog-Artikel: Schwarzwald (es)"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": -0.0011975999999999998,
+      "why": "Blog-Artikel: Saarland Saarschleife (fr)"
+    },
+    {
+      "t": "2026-11-12T18:22:04",
+      "eur": -0.00041999999999999996,
+      "why": "Video-Skript: Saarland Saarschleife"
     }
   ],
   "alive": true,
@@ -17704,6 +17771,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-11-12T09:53:22",
       "img": true
+    },
+    {
+      "slug": "descubriendo-la-magia-del-bosque-negro-una-guia-para-viajero",
+      "title": "Descubriendo la Magia del Bosque Negro: Una Guía para Viajeros",
+      "lang": "es",
+      "topic": "Schwarzwald",
+      "created": "2026-11-12T18:22:04",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-saarschleife-joyau-naturel-saarland",
+      "title": "Découvrez la Saarschleife, joyau naturel du Saarland",
+      "lang": "fr",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-11-12T18:22:04",
+      "img": true
     }
   ],
   "videos": [
@@ -19185,6 +19268,16 @@
       "hashtags": "#Munich #Marienplatz #Bavière #Allemagne #Voyage",
       "voice": "Découvrez le Marienplatz, le cœur battant de Munich ! Cette place historique, fondée en 1158, est un must pour tout visiteur. Admirez la magnifique Nouvelle Mairie, avec son architecture gothique époustouflante et son célèbre carillon. Plongez dans l'ambiance vibrante, entre marchés traditionnels et spectacles de rue. Une expérience inoubliable en plein cœur de la Bavière !",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "decouvrez-saarschleife-joyau-naturel-saarland",
+      "title": "Découvrez la Saarschleife, joyau naturel du Saarland",
+      "lang": "fr",
+      "created": "2026-11-12T18:22:04",
+      "hashtags": "#Saarschleife #Saarland #NatureInGermany #Randonnee #VoyageEnAllemagne",
+      "voice": "Bienvenue à la Saarschleife, un site emblématique du Saarland en Allemagne! Cette boucle spectaculaire de la rivière Sarre offre des paysages à couper le souffle, entourés de forêts denses et de chemins de randonnée exceptionnels. Idéal pour les amoureux de la nature, ce lieu unique vous invite à explorer, respirer et vous émerveiller. Préparez-vous à vivre une expérience inoubliable au cœur de l’Allemagne!",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
