@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 390.0568,
-  "spent_eur": 114.6135,
+  "balance_eur": 389.3294,
+  "spent_eur": 115.3409,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8801,7 +8801,10 @@
       "audit_note": "Das Produkt erfüllt die Anforderungen. Es enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Währungsumrechnungen und berechneten Kennzahlen sind plausibel und als Beispiel klar erkennbar. Keine Verstöße gegen die vorgegebenen Regeln festgestellt.",
       "pay_url": "https://buy.stripe.com/8x23cwf2F8dt5Ui9IM2kx1d",
       "payment_link_id": "plink_1UTih1J5iOXkWb9V5G5nLXoY",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4616063274"
+      }
     },
     {
       "type": "ebook",
@@ -8825,7 +8828,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Zahlen, Statistiken oder Quellen, keine Gesundheitsversprechen, keine Rechts- oder Finanzberatung, keine Marken oder Figuren Dritter. Der Text ist gut strukturiert und bietet praktische Reisetipps ohne sachliche Fehler.",
       "pay_url": "https://buy.stripe.com/4gMaEY1bPfFV4Qe2gk2kx1e",
       "payment_link_id": "plink_1UToHHJ5iOXkWb9VD61HRIcd",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4616051273"
+      }
     },
     {
       "type": "excel",
@@ -8849,7 +8855,10 @@
       "audit_note": "Das Produkt ist klar formuliert und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind plausibel und gut nachvollziehbar. Die Sprache ist durchgängig Französisch und es gibt keine unfertigen Texte oder Platzhalter. Es gibt keine Rechts-, Steuer-, Finanz- od",
       "pay_url": "https://buy.stripe.com/6oU9AU8Eh79p82q1cg2kx1f",
       "payment_link_id": "plink_1UToHHJ5iOXkWb9V02zkI8ak",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4616051299"
+      }
     },
     {
       "type": "ebook",
@@ -13884,129 +13893,81 @@
       "pay_url": "https://buy.stripe.com/eVq6oI6w9gJZ3Ma5sw2ky0u",
       "payment_link_id": "plink_1Ub2j0J5iOXkWb9V8CkpbtIL",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Discover Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to Hidden Gems & Local Secrets",
+      "slug": "discover-rhine-frankfurt-heidelberg-female-travelers-guide",
+      "price_eur": 5,
+      "target": "Female travelers interested in exploring Rhine, Frankfurt, and Heidelberg on their own terms, looking for practical tips and off-the-beaten-path experiences.",
+      "reason": "Female travelers often seek tailored guides that address their specific needs and safety concerns. This ebook offers practical advice, safety tips, and unique itineraries, making it a valuable resource for exploring Rhine, Frankfurt, and Heidelberg.",
+      "language": "en",
+      "pitch": "Uncover the best-kept secrets of Rhine, Frankfurt, and Heidelberg with this practical guide designed for female travelers, offering safety tips, unique itineraries, and local insights.",
+      "content_html": "<h2>Introduction</h2>\n<p>Welcome to Rhine, Frankfurt, and Heidelberg! This guide is your trusted companion, packed with practical advice, safety tips, and unique itineraries tailored for female travelers. Whether you're a solo explorer or traveling with friends, this guide will help you uncover the region's hidden gems and local secrets.</p>\n<h2>Chapter 1: Introduction to Rhine, Frankfurt, and Heidelberg</h2>\n<p>Discover the rich history and vibrant culture of these iconic destinations. Learn about the best times to visit, weather conditions, and essential travel tips. Get inspired by the stories of women who have explored this region before you.</p>\n<h2>Chapter 2: Safety Tips for Female Travelers</h2>\n<p>Your safety is our top priority. Find practical advice on staying safe while traveling solo or in small groups. Learn how to navigate public transportation, choose safe accommodations, and handle unexpected situations with confidence.</p>\n<h2>Chapter 3: Unique Itineraries for Every Taste</h2>\n<p>Explore the most scenic routes and must-see spots in Rhine, Frankfurt, and Heidelberg. From guided walking tours to self-paced itineraries, find options that suit your interests and schedule. Uncover hidden treasures that many tourists miss.</p>\n<h2>Chapter 4: Local Insights and Cultural Experiences</h2>\n<p>Immerse yourself in the local culture with authentic experiences recommended by women who live in the region. Discover charming cafes, boutiques, and cultural events that offer a true taste of the area.</p>\n<h2>Chapter 5: Practical Advice for Smooth Travel</h2>\n<p>Get all the practical information you need for a seamless journey. Learn about currency, tipping etiquette, local customs, and essential phrases. Stay connected with tips on internet access and mobile services.</p>\n<h2>Chapter 6: Bonus Content: Off-the-Beaten-Path Adventures</h2>\n<p>Go beyond the typical tourist attractions with these unique and exciting adventures. Explore lesser-known landmarks, take part in local festivals, and enjoy nature trails that offer stunning views and peaceful escapes.</p>",
+      "pro": false,
+      "created": "2026-11-13T01:10:40",
+      "file": "discover-rhine-frankfurt-heidelberg-female-travelers-guide-f33d4524a6537307.pdf",
+      "size": 1885,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder unzulässige Beratung. Die Tipps sind praktisch und allgemein bekannt. Einige Abschnitte sind unvollständig (z.B. abgebrochener Satz in Kapitel 3), aber kein klarer Regelverstoß.",
+      "pay_url": "https://buy.stripe.com/4gM5kE9IlfFV1E24os2ky0v",
+      "payment_link_id": "plink_1Ub97DJ5iOXkWb9VEFKvNcUz",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres",
+      "slug": "planificador-viajes-berlin-potsdam-hombres",
+      "price_eur": 9,
+      "target": "Hombres que viajan solos o en grupo a Berlín y Potsdam, que buscan organizar su viaje de manera eficiente",
+      "reason": "Este planificador ofrece una solución todo-en-uno para viajeros masculinos que visitan Berlín y Potsdam, combinando control presupuestario, organización del itinerario y checklist de equipaje en una herramienta profesional fácil de usar.",
+      "language": "es",
+      "pitch": "Organiza tu viaje a Berlín y Potsdam como un profesional con esta completa plantilla Excel que incluye presupuesto, itinerario y checklist de equipaje.",
+      "content_html": "<h2>Incluye</h2><ul><li>Control detallado de gastos</li><li>Planificador de itinerario diario</li><li>Checklist inteligente de equipaje</li><li>Dashboard resumen con KPIs clave</li></ul>",
+      "pro": true,
+      "created": "2026-11-13T01:10:40",
+      "file": "planificador-viajes-berlin-potsdam-hombres-aaa0be2e711bca9b.xlsx",
+      "size": 24,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Statistiken, Prozentzahlen oder Quellen; korrekte Sprache; keine Platzhalter oder unfertigen Texte; keine Rechts-, Steuer-, Finanz- oder Medizinberatung; keine Gesundheitsversprechen; keine fremden Marken oder Figuren. Die Beispielrechnungen im Pres",
+      "pay_url": "https://buy.stripe.com/8x25kEcUx2T9fuSbQU2ky0w",
+      "payment_link_id": "plink_1Ub97EJ5iOXkWb9Vk0X222Hi",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Descubre Dresden y Sajonia en 7 pasos: Guía práctica para viajeros independientes",
+      "slug": "descubre-dresden-sajonia-guia-practica-viajeros",
+      "price_eur": 5,
+      "target": "Hombres viajeros independientes de 25-45 años que buscan explorar Dresden y Sajonia de manera auténtica y sin complicaciones",
+      "reason": "Existe demanda de guías prácticas en español sobre destinos alemanes menos cubiertos. Los viajeros independientes buscan información concisa y consejos reales, no las clásicas guías turísticas. Focalizado en Dresden/Sajonia que es un destino emergente pero con menos información accesible en español para este público.",
+      "language": "es",
+      "pitch": "Guía concisa con itinerarios probados, consejos locales y lugares ocultos que no encontrarás en guías turísticas convencionales. Ahorra tiempo y descubre lo mejor de Sajonia como un local.",
+      "content_html": "<h2>Contenido</h2>\n<ol>\n<li>Introducción: Por qué Dresden es la joya secreta de Alemania</li>\n<li>7 pasos para planificar tu viaje perfecto</li>\n<li>Dónde comer: Los mejores kebabs y cervecerías artesanales</li>\n<li>Itinerarios de un día para explorar como un experto</li>\n</ol>\n\n<h3>Lectura de muestra:</h3>\n<p>Olvida los restaurantes caros del centro. La mejor comida rápida está en...</p>",
+      "pro": false,
+      "created": "2026-11-13T01:10:40",
+      "file": "descubre-dresden-sajonia-guia-practica-viajeros-1b0af462f427b77f.pdf",
+      "size": 1808,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Es wurde eine Prozentzahl (10%) erwähnt, die nicht klar auf allgemein bekannte Fakten zurückgeführt werden kann. Die Angabe sollte entfernt werden, da sie als erfunden betrachtet wird. Der Rest des Inhalts ist jedoch korrekt und entspricht den Regeln.",
+      "pay_url": "https://buy.stripe.com/5kQ14o07L0L1aayaMQ2ky0x",
+      "payment_link_id": "plink_1Ub97FJ5iOXkWb9VoRanEorJ",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.028069199999999996,
-      "why": "KI-Denken: Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-11-10T04:37:44",
-      "eur": -0.0030816,
-      "why": "Audit: Ostsee & Nordsee Reisebudget-Tracker & Routenplaner für Selbstständige: Professi"
-    },
-    {
-      "t": "2026-11-10T04:37:44",
-      "eur": -0.0038183999999999996,
-      "why": "Audit: Entdecke Rhein, Frankfurt & Heidelberg: Der praktische Reiseführer für alle"
-    },
-    {
-      "t": "2026-11-10T04:37:44",
-      "eur": -0.0013331999999999999,
-      "why": "Audit: Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.0011531999999999998,
-      "why": "Blog-Artikel: Bodensee (en)"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.0011124,
-      "why": "Blog-Artikel: Mosel Cochem (zh)"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.00035279999999999996,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Baustellen-Kosten- und Arbeitszeit-Tracker für Handwerksbetriebe"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613792648"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Zauberhafte Abenteuer im Schlummerland: 7 neue Gute-Nacht-Geschichten für kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613792672"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Wedding Vendor Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-11-10T04:33:31",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4613792690"
-    },
-    {
-      "t": "2026-11-10T12:43:55",
-      "eur": -0.0328644,
-      "why": "KI-Denken: Discover Dresden Like a Local: Hidden Gems & Practical Tips for Female Travelers"
-    },
-    {
-      "t": "2026-11-10T12:43:55",
-      "eur": -0.0034859999999999995,
-      "why": "KI-Pruefung: Discover Dresden Like a Local: Hidden Gems & Practical Tips for Female Travelers"
-    },
-    {
-      "t": "2026-11-10T12:43:55",
-      "eur": -0.16,
-      "why": "KI-Bilder: Discover Dresden Like a Local: Hidden Gems & Practical Tips for Female Travelers"
-    },
-    {
-      "t": "2026-11-10T12:43:55",
-      "eur": -0.028407599999999995,
-      "why": "KI-Denken: Calculadora Profesional de Presupuestos y Mediciones para Talleres"
-    },
-    {
-      "t": "2026-11-10T12:43:55",
-      "eur": -0.0011568,
-      "why": "KI-Pruefung: Calculadora Profesional de Presupuestos y Mediciones para Talleres"
-    },
-    {
-      "t": "2026-11-10T12:43:55",
-      "eur": -0.0361656,
-      "why": "KI-Denken: 7 Cuentos Mágicos para Dormir a Tus Pequeños: Aventuras Cortas para Niños de 3 a 8 Años"
-    },
     {
       "t": "2026-11-10T12:43:55",
       "eur": -0.0042492,
@@ -14886,6 +14847,131 @@
       "t": "2026-11-12T18:22:04",
       "eur": -0.00041999999999999996,
       "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.03506879999999999,
+      "why": "KI-Denken: Discover Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to Hidden Gems & Local Secrets"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.0035544,
+      "why": "KI-Pruefung: Discover Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to Hidden Gems & Local Secrets"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.030469199999999995,
+      "why": "KI-Denken: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos para Hombres"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.0018647999999999998,
+      "why": "KI-Pruefung: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos para Hombres"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.0304308,
+      "why": "KI-Denken: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.0016859999999999998,
+      "why": "KI-Pruefung: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.03718079999999999,
+      "why": "KI-Denken: Descubre Dresden y Sajonia en 7 pasos: Guía práctica para viajeros independientes"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.0042864,
+      "why": "KI-Pruefung: Descubre Dresden y Sajonia en 7 pasos: Guía práctica para viajeros independientes"
+    },
+    {
+      "t": "2026-11-13T01:17:03",
+      "eur": -0.003276,
+      "why": "Audit: Discover Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to Hidden Gems"
+    },
+    {
+      "t": "2026-11-13T01:17:03",
+      "eur": -0.0028296,
+      "why": "Audit: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist p"
+    },
+    {
+      "t": "2026-11-13T01:17:03",
+      "eur": -0.0039888,
+      "why": "Audit: Descubre Dresden y Sajonia en 7 pasos: Guía práctica para viajeros independiente"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.0014303999999999999,
+      "why": "Blog-Artikel: Koeln Dom (de)"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.0009312,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (en)"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.00034799999999999995,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能黑森林旅行预算追踪与行程规划器"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616063274"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616051273"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Voyage NRW : Budget & Itinéraire pour Explorateurs Urbains"
+    },
+    {
+      "t": "2026-11-13T01:10:40",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616051299"
     }
   ],
   "alive": true,
@@ -17787,6 +17873,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-11-12T18:22:04",
       "img": true
+    },
+    {
+      "slug": "koelner-dom-imposantes-wahrzeichen-am-rhein",
+      "title": "Der Kölner Dom: Ein imposantes Wahrzeichen am Rhein",
+      "lang": "de",
+      "topic": "Koeln Dom",
+      "created": "2026-11-13T01:10:40",
+      "img": true
+    },
+    {
+      "slug": "discovering-ruhrgebiet-zollverein-coal-mine-industrial-compl",
+      "title": "Discovering the Ruhrgebiet: Zollverein Coal Mine Industrial Complex",
+      "lang": "en",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-11-13T01:10:40",
+      "img": true
     }
   ],
   "videos": [
@@ -19278,6 +19380,16 @@
       "hashtags": "#Saarschleife #Saarland #NatureInGermany #Randonnee #VoyageEnAllemagne",
       "voice": "Bienvenue à la Saarschleife, un site emblématique du Saarland en Allemagne! Cette boucle spectaculaire de la rivière Sarre offre des paysages à couper le souffle, entourés de forêts denses et de chemins de randonnée exceptionnels. Idéal pour les amoureux de la nature, ce lieu unique vous invite à explorer, respirer et vous émerveiller. Préparez-vous à vivre une expérience inoubliable au cœur de l’Allemagne!",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "discovering-ruhrgebiet-zollverein-coal-mine-industrial-compl",
+      "title": "Discovering the Ruhrgebiet: Zollverein Coal Mine Industrial Complex",
+      "lang": "en",
+      "created": "2026-11-13T01:10:40",
+      "hashtags": "#Zollverein #Ruhrgebiet #UNESCO #IndustrialHeritage #Essen #Culture",
+      "voice": "Welcome to the Ruhrgebiet, home to the iconic Zollverein Coal Mine Industrial Complex. Once the largest coal mine in Europe, this UNESCO World Heritage Site is now a vibrant cultural center. Marvel at the stunning industrial architecture, explore fascinating museums, and stroll through lush green spaces. From contemporary art exhibitions to historic tours, Zollverein offers a unique blend of heritage and modern creativity. Experience the heart of Germany's industrial past transformed into a dynamic future.",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
