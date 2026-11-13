@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 388.4607,
-  "spent_eur": 116.2097,
+  "balance_eur": 388.3115,
+  "spent_eur": 116.3589,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -14118,104 +14118,81 @@
       "pay_url": "https://buy.stripe.com/8x200kf2F0L1dmKdZ22ky0D",
       "payment_link_id": "plink_1UbOeUJ5iOXkWb9VNlWlakqB",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimativer Prüfungsplaner & Lernfortschritts-Tracker für Studierende",
+      "slug": "pruefungsplaner-lernfortschritt-tracker-studierende",
+      "price_eur": 9,
+      "target": "Studierende aller Fachrichtungen, die ihre Prüfungsvorbereitung strukturieren und ihren Lernfortschritt visualisieren möchten",
+      "reason": "Diese professionelle Vorlage kombiniert alle Elemente einer effektiven Prüfungsvorbereitung in einem Tool: Terminplanung, Lernorganisation, Zeitmanagement und Fortschrittskontrolle. Durch die automatischen Berechnungen und Visualisierungen können Studierende ihren Lernerfolg messen und Schwachstellen identifizieren.",
+      "language": "de",
+      "pitch": "Professionelle Excel-Vorlage zur optimalen Prüfungsvorbereitung mit Lernplan, Fortschrittskontrolle und Zeitmanagement - entwickelt für stressfreies Lernen und maximale Effizienz.",
+      "content_html": "<h2>Inhalt</h2><p>Diese umfassende Vorlage hilft dir, deine Prüfungsvorbereitung zu strukturieren, den Lernfortschritt zu tracken und den Überblick über alle relevanten Fächer und Termine zu behalten.</p>",
+      "pro": true,
+      "created": "2026-11-13T23:36:54",
+      "file": "pruefungsplaner-lernfortschritt-tracker-studierende-e663c0f9391ab259.xlsx",
+      "size": 9,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Die Excel-Vorlage ist funktional und enthält plausible Beispielwerte. Alle Angaben sind allgemein gehalten und es werden keine spezifischen Behauptungen aufgestellt. Die Formeln sind korrekt und sinnvoll.",
+      "pay_url": "https://buy.stripe.com/aFabJ26w9eBR4Qeg7a2ky0E",
+      "payment_link_id": "plink_1UbU6iJ5iOXkWb9VgD2REqSy",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz",
+      "slug": "erfolgsstrategien-kleine-restaurants-cafes",
+      "price_eur": 5,
+      "target": "Kleine Restaurants und Cafés",
+      "reason": "Kleine Restaurants und Cafés stehen oft vor der Herausforderung, mit begrenzten Ressourcen erfolgreich zu sein. Dieses E-Book bietet konkrete, umsetzbare Strategien, die helfen können, mehr Gäste anzulocken und den Umsatz zu steigern.",
+      "language": "de",
+      "pitch": "Entdecken Sie 7 bewährte Strategien, um mehr Gäste anzulocken und Ihren Umsatz gezielt zu steigern. Praktische Tipps für mehr Erfolg im Alltag.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Einleitung</li><li>Strategie 1: Gastfreundlichkeit als Erfolgsfaktor</li><li>Strategie 2: Effektive Nutzung von Social Media</li><li>Strategie 3: Personalisierte Angebote erstellen</li><li>Strategie 4: Lokale Events als Marketingchance nutzen</li><li>Strategie 5: Effiziente Kostenkontrolle</li><li>Strategie 6: Loyalitätsprogramme einführen</li><li>Strategie 7: Feedback als Wachstumsmotor</li></ul>",
+      "pro": false,
+      "created": "2026-11-13T23:36:54",
+      "file": "erfolgsstrategien-kleine-restaurants-cafes-92356363bf071dfb.pdf",
+      "size": 2230,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt ist größtenteils konform mit den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Sprache ist konsequent Deutsch und der Text ist fertiggestellt. Es werden praktische Tipps gegeben, ohne spezifische Rechts-, Steuer- oder Finanzberatung anzubieten. Einziger Auf",
+      "pay_url": "https://buy.stripe.com/5kQbJ2dYBfFV82q2gk2ky0F",
+      "payment_link_id": "plink_1UbU6jJ5iOXkWb9VNcbZ9LGl",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Family Vacation Packing List & Budget Tracker",
+      "slug": "family-vacation-packing-list-budget-tracker",
+      "price_eur": 9,
+      "target": "Families planning vacations who want to stay organized and track expenses",
+      "reason": "This comprehensive tool solves the common problem of disorganized vacation planning by combining packing lists with budget tracking in one professional system, saving families time and reducing pre-travel stress.",
+      "language": "en",
+      "pitch": "The all-in-one solution to organize your family's packing needs and vacation budget in one professional spreadsheet with smart calculations and visual overviews.",
+      "content_html": "<h2>Content</h2><p>Complete packing checklist with categories, budget tracker with expense breakdown, packing progress dashboard, and pre-travel to-do list.</p>",
+      "pro": true,
+      "created": "2026-11-13T23:36:54",
+      "file": "family-vacation-packing-list-budget-tracker-bae0e0d944f6223d.xlsx",
+      "size": 16,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Der Inhalt hält sich weitgehend an die Regeln: keine erfundenen Studien, Statistiken oder Zitate, keine Gesundheitsversprechen oder Rechtsberatung. Die Beispieldaten sind plausibel und klar als Beispiel gekennzeichnet. Die Formeln und Tabellen sind sinnvoll und dienen dem Zweck der Organisation. Män",
+      "pay_url": "https://buy.stripe.com/3cIbJ26w9alBaay8EI2ky0G",
+      "payment_link_id": "plink_1UbU6jJ5iOXkWb9VSXX0Kfjw",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.028232399999999998,
-      "why": "KI-Denken: Ultimate Exam Prep Budget & Progress Tracker"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Progress Tracker"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.0286824,
-      "why": "KI-Denken: Ultimate Exam Prep Budget & Study Time Tracker"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.0010391999999999999,
-      "why": "KI-Pruefung: Ultimate Exam Prep Budget & Study Time Tracker"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.034603199999999994,
-      "why": "KI-Denken: The Family-Friendly Restaurant Playbook: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.0034031999999999995,
-      "why": "KI-Pruefung: The Family-Friendly Restaurant Playbook: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-11-11T02:08:27",
-      "eur": -0.0037907999999999996,
-      "why": "Audit: Organisation Simplifiée pour Petits Propriétaires: 7 Étapes pour Gérer 1 à 5 Log"
-    },
-    {
-      "t": "2026-11-11T02:08:27",
-      "eur": -0.0040476,
-      "why": "Audit: Ultimate Exam Prep Budget & Study Time Tracker"
-    },
-    {
-      "t": "2026-11-11T02:08:27",
-      "eur": -0.0032352,
-      "why": "Audit: The Family-Friendly Restaurant Playbook: 7 Simple Steps to Attract More Families"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.001248,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (zh)"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.0011879999999999998,
-      "why": "Blog-Artikel: Frankfurt Skyline (es)"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.0004139999999999999,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能考试预算与时间追踪器 - 2026专业版"
-    },
     {
       "t": "2026-11-11T01:58:10",
       "eur": 0,
@@ -15120,6 +15097,101 @@
       "t": "2026-11-13T17:47:26",
       "eur": -0.00038639999999999996,
       "why": "Video-Skript: Neuschwanstein"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.029937599999999998,
+      "why": "KI-Denken: Studienplaner & Prüfungsbudget-Tracker für Studierende"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Studienplaner & Prüfungsbudget-Tracker für Studierende"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.030349199999999996,
+      "why": "KI-Denken: Ultimativer Prüfungsplaner & Lernfortschritts-Tracker für Studierende"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.0012443999999999999,
+      "why": "KI-Pruefung: Ultimativer Prüfungsplaner & Lernfortschritts-Tracker für Studierende"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.0384204,
+      "why": "KI-Denken: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.0041064,
+      "why": "KI-Pruefung: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.030381599999999998,
+      "why": "KI-Denken: Ultimate Family Vacation Packing List & Budget Tracker"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.0012875999999999999,
+      "why": "KI-Pruefung: Ultimate Family Vacation Packing List & Budget Tracker"
+    },
+    {
+      "t": "2026-11-13T23:41:55",
+      "eur": -0.0040284,
+      "why": "Audit: Ultimativer Prüfungsplaner & Lernfortschritts-Tracker für Studierende"
+    },
+    {
+      "t": "2026-11-13T23:41:55",
+      "eur": -0.003864,
+      "why": "Audit: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
+    },
+    {
+      "t": "2026-11-13T23:41:55",
+      "eur": -0.0016499999999999998,
+      "why": "Audit: Ultimate Family Vacation Packing List & Budget Tracker"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.0014159999999999997,
+      "why": "Blog-Artikel: Saechsische Schweiz (en)"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.0012683999999999998,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (zh)"
+    },
+    {
+      "t": "2026-11-13T23:36:54",
+      "eur": -0.0003372,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
     }
   ],
   "alive": true,
@@ -18069,6 +18141,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-11-13T17:47:26",
       "img": true
+    },
+    {
+      "slug": "saxon-switzerland-national-park",
+      "title": "Discover the Saxon Switzerland National Park: A Nature Lover's Paradise",
+      "lang": "en",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-11-13T23:36:54",
+      "img": true
+    },
+    {
+      "slug": "ruegenkreidefelsen-reiseguide-china",
+      "title": "德国吕根岛：探索白垩悬崖的奇妙之旅",
+      "lang": "zh",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-11-13T23:36:54",
+      "img": true
     }
   ],
   "videos": [
@@ -19590,6 +19678,16 @@
       "hashtags": "#Neuschwanstein #Märchenschloss #Bayern #Alpen #DeutschlandEntdecken",
       "voice": "Hoch über den Alpen thront Neuschwanstein – das ikonische Märchenschloss König Ludwigs II.! Tauchen Sie ein in eine Welt prunkvoller Säle, geheimnisvoller Gänge und mittelalterlicher Romantik. Die atemberaubende Bergkulisse macht jedes Foto zum Kunstwerk. Ein magisches Erlebnis für Groß und Klein!",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "ruegenkreidefelsen-reiseguide-china",
+      "title": "德国吕根岛：探索白垩悬崖的奇妙之旅",
+      "lang": "zh",
+      "created": "2026-11-13T23:36:54",
+      "hashtags": "#吕根岛 #白垩悬崖 #波罗的海 #自然奇观 #德国旅游",
+      "voice": "欢迎来到德国吕根岛！这里是白垩悬崖的家园，壮丽的自然景观令人叹为观止。波罗的海的碧蓝海水与洁白悬崖交相辉映，形成独特的美景。徒步探索这片自然奇迹，感受清新海风，聆听波涛拍岸的声音。无论是放松身心，还是寻求冒险，吕根岛都能满足你的期待。快来体验这片迷人的度假天堂吧！",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
