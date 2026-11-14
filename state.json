@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 386.9957,
-  "spent_eur": 117.6747,
+  "balance_eur": 386.6191,
+  "spent_eur": 118.0513,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9098,7 +9098,10 @@
       "audit_note": "Die Prozentzahlen (10%, 20%, etc.) sind als Beispielrechnungen dargestellt und klar als Faustregeln bzw. allgemein bekannte Praxistipps markiert. Keine erfundenen Studien oder spezifische Statistiken gefunden. Inhalt bietet praktische Tipps ohne Gesundheitsversprechen, Marken oder Rechtsberatung.",
       "pay_url": "https://buy.stripe.com/eVqeVecUxgJZaay08c2kx1o",
       "payment_link_id": "plink_1UU2rzJ5iOXkWb9V5rZc0NHc",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4617403492"
+      }
     },
     {
       "type": "excel",
@@ -14349,129 +14352,81 @@
       "pay_url": "https://buy.stripe.com/dRmcN6cUx0L14Qe8EI2ky0M",
       "payment_link_id": "plink_1UbidCJ5iOXkWb9VFskmRwC9",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer vos Cours",
+      "slug": "guide-pratique-enseignants-strategies-simples",
+      "price_eur": 5,
+      "target": "enseignants et tuteurs",
+      "reason": "Ce guide répond aux besoins spécifiques des enseignants et des tuteurs en offrant des stratégies concrètes pour gagner du temps et améliorer leurs cours. Avec des exemples pratiques et des conseils faciles à mettre en œuvre, ce livre est un investissement précieux pour tous ceux qui cherchent à optimiser leur pratique pédagogique.",
+      "language": "fr",
+      "pitch": "Découvrez des méthodes efficaces pour optimiser votre temps et améliorer vos cours grâce à ce guide pratique conçu spécialement pour les enseignants et les tuteurs.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Introduction : Pourquoi optimiser votre temps ?</li><li>Chapitre 1 : Organisez votre emploi du temps</li><li>Chapitre 2 : Utilisez des outils numériques pour gagner du temps</li><li>Chapitre 3 : Créez des plans de cours efficaces</li><li>Chapitre 4 : Améliorez la gestion de classe</li><li>Chapitre 5 : Évaluez les progrès de vos élèves</li><li>Conclusion : Des cours plus efficaces et moins de stress</li></ul>",
+      "pro": false,
+      "created": "2026-11-14T20:45:09",
+      "file": "guide-pratique-enseignants-strategies-simples-6d01e12c039afc34.pdf",
+      "size": 1553,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Der Inhalt ist frei von erfundenen Studien, Statistiken oder Zahlen. Die Sprache ist korrekt und konsistent, keine Platzhalter oder unfertigen Texte vorhanden. Es gibt keine falschen Gesundheitsversprechen, Finanzberatung oder fremden Marken. Praktische Tipps sind klar und nachvollziehbar.",
+      "pay_url": "https://buy.stripe.com/6oUcN6g6JgJZgyW9IM2ky0N",
+      "payment_link_id": "plink_1UbntCJ5iOXkWb9VfgGYJLwS",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Senior Care Medication & Expense Tracker Pro",
+      "slug": "senior-care-medication-expense-tracker-pro",
+      "price_eur": 9,
+      "target": "Families managing care for elderly relatives and small care organizations",
+      "reason": "This comprehensive tracker solves the real problem of managing multiple aspects of senior care in one place, with automated calculations and visual summaries that save families significant time and reduce stress.",
+      "language": "en",
+      "pitch": "Comprehensive tracker for medication schedules and care-related expenses with automated calculations and reminders. Perfect for families juggling multiple responsibilities.",
+      "content_html": "<h2>Content</h2><p>Track medications, appointments, and expenses in one place with automated calculations and visual overviews.</p>",
+      "pro": true,
+      "created": "2026-11-14T20:45:09",
+      "file": "senior-care-medication-expense-tracker-pro-42dca1e7e3959f66.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder unzulässige Zahlen. Enthält keine unvollständigen Texte, Platzhalter oder Gesundheitsversprechen. Beispielhafte Daten sind klar als solche erkennbar.",
+      "pay_url": "https://buy.stripe.com/fZu3cwbQtdxNciGcUY2ky0O",
+      "payment_link_id": "plink_1UbntDJ5iOXkWb9VhTj6N4qN",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Freelancer's Quick Productivity Boost: 7 Simple Steps to Get More Done in Less Time",
+      "slug": "freelancer-quick-productivity-boost",
+      "price_eur": 5,
+      "target": "Freelancers and self-employed professionals who struggle with time management and want practical, actionable strategies",
+      "reason": "After analyzing the poor sales of previous productivity guides, this version focuses on extremely practical, immediately applicable techniques rather than theory. It targets the specific pain points freelancers mention: constant interruptions, difficulty prioritizing, and blurry work-life boundaries. The price point makes it an easy impulse purchase for time-strapped solopreneurs.",
+      "language": "en",
+      "pitch": "Discover proven methods to triple your productivity without burnout. Perfect for busy solopreneurs who want to work smarter, not harder.",
+      "content_html": "<h2>Contents</h2><ol><li>The 5-Minute Morning Routine That Changes Everything</li><li>Your Personal Productivity Formula</li><li>Taming Email and Messaging Chaos</li><li>The Focus Sprint Method</li><li>Automation Tricks You Haven't Tried</li><li>When Multitasking Actually Works</li><li>The 24-Hour Restart Button</li></ol><p>Preview: The secret isn't working more hours - it's working the right hours. Imagine completing your day's work by lunchtime, then...</p>",
+      "pro": false,
+      "created": "2026-11-14T20:45:09",
+      "file": "freelancer-quick-productivity-boost-3b69ed5ba554e16c.pdf",
+      "size": 2080,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine offensichtlichen Regelverstöße gefunden. Der Inhalt enthält praktische Tipps ohne erfundene Studien oder falsche Behauptungen. Allgemein bekannte Fakten werden korrekt verwendet.",
+      "pay_url": "https://buy.stripe.com/5kQ28s4o12T9aay5sw2ky0P",
+      "payment_link_id": "plink_1UbntEJ5iOXkWb9Vexw1GvmZ",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": -0.0011963999999999998,
-      "why": "KI-Pruefung: Suivi des Dépenses de Soins & Planificateur de Budget pour Seniors"
-    },
-    {
-      "t": "2026-11-12T00:50:47",
-      "eur": -0.0032735999999999998,
-      "why": "Audit: YouTube广告收入分析与预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-12T00:50:47",
-      "eur": -0.0039732,
-      "why": "Audit: 智能教学助手：7步轻松提升课堂管理效率"
-    },
-    {
-      "t": "2026-11-12T00:50:47",
-      "eur": -0.002544,
-      "why": "Audit: Suivi des Dépenses de Soins & Planificateur de Budget pour Seniors"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": -0.0012731999999999997,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (es)"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": -0.0016248,
-      "why": "Blog-Artikel: Muenchen Marienplatz (fr)"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": -0.00038159999999999995,
-      "why": "Video-Skript: Muenchen Marienplatz"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Umzugsbudget-Tracker & Renovierungskosten-Rechner"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615260709"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Schritte zum erfolgreichen Gemüsegarten für Selbstversorger: Einfache Anleitung für Anfänger"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615273698"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: YouTube Analytics & Content ROI Tracker - Creator Pro Edition"
-    },
-    {
-      "t": "2026-11-12T00:47:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615273746"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.0365688,
-      "why": "KI-Denken: Le Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.0040236,
-      "why": "KI-Pruefung: Le Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.0294876,
-      "why": "KI-Denken: Ultimate Black Forest Family Travel Budget Planner & Activity Tracker"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.0013571999999999998,
-      "why": "KI-Pruefung: Ultimate Black Forest Family Travel Budget Planner & Activity Tracker"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 5 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.029236799999999997,
-      "why": "KI-Denken: Ultimate Black Forest Travel Budget Planner & Itinerary Tracker for Families (2026 Edition)"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.0011556,
-      "why": "KI-Pruefung: Ultimate Black Forest Travel Budget Planner & Itinerary Tracker for Families (2026 Edition)"
-    },
     {
       "t": "2026-11-12T09:53:22",
       "eur": -0.03390479999999999,
@@ -15356,6 +15311,126 @@
       "t": "2026-11-14T15:08:09",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617189436"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.03559679999999999,
+      "why": "KI-Denken: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer vos Cours"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.0038819999999999996,
+      "why": "KI-Pruefung: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer vos Cours"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.0301812,
+      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.030686399999999996,
+      "why": "KI-Denken: Senior Care Medication & Expense Tracker Pro"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.0011459999999999999,
+      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker Pro"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.030731999999999995,
+      "why": "KI-Denken: Senior Care Medication & Expense Tracker Pro"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.0011795999999999998,
+      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker Pro"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.03641879999999999,
+      "why": "KI-Denken: The Freelancer's Quick Productivity Boost: 7 Simple Steps to Get More Done in Less Time"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.0033311999999999994,
+      "why": "KI-Pruefung: The Freelancer's Quick Productivity Boost: 7 Simple Steps to Get More Done in Less Time"
+    },
+    {
+      "t": "2026-11-14T20:49:23",
+      "eur": -0.0036263999999999992,
+      "why": "Audit: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps"
+    },
+    {
+      "t": "2026-11-14T20:49:23",
+      "eur": -0.0027347999999999995,
+      "why": "Audit: Senior Care Medication & Expense Tracker Pro"
+    },
+    {
+      "t": "2026-11-14T20:49:23",
+      "eur": -0.003198,
+      "why": "Audit: The Freelancer's Quick Productivity Boost: 7 Simple Steps to Get More Done in Le"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.0011183999999999999,
+      "why": "Blog-Artikel: Dresden Frauenkirche (zh)"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.001548,
+      "why": "Blog-Artikel: Harz Brocken (es)"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.00035519999999999996,
+      "why": "Video-Skript: Harz Brocken"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
+    },
+    {
+      "t": "2026-11-14T20:45:09",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617403492"
     }
   ],
   "alive": true,
@@ -18353,6 +18428,22 @@
       "topic": "Berlin Brandenburger Tor",
       "created": "2026-11-14T15:08:09",
       "img": true
+    },
+    {
+      "slug": "dresden-frauenkirche-china-zh",
+      "title": "德累斯顿圣母教堂：历史与现代的交汇之地",
+      "lang": "zh",
+      "topic": "Dresden Frauenkirche",
+      "created": "2026-11-14T20:45:09",
+      "img": true
+    },
+    {
+      "slug": "descubriendo-el-brocken-harz-alemania",
+      "title": "Descubriendo el Brocken: El Corazón Mágico del Harz",
+      "lang": "es",
+      "topic": "Harz Brocken",
+      "created": "2026-11-14T20:45:09",
+      "img": true
     }
   ],
   "videos": [
@@ -19904,6 +19995,16 @@
       "hashtags": "#BrandenburgGate #BerlinLandmarks #GermanyTravel #HistoricBerlin #VisitGermany",
       "voice": "The Brandenburg Gate - Berlin's most iconic symbol! This neoclassical marvel has witnessed centuries of history, from Napoleon's marches to peaceful reunification celebrations. Today it shines as a beacon of freedom and unity. By day, admire its majestic columns; by night, see it glow against the Berlin skyline. Don't miss the Quadriga statue crowning this architectural wonder - a must-see for every visitor!",
       "credits": "Foto: David Biene / WWF, CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "descubriendo-el-brocken-harz-alemania",
+      "title": "Descubriendo el Brocken: El Corazón Mágico del Harz",
+      "lang": "es",
+      "created": "2026-11-14T20:45:09",
+      "hashtags": "#Brocken #Harz #Alemania #Viajes #Naturaleza",
+      "voice": "El Brocken, la montaña más alta del Harz, es un lugar lleno de magia y leyendas. Con sus paisajes de ensueño y rutas increíbles, atrae a aventureros todo el año. ¡Déjate sorprender por sus vistas panorámicas y la atmósfera única de este destino fascinante en el corazón de Alemania!",
+      "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
