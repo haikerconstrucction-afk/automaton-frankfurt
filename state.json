@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 388.3115,
-  "spent_eur": 116.3589,
+  "balance_eur": 387.8059,
+  "spent_eur": 116.8645,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -8963,7 +8963,10 @@
       "audit_note": "Das Produkt ist eine einfache Excel-Tabelle zur Erfassung von Reisekosten ohne erfundene Zahlen, Studien oder gesundheitsbezogene Versprechen. Es werden nur allgemein bekannte Steuersätze (wie 19% MwSt) verwendet und klar als Beispielrechnungen dargestellt. Die Funktionalität ist nachvollziehbar und",
       "pay_url": "https://buy.stripe.com/cNicN69IldxNbeC2gk2kx1j",
       "payment_link_id": "plink_1UTrhhJ5iOXkWb9Vy9FxSXQV",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4616957687"
+      }
     },
     {
       "type": "ebook",
@@ -8987,7 +8990,10 @@
       "audit_note": "Der Inhalt entspricht den vorgegebenen Regeln, enthält keine erfundenen Statistiken oder falschen Behauptungen. Der Reiseführer bietet praxisnahe Tipps und lokale Empfehlungen ohne unzulässige Versprechen oder Verstöße gegen die Regeln. Einige Formatierungs- und Wiederholungsaspekte könnten optimier",
       "pay_url": "https://buy.stripe.com/bJe4gA9Il0L1aaycUY2kx1k",
       "payment_link_id": "plink_1UTwvKJ5iOXkWb9V8wGWEQ4R",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4616966504"
+      }
     },
     {
       "type": "excel",
@@ -14190,104 +14196,81 @@
       "pay_url": "https://buy.stripe.com/3cIbJ26w9alBaay8EI2ky0G",
       "payment_link_id": "plink_1UbU6jJ5iOXkWb9VSXX0Kfjw",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Your First 100 Sales",
+      "slug": "etsy-sellers-quick-start-guide-first-100-sales",
+      "price_eur": 5,
+      "target": "New Etsy sellers looking to launch successfully and get their first sales quickly",
+      "reason": "Many new Etsy sellers struggle to get their first sales. This guide provides clear, actionable steps based on proven strategies that work in 2026, helping beginners avoid common mistakes and start making sales quickly.",
+      "language": "en",
+      "pitch": "A practical step-by-step guide to setting up and optimizing your Etsy shop for fast results. Learn proven strategies to attract buyers and make your first 100 sales without expensive ads.",
+      "content_html": "<h2>Content</h2><p>This guide walks you through the essential steps to launch a successful Etsy shop. Includes real-world examples and simple checklists.</p><h3>Sample Chapter</h3><p>Learn how to write product titles that get found in Etsy search while staying authentic to your brand voice.</p>",
+      "pro": false,
+      "created": "2026-11-14T06:30:21",
+      "file": "etsy-sellers-quick-start-guide-first-100-sales-80396c5a39d7cbbe.pdf",
+      "size": 1991,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Tipps sind praxisnah und allgemein bekannt. Keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/8x2bJ29IldxN82qg7a2ky0H",
+      "payment_link_id": "plink_1UbabpJ5iOXkWb9VpT5Dcrnn",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Gestión de Eventos y Finanzas para Asociaciones: Planificador Profesional",
+      "slug": "gestion-eventos-finanzas-asociaciones",
+      "price_eur": 9,
+      "target": "Vereine und Ehrenamtliche, die ihre Veranstaltungen und Finanzen effizient verwalten möchten",
+      "reason": "Vereine und ehrenamtliche Organisationen benötigen professionelle Tools zur Verwaltung ihrer Aktivitäten, die einfach zu bedienen sind und dennoch alle wichtigen Funktionen bieten. Diese Vorlage kombiniert Eventplanung, Finanzverwaltung und Spenderbetreuung in einer Lösung.",
+      "language": "es",
+      "pitch": "Planifica eventos, verfolge Ausgaben und verwalte Spenden mit dieser professionellen Excel-Vorlage. Ideal für Vereine und ehrenamtliche Organisationen.",
+      "content_html": "<h2>Inhalt</h2><p>Diese professionelle Excel-Vorlage hilft dir, alle Aspekte deiner Vereinsarbeit zu organisieren - von der Eventplanung bis zur Finanzverwaltung.</p>",
+      "pro": true,
+      "created": "2026-11-14T06:30:21",
+      "file": "gestion-eventos-finanzas-asociaciones-0c9c3a764643eb3c.xlsx",
+      "size": 10,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen gefunden. Die Excel-Vorlage ist funktional und enthält plausible Beispiel-Daten. Die Sprache ist durchgängig Spanisch mit einigen deutschen Begriffen, was aber nicht gegen die Regeln verstößt. Keine Rechts- oder Finanzberatung erkennbar.",
+      "pay_url": "https://buy.stripe.com/cNi9AUg6J79p96u8EI2ky0I",
+      "payment_link_id": "plink_1UbabpJ5iOXkWb9VjoqKldTQ",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés",
+      "slug": "guia-practica-para-duenos-de-perros-ocupados",
+      "price_eur": 5,
+      "target": "Hombres dueños de perros con poco tiempo",
+      "reason": "Responde a una necesidad real de dueños de perros con agendas ocupadas, ofreciendo soluciones prácticas y realistas que pueden implementarse en poco tiempo. El enfoque en estrategias sencillas y ejemplos concretos lo hace valioso para su precio.",
+      "language": "es",
+      "pitch": "Aprende técnicas eficientes para cuidar a tu perro sin descuidar tus responsabilidades. Ideal para dueños ocupados que quieren lo mejor para su mascota.",
+      "content_html": "<h2>Contenido</h2><ul><li>Capítulo 1: Entendiendo las necesidades básicas de tu perro</li><li>Capítulo 2: Rutinas eficientes de paseo y ejercicio</li><li>Capítulo 3: Alimentación saludable sin complicaciones</li><li>Capítulo 4: Entrenamiento básico en minutos al día</li><li>Capítulo 5: Cuidado del pelaje y salud básica</li><li>Capítulo 6: Juguetes y entretenimiento autónomo</li><li>Capítulo 7: Cómo viajar o dejar a tu perro con tranquilidad</li></ul><p>Leseprobe: <em>\"Incluso con una agenda apretada, puedes convertir los 10 minutos de la mañana en un vínculo especial con tu perro. Un breve paseo alrededor de la manzana combinado con ejercicios de olfato puede ser igual de efectivo que una hora en el parque...\"</em></p>",
+      "pro": false,
+      "created": "2026-11-14T06:30:21",
+      "file": "guia-practica-para-duenos-de-perros-ocupados-bce32703681eab48.pdf",
+      "size": 1785,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Sprache ist konsequent Spanisch, keine Platzhalter oder unfertigen Texte. Keine Rechts- oder Finanzberatung. Kleine formelle Fehler (z.B. abgebrochener Kapitel-Titel '4. Entrenamiento bás') sin",
+      "pay_url": "https://buy.stripe.com/9B6cN62fT3Xd1E27AE2ky0J",
+      "payment_link_id": "plink_1UbabqJ5iOXkWb9Vavjbv4rs",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614512592"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能小餐厅与咖啡馆成功指南：7个简单策略吸引更多顾客"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614512626"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Voyage et Suivi de Dépenses - Modèle Professionnel"
-    },
-    {
-      "t": "2026-11-11T01:58:10",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4614512664"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": -0.028463999999999996,
-      "why": "KI-Denken: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Familien"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimativer Reisebudget-Tracker & Packlisten-Planer für Familien"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": -0.0284904,
-      "why": "KI-Denken: Ultimativer Reisekosten-Tracker & Packlisten-Planer für Geschäftsreisende"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": -0.0010716,
-      "why": "KI-Pruefung: Ultimativer Reisekosten-Tracker & Packlisten-Planer für Geschäftsreisende"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": -0.0362028,
-      "why": "KI-Denken: Etsy-Erfolg in 7 Schritten: Der einfache Guide für mehr Sichtbarkeit und Verkäufe"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": -0.0042683999999999995,
-      "why": "KI-Pruefung: Etsy-Erfolg in 7 Schritten: Der einfache Guide für mehr Sichtbarkeit und Verkäufe"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": -0.028897199999999998,
-      "why": "KI-Denken: Smart Event Budget & Volunteer Management Tracker for Clubs & Associations"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": -0.0010164,
-      "why": "KI-Pruefung: Smart Event Budget & Volunteer Management Tracker for Clubs & Associations"
-    },
-    {
-      "t": "2026-11-11T09:33:33",
-      "eur": -0.0025476,
-      "why": "Audit: Ultimativer Reisekosten-Tracker & Packlisten-Planer für Geschäftsreisende"
-    },
-    {
-      "t": "2026-11-11T09:33:33",
-      "eur": -0.0038951999999999997,
-      "why": "Audit: Etsy-Erfolg in 7 Schritten: Der einfache Guide für mehr Sichtbarkeit und Verkäuf"
-    },
-    {
-      "t": "2026-11-11T09:33:33",
-      "eur": -0.0030791999999999994,
-      "why": "Audit: Smart Event Budget & Volunteer Management Tracker for Clubs & Associations"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-11T09:29:41",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
     {
       "t": "2026-11-11T09:29:41",
       "eur": 0,
@@ -15192,6 +15175,111 @@
       "t": "2026-11-13T23:36:54",
       "eur": -0.0003372,
       "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.035431199999999996,
+      "why": "KI-Denken: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Your First 100 Sales"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.00339,
+      "why": "KI-Pruefung: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Your First 100 Sales"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.030909599999999995,
+      "why": "KI-Denken: Gestión de Eventos y Finanzas para Asociaciones: Planificador Profesional"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.0015408,
+      "why": "KI-Pruefung: Gestión de Eventos y Finanzas para Asociaciones: Planificador Profesional"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.036910799999999994,
+      "why": "KI-Denken: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.004231199999999999,
+      "why": "KI-Pruefung: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-11-14T06:38:25",
+      "eur": -0.0031655999999999998,
+      "why": "Audit: The Etsy Seller's Quick-Start Guide: 7 Simple Steps to Your First 100 Sales"
+    },
+    {
+      "t": "2026-11-14T06:38:25",
+      "eur": -0.0031907999999999993,
+      "why": "Audit: Gestión de Eventos y Finanzas para Asociaciones: Planificador Profesional"
+    },
+    {
+      "t": "2026-11-14T06:38:25",
+      "eur": -0.0039047999999999995,
+      "why": "Audit: Guía Práctica para Dueños de Perros Ocupados: 7 Estrategias Simples para un Cuid"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.0011819999999999999,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (es)"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.0013679999999999999,
+      "why": "Blog-Artikel: Frankfurt Skyline (fr)"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.00035519999999999996,
+      "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimativer Berlin & Potsdam Reisekosten-Tracker für Selbstständige"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616957687"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Entdecke Dresden & Sachsen: Der ultimative Reiseführer zu versteckten Schätzen & lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616966504"
+    },
+    {
+      "t": "2026-11-14T06:30:21",
+      "eur": 0,
+      "why": "etsy-Fehler bei construction-site-offer-cost-tracker: HTTP Error 400: Bad Request {\"error\":\"The listing has no associated processing profiles. It can not be activated without a processing profile.\"}\n"
     }
   ],
   "alive": true,
@@ -18157,6 +18245,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-11-13T23:36:54",
       "img": true
+    },
+    {
+      "slug": "speicherstadt-hamburgo-guia",
+      "title": "Descubriendo la Speicherstadt de Hamburgo: Un viaje al corazón histórico de la ciudad",
+      "lang": "es",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-11-14T06:30:21",
+      "img": true
+    },
+    {
+      "slug": "skyline-de-francfort-allemagne",
+      "title": "La Skyline de Francfort : Un Mélange Unique d'Histoire et de Modernité",
+      "lang": "fr",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-11-14T06:30:21",
+      "img": true
     }
   ],
   "videos": [
@@ -19688,6 +19792,16 @@
       "hashtags": "#吕根岛 #白垩悬崖 #波罗的海 #自然奇观 #德国旅游",
       "voice": "欢迎来到德国吕根岛！这里是白垩悬崖的家园，壮丽的自然景观令人叹为观止。波罗的海的碧蓝海水与洁白悬崖交相辉映，形成独特的美景。徒步探索这片自然奇迹，感受清新海风，聆听波涛拍岸的声音。无论是放松身心，还是寻求冒险，吕根岛都能满足你的期待。快来体验这片迷人的度假天堂吧！",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons; Foto: Dguendel, CC BY 4.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "skyline-de-francfort-allemagne",
+      "title": "La Skyline de Francfort : Un Mélange Unique d'Histoire et de Modernité",
+      "lang": "fr",
+      "created": "2026-11-14T06:30:21",
+      "hashtags": "#Francfort #Skyline #Allemagne #Voyage #UrbanTrip",
+      "voice": "Découvrez Francfort, une skyline spectaculaire en plein cœur de l'Europe ! Entre buildings futuristes et quartiers historiques, cette métropole vibrante allie puissance économique et charme rhénan. Promenez-vous le long du Main, contemplez les tours scintillantes, et laissez-vous séduire par cette ville où l'innovation rencontre l'histoire. Francfort vous attend !",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
