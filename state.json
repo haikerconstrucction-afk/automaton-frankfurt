@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 384.823,
-  "spent_eur": 119.8474,
+  "balance_eur": 384.7028,
+  "spent_eur": 119.9676,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -14658,104 +14658,57 @@
       "pay_url": "https://buy.stripe.com/aFa00kcUx65ldmK4os2ky0Y",
       "payment_link_id": "plink_1Uc74hJ5iOXkWb9VtVuslnGi",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "7 Histoires Enchantées pour le Dodo : Des Aventures Magiques pour les Petits Explorateurs",
+      "slug": "7-histoires-enchantees-pour-le-dodo",
+      "price_eur": 5,
+      "target": "parents",
+      "reason": "Ces histoires courtes et apaisantes aideront les parents à endormir leurs enfants tout en stimulant leur imagination, apportant des moments de magie et de douceur avant le coucher.",
+      "language": "fr",
+      "pitch": "Plongez vos enfants dans un monde féerique avec ces 7 histoires courtes et captivantes, parfaites pour apaiser les petits esprits avant de dormir.",
+      "content_html": "<h2>Contenu</h2>\n<ul>\n<li>Chapitre 1: Le Royaume des étoiles</li>\n<li>Chapitre 2: La Forêt des murmures</li>\n<li>Chapitre 3: Le Voyage de la petite lune</li>\n<li>Chapitre 4: Le Château des rêves</li>\n<li>Chapitre 5: L'Oiseau arc-en-ciel</li>\n<li>Chapitre 6: La Rivière d’argent</li>\n<li>Chapitre 7: Le Jardin des secrets</li>\n</ul>\n<h2>Extrait</h2>\n<p>Dans une petite maison au bord d’une forêt enchantée vivait un jeune garçon nommé Léo. Un soir, alors qu’il regardait les étoiles scintiller, il entendit un léger murmure qui semblait venir de la forêt...</p>",
+      "pro": false,
+      "created": "2026-11-15T22:52:35",
+      "file": "7-histoires-enchantees-pour-le-dodo-2ab6891656359841.pdf",
+      "size": 1642,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 10,
+      "audit_note": "Der Inhalt erfüllt alle Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen, keine falschen Sprachmischungen, keine Platzhalter oder unfertigen Texte. Es handelt sich um eine Sammlung von fantasievollen Geschichten für Kinder, die keine Rechts-, Steuer-, Finanz- oder Medizinbera",
+      "pay_url": "https://buy.stripe.com/00w00kg6J8dtaaydZ22ky0Z",
+      "payment_link_id": "plink_1UcCLmJ5iOXkWb9V9ySNnRoK",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate Wedding Budget & Vendor Tracker",
+      "slug": "ultimate-wedding-budget-vendor-tracker",
+      "price_eur": 9,
+      "target": "Couples planning their wedding",
+      "reason": "This tracker provides a comprehensive solution for managing wedding budgets and vendor details, ensuring couples can stay organized and focused on their special day.",
+      "language": "en",
+      "pitch": "Easily manage your wedding budget and vendor details with this professional tracker, designed to keep everything organized and stress-free.",
+      "content_html": "<h2>Inhalt</h2><p>This Excel template helps you track your wedding budget, manage vendor details, and monitor payments. Stay organized and ensure your wedding planning stays on track.</p>",
+      "pro": true,
+      "created": "2026-11-15T22:52:35",
+      "file": "ultimate-wedding-budget-vendor-tracker-142a3f63f86c5a22.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist grundsätzlich in Ordnung und hält sich an die Regeln. Es enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielwerte sind klar als solche erkennbar und dienen der Veranschaulichung der Funktionalität. Die Formeln sind logisch und nachvollziehbar. Es gibt keine",
+      "pay_url": "https://buy.stripe.com/eVq4gA4o1alBgyWaMQ2ky10",
+      "payment_link_id": "plink_1UcCLnJ5iOXkWb9V1zOCrCw0",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Family Adventures in the Rhine Valley: The Ultimate Guide to Exploring Frankfurt, Heidelberg & Beyond"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616284486"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": -0.036590399999999995,
-      "why": "KI-Denken: Économiser Facilement : 7 Astuces Simples pour Optimiser votre Budget Familial"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": -0.003948,
-      "why": "KI-Pruefung: Économiser Facilement : 7 Astuces Simples pour Optimiser votre Budget Familial"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": -0.029886,
-      "why": "KI-Denken: Smart Family Fitness Budget & Progress Tracker"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": -0.0010823999999999999,
-      "why": "KI-Pruefung: Smart Family Fitness Budget & Progress Tracker"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": -0.0350196,
-      "why": "KI-Denken: The Organized Landlord: 7 Stress-Free Strategies to Manage 1-5 Rentals Efficiently"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": -0.0032448,
-      "why": "KI-Pruefung: The Organized Landlord: 7 Stress-Free Strategies to Manage 1-5 Rentals Efficiently"
-    },
-    {
-      "t": "2026-11-13T17:52:27",
-      "eur": -0.0038063999999999997,
-      "why": "Audit: Économiser Facilement : 7 Astuces Simples pour Optimiser votre Budget Familial"
-    },
-    {
-      "t": "2026-11-13T17:52:27",
-      "eur": -0.0021984,
-      "why": "Audit: Smart Family Fitness Budget & Progress Tracker"
-    },
-    {
-      "t": "2026-11-13T17:52:27",
-      "eur": -0.0030023999999999997,
-      "why": "Audit: The Organized Landlord: 7 Stress-Free Strategies to Manage 1-5 Rentals Efficient"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": -0.00147,
-      "why": "Blog-Artikel: Heidelberg Altstadt (fr)"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": -0.0013763999999999998,
-      "why": "Blog-Artikel: Neuschwanstein (de)"
-    },
-    {
-      "t": "2026-11-13T17:47:26",
-      "eur": -0.00038639999999999996,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-11-13T23:36:54",
-      "eur": -0.029937599999999998,
-      "why": "KI-Denken: Studienplaner & Prüfungsbudget-Tracker für Studierende"
-    },
     {
       "t": "2026-11-13T23:36:54",
       "eur": -0.001,
@@ -15660,6 +15613,101 @@
       "t": "2026-11-15T17:14:22",
       "eur": -0.00039119999999999997,
       "why": "Video-Skript: Saarland Saarschleife"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": -0.03747,
+      "why": "KI-Denken: 7 Histoires Enchantées pour le Dodo : Des Aventures Magiques pour les Petits Explorateurs"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": -0.004214399999999999,
+      "why": "KI-Pruefung: 7 Histoires Enchantées pour le Dodo : Des Aventures Magiques pour les Petits Explorateurs"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": -0.031027199999999998,
+      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": -0.001,
+      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": -0.037144799999999985,
+      "why": "KI-Denken: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Household Budget"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-15T22:56:33",
+      "eur": -0.003969599999999999,
+      "why": "Audit: 7 Histoires Enchantées pour le Dodo : Des Aventures Magiques pour les Petits Exp"
+    },
+    {
+      "t": "2026-11-15T22:56:33",
+      "eur": -0.0031056,
+      "why": "Audit: Ultimate Wedding Budget & Vendor Tracker"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": 0,
+      "why": "Audit: 2 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": -0.000978,
+      "why": "Blog-Artikel: Koeln Dom (en)"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": -0.0009815999999999998,
+      "why": "Blog-Artikel: Ruhrgebiet Zollverein (zh)"
+    },
+    {
+      "t": "2026-11-15T22:52:35",
+      "eur": -0.000336,
+      "why": "Video-Skript: Ruhrgebiet Zollverein"
     }
   ],
   "alive": true,
@@ -18721,6 +18769,22 @@
       "topic": "Saarland Saarschleife",
       "created": "2026-11-15T17:14:22",
       "img": true
+    },
+    {
+      "slug": "cologne-cathedral-germany-travel-guide",
+      "title": "Cologne Cathedral: A Must-See Gothic Masterpiece in Germany",
+      "lang": "en",
+      "topic": "Koeln Dom",
+      "created": "2026-11-15T22:52:35",
+      "img": true
+    },
+    {
+      "slug": "explore-ruhrgebiet-zollverein-china",
+      "title": "探索德国鲁尔区的工业瑰宝：关税同盟煤矿工业区",
+      "lang": "zh",
+      "topic": "Ruhrgebiet Zollverein",
+      "created": "2026-11-15T22:52:35",
+      "img": true
     }
   ],
   "videos": [
@@ -20302,6 +20366,16 @@
       "hashtags": "#Saarland #Saarschleife #Naturwunder #Wanderparadies #DeutschlandEntdecken",
       "voice": "Die Saarschleife - ein spektakuläres Naturhighlight! Dieser einzigartige Flussbogen im Herzen des Saarlands bietet atemberaubende Panoramen. Ob Wandern, Radtouren oder einfach die Seele baumeln lassen - hier genießt ihr pure Natur. Der Baumwipfelpfad und die Cloef mit ihrem Aussichtspunkt sind absolute Must-Sees! Ein magischer Ort für Erholung und Abenteuer.",
       "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "explore-ruhrgebiet-zollverein-china",
+      "title": "探索德国鲁尔区的工业瑰宝：关税同盟煤矿工业区",
+      "lang": "zh",
+      "created": "2026-11-15T22:52:35",
+      "hashtags": "#德国旅游 #鲁尔区 #世界遗产 #工业旅游 #设计博物馆",
+      "voice": "欢迎来到德国鲁尔区的关税同盟煤矿工业区！这个联合国教科文组织世界遗产将工业历史与现代艺术完美融合。在这里，昔日的煤矿设施变身为令人惊叹的博物馆和展览空间，特别是红点设计博物馆绝对让设计爱好者流连忘返。漫步在这个工业文化园区，您能感受到德国工业历史的厚重与创新的活力。",
+      "credits": "Foto: Axel Schwenke from Meschede, Deutschland, CC BY-SA 2.0, via Wikimedia Commons; Foto: Deimel und Wittmar (Photo)Ruhr Museum (copyright holder), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Rutger van der Maar, CC BY 2.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
