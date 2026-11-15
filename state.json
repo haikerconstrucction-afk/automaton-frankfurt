@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 385.7718,
-  "spent_eur": 118.8986,
+  "balance_eur": 385.0089,
+  "spent_eur": 119.6615,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9206,7 +9206,10 @@
       "audit_note": "Der Inhalt ist ehrlich, legal und frei von erfundenen Studien, Statistiken oder Gesundheitsversprechen. Es gibt keine Rechts- oder Finanzberatung und keine Verwendung von Marken oder Personen Dritter. Die Sprache ist korrekt und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Kleine V",
       "pay_url": "https://buy.stripe.com/8x2cN61bP1P5ciG1cg2kx1s",
       "payment_link_id": "plink_1UU7TDJ5iOXkWb9Vp7rLpcV5",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4617715944"
+      }
     },
     {
       "type": "excel",
@@ -9230,7 +9233,10 @@
       "audit_note": "Das Produkt entspricht den Regeln. Es enthält keine erfundenen Studien, Statistiken oder falschen Angaben. Die Excel-Vorlage ist funktional und klar beschrieben. Die Beispielrechnungen sind plausibel und dienen der Illustration. Keine unrechtmäßigen Gesundheitsversprechen, Markenverletzungen oder Be",
       "pay_url": "https://buy.stripe.com/aFa4gA07L0L1beC6wA2kx1t",
       "payment_link_id": "plink_1UUA9tJ5iOXkWb9VwfndcmFv",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4617715958"
+      }
     },
     {
       "type": "ebook",
@@ -9254,7 +9260,10 @@
       "audit_note": "Die Prozentzahlen '100%' und '20%' sind nicht belegt und sollten entfernt werden. Der Rest des Inhalts ist allgemein bekannt und bietet praktische Tipps ohne erfundene Studien oder Statistiken.",
       "pay_url": "https://buy.stripe.com/7sYcN607L3XdgyW08c2kx1u",
       "payment_link_id": "plink_1UUA9uJ5iOXkWb9VDnYcSbGp",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4617715982"
+      }
     },
     {
       "type": "excel",
@@ -14505,149 +14514,81 @@
       "pay_url": "https://buy.stripe.com/aFa14o4o165l6Ym7AE2ky0S",
       "payment_link_id": "plink_1UbssbJ5iOXkWb9VMm4kH5ji",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures",
+      "slug": "bavarian-alps-hidden-gems-solo-female-travel-guide",
+      "price_eur": 5,
+      "target": "Solo female travelers aged 25-45 interested in safe, off-the-beaten-path adventures in the Bavarian Alps",
+      "reason": "Fills a gap in practical guides for solo female travelers in Bavaria, combining verified safety advice with genuinely local experiences. Unlike generic travel books, it addresses specific concerns like women-only accommodations and photography spots away from crowds.",
+      "language": "en",
+      "pitch": "Discover 7 carefully curated routes through Bavaria's most breathtaking landscapes with safety tips and local insights specifically for women traveling alone. Packed with practical advice to explore confidently while avoiding tourist crowds.",
+      "content_html": "<h2>Content</h2><ul><li>Chapter 1: Planning Your Perfect Alpine Escape</li><li>Chapter 2: Essential Safety Gear & Apps</li><li>Chapter 3: The Romantic Road Less Traveled (3-day itinerary)</li><li>Chapter 4: Mountain Huts with Female-Friendly Atmospheres</li><li>Chapter 5: Photographing Bavaria's Secret Waterfalls</li><li>Chapter 6: Connecting with Local Women's Hiking Groups</li><li>Bonus: German Phrases for Outdoor Encounters</li></ul>",
+      "pro": false,
+      "created": "2026-11-15T09:30:44",
+      "file": "bavarian-alps-hidden-gems-solo-female-travel-guide-13cf998706701bee.pdf",
+      "size": 1774,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist sachlich korrekt und enthält keine erfundenen Studien, Statistiken oder gesundheitsbezogenen Versprechen. Die Tipps sind praktisch und allgemein bekannt. Sprache ist durchgehend Englisch und es gibt keine unfertigen Texte oder Platzhalter.",
+      "pay_url": "https://buy.stripe.com/8x2dRa2fTbpF3Ma1cg2ky0T",
+      "payment_link_id": "plink_1UbzsnJ5iOXkWb9VfTqwPUTS",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Guía Práctica de Viaje para la Costa Alemana del Norte y Báltico: Itinerario y Gestor de Presupuesto",
+      "slug": "guia-viaje-costa-alemana-norte-baltico",
+      "price_eur": 9,
+      "target": "Hombres que viajan a la costa norte y Báltico de Alemania (2026)",
+      "reason": "Este producto satisface una necesidad real de viajeros independientes en el mercado hispanohablante, ofreciendo una herramienta profesional para maximizar su experiencia en un destino cada vez más popular. Combina aspectos prácticos (planificación, presupuesto) con recomendaciones locales útiles.",
+      "language": "es",
+      "pitch": "Planifica tu viaje perfecto a las costas alemanas con este completo gestor de itinerario y presupuesto. Ideal para viajeros independientes que buscan optimizar tiempo y gastos.",
+      "content_html": "<h2>Incluye</h2><ul><li>Planificador de ruta diaria</li><li>Control detallado de gastos</li><li>Listas de equipaje personalizables</li><li>Recomendaciones locales</li><li>Tablero con KPIs clave</li></ul>",
+      "pro": true,
+      "created": "2026-11-15T09:30:44",
+      "file": "guia-viaje-costa-alemana-norte-baltico-a9f2c4bc8d2f7fee.xlsx",
+      "size": 18,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Keine erfundenen Statistiken oder falschen Angaben. Alle Prozentzahlen basieren auf berechneten Beispielen. Keine Regelverstöße (Rechts-/Finanzberatung, Marken etc.) erkennbar. Inhalte sind vollständig, korrekt und in korrektem Spanisch.",
+      "pay_url": "https://buy.stripe.com/5kQaEYdYBgJZeqO6wA2ky0U",
+      "payment_link_id": "plink_1UbzsoJ5iOXkWb9VbKOJz7kV",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Guía Esencial del Viajero: Descubre el Rin, Frankfurt y Heidelberg en 7 Pasos",
+      "slug": "guia-esencial-del-viajero-rin-frankfurt-heidelberg",
+      "price_eur": 9.99,
+      "target": "Hombres hispanohablantes que planean un viaje a Alemania, interesados en cultura, naturaleza y experiencias auténticas",
+      "reason": "Hay pocas guías en español centradas específicamente en esta región alemana que combinen Frankfurt con el valle del Rin y Heidelberg. Este libro ofrece itinerarios optimizados y consejos prácticos basados en experiencia real, diferenciándose de las guías genéricas.",
+      "language": "es",
+      "pitch": "La guía práctica para explorar los rincones más bellos e históricos de la región del Rin, Frankfurt y Heidelberg. Con itinerarios eficientes y consejos locales que no encontrarás en las guías turísticas tradicionales.",
+      "content_html": "<h2>Contenido</h2><ol><li>Capítulo 1: Preparando tu aventura alemana</li><li>Capítulo 2: Frankfurt más allá de los rascacielos</li><li>Capítulo 3: El valle del Rin Romántico - joyas ocultas</li><li>Capítulo 4: Heidelberg - donde la historia cobra vida</li><li>Capítulo 5: Rutas panorámicas mejores guardadas</li><li>Capítulo 6: Sabores locales - dónde comer como un experto</li><li>Capítulo 7: Consejos prácticos para moverte como local</li></ol><p>Extracto: ¿Sabías que a 10 minutos del centro de Heidelberg hay un sendero forestal que conduce a las ruinas más fotogénicas y menos visitadas? En el capítulo 4 te revelamos este y otros secretos de la ciudad universitaria más famosa de Alemania.</p>",
+      "pro": false,
+      "created": "2026-11-15T09:30:44",
+      "file": "guia-esencial-del-viajero-rin-frankfurt-heidelberg-1f765bdafe49e93c.pdf",
+      "size": 2198,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Der Inhalt ist grundsätzlich in Ordnung und bietet praktische Reisetipps. Die Auffälligkeit ist die nicht näher spezifizierte Prozentangabe zur Trinkgeldhöhe (5-10%), die als Richtwert zwar plausibel, aber nicht als allgemein bekannte Tatsache belegt ist. Keine schwerwiegenden Regelverstöße festgest",
+      "pay_url": "https://buy.stripe.com/eVqfZif2F51hbeC8EI2ky0V",
+      "payment_link_id": "plink_1UbzspJ5iOXkWb9VqeNUrpZt",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.03506879999999999,
-      "why": "KI-Denken: Discover Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to Hidden Gems & Local Secrets"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.0035544,
-      "why": "KI-Pruefung: Discover Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to Hidden Gems & Local Secrets"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.030469199999999995,
-      "why": "KI-Denken: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos para Hombres"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.0018647999999999998,
-      "why": "KI-Pruefung: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos para Hombres"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.0304308,
-      "why": "KI-Denken: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.0016859999999999998,
-      "why": "KI-Pruefung: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist para Hombres"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.03718079999999999,
-      "why": "KI-Denken: Descubre Dresden y Sajonia en 7 pasos: Guía práctica para viajeros independientes"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.0042864,
-      "why": "KI-Pruefung: Descubre Dresden y Sajonia en 7 pasos: Guía práctica para viajeros independientes"
-    },
-    {
-      "t": "2026-11-13T01:17:03",
-      "eur": -0.003276,
-      "why": "Audit: Discover Rhine, Frankfurt & Heidelberg: A Female Traveler's Guide to Hidden Gems"
-    },
-    {
-      "t": "2026-11-13T01:17:03",
-      "eur": -0.0028296,
-      "why": "Audit: Planificador de Viajes a Berlín y Potsdam: Presupuesto, Itinerario y Checklist p"
-    },
-    {
-      "t": "2026-11-13T01:17:03",
-      "eur": -0.0039888,
-      "why": "Audit: Descubre Dresden y Sajonia en 7 pasos: Guía práctica para viajeros independiente"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.0014303999999999999,
-      "why": "Blog-Artikel: Koeln Dom (de)"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.0009312,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (en)"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.00034799999999999995,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能黑森林旅行预算追踪与行程规划器"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616063274"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能探索德国萨尔兰与摩泽尔：7步指南轻松发现隐藏的自然与文化瑰宝"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616051273"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur de Voyage NRW : Budget & Itinéraire pour Explorateurs Urbains"
-    },
-    {
-      "t": "2026-11-13T01:10:40",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616051299"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.0297468,
-      "why": "KI-Denken: 智能施工现场报价与成本跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.0011447999999999999,
-      "why": "KI-Pruefung: 智能施工现场报价与成本跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 2 Formelfehlern - verworfen"
-    },
     {
       "t": "2026-11-13T09:35:43",
       "eur": -0.029431199999999998,
@@ -15512,6 +15453,146 @@
       "t": "2026-11-15T01:58:05",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617569770"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.03625079999999999,
+      "why": "KI-Denken: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.0034415999999999995,
+      "why": "KI-Pruefung: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.030919199999999994,
+      "why": "KI-Denken: Planificador de Viajes Costa del Mar Báltico y del Norte: Presupuesto, Ruta y Gastos para Autónomos"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.0010248,
+      "why": "KI-Pruefung: Planificador de Viajes Costa del Mar Báltico y del Norte: Presupuesto, Ruta y Gastos para Autónomos"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.031090799999999995,
+      "why": "KI-Denken: Planificador de Viajes Costa Báltica y Mar del Norte: Presupuesto, Itinerario y Checklist para Hombres"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.0012216,
+      "why": "KI-Pruefung: Planificador de Viajes Costa Báltica y Mar del Norte: Presupuesto, Itinerario y Checklist para Hombres"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.0315984,
+      "why": "KI-Denken: Guía Práctica de Viaje para la Costa Alemana del Norte y Báltico: Itinerario y Gestor de Presupuesto"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.0015851999999999997,
+      "why": "KI-Pruefung: Guía Práctica de Viaje para la Costa Alemana del Norte y Báltico: Itinerario y Gestor de Presupuesto"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.039128399999999994,
+      "why": "KI-Denken: Guía Esencial del Viajero: Descubre el Rin, Frankfurt y Heidelberg en 7 Pasos"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.0041724,
+      "why": "KI-Pruefung: Guía Esencial del Viajero: Descubre el Rin, Frankfurt y Heidelberg en 7 Pasos"
+    },
+    {
+      "t": "2026-11-15T09:37:42",
+      "eur": -0.0031655999999999998,
+      "why": "Audit: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting"
+    },
+    {
+      "t": "2026-11-15T09:37:42",
+      "eur": -0.0028656,
+      "why": "Audit: Guía Práctica de Viaje para la Costa Alemana del Norte y Báltico: Itinerario y G"
+    },
+    {
+      "t": "2026-11-15T09:37:42",
+      "eur": -0.0038819999999999996,
+      "why": "Audit: Guía Esencial del Viajero: Descubre el Rin, Frankfurt y Heidelberg en 7 Pasos"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.0011975999999999998,
+      "why": "Blog-Artikel: Eifel Maare (en)"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.0009888,
+      "why": "Blog-Artikel: Rheingau Weinberge (zh)"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.0003336,
+      "why": "Video-Skript: Rheingau Weinberge"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Le Petit Guide du Succès pour les Petits Restaurants et Cafés"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617715944"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Vacation Budget Planner & Packing List Tracker for Families"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617715958"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Ultimate Etsy Seller's Handbook: 7 Simple Steps to Boost Sales and Build Your Brand"
+    },
+    {
+      "t": "2026-11-15T09:30:44",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617715982"
     }
   ],
   "alive": true,
@@ -18540,6 +18621,22 @@
       "lang": "de",
       "topic": "Muenchen Marienplatz",
       "created": "2026-11-15T01:58:05",
+      "img": true
+    },
+    {
+      "slug": "discover-eifel-maare-germany-natural-volcanic-wonders",
+      "title": "Discover the Eifel Maare: Germany’s Natural Volcanic Wonders",
+      "lang": "en",
+      "topic": "Eifel Maare",
+      "created": "2026-11-15T09:30:44",
+      "img": true
+    },
+    {
+      "slug": "explore-rheingau-weinberge-germany",
+      "title": "探索德国莱茵高葡萄园：美景与美酒的完美结合",
+      "lang": "zh",
+      "topic": "Rheingau Weinberge",
+      "created": "2026-11-15T09:30:44",
       "img": true
     }
   ],
