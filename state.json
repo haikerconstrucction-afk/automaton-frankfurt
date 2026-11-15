@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 385.0089,
-  "spent_eur": 119.6615,
+  "balance_eur": 384.823,
+  "spent_eur": 119.8474,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -14586,124 +14586,81 @@
       "pay_url": "https://buy.stripe.com/eVqfZif2F51hbeC8EI2ky0V",
       "payment_link_id": "plink_1UbzspJ5iOXkWb9VqeNUrpZt",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "智能柏林与波茨坦行程预算追踪器 - 2026专业版",
+      "slug": "smart-berlin-potsdam-travel-budget-tracker-zh",
+      "price_eur": 9,
+      "target": "前往柏林和波茨坦的中国旅行者，需要专业工具跟踪行程和费用",
+      "reason": "市场上缺乏中文版本的德国旅行预算工具，特别是针对柏林和波茨坦的详细规划模板。我们的产品解决了中国游客面对的多重痛点，如货币转换、景点费用跟踪和文化差异带来的消费习惯适应。",
+      "language": "zh",
+      "pitch": "专为中国游客设计的柏林及周边地区旅行预算管理工具，轻松规划每日行程和消费",
+      "content_html": "<h2>内容</h2><ul><li>行程规划表</li><li>每日费用跟踪</li><li>景点入场费计算</li><li>交通费用管理</li><li>多货币转换</li></ul>",
+      "pro": true,
+      "created": "2026-11-15T17:14:22",
+      "file": "smart-berlin-potsdam-travel-budget-tracker-zh-4f9ebcf0f53408be.xlsx",
+      "size": 8,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist klar strukturiert und enthält keine erfundenen Zahlen, Statistiken oder Quellen. Die Excel-Tabelle dient als praktisches Tool zur Budgetverwaltung und ist spezifisch für den Kontext der Berlin- und Potsdam-Reise entwickelt worden. Es gibt keine Hinweise auf unzulässige Inhalte wie Ge",
+      "pay_url": "https://buy.stripe.com/7sY9AUaMp1P50zY6wA2ky0W",
+      "payment_link_id": "plink_1Uc74gJ5iOXkWb9V5jnoZdh4",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "德累斯顿与萨克森隐藏宝藏：7步探索文化与自然的秘密",
+      "slug": "dresden-saxony-hidden-gems-zh",
+      "price_eur": 5,
+      "target": "中国、台湾、新加坡的独立旅行者，喜欢深度探索德国小众景点的游客",
+      "reason": "现有产品中缺乏针对华语游客的深度萨克森旅行指南，这本电子书提供真正本地人才知道的实用信息，区别于常规旅游手册。价格定位5欧元符合亚洲电子书市场预期，内容价值远超价格。",
+      "language": "zh",
+      "pitch": "这本实用指南揭示萨克森州最被低估的7个隐藏瑰宝，包含详细路线、本地人贴士和节省预算的技巧，让您像当地人一样体验德累斯顿及周边地区。",
+      "content_html": "<h2>内容目录</h2><ul><li>第一章：易北河畔的秘密花园与咖啡厅</li><li>第二章：本地艺术家才知道的3个绝美观景台</li><li>第三章：5欧元以下的传统美食体验</li><li>第四章：避开人群的夜景观赏路线</li><li>第五章：从德累斯顿出发的3个冷门一日游</li><li>第六章：萨克森小瑞士的隐藏徒步路线</li><li>第七章：交通卡使用技巧与省钱攻略</li></ul><h3>试读片段：</h3><p>在圣母教堂后方的小巷里，藏着一家百年历史的巧克力工坊Café Schinkelwache，这里的萨克森传统蛋糕Eierschecke配方已传承四代...（完整内容见电子书）</p>",
+      "pro": false,
+      "created": "2026-11-15T17:14:22",
+      "file": "dresden-saxony-hidden-gems-zh-02df814557c35641.pdf",
+      "size": 2202,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Inhalt ist im Rahmen der Regeln, keine erfundenen Studien/Statistiken, keine verbotenen Themen. Enthält allgemein bekannte Tipps und lokale Insidertipps. Einige Preisangaben (z.B. Verkehrskarten) sind plausibel und nicht übertrieben. Nutzt keine Marken Dritter oder problematische Versprechen.",
+      "pay_url": "https://buy.stripe.com/4gMaEYcUx51h4QeaMQ2ky0X",
+      "payment_link_id": "plink_1Uc74gJ5iOXkWb9V32ha2DFW",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Planificateur de Chantier & Suivi Budgétaire pour Artisans",
+      "slug": "planificateur-chantier-budget-artisans",
+      "price_eur": 12,
+      "target": "Artisans et petites entreprises du bâtiment (électriciens, plombiers, charpentiers, etc.)",
+      "reason": "Les artisans ont besoin d'un outil simple mais professionnel pour gérer leurs devis, chantiers et dépenses. Cette solution complète leur fait gagner du temps tout en améliorant leur rentabilité.",
+      "language": "fr",
+      "pitch": "Gérez facilement vos devis, suivis de chantier et budgets avec cet outil professionnel. Optimisez votre rentabilité et gagnez du temps au quotidien.",
+      "content_html": "<h2>Contenu</h2><p>Un outil complet pour les artisans avec suivi des devis, planning des chantiers, gestion des dépenses et analyse de rentabilité.</p>",
+      "pro": true,
+      "created": "2026-11-15T17:14:22",
+      "file": "planificateur-chantier-budget-artisans-4756e6a626fe27b1.xlsx",
+      "size": 6,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Das Produkt ist ein funktionales Excel-Tool für Handwerker ohne erfundene Statistiken oder Gesundheitsversprechen. Die enthaltenen Berechnungen und Formeln sind plausibel und nachvollziehbar. Die Sprache ist durchgängig Französisch und es gibt keine unfertigen Texte oder Platzhalter. Keine Rechts- o",
+      "pay_url": "https://buy.stripe.com/aFa00kcUx65ldmK4os2ky0Y",
+      "payment_link_id": "plink_1Uc74hJ5iOXkWb9VtVuslnGi",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.029431199999999998,
-      "why": "KI-Denken: 智能施工现场估算与成本跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.001,
-      "why": "KI-Pruefung: 智能施工现场估算与成本跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.03573719999999999,
-      "why": "KI-Denken: 7 Magische Regenbogengeschichten für Kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.004526399999999999,
-      "why": "KI-Pruefung: 7 Magische Regenbogengeschichten für Kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.029572799999999996,
-      "why": "KI-Denken: Planificateur de Budget et Suivi des Dépenses pour Mariages"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Budget et Suivi des Dépenses pour Mariages"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.029773199999999996,
-      "why": "KI-Denken: Planificateur de Mariage Professionnel & Suivi des Dépenses"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.0010019999999999999,
-      "why": "KI-Pruefung: Planificateur de Mariage Professionnel & Suivi des Dépenses"
-    },
-    {
-      "t": "2026-11-13T09:40:57",
-      "eur": -0.0031452,
-      "why": "Audit: 智能施工现场估算与成本跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-13T09:40:57",
-      "eur": -0.004698,
-      "why": "Audit: 7 Magische Regenbogengeschichten für Kleine Träumer (3-8 Jahre)"
-    },
-    {
-      "t": "2026-11-13T09:40:57",
-      "eur": -0.0033144,
-      "why": "Audit: Planificateur de Mariage Professionnel & Suivi des Dépenses"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.0011255999999999998,
-      "why": "Blog-Artikel: Bodensee (zh)"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.0013499999999999999,
-      "why": "Blog-Artikel: Mosel Cochem (es)"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.00039359999999999997,
-      "why": "Video-Skript: Mosel Cochem"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Le Guide Essentiel du Voyage en Bavière et dans les Alpes : 7 Itinéraires Incontournables pour Découvrir les Trésors Cachés"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616273425"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate North & Baltic Sea Family Travel Budget Planner"
-    },
-    {
-      "t": "2026-11-13T09:35:43",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4616284462"
-    },
     {
       "t": "2026-11-13T09:35:43",
       "eur": -0.19,
@@ -15593,6 +15550,116 @@
       "t": "2026-11-15T09:30:44",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617715982"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.031229999999999994,
+      "why": "KI-Denken: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格 (2026专业版)"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.0013403999999999998,
+      "why": "KI-Pruefung: 智能柏林与波茨坦旅行预算追踪器 - 专业规划表格 (2026专业版)"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 1 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.030945599999999997,
+      "why": "KI-Denken: 智能柏林与波茨坦行程预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.001,
+      "why": "KI-Pruefung: 智能柏林与波茨坦行程预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.0378456,
+      "why": "KI-Denken: 德累斯顿与萨克森隐藏宝藏：7步探索文化与自然的秘密"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.0048396,
+      "why": "KI-Pruefung: 德累斯顿与萨克森隐藏宝藏：7步探索文化与自然的秘密"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.031149599999999996,
+      "why": "KI-Denken: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.0010488,
+      "why": "KI-Pruefung: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): Excel mit 3 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.031353599999999995,
+      "why": "KI-Denken: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.0012071999999999999,
+      "why": "KI-Pruefung: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
+    },
+    {
+      "t": "2026-11-15T17:18:24",
+      "eur": -0.0024251999999999998,
+      "why": "Audit: 智能柏林与波茨坦行程预算追踪器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-15T17:18:24",
+      "eur": -0.005041199999999999,
+      "why": "Audit: 德累斯顿与萨克森隐藏宝藏：7步探索文化与自然的秘密"
+    },
+    {
+      "t": "2026-11-15T17:18:24",
+      "eur": -0.003588,
+      "why": "Audit: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.0014796,
+      "why": "Blog-Artikel: Schwarzwald (fr)"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.001344,
+      "why": "Blog-Artikel: Saarland Saarschleife (de)"
+    },
+    {
+      "t": "2026-11-15T17:14:22",
+      "eur": -0.00039119999999999997,
+      "why": "Video-Skript: Saarland Saarschleife"
     }
   ],
   "alive": true,
@@ -18638,6 +18705,22 @@
       "topic": "Rheingau Weinberge",
       "created": "2026-11-15T09:30:44",
       "img": true
+    },
+    {
+      "slug": "le-schwarzwald-guide-complet-pour-une-escapade-inoubliable",
+      "title": "Le Schwarzwald : Guide Complet pour une Escapade Inoubliable",
+      "lang": "fr",
+      "topic": "Schwarzwald",
+      "created": "2026-11-15T17:14:22",
+      "img": true
+    },
+    {
+      "slug": "saarland-saarschleife-entdecken",
+      "title": "Die Saarschleife: Ein Naturwunder im Herzen des Saarlandes",
+      "lang": "de",
+      "topic": "Saarland Saarschleife",
+      "created": "2026-11-15T17:14:22",
+      "img": true
     }
   ],
   "videos": [
@@ -20209,6 +20292,16 @@
       "hashtags": "#Marienplatz #München #Bayern #ReisenDeutschland #Stadtbummel",
       "voice": "Der Marienplatz - das pulsierende Herz Münchens! Bestaunen Sie das prächtige Neue Rathaus mit seinem berühmten Glockenspiel. In der Altstadt erwarten Sie historische Gassen, edle Boutiquen und gemütliche Biergärten. Ein perfekter Mix aus Tradition und modernem Flair. Entdecken Sie München von seiner schönsten Seite!",
       "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "saarland-saarschleife-entdecken",
+      "title": "Die Saarschleife: Ein Naturwunder im Herzen des Saarlandes",
+      "lang": "de",
+      "created": "2026-11-15T17:14:22",
+      "hashtags": "#Saarland #Saarschleife #Naturwunder #Wanderparadies #DeutschlandEntdecken",
+      "voice": "Die Saarschleife - ein spektakuläres Naturhighlight! Dieser einzigartige Flussbogen im Herzen des Saarlands bietet atemberaubende Panoramen. Ob Wandern, Radtouren oder einfach die Seele baumeln lassen - hier genießt ihr pure Natur. Der Baumwipfelpfad und die Cloef mit ihrem Aussichtspunkt sind absolute Must-Sees! Ein magischer Ort für Erholung und Abenteuer.",
+      "credits": "Foto: Flocci Nivis, CC BY 4.0, via Wikimedia Commons; Foto: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons; Foto: Thomas Johannes, CC BY-SA 3.0, via Wikimedia Commons",
       "posted": {}
     }
   ],
