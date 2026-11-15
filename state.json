@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 386.6191,
-  "spent_eur": 118.0513,
+  "balance_eur": 385.7718,
+  "spent_eur": 118.8986,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9125,7 +9125,10 @@
       "audit_note": "Das Produkt ist ein funktionales Excel-Tool zur Fitness- und Budgetverfolgung ohne falsche Behauptungen oder Zahlen. Alle angezeigten Werte basieren auf den eingegebenen Beispieldaten oder gültigen Excel-Formeln. Keine erfundenen Studien, Gesundheitsversprechen oder Markenverstöße vorhanden. Die Bei",
       "pay_url": "https://buy.stripe.com/4gM8wQ6w979pdmKaMQ2kx1p",
       "payment_link_id": "plink_1UU2s0J5iOXkWb9VYcIvcnxm",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4617560345"
+      }
     },
     {
       "type": "ebook",
@@ -9149,7 +9152,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Zitate. Keine Regelverstöße festgestellt. Der Inhalt ist klar, nützlich und entspricht den Vorgaben.",
       "pay_url": "https://buy.stripe.com/9B614ocUx51h1E24os2kx1q",
       "payment_link_id": "plink_1UU7TCJ5iOXkWb9VUGxa3Gdz",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4617560361"
+      }
     },
     {
       "type": "excel",
@@ -9173,7 +9179,10 @@
       "audit_note": "Das Produkt ist ein simpler Excel-Planer für Lernende, der keine erfundenen Statistiken, Gesundheitsversprechen oder rechtlichen Probleme enthält. Die Beispielzahlen sind klar als solche gekennzeichnet und dienen nur der Funktionsdemonstration. Die Sprache ist durchgängig Französisch und alle Angabe",
       "pay_url": "https://buy.stripe.com/aFaaEYdYBbpF3MadZ22kx1r",
       "payment_link_id": "plink_1UU7TCJ5iOXkWb9VF3Drp6rc",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4617569770"
+      }
     },
     {
       "type": "ebook",
@@ -14424,179 +14433,81 @@
       "pay_url": "https://buy.stripe.com/5kQ28s4o12T9aay5sw2ky0P",
       "payment_link_id": "plink_1UbntEJ5iOXkWb9Vexw1GvmZ",
       "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Schwarzwald-Reisekosten-Tracker & Aktivitäten-Planer für internationale Gäste",
+      "slug": "schwarzwald-reisekosten-tracker-aktivitaeten-planer",
+      "price_eur": 9,
+      "target": "Internationale Reisende im Schwarzwald, die ihre Ausgaben und Aktivitäten organisieren möchten",
+      "reason": "Diese professionelle Vorlage hilft internationalen Gästen, ihre Schwarzwald-Reise optimal zu planen und alle Ausgaben sowie Aktivitäten zu organisieren. Die automatischen Berechnungen und Übersichten sparen Zeit und geben wertvolle Einblicke in das Reisebudget.",
+      "language": "de",
+      "pitch": "Professionelle Excel-Vorlage zur Planung und Nachverfolgung Ihrer Schwarzwald-Reisekosten und Aktivitäten. Behalten Sie stets den Überblick über Ihr Budget und Ihre Erlebnisse.",
+      "content_html": "<h2>Inhalt</h2><p>Planen Sie Ihre Schwarzwald-Reise optimal mit dieser umfassenden Excel-Vorlage. Verfolgen Sie Ausgaben, organisieren Sie Aktivitäten und behalten Sie Ihr Budget im Blick.</p>",
+      "pro": true,
+      "created": "2026-11-15T01:58:05",
+      "file": "schwarzwald-reisekosten-tracker-aktivitaeten-planer-dd69c068f3a753b1.xlsx",
+      "size": 11,
+      "sales": 0,
+      "score": 7,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 8,
+      "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Excel-Vorlage ist funktional und klar als Beispiel gekennzeichnet. Keine Regelverstöße festgestellt.",
+      "pay_url": "https://buy.stripe.com/6oUfZi4o13XdfuSdZ22ky0Q",
+      "payment_link_id": "plink_1UbssaJ5iOXkWb9VCdnXqPWs",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "ebook",
+      "title": "Saarland & Mosel Entdecker: 7 Einfache Schritte zu Verborgenen Juwelen und Lokalen Geheimtipps",
+      "slug": "saarland-mosel-entdecker-7-einfache-schritte",
+      "price_eur": 5,
+      "target": "Reiselustige, die abseits der Touristenpfade das Saarland und die Moselregion authentisch erleben möchten",
+      "reason": "Es gibt viele generische Reiseführer, aber kaum praktische Schritt-für-Schritt-Anleitungen speziell für das Saarland und die Moselregion. Dieses E-Book füllt diese Lücke mit konkret umsetzbaren Tipps, die selbst Einheimische überraschen werden. Der Preis ist fair für die geballte lokale Expertise, die Urlaubern viel Zeit bei der Recherche spart.",
+      "language": "de",
+      "pitch": "Praktischer Reisebegleiter mit handverlesenen Tipps für unvergessliche Tage in einer der schönsten Flusslandschaften Deutschlands. Sparen Sie Zeit mit unserer 7-Schritte-Methode und entdecken Sie Orte, die nur Einheimische kennen.",
+      "content_html": "<h2>Inhalt</h2><ul><li>Vorwort: Warum Saarland & Mosel?</li><li>Kapitel 1: Die perfekte Reiseplanung</li><li>Kapitel 2: Versteckte Weindörfer abseits der Massen</li><li>Kapitel 3: Wanderwege mit Wow-Effekt</li><li>Kapitel 4: Kulinarische Geheimtipps</li><li>Kapitel 5: Familienfreundliche Abenteuer</li><li>Kapitel 6: Budgetfreundliche Übernachtungen</li><li>Kapitel 7: Jahreszeiten-Tipps</li></ul>",
+      "pro": false,
+      "created": "2026-11-15T01:58:05",
+      "file": "saarland-mosel-entdecker-7-einfache-schritte-7fe6c27553f64c84.pdf",
+      "size": 1522,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 9,
+      "audit_note": "Inhalt ist legal, ehrlich und frei von erfundenen Studien, Statistiken oder Prozentzahlen. Keine Finanz-, Rechts- oder Gesundheitsberatung. Keine fremden Marken oder Figuren. Texte sind vollständig und ohne Platzhalter. Allgemein bekanntes Wissen und eigene Praxistipps werden verwendet.",
+      "pay_url": "https://buy.stripe.com/4gM4gA8Eh3Xd2I62gk2ky0R",
+      "payment_link_id": "plink_1UbssbJ5iOXkWb9VIuZ3BcUt",
+      "site": "https://haiktec.tech"
+    },
+    {
+      "type": "excel",
+      "title": "Ultimate NRW City Trip Budget Planner & Itinerary Tracker for Women",
+      "slug": "ultimate-nrw-city-trip-budget-planner-itinerary-tracker-women",
+      "price_eur": 9,
+      "target": "Female travelers exploring NRW (Cologne, Düsseldorf, Ruhr area) who want to track expenses and plan their itinerary efficiently",
+      "reason": "This comprehensive planner helps female travelers stay organized and within budget while exploring NRW's diverse cities, with automatic currency conversion and smart expense tracking specifically designed for city trips.",
+      "language": "en",
+      "pitch": "Professional travel planner with smart budget tracking and personalized itinerary organization for stress-free city trips in North Rhine-Westphalia",
+      "content_html": "<h2>Content</h2><p>Track all trip expenses, plan daily activities, and discover hidden gems with this all-in-one travel planner designed specifically for women exploring NRW's vibrant cities.</p>",
+      "pro": true,
+      "created": "2026-11-15T01:58:05",
+      "file": "ultimate-nrw-city-trip-budget-planner-itinerary-tracker-women-c5627af25ca25729.xlsx",
+      "size": 14,
+      "sales": 0,
+      "score": 8,
+      "quality": 2,
+      "audit_v": 3,
+      "audit_score": 7,
+      "audit_note": "Das Produkt ist grundsätzlich legal und ehrlich, enthält keine erfundenen Studien, Statistiken oder Zitate. Es bietet praktische Funktionen für die Reiseplanung. Einige Kennzahlen wie 'Days Remaining' sind jedoch aufgrund der festen Beispiel-Daten (2026) nicht plausibel und könnten verwirren. Dies i",
+      "pay_url": "https://buy.stripe.com/aFa14o4o165l6Ym7AE2ky0S",
+      "payment_link_id": "plink_1UbssbJ5iOXkWb9VMm4kH5ji",
+      "site": "https://haiktec.tech"
     }
   ],
   "log": [
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.03390479999999999,
-      "why": "KI-Denken: Saarland & Mosel Family Adventures: 7 Easy Outdoor Trips for Kids & Parents"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.0034943999999999995,
-      "why": "KI-Pruefung: Saarland & Mosel Family Adventures: 7 Easy Outdoor Trips for Kids & Parents"
-    },
-    {
-      "t": "2026-11-12T09:58:41",
-      "eur": -0.0036468,
-      "why": "Audit: Le Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activit"
-    },
-    {
-      "t": "2026-11-12T09:58:41",
-      "eur": -0.0024023999999999994,
-      "why": "Audit: Ultimate Black Forest Travel Budget Planner & Itinerary Tracker for Families (20"
-    },
-    {
-      "t": "2026-11-12T09:58:41",
-      "eur": -0.0033587999999999995,
-      "why": "Audit: Saarland & Mosel Family Adventures: 7 Easy Outdoor Trips for Kids & Parents"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.0014916,
-      "why": "Blog-Artikel: Eifel Maare (de)"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.0011423999999999998,
-      "why": "Blog-Artikel: Rheingau Weinberge (en)"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.00035639999999999994,
-      "why": "Video-Skript: Rheingau Weinberge"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Busy Teacher's Survival Guide: Simple Strategies for Effective Classroom Management"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615498055"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Control de Gastos de Cuidados para Adultos Mayores"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615498083"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Estrategias Comprobadas para Aumentar tus Ingresos como Freelancer"
-    },
-    {
-      "t": "2026-11-12T09:53:22",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4615498107"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": -0.0294924,
-      "why": "KI-Denken: NRW Städtereise-Budget-Tracker & Tagesplaner 2026"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": -0.0010896,
-      "why": "KI-Pruefung: NRW Städtereise-Budget-Tracker & Tagesplaner 2026"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": -0.0371436,
-      "why": "KI-Denken: Bayerische Alpen Entdecken: 7 Einfache Schritte zu den schönsten Wanderungen und Geheimtipps"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": -0.0043212,
-      "why": "KI-Pruefung: Bayerische Alpen Entdecken: 7 Einfache Schritte zu den schönsten Wanderungen und Geheimtipps"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": -0.0292272,
-      "why": "KI-Denken: Ultimate North & Baltic Sea Travel Budget Planner for Female Explorers"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate North & Baltic Sea Travel Budget Planner for Female Explorers"
-    },
-    {
-      "t": "2026-11-12T18:27:30",
-      "eur": -0.0025548,
-      "why": "Audit: NRW Städtereise-Budget-Tracker & Tagesplaner 2026"
-    },
-    {
-      "t": "2026-11-12T18:27:30",
-      "eur": -0.0039372,
-      "why": "Audit: Bayerische Alpen Entdecken: 7 Einfache Schritte zu den schönsten Wanderungen und"
-    },
-    {
-      "t": "2026-11-12T18:27:30",
-      "eur": -0.0012299999999999998,
-      "why": "Audit: Ultimate North & Baltic Sea Travel Budget Planner for Female Explorers"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": -0.0013571999999999998,
-      "why": "Blog-Artikel: Schwarzwald (es)"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": -0.0011975999999999998,
-      "why": "Blog-Artikel: Saarland Saarschleife (fr)"
-    },
-    {
-      "t": "2026-11-12T18:22:04",
-      "eur": -0.00041999999999999996,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
     {
       "t": "2026-11-13T01:10:40",
       "eur": -0.03506879999999999,
@@ -15431,6 +15342,176 @@
       "t": "2026-11-14T20:45:09",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617403492"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0308136,
+      "why": "KI-Denken: Schwarzwald Reisebudget-Tracker & Aktivitätenplaner 2026"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0012216,
+      "why": "KI-Pruefung: Schwarzwald Reisebudget-Tracker & Aktivitätenplaner 2026"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): Excel mit 4 Formelfehlern - verworfen"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.030827999999999998,
+      "why": "KI-Denken: Schwarzwald-Reisekosten-Tracker & Aktivitäten-Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0012167999999999999,
+      "why": "KI-Pruefung: Schwarzwald-Reisekosten-Tracker & Aktivitäten-Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.037700399999999995,
+      "why": "KI-Denken: Saarland & Mosel Entdecker: 7 einzigartige Touren abseits der Touristenpfade"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0042432,
+      "why": "KI-Pruefung: Saarland & Mosel Entdecker: 7 einzigartige Touren abseits der Touristenpfade"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): E-Book zu kurz (1406 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.03675359999999999,
+      "why": "KI-Denken: Entdecke das Saarland & die Mosel: 7 faszinierende Reiserouten für Naturliebhaber"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.004269599999999999,
+      "why": "KI-Pruefung: Entdecke das Saarland & die Mosel: 7 faszinierende Reiserouten für Naturliebhaber"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): E-Book zu kurz (1384 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.03669599999999999,
+      "why": "KI-Denken: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0042552,
+      "why": "KI-Pruefung: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): E-Book zu kurz (1431 Woerter) - verworfen"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.03818159999999999,
+      "why": "KI-Denken: Saarland & Mosel Entdecker: 7 Einfache Schritte zu Verborgenen Juwelen und Lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0043619999999999996,
+      "why": "KI-Pruefung: Saarland & Mosel Entdecker: 7 Einfache Schritte zu Verborgenen Juwelen und Lokalen Geheimtipps"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.031035599999999997,
+      "why": "KI-Denken: Ultimate NRW City Trip Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0012936,
+      "why": "KI-Pruefung: Ultimate NRW City Trip Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-11-15T02:09:05",
+      "eur": -0.0031056,
+      "why": "Audit: Schwarzwald-Reisekosten-Tracker & Aktivitäten-Planer für internationale Gäste"
+    },
+    {
+      "t": "2026-11-15T02:09:05",
+      "eur": -0.004044,
+      "why": "Audit: Saarland & Mosel Entdecker: 7 Einfache Schritte zu Verborgenen Juwelen und Lokal"
+    },
+    {
+      "t": "2026-11-15T02:09:05",
+      "eur": -0.004024799999999999,
+      "why": "Audit: Ultimate NRW City Trip Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Audit: 3 geprueft, 0 entfernt"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0013583999999999998,
+      "why": "Blog-Artikel: Nordsee Wattenmeer (fr)"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0014964,
+      "why": "Blog-Artikel: Muenchen Marienplatz (de)"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.0003744,
+      "why": "Video-Skript: Muenchen Marienplatz"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能私人健身预算与训练进度追踪器"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617560345"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能房东管理手册：轻松管理1-5套出租房的7个实用步骤"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617560361"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Révisions & Suivi des Examens pour Étudiants"
+    },
+    {
+      "t": "2026-11-15T01:58:05",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617569770"
     }
   ],
   "alive": true,
@@ -18444,6 +18525,22 @@
       "topic": "Harz Brocken",
       "created": "2026-11-14T20:45:09",
       "img": true
+    },
+    {
+      "slug": "decouvrez-la-magie-du-wattenmeer-en-mer-du-nord",
+      "title": "Découvrez la magie du Wattenmeer en mer du Nord",
+      "lang": "fr",
+      "topic": "Nordsee Wattenmeer",
+      "created": "2026-11-15T01:58:05",
+      "img": true
+    },
+    {
+      "slug": "muenchen-marienplatz-das-herz-der-bayerischen-hauptstadt",
+      "title": "München Marienplatz: Das Herz der bayerischen Hauptstadt",
+      "lang": "de",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-11-15T01:58:05",
+      "img": true
     }
   ],
   "videos": [
@@ -20005,6 +20102,16 @@
       "hashtags": "#Brocken #Harz #Alemania #Viajes #Naturaleza",
       "voice": "El Brocken, la montaña más alta del Harz, es un lugar lleno de magia y leyendas. Con sus paisajes de ensueño y rutas increíbles, atrae a aventureros todo el año. ¡Déjate sorprender por sus vistas panorámicas y la atmósfera única de este destino fascinante en el corazón de Alemania!",
       "credits": "Foto: Gottfried Hoffmann -…, CC BY 3.0, via Wikimedia Commons; Foto: Markus Trienke, CC BY-SA 2.0, via Wikimedia Commons; Foto: Michael aus Halle, CC BY-SA 3.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "muenchen-marienplatz-das-herz-der-bayerischen-hauptstadt",
+      "title": "München Marienplatz: Das Herz der bayerischen Hauptstadt",
+      "lang": "de",
+      "created": "2026-11-15T01:58:05",
+      "hashtags": "#Marienplatz #München #Bayern #ReisenDeutschland #Stadtbummel",
+      "voice": "Der Marienplatz - das pulsierende Herz Münchens! Bestaunen Sie das prächtige Neue Rathaus mit seinem berühmten Glockenspiel. In der Altstadt erwarten Sie historische Gassen, edle Boutiquen und gemütliche Biergärten. Ein perfekter Mix aus Tradition und modernem Flair. Entdecken Sie München von seiner schönsten Seite!",
+      "credits": "Foto: Bjs, CC BY-SA 3.0, via Wikimedia Commons; Foto: Creator:Nereo Costantini, CC BY-SA 4.0, via Wikimedia Commons; Foto: Unknown authorUnknown author, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
