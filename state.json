@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 382.3064,
-  "spent_eur": 122.364,
+  "balance_eur": 382.303,
+  "spent_eur": 122.3674,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -14771,76 +14771,6 @@
   "log": [
     {
       "t": "2026-11-14T20:45:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.030731999999999995,
-      "why": "KI-Denken: Senior Care Medication & Expense Tracker Pro"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.0011795999999999998,
-      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker Pro"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.03641879999999999,
-      "why": "KI-Denken: The Freelancer's Quick Productivity Boost: 7 Simple Steps to Get More Done in Less Time"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.0033311999999999994,
-      "why": "KI-Pruefung: The Freelancer's Quick Productivity Boost: 7 Simple Steps to Get More Done in Less Time"
-    },
-    {
-      "t": "2026-11-14T20:49:23",
-      "eur": -0.0036263999999999992,
-      "why": "Audit: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps"
-    },
-    {
-      "t": "2026-11-14T20:49:23",
-      "eur": -0.0027347999999999995,
-      "why": "Audit: Senior Care Medication & Expense Tracker Pro"
-    },
-    {
-      "t": "2026-11-14T20:49:23",
-      "eur": -0.003198,
-      "why": "Audit: The Freelancer's Quick Productivity Boost: 7 Simple Steps to Get More Done in Le"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.0011183999999999999,
-      "why": "Blog-Artikel: Dresden Frauenkirche (zh)"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.001548,
-      "why": "Blog-Artikel: Harz Brocken (es)"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
       "eur": -0.00035519999999999996,
       "why": "Video-Skript: Harz Brocken"
     },
@@ -15773,6 +15703,71 @@
       "t": "2026-11-17T13:30:19",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619343423"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": -0.0014988,
+      "why": "Blog-Artikel: Hamburg Speicherstadt (fr)"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": -0.0015048,
+      "why": "Blog-Artikel: Frankfurt Skyline (de)"
+    },
+    {
+      "t": "2026-11-17T22:26:48",
+      "eur": -0.00038639999999999996,
+      "why": "Video-Skript: Frankfurt Skyline"
     }
   ],
   "alive": true,
@@ -18898,6 +18893,22 @@
       "topic": "Ruegen Kreidefelsen",
       "created": "2026-11-17T13:30:19",
       "img": true
+    },
+    {
+      "slug": "decouvrez-la-speicherstadt-de-hambourg",
+      "title": "Découvrez la Speicherstadt de Hambourg : Un Voyage à travers l’Histoire et le Charme Fluvial",
+      "lang": "fr",
+      "topic": "Hamburg Speicherstadt",
+      "created": "2026-11-17T22:26:48",
+      "img": true
+    },
+    {
+      "slug": "frankfurt-skyline-einzigartige-aussichten-und-urbane-kultur",
+      "title": "Frankfurts Skyline: Einzigartige Aussichten und urbane Kultur",
+      "lang": "de",
+      "topic": "Frankfurt Skyline",
+      "created": "2026-11-17T22:26:48",
+      "img": true
     }
   ],
   "videos": [
@@ -20519,6 +20530,16 @@
       "hashtags": "#Rügen #Kreidefelsen #AlemaniaNatural #MarBáltico #MiradoresEspectaculares",
       "voice": "¡Descubre los acantilados de creta de Rügen, una maravilla geológica única en Alemania! Estos gigantes blancos junto al Báltico sorprenden con sus formaciones esculpidas durante 70 millones de años. Camina por senderos entre bosques hasta miradores que quitan el aliento o aventúrate en kayak bajo sus paredes de 120 metros. ¡Una joya natural que parece de otro planeta! #IslaRügen #NaturalezaAlemana",
       "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "frankfurt-skyline-einzigartige-aussichten-und-urbane-kultur",
+      "title": "Frankfurts Skyline: Einzigartige Aussichten und urbane Kultur",
+      "lang": "de",
+      "created": "2026-11-17T22:26:48",
+      "hashtags": "#Frankfurt #Skyline #Mainhattan #DeutschlandReisen #Hessen",
+      "voice": "Frankfurt – wo Tradition und Moderne verschmelzen! Die atemberaubende Skyline, liebevoll 'Mainhattan' genannt, begeistert mit ikonischen Türmen wie dem Commerzbank Tower. Am romantischen Mainufer spiegeln sich die Hochhäuser im Wasser, während die Altstadt mit gemütlichen Apfelweinkneipen lockt. Ein perfekter Mix aus Business und Lebensfreude!",
+      "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
