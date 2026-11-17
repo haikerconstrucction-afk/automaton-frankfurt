@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 383.4803,
-  "spent_eur": 121.1901,
+  "balance_eur": 382.8791,
+  "spent_eur": 121.7913,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9449,7 +9449,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen gefunden. Das Produkt ist legal, ehrlich und enthält keine unzulässigen Gesundheitsversprechen oder Beratungen. Die Formeln und Tabellen sind sinnvoll und korrekt.",
       "pay_url": "https://buy.stripe.com/aFa00k7Ad2T9dmK4os2kx1B",
       "payment_link_id": "plink_1UUJPsJ5iOXkWb9VeM6BHnWI",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4619061318"
+      }
     },
     {
       "type": "ebook",
@@ -9473,7 +9476,10 @@
       "audit_note": "Inhalt entspricht den Regeln, keine erfunden Studien/Statistiken, keine Rechts- oder Gesundheitsberatung, klare praktische Tipps ohne Markenverstöße",
       "pay_url": "https://buy.stripe.com/3cI4gAf2FctJbeCbQU2kx1C",
       "payment_link_id": "plink_1UUPqMJ5iOXkWb9VPP6EZcyq",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4619061342"
+      }
     },
     {
       "type": "excel",
@@ -9497,7 +9503,10 @@
       "audit_note": "Die Prozentzahl '0.8' in den Formeln der Budget-Tabelle ist nicht begründet und wirkt erfunden. Sonst ist der Inhalt plausibel und regelkonform.",
       "pay_url": "https://buy.stripe.com/7sY6oI4o151h1E2g7a2kx1D",
       "payment_link_id": "plink_1UUPqNJ5iOXkWb9Vopdc5jUG",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4619053737"
+      }
     },
     {
       "type": "ebook",
@@ -14753,101 +14762,6 @@
   "log": [
     {
       "t": "2026-11-14T15:08:09",
-      "eur": -0.0044988,
-      "why": "KI-Pruefung: 智能园艺入门：7个简单步骤实现家庭自给自足"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.030428399999999998,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.00105,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.0301332,
-      "why": "KI-Denken: Planificateur de Contenu & Suivi des Performances YouTube pour Créateurs"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Contenu & Suivi des Performances YouTube pour Créateurs"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.030466799999999995,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): Qualitaetspruefung nicht bestanden: {'score': 6, 'rule_violation': False, 'issues': \"Formel-Fehler: 'ROI'-Formel in 'Revenus'-Sheet ist fehlerhaft (VLOOKUP falsch verwendet). Preis für 9 EUR ist fair, aber Produkt könnte weiter optimiert werden.\"}"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.030284399999999996,
-      "why": "KI-Denken: Planificateur de Contenu YouTube & Suivi des Performances PRO 2026"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Planificateur de Contenu YouTube & Suivi des Performances PRO 2026"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.0301128,
-      "why": "KI-Denken: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-11-14T15:12:30",
-      "eur": -0.0021408,
-      "why": "Audit: 智能搬家与装修预算跟踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-14T15:12:30",
-      "eur": -0.004554,
-      "why": "Audit: 智能园艺入门：7个简单步骤实现家庭自给自足"
-    },
-    {
-      "t": "2026-11-14T15:12:30",
-      "eur": -0.0026016,
-      "why": "Audit: YouTube Content ROI Tracker & Budget Planner 2026"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
       "eur": 0,
       "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
     },
@@ -15755,6 +15669,101 @@
       "t": "2026-11-16T18:37:08",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4618736831"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": -0.031202399999999995,
+      "why": "KI-Denken: Der clevere Trainingsplaner für Fitnessstudios und Freiberufler"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能老年护理预算与健康追踪器"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619061318"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 自由职业者的高效工作指南：7步提升你的生产力与收入"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619061342"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Budget & Itinéraire pour le Voyage en Forêt-Noire"
+    },
+    {
+      "t": "2026-11-17T02:57:47",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619053737"
     }
   ],
   "alive": true,
