@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 382.8791,
-  "spent_eur": 121.7913,
+  "balance_eur": 382.3064,
+  "spent_eur": 122.364,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9530,7 +9530,10 @@
       "audit_note": "Keine klaren Regelverstöße, aber einige Preisspannen sind nicht eindeutig belegt. Der Inhalt ist ansonsten praktisch, ehrlich und frei von erfundenen Studien oder statistischen Behauptungen.",
       "pay_url": "https://buy.stripe.com/dRm4gA5s5gJZ2I6g7a2kx1E",
       "payment_link_id": "plink_1UUPqOJ5iOXkWb9VP1hbjp9G",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4619350850"
+      }
     },
     {
       "type": "excel",
@@ -9554,7 +9557,10 @@
       "audit_note": "Der Inhalt ist legal, ehrlich und frei von Spam. Es gibt keine erfundenen Studien, Statistiken oder Zahlen. Die Formeln und Tabellen sind sinnvoll und korrekt. Der Produkttyp und die Sprache entsprechen den Vorgaben. Es werden keine Gesundheitsversprechen, Rechtsberatungen oder fremden Marken verwen",
       "pay_url": "https://buy.stripe.com/3cIfZi5s51P5gyWbQU2kx1F",
       "payment_link_id": "plink_1UUUM8J5iOXkWb9VyKnjI2ao",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4619350894"
+      }
     },
     {
       "type": "ebook",
@@ -9578,7 +9584,10 @@
       "audit_note": "Der Inhalt ist familienfreundlich, praktisch und frei von erfundenen Studien oder falschen Behauptungen. Es werden keine Marken Dritter verwendet und keine gesundheitlichen Versprechen gemacht. Der Text ist durchgängig in Englisch verfasst und bietet nützliche Tipps für Familienausflüge in den bayer",
       "pay_url": "https://buy.stripe.com/8x23cw07L0L14QecUY2kx1G",
       "payment_link_id": "plink_1UUUM9J5iOXkWb9VA01Mifbb",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4619343423"
+      }
     },
     {
       "type": "excel",
@@ -14761,101 +14770,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.0013727999999999998,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (de)"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.0009899999999999998,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (en)"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.0003372,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Construction Site Offer & Cost Tracker for Craft Businesses"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617180879"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Sweet Dreams Adventures: 7 Magical Bedtime Stories for Little Explorers (Ages 3-8)"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617189410"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador Profesional de Presupuesto para Bodas"
-    },
-    {
-      "t": "2026-11-14T15:08:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617189436"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.03559679999999999,
-      "why": "KI-Denken: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer vos Cours"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.0038819999999999996,
-      "why": "KI-Pruefung: Le Guide Pratique pour les Enseignants : Stratégies Simples pour Gagner du Temps et Améliorer vos Cours"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.0301812,
-      "why": "KI-Denken: Senior Care Expense Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Senior Care Expense Tracker & Budget Planner"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.030686399999999996,
-      "why": "KI-Denken: Senior Care Medication & Expense Tracker Pro"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.0011459999999999999,
-      "why": "KI-Pruefung: Senior Care Medication & Expense Tracker Pro"
-    },
-    {
       "t": "2026-11-14T20:45:09",
       "eur": 0,
       "why": "Fehler (Versuch 3): Excel ohne echte Formeln - verworfen"
@@ -15764,6 +15678,101 @@
       "t": "2026-11-17T02:57:47",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619053737"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": -0.0010044,
+      "why": "Blog-Artikel: Saechsische Schweiz (zh)"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": -0.0013296,
+      "why": "Blog-Artikel: Ruegen Kreidefelsen (es)"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": -0.00041279999999999995,
+      "why": "Video-Skript: Ruegen Kreidefelsen"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs autonomes"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619350850"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: NRW Family City Trip Budget Planner & Itinerary Tracker"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619350894"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
+    },
+    {
+      "t": "2026-11-17T13:30:19",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619343423"
     }
   ],
   "alive": true,
@@ -18873,6 +18882,22 @@
       "topic": "Neuschwanstein",
       "created": "2026-11-16T18:37:08",
       "img": true
+    },
+    {
+      "slug": "saechsische-schweiz-deutschland-reisefuehrer",
+      "title": "探索萨克森瑞士：德国自然奇观的完美指南",
+      "lang": "zh",
+      "topic": "Saechsische Schweiz",
+      "created": "2026-11-17T13:30:19",
+      "img": true
+    },
+    {
+      "slug": "acantilados-de-ruegen-alemania",
+      "title": "Los Acantilados de Rügen: Una Maravilla Natural en Alemania",
+      "lang": "es",
+      "topic": "Ruegen Kreidefelsen",
+      "created": "2026-11-17T13:30:19",
+      "img": true
     }
   ],
   "videos": [
@@ -20484,6 +20509,16 @@
       "hashtags": "#Neuschwanstein #FairytaleCastle #Bavaria #GermanyTravel #CastlesOfTheWorld",
       "voice": "Majestically nestled in the Bavarian Alps, Neuschwanstein Castle is a true masterpiece of 19th-century architecture. This enchanting fortress, commissioned by the visionary King Ludwig II, appears straight out of a fairy tale. Its soaring towers and intricate details captivate visitors from around the globe. Surrounded by breathtaking scenery, it's no wonder this castle inspired Disney's iconic Sleeping Beauty Castle. A must-see destination for any lover of history, art, and magic!",
       "credits": "Foto: Jakub Fryš, CC BY-SA 4.0, via Wikimedia Commons; Foto: Wilfredor, CC0, via Wikimedia Commons; Foto: cameralends, CC0, via Wikimedia Commons; Foto: scott1346 from Mechanicsville, MD, USA, CC BY 2.0, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "acantilados-de-ruegen-alemania",
+      "title": "Los Acantilados de Rügen: Una Maravilla Natural en Alemania",
+      "lang": "es",
+      "created": "2026-11-17T13:30:19",
+      "hashtags": "#Rügen #Kreidefelsen #AlemaniaNatural #MarBáltico #MiradoresEspectaculares",
+      "voice": "¡Descubre los acantilados de creta de Rügen, una maravilla geológica única en Alemania! Estos gigantes blancos junto al Báltico sorprenden con sus formaciones esculpidas durante 70 millones de años. Camina por senderos entre bosques hasta miradores que quitan el aliento o aventúrate en kayak bajo sus paredes de 120 metros. ¡Una joya natural que parece de otro planeta! #IslaRügen #NaturalezaAlemana",
+      "credits": "Foto: Caspar David Friedrich, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
