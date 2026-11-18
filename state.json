@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 382.303,
-  "spent_eur": 122.3674,
+  "balance_eur": 381.7306,
+  "spent_eur": 122.9398,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9611,7 +9611,10 @@
       "audit_note": "Produkt erfüllt die Anforderungen: Keine erfundenen Studien, Statistiken oder Prozentzahlen. Klare, funktionale Excel-Tabelle ohne Rechts-/Finanzberatung. Beispieldaten sind plausibel und als solche erkennbar. Keine Marken Dritter oder Gesundheitsversprechen. Lediglich kleiner Abzug für 'Tage bis Re",
       "pay_url": "https://buy.stripe.com/8x29AUg6J8dtciG7AE2kx1H",
       "payment_link_id": "plink_1UUUMAJ5iOXkWb9VF7Qpy6Sx",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4619998704"
+      }
     },
     {
       "type": "ebook",
@@ -9635,7 +9638,10 @@
       "audit_note": "Der Inhalt enthält keine erfundenen Zahlen, Statistiken oder falsche Quellen. Es wird keine spezifische Rechts-, Steuer-, Finanz- oder Gesundheitsberatung angeboten. Der Text ist sachlich korrekt und vermeidet unerlaubte Inhalte wie Marken oder Gesundheitsversprechen. Kleinere Verbesserungen könnten",
       "pay_url": "https://buy.stripe.com/14A5kEf2F65lgyWcUY2kx1I",
       "payment_link_id": "plink_1UUYeqJ5iOXkWb9VWaORbUPR",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4619998730"
+      }
     },
     {
       "type": "excel",
@@ -9659,7 +9665,10 @@
       "audit_note": "Keine erfundenen Statistiken oder Zahlen, keine Regelverstöße erkennbar. Inhalte sind klar als Beispiele gekennzeichnet, Formeln sind plausibel. Sprachlich korrekt und einheitlich Englisch.",
       "pay_url": "https://buy.stripe.com/dRm00k2fT3Xd1E23ko2kx1J",
       "payment_link_id": "plink_1UUYerJ5iOXkWb9VNdddTGxP",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4619998758"
+      }
     },
     {
       "type": "ebook",
@@ -14770,96 +14779,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.00035519999999999996,
-      "why": "Video-Skript: Harz Brocken"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Estrategias Inteligentes para Ahorrar en Casa: Guía Práctica para Hombre"
-    },
-    {
-      "t": "2026-11-14T20:45:09",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4617403492"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.0308136,
-      "why": "KI-Denken: Schwarzwald Reisebudget-Tracker & Aktivitätenplaner 2026"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.0012216,
-      "why": "KI-Pruefung: Schwarzwald Reisebudget-Tracker & Aktivitätenplaner 2026"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel mit 4 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.030827999999999998,
-      "why": "KI-Denken: Schwarzwald-Reisekosten-Tracker & Aktivitäten-Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.0012167999999999999,
-      "why": "KI-Pruefung: Schwarzwald-Reisekosten-Tracker & Aktivitäten-Planer für internationale Gäste"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.037700399999999995,
-      "why": "KI-Denken: Saarland & Mosel Entdecker: 7 einzigartige Touren abseits der Touristenpfade"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.0042432,
-      "why": "KI-Pruefung: Saarland & Mosel Entdecker: 7 einzigartige Touren abseits der Touristenpfade"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): E-Book zu kurz (1406 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.03675359999999999,
-      "why": "KI-Denken: Entdecke das Saarland & die Mosel: 7 faszinierende Reiserouten für Naturliebhaber"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.004269599999999999,
-      "why": "KI-Pruefung: Entdecke das Saarland & die Mosel: 7 faszinierende Reiserouten für Naturliebhaber"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): E-Book zu kurz (1384 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.03669599999999999,
-      "why": "KI-Denken: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.0042552,
-      "why": "KI-Pruefung: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): E-Book zu kurz (1431 Woerter) - verworfen"
-    },
-    {
-      "t": "2026-11-15T01:58:05",
-      "eur": -0.03818159999999999,
-      "why": "KI-Denken: Saarland & Mosel Entdecker: 7 Einfache Schritte zu Verborgenen Juwelen und Lokalen Geheimtipps"
-    },
-    {
       "t": "2026-11-15T01:58:05",
       "eur": -0.0043619999999999996,
       "why": "KI-Pruefung: Saarland & Mosel Entdecker: 7 Einfache Schritte zu Verborgenen Juwelen und Lokalen Geheimtipps"
@@ -15768,6 +15687,101 @@
       "t": "2026-11-17T22:26:48",
       "eur": -0.00038639999999999996,
       "why": "Video-Skript: Frankfurt Skyline"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": -0.0012024,
+      "why": "Blog-Artikel: Rothenburg ob der Tauber (en)"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": -0.0009299999999999999,
+      "why": "Blog-Artikel: Berlin Brandenburger Tor (zh)"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": -0.00034559999999999994,
+      "why": "Video-Skript: Berlin Brandenburger Tor"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ostsee & Nordsee Reisekosten-Tracker & Budgetplaner"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619998704"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619998730"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
+    },
+    {
+      "t": "2026-11-18T07:33:56",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619998758"
     }
   ],
   "alive": true,
@@ -18909,6 +18923,22 @@
       "topic": "Frankfurt Skyline",
       "created": "2026-11-17T22:26:48",
       "img": true
+    },
+    {
+      "slug": "rothenburg-ob-der-tauber-fairytale-escape-germany",
+      "title": "Rothenburg ob der Tauber: A Fairytale Escape in Germany",
+      "lang": "en",
+      "topic": "Rothenburg ob der Tauber",
+      "created": "2026-11-18T07:33:56",
+      "img": true
+    },
+    {
+      "slug": "berlin-brandenburger-tor",
+      "title": "柏林勃兰登堡门：历史与文化的象征",
+      "lang": "zh",
+      "topic": "Berlin Brandenburger Tor",
+      "created": "2026-11-18T07:33:56",
+      "img": true
     }
   ],
   "videos": [
@@ -20540,6 +20570,16 @@
       "hashtags": "#Frankfurt #Skyline #Mainhattan #DeutschlandReisen #Hessen",
       "voice": "Frankfurt – wo Tradition und Moderne verschmelzen! Die atemberaubende Skyline, liebevoll 'Mainhattan' genannt, begeistert mit ikonischen Türmen wie dem Commerzbank Tower. Am romantischen Mainufer spiegeln sich die Hochhäuser im Wasser, während die Altstadt mit gemütlichen Apfelweinkneipen lockt. Ein perfekter Mix aus Business und Lebensfreude!",
       "credits": "Foto: Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, via Wikimedia Commons; Foto: Dontworry, CC BY-SA 3.0, via Wikimedia Commons; Foto: Dora Dragoni, CC BY 3.0, via Wikimedia Commons; Foto: Ingolfson, Public domain, via Wikimedia Commons",
+      "posted": {}
+    },
+    {
+      "slug": "berlin-brandenburger-tor",
+      "title": "柏林勃兰登堡门：历史与文化的象征",
+      "lang": "zh",
+      "created": "2026-11-18T07:33:56",
+      "hashtags": "#德国旅游#柏林必去#勃兰登堡门#欧洲地标#历史文化",
+      "voice": "欢迎来到德国柏林，屹立在巴黎广场的勃兰登堡门是德国的国家象征！这座新古典主义建筑建于1788年，见证了无数历史事件。它是柏林最著名的地标，每年吸引着数百万游客。漫步在这座雄伟的建筑前，您将领略到德国历史的厚重与辉煌。快来亲自感受这座城市的魅力吧！",
+      "credits": "Foto: Geoprofi Lars, CC BY-SA 4.0, via Wikimedia Commons; Foto: Lesser Ury, Public domain, via Wikimedia Commons; Foto: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons; Foto: usbotschaftberlin, Public domain, via Wikimedia Commons",
       "posted": {}
     }
   ],
