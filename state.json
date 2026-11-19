@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 381.1588,
-  "spent_eur": 123.5116,
+  "balance_eur": 380.5874,
+  "spent_eur": 124.083,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9773,7 +9773,10 @@
       "audit_note": "Produkt erfüllt die grundlegenden Anforderungen für einen Budget-Tracker in Excel-Format. Keine erfundenen Statistiken oder Quellen, keine Rechts- oder Gesundheitsberatung. Formeln sind sinnvoll und nachvollziehbar. Beispieldaten sind klar als solche erkennbar. Kleinere Verbesserungspotenziale bei d",
       "pay_url": "https://buy.stripe.com/8x25kE7AdalB82qf362kx1N",
       "payment_link_id": "plink_1UUbuGJ5iOXkWb9VA00xPZKc",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4620612275"
+      }
     },
     {
       "type": "ebook",
@@ -9797,7 +9800,10 @@
       "audit_note": "Inhalt ist praktisch und legal, enthält aber einige nicht belegte Prozentangaben (z.B. Energieeinsparungen) und spezifische Einsparungsbeispiele, die als erfunden eingestuft werden müssen. Allgemeine Ratschläge sind jedoch nützlich und regelkonform.",
       "pay_url": "https://buy.stripe.com/7sY4gA6w965lbeC6wA2kx1O",
       "payment_link_id": "plink_1UUimSJ5iOXkWb9VxkXwUGYM",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4620618336"
+      }
     },
     {
       "type": "excel",
@@ -9821,7 +9827,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Sprache ist einheitlich Französisch, und es gibt keine Platzhalter oder unfertigen Texte. Die berechneten Kennzahlen sind plausibel und basieren auf den Beispieldaten.",
       "pay_url": "https://buy.stripe.com/eVqeVe5s51P5fuSf362kx1P",
       "payment_link_id": "plink_1UUimTJ5iOXkWb9VrYJYJ3kx",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4620618368"
+      }
     },
     {
       "type": "ebook",
@@ -14789,101 +14798,6 @@
   "log": [
     {
       "t": "2026-11-15T09:30:44",
-      "eur": -0.03625079999999999,
-      "why": "KI-Denken: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": -0.0034415999999999995,
-      "why": "KI-Pruefung: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting Adventures"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": -0.030919199999999994,
-      "why": "KI-Denken: Planificador de Viajes Costa del Mar Báltico y del Norte: Presupuesto, Ruta y Gastos para Autónomos"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": -0.0010248,
-      "why": "KI-Pruefung: Planificador de Viajes Costa del Mar Báltico y del Norte: Presupuesto, Ruta y Gastos para Autónomos"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): Excel mit 1 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": -0.031090799999999995,
-      "why": "KI-Denken: Planificador de Viajes Costa Báltica y Mar del Norte: Presupuesto, Itinerario y Checklist para Hombres"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": -0.0012216,
-      "why": "KI-Pruefung: Planificador de Viajes Costa Báltica y Mar del Norte: Presupuesto, Itinerario y Checklist para Hombres"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): Excel mit 2 Formelfehlern - verworfen"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": -0.0315984,
-      "why": "KI-Denken: Guía Práctica de Viaje para la Costa Alemana del Norte y Báltico: Itinerario y Gestor de Presupuesto"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": -0.0015851999999999997,
-      "why": "KI-Pruefung: Guía Práctica de Viaje para la Costa Alemana del Norte y Báltico: Itinerario y Gestor de Presupuesto"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": -0.039128399999999994,
-      "why": "KI-Denken: Guía Esencial del Viajero: Descubre el Rin, Frankfurt y Heidelberg en 7 Pasos"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": -0.0041724,
-      "why": "KI-Pruefung: Guía Esencial del Viajero: Descubre el Rin, Frankfurt y Heidelberg en 7 Pasos"
-    },
-    {
-      "t": "2026-11-15T09:37:42",
-      "eur": -0.0031655999999999998,
-      "why": "Audit: Bavarian Alps & Hidden Gems: A Solo Female Traveler's Guide to Safe & Enchanting"
-    },
-    {
-      "t": "2026-11-15T09:37:42",
-      "eur": -0.0028656,
-      "why": "Audit: Guía Práctica de Viaje para la Costa Alemana del Norte y Báltico: Itinerario y G"
-    },
-    {
-      "t": "2026-11-15T09:37:42",
-      "eur": -0.0038819999999999996,
-      "why": "Audit: Guía Esencial del Viajero: Descubre el Rin, Frankfurt y Heidelberg en 7 Pasos"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-15T09:30:44",
       "eur": -0.0011975999999999998,
       "why": "Blog-Artikel: Eifel Maare (en)"
     },
@@ -15791,6 +15705,101 @@
       "t": "2026-11-18T17:17:57",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620324561"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": -0.0014495999999999999,
+      "why": "Blog-Artikel: Harz Brocken (fr)"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能婚礼预算追踪器 & 供应商管理器 - 2026专业版"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620612275"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 聪明省钱：7个简单步骤轻松管理家庭预算"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620618336"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur d'Entraînement et Suivi des Progrès pour Coachs Sportifs"
+    },
+    {
+      "t": "2026-11-19T00:26:32",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620618368"
     }
   ],
   "alive": true,
@@ -18955,6 +18964,14 @@
       "lang": "es",
       "topic": "Dresden Frauenkirche",
       "created": "2026-11-18T17:17:57",
+      "img": true
+    },
+    {
+      "slug": "decouvrez-le-brocken-dans-le-harz-une-aventure-unique-en-all",
+      "title": "Découvrez le Brocken dans le Harz : Une Aventure Unique en Allemagne",
+      "lang": "fr",
+      "topic": "Harz Brocken",
+      "created": "2026-11-19T00:26:32",
       "img": true
     }
   ],
