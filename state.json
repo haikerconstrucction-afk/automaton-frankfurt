@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 380.0159,
-  "spent_eur": 124.6545,
+  "balance_eur": 379.4448,
+  "spent_eur": 125.2256,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -9935,7 +9935,10 @@
       "audit_note": "Der Inhalt ist sachlich korrekt und hält sich an die Regeln. Es gibt keine erfundenen Zahlen, Statistiken oder unzulässigen Behauptungen. Die Excel-Funktionen sind plausibel und die Beispieldaten sind realistisch. Kleinere Schönheitsfehler wie wiederholte Formeln beeinträchtigen die Nutzbarkeit nich",
       "pay_url": "https://buy.stripe.com/14A4gA3jX2T9ciGf362kx1T",
       "payment_link_id": "plink_1UUpgsJ5iOXkWb9VxH4XJXtS",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4621474566"
+      }
     },
     {
       "type": "ebook",
@@ -9959,7 +9962,10 @@
       "audit_note": "Keine offensichtlichen Verstöße gegen die Regeln festgestellt. Der Inhalt enthält praktische Tipps ohne erfundene Statistiken oder Prozentangaben. Die Sprache ist konsistent und es wurden keine Marken/Personen Dritter verwendet.",
       "pay_url": "https://buy.stripe.com/dRmcN65s52T9fuScUY2kx1U",
       "payment_link_id": "plink_1UUvC3J5iOXkWb9V1Hz9BvVI",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4621468335"
+      }
     },
     {
       "type": "excel",
@@ -9983,7 +9989,10 @@
       "audit_note": "Produkt hält alle Regeln ein. Keine erfundenen Zahlen, Statistiken oder Quellen. Keine Beratungsleistung oder Gesundheitsversprechen. Klare Funktionsbeschreibung, automatische Berechnungen sind korrekt gegen Beispieldaten. Alle Angaben nachprüfbar, Beispielwerte plausibel.",
       "pay_url": "https://buy.stripe.com/dRmbJ26w99hxbeC1cg2kx1V",
       "payment_link_id": "plink_1UUvC4J5iOXkWb9VYYlfXIfe",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4621468371"
+      }
     },
     {
       "type": "ebook",
@@ -14806,161 +14815,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-15T17:14:22",
-      "eur": -0.031353599999999995,
-      "why": "KI-Denken: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
-    },
-    {
-      "t": "2026-11-15T17:14:22",
-      "eur": -0.0012071999999999999,
-      "why": "KI-Pruefung: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
-    },
-    {
-      "t": "2026-11-15T17:18:24",
-      "eur": -0.0024251999999999998,
-      "why": "Audit: 智能柏林与波茨坦行程预算追踪器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-15T17:18:24",
-      "eur": -0.005041199999999999,
-      "why": "Audit: 德累斯顿与萨克森隐藏宝藏：7步探索文化与自然的秘密"
-    },
-    {
-      "t": "2026-11-15T17:18:24",
-      "eur": -0.003588,
-      "why": "Audit: Planificateur de Chantier & Suivi Budgétaire pour Artisans"
-    },
-    {
-      "t": "2026-11-15T17:14:22",
-      "eur": 0,
-      "why": "Audit: 3 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-15T17:14:22",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-15T17:14:22",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-15T17:14:22",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-15T17:14:22",
-      "eur": -0.0014796,
-      "why": "Blog-Artikel: Schwarzwald (fr)"
-    },
-    {
-      "t": "2026-11-15T17:14:22",
-      "eur": -0.001344,
-      "why": "Blog-Artikel: Saarland Saarschleife (de)"
-    },
-    {
-      "t": "2026-11-15T17:14:22",
-      "eur": -0.00039119999999999997,
-      "why": "Video-Skript: Saarland Saarschleife"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": -0.03747,
-      "why": "KI-Denken: 7 Histoires Enchantées pour le Dodo : Des Aventures Magiques pour les Petits Explorateurs"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": -0.004214399999999999,
-      "why": "KI-Pruefung: 7 Histoires Enchantées pour le Dodo : Des Aventures Magiques pour les Petits Explorateurs"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": -0.031027199999999998,
-      "why": "KI-Denken: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": -0.037144799999999985,
-      "why": "KI-Denken: Smart Savings for Busy Families: 7 Simple Steps to Stretch Your Household Budget"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-15T22:56:33",
-      "eur": -0.003969599999999999,
-      "why": "Audit: 7 Histoires Enchantées pour le Dodo : Des Aventures Magiques pour les Petits Exp"
-    },
-    {
-      "t": "2026-11-15T22:56:33",
-      "eur": -0.0031056,
-      "why": "Audit: Ultimate Wedding Budget & Vendor Tracker"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": 0,
-      "why": "Audit: 2 geprueft, 0 entfernt"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": -0.000978,
-      "why": "Blog-Artikel: Koeln Dom (en)"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": -0.0009815999999999998,
-      "why": "Blog-Artikel: Ruhrgebiet Zollverein (zh)"
-    },
-    {
-      "t": "2026-11-15T22:52:35",
-      "eur": -0.000336,
-      "why": "Video-Skript: Ruhrgebiet Zollverein"
-    },
-    {
       "t": "2026-11-16T06:36:41",
       "eur": -0.0373824,
       "why": "KI-Denken: Smart Savings for Busy Families: 7 Easy Steps to Stretch Your Budget Without Sacrifice"
@@ -15869,6 +15723,101 @@
       "t": "2026-11-19T20:42:11",
       "eur": 0,
       "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": -0.0011208,
+      "why": "Blog-Artikel: Muenchen Marienplatz (en)"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimativer Business-Reiseplaner: Budget, Packliste & Routenoptimierung"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4621474566"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4621468335"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Volunteer Event Budget & Expense Tracker"
+    },
+    {
+      "t": "2026-11-20T03:22:57",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4621468371"
     }
   ],
   "alive": true,
@@ -19050,6 +18999,14 @@
       "topic": "Nordsee Wattenmeer",
       "created": "2026-11-19T10:36:22",
       "img": true
+    },
+    {
+      "slug": "munich-marienplatz-bavaria-travel-guide",
+      "title": "Munich's Marienplatz: A Must-Visit Heart of Bavaria",
+      "lang": "en",
+      "topic": "Muenchen Marienplatz",
+      "created": "2026-11-20T03:22:57",
+      "img": false
     }
   ],
   "videos": [
