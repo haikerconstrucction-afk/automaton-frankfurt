@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 378.8748,
-  "spent_eur": 125.7956,
+  "balance_eur": 378.3048,
+  "spent_eur": 126.3656,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10097,7 +10097,10 @@
       "audit_note": "Das Produkt ist eine Excel-Vorlage zur Einnahmen- und Ausgabenverfolgung für YouTube. Es enthält keine erfundenen Studien, Statistiken oder Gesundheitsversprechen. Die Beispielwerte sind klar als solche gekennzeichnet. Die Formeln und Berechnungen sind plausibel und entsprechen den angegebenen Funkt",
       "pay_url": "https://buy.stripe.com/9B63cwcUxctJfuScUY2kx1Z",
       "payment_link_id": "plink_1UUzJaJ5iOXkWb9VQKWlHnSW",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4622208299"
+      }
     },
     {
       "type": "ebook",
@@ -10121,7 +10124,10 @@
       "audit_note": "Der Inhalt ist sachlich korrekt, enthält keine erfundenen Statistiken, Prozentzahlen oder Quellen. Es werden nur allgemein bekannte Praxistipps und keine Regelverstöße festgestellt.",
       "pay_url": "https://buy.stripe.com/9B6fZi2fTalB82q7AE2kx20",
       "payment_link_id": "plink_1UV5LQJ5iOXkWb9VrfbVRxha",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4622208325"
+      }
     },
     {
       "type": "excel",
@@ -10145,7 +10151,10 @@
       "audit_note": "Das Produkt erfüllt die Kriterien: Es enthält keine erfundenen Statistiken, Prozentzahlen oder Quellen, keine Beratung oder Gesundheitsversprechen, keine Marken oder fremden Figuren. Die Sprache ist konsequent Französisch, die Texte sind vollständig und enthalten keine Platzhalter. Die Beispielrechn",
       "pay_url": "https://buy.stripe.com/4gMfZidYB79pciG1cg2kx21",
       "payment_link_id": "plink_1UV5LQJ5iOXkWb9VJihLtOvN",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4622208339"
+      }
     },
     {
       "type": "ebook",
@@ -14824,156 +14833,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-16T06:36:41",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Hundepflege leicht gemacht: 7 praktische Schritte für einen entspannten Alltag mit deinem Vierbeiner"
-    },
-    {
-      "t": "2026-11-16T06:36:41",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4618347506"
-    },
-    {
-      "t": "2026-11-16T06:36:41",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Moving & Renovation Budget Tracker for Women: Professional Expense Planner"
-    },
-    {
-      "t": "2026-11-16T06:36:41",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4618347522"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": -0.031278,
-      "why": "KI-Denken: Smart Trainingsplaner & Fortschritts-Tracker für Fitnessstudios und Trainer"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": -0.001,
-      "why": "KI-Pruefung: Smart Trainingsplaner & Fortschritts-Tracker für Fitnessstudios und Trainer"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): Excel ohne echte Formeln - verworfen"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": -0.0015107999999999996,
-      "why": "Blog-Artikel: Heidelberg Altstadt (de)"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": -0.0011891999999999998,
-      "why": "Blog-Artikel: Neuschwanstein (en)"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": -0.000372,
-      "why": "Video-Skript: Neuschwanstein"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: The Homesteader's Essential Guide: 7 Simple Steps to Start Your Self-Sufficient Garden"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4618736737"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificador de Ingresos y Gastos para Creadores de Contenido"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4618744668"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: El Maestro Eficiente: 7 estrategias sencillas para optimizar tu tiempo y mejorar tus clases"
-    },
-    {
-      "t": "2026-11-16T18:37:08",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4618736831"
-    },
-    {
-      "t": "2026-11-17T02:57:47",
-      "eur": -0.031202399999999995,
-      "why": "KI-Denken: Der clevere Trainingsplaner für Fitnessstudios und Freiberufler"
-    },
-    {
-      "t": "2026-11-17T02:57:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T02:57:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T02:57:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T02:57:47",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
       "t": "2026-11-17T02:57:47",
       "eur": 0,
       "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
@@ -15887,6 +15746,96 @@
       "t": "2026-11-20T21:50:39",
       "eur": 0,
       "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: YouTube广告收入与成本追踪器"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622208299"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 高效课堂管理：7个简单策略提升教学效果"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622208325"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Suivi des Dépenses de Soins & Budget pour Personnes Âgées"
+    },
+    {
+      "t": "2026-11-21T03:14:38",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622208339"
     }
   ],
   "alive": true,
