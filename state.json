@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 377.7348,
-  "spent_eur": 126.9356,
+  "balance_eur": 377.1648,
+  "spent_eur": 127.5056,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10259,7 +10259,10 @@
       "audit_note": "Der Inhalt entspricht den Regeln: keine erfundenen Studien, Statistiken oder Quellen, keine Rechts-, Steuer- oder Finanzberatung, keine Gesundheitsversprechen, keine fremden Marken/Figuren. Die Beispieldaten sind plausibel und klar markiert. Keine Regelverstöße festgestellt.",
       "pay_url": "https://buy.stripe.com/5kQeVef2FeBR2I67AE2kx25",
       "payment_link_id": "plink_1UVBiqJ5iOXkWb9VDAaPmIDx",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4622873653"
+      }
     },
     {
       "type": "ebook",
@@ -10283,7 +10286,10 @@
       "audit_note": "Inhalt entspricht den Regeln, keine erfundenen Zahlen oder Statistiken, klare Tipps und allgemein bekannte Fakten.",
       "pay_url": "https://buy.stripe.com/9B6bJ2aMpdxNgyW1cg2kx26",
       "payment_link_id": "plink_1UVHMsJ5iOXkWb9VuTJHCcMp",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4622873671"
+      }
     },
     {
       "type": "excel",
@@ -10307,7 +10313,10 @@
       "audit_note": "Keine erfundenen Zahlen, Statistiken oder Quellen festgestellt. Der Inhalt ist klar, ehrlich und ohne Regelverstöße. Die Beispieldaten sind plausibel und die Formeln/Tabellen sinnvoll. Der Fokus liegt auf allgemein bekannten Fakten und eigenen Praxistipps.",
       "pay_url": "https://buy.stripe.com/5kQ14o4o11P55Uig7a2kx27",
       "payment_link_id": "plink_1UVHMtJ5iOXkWb9VpNF7zS5R",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4622882132"
+      }
     },
     {
       "type": "ebook",
@@ -14842,156 +14851,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-17T13:30:19",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": -0.0010044,
-      "why": "Blog-Artikel: Saechsische Schweiz (zh)"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": -0.0013296,
-      "why": "Blog-Artikel: Ruegen Kreidefelsen (es)"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": -0.00041279999999999995,
-      "why": "Video-Skript: Ruegen Kreidefelsen"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Découvrez le Saarland et la Moselle en 7 étapes: Guide pratique pour voyageurs autonomes"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619350850"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: NRW Family City Trip Budget Planner & Itinerary Tracker"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619350894"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Bavarian Alps & Hidden Gems: 7 Family-Friendly Adventures with Practical Tips"
-    },
-    {
-      "t": "2026-11-17T13:30:19",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619343423"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": -0.0014988,
-      "why": "Blog-Artikel: Hamburg Speicherstadt (fr)"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": -0.0015048,
-      "why": "Blog-Artikel: Frankfurt Skyline (de)"
-    },
-    {
-      "t": "2026-11-17T22:26:48",
-      "eur": -0.00038639999999999996,
-      "why": "Video-Skript: Frankfurt Skyline"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
       "t": "2026-11-18T07:33:56",
       "eur": 0,
       "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
@@ -15905,6 +15764,96 @@
       "t": "2026-11-21T20:33:48",
       "eur": 0,
       "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimativer NRW-Reisebudget-Tracker & Routeplaner für Selbstständige"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622873653"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Bayerische Alpen Entdecken: Der ultimative Roadtrip-Guide für Selbstständige und Freiberufler"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622873671"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Baltic & North Sea Travel Budget Planner for Female Explorers"
+    },
+    {
+      "t": "2026-11-22T02:16:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622882132"
     }
   ],
   "alive": true,
