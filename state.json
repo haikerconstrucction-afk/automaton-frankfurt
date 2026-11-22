@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 377.1648,
-  "spent_eur": 127.5056,
+  "balance_eur": 376.5948,
+  "spent_eur": 128.0756,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10340,7 +10340,10 @@
       "audit_note": "Inhalt ist legal, ehrlich und frei von Spam oder falschen Beratungen. Es wurden keine erfundenen Studien, Statistiken oder Quellen verwendet. Der Text ist vollständig, ohne Platzhalter oder Wiederholungen. Sachliche Fehler oder Regelverstöße sind nicht erkennbar. Lediglich der Ausdruck 'according to",
       "pay_url": "https://buy.stripe.com/00w7sM9IlctJ5Ui2gk2kx28",
       "payment_link_id": "plink_1UVHMuJ5iOXkWb9VcYr9c5jR",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4623075938"
+      }
     },
     {
       "type": "excel",
@@ -10364,7 +10367,10 @@
       "audit_note": "Keine erfundenen Studien, Statistiken oder Prozentzahlen. Enthält nur allgemein bekannte Fakten und klare Beispielrechnungen. Die Excel-Funktionen sind korrekt und sinnvoll. Kleinere Unstimmigkeit bei 'Gasto promedio/día' aufgrund leerer Zellen in den Beispieldaten, aber kein schwerwiegender Fehler.",
       "pay_url": "https://buy.stripe.com/bJe14odYBbpF3Ma3ko2kx29",
       "payment_link_id": "plink_1UVLkUJ5iOXkWb9VBYMtqKQ2",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4623075960"
+      }
     },
     {
       "type": "ebook",
@@ -10388,7 +10394,10 @@
       "audit_note": "Der Inhalt ist weitgehend korrekt und entspricht den Regeln. Es wurden keine erfundenen Studien, Statistiken, Prozentzahlen oder Quellen gefunden. Die Sprache ist konsistent Spanisch, und der Text ist vollständig ohne Platzhalter oder Wiederholungen. Es gibt keine sachlichen Fehler oder unerlaubte B",
       "pay_url": "https://buy.stripe.com/7sY3cw7AddxN0zYf362kx2a",
       "payment_link_id": "plink_1UVLkVJ5iOXkWb9VhXHrnIB6",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4623075972"
+      }
     },
     {
       "type": "excel",
@@ -14851,96 +14860,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": -0.0012024,
-      "why": "Blog-Artikel: Rothenburg ob der Tauber (en)"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": -0.0009299999999999999,
-      "why": "Blog-Artikel: Berlin Brandenburger Tor (zh)"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": -0.00034559999999999994,
-      "why": "Video-Skript: Berlin Brandenburger Tor"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ostsee & Nordsee Reisekosten-Tracker & Budgetplaner"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619998704"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Rhein, Frankfurt & Heidelberg entdecken: Der ultimative Reiseführer für Selbstständige und Freiberufler"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619998730"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Berlin & Potsdam Travel Budget Planner & Itinerary Tracker for Women"
-    },
-    {
-      "t": "2026-11-18T07:33:56",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4619998758"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
       "t": "2026-11-18T17:17:57",
       "eur": 0,
       "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
@@ -15854,6 +15773,96 @@
       "t": "2026-11-22T02:16:53",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622882132"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Romantic Rhine Getaways: A Female Traveler's Guide to Frankfurt, Heidelberg & Rhine Valley"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623075938"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Viajes para Berlín y Potsdam: Presupuesto, Itinerario y Consejos Prácticos"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623075960"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Descubre Dresden y sus alrededores: Guía práctica para viajeros masculinos"
+    },
+    {
+      "t": "2026-11-22T12:38:31",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623075972"
     }
   ],
   "alive": true,
