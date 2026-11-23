@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 376.0248,
-  "spent_eur": 128.6456,
+  "balance_eur": 375.4548,
+  "spent_eur": 129.2156,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10502,7 +10502,10 @@
       "audit_note": "Der Inhalt ist größtenteils korrekt und vermeidet erfundene Zahlen oder Quellen. Die Sprache ist konsistent Französisch, es gibt keine unfertigen Texte oder Platzhalter. Es werden allgemeine Praxistipps gegeben, ohne spezifische Finanzberatung oder Gesundheitsversprechen. Der Inhalt ist nützlich und",
       "pay_url": "https://buy.stripe.com/eVq9AU2fTbpFaay1cg2kx2e",
       "payment_link_id": "plink_1UVSXUJ5iOXkWb9Va98EdE31",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4623869507"
+      }
     },
     {
       "type": "excel",
@@ -10526,7 +10529,10 @@
       "audit_note": "Produkt erfüllt die Regeln, keine erfundenen Zahlen oder Statistiken, klare Beispielrechnungen, keine Gesundheitsversprechen oder Beratung. Kleinere Verbesserungspotenziale bei der Plausibilitätsprüfung der berechneten Kennzahlen (z.B. durchschnittliche Kalorienverbrennung sollte auf Basis aller Tag",
       "pay_url": "https://buy.stripe.com/6oU00kbQt65lgyWg7a2kx2f",
       "payment_link_id": "plink_1UVa0jJ5iOXkWb9VO04EiRLu",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4623869533"
+      }
     },
     {
       "type": "ebook",
@@ -10550,7 +10556,10 @@
       "audit_note": "Erfundene Prozentzahlen gefunden (30%, 4%, 1.4%, 20-30%). Keine allgemein bekannten Grundlagen für diese Zahlen. Sonst keine Regelverstöße.",
       "pay_url": "https://buy.stripe.com/9B68wQ07L9hx2I63ko2kx2g",
       "payment_link_id": "plink_1UVa0kJ5iOXkWb9V5CyhX1fq",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4623869565"
+      }
     },
     {
       "type": "excel",
@@ -14869,96 +14878,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Video-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 智能婚礼预算追踪器 & 供应商管理器 - 2026专业版"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620612275"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 聪明省钱：7个简单步骤轻松管理家庭预算"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620618336"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Planificateur d'Entraînement et Suivi des Progrès pour Coachs Sportifs"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620618368"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": -0.0015432,
-      "why": "Blog-Artikel: Nordsee Wattenmeer (de)"
-    },
-    {
       "t": "2026-11-19T10:36:22",
       "eur": 0,
       "why": "Blog-Fehler: HTTP Error 402: Payment Required"
@@ -15872,6 +15791,96 @@
       "t": "2026-11-23T02:50:05",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623547129"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Économiser Sans Stress : 7 Stratégies Simples pour Mieux Gérer Vos Finances Personnelles"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623869507"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Fitness Progress Tracker for Families"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623869533"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Small Landlord, Big Profits: 7 Simple Steps to Manage 1-5 Rentals Without Stress"
+    },
+    {
+      "t": "2026-11-23T14:47:22",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623869565"
     }
   ],
   "alive": true,
