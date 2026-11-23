@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 376.5948,
-  "spent_eur": 128.0756,
+  "balance_eur": 376.0248,
+  "spent_eur": 128.6456,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10421,7 +10421,10 @@
       "audit_note": "Keine Regelverstöße festgestellt. Das Produkt ist eine standardisierte Excel-Vorlage ohne erfundene Studien, Statistiken oder irreführende Angaben. Alle Berechnungen basieren auf den Nutzereingaben und sind nachvollziehbar.",
       "pay_url": "https://buy.stripe.com/dRmeVe7Ad3Xd0zY8EI2kx2b",
       "payment_link_id": "plink_1UVLkWJ5iOXkWb9V3UmaBH2D",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4623554248"
+      }
     },
     {
       "type": "ebook",
@@ -10445,7 +10448,10 @@
       "audit_note": "Der Inhalt ist größtenteils konform mit den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Quellen. Die Sprache ist korrekt und es gibt keine unfertigen Texte oder Platzhalter. Die Geschichten sind kreativ und geeignet für die Zielgruppe. Ein kleiner Mangel ist die unerwartete Sprachmisc",
       "pay_url": "https://buy.stripe.com/4gMeVe8Eh3XddmKg7a2kx2c",
       "payment_link_id": "plink_1UVSXSJ5iOXkWb9V22GLNB3p",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4623547107"
+      }
     },
     {
       "type": "excel",
@@ -10469,7 +10475,10 @@
       "audit_note": "Der Inhalt ist klar und strukturiert, enthält keine erfundenen Zahlen, Statistiken oder Quellen. Sprache ist konsistent französisch, keine Rechts-, Steuer- oder Finanzberatung. Einige Wiederholungen in Formeln ('Budget'-Blatt), aber dies ist kein Fehler des Produkts. Beispielhafte Daten sind plausib",
       "pay_url": "https://buy.stripe.com/28E6oI7AdalBaayf362kx2d",
       "payment_link_id": "plink_1UVSXTJ5iOXkWb9Vc8Y4TynR",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4623547129"
+      }
     },
     {
       "type": "ebook",
@@ -14860,156 +14869,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": -0.0014039999999999999,
-      "why": "Blog-Artikel: Dresden Frauenkirche (es)"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": -0.00038399999999999996,
-      "why": "Video-Skript: Dresden Frauenkirche"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Dresden Travel Guide: Hidden Gems & Local Secrets for Female Explorers"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620332312"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Calculadora Avanzada de Presupuestos para Talleres de Construcción"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620324517"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Cuentos Mágicos para Dormir: Historias cortas para niños de 3 a 8 años"
-    },
-    {
-      "t": "2026-11-18T17:17:57",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620324561"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": -0.0014495999999999999,
-      "why": "Blog-Artikel: Harz Brocken (fr)"
-    },
-    {
-      "t": "2026-11-19T00:26:32",
-      "eur": 0,
-      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
       "t": "2026-11-19T00:26:32",
       "eur": 0,
       "why": "Video-Fehler: HTTP Error 402: Payment Required"
@@ -15923,6 +15782,96 @@
       "t": "2026-11-22T20:44:47",
       "eur": 0,
       "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 智能报价计算器与施工现场管理表 - 2026专业版"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623554248"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7个温馨的睡前故事：让3-8岁孩子安心入睡的魔法书"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623547107"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificateur de Budget de Mariage & Suivi des Dépenses 2026"
+    },
+    {
+      "t": "2026-11-23T02:50:05",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623547129"
     }
   ],
   "alive": true,
