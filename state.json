@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 374.8848,
-  "spent_eur": 129.7856,
+  "balance_eur": 374.3148,
+  "spent_eur": 130.3556,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10664,7 +10664,10 @@
       "audit_note": "Der Inhalt ist allgemein gehalten und enthält keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Tipps sind praktisch und basieren auf allgemeinem Wissen über Etsy-Verkäufe. Keine Verstöße gegen die Regeln festgestellt.",
       "pay_url": "https://buy.stripe.com/dRm7sM3jXbpF3MabQU2kx2k",
       "payment_link_id": "plink_1UVfbYJ5iOXkWb9VO1jQhS7U",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4624649573"
+      }
     },
     {
       "type": "excel",
@@ -10688,7 +10691,10 @@
       "audit_note": "Das Produkt ist eine Excel-Vorlage zur Veranstaltungs- und Finanzplanung für Vereine. Es enthält keine erfundenen Studien, Statistiken oder Quellen. Alle dargestellten Zahlen sind klar als Beispiele gekennzeichnet und nachvollziehbar berechnet. Die Sprache ist durchgehend Spanisch, es gibt keine unf",
       "pay_url": "https://buy.stripe.com/fZu00kaMp79p6Ymf362kx2l",
       "payment_link_id": "plink_1UVmM0J5iOXkWb9VxDKZEQz1",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4624649613"
+      }
     },
     {
       "type": "ebook",
@@ -10712,7 +10718,10 @@
       "audit_note": "Die genannten Prozentzahlen sind zwar nicht belegt, jedoch handelt es sich um allgemeine Empfehlungen ohne konkrete Wirkungsbehauptungen. Der Rest des Inhalts ist sachlich korrekt und frei von anderen Regelverstößen.",
       "pay_url": "https://buy.stripe.com/28E4gA6w9dxN4Qe08c2kx2m",
       "payment_link_id": "plink_1UVmM1J5iOXkWb9V7N4LiutO",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4624655112"
+      }
     },
     {
       "type": "excel",
@@ -14887,96 +14896,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Video-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": -0.0011208,
-      "why": "Blog-Artikel: Muenchen Marienplatz (en)"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Video-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimativer Business-Reiseplaner: Budget, Packliste & Routenoptimierung"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4621474566"
-    },
-    {
-      "t": "2026-11-20T03:22:57",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Der Etsy-Erfolgsplan für Online-Händler: 6 einfache Schritte zu mehr Umsatz und Sichtbarkeit"
-    },
-    {
       "t": "2026-11-20T03:22:57",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4621468335"
@@ -15890,6 +15809,96 @@
       "t": "2026-11-24T02:55:53",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4624321111"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Etsy Growth Planner: 7 Steps to Boost Your Online Shop Traffic & Sales"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4624649573"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Planificador de Eventos y Finanzas para Asociaciones"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4624649613"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guía Práctica para Dueños de Perros: 7 Estrategias Simples para un Cuidado Canino Sin Estrés"
+    },
+    {
+      "t": "2026-11-24T14:55:47",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4624655112"
     }
   ],
   "alive": true,
