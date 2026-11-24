@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 375.4548,
-  "spent_eur": 129.2156,
+  "balance_eur": 374.8848,
+  "spent_eur": 129.7856,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10583,7 +10583,10 @@
       "audit_note": "Der Inhalt ist korrekt und entspricht den Regeln. Es gibt keine erfundenen Studien, Statistiken oder Prozentzahlen. Die Beispielrechnungen sind klar als solche markiert und die Sprache ist durchgehend Deutsch. Es gibt keine Regelverstöße.",
       "pay_url": "https://buy.stripe.com/7sYbJ2g6JalBgyW9IM2kx2h",
       "payment_link_id": "plink_1UVa0kJ5iOXkWb9VuDXFXxoQ",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4624321065"
+      }
     },
     {
       "type": "ebook",
@@ -10607,7 +10610,10 @@
       "audit_note": "Das E-Book bietet praktische Tipps für Restaurants und Cafés ohne spezifische Studien, Statistiken oder Prozentzahlen. Es hält sich an die Regeln und liefert allgemein bekannte Ratschläge und praxisnahe Strategien.",
       "pay_url": "https://buy.stripe.com/9B67sMcUx65l82q4os2kx2i",
       "payment_link_id": "plink_1UVfbWJ5iOXkWb9Voq8HDUXB",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4624327632"
+      }
     },
     {
       "type": "excel",
@@ -10631,7 +10637,10 @@
       "audit_note": "Das Produkt ist eine Excel-Vorlage ohne erfundene Studien, falsche Statistiken oder problematische Gesundheitsversprechen. Die Berechnungen sind technisch korrekt und nachvollziehbar. Die Wechselkursberechnungen sind beispielhaft (klar als solche erkennbar) und enthalten keine konkreten Steuer- oder",
       "pay_url": "https://buy.stripe.com/3cIbJ26w951h2I66wA2kx2j",
       "payment_link_id": "plink_1UVfbXJ5iOXkWb9VfsnZTpDs",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4624321111"
+      }
     },
     {
       "type": "ebook",
@@ -14878,96 +14887,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Video-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Petit Guide Pratique pour les Petits Propriétaires : Organiser et Gérer 1 à 5 Logements"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620878777"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Exam Countdown & Study Budget Planner"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620883804"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Family-Friendly Restaurant Success: 7 Simple Steps to Attract More Families and Boost Your Revenue"
-    },
-    {
-      "t": "2026-11-19T10:36:22",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4620883820"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-19T20:42:11",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
       "t": "2026-11-19T20:42:11",
       "eur": 0,
       "why": "Blog-Fehler: HTTP Error 402: Payment Required"
@@ -15881,6 +15800,96 @@
       "t": "2026-11-23T14:47:22",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4623869565"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Prüfungsvorbereitungs-Budget & Lernfortschritt Tracker"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4624321065"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: 7 Erfolgsstrategien für kleine Restaurants und Cafés: Mehr Gäste, mehr Umsatz"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4624327632"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Female Travel Packing List & Budget Tracker - 2026 Pro Edition"
+    },
+    {
+      "t": "2026-11-24T02:55:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4624321111"
     }
   ],
   "alive": true,
