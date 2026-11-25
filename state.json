@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 373.7448,
-  "spent_eur": 130.9256,
+  "balance_eur": 373.1748,
+  "spent_eur": 131.4956,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10826,7 +10826,10 @@
       "audit_note": "Die Prozentzahl '30%' wirkt erfunden, da keine Quelle angegeben ist. Der Rest des Inhalts ist jedoch plausibel und regelkonform. Die Sprache ist durchgehend Französisch, es gibt keine Platzhalter oder offensichtlichen sachlichen Fehler. Die Inhalte sind praktische Tipps ohne Gesundheitsversprechen o",
       "pay_url": "https://buy.stripe.com/7sY3cw9IleBR4QecUY2kx2q",
       "payment_link_id": "plink_1UVtJWJ5iOXkWb9VK5PkXHXL",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4625342298"
+      }
     },
     {
       "type": "excel",
@@ -10850,7 +10853,10 @@
       "audit_note": "Produkt erfüllt alle Kriterien: Keine erfundenen Zahlen, Studien oder falsche Behauptungen. Angaben zur Steuerabzugsfähigkeit sind allgemein gehalten und nicht als Beratung zu verstehen. Formeln funktionieren korrekt mit den Beispieldaten.",
       "pay_url": "https://buy.stripe.com/bJebJ22fT79p1E2bQU2kx2r",
       "payment_link_id": "plink_1UVzJ3J5iOXkWb9Vg8aNFzvK",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4625342332"
+      }
     },
     {
       "type": "ebook",
@@ -10874,7 +10880,10 @@
       "audit_note": "The content adheres to the guidelines, providing general advice without specific invented statistics or percentages. The language is clear and professional, focusing on practical steps for freelancers to improve client communication.",
       "pay_url": "https://buy.stripe.com/6oUaEY4o13XdeqO1cg2kx2s",
       "payment_link_id": "plink_1UVzJ4J5iOXkWb9VIOoq2H8r",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4625342360"
+      }
     },
     {
       "type": "excel",
@@ -14905,96 +14914,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-20T12:58:12",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4621711891"
-    },
-    {
-      "t": "2026-11-20T12:58:12",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 7 Pasos Clave para un Huerto Autosuficiente en Casa"
-    },
-    {
-      "t": "2026-11-20T12:58:12",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4621719266"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-20T21:50:39",
-      "eur": 0,
-      "why": "Video-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
       "t": "2026-11-21T03:14:38",
       "eur": 0,
       "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
@@ -15908,6 +15827,96 @@
       "t": "2026-11-25T00:48:21",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4625037475"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Guide Pratique pour Enseignants: 7 Stratégies Simples pour Gagner du Temps et Améliorer Vos Cours"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4625342298"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Senior Care Medication & Expense Tracker"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4625342332"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: The Freelancer's Guide to Stress-Free Client Communication: 7 Simple Steps to Build Trust & Avoid Misunderstandings"
+    },
+    {
+      "t": "2026-11-25T11:22:08",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4625342360"
     }
   ],
   "alive": true,
