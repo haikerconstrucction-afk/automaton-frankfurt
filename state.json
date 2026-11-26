@@ -1,7 +1,7 @@
 {
   "born": "2026-09-26T11:58:00",
-  "balance_eur": 373.1748,
-  "spent_eur": 131.4956,
+  "balance_eur": 372.6048,
+  "spent_eur": 132.0656,
   "revenue_eur": 4.67,
   "phase": 1,
   "phase_started": "2026-10-26T15:14:29",
@@ -10907,7 +10907,10 @@
       "audit_note": "Das Produkt enthält keine erfunden Studien, Statistiken, Prozentzahlen oder Zitate. Die Sprache ist durchgehend deutsch und klar, keine Platzhalter oder unfertigen Texte. Die Formeln und Tabellen sind sinnvoll und plausibel. Kleinere Schwächen in der Präzision der Währungsumrechnungen, aber insgesam",
       "pay_url": "https://buy.stripe.com/eVqaEYcUx2T9fuS7AE2kx2t",
       "payment_link_id": "plink_1UVzJ5J5iOXkWb9VJsMesl2p",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4625924542"
+      }
     },
     {
       "type": "ebook",
@@ -10931,7 +10934,10 @@
       "audit_note": "Keine klaren Regelverstöße festgestellt. Der Inhalt besteht aus praktischen Reisetipps und allgemein bekannten Informationen ohne erfundene Studien, Statistiken oder unzulässige Behauptungen. Der Text ist inhaltlich korrekt und entspricht den Regeln.",
       "pay_url": "https://buy.stripe.com/8x2dRa7AdalB2I69IM2kx2u",
       "payment_link_id": "plink_1UW3NTJ5iOXkWb9VXlxdGYIY",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4625924560"
+      }
     },
     {
       "type": "excel",
@@ -10955,7 +10961,10 @@
       "audit_note": "Das Produkt hält sich an die Regeln. Es enthält keine erfundenen Studien, Statistiken oder Quellen. Alle Zahlen sind beispielhaft oder basieren auf automatischen Berechnungen. Die Empfehlungen sind allgemein und nicht als Fakten dargestellt. Keine Rechts-, Steuer-, Finanz- oder Medizinberatung erken",
       "pay_url": "https://buy.stripe.com/3cI4gA3jX1P5fuS7AE2kx2v",
       "payment_link_id": "plink_1UW3NUJ5iOXkWb9Vp3aR6jZs",
-      "site": "https://haiktec.tech"
+      "site": "https://haiktec.tech",
+      "channels": {
+        "etsy": "https://www.etsy.com/listing/4625924582"
+      }
     },
     {
       "type": "ebook",
@@ -14914,156 +14923,6 @@
   ],
   "log": [
     {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Video-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: YouTube广告收入与成本追踪器"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622208299"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: 高效课堂管理：7个简单策略提升教学效果"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622208325"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Suivi des Dépenses de Soins & Budget pour Personnes Âgées"
-    },
-    {
-      "t": "2026-11-21T03:14:38",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622208339"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Video-Fehler: HTTP Error 402: Payment Required"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Guide Pratique du Freelance: 7 Étapes pour Organiser et Booster Votre Activité"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": 0,
-      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622426284"
-    },
-    {
-      "t": "2026-11-21T12:42:39",
-      "eur": -0.19,
-      "why": "etsy-Einstellgebuehr: Ultimate Black Forest Travel Budget & Expense Tracker for Families"
-    },
-    {
       "t": "2026-11-21T12:42:39",
       "eur": 0,
       "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4622426306"
@@ -15977,6 +15836,96 @@
       "t": "2026-11-25T21:45:45",
       "eur": 0,
       "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 1): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 2): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 3): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 4): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 5): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 6): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Fehler (Versuch 7): HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Stripe-Fehler zhi-neng-de-guo-lai-yin-he-yu-hai-de-bao-lü-xing-zhi-nan: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Stripe-Fehler suivi-budget-planification-associations-bénévoles: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Stripe-Fehler schwarzwald-reisebudget-tracker-aktivitäten-planer: HTTP Error 400: Bad Request"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Blog-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Video-Fehler: HTTP Error 402: Payment Required"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate Schwarzwald Reisebudget- & Aktivitäten-Tracker für internationale Gäste"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4625924542"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Entdecke das Saarland & die Mosel: 7 versteckte Juwelen für unvergessliche Ausflüge"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4625924560"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": -0.19,
+      "why": "etsy-Einstellgebuehr: Ultimate NRW City Trip Budget Tracker & Itinerary Planner for Women"
+    },
+    {
+      "t": "2026-11-26T04:10:53",
+      "eur": 0,
+      "why": "Auf etsy eingestellt: https://www.etsy.com/listing/4625924582"
     }
   ],
   "alive": true,
